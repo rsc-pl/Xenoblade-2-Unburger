@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102106_msg0001",
+      "style": 84,
+      "name": "Ah, there you are..."
+    },
+    {
+      "$id": 2,
+      "label": "qst102106_msg0002",
+      "style": 84,
+      "name": "This is just a formality, but...\nare you sure you got them all?"
+    },
+    {
+      "$id": 3,
+      "label": "qst102106_msg0003",
+      "style": 165,
+      "name": "(What should I say?)"
+    },
+    {
+      "$id": 4,
+      "label": "qst102106_msg0004",
+      "style": 165,
+      "name": "We got all 12."
+    },
+    {
+      "$id": 5,
+      "label": "qst102106_msg0005",
+      "style": 165,
+      "name": "Apparently."
+    },
+    {
+      "$id": 6,
+      "label": "qst102106_msg0101",
+      "style": 84,
+      "name": "I will take you at your word."
+    },
+    {
+      "$id": 7,
+      "label": "qst102106_msg0151",
+      "style": 84,
+      "name": "Apparently?"
+    },
+    {
+      "$id": 8,
+      "label": "qst102106_msg0152",
+      "style": 84,
+      "name": "So Juddit got less,\nand Arthem got more."
+    },
+    {
+      "$id": 9,
+      "label": "qst102106_msg0153",
+      "style": 84,
+      "name": "The numbers seem to add up\nat least, but..."
+    },
+    {
+      "$id": 10,
+      "label": "qst102106_msg0201",
+      "style": 84,
+      "name": "More of those Spike Urchon\nhave appeared near the village."
+    },
+    {
+      "$id": 11,
+      "label": "qst102106_msg0202",
+      "style": 84,
+      "name": "I don't know if it's because someone\ndidn't do their job...or they bred more\nthan we anticipated..."
+    },
+    {
+      "$id": 12,
+      "label": "qst102106_msg0203",
+      "style": 84,
+      "name": "Thanks. I really appreciate it."
+    },
+    {
+      "$id": 13,
+      "label": "qst102106_msg0204",
+      "style": 84,
+      "name": "We'll look into the reason later.\nFor now, go and cull the herd!"
+    }
+  ]
+}

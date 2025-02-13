@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310185_02_msg0001",
+      "style": 84,
+      "name": "This is Teos Aure, the capital of Luxuria."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310185_02_msg0002",
+      "style": 84,
+      "name": "By order of the King, permission is no\nlonger required to enter."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310185_02_msg0003",
+      "style": 84,
+      "name": "Please, proceed.\n... Long may Teos Aure thrive!"
+    }
+  ]
+}

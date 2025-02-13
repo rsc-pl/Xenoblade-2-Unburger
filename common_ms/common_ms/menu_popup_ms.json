@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 16,
+      "name": "Effect expired."
+    },
+    {
+      "$id": 2,
+      "style": 16,
+      "name": "Replenished."
+    },
+    {
+      "$id": 3,
+      "style": 16,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 4,
+      "style": 16,
+      "name": "New Merc Mission!"
+    },
+    {
+      "$id": 5,
+      "style": 16,
+      "name": "Merc Group returned."
+    },
+    {
+      "$id": 6,
+      "style": 16,
+      "name": "Bravery Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 7,
+      "style": 16,
+      "name": "Truth Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 8,
+      "style": 16,
+      "name": "Compassion Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 9,
+      "style": 16,
+      "name": "Justice Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 10,
+      "style": 16,
+      "name": "Development Lv [ML:number digit=2 ]"
+    }
+  ]
+}

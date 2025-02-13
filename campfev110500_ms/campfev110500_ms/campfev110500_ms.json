@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_0500_msg0001",
+      "style": 84,
+      "name": "ヤジカの港から定期船に乗る前に\nエーテル瘴気の対処をしなきゃね"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_0500_msg0002",
+      "style": 84,
+      "name": "カスミ　よろしくね"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_0500_msg0003",
+      "style": 84,
+      "name": "はい！\nお任せください！"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_0500_msg0004",
+      "style": 84,
+      "name": "まったく[ML:Dash ]\nおせっかいね"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_0500_msg0005",
+      "style": 84,
+      "name": "いずれ誰かが困るのならば\n早めに手を打っておいた方がいいだろう？"
+    },
+    {
+      "$id": 6,
+      "label": "campfev11_0500_msg0006",
+      "style": 84,
+      "name": "それはそうだけど[ML:Dash ]"
+    },
+    {
+      "$id": 7,
+      "label": "campfev11_0500_msg0007",
+      "style": 84,
+      "name": "ま　カスミのエーテルを操る力にも\n興味はあるし　付き合うわ"
+    },
+    {
+      "$id": 8,
+      "label": "campfev11_0500_msg0008",
+      "style": 84,
+      "name": "頼りにしてるぞ　ヒカリ"
+    },
+    {
+      "$id": 9,
+      "label": "campfev11_0500_msg0009",
+      "style": 84,
+      "name": "はいはい[ML:Dash ]"
+    }
+  ]
+}

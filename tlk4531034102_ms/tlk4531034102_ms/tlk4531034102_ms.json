@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310341_02_msg0001",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries take on\njobs anywhere in Alst."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310341_02_msg0002",
+      "style": 84,
+      "name": "Me and my sister joined up after\nVandham saved our asses on a\nmission one time."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310341_02_msg0003",
+      "style": 84,
+      "name": "I still haven't come close to paying\nhim back for that..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310341_02_msg0004",
+      "style": 84,
+      "name": "Never dreamed he'd be gone\nbefore I got the chance."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310341_02_msg0005",
+      "style": 84,
+      "name": "Zuo and Yew are working hard to pick\nup the slack, but who knows what'll\nbecome of the Hræsvelgr Mercenaries..."
+    }
+  ]
+}

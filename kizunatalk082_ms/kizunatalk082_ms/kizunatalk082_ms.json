@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk082_msg0001",
+      "style": 84,
+      "name": "Oh, how splendid."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk082_msg0002",
+      "style": 84,
+      "name": "Will you take a look at that view!\nThat's quite some natural beauty,\nright there."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk082_msg0003",
+      "style": 84,
+      "name": "Yeah, I can't imagine seeing a view\nquite like this anywhere else."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk082_msg0004",
+      "style": 84,
+      "name": "Yeah, you don't see a view like this\nevery day, that's for sure."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk082_msg0005",
+      "style": 84,
+      "name": "I quite agree. A view this beautiful\nis a rare and remarkable sight."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk082_msg0006",
+      "style": 84,
+      "name": "Yep, it's a rare sight all right. You don't\nsee a view like this just anywhere."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk082_msg0007",
+      "style": 84,
+      "name": "I'm a little surprised you appreciate\nthis kind of beauty though, Tsuki."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk082_msg0008",
+      "style": 84,
+      "name": "I thought you liked things\na little more...flashy."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk082_msg0009",
+      "style": 84,
+      "name": "Ohoho... You're sharp, Kagutsuchi, hon,\nbut not sharp enough."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk082_msg0010",
+      "style": 84,
+      "name": "Sure, I'm a big fan of extravagant\nbeauty, but there's somethin' extra\nspecial about the beauty o' nature."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk082_msg0012",
+      "style": 84,
+      "name": "The beauty of nature?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk082_msg0013",
+      "style": 84,
+      "name": "You mean, things are more beautiful\nin their natural state?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk082_msg0014",
+      "style": 84,
+      "name": "Pretty much. If you can be beautiful\nwithout even tryin'..."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk082_msg0015",
+      "style": 84,
+      "name": "Ain't that just the purest beauty of all?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk082_msg0016",
+      "style": 84,
+      "name": "Hmm... Is that right?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk082_msg0025",
+      "style": 84,
+      "name": "I mean, look at Hana. Does she put\nany effort into how she looks? Naw.\nBut she's still a total sweetheart."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk082_msg0026",
+      "style": 84,
+      "name": "I suppose that's true."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk082_msg0027",
+      "style": 84,
+      "name": "There's any number o' ways to\nspruce yourself up an' make\nyourself look beautiful."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk082_msg0028",
+      "style": 84,
+      "name": "But that's just smoke an' mirrors.\nMaking the surface look good while\nignoring what's underneath."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk082_msg0030",
+      "style": 84,
+      "name": "So I figure real beauty is the stuff that\nhappens naturally, without any o' that."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk082_msg0036",
+      "style": 165,
+      "name": "What should I say to Tsuki?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk082_msg0037",
+      "style": 164,
+      "name": "Either way, you're pretty beautiful."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk082_msg0038",
+      "style": 164,
+      "name": "Why is nature so important to you?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk082_msg0039",
+      "style": 165,
+      "name": "What should I say to Tsuki?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk082_msg0040",
+      "style": 164,
+      "name": "You're pretty beautiful anyway, though."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk082_msg0041",
+      "style": 164,
+      "name": "Why're you so keen on nature?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk082_msg0042",
+      "style": 165,
+      "name": "What should I say to Tsuki?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk082_msg0043",
+      "style": 164,
+      "name": "You seem quite beautiful, in any case."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk082_msg0044",
+      "style": 164,
+      "name": "Why are you so concerned with nature?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk082_msg0045",
+      "style": 165,
+      "name": "What should I say to Tsuki?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk082_msg0046",
+      "style": 164,
+      "name": "Either way, you're a stunner."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk082_msg0047",
+      "style": 164,
+      "name": "Why're you so crazy about nature?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk082_msg0101",
+      "style": 84,
+      "name": "Why, thank you, hon!\nBut I've still got a long way to go."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk082_msg0102",
+      "style": 84,
+      "name": "Like I said before, it's not enough to\njust look good on the outside."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk082_msg0103",
+      "style": 84,
+      "name": "Like, say if I was to scarf down\nall your breakfasts by myself,\nwould you think I was beautiful then?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk082_msg0104",
+      "style": 84,
+      "name": "Or if I ran away in the middle of battle,\nleavin' my Driver behind."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk082_msg0105",
+      "style": 84,
+      "name": "To be really beautiful, you've gotta\nstart from what's inside."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk082_msg0106",
+      "style": 84,
+      "name": "The beauty that flows forth naturally\nfrom a person, both inside and out...\nThat's what I'm strivin' for."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk082_msg0107",
+      "style": 84,
+      "name": "That's why my goal is to never\nhide behind decorations an'\nalways show my true self."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk082_msg0108",
+      "style": 84,
+      "name": "Oh, that makes sense. That's a\npretty cool philosophy to live by."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk082_msg0109",
+      "style": 84,
+      "name": "Oh, I get it. Pretty neat philosophy\nto live by, I guess."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk082_msg0110",
+      "style": 84,
+      "name": "Interesting. I feel this philosophy\ncaptures your essence quite well."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk082_msg0111",
+      "style": 84,
+      "name": "Oh right, I get it. Yeah, that's not\na bad philosophy to live by."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk082_msg0112",
+      "style": 84,
+      "name": "Then maybe you'd like to join me, hon?\nWe can better our true selves together!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk082_msg0201",
+      "style": 84,
+      "name": "Keen on nature, huh?\nI never really thought about it,\nbut I guess you could say I am."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk082_msg0202",
+      "style": 84,
+      "name": "I mean, you humans age as the\nyears go by, right?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk082_msg0203",
+      "style": 84,
+      "name": "Gals especially tend to really hate that,\nfeelin' like it's just makin' them uglier,\nbut me, I think it's a beautiful thing."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk082_msg0204",
+      "style": 84,
+      "name": "An aging body's a sign of the long life\nyou've lived, and a mark of all the\nexperiences you've been through, right?"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk082_msg0205",
+      "style": 84,
+      "name": "So I figure that's a unique form\no' natural beauty, too."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk082_msg0206",
+      "style": 84,
+      "name": "So it's like...a human life itself is a\nwork of art created by nature?"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk082_msg0207",
+      "style": 84,
+      "name": "That's a pretty cool philosophy."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk082_msg0208",
+      "style": 84,
+      "name": "So what, each human life is another\none of nature's works of art?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk082_msg0209",
+      "style": 84,
+      "name": "Pretty neat way of looking at it."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk082_msg0210",
+      "style": 84,
+      "name": "So each human life is a work of art\ncreated by the bounty of nature?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk082_msg0211",
+      "style": 84,
+      "name": "That's an admirable way of putting it."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk082_msg0212",
+      "style": 84,
+      "name": "Oh, I get it. So like, each human life\nis one of nature's works of art?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk082_msg0213",
+      "style": 84,
+      "name": "Pretty classy way of looking at it."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk082_msg0214",
+      "style": 84,
+      "name": "Bein' a Blade, I wasn't born from\nnature like you humans are."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk082_msg0215",
+      "style": 84,
+      "name": "I came into the world lookin' this way,\nand when my Driver dies, I'll disappear\nlookin' just the same."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk082_msg0216",
+      "style": 84,
+      "name": "Us Blades never change, and we\nfade away all too suddenly."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk082_msg0217",
+      "style": 84,
+      "name": "I guess that's why I kind of admire\nthe natural, fleeting beauty you humans\nhave."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk082_msg0218",
+      "style": 84,
+      "name": "I'm glad you're my Driver, hon.\nI can already imagine how gracefully\nyou'll age over the years."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk082_msg0219",
+      "style": 84,
+      "name": "I almost can't wait to see it! Hahaha."
+    }
+  ]
+}

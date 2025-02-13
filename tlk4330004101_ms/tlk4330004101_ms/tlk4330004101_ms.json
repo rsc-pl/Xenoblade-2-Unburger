@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300041_01_msg0001",
+      "style": 84,
+      "name": "Hey, welcome!\nWe've got some Gromrice delicacies,\nfreshly made just for you!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300041_01_msg0004",
+      "style": 84,
+      "name": "Hey there, owner!\nWe've got some Gromrice delicacies,\nfreshly made just for you!"
+    }
+  ]
+}

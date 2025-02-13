@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45600551_02_msg0001",
+      "style": 84,
+      "name": "All sorts of different goods pass\nthrough here into the city."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45600551_02_msg0002",
+      "style": 84,
+      "name": "The soldiers carry out inspections\noccasionally, but they don't have time\nto check everything."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45600551_02_msg0003",
+      "style": 84,
+      "name": "If something dodgy was mixed in\namong the rest, chances are nobody\nwould ever find out."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45600551_02_msg0004",
+      "style": 84,
+      "name": "'Course, most of the stuff here comes\nfrom Gula, so it's totally safe."
+    }
+  ]
+}

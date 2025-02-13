@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06480100_0010",
+      "style": 82,
+      "name": "My Prince, look over there."
+    },
+    {
+      "$id": 2,
+      "label": "bf06480100_0020",
+      "style": 82,
+      "name": "Would you look at that. I guess we've arrived."
+    },
+    {
+      "$id": 3,
+      "label": "bf06480100_0030",
+      "style": 82,
+      "name": "Whoa, it looks way older than the palace..."
+    },
+    {
+      "$id": 4,
+      "label": "bf06480100_0040",
+      "style": 82,
+      "name": "Yes, it seems untouched by the ravages of time..."
+    }
+  ]
+}

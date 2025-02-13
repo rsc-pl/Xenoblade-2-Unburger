@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103912_msg0001",
+      "style": 84,
+      "name": "You want rent boat to set up\nregular shipping service?"
+    },
+    {
+      "$id": 2,
+      "label": "qst103912_msg0002",
+      "style": 84,
+      "name": "From Avaritia to Iyasaki?"
+    },
+    {
+      "$id": 3,
+      "label": "qst103912_msg0003",
+      "style": 84,
+      "name": "That very impressive goal!\nUmon will lend boat."
+    },
+    {
+      "$id": 4,
+      "label": "qst103912_msg0004",
+      "style": 84,
+      "name": "...Obviously not for free.\nInitial cost 2,000G."
+    },
+    {
+      "$id": 5,
+      "label": "qst103912_msg0021",
+      "style": 84,
+      "name": "OK, 2,000G received."
+    },
+    {
+      "$id": 6,
+      "label": "qst103912_msg0022",
+      "style": 84,
+      "name": "Umon will send ship to\nAvaritia Trade Guild."
+    },
+    {
+      "$id": 7,
+      "label": "qst103912_msg0023",
+      "style": 84,
+      "name": "Remember, if you break it,\nthen you pay for it!"
+    },
+    {
+      "$id": 8,
+      "label": "qst103912_msg0024",
+      "style": 84,
+      "name": "Looks like friends are in for long\njourney, so please extra careful."
+    },
+    {
+      "$id": 9,
+      "label": "qst103912_msg0041",
+      "style": 84,
+      "name": "No money, no ship lendy!"
+    },
+    {
+      "$id": 10,
+      "label": "qst103912_msg0071",
+      "style": 84,
+      "name": "Initial fee for lend\nboat is 2,000G."
+    },
+    {
+      "$id": 11,
+      "label": "qst103912_msg0072",
+      "style": 165,
+      "name": "Pay 2,000G?"
+    },
+    {
+      "$id": 12,
+      "label": "qst103912_msg0073",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 13,
+      "label": "qst103912_msg0074",
+      "style": 165,
+      "name": "Don't pay"
+    }
+  ]
+}

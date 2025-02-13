@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000024_msg0001",
+      "style": 84,
+      "name": "I imagine you must have been\nthrough much."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000024_msg0002",
+      "style": 84,
+      "name": "I was surprised to see how much\nyou had all grown since our\nencounter in Trigo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000024_msg0003",
+      "style": 84,
+      "name": "You fought splendidly as allies,\nas well... Perhaps you are beginning to\ntruly make the Holy Grail's power your own."
+    }
+  ]
+}

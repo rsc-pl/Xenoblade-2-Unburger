@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk501801_msg0001",
+      "style": 84,
+      "name": "Ladies and gentlepon, auction\nof today soon beginning!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk501801_msg0002",
+      "style": 84,
+      "name": "Anyone who not yet register for\nauction, please sign up quick-quick!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk501801_msg0003",
+      "style": 84,
+      "name": "All participating must bring minimum\nof 30,000G! This absolute rule!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk501801_msg0004",
+      "style": 84,
+      "name": "Anyone not having enough golds not\nallowed to take part! Would not be\nable to win bidding anyway."
+    },
+    {
+      "$id": 5,
+      "label": "tlk501801_msg0005",
+      "style": 84,
+      "name": "Looks like friends have enough gold.\nNow must decide group representative\nfor bidding."
+    },
+    {
+      "$id": 6,
+      "label": "tlk501801_msg0006",
+      "style": 84,
+      "name": "Many antique books in auction today,\nso suggest friends bring someone who\nlike that kind of thing."
+    },
+    {
+      "$id": 7,
+      "label": "tlk501801_msg0007",
+      "style": 84,
+      "name": "If friends not have someone who want\nto obtain books at any cost, really no\npoint in taking part!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk501801_msg0008",
+      "style": 84,
+      "name": "Meh-meh? Me spy budding bidder\nwith shiny glint in eye."
+    },
+    {
+      "$id": 9,
+      "label": "tlk501801_msg0009",
+      "style": 84,
+      "name": "Maybe today be very good auction!"
+    }
+  ]
+}

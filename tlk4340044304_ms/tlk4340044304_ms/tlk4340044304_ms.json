@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400443_04_msg0001",
+      "style": 84,
+      "name": "Since the refugees from Acedia arrived\nlife's been pretty tough..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400443_04_msg0002",
+      "style": 84,
+      "name": "But things have gotten a bit better\nthanks to you and your friends."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400443_04_msg0003",
+      "style": 84,
+      "name": "It should have been the nobles' job\nto sort it all out... But you picked\nup the slack when they failed us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400443_04_msg0004",
+      "style": 84,
+      "name": "Thank you for your help. Me, my\nchildren...we're all ever so grateful."
+    }
+  ]
+}

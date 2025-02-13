@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301001_01_msg0001",
+      "style": 84,
+      "name": "I bet you'll be needing my help\nany moment now, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301001_01_msg0002",
+      "style": 84,
+      "name": "You can call me any time, you know!\nI'll be right there in a jiffy!"
+    }
+  ]
+}

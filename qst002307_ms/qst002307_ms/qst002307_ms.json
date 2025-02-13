@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002307_msg0001",
+      "style": 84,
+      "name": "How many guards are there\nhere at night?"
+    },
+    {
+      "$id": 2,
+      "label": "qst002307_msg0002",
+      "style": 84,
+      "name": "Uh, I can't say I know exactly."
+    },
+    {
+      "$id": 3,
+      "label": "qst002307_msg0003",
+      "style": 84,
+      "name": "That's a weird thing to be asking\naround about, though."
+    },
+    {
+      "$id": 4,
+      "label": "qst002307_msg0004",
+      "style": 84,
+      "name": "What kind of article is that for exactly?\nI'm pretty curious to read it now!"
+    }
+  ]
+}

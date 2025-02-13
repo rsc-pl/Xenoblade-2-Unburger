@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101801_msg001",
+      "style": 62,
+      "name": "LIST_QST101801の仮実装"
+    },
+    {
+      "$id": 2,
+      "label": "qst101801_msg002",
+      "style": 62,
+      "name": "ノポンがエネミーに襲われ――\n襲われている？\nとりあえず倒そう"
+    },
+    {
+      "$id": 3,
+      "label": "qst101801_msg0001",
+      "style": 84,
+      "name": "Meh-meh! This is...Thank-You Statue!"
+    },
+    {
+      "$id": 4,
+      "label": "qst101801_msg0002",
+      "style": 84,
+      "name": "Must give thanks!\nThank you, Thank-You Statue!"
+    },
+    {
+      "$id": 5,
+      "label": "qst101801_msg0003",
+      "style": 84,
+      "name": "Grampypon always say good to give\ntasty treats to Thank-You Statue."
+    },
+    {
+      "$id": 6,
+      "label": "qst101801_msg0004",
+      "style": 84,
+      "name": "Here, Thank-You Statue..."
+    }
+  ]
+}

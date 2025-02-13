@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500142_05_msg0001",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries really seem\nto have recovered splendidly. I hear\nword of them even around these parts."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500142_05_msg0002",
+      "style": 84,
+      "name": "Looks like you really have been\ntreading in Vandham's footsteps."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43500142_05_msg0003",
+      "style": 84,
+      "name": "You make the other Merc Groups\nlook bad. Still, it wouldn't hurt for\nthem to be a bit more proactive..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43500142_05_msg0004",
+      "style": 84,
+      "name": "Vandham's group started making a\nname for themselves back when I\nused to lead my own squad."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43500142_05_msg0005",
+      "style": 84,
+      "name": "That didn't sit well with me, so I tried\neverything I could to get in their way."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43500142_05_msg0006",
+      "style": 84,
+      "name": "Like dumping all my mushroom\nleftovers in a Hræsvelgr cave."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43500142_05_msg0007",
+      "style": 84,
+      "name": "Nobody does pranks like that any\nmore nowadays, you know.\nReal shame if you ask me..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170012701_msg0001",
+      "style": 84,
+      "name": "Thank you kindly for all your hard\nwork! I was able to create some\nfine furniture thanks to you!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170012701_msg0002",
+      "style": 84,
+      "name": "I don't think my esteemed customer\nfrom Superbia will have room to\ncomplain now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170012701_msg0003",
+      "style": 84,
+      "name": "My son's learned a valuable lesson,\ntoo. Not so flippant about his errand-\nrunning now, let me tell you!"
+    }
+  ]
+}

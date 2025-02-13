@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn069_msg001",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn069_msg002",
+      "style": 84,
+      "name": "What's up, Nanakoori?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn069_msg003",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn069_msg004",
+      "style": 84,
+      "name": "Do you want to say something?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn069_msg005",
+      "style": 84,
+      "name": "There's somewhere..."
+    },
+    {
+      "$id": 6,
+      "label": "kizunainn069_msg006",
+      "style": 84,
+      "name": "Somewhere?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunainn069_msg007",
+      "style": 84,
+      "name": "...Somewhere I'd like to go!\nCobalt Cliffs! If it's OK with you..."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf08010050_0010",
+      "style": 82,
+      "name": "It's quiet today, huh?"
+    },
+    {
+      "$id": 2,
+      "label": "bf08010050_0020",
+      "style": 82,
+      "name": "Mm."
+    },
+    {
+      "$id": 3,
+      "label": "bf08010050_0030",
+      "style": 82,
+      "name": "That bell...\nI think it was the sound of our heart."
+    },
+    {
+      "$id": 4,
+      "label": "bf08010050_0040",
+      "style": 82,
+      "name": "Has it stopped?"
+    },
+    {
+      "$id": 5,
+      "label": "bf08010050_0050",
+      "style": 82,
+      "name": "Mm...\nIt's stopped."
+    },
+    {
+      "$id": 6,
+      "label": "bf08010050_0060",
+      "style": 82,
+      "name": "But...\nSomething's still ringing out..."
+    },
+    {
+      "$id": 7,
+      "label": "bf08010050_0070",
+      "style": 82,
+      "name": "Yes!\nSo..."
+    },
+    {
+      "$id": 8,
+      "label": "bf08010050_0080",
+      "style": 82,
+      "name": "...So we have to go now."
+    },
+    {
+      "$id": 9,
+      "label": "bf08010050_0090",
+      "style": 82,
+      "name": "Together with Rex."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4750016502_msg0001",
+      "style": 84,
+      "name": "Hmm... Let me indulge you in\na story from years back."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4750016502_msg0002",
+      "style": 84,
+      "name": "I'm sure you're well aware of the\nstone monument at the village outskirts,\nour resident Village Guardian?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4750016502_msg0003",
+      "style": 84,
+      "name": "Beneath that lies the resting place of\nAdel."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4750016502_msg0004",
+      "style": 84,
+      "name": "It's his blessing that has protected us\nfrom strife and allowed us to live in\na state of peace and tranquility."
+    },
+    {
+      "$id": 5,
+      "label": "tlk4750016502_msg0005",
+      "style": 84,
+      "name": "The King of Luxuria claims to have\nbeen descended from Adel, but in\nactual fact, he's not blood-related."
+    },
+    {
+      "$id": 6,
+      "label": "tlk4750016502_msg0006",
+      "style": 84,
+      "name": "What?! You already knew that?\nWell, you're more versed in the ways\nof the world than this old geezer..."
+    }
+  ]
+}

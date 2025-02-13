@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400011_03_msg0001",
+      "style": 84,
+      "name": "Erm... Not sure if friends know, but..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400011_03_msg0002",
+      "style": 84,
+      "name": "As Avaritia develop and Merc Group\nmissions completed, more stock\nbecome available in shops!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400011_03_msg0003",
+      "style": 84,
+      "name": "And if you buy all items in shop,\nyou get special Owner privilege!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400011_03_msg0004",
+      "style": 84,
+      "name": "Becoming Owner even give you perks,\nlike being able to hold lots of items!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42400011_03_msg0005",
+      "style": 84,
+      "name": "That what boyfriend of Etoto say,\nanyway!"
+    }
+  ]
+}

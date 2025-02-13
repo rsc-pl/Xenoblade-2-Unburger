@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002203_msg0001",
+      "style": 84,
+      "name": "What? You want to know about\nMellica?"
+    },
+    {
+      "$id": 2,
+      "label": "qst002203_msg0002",
+      "style": 84,
+      "name": "She joined the Choir of Acedia\nrecently, you know!"
+    },
+    {
+      "$id": 3,
+      "label": "qst002203_msg0003",
+      "style": 84,
+      "name": "She was the only one in this whole\ncamp who passed the audition."
+    },
+    {
+      "$id": 4,
+      "label": "qst002203_msg0004",
+      "style": 84,
+      "name": "It's really prestigious to be\nin the Choir. Only the very best\nsingers are allowed to join!"
+    },
+    {
+      "$id": 5,
+      "label": "qst002203_msg0005",
+      "style": 84,
+      "name": "When you're in the Choir, you get to\nsing at official ceremonies, like when\nthey're moving the Divine Beast and stuff."
+    },
+    {
+      "$id": 6,
+      "label": "qst002203_msg0006",
+      "style": 84,
+      "name": "Is that all you wanted?\nSee you around, then!"
+    }
+  ]
+}

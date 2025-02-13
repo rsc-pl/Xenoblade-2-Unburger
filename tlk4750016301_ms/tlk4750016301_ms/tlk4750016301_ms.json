@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47500163_01_msg0001",
+      "style": 84,
+      "name": "My wife rests here. She passed away\nquietly, in her sleep. That was years\nago now..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47500163_01_msg0002",
+      "style": 84,
+      "name": "I think it's wonderful that she was able\nto live her entire life in the village she\nwas born."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47500163_01_msg0003",
+      "style": 84,
+      "name": "Nowadays, you've got all these wars\ngoing on. You never know when we\nmight get wrapped up in it all..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47500163_01_msg0004",
+      "style": 84,
+      "name": "Rex? Don't waste your life in vain, do\nyou hear? For Correl, and for your parents."
+    },
+    {
+      "$id": 5,
+      "label": "tlk47500163_01_msg0005",
+      "style": 84,
+      "name": "...Yeah. I promise."
+    }
+  ]
+}

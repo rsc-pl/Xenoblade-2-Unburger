@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001021_msg0011",
+      "style": 84,
+      "name": "Rex, it's about time for the meeting."
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001021_msg0012",
+      "style": 84,
+      "name": "The boss is waiting on the deck below.\nYou should hurry along there too."
+    }
+  ]
+}

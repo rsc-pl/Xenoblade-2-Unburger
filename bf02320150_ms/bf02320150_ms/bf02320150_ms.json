@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02320150_0010",
+      "style": 82,
+      "name": "Byakko, we don't have much time.\nDo you know where Nia is?"
+    },
+    {
+      "$id": 2,
+      "label": "bf02320150_0020",
+      "style": 82,
+      "name": "But of course. We are in resonance after all.\nI feel her presence."
+    },
+    {
+      "$id": 3,
+      "label": "bf02320150_0030",
+      "style": 82,
+      "name": "Then let's go! We can't let\nher get executed!"
+    },
+    {
+      "$id": 4,
+      "label": "bf02320150_0040",
+      "style": 82,
+      "name": "Indeed. This way!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00230103_msg0001",
+      "style": 84,
+      "name": "Never let down your guard. Mercs\nare always treading a thin line."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00230103_msg0002",
+      "style": 84,
+      "name": "Vandham was always ready to give\nup his life for the cause. Same goes\nfor his followers, and me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00230103_msg0003",
+      "style": 84,
+      "name": "But Ion... She's shaken up something\nbad. One minute he's there and the\nnext he's not..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00230103_msg0004",
+      "style": 84,
+      "name": "That's a wound that's gonna take\na long time to heal..."
+    }
+  ]
+}

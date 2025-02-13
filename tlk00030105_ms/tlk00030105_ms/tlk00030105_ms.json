@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030105_msg0001",
+      "style": 84,
+      "name": "Well, well, well! Me pleased to see you\nhave returned. Unharmed, no less!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030105_msg0002",
+      "style": 84,
+      "name": "Me thought you sunk along with ancient\nvessel, but this very pleasant surprise!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030105_msg0003",
+      "style": 84,
+      "name": "Rex, you have earned Bahn's favor.\nWould be most propitious to have\nyou continue line of work!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00030105_msg0101",
+      "style": 84,
+      "name": "Oh, busy busy Bahn... Bahn's plans\ngone a little bit awry... Back to Bahn's\ndrawing board!"
+    }
+  ]
+}

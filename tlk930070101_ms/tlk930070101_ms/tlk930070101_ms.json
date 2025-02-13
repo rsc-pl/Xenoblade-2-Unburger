@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300701_01_msg0001",
+      "style": 84,
+      "name": "There's nothing left for me to eat here..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300701_01_msg0002",
+      "style": 84,
+      "name": "I want to go out and search for\nnew things to eat!"
+    }
+  ]
+}

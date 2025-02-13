@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000023_msg0001",
+      "style": 84,
+      "name": "I must say, I never expected to be\ntraveling on the same vessel as the\nHoly Grail and her Driver."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000023_msg0002",
+      "style": 84,
+      "name": "Worry not, I have no hostile intentions\ntowards you at present."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000023_msg0003",
+      "style": 84,
+      "name": "I have resolved to observe your journey\nand judge its worth for myself."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000507_msg0001",
+      "style": 84,
+      "name": "We've got nothing to talk about."
+    },
+    {
+      "$id": 2,
+      "label": "qst000507_msg0002",
+      "style": 84,
+      "name": "Get out of my face."
+    }
+  ]
+}

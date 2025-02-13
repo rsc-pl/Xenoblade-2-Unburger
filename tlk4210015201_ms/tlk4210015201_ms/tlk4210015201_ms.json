@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100152_01_msg0001",
+      "style": 84,
+      "name": "Yeeeugh! My fur's all sticky from the\nmachine oil!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100152_01_msg0002",
+      "style": 84,
+      "name": "All I did was squeeze through a gap\nin some thingamabob, and now I'm\na walking grease monster!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100152_01_msg0003",
+      "style": 84,
+      "name": "Now my beautiful glossy fur is reduced\nto horrible sticky clumps, and it smells\nsomething awful too!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100152_01_msg0004",
+      "style": 84,
+      "name": "Aww, thanks for the concern. But I'll\nbe fine. A quick dip in the hot springs\nand I'll be silky smooth again."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42100152_01_msg0005",
+      "style": 84,
+      "name": "It's so much fun swimming about in\nthere when there's no one around.\nJust don't tell the humans!"
+    }
+  ]
+}

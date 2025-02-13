@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44600184_04_msg0001",
+      "style": 84,
+      "name": "You're outlanders, are you?\nWe're getting more of you these days.\nGood call coming to the black market."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44600184_04_msg0002",
+      "style": 84,
+      "name": "This shop only opens at night, and\nsells all sorts of things you won't find\nthrough official shopping channels."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44600184_04_msg0003",
+      "style": 84,
+      "name": "The quality didn't used to be so good,\nbut thanks to all the foreign trade, the\nselection is actually quite decent now!"
+    }
+  ]
+}

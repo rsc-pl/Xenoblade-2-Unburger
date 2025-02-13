@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf11830100_0010",
+      "style": 82,
+      "name": "[ML:undisp ][ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "bf11830100_0020",
+      "style": 82,
+      "name": "サタヒコ"
+    },
+    {
+      "$id": 3,
+      "label": "bf11830100_0040",
+      "style": 82,
+      "name": "いや[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "bf11830100_0050",
+      "style": 82,
+      "name": "いやああああああっ"
+    }
+  ]
+}

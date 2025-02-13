@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320124_04_msg0001",
+      "style": 84,
+      "name": "Everyone in Trigo Relay Base, from\nthe veterans down to the new recruits\nis working their guts out."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320124_04_msg0002",
+      "style": 84,
+      "name": "All that training we put in is paying off."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320124_04_msg0003",
+      "style": 84,
+      "name": "Hope we'll be able to get through\nthis crisis and get back to training\nhard again."
+    }
+  ]
+}

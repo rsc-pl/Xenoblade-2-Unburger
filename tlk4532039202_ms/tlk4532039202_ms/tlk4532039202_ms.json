@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320392_02_msg0001",
+      "style": 84,
+      "name": "Much as I'd like to set up this\nDivine Beast weapon up for use in combat\nas soon as possible..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320392_02_msg0002",
+      "style": 84,
+      "name": "As you can see, we're critically\nshort on manpower, and this thing\nis extremely difficult to handle."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320392_02_msg0003",
+      "style": 84,
+      "name": "If we could at least get it moving,\njust sending it towards enemy lines\nwould be an effective strategy, but..."
+    }
+  ]
+}

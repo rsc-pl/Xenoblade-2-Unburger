@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07140100_0010",
+      "style": 82,
+      "name": "Ah, so that's the reason Shin agreed to her terms."
+    },
+    {
+      "$id": 2,
+      "label": "bf07140100_0020",
+      "style": 82,
+      "name": "He couldn't care less about the boy."
+    },
+    {
+      "$id": 3,
+      "label": "bf07140100_0030",
+      "style": 82,
+      "name": "But he wasn't about to lose this one.\nSimple as that."
+    }
+  ]
+}

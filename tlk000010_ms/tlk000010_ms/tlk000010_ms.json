@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000010_msg0001",
+      "style": 84,
+      "name": "Hello. To whom do I owe the pleasure?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000010_msg0002",
+      "style": 84,
+      "name": "Yes, we'd already received word from\nSpecial Inquisitor Meleph."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000010_msg0003",
+      "style": 84,
+      "name": "You've a lead on the artificial Blade,\nI hear?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000010_msg0004",
+      "style": 84,
+      "name": "Hold on, I'll pass you over to the\nSpecial Inquisitor herself."
+    }
+  ]
+}

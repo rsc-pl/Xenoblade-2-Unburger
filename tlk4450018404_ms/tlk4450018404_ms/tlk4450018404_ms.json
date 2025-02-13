@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500184_04_msg0001",
+      "style": 84,
+      "name": "Oh! You seem to know much about the\noutside world! May we talk?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500184_04_msg0002",
+      "style": 84,
+      "name": "It's about the Luxuria food supply\nproblem."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500184_04_msg0003",
+      "style": 84,
+      "name": "As you know, all Luxurian ether has\nbeen diverted to the creation of\nCore Chips."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500184_04_msg0004",
+      "style": 84,
+      "name": "This has turned the environment into\na snow desert making it impossible to\ngrow crops..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk44500184_04_msg0005",
+      "style": 84,
+      "name": "So if you could find some seeds that\ncan withstand the cold, we might be\nable to start growing again."
+    },
+    {
+      "$id": 6,
+      "label": "tlk44500184_04_msg0006",
+      "style": 84,
+      "name": "Oh! You'll take it on?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk44500184_04_msg0007",
+      "style": 84,
+      "name": "We may be able to bring back a little\npromise to Luxuria if you succeed."
+    }
+  ]
+}

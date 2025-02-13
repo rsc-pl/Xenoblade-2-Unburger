@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001901_03_msg0001",
+      "style": 84,
+      "name": "Oh, I almost forgot."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001901_03_msg0002",
+      "style": 84,
+      "name": "Homura-san asked me to teach her how to\nmake the village specialty, for when\nyou're on the road."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001901_03_msg0003",
+      "style": 84,
+      "name": "Here. I've written down the exact\namounts so she can cook up a quick\nmeal whenever you need."
+    }
+  ]
+}

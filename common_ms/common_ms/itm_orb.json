@@ -1,0 +1,3484 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Critical Up I"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Critical Up II"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Critical Up III"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Critical Up IV"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Critical Up V"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Physical Defense Up I"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Physical Defense Up II"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Physical Defense Up III"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Physical Defense Up IV"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Physical Defense Up V"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Ether Defense Up I"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Ether Defense Up II"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Ether Defense Up III"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Ether Defense Up IV"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Ether Defense Up V"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Block Rate Up I"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Block Rate Up II"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Block Rate Up III"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Block Rate Up IV"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Block Rate Up V"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Beast Hunter I"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Beast Hunter II"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Beast Hunter III"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Beast Hunter IV"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Beast Hunter V"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Insect Hunter I"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Insect Hunter II"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Insect Hunter III"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Insect Hunter IV"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Insect Hunter V"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Aerial Hunter I"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Aerial Hunter II"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Aerial Hunter III"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Aerial Hunter IV"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Aerial Hunter V"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Aquatic Hunter I"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Aquatic Hunter II"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Aquatic Hunter III"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Aquatic Hunter IV"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Aquatic Hunter V"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Humanoid Hunter I"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Humanoid Hunter II"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Humanoid Hunter III"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Humanoid Hunter IV"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Humanoid Hunter V"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Machine Hunter I"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Machine Hunter II"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Machine Hunter III"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Machine Hunter IV"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Machine Hunter V"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Divine Beast Hunter I"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Divine Beast Hunter II"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Divine Beast Hunter III"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Divine Beast Hunter IV"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Divine Beast Hunter V"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Blade Combo Boost I"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Blade Combo Boost II"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Blade Combo Boost III"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Blade Combo Boost IV"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Blade Combo Boost V"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Blade Combo Boost VI"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Fusion Combo Up I"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Fusion Combo Up II"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Fusion Combo Up III"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "Fusion Combo Up IV"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Fusion Combo Up V"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Ambush Boost I"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Ambush Boost II"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Ambush Boost III"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Ambush Boost IV"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Ambush Boost V"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Reflect Immunity"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Aggro Attack Up I"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Aggro Attack Up II"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Aggro Attack Up III"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Aggro Attack Up IV"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Aggro Attack Up V"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Indoor Attack Up I"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Indoor Attack Up II"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Indoor Attack Up III"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Indoor Attack Up IV"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Indoor Attack Up V"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Outdoor Attack Up I"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Outdoor Attack Up II"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Outdoor Attack Up III"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Outdoor Attack Up IV"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Outdoor Attack Up V"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Fire Def Up I"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Fire Def Up II"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Fire Def Up III"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Fire Def Up IV"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Fire Def Up V"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Water Def Up I"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Water Def Up II"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Water Def Up III"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Water Def Up IV"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Water Def Up V"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Earth Def Up I"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Earth Def Up II"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Earth Def Up III"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Earth Def Up IV"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Earth Def Up V"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Wind Def Up I"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Wind Def Up II"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Wind Def Up III"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Wind Def Up IV"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "Wind Def Up V"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "Electric Def Up I"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Electric Def Up II"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Electric Def Up III"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Electric Def Up IV"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Electric Def Up V"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Ice Def Up I"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Ice Def Up II"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Ice Def Up III"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Ice Def Up IV"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Ice Def Up V"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Dark Def Up I"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Dark Def Up II"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Dark Def Up III"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Dark Def Up IV"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Dark Def Up V"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Light Def Up I"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Light Def Up II"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Light Def Up III"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Light Def Up IV"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Light Def Up V"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Ultimate Shield"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Fire Absorb"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Water Absorb"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Earth Absorb"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Wind Absorb"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Electric Absorb"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Ice Absorb"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Dark Absorb"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Light Absorb"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Fire Reflect"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Water Reflect"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Earth Reflect"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Wind Reflect"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Electric Reflect"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Ice Reflect"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Dark Reflect"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Light Reflect"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Evasion Focus I"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Evasion Focus II"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Evasion Focus III"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Evasion Focus IV"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Evasion Focus V"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Swift Evasion I"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Swift Evasion II"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Swift Evasion III"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Swift Evasion IV"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Swift Evasion V"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Emergency Guard I"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Emergency Guard II"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "Emergency Guard III"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Emergency Guard IV"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Emergency Guard V"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Endurance I"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Endurance II"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Endurance III"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Endurance IV"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Endurance V"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "HP Attack Boost I"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "HP Attack Boost II"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "HP Attack Boost III"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "HP Attack Boost IV"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "HP Attack Boost V"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "Spike Defense I"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Spike Defense II"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Spike Defense III"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Spike Defense IV"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Spike Defense V"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Break Resist I"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Break Resist II"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "Break Resist III"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Break Resist IV"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Break Resist V"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "Topple Resist I"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "Topple Resist II"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Topple Resist III"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "Topple Resist IV"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Topple Resist V"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Launch Resist I"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Launch Resist II"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Launch Resist III"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Launch Resist IV"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Launch Resist V"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Smash Resist I"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Smash Resist II"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Smash Resist III"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Smash Resist IV"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Smash Resist V"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Blowdown Resist I"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Blowdown Resist II"
+    },
+    {
+      "$id": 197,
+      "style": 36,
+      "name": "Blowdown Resist III"
+    },
+    {
+      "$id": 198,
+      "style": 36,
+      "name": "Blowdown Resist IV"
+    },
+    {
+      "$id": 199,
+      "style": 36,
+      "name": "Blowdown Resist V"
+    },
+    {
+      "$id": 200,
+      "style": 36,
+      "name": "Knockback Resist I"
+    },
+    {
+      "$id": 201,
+      "style": 36,
+      "name": "Knockback Resist II"
+    },
+    {
+      "$id": 202,
+      "style": 36,
+      "name": "Knockback Resist III"
+    },
+    {
+      "$id": 203,
+      "style": 36,
+      "name": "Knockback Resist IV"
+    },
+    {
+      "$id": 204,
+      "style": 36,
+      "name": "Knockback Resist V"
+    },
+    {
+      "$id": 205,
+      "style": 36,
+      "name": "Annul Resist I"
+    },
+    {
+      "$id": 206,
+      "style": 36,
+      "name": "Annul Resist II"
+    },
+    {
+      "$id": 207,
+      "style": 36,
+      "name": "Annul Resist III"
+    },
+    {
+      "$id": 208,
+      "style": 36,
+      "name": "Annul Resist IV"
+    },
+    {
+      "$id": 209,
+      "style": 36,
+      "name": "Annul Resist V"
+    },
+    {
+      "$id": 210,
+      "style": 36,
+      "name": "Shackle Blade Resist I"
+    },
+    {
+      "$id": 211,
+      "style": 36,
+      "name": "Shackle Blade Resist II"
+    },
+    {
+      "$id": 212,
+      "style": 36,
+      "name": "Shackle Blade Resist III"
+    },
+    {
+      "$id": 213,
+      "style": 36,
+      "name": "Shackle Blade Resist IV"
+    },
+    {
+      "$id": 214,
+      "style": 36,
+      "name": "Shackle Blade Resist V"
+    },
+    {
+      "$id": 215,
+      "style": 36,
+      "name": "Auto-Attack Stealth I"
+    },
+    {
+      "$id": 216,
+      "style": 36,
+      "name": "Auto-Attack Stealth II"
+    },
+    {
+      "$id": 217,
+      "style": 36,
+      "name": "Auto-Attack Stealth III"
+    },
+    {
+      "$id": 218,
+      "style": 36,
+      "name": "Auto-Attack Stealth IV"
+    },
+    {
+      "$id": 219,
+      "style": 36,
+      "name": "Auto-Attack Stealth V"
+    },
+    {
+      "$id": 220,
+      "style": 36,
+      "name": "Aggro Boost I"
+    },
+    {
+      "$id": 221,
+      "style": 36,
+      "name": "Aggro Boost II"
+    },
+    {
+      "$id": 222,
+      "style": 36,
+      "name": "Aggro Boost III"
+    },
+    {
+      "$id": 223,
+      "style": 36,
+      "name": "Aggro Boost IV"
+    },
+    {
+      "$id": 224,
+      "style": 36,
+      "name": "Aggro Boost V"
+    },
+    {
+      "$id": 225,
+      "style": 36,
+      "name": "Arts Stealth I"
+    },
+    {
+      "$id": 226,
+      "style": 36,
+      "name": "Arts Stealth II"
+    },
+    {
+      "$id": 227,
+      "style": 36,
+      "name": "Arts Stealth III"
+    },
+    {
+      "$id": 228,
+      "style": 36,
+      "name": "Arts Stealth IV"
+    },
+    {
+      "$id": 229,
+      "style": 36,
+      "name": "Arts Stealth V"
+    },
+    {
+      "$id": 230,
+      "style": 36,
+      "name": "Arts Aggro Boost I"
+    },
+    {
+      "$id": 231,
+      "style": 36,
+      "name": "Arts Aggro Boost II"
+    },
+    {
+      "$id": 232,
+      "style": 36,
+      "name": "Arts Aggro Boost III"
+    },
+    {
+      "$id": 233,
+      "style": 36,
+      "name": "Arts Aggro Boost IV"
+    },
+    {
+      "$id": 234,
+      "style": 36,
+      "name": "Arts Aggro Boost V"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Arts Heal I"
+    },
+    {
+      "$id": 236,
+      "style": 36,
+      "name": "Arts Heal II"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Arts Heal III"
+    },
+    {
+      "$id": 238,
+      "style": 36,
+      "name": "Arts Heal IV"
+    },
+    {
+      "$id": 239,
+      "style": 36,
+      "name": "Arts Heal V"
+    },
+    {
+      "$id": 240,
+      "style": 36,
+      "name": "Movement Heal I"
+    },
+    {
+      "$id": 241,
+      "style": 36,
+      "name": "Movement Heal II"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "Movement Heal III"
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Movement Heal IV"
+    },
+    {
+      "$id": 244,
+      "style": 36,
+      "name": "Movement Heal V"
+    },
+    {
+      "$id": 245,
+      "style": 36,
+      "name": "Damage Heal I"
+    },
+    {
+      "$id": 246,
+      "style": 36,
+      "name": "Damage Heal II"
+    },
+    {
+      "$id": 247,
+      "style": 36,
+      "name": "Damage Heal III"
+    },
+    {
+      "$id": 248,
+      "style": 36,
+      "name": "Damage Heal IV"
+    },
+    {
+      "$id": 249,
+      "style": 36,
+      "name": "Damage Heal V"
+    },
+    {
+      "$id": 250,
+      "style": 36,
+      "name": "Night Vision I"
+    },
+    {
+      "$id": 251,
+      "style": 36,
+      "name": "Night Vision II"
+    },
+    {
+      "$id": 252,
+      "style": 36,
+      "name": "Night Vision III"
+    },
+    {
+      "$id": 253,
+      "style": 36,
+      "name": "Night Vision IV"
+    },
+    {
+      "$id": 254,
+      "style": 36,
+      "name": "Night Vision V"
+    },
+    {
+      "$id": 255,
+      "style": 36,
+      "name": "Sunlight Eye I"
+    },
+    {
+      "$id": 256,
+      "style": 36,
+      "name": "Sunlight Eye II"
+    },
+    {
+      "$id": 257,
+      "style": 36,
+      "name": "Sunlight Eye III"
+    },
+    {
+      "$id": 258,
+      "style": 36,
+      "name": "Sunlight Eye IV"
+    },
+    {
+      "$id": 259,
+      "style": 36,
+      "name": "Sunlight Eye V"
+    },
+    {
+      "$id": 260,
+      "style": 36,
+      "name": "Reflect Damage Up I"
+    },
+    {
+      "$id": 261,
+      "style": 36,
+      "name": "Reflect Damage Up II"
+    },
+    {
+      "$id": 262,
+      "style": 36,
+      "name": "Reflect Damage Up III"
+    },
+    {
+      "$id": 263,
+      "style": 36,
+      "name": "Reflect Damage Up IV"
+    },
+    {
+      "$id": 264,
+      "style": 36,
+      "name": "Reflect Damage Up V"
+    },
+    {
+      "$id": 265,
+      "style": 36,
+      "name": "Range Boost Up I"
+    },
+    {
+      "$id": 266,
+      "style": 36,
+      "name": "Range Boost Up II"
+    },
+    {
+      "$id": 267,
+      "style": 36,
+      "name": "Range Boost Up III"
+    },
+    {
+      "$id": 268,
+      "style": 36,
+      "name": "Range Boost Up IV"
+    },
+    {
+      "$id": 269,
+      "style": 36,
+      "name": "Range Boost Up V"
+    },
+    {
+      "$id": 270,
+      "style": 36,
+      "name": "Opening Art I"
+    },
+    {
+      "$id": 271,
+      "style": 36,
+      "name": "Opening Art II"
+    },
+    {
+      "$id": 272,
+      "style": 36,
+      "name": "Opening Art III"
+    },
+    {
+      "$id": 273,
+      "style": 36,
+      "name": "Opening Art IV"
+    },
+    {
+      "$id": 274,
+      "style": 36,
+      "name": "Opening Art V"
+    },
+    {
+      "$id": 275,
+      "style": 36,
+      "name": "Telepathy I"
+    },
+    {
+      "$id": 276,
+      "style": 36,
+      "name": "Telepathy II"
+    },
+    {
+      "$id": 277,
+      "style": 36,
+      "name": "Telepathy III"
+    },
+    {
+      "$id": 278,
+      "style": 36,
+      "name": "Telepathy IV"
+    },
+    {
+      "$id": 279,
+      "style": 36,
+      "name": "Telepathy V"
+    },
+    {
+      "$id": 280,
+      "style": 36,
+      "name": "Helping Hand I"
+    },
+    {
+      "$id": 281,
+      "style": 36,
+      "name": "Helping Hand II"
+    },
+    {
+      "$id": 282,
+      "style": 36,
+      "name": "Helping Hand III"
+    },
+    {
+      "$id": 283,
+      "style": 36,
+      "name": "Helping Hand IV"
+    },
+    {
+      "$id": 284,
+      "style": 36,
+      "name": "Helping Hand V"
+    },
+    {
+      "$id": 285,
+      "style": 36,
+      "name": "Affinity MAX Barrier I"
+    },
+    {
+      "$id": 286,
+      "style": 36,
+      "name": "Affinity MAX Barrier II"
+    },
+    {
+      "$id": 287,
+      "style": 36,
+      "name": "Affinity MAX Barrier III"
+    },
+    {
+      "$id": 288,
+      "style": 36,
+      "name": "Affinity MAX Barrier IV"
+    },
+    {
+      "$id": 289,
+      "style": 36,
+      "name": "Affinity MAX Barrier V"
+    },
+    {
+      "$id": 290,
+      "style": 36,
+      "name": "Affinity MAX Atk I"
+    },
+    {
+      "$id": 291,
+      "style": 36,
+      "name": "Affinity MAX Atk II"
+    },
+    {
+      "$id": 292,
+      "style": 36,
+      "name": "Affinity MAX Atk III"
+    },
+    {
+      "$id": 293,
+      "style": 36,
+      "name": "Affinity MAX Atk IV"
+    },
+    {
+      "$id": 294,
+      "style": 36,
+      "name": "Affinity MAX Atk V"
+    },
+    {
+      "$id": 295,
+      "style": 36,
+      "name": "Affinity MAX Evade I"
+    },
+    {
+      "$id": 296,
+      "style": 36,
+      "name": "Affinity MAX Evade II"
+    },
+    {
+      "$id": 297,
+      "style": 36,
+      "name": "Affinity MAX Evade III"
+    },
+    {
+      "$id": 298,
+      "style": 36,
+      "name": "Affinity MAX Evade IV"
+    },
+    {
+      "$id": 299,
+      "style": 36,
+      "name": "Affinity MAX Evade V"
+    },
+    {
+      "$id": 300,
+      "style": 36,
+      "name": "Hunter's Chemistry I"
+    },
+    {
+      "$id": 301,
+      "style": 36,
+      "name": "Hunter's Chemistry II"
+    },
+    {
+      "$id": 302,
+      "style": 36,
+      "name": "Hunter's Chemistry III"
+    },
+    {
+      "$id": 303,
+      "style": 36,
+      "name": "Hunter's Chemistry IV"
+    },
+    {
+      "$id": 304,
+      "style": 36,
+      "name": "Hunter's Chemistry V"
+    },
+    {
+      "$id": 305,
+      "style": 36,
+      "name": "Shoulder to Shoulder I"
+    },
+    {
+      "$id": 306,
+      "style": 36,
+      "name": "Shoulder to Shoulder II"
+    },
+    {
+      "$id": 307,
+      "style": 36,
+      "name": "Shoulder to Shoulder III"
+    },
+    {
+      "$id": 308,
+      "style": 36,
+      "name": "Shoulder to Shoulder IV"
+    },
+    {
+      "$id": 309,
+      "style": 36,
+      "name": "Shoulder to Shoulder V"
+    },
+    {
+      "$id": 310,
+      "style": 36,
+      "name": "Fast Blade Switch I"
+    },
+    {
+      "$id": 311,
+      "style": 36,
+      "name": "Fast Blade Switch II"
+    },
+    {
+      "$id": 312,
+      "style": 36,
+      "name": "Fast Blade Switch III"
+    },
+    {
+      "$id": 313,
+      "style": 36,
+      "name": "Fast Blade Switch IV"
+    },
+    {
+      "$id": 314,
+      "style": 36,
+      "name": "Fast Blade Switch V"
+    },
+    {
+      "$id": 315,
+      "style": 36,
+      "name": "Fast Blade Switch VI"
+    },
+    {
+      "$id": 316,
+      "style": 36,
+      "name": "Specials Lv 1 Plus I"
+    },
+    {
+      "$id": 317,
+      "style": 36,
+      "name": "Specials Lv 1 Plus II"
+    },
+    {
+      "$id": 318,
+      "style": 36,
+      "name": "Specials Lv 1 Plus III"
+    },
+    {
+      "$id": 319,
+      "style": 36,
+      "name": "Specials Lv 1 Plus IV"
+    },
+    {
+      "$id": 320,
+      "style": 36,
+      "name": "Specials Lv 1 Plus V"
+    },
+    {
+      "$id": 321,
+      "style": 36,
+      "name": "Specials Lv 2 Plus I"
+    },
+    {
+      "$id": 322,
+      "style": 36,
+      "name": "Specials Lv 2 Plus II"
+    },
+    {
+      "$id": 323,
+      "style": 36,
+      "name": "Specials Lv 2 Plus III"
+    },
+    {
+      "$id": 324,
+      "style": 36,
+      "name": "Specials Lv 2 Plus IV"
+    },
+    {
+      "$id": 325,
+      "style": 36,
+      "name": "Specials Lv 2 Plus V"
+    },
+    {
+      "$id": 326,
+      "style": 36,
+      "name": "Specials Lv 3 Plus I"
+    },
+    {
+      "$id": 327,
+      "style": 36,
+      "name": "Specials Lv 3 Plus II"
+    },
+    {
+      "$id": 328,
+      "style": 36,
+      "name": "Specials Lv 3 Plus III"
+    },
+    {
+      "$id": 329,
+      "style": 36,
+      "name": "Specials Lv 3 Plus IV"
+    },
+    {
+      "$id": 330,
+      "style": 36,
+      "name": "Specials Lv 3 Plus V"
+    },
+    {
+      "$id": 331,
+      "style": 36,
+      "name": "Specials Lv 4 Plus I"
+    },
+    {
+      "$id": 332,
+      "style": 36,
+      "name": "Specials Lv 4 Plus II"
+    },
+    {
+      "$id": 333,
+      "style": 36,
+      "name": "Specials Lv 4 Plus III"
+    },
+    {
+      "$id": 334,
+      "style": 36,
+      "name": "Specials Lv 4 Plus IV"
+    },
+    {
+      "$id": 335,
+      "style": 36,
+      "name": "Specials Lv 4 Plus V"
+    },
+    {
+      "$id": 336,
+      "style": 36,
+      "name": "Potion Finder I"
+    },
+    {
+      "$id": 337,
+      "style": 36,
+      "name": "Potion Finder II"
+    },
+    {
+      "$id": 338,
+      "style": 36,
+      "name": "Potion Finder III"
+    },
+    {
+      "$id": 339,
+      "style": 36,
+      "name": "Potion Finder IV"
+    },
+    {
+      "$id": 340,
+      "style": 36,
+      "name": "Potion Finder V"
+    },
+    {
+      "$id": 341,
+      "style": 36,
+      "name": "Affinity MAX Acc I"
+    },
+    {
+      "$id": 342,
+      "style": 36,
+      "name": "Affinity MAX Acc II"
+    },
+    {
+      "$id": 343,
+      "style": 36,
+      "name": "Affinity MAX Acc III"
+    },
+    {
+      "$id": 344,
+      "style": 36,
+      "name": "Affinity MAX Acc IV"
+    },
+    {
+      "$id": 345,
+      "style": 36,
+      "name": "Affinity MAX Acc V"
+    },
+    {
+      "$id": 346,
+      "style": 36,
+      "name": "Jamming I"
+    },
+    {
+      "$id": 347,
+      "style": 36,
+      "name": "Jamming II"
+    },
+    {
+      "$id": 348,
+      "style": 36,
+      "name": "Jamming III"
+    },
+    {
+      "$id": 349,
+      "style": 36,
+      "name": "Jamming IV"
+    },
+    {
+      "$id": 350,
+      "style": 36,
+      "name": "Jamming V"
+    },
+    {
+      "$id": 351,
+      "style": 36,
+      "name": "Element Orb Ender"
+    },
+    {
+      "$id": 352,
+      "style": 36,
+      "name": "Element Orb Prioritizer"
+    },
+    {
+      "$id": 353,
+      "style": 36,
+      "name": "AB Beast Slayer I"
+    },
+    {
+      "$id": 354,
+      "style": 36,
+      "name": "AB Beast Slayer II"
+    },
+    {
+      "$id": 355,
+      "style": 36,
+      "name": "AB Beast Slayer III"
+    },
+    {
+      "$id": 356,
+      "style": 36,
+      "name": "AB Beast Slayer IV"
+    },
+    {
+      "$id": 357,
+      "style": 36,
+      "name": "AB Beast Slayer V"
+    },
+    {
+      "$id": 358,
+      "style": 36,
+      "name": "AB Insect Slayer I"
+    },
+    {
+      "$id": 359,
+      "style": 36,
+      "name": "AB Insect Slayer II"
+    },
+    {
+      "$id": 360,
+      "style": 36,
+      "name": "AB Insect Slayer III"
+    },
+    {
+      "$id": 361,
+      "style": 36,
+      "name": "AB Insect Slayer IV"
+    },
+    {
+      "$id": 362,
+      "style": 36,
+      "name": "AB Insect Slayer V"
+    },
+    {
+      "$id": 363,
+      "style": 36,
+      "name": "AB Aerial Slayer I"
+    },
+    {
+      "$id": 364,
+      "style": 36,
+      "name": "AB Aerial Slayer II"
+    },
+    {
+      "$id": 365,
+      "style": 36,
+      "name": "AB Aerial Slayer III"
+    },
+    {
+      "$id": 366,
+      "style": 36,
+      "name": "AB Aerial Slayer IV"
+    },
+    {
+      "$id": 367,
+      "style": 36,
+      "name": "AB Aerial Slayer V"
+    },
+    {
+      "$id": 368,
+      "style": 36,
+      "name": "AB Aquatic Slayer I"
+    },
+    {
+      "$id": 369,
+      "style": 36,
+      "name": "AB Aquatic Slayer II"
+    },
+    {
+      "$id": 370,
+      "style": 36,
+      "name": "AB Aquatic Slayer III"
+    },
+    {
+      "$id": 371,
+      "style": 36,
+      "name": "AB Aquatic Slayer IV"
+    },
+    {
+      "$id": 372,
+      "style": 36,
+      "name": "AB Aquatic Slayer V"
+    },
+    {
+      "$id": 373,
+      "style": 36,
+      "name": "AB Humanoid Slayer I"
+    },
+    {
+      "$id": 374,
+      "style": 36,
+      "name": "AB Humanoid Slayer II"
+    },
+    {
+      "$id": 375,
+      "style": 36,
+      "name": "AB Humanoid Slayer III"
+    },
+    {
+      "$id": 376,
+      "style": 36,
+      "name": "AB Humanoid Slayer IV"
+    },
+    {
+      "$id": 377,
+      "style": 36,
+      "name": "AB Humanoid Slayer V"
+    },
+    {
+      "$id": 378,
+      "style": 36,
+      "name": "AB Machine Slayer I"
+    },
+    {
+      "$id": 379,
+      "style": 36,
+      "name": "AB Machine Slayer II"
+    },
+    {
+      "$id": 380,
+      "style": 36,
+      "name": "AB Machine Slayer III"
+    },
+    {
+      "$id": 381,
+      "style": 36,
+      "name": "AB Machine Slayer IV"
+    },
+    {
+      "$id": 382,
+      "style": 36,
+      "name": "AB Machine Slayer V"
+    },
+    {
+      "$id": 383,
+      "style": 36,
+      "name": "AB Divine Beast Slayer I"
+    },
+    {
+      "$id": 384,
+      "style": 36,
+      "name": "AB Divine Beast Slayer II"
+    },
+    {
+      "$id": 385,
+      "style": 36,
+      "name": "AB Divine Beast Slayer III"
+    },
+    {
+      "$id": 386,
+      "style": 36,
+      "name": "AB Divine Beast Slayer IV"
+    },
+    {
+      "$id": 387,
+      "style": 36,
+      "name": "AB Divine Beast Slayer V"
+    },
+    {
+      "$id": 388,
+      "style": 36,
+      "name": "AB HP Absorb Arts I"
+    },
+    {
+      "$id": 389,
+      "style": 36,
+      "name": "AB HP Absorb Arts II"
+    },
+    {
+      "$id": 390,
+      "style": 36,
+      "name": "AB HP Absorb Arts III"
+    },
+    {
+      "$id": 391,
+      "style": 36,
+      "name": "AB HP Absorb Arts IV"
+    },
+    {
+      "$id": 392,
+      "style": 36,
+      "name": "AB HP Absorb Arts V"
+    },
+    {
+      "$id": 393,
+      "style": 36,
+      "name": "AB Frontal Force I"
+    },
+    {
+      "$id": 394,
+      "style": 36,
+      "name": "AB Frontal Force II"
+    },
+    {
+      "$id": 395,
+      "style": 36,
+      "name": "AB Frontal Force III"
+    },
+    {
+      "$id": 396,
+      "style": 36,
+      "name": "AB Frontal Force IV"
+    },
+    {
+      "$id": 397,
+      "style": 36,
+      "name": "AB Frontal Force V"
+    },
+    {
+      "$id": 398,
+      "style": 36,
+      "name": "AB Flank Force I"
+    },
+    {
+      "$id": 399,
+      "style": 36,
+      "name": "AB Flank Force II"
+    },
+    {
+      "$id": 400,
+      "style": 36,
+      "name": "AB Flank Force III"
+    },
+    {
+      "$id": 401,
+      "style": 36,
+      "name": "AB Flank Force IV"
+    },
+    {
+      "$id": 402,
+      "style": 36,
+      "name": "AB Flank Force V"
+    },
+    {
+      "$id": 403,
+      "style": 36,
+      "name": "AB Back Force I"
+    },
+    {
+      "$id": 404,
+      "style": 36,
+      "name": "AB Back Force II"
+    },
+    {
+      "$id": 405,
+      "style": 36,
+      "name": "AB Back Force III"
+    },
+    {
+      "$id": 406,
+      "style": 36,
+      "name": "AB Back Force IV"
+    },
+    {
+      "$id": 407,
+      "style": 36,
+      "name": "AB Back Force V"
+    },
+    {
+      "$id": 408,
+      "style": 36,
+      "name": "AB Topple I"
+    },
+    {
+      "$id": 409,
+      "style": 36,
+      "name": "AB Topple II"
+    },
+    {
+      "$id": 410,
+      "style": 36,
+      "name": "AB Topple III"
+    },
+    {
+      "$id": 411,
+      "style": 36,
+      "name": "AB Topple IV"
+    },
+    {
+      "$id": 412,
+      "style": 36,
+      "name": "AB Topple V"
+    },
+    {
+      "$id": 413,
+      "style": 36,
+      "name": "AB Launch I"
+    },
+    {
+      "$id": 414,
+      "style": 36,
+      "name": "AB Launch II"
+    },
+    {
+      "$id": 415,
+      "style": 36,
+      "name": "AB Launch III"
+    },
+    {
+      "$id": 416,
+      "style": 36,
+      "name": "AB Launch IV"
+    },
+    {
+      "$id": 417,
+      "style": 36,
+      "name": "AB Launch V"
+    },
+    {
+      "$id": 418,
+      "style": 36,
+      "name": "AB Challenger I"
+    },
+    {
+      "$id": 419,
+      "style": 36,
+      "name": "AB Challenger II"
+    },
+    {
+      "$id": 420,
+      "style": 36,
+      "name": "AB Challenger III"
+    },
+    {
+      "$id": 421,
+      "style": 36,
+      "name": "AB Challenger IV"
+    },
+    {
+      "$id": 422,
+      "style": 36,
+      "name": "AB Challenger V"
+    },
+    {
+      "$id": 423,
+      "style": 36,
+      "name": "AB Avenger I"
+    },
+    {
+      "$id": 424,
+      "style": 36,
+      "name": "AB Avenger II"
+    },
+    {
+      "$id": 425,
+      "style": 36,
+      "name": "AB Avenger III"
+    },
+    {
+      "$id": 426,
+      "style": 36,
+      "name": "AB Avenger IV"
+    },
+    {
+      "$id": 427,
+      "style": 36,
+      "name": "AB Avenger V"
+    },
+    {
+      "$id": 428,
+      "style": 36,
+      "name": "AB Anger I"
+    },
+    {
+      "$id": 429,
+      "style": 36,
+      "name": "AB Anger II"
+    },
+    {
+      "$id": 430,
+      "style": 36,
+      "name": "AB Anger III"
+    },
+    {
+      "$id": 431,
+      "style": 36,
+      "name": "AB Anger IV"
+    },
+    {
+      "$id": 432,
+      "style": 36,
+      "name": "AB Anger V"
+    },
+    {
+      "$id": 433,
+      "style": 36,
+      "name": "AB Vendetta I"
+    },
+    {
+      "$id": 434,
+      "style": 36,
+      "name": "AB Vendetta II"
+    },
+    {
+      "$id": 435,
+      "style": 36,
+      "name": "AB Vendetta III"
+    },
+    {
+      "$id": 436,
+      "style": 36,
+      "name": "AB Vendetta IV"
+    },
+    {
+      "$id": 437,
+      "style": 36,
+      "name": "AB Vendetta V"
+    },
+    {
+      "$id": 438,
+      "style": 36,
+      "name": "AB Vital Charge I"
+    },
+    {
+      "$id": 439,
+      "style": 36,
+      "name": "AB Vital Charge II"
+    },
+    {
+      "$id": 440,
+      "style": 36,
+      "name": "AB Vital Charge III"
+    },
+    {
+      "$id": 441,
+      "style": 36,
+      "name": "AB Vital Charge IV"
+    },
+    {
+      "$id": 442,
+      "style": 36,
+      "name": "AB Vital Charge V"
+    },
+    {
+      "$id": 443,
+      "style": 36,
+      "name": "AB Combo Boost I"
+    },
+    {
+      "$id": 444,
+      "style": 36,
+      "name": "AB Combo Boost II"
+    },
+    {
+      "$id": 445,
+      "style": 36,
+      "name": "AB Combo Boost III"
+    },
+    {
+      "$id": 446,
+      "style": 36,
+      "name": "AB Combo Boost IV"
+    },
+    {
+      "$id": 447,
+      "style": 36,
+      "name": "AB Combo Boost V"
+    },
+    {
+      "$id": 448,
+      "style": 36,
+      "name": "AB HP Potion I"
+    },
+    {
+      "$id": 449,
+      "style": 36,
+      "name": "AB HP Potion II"
+    },
+    {
+      "$id": 450,
+      "style": 36,
+      "name": "AB HP Potion III"
+    },
+    {
+      "$id": 451,
+      "style": 36,
+      "name": "AB HP Potion IV"
+    },
+    {
+      "$id": 452,
+      "style": 36,
+      "name": "AB HP Potion V"
+    },
+    {
+      "$id": 453,
+      "style": 36,
+      "name": "AB Aggro Down I"
+    },
+    {
+      "$id": 454,
+      "style": 36,
+      "name": "AB Aggro Down II"
+    },
+    {
+      "$id": 455,
+      "style": 36,
+      "name": "AB Aggro Down III"
+    },
+    {
+      "$id": 456,
+      "style": 36,
+      "name": "AB Aggro Down IV"
+    },
+    {
+      "$id": 457,
+      "style": 36,
+      "name": "AB Aggro Down V"
+    },
+    {
+      "$id": 458,
+      "style": 36,
+      "name": "AB Affinity Boost I"
+    },
+    {
+      "$id": 459,
+      "style": 36,
+      "name": "AB Affinity Boost II"
+    },
+    {
+      "$id": 460,
+      "style": 36,
+      "name": "AB Affinity Boost III"
+    },
+    {
+      "$id": 461,
+      "style": 36,
+      "name": "AB Affinity Boost IV"
+    },
+    {
+      "$id": 462,
+      "style": 36,
+      "name": "AB Affinity Boost V"
+    },
+    {
+      "$id": 463,
+      "style": 36,
+      "name": "AB Attack Teamheal I"
+    },
+    {
+      "$id": 464,
+      "style": 36,
+      "name": "AB Attack Teamheal II"
+    },
+    {
+      "$id": 465,
+      "style": 36,
+      "name": "AB Attack Teamheal III"
+    },
+    {
+      "$id": 466,
+      "style": 36,
+      "name": "AB Attack Teamheal IV"
+    },
+    {
+      "$id": 467,
+      "style": 36,
+      "name": "AB Attack Teamheal V"
+    },
+    {
+      "$id": 468,
+      "style": 36,
+      "name": "Critical Restore I"
+    },
+    {
+      "$id": 469,
+      "style": 36,
+      "name": "Critical Restore II"
+    },
+    {
+      "$id": 470,
+      "style": 36,
+      "name": "Critical Restore III"
+    },
+    {
+      "$id": 471,
+      "style": 36,
+      "name": "Critical Restore IV"
+    },
+    {
+      "$id": 472,
+      "style": 36,
+      "name": "Critical Restore V"
+    },
+    {
+      "$id": 473,
+      "style": 36,
+      "name": "HP MAX Boost I"
+    },
+    {
+      "$id": 474,
+      "style": 36,
+      "name": "HP MAX Boost II"
+    },
+    {
+      "$id": 475,
+      "style": 36,
+      "name": "Strength Boost I"
+    },
+    {
+      "$id": 476,
+      "style": 36,
+      "name": "Strength Boost II"
+    },
+    {
+      "$id": 477,
+      "style": 36,
+      "name": "Ether Boost I"
+    },
+    {
+      "$id": 478,
+      "style": 36,
+      "name": "Ether Boost II"
+    },
+    {
+      "$id": 479,
+      "style": 36,
+      "name": "Dexterity Boost I"
+    },
+    {
+      "$id": 480,
+      "style": 36,
+      "name": "Dexterity Boost II"
+    },
+    {
+      "$id": 481,
+      "style": 36,
+      "name": "Agility Boost I"
+    },
+    {
+      "$id": 482,
+      "style": 36,
+      "name": "Agility Boost II"
+    },
+    {
+      "$id": 483,
+      "style": 36,
+      "name": "Luck Boost I"
+    },
+    {
+      "$id": 484,
+      "style": 36,
+      "name": "Luck Boost II"
+    },
+    {
+      "$id": 485,
+      "style": 36,
+      "name": "Damage Spike I"
+    },
+    {
+      "$id": 486,
+      "style": 36,
+      "name": "Damage Spike II"
+    },
+    {
+      "$id": 487,
+      "style": 36,
+      "name": "Damage Spike III"
+    },
+    {
+      "$id": 488,
+      "style": 36,
+      "name": "Damage Spike IV"
+    },
+    {
+      "$id": 489,
+      "style": 36,
+      "name": "Damage Spike V"
+    },
+    {
+      "$id": 490,
+      "style": 36,
+      "name": "Counter I"
+    },
+    {
+      "$id": 491,
+      "style": 36,
+      "name": "Counter II"
+    },
+    {
+      "$id": 492,
+      "style": 36,
+      "name": "Counter III"
+    },
+    {
+      "$id": 493,
+      "style": 36,
+      "name": "Counter IV"
+    },
+    {
+      "$id": 494,
+      "style": 36,
+      "name": "Counter V"
+    },
+    {
+      "$id": 495,
+      "style": 36,
+      "name": "Persevering Strength I"
+    },
+    {
+      "$id": 496,
+      "style": 36,
+      "name": "Persevering Strength II"
+    },
+    {
+      "$id": 497,
+      "style": 36,
+      "name": "Persevering Strength III"
+    },
+    {
+      "$id": 498,
+      "style": 36,
+      "name": "Persevering Strength IV"
+    },
+    {
+      "$id": 499,
+      "style": 36,
+      "name": "Persevering Strength V"
+    },
+    {
+      "$id": 500,
+      "style": 36,
+      "name": "Life Drain I"
+    },
+    {
+      "$id": 501,
+      "style": 36,
+      "name": "Life Drain II"
+    },
+    {
+      "$id": 502,
+      "style": 36,
+      "name": "Life Drain III"
+    },
+    {
+      "$id": 503,
+      "style": 36,
+      "name": "Life Drain IV"
+    },
+    {
+      "$id": 504,
+      "style": 36,
+      "name": "Life Drain V"
+    },
+    {
+      "$id": 505,
+      "style": 36,
+      "name": "Pinpoint Weakness I"
+    },
+    {
+      "$id": 506,
+      "style": 36,
+      "name": "Pinpoint Weakness II"
+    },
+    {
+      "$id": 507,
+      "style": 36,
+      "name": "Pinpoint Weakness III"
+    },
+    {
+      "$id": 508,
+      "style": 36,
+      "name": "Pinpoint Weakness IV"
+    },
+    {
+      "$id": 509,
+      "style": 36,
+      "name": "Pinpoint Weakness V"
+    },
+    {
+      "$id": 510,
+      "style": 36,
+      "name": "Double Attack I"
+    },
+    {
+      "$id": 511,
+      "style": 36,
+      "name": "Double Attack II"
+    },
+    {
+      "$id": 512,
+      "style": 36,
+      "name": "Double Attack III"
+    },
+    {
+      "$id": 513,
+      "style": 36,
+      "name": "Front Attack I"
+    },
+    {
+      "$id": 514,
+      "style": 36,
+      "name": "Front Attack II"
+    },
+    {
+      "$id": 515,
+      "style": 36,
+      "name": "Front Attack III"
+    },
+    {
+      "$id": 516,
+      "style": 36,
+      "name": "Front Attack IV"
+    },
+    {
+      "$id": 517,
+      "style": 36,
+      "name": "Front Attack V"
+    },
+    {
+      "$id": 518,
+      "style": 36,
+      "name": "Side Attack I"
+    },
+    {
+      "$id": 519,
+      "style": 36,
+      "name": "Side Attack II"
+    },
+    {
+      "$id": 520,
+      "style": 36,
+      "name": "Side Attack III"
+    },
+    {
+      "$id": 521,
+      "style": 36,
+      "name": "Side Attack IV"
+    },
+    {
+      "$id": 522,
+      "style": 36,
+      "name": "Side Attack V"
+    },
+    {
+      "$id": 523,
+      "style": 36,
+      "name": "Back Attack I"
+    },
+    {
+      "$id": 524,
+      "style": 36,
+      "name": "Back Attack II"
+    },
+    {
+      "$id": 525,
+      "style": 36,
+      "name": "Back Attack III"
+    },
+    {
+      "$id": 526,
+      "style": 36,
+      "name": "Back Attack IV"
+    },
+    {
+      "$id": 527,
+      "style": 36,
+      "name": "Back Attack V"
+    },
+    {
+      "$id": 528,
+      "style": 36,
+      "name": "Silent Strike I"
+    },
+    {
+      "$id": 529,
+      "style": 36,
+      "name": "Silent Strike II"
+    },
+    {
+      "$id": 530,
+      "style": 36,
+      "name": "Silent Strike III"
+    },
+    {
+      "$id": 531,
+      "style": 36,
+      "name": "Silent Strike IV"
+    },
+    {
+      "$id": 532,
+      "style": 36,
+      "name": "Silent Strike V"
+    },
+    {
+      "$id": 533,
+      "style": 36,
+      "name": "Into the Air I"
+    },
+    {
+      "$id": 534,
+      "style": 36,
+      "name": "Into the Air II"
+    },
+    {
+      "$id": 535,
+      "style": 36,
+      "name": "Into the Air III"
+    },
+    {
+      "$id": 536,
+      "style": 36,
+      "name": "Into the Air IV"
+    },
+    {
+      "$id": 537,
+      "style": 36,
+      "name": "Into the Air V"
+    },
+    {
+      "$id": 538,
+      "style": 36,
+      "name": "Into the Ground I"
+    },
+    {
+      "$id": 539,
+      "style": 36,
+      "name": "Into the Ground II"
+    },
+    {
+      "$id": 540,
+      "style": 36,
+      "name": "Into the Ground III"
+    },
+    {
+      "$id": 541,
+      "style": 36,
+      "name": "Into the Ground IV"
+    },
+    {
+      "$id": 542,
+      "style": 36,
+      "name": "Into the Ground V"
+    },
+    {
+      "$id": 543,
+      "style": 36,
+      "name": "Full Swing I"
+    },
+    {
+      "$id": 544,
+      "style": 36,
+      "name": "Full Swing II"
+    },
+    {
+      "$id": 545,
+      "style": 36,
+      "name": "Full Swing III"
+    },
+    {
+      "$id": 546,
+      "style": 36,
+      "name": "Piercing Lunge I"
+    },
+    {
+      "$id": 547,
+      "style": 36,
+      "name": "Piercing Lunge II"
+    },
+    {
+      "$id": 548,
+      "style": 36,
+      "name": "Piercing Lunge III"
+    },
+    {
+      "$id": 549,
+      "style": 36,
+      "name": "Piercing Lunge IV"
+    },
+    {
+      "$id": 550,
+      "style": 36,
+      "name": "Piercing Lunge V"
+    },
+    {
+      "$id": 551,
+      "style": 36,
+      "name": "Swift Strike I"
+    },
+    {
+      "$id": 552,
+      "style": 36,
+      "name": "Swift Strike II"
+    },
+    {
+      "$id": 553,
+      "style": 36,
+      "name": "Swift Strike III"
+    },
+    {
+      "$id": 554,
+      "style": 36,
+      "name": "Swift Strike IV"
+    },
+    {
+      "$id": 555,
+      "style": 36,
+      "name": "Swift Strike V"
+    },
+    {
+      "$id": 556,
+      "style": 36,
+      "name": "Strong Foundation I"
+    },
+    {
+      "$id": 557,
+      "style": 36,
+      "name": "Strong Foundation II"
+    },
+    {
+      "$id": 558,
+      "style": 36,
+      "name": "Strong Foundation III"
+    },
+    {
+      "$id": 559,
+      "style": 36,
+      "name": "Cloud Conceal I"
+    },
+    {
+      "$id": 560,
+      "style": 36,
+      "name": "Cloud Conceal II"
+    },
+    {
+      "$id": 561,
+      "style": 36,
+      "name": "Cloud Conceal III"
+    },
+    {
+      "$id": 562,
+      "style": 36,
+      "name": "Cloud Conceal IV"
+    },
+    {
+      "$id": 563,
+      "style": 36,
+      "name": "Cloud Conceal V"
+    },
+    {
+      "$id": 564,
+      "style": 36,
+      "name": "Glittering Stars I"
+    },
+    {
+      "$id": 565,
+      "style": 36,
+      "name": "Glittering Stars II"
+    },
+    {
+      "$id": 566,
+      "style": 36,
+      "name": "Glittering Stars III"
+    },
+    {
+      "$id": 567,
+      "style": 36,
+      "name": "Glittering Stars IV"
+    },
+    {
+      "$id": 568,
+      "style": 36,
+      "name": "Glittering Stars V"
+    },
+    {
+      "$id": 569,
+      "style": 36,
+      "name": "Flash I"
+    },
+    {
+      "$id": 570,
+      "style": 36,
+      "name": "Flash II"
+    },
+    {
+      "$id": 571,
+      "style": 36,
+      "name": "Flash III"
+    },
+    {
+      "$id": 572,
+      "style": 36,
+      "name": "Flash IV"
+    },
+    {
+      "$id": 573,
+      "style": 36,
+      "name": "Flash V"
+    },
+    {
+      "$id": 574,
+      "style": 36,
+      "name": "Gold Rush I"
+    },
+    {
+      "$id": 575,
+      "style": 36,
+      "name": "Gold Rush II"
+    },
+    {
+      "$id": 576,
+      "style": 36,
+      "name": "Gold Rush III"
+    },
+    {
+      "$id": 577,
+      "style": 36,
+      "name": "Gold Rush IV"
+    },
+    {
+      "$id": 578,
+      "style": 36,
+      "name": "Gold Rush V"
+    },
+    {
+      "$id": 579,
+      "style": 36,
+      "name": "Treasure Sensor I"
+    },
+    {
+      "$id": 580,
+      "style": 36,
+      "name": "Treasure Sensor II"
+    },
+    {
+      "$id": 581,
+      "style": 36,
+      "name": "Treasure Sensor III"
+    },
+    {
+      "$id": 582,
+      "style": 36,
+      "name": "Treasure Sensor IV"
+    },
+    {
+      "$id": 583,
+      "style": 36,
+      "name": "Treasure Sensor V"
+    },
+    {
+      "$id": 584,
+      "style": 36,
+      "name": "Encourage I"
+    },
+    {
+      "$id": 585,
+      "style": 36,
+      "name": "Encourage II"
+    },
+    {
+      "$id": 586,
+      "style": 36,
+      "name": "Encourage III"
+    },
+    {
+      "$id": 587,
+      "style": 36,
+      "name": "Encourage IV"
+    },
+    {
+      "$id": 588,
+      "style": 36,
+      "name": "Encourage V"
+    },
+    {
+      "$id": 589,
+      "style": 36,
+      "name": "Natural Guard I"
+    },
+    {
+      "$id": 590,
+      "style": 36,
+      "name": "Natural Guard II"
+    },
+    {
+      "$id": 591,
+      "style": 36,
+      "name": "Natural Guard III"
+    },
+    {
+      "$id": 592,
+      "style": 36,
+      "name": "Natural Guard IV"
+    },
+    {
+      "$id": 593,
+      "style": 36,
+      "name": "Natural Guard V"
+    },
+    {
+      "$id": 594,
+      "style": 36,
+      "name": "Affinity Extend I"
+    },
+    {
+      "$id": 595,
+      "style": 36,
+      "name": "Affinity Extend II"
+    },
+    {
+      "$id": 596,
+      "style": 36,
+      "name": "Affinity Extend III"
+    },
+    {
+      "$id": 597,
+      "style": 36,
+      "name": "Challenger I"
+    },
+    {
+      "$id": 598,
+      "style": 36,
+      "name": "Challenger II"
+    },
+    {
+      "$id": 599,
+      "style": 36,
+      "name": "Challenger III"
+    },
+    {
+      "$id": 600,
+      "style": 36,
+      "name": "Challenger IV"
+    },
+    {
+      "$id": 601,
+      "style": 36,
+      "name": "Challenger V"
+    },
+    {
+      "$id": 602,
+      "style": 36,
+      "name": "Avenger I"
+    },
+    {
+      "$id": 603,
+      "style": 36,
+      "name": "Avenger II"
+    },
+    {
+      "$id": 604,
+      "style": 36,
+      "name": "Avenger III"
+    },
+    {
+      "$id": 605,
+      "style": 36,
+      "name": "Avenger IV"
+    },
+    {
+      "$id": 606,
+      "style": 36,
+      "name": "Avenger V"
+    },
+    {
+      "$id": 607,
+      "style": 36,
+      "name": "Anger I"
+    },
+    {
+      "$id": 608,
+      "style": 36,
+      "name": "Anger II"
+    },
+    {
+      "$id": 609,
+      "style": 36,
+      "name": "Anger III"
+    },
+    {
+      "$id": 610,
+      "style": 36,
+      "name": "Anger IV"
+    },
+    {
+      "$id": 611,
+      "style": 36,
+      "name": "Anger V"
+    },
+    {
+      "$id": 612,
+      "style": 36,
+      "name": "Vendetta I"
+    },
+    {
+      "$id": 613,
+      "style": 36,
+      "name": "Vendetta II"
+    },
+    {
+      "$id": 614,
+      "style": 36,
+      "name": "Vendetta III"
+    },
+    {
+      "$id": 615,
+      "style": 36,
+      "name": "Vendetta IV"
+    },
+    {
+      "$id": 616,
+      "style": 36,
+      "name": "Vendetta V"
+    },
+    {
+      "$id": 617,
+      "style": 36,
+      "name": "Critical Up VI"
+    },
+    {
+      "$id": 618,
+      "style": 36,
+      "name": "Physical Defense Up VI"
+    },
+    {
+      "$id": 619,
+      "style": 36,
+      "name": "Ether Defense Up VI"
+    },
+    {
+      "$id": 620,
+      "style": 36,
+      "name": "Block Rate Up VI"
+    },
+    {
+      "$id": 621,
+      "style": 36,
+      "name": "Beast Hunter VI"
+    },
+    {
+      "$id": 622,
+      "style": 36,
+      "name": "Insect Hunter VI"
+    },
+    {
+      "$id": 623,
+      "style": 36,
+      "name": "Aerial Hunter VI"
+    },
+    {
+      "$id": 624,
+      "style": 36,
+      "name": "Aquatic Hunter VI"
+    },
+    {
+      "$id": 625,
+      "style": 36,
+      "name": "Humanoid Hunter VI"
+    },
+    {
+      "$id": 626,
+      "style": 36,
+      "name": "Machine Hunter VI"
+    },
+    {
+      "$id": 627,
+      "style": 36,
+      "name": "Divine Beast Hunter VI"
+    },
+    {
+      "$id": 628,
+      "style": 36,
+      "name": "Fusion Combo Up VI"
+    },
+    {
+      "$id": 629,
+      "style": 36,
+      "name": "Ambush Boost VI"
+    },
+    {
+      "$id": 630,
+      "style": 36,
+      "name": "Aggro Attack Up VI"
+    },
+    {
+      "$id": 631,
+      "style": 36,
+      "name": "Indoor Attack Up VI"
+    },
+    {
+      "$id": 632,
+      "style": 36,
+      "name": "Outdoor Attack Up VI"
+    },
+    {
+      "$id": 633,
+      "style": 36,
+      "name": "Fire Def Up VI"
+    },
+    {
+      "$id": 634,
+      "style": 36,
+      "name": "Water Def Up VI"
+    },
+    {
+      "$id": 635,
+      "style": 36,
+      "name": "Wind Def Up VI"
+    },
+    {
+      "$id": 636,
+      "style": 36,
+      "name": "Earth Def Up VI"
+    },
+    {
+      "$id": 637,
+      "style": 36,
+      "name": "Electric Def Up VI"
+    },
+    {
+      "$id": 638,
+      "style": 36,
+      "name": "Ice Def Up VI"
+    },
+    {
+      "$id": 639,
+      "style": 36,
+      "name": "Light Def Up VI"
+    },
+    {
+      "$id": 640,
+      "style": 36,
+      "name": "Dark Def Up VI"
+    },
+    {
+      "$id": 641,
+      "style": 36,
+      "name": "Evasion Focus VI"
+    },
+    {
+      "$id": 642,
+      "style": 36,
+      "name": "Swift Evasion VI"
+    },
+    {
+      "$id": 643,
+      "style": 36,
+      "name": "Emergency Guard VI"
+    },
+    {
+      "$id": 644,
+      "style": 36,
+      "name": "Endurance VI"
+    },
+    {
+      "$id": 645,
+      "style": 36,
+      "name": "HP Attack Boost VI"
+    },
+    {
+      "$id": 646,
+      "style": 36,
+      "name": "Break Resist VI"
+    },
+    {
+      "$id": 647,
+      "style": 36,
+      "name": "Topple Resist VI"
+    },
+    {
+      "$id": 648,
+      "style": 36,
+      "name": "Launch Resist VI"
+    },
+    {
+      "$id": 649,
+      "style": 36,
+      "name": "Smash Resist VI"
+    },
+    {
+      "$id": 650,
+      "style": 36,
+      "name": "Blowdown Resist VI"
+    },
+    {
+      "$id": 651,
+      "style": 36,
+      "name": "Knockback Resist VI"
+    },
+    {
+      "$id": 652,
+      "style": 36,
+      "name": "Auto-Attack Stealth VI"
+    },
+    {
+      "$id": 653,
+      "style": 36,
+      "name": "Aggro Boost VI"
+    },
+    {
+      "$id": 654,
+      "style": 36,
+      "name": "Arts Stealth VI"
+    },
+    {
+      "$id": 655,
+      "style": 36,
+      "name": "Arts Aggro Boost VI"
+    },
+    {
+      "$id": 656,
+      "style": 36,
+      "name": "Arts Heal VI"
+    },
+    {
+      "$id": 657,
+      "style": 36,
+      "name": "Movement Heal VI"
+    },
+    {
+      "$id": 658,
+      "style": 36,
+      "name": "Damage Heal VI"
+    },
+    {
+      "$id": 659,
+      "style": 36,
+      "name": "Night Vision VI"
+    },
+    {
+      "$id": 660,
+      "style": 36,
+      "name": "Sunlight Eye VI"
+    },
+    {
+      "$id": 661,
+      "style": 36,
+      "name": "Reflect Damage Up VI"
+    },
+    {
+      "$id": 662,
+      "style": 36,
+      "name": "Opening Art VI"
+    },
+    {
+      "$id": 663,
+      "style": 36,
+      "name": "Affinity MAX Barrier VI"
+    },
+    {
+      "$id": 664,
+      "style": 36,
+      "name": "Affinity MAX Atk VI"
+    },
+    {
+      "$id": 665,
+      "style": 36,
+      "name": "Affinity MAX Evade VI"
+    },
+    {
+      "$id": 666,
+      "style": 36,
+      "name": "Specials Lv 1 Plus VI"
+    },
+    {
+      "$id": 667,
+      "style": 36,
+      "name": "Specials Lv 2 Plus VI"
+    },
+    {
+      "$id": 668,
+      "style": 36,
+      "name": "Specials Lv 3 Plus VI"
+    },
+    {
+      "$id": 669,
+      "style": 36,
+      "name": "Specials Lv 4 Plus VI"
+    },
+    {
+      "$id": 670,
+      "style": 36,
+      "name": "Affinity MAX Acc VI"
+    },
+    {
+      "$id": 671,
+      "style": 36,
+      "name": "Jamming VI"
+    },
+    {
+      "$id": 672,
+      "style": 36,
+      "name": "Homura in a Poncho"
+    },
+    {
+      "$id": 673,
+      "style": 36,
+      "name": "Hikari-chan-like Homura"
+    },
+    {
+      "$id": 674,
+      "style": 36,
+      "name": "Homura-Style Hikari"
+    },
+    {
+      "$id": 675,
+      "style": 36,
+      "name": "Savage Byakko"
+    },
+    {
+      "$id": 676,
+      "style": 36,
+      "name": "Crimson Orchid Kagutsuchi"
+    },
+    {
+      "$id": 677,
+      "style": 36,
+      "name": "Mermaid-Blue Saika"
+    },
+    {
+      "$id": 678,
+      "style": 36,
+      "name": "Cornflower Hana JS"
+    },
+    {
+      "$id": 679,
+      "style": 36,
+      "name": "Blue Sky Homura"
+    },
+    {
+      "$id": 680,
+      "style": 36,
+      "name": "Carbon Hikari"
+    },
+    {
+      "$id": 681,
+      "style": 36,
+      "name": "Obsidian Byakko"
+    },
+    {
+      "$id": 682,
+      "style": 36,
+      "name": "Jade Orchid Kagutsuchi"
+    },
+    {
+      "$id": 683,
+      "style": 36,
+      "name": "Magical Pink Saika"
+    },
+    {
+      "$id": 684,
+      "style": 36,
+      "name": "Pro Swimmer Homura"
+    },
+    {
+      "$id": 685,
+      "style": 36,
+      "name": "Radiant Beach Hikari"
+    },
+    {
+      "$id": 686,
+      "style": 36,
+      "name": "Water Lily Kagutsuchi"
+    },
+    {
+      "$id": 687,
+      "style": 36,
+      "name": "Beach Date Saika"
+    },
+    {
+      "$id": 688,
+      "style": 36,
+      "name": "Swim Lesson Hana JS"
+    },
+    {
+      "$id": 689,
+      "style": 36,
+      "name": "Antique Princess QT"
+    },
+    {
+      "$id": 690,
+      "style": 36,
+      "name": "Nano Orange QTπ"
+    },
+    {
+      "$id": 691,
+      "style": 36,
+      "name": "Loyal Bellflower Nia"
+    },
+    {
+      "$id": 692,
+      "style": 36,
+      "name": "Sincere Primrose Nia"
+    },
+    {
+      "$id": 693,
+      "style": 36,
+      "name": "Devoted Marigold Nia"
+    },
+    {
+      "$id": 694,
+      "style": 36,
+      "name": "Massive Melee Hikari"
+    }
+  ]
+}

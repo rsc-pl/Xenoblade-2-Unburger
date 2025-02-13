@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300306_msg001",
+      "style": 62,
+      "name": "面接２　FEV"
+    },
+    {
+      "$id": 2,
+      "label": "qst300306_msg002",
+      "style": 62,
+      "name": "選択肢１：スペルビア人ですよね？"
+    },
+    {
+      "$id": 3,
+      "label": "qst300306_msg003",
+      "style": 62,
+      "name": "選択肢２：得意なことについて"
+    },
+    {
+      "$id": 4,
+      "label": "qst300306_msg004",
+      "style": 62,
+      "name": "選択肢３：なぜうちの傭兵団にしたの？"
+    },
+    {
+      "$id": 5,
+      "label": "qst300306_msg005",
+      "style": 62,
+      "name": "返答１：・・・・・・そうだ\nスペルビア人だと問題があるか？"
+    },
+    {
+      "$id": 6,
+      "label": "qst300306_msg006",
+      "style": 62,
+      "name": "返答２：・・・・・・・秘密だ"
+    },
+    {
+      "$id": 7,
+      "label": "qst300306_msg007",
+      "style": 62,
+      "name": "返答３：・・・・・・・秘密だ"
+    },
+    {
+      "$id": 8,
+      "label": "qst300306_msg008",
+      "style": 62,
+      "name": "さらに詳しく聞く(FS)"
+    },
+    {
+      "$id": 9,
+      "label": "qst300306_msg009",
+      "style": 62,
+      "name": "返答１：続き"
+    },
+    {
+      "$id": 10,
+      "label": "qst300306_msg010",
+      "style": 62,
+      "name": "返答２：続き"
+    },
+    {
+      "$id": 11,
+      "label": "qst300306_msg011",
+      "style": 62,
+      "name": "返答３：続き"
+    },
+    {
+      "$id": 12,
+      "label": "qst300306_msg0001",
+      "style": 84,
+      "name": "My name is Zengrid Catador. I've\nshortened it for convenience' sake,\nbut Zengrid will do just fine."
+    },
+    {
+      "$id": 13,
+      "label": "qst300306_msg0002",
+      "style": 84,
+      "name": "That is, I mean...\nPlease, call me Zengrid."
+    },
+    {
+      "$id": 14,
+      "label": "qst300306_msg0003",
+      "style": 84,
+      "name": "I come from a long line of nobility\noriginating in Fons Maim, but they\nhave since fallen from grace."
+    },
+    {
+      "$id": 15,
+      "label": "qst300306_msg0004",
+      "style": 84,
+      "name": "I know what it is to make ends meet\nand am therefore well suited to any\nposition that involves accounting."
+    },
+    {
+      "$id": 16,
+      "label": "qst300306_msg0005",
+      "style": 84,
+      "name": "All right then, we'd like to ask you\na few questions."
+    },
+    {
+      "$id": 17,
+      "label": "qst300306_msg0006",
+      "style": 84,
+      "name": "Oh yes, we're accepting questions at\nthe moment. Err...I mean, of course.\nFire away."
+    },
+    {
+      "$id": 18,
+      "label": "qst300306_msg0051",
+      "style": 165,
+      "name": "What should I ask about?"
+    },
+    {
+      "$id": 19,
+      "label": "qst300306_msg0052",
+      "style": 165,
+      "name": "His personal motivations"
+    },
+    {
+      "$id": 20,
+      "label": "qst300306_msg0053",
+      "style": 165,
+      "name": "His strongest skills"
+    },
+    {
+      "$id": 21,
+      "label": "qst300306_msg0054",
+      "style": 165,
+      "name": "Where he sees himself in five years"
+    },
+    {
+      "$id": 22,
+      "label": "qst300306_msg0055",
+      "style": 165,
+      "name": "Nothing in particular"
+    },
+    {
+      "$id": 23,
+      "label": "qst300306_msg0101",
+      "style": 84,
+      "name": "I need the money!\n...That is, I would quite like to\nbe financially reimbursed."
+    },
+    {
+      "$id": 24,
+      "label": "qst300306_msg0102",
+      "style": 84,
+      "name": "Any particular reason why?"
+    },
+    {
+      "$id": 25,
+      "label": "qst300306_msg0103",
+      "style": 84,
+      "name": "As you know, my once-noble house\nis but a shadow of itself now."
+    },
+    {
+      "$id": 26,
+      "label": "qst300306_msg0104",
+      "style": 84,
+      "name": "If I am to return it to its former\neminence, I'm going to need capital."
+    },
+    {
+      "$id": 27,
+      "label": "qst300306_msg0105",
+      "style": 84,
+      "name": "To that end, I will have you hire me!\n...I mean, I hope that you will."
+    },
+    {
+      "$id": 28,
+      "label": "qst300306_msg0201",
+      "style": 84,
+      "name": "I have no home, no fortunes to fall back\non. All I have now is an excessively long\nname and a shrewd business sense."
+    },
+    {
+      "$id": 29,
+      "label": "qst300306_msg0202",
+      "style": 84,
+      "name": "Could you go into more detail there?"
+    },
+    {
+      "$id": 30,
+      "label": "qst300306_msg0203",
+      "style": 84,
+      "name": "I had a good upbringing, back when\nI was part of the nobility."
+    },
+    {
+      "$id": 31,
+      "label": "qst300306_msg0204",
+      "style": 84,
+      "name": "And in that time, I learned to discern\ntrue quality from cheap knock-offs."
+    },
+    {
+      "$id": 32,
+      "label": "qst300306_msg0205",
+      "style": 84,
+      "name": "So I can say with confidence that\nI shall be able to find you the best\ndeals on high grade equipment."
+    },
+    {
+      "$id": 33,
+      "label": "qst300306_msg0301",
+      "style": 84,
+      "name": "I'm looking to return to my former\nglory. I can't be stuck forever with\na servant boy's wages."
+    },
+    {
+      "$id": 34,
+      "label": "qst300306_msg0302",
+      "style": 84,
+      "name": "And what would you be bringing\nto the Merc Group?"
+    },
+    {
+      "$id": 35,
+      "label": "qst300306_msg0303",
+      "style": 84,
+      "name": "I can streamline your resource\nmanagement so that you will be able\nto operate as efficiently as possible."
+    },
+    {
+      "$id": 36,
+      "label": "qst300306_msg0304",
+      "style": 84,
+      "name": "In the short while I've been here, I can\nalready see weapons, food, materials\njust lying around, being put to waste."
+    },
+    {
+      "$id": 37,
+      "label": "qst300306_msg0305",
+      "style": 84,
+      "name": "Your numbers have shot up recently,\nwhich means that you're too busy to\nhandle every little thing. Am I wrong?"
+    },
+    {
+      "$id": 38,
+      "label": "qst300306_msg0401",
+      "style": 84,
+      "name": "All right, we'll finish up there."
+    },
+    {
+      "$id": 39,
+      "label": "qst300306_msg0402",
+      "style": 84,
+      "name": "We'll announce our decision in a\nshort while. You can leave now."
+    },
+    {
+      "$id": 40,
+      "label": "qst300306_msg0403",
+      "style": 84,
+      "name": "If you don't hire me, you'll sorely reg-\n...Please excuse me. I can't seem to\nkick the old aristocratic hauteur..."
+    },
+    {
+      "$id": 41,
+      "label": "qst300306_msg0404",
+      "style": 84,
+      "name": "Well, that's the last of them. Take\nyour time mulling it over. Then\ngimme a shout."
+    },
+    {
+      "$id": 42,
+      "label": "qst300306_msg0501",
+      "style": 84,
+      "name": "Anything else you want to ask?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660102_msg0001",
+      "style": 84,
+      "name": "Travel to the Land of Challenge?"
+    },
+    {
+      "$id": 2,
+      "label": "qst660102_msg0002",
+      "style": 84,
+      "name": "Travel"
+    },
+    {
+      "$id": 3,
+      "label": "qst660102_msg0003",
+      "style": 84,
+      "name": "Don't travel"
+    }
+  ]
+}

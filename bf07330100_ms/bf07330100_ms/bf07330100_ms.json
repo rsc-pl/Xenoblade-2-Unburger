@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07330100_0005",
+      "style": 82,
+      "name": "Nia."
+    },
+    {
+      "$id": 2,
+      "label": "bf07330100_0010",
+      "style": 82,
+      "name": "Say it for me now. Address me as..."
+    },
+    {
+      "$id": 3,
+      "label": "bf07330100_0020",
+      "style": 82,
+      "name": "\"Father\"!"
+    },
+    {
+      "$id": 4,
+      "label": "bf07330100_0030",
+      "style": 82,
+      "name": "Yes...Father..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300022_01_msg0001",
+      "style": 84,
+      "name": "Gula's such a peaceful place.\nNever seen it any other way."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300022_01_msg0002",
+      "style": 84,
+      "name": "I'm with the Militia Corps, but we've so\nmuch free time on our hands, we don't\nknow what to do with ourselves."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300022_01_msg0003",
+      "style": 84,
+      "name": "What with us and the Superbian army\nstationed here, no one dares start\nmaking any trouble."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300022_01_msg0004",
+      "style": 84,
+      "name": "There was a tiny little incident a short\nwhile back, but I don't suppose much\ncame of it."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104604_msg001",
+      "style": 62,
+      "name": "一隻は途中ではぐれてしまった\nどこかで座礁している可能性がある(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104604_msg0001",
+      "style": 84,
+      "name": "The ship stopped moving..."
+    },
+    {
+      "$id": 3,
+      "label": "qst104604_msg0002",
+      "style": 84,
+      "name": "Where's daddy?"
+    },
+    {
+      "$id": 4,
+      "label": "qst104604_msg0003",
+      "style": 84,
+      "name": "My husband went with a Blade and\nother men to seek help."
+    },
+    {
+      "$id": 5,
+      "label": "qst104604_msg0004",
+      "style": 84,
+      "name": "You haven't seen them, have you?\nThey went right through that cloudway."
+    },
+    {
+      "$id": 6,
+      "label": "qst104604_msg0005",
+      "style": 84,
+      "name": "Wh-what's wrong?"
+    },
+    {
+      "$id": 7,
+      "label": "qst104604_msg0006",
+      "style": 84,
+      "name": "Terrifying monsters?\nOn the cloudway?\nOh my word."
+    },
+    {
+      "$id": 8,
+      "label": "qst104604_msg0007",
+      "style": 84,
+      "name": "Mummy!\nLet's save daddy!"
+    },
+    {
+      "$id": 9,
+      "label": "qst104604_msg0008",
+      "style": 84,
+      "name": "You are the only ones I can turn to.\nPlease help me."
+    },
+    {
+      "$id": 10,
+      "label": "qst104604_msg0009",
+      "style": 84,
+      "name": "Save Mrs. Sophora too!"
+    }
+  ]
+}

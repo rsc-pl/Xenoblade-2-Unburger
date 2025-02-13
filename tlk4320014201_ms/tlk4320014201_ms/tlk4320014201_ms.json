@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200142_01_msg0001",
+      "style": 84,
+      "name": "Hey! Listen up, you! You'd like to learn\nabout the skills a Blade needs when\nyou're out in the field, wouldn't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200142_01_msg0002",
+      "style": 84,
+      "name": "You want a Blade with useful skills\nlike Lockpicking or Keen Eye!\nNot many Blades like that, see!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200142_01_msg0003",
+      "style": 84,
+      "name": "If you find a Blade like that, never let\nit go, my lad!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200142_01_msg0004",
+      "style": 84,
+      "name": "That's what my old man's always\nsaying lately."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200142_01_msg0005",
+      "style": 84,
+      "name": "You need to cram as many factoids\nlike that into your brain as you can,\nif you wanna be a great Driver."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140002802_msg0001",
+      "style": 84,
+      "name": "You're the ones who helped us back\nthere... Thank you. I think we made the\nright decision thanks to your help."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140002802_msg0002",
+      "style": 84,
+      "name": "Da was furious when he came back\nat first, but in the end, he actually\napproved of us getting married!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140002802_msg0003",
+      "style": 84,
+      "name": "I imagine me running away from home\nshowed them just how serious I was\nabout all this."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4140002802_msg0004",
+      "style": 84,
+      "name": "I'm glad we worked up the courage to\ngo back to Trigo and face them."
+    }
+  ]
+}

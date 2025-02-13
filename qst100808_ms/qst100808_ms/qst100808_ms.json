@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100808_msg0001",
+      "style": 84,
+      "name": "Hey, why didn't you come\nand help me?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100808_msg0002",
+      "style": 84,
+      "name": "I thought we were buddies! That means\nyou're supposed to come and give me a\nhand if I'm in a tough spot!"
+    },
+    {
+      "$id": 3,
+      "label": "qst100808_msg0003",
+      "style": 84,
+      "name": "B-but there was nothing I could do!"
+    },
+    {
+      "$id": 4,
+      "label": "qst100808_msg0004",
+      "style": 84,
+      "name": "You know I'm scared of high places,\ncliffs, slippy surfaces! You know full\nwell!"
+    },
+    {
+      "$id": 5,
+      "label": "qst100808_msg0005",
+      "style": 84,
+      "name": "If you're gonna wander off somewhere,\nyou need to check with me first! Did\nyou think of that?"
+    },
+    {
+      "$id": 6,
+      "label": "qst100808_msg0006",
+      "style": 84,
+      "name": "You could have just got a grip and\ncome over to help! Did that occur to\nyou?"
+    },
+    {
+      "$id": 7,
+      "label": "qst100808_msg0007",
+      "style": 84,
+      "name": "Honestly, Capher! We're out here in\nsearch of adventure! We'll never have\nany if you're scared of everything!"
+    },
+    {
+      "$id": 8,
+      "label": "qst100808_msg0008",
+      "style": 84,
+      "name": "Why...you..."
+    },
+    {
+      "$id": 9,
+      "label": "qst100808_msg0201",
+      "style": 165,
+      "name": "How shall we get them to calm down?"
+    },
+    {
+      "$id": 10,
+      "label": "qst100808_msg0202",
+      "style": 165,
+      "name": "Tell them they complement each other."
+    },
+    {
+      "$id": 11,
+      "label": "qst100808_msg0203",
+      "style": 165,
+      "name": "Tell them to stop being so silly."
+    },
+    {
+      "$id": 12,
+      "label": "qst100808_msg0301",
+      "style": 84,
+      "name": "We compensate for each other's\nshortcomings?"
+    },
+    {
+      "$id": 13,
+      "label": "qst100808_msg0302",
+      "style": 84,
+      "name": "Hmmm. Well, I'm terrible at searching\nfor stuff, but I'm good in a fight, that's\nfor sure."
+    },
+    {
+      "$id": 14,
+      "label": "qst100808_msg0303",
+      "style": 84,
+      "name": "Cherlie blazes a trail up ahead and\nfinds new places that I've never seen,\nbut she waits for me."
+    },
+    {
+      "$id": 15,
+      "label": "qst100808_msg0304",
+      "style": 84,
+      "name": "I mean, I'm a little slow...but I do my\nbest to catch up."
+    },
+    {
+      "$id": 16,
+      "label": "qst100808_msg0305",
+      "style": 84,
+      "name": "Capher..."
+    },
+    {
+      "$id": 17,
+      "label": "qst100808_msg0306",
+      "style": 84,
+      "name": "I guess you're right. We did promise\neach other that we'd find amazing\nplaces together..."
+    },
+    {
+      "$id": 18,
+      "label": "qst100808_msg0307",
+      "style": 84,
+      "name": "OK! I'll leave the rear guard to you!"
+    },
+    {
+      "$id": 19,
+      "label": "qst100808_msg0308",
+      "style": 84,
+      "name": "And I'll scout ahead to look for the\nroutes with the safest footing!"
+    },
+    {
+      "$id": 20,
+      "label": "qst100808_msg0401",
+      "style": 84,
+      "name": "If you lot hadn't have turned up, I\nreckon I'd have ended up as a\nmonster's lunch!"
+    },
+    {
+      "$id": 21,
+      "label": "qst100808_msg0402",
+      "style": 84,
+      "name": "M-Monster? There were monsters when\nyou went to get the Healing Herb?"
+    },
+    {
+      "$id": 22,
+      "label": "qst100808_msg0403",
+      "style": 84,
+      "name": "Yes...there were..."
+    },
+    {
+      "$id": 23,
+      "label": "qst100808_msg0404",
+      "style": 84,
+      "name": "So if these people hadn't helped you,\nyou'd have... Gulp!"
+    },
+    {
+      "$id": 24,
+      "label": "qst100808_msg0405",
+      "style": 84,
+      "name": "I'm sorry, Capher... I guess I was a little\nthoughtless."
+    },
+    {
+      "$id": 25,
+      "label": "qst100808_msg0406",
+      "style": 84,
+      "name": "You're just a bit too gung-ho.\nAnd I'm too much of a scaredy-cat."
+    },
+    {
+      "$id": 26,
+      "label": "qst100808_msg0407",
+      "style": 84,
+      "name": "Maybe we should tell each other when\nour shortcomings start to be a problem!"
+    },
+    {
+      "$id": 27,
+      "label": "qst100808_msg0501",
+      "style": 84,
+      "name": "Thanks for helping us, guys."
+    },
+    {
+      "$id": 28,
+      "label": "qst100808_msg0502",
+      "style": 84,
+      "name": "Sorry for putting you to all that bother."
+    },
+    {
+      "$id": 29,
+      "label": "qst100808_msg0503",
+      "style": 84,
+      "name": "Thanks for helping me get that\nHealing Herb! The doctor will be\nreally grateful!"
+    },
+    {
+      "$id": 30,
+      "label": "qst100808_msg0504",
+      "style": 84,
+      "name": "It's been a wake-up call for us, as well.\nI think we're going to make an effort to\ncooperate more from now on."
+    },
+    {
+      "$id": 31,
+      "label": "qst100808_msg0505",
+      "style": 84,
+      "name": "Here, we can't let you go without\ngiving you a little something."
+    },
+    {
+      "$id": 32,
+      "label": "qst100808_msg0506",
+      "style": 84,
+      "name": "Well, mind how you go!"
+    }
+  ]
+}

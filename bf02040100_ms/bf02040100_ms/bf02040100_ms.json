@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02040100_0010",
+      "style": 82,
+      "name": "What's that sound?"
+    },
+    {
+      "$id": 2,
+      "label": "bf02040100_0020",
+      "style": 82,
+      "name": "I felt a ripple in the ether. It feels like\na Driver is using a Blade in battle."
+    },
+    {
+      "$id": 3,
+      "label": "bf02040100_0030",
+      "style": 82,
+      "name": "I'm certain of it!"
+    },
+    {
+      "$id": 4,
+      "label": "bf02040100_0040",
+      "style": 82,
+      "name": "Let's go!"
+    },
+    {
+      "$id": 5,
+      "label": "bf02040100_0050",
+      "style": 82,
+      "name": "OK!"
+    }
+  ]
+}

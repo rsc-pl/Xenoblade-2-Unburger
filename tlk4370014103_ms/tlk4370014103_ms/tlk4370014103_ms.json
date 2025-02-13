@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700141_03_msg0001",
+      "style": 84,
+      "name": "I still haven't gone to Vandham's\ngrave yet..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700141_03_msg0002",
+      "style": 84,
+      "name": "I'm thinking I'll go and tell the old guy\nthat his band's even greater now than\nback when he was the boss."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700141_03_msg0003",
+      "style": 84,
+      "name": "I haven't been in Hræsvelgr from the\nbeginning, but even I can tell it's been\ngrowing at an incredible rate."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700141_03_msg0004",
+      "style": 84,
+      "name": "...I guess the secret to success is to\ntrust in your Blades with total faith..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43700141_03_msg0005",
+      "style": 84,
+      "name": "There are no Drivers quite like you\nanywhere in Alst."
+    }
+  ]
+}

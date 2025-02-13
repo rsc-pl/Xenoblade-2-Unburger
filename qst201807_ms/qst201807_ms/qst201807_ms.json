@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201807_msg0001",
+      "style": 84,
+      "name": "Stuff we like?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201807_msg0002",
+      "style": 84,
+      "name": "Yeah, OK, hm...\nI'd have to say Cobalt Eel!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201807_msg0003",
+      "style": 84,
+      "name": "I don't think you'd find a single Phonex\nin Invidia who could resist 'em!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201807_msg0004",
+      "style": 84,
+      "name": "You'll understand if you try one, I think."
+    },
+    {
+      "$id": 5,
+      "label": "qst201807_msg0005",
+      "style": 84,
+      "name": "Hm, Pex? Nah, I don't know\na Phonex by that name."
+    },
+    {
+      "$id": 6,
+      "label": "qst201807_msg0006",
+      "style": 84,
+      "name": "But there's a Phonex village in the\nCrown of Sanctuary. Someone there\nmight've heard something."
+    }
+  ]
+}

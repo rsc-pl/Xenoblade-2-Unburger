@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100504_msg001",
+      "style": 62,
+      "name": "What do you want to do?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100504_msg002",
+      "style": 62,
+      "name": "Insert part in round cavity."
+    },
+    {
+      "$id": 3,
+      "label": "qst100504_msg101",
+      "style": 62,
+      "name": "Insert part in square cavity."
+    }
+  ]
+}

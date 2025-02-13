@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104709_msg001",
+      "style": 62,
+      "name": "座礁した船はまかせろ(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104709_msg002",
+      "style": 62,
+      "name": "あなた方にお願いしたいことがあるので\nグーラで合流しましょう(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst104709_msg0001",
+      "style": 84,
+      "name": "My husband and the others went with\na Blade to look for help. They went\ninto the cloudway over there."
+    },
+    {
+      "$id": 4,
+      "label": "qst104709_msg0002",
+      "style": 84,
+      "name": "She doesn't have her Driver with\nher so I suggested she stay behind,\nbut she didn't listen."
+    },
+    {
+      "$id": 5,
+      "label": "qst104709_msg0101",
+      "style": 84,
+      "name": "My husband's safe! Thank the stars.\nPhew, I was worried there for a bit."
+    },
+    {
+      "$id": 6,
+      "label": "qst104709_msg0102",
+      "style": 84,
+      "name": "I should prepare so we're ready for\nwhen they come back."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk7000000491_msg0001",
+      "style": 165,
+      "name": "泊まりますか？"
+    },
+    {
+      "$id": 2,
+      "label": "tlk7000000491_msg0002",
+      "style": 165,
+      "name": "はい"
+    },
+    {
+      "$id": 3,
+      "label": "tlk7000000491_msg0003",
+      "style": 165,
+      "name": "いいえ"
+    }
+  ]
+}

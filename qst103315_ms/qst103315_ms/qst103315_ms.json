@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103315_msg0001",
+      "style": 84,
+      "name": "Here's your reward."
+    },
+    {
+      "$id": 2,
+      "label": "qst103315_msg0002",
+      "style": 84,
+      "name": "Thank you. But what in the world\nwould you want with information\non milady's routine, anyway?"
+    },
+    {
+      "$id": 3,
+      "label": "qst103315_msg0003",
+      "style": 84,
+      "name": "No need to trouble\nyourself with that."
+    },
+    {
+      "$id": 4,
+      "label": "qst103315_msg0004",
+      "style": 84,
+      "name": "Yeah, she already snuffed it."
+    },
+    {
+      "$id": 5,
+      "label": "qst103315_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Wh-what?\nYou never said anything about that!"
+    },
+    {
+      "$id": 6,
+      "label": "qst103315_msg0006",
+      "style": 84,
+      "name": "Shut it, old man.\nYou're already in it up to your neck."
+    },
+    {
+      "$id": 7,
+      "label": "qst103315_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Who are you people?!"
+    },
+    {
+      "$id": 8,
+      "label": "qst103315_msg0008",
+      "style": 84,
+      "name": "They don't belong around here...\nWay too squeaky-clean for that."
+    },
+    {
+      "$id": 9,
+      "label": "qst103315_msg0009",
+      "style": 84,
+      "name": "Scram! Beat it! Gerrout of here!"
+    },
+    {
+      "$id": 10,
+      "label": "qst103315_msg0010",
+      "style": 84,
+      "name": "Then I guess we'll have to\nget rid of you ourselves! Yahhh!"
+    }
+  ]
+}

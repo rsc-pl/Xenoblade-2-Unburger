@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst610103_msg0001",
+      "style": 84,
+      "name": "So Tucker's got you looking for the\ntimber thieves, has he?"
+    },
+    {
+      "$id": 2,
+      "label": "qst610103_msg0002",
+      "style": 84,
+      "name": "Well, he is the kind of guy to take\nthat sort of thing personally. Makes\nsense, though."
+    },
+    {
+      "$id": 3,
+      "label": "qst610103_msg0003",
+      "style": 84,
+      "name": "The Divine Beasts grow these staggering trees,\nand you don't want all that effort to\ngo to waste or be taken in vain."
+    },
+    {
+      "$id": 4,
+      "label": "qst610103_msg0004",
+      "style": 84,
+      "name": "Well, I can at least tell you all I know \nabout the thief."
+    },
+    {
+      "$id": 5,
+      "label": "qst610103_msg0005",
+      "style": 84,
+      "name": "It won't take long - because I know\nabsolutely nothing!"
+    },
+    {
+      "$id": 6,
+      "label": "qst610103_msg0006",
+      "style": 84,
+      "name": "Haha! Ahh, the look on your face\nwas priceless."
+    },
+    {
+      "$id": 7,
+      "label": "qst610103_msg0007",
+      "style": 84,
+      "name": "Sorry, but the stuff was stolen while\nthe site was closed for the day."
+    },
+    {
+      "$id": 8,
+      "label": "qst610103_msg0008",
+      "style": 84,
+      "name": "So nobody was here to see anything.\nYou might have a tough time finding\nany witnesses."
+    },
+    {
+      "$id": 9,
+      "label": "qst610103_msg0009",
+      "style": 84,
+      "name": "But, hey, that's not a reason to give up.\nKeep asking. You never know who'll \ngive you a push in the right direction."
+    }
+  ]
+}

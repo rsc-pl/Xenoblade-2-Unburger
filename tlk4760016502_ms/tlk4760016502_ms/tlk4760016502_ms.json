@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47600165_02_msg0001",
+      "style": 84,
+      "name": "Ahh, what lovely weather we're\nhaving... It reminds me of the time\nI went inside the Village Guardian."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47600165_02_msg0002",
+      "style": 84,
+      "name": "When I finally came out of the pitch\ndarkness into the daylight, it felt as\nif I was being reborn..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47600165_02_msg0003",
+      "style": 84,
+      "name": "Oh yes, that's actually why I left a\nbunch of lamps in there, so it would\nbe easier to find your way around."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47600165_02_msg0004",
+      "style": 84,
+      "name": "Just be careful in there. If it's looking\nhairy, you come straight back out,\nyou hear?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501707_msg0001",
+      "style": 84,
+      "name": "I was lucky to escape Acedia with my\nlife intact. I'd love to regale you with\nthe thrilling tale of my daring escape..."
+    },
+    {
+      "$id": 2,
+      "label": "qst501707_msg0002",
+      "style": 84,
+      "name": "But I suppose we should talk business.\nEveryone needs money to live, after all."
+    }
+  ]
+}

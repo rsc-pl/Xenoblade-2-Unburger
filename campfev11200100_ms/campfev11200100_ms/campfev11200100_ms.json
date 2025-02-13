@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_200_100_msg0001",
+      "style": 84,
+      "name": "あー　イラつく！"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_200_100_msg0002",
+      "style": 84,
+      "name": "どうして私達があの女に後れを取るの！？"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_200_100_msg0003",
+      "style": 84,
+      "name": "それは[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_200_100_msg0004",
+      "style": 84,
+      "name": "僕がドライバーとして\n未熟なせいかもしれないな[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_200_100_msg0005",
+      "style": 84,
+      "name": "そんなことない！"
+    },
+    {
+      "$id": 6,
+      "label": "campfev11_200_100_msg0006",
+      "style": 84,
+      "name": "このままじゃ気が済まないから\nもう一度行くわよ"
+    },
+    {
+      "$id": 7,
+      "label": "campfev11_200_100_msg0007",
+      "style": 84,
+      "name": "誤解を解く必要もあるし[ML:Dash ]\n次はがんばるよ"
+    }
+  ]
+}

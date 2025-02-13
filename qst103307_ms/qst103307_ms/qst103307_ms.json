@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103307_msg001",
+      "style": 62,
+      "name": "届けてくれた？(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst103307_msg0001",
+      "style": 84,
+      "name": "Oh dear oh dear."
+    },
+    {
+      "$id": 3,
+      "label": "qst103307_msg0002",
+      "style": 84,
+      "name": "O-oh, hey, you guys.\nSorry, I've just...never dealt with\nanything like this before."
+    },
+    {
+      "$id": 4,
+      "label": "qst103307_msg0003",
+      "style": 84,
+      "name": "Oh, thanks for taking care of it!\nHow were the kids?\nI hope they're not too lonely..."
+    },
+    {
+      "$id": 5,
+      "label": "qst103307_msg0004",
+      "style": 84,
+      "name": "That's good."
+    },
+    {
+      "$id": 6,
+      "label": "qst103307_msg0005",
+      "style": 84,
+      "name": "I just wish Da would come back\nto take care of them like he should."
+    },
+    {
+      "$id": 7,
+      "label": "qst103307_msg0006",
+      "style": 84,
+      "name": "After Ma died, he just walked\nout on us. \"Blame the Empire,\nnot me,\" he said."
+    },
+    {
+      "$id": 8,
+      "label": "qst103307_msg0007",
+      "style": 84,
+      "name": "But now it's the Empire that's\nputting food on our table..."
+    },
+    {
+      "$id": 9,
+      "label": "qst103307_msg0008",
+      "style": 84,
+      "name": "Anyway, enough about that.\nThis is quite the situation."
+    },
+    {
+      "$id": 10,
+      "label": "qst103307_msg0009",
+      "style": 84,
+      "name": "We don't really have any leads on the\nidentity of the deceased woman..."
+    },
+    {
+      "$id": 11,
+      "label": "qst103307_msg0010",
+      "style": 84,
+      "name": "Thanks for your support.\nIf you could find some kind of clues,\nanything at all, that would be great."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400078_03_msg0001",
+      "style": 84,
+      "name": "Since Fan-sama passed away, I feel\nthe people have grown less accepting\nof the refugees."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400078_03_msg0002",
+      "style": 84,
+      "name": "Perhaps it is only human nature.\nWhen we feel sadness or frustration,\nwe lash out at the nearest targets."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400078_03_msg0003",
+      "style": 84,
+      "name": "I only hope that the people of Acedia\ncan hold on to the ideals of harmony\nand forgiveness that define this nation."
+    }
+  ]
+}

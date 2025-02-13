@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310181_01_msg0001",
+      "style": 84,
+      "name": "Mgh? Oh, you are...\nYou're from the outside, aren't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310181_01_msg0002",
+      "style": 84,
+      "name": "If you're just travelers stopping by,\nI'd appreciate it if you could clear out\nas soon as you're ready."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310181_01_msg0003",
+      "style": 84,
+      "name": "Luxuria has limited interaction with\nthe other nations..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310181_01_msg0004",
+      "style": 84,
+      "name": "It's forbidden to trade in unlicensed\ngoods, but some people still try to\nsell board games... Such bother."
+    }
+  ]
+}

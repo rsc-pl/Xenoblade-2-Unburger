@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310341_04_msg0001",
+      "style": 84,
+      "name": "Hey, did you notice something?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310341_04_msg0002",
+      "style": 84,
+      "name": "The bigger this mercenary band gets,\nthe more people come to Hræsvelgr."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310341_04_msg0003",
+      "style": 84,
+      "name": "We're getting more and more new\nblood in our ranks!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310341_04_msg0004",
+      "style": 84,
+      "name": "If you see any of the new rookies\naround, say hi, why don't you?"
+    }
+  ]
+}

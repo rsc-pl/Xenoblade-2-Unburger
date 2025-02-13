@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000011_msg0001",
+      "style": 84,
+      "name": "Well, hello stranger!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000011_msg0002",
+      "style": 84,
+      "name": "Why don't we all eat together?\nFood's already on the table."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000011_msg0003",
+      "style": 84,
+      "name": "You can tell me all about what Rex\nhas been getting up to."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310191_04_msg0001",
+      "style": 84,
+      "name": "We loaded this Divine Beast battleship\nwith rations in preparation for\nwar with Superbia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310191_04_msg0002",
+      "style": 84,
+      "name": "But now we're using those rations\nthat were intended to be used for war\nto feed the refugees instead."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310191_04_msg0003",
+      "style": 84,
+      "name": "We all have to work together to\nmake it through these trying times."
+    }
+  ]
+}

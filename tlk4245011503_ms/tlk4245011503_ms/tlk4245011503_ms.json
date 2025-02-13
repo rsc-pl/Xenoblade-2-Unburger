@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450115_03_msg0001",
+      "style": 84,
+      "name": "Still not ready to board?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450115_03_msg0002",
+      "style": 84,
+      "name": "Friend's ticket not expire, so we set off\nonly when you say the word."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450115_03_msg0003",
+      "style": 84,
+      "name": "Friends should not rush. Just do what\nfriends need to do in Goldmund."
+    }
+  ]
+}

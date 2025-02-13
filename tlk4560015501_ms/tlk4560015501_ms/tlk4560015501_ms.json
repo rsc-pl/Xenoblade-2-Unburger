@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4560015501_msg0001",
+      "style": 84,
+      "name": "I received a letter from Harghal,\nwith some money attached."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4560015501_msg0002",
+      "style": 84,
+      "name": "The letter wasn't long - she just asked\nme not to worry about her, because\nshe's doing fine."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4560015501_msg0003",
+      "style": 84,
+      "name": "I have no idea where she might be, but\nif she's happy, that's enough for me."
+    }
+  ]
+}

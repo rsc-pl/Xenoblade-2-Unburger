@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501001_msg0001",
+      "style": 84,
+      "name": "Hey there.\nLooking to transfer some cash?"
+    },
+    {
+      "$id": 2,
+      "label": "qst501001_msg0002",
+      "style": 84,
+      "name": "How much you wanna send?"
+    },
+    {
+      "$id": 3,
+      "label": "qst501001_msg0003",
+      "style": 165,
+      "name": "Send some money?"
+    },
+    {
+      "$id": 4,
+      "label": "qst501001_msg0018",
+      "style": 165,
+      "name": "Send 10,000G"
+    },
+    {
+      "$id": 5,
+      "label": "qst501001_msg0019",
+      "style": 165,
+      "name": "Send 30,000G"
+    },
+    {
+      "$id": 6,
+      "label": "qst501001_msg0020",
+      "style": 165,
+      "name": "Send 90,000G"
+    },
+    {
+      "$id": 7,
+      "label": "qst501001_msg0021",
+      "style": 165,
+      "name": "Don't send anything"
+    },
+    {
+      "$id": 8,
+      "label": "qst501001_msg0004",
+      "style": 84,
+      "name": "OK, that all seems to be in order."
+    },
+    {
+      "$id": 9,
+      "label": "qst501001_msg0005",
+      "style": 84,
+      "name": "You're a good kid, you know.\nAlways sending money home like this."
+    },
+    {
+      "$id": 10,
+      "label": "qst501001_msg0006",
+      "style": 84,
+      "name": "It'll be for Correl in Iyasaki Village,\nright? Yeah, I still remember."
+    },
+    {
+      "$id": 11,
+      "label": "qst501001_msg0007",
+      "style": 84,
+      "name": "Don't worry, you can count on me\nto get it delivered safe."
+    },
+    {
+      "$id": 12,
+      "label": "qst501001_msg0008",
+      "style": 84,
+      "name": "Whew, that's quite the sum."
+    },
+    {
+      "$id": 13,
+      "label": "qst501001_msg0009",
+      "style": 84,
+      "name": "Don't worry, we only assign the best\ncouriers to big transfers like this.\nWe'll see it gets there safe."
+    },
+    {
+      "$id": 14,
+      "label": "qst501001_msg0010",
+      "style": 84,
+      "name": "'Course, given how tough you guys\nare, it might be easier for you to\njust deliver the cash in person..."
+    },
+    {
+      "$id": 15,
+      "label": "qst501001_msg0011",
+      "style": 84,
+      "name": "But hey, I guess I can see how that\nmight feel awkward sometimes."
+    },
+    {
+      "$id": 16,
+      "label": "qst501001_msg0012",
+      "style": 84,
+      "name": "Can't complain when you're giving\nus work to do!"
+    },
+    {
+      "$id": 17,
+      "label": "qst501001_msg0013",
+      "style": 84,
+      "name": "So, how much'll it be this time?"
+    },
+    {
+      "$id": 18,
+      "label": "qst501001_msg0014",
+      "style": 84,
+      "name": "Hey there.\nLooking to transfer some cash?"
+    },
+    {
+      "$id": 19,
+      "label": "qst501001_msg0015",
+      "style": 84,
+      "name": "Ah, but listen. You've already sent over\n90,000G lately, and that's on top of\nthe 90 thousand from that big job."
+    },
+    {
+      "$id": 20,
+      "label": "qst501001_msg0016",
+      "style": 84,
+      "name": "Don't you think you've done enough\nfor now? I'd go have a chat with that\nCorrel, if I were you."
+    },
+    {
+      "$id": 21,
+      "label": "qst501001_msg0017",
+      "style": 84,
+      "name": "If she needs any more than this,\nshe must be trying to build a castle\nor something!"
+    }
+  ]
+}

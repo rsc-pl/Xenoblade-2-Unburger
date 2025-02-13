@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45400053_01_msg0001",
+      "style": 84,
+      "name": "Welcome to my humble store.\nI have a good eye for artwork - you\nwon't be disappointed in my selection."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45400053_01_msg0004",
+      "style": 84,
+      "name": "Hi there, owner!\nGood to see you again."
+    }
+  ]
+}

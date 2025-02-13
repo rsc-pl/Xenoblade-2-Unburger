@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09020100_0010",
+      "style": 82,
+      "name": "That too close, meh!\nIf we just a bit higher, it would have hit us!"
+    },
+    {
+      "$id": 2,
+      "label": "bf09020100_0020",
+      "style": 82,
+      "name": "Where did-"
+    },
+    {
+      "$id": 3,
+      "label": "bf09020100_0030",
+      "style": 82,
+      "name": "Superbia?!\nImpossible!"
+    }
+  ]
+}

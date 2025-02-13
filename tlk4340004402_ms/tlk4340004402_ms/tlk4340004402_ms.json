@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400044_02_msg0001",
+      "style": 84,
+      "name": "Well if it isn't Vandham!\nIt's been a while."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400044_02_msg0002",
+      "style": 84,
+      "name": "Today's stay's on the house, for\nold time's sake. Now get yourselves\nsome rest!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400044_02_msg0003",
+      "style": 84,
+      "name": "Make yourselves at home."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400044_02_msg0004",
+      "style": 84,
+      "name": "Off for a wander?\nWell, come back whenever you're done."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400044_02_msg0005",
+      "style": 84,
+      "name": "Rest here?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk43400044_02_msg0006",
+      "style": 84,
+      "name": "Yes"
+    },
+    {
+      "$id": 7,
+      "label": "tlk43400044_02_msg0007",
+      "style": 84,
+      "name": "No"
+    }
+  ]
+}

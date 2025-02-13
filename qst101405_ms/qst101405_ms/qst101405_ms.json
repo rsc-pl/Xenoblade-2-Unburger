@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101405_msg001",
+      "style": 62,
+      "name": "生物学者らしき死体はみあたらないな(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101405_msg0001",
+      "style": 84,
+      "name": "No sign of the researcher...\nMaybe they ran away?"
+    },
+    {
+      "$id": 3,
+      "label": "qst101405_msg0002",
+      "style": 84,
+      "name": "The researcher's missing...\nThink they ran away?"
+    },
+    {
+      "$id": 4,
+      "label": "qst101405_msg0003",
+      "style": 84,
+      "name": "No researcher yet...\nMaybe they'd done a runner?"
+    },
+    {
+      "$id": 5,
+      "label": "qst101405_msg0004",
+      "style": 84,
+      "name": "No sign of researcher...\nMaybe got away safe?"
+    },
+    {
+      "$id": 6,
+      "label": "qst101405_msg0005",
+      "style": 84,
+      "name": "The researcher is unaccounted for.\nThere's a chance they got away..."
+    }
+  ]
+}

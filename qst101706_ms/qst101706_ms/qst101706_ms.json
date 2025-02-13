@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101706_msg001",
+      "style": 62,
+      "name": "話はわかりました\nグーラへ行きます（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst101706_msg002",
+      "style": 62,
+      "name": "準備をしたら\nグーラへ向かいますね（仮）"
+    }
+  ]
+}

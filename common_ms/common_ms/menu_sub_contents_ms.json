@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Accessories"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Enhance Arts"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Affinity Chart"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Engage Blades"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Driver Info"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Weapon Modification"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Equip Aux Cores"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Blade Info"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Manage Blades"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Change Order"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Change Main Character"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Change Time"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Pouch Setup"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Key Items"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Refine Aux Cores"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Story Log"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Quests"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Enemies"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Drivers"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Blades"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Characters"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Character Setup"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Blade Setup"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Item List"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Hanaswap"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Enemy Album"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Item List"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Encyclopedia"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Blades"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Merc Group"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "System"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Save Game"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Create/Crystallize Parts"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Options"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Blade Album"
+    },
+    {
+      "$id": 39,
+      "style": 25,
+      "name": "Use WP to strengthen Arts."
+    },
+    {
+      "$id": 40,
+      "style": 25,
+      "name": "Set Blades you want to travel with."
+    },
+    {
+      "$id": 41,
+      "style": 25,
+      "name": "Use SP to enhance character's abilities."
+    },
+    {
+      "$id": 42,
+      "style": 25,
+      "name": "Empower character with accessories."
+    },
+    {
+      "$id": 43,
+      "style": 25,
+      "name": "Empower character with Pouch items."
+    },
+    {
+      "$id": 44,
+      "style": 25,
+      "name": "Modify Blade's weapon with Core Chips."
+    },
+    {
+      "$id": 45,
+      "style": 25,
+      "name": "Check on Blade's growth."
+    },
+    {
+      "$id": 46,
+      "style": 25,
+      "name": "Empower Blade with Aux Cores."
+    },
+    {
+      "$id": 47,
+      "style": 25,
+      "name": "Switch between Hikari and Homura."
+    },
+    {
+      "$id": 48,
+      "style": 25,
+      "name": "Use Nia as a Blade."
+    },
+    {
+      "$id": 49,
+      "style": 25,
+      "name": "Empower Hana with collected parts."
+    },
+    {
+      "$id": 50,
+      "style": 25,
+      "name": "Manage parts for empowering Hana."
+    },
+    {
+      "$id": 51,
+      "style": 25,
+      "name": "Awaken a new Blade."
+    },
+    {
+      "$id": 52,
+      "style": 25,
+      "name": "See a list of resonated Blades."
+    },
+    {
+      "$id": 53,
+      "style": 25,
+      "name": "View illustrations and information about\nthe rarer Blades you've resonated with."
+    },
+    {
+      "$id": 54,
+      "style": 25,
+      "name": "See a list of monsters you've battled."
+    },
+    {
+      "$id": 55,
+      "style": 25,
+      "name": "Save your progress up to this point."
+    },
+    {
+      "$id": 56,
+      "style": 25,
+      "name": "Change the time of day."
+    },
+    {
+      "$id": 57,
+      "style": 25,
+      "name": "Adjust various game settings."
+    },
+    {
+      "$id": 58,
+      "style": 25,
+      "name": "Adjust settings relating to the camera."
+    },
+    {
+      "$id": 59,
+      "style": 25,
+      "name": "Adjust settings relating to sound."
+    },
+    {
+      "$id": 60,
+      "style": 25,
+      "name": "Adjust the screen's brightness."
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Expansion Pass"
+    },
+    {
+      "$id": 62,
+      "style": 25,
+      "name": "Adjust settings relating to gameplay."
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Notifications"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Free Gifts"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Community"
+    },
+    {
+      "$id": 66,
+      "style": 25,
+      "name": "Check gameplay tips."
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Tips"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Iira DLC Celebration"
+    }
+  ]
+}

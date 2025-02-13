@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350122_03_msg0001",
+      "style": 84,
+      "name": "I used to live in a town called Echell,\nyou know!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350122_03_msg0002",
+      "style": 84,
+      "name": "I fell head over heels in love with\nthis girl who lived there."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350122_03_msg0003",
+      "style": 84,
+      "name": "She was the daughter of the lord who\nran the place. She was such a sweet,\nelegant young lady!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350122_03_msg0004",
+      "style": 84,
+      "name": "If I weren't a Phonex, I would\nhave proposed to her for sure."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42350122_03_msg0005",
+      "style": 84,
+      "name": "But it's weird...it seems like she\njust disappeared at some point.\nThe whole mansion is gone now!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42350122_03_msg0006",
+      "style": 84,
+      "name": "It was such a shock when I found out.\nI hope I see her again someday!"
+    }
+  ]
+}

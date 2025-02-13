@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200143_01_msg0001",
+      "style": 84,
+      "name": "Jelved's amazing for real!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200143_01_msg0002",
+      "style": 84,
+      "name": "My parents are gone too,\nbut I'd never considered\nharboring a grudge..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200143_01_msg0003",
+      "style": 84,
+      "name": "I mean, revenge doesn't actually\nsolve anything, and it's not like\nhe can bring them back."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200143_01_msg0004",
+      "style": 84,
+      "name": "Ah, well, life here is fun enough for me.\nNo point in making a fuss, really."
+    }
+  ]
+}

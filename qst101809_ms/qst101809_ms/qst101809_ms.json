@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101809_msg001",
+      "style": 62,
+      "name": "LIST_QST101809仮実装"
+    },
+    {
+      "$id": 2,
+      "label": "qst101809_msg002",
+      "style": 62,
+      "name": "借金をまけるつもりはないよ"
+    },
+    {
+      "$id": 3,
+      "label": "qst101809_msg003",
+      "style": 62,
+      "name": "50万G払うか\n価値の高いトレジャー品を三つ程持ってきな"
+    },
+    {
+      "$id": 4,
+      "label": "qst101809_msg0001",
+      "style": 84,
+      "name": "Oh, where Budada gone?\nWoe is Possah."
+    },
+    {
+      "$id": 5,
+      "label": "qst101809_msg0002",
+      "style": 84,
+      "name": "Friend Budada not come back for so\nmany days."
+    },
+    {
+      "$id": 6,
+      "label": "qst101809_msg0003",
+      "style": 84,
+      "name": "Possah know deep down...\nBudada must be returned to ether..."
+    },
+    {
+      "$id": 7,
+      "label": "qst101809_msg0101",
+      "style": 84,
+      "name": "Oh, my poor little roundy-fatty,\nfluffy-puffy Budada..."
+    },
+    {
+      "$id": 8,
+      "label": "qst101809_msg0102",
+      "style": 84,
+      "name": "That lanky-manky no-Blade Nopon not\npossibly Budada!"
+    }
+  ]
+}

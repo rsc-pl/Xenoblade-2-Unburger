@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400045_01_msg0001",
+      "style": 84,
+      "name": "Tolulu think employer spending more\nand more time shut inside."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400045_01_msg0002",
+      "style": 84,
+      "name": "If Tolulu not here, Tolulu expect he\nprobably starve to death by now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400045_01_msg0003",
+      "style": 84,
+      "name": "Tolulu not saying a word! Tolulu\nswear on non-disclosure agreement\nnot to give out secrets!"
+    }
+  ]
+}

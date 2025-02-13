@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400805_msg0001",
+      "style": 84,
+      "name": "You're playing tag or something, right?\nI probably shouldn't help you, then.\nWouldn't be fair."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400805_msg0002",
+      "style": 84,
+      "name": "What? That kid's a thief?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk400805_msg0003",
+      "style": 84,
+      "name": "Oh, right... He must be the one\nOtto was telling me about."
+    },
+    {
+      "$id": 4,
+      "label": "tlk400805_msg0004",
+      "style": 84,
+      "name": "Otto the woodcutter keeps telling\nme he saw this boy hanging around\noutside of the town."
+    },
+    {
+      "$id": 5,
+      "label": "tlk400805_msg0005",
+      "style": 84,
+      "name": "He always tells him to come back\ninto the town, 'cos it's not safe\noutside, but the boy just runs off."
+    },
+    {
+      "$id": 6,
+      "label": "tlk400805_msg0006",
+      "style": 84,
+      "name": "That's about all I know, though.\nMaybe you should ask Otto himself?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk400805_msg0007",
+      "style": 84,
+      "name": "You'll find him over at Nocclia\nTimber Site. Take care, now."
+    }
+  ]
+}

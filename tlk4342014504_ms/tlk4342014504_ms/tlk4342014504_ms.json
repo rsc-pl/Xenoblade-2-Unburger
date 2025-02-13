@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420145_04_msg0001",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries have really\ncome on in leaps and bounds."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420145_04_msg0002",
+      "style": 84,
+      "name": "Bet they're stronger than even when\nVandham was in charge."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420145_04_msg0003",
+      "style": 84,
+      "name": "When you go back to base after\na long absence, do you have lots\nof new recruits?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420145_04_msg0004",
+      "style": 84,
+      "name": "If you want to be a truly great leader,\nit's important to remember the faces\nof the mercenaries you command."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43420145_04_msg0005",
+      "style": 84,
+      "name": "Do you think you could name them?"
+    }
+  ]
+}

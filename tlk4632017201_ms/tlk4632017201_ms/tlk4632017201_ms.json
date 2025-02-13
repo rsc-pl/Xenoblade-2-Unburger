@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320172_01_msg0001",
+      "style": 84,
+      "name": "You must be the party who were invited\nhere by His Holiness the Pope.\nGood evening to you all."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320172_01_msg0002",
+      "style": 84,
+      "name": "If you seek an audience with\nHis Holiness, head for the cathedral\non the far side of this plaza."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320172_01_msg0003",
+      "style": 84,
+      "name": "If you have time, I would recommend\ntaking a look at the cathedral's famous\nmural of the creation of Alst."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46320172_01_msg0004",
+      "style": 84,
+      "name": "It is a priceless work of art unique\nto Acedia. Many enjoy gazing upon it\nand contemplating the distant past."
+    }
+  ]
+}

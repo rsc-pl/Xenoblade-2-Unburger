@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn013_msg0001",
+      "style": 84,
+      "name": "Boss! Nia!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn013_msg0002",
+      "style": 84,
+      "name": "Innkeeper say there is very lovely view\nat Farlaine Wells!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn013_msg0003",
+      "style": 84,
+      "name": "Sort of place not just every person\nable to get to!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn013_msg0004",
+      "style": 84,
+      "name": "But Blade can help you to get there!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn013_msg0005",
+      "style": 84,
+      "name": "Let's go there!"
+    }
+  ]
+}

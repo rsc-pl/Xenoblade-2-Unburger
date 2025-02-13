@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320292_01_msg0001",
+      "style": 84,
+      "name": "You don't want to go carelessly\ntouching Divine Beast weapons."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320292_01_msg0002",
+      "style": 84,
+      "name": "We still don't fully understand\neverything about how they function."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320292_01_msg0003",
+      "style": 84,
+      "name": "That's why we had an explosive\nincident three months ago."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320292_01_msg0004",
+      "style": 84,
+      "name": "I hope we can finish up here soon\nso I can get back to Superbia..."
+    }
+  ]
+}

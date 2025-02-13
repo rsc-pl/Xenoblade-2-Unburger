@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300181_01_msg0001",
+      "style": 84,
+      "name": "I am but a humble bard."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300181_01_msg0002",
+      "style": 84,
+      "name": "I haven't a chance of leaving Luxuria..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300181_01_msg0003",
+      "style": 84,
+      "name": "In fact, my only talent is to sing the\nballads my master taught me, and\nthat gets me pittance."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300181_01_msg0004",
+      "style": 84,
+      "name": "The ballad of Adel is particularly\npopular around here."
+    },
+    {
+      "$id": 5,
+      "label": "tlk44300181_01_msg0005",
+      "style": 84,
+      "name": "In fact, I've sung it so many times,\nI can hardly remember the words\nto the rest of the songs..."
+    }
+  ]
+}

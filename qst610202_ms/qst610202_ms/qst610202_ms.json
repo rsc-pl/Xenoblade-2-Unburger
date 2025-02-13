@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst610202_msg0001",
+      "style": 84,
+      "name": "What's this statue doing here...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst610202_msg0002",
+      "style": 84,
+      "name": "That's one hungry-looking Nopon!\nMaybe we should give it an offering..."
+    },
+    {
+      "$id": 3,
+      "label": "qst610202_msg0101",
+      "style": 84,
+      "name": "What's a Nopon statue doing in a place\nlike this...?"
+    },
+    {
+      "$id": 4,
+      "label": "qst610202_msg0102",
+      "style": 84,
+      "name": "Maybe we can make a little offering...\nYou know, for luck."
+    },
+    {
+      "$id": 5,
+      "label": "qst610202_msg0201",
+      "style": 84,
+      "name": "Meh-meh! This is...Thank-You Statue!"
+    },
+    {
+      "$id": 6,
+      "label": "qst610202_msg0202",
+      "style": 84,
+      "name": "Must give thanks!\nThank you, Thank-You Statue!"
+    },
+    {
+      "$id": 7,
+      "label": "qst610202_msg0203",
+      "style": 84,
+      "name": "Grampypon always say good to give\ntasty treats to Thank-You Statue."
+    },
+    {
+      "$id": 8,
+      "label": "qst610202_msg0204",
+      "style": 84,
+      "name": "Just wait here, Thank-You Statue!"
+    },
+    {
+      "$id": 9,
+      "label": "qst610202_msg0301",
+      "style": 84,
+      "name": "It appears to be a stone statue.\nThe carvings are impressively lifelike..."
+    },
+    {
+      "$id": 10,
+      "label": "qst610202_msg0302",
+      "style": 84,
+      "name": "I believe we may as well leave\na token gift."
+    },
+    {
+      "$id": 11,
+      "label": "qst610202_msg0401",
+      "style": 84,
+      "name": "Why would someone put a Nopon\nstatue in this kind of dump?"
+    },
+    {
+      "$id": 12,
+      "label": "qst610202_msg0402",
+      "style": 84,
+      "name": "Ugh, it's giving me the willies, but...\nI also feel compelled...to give it things?!\nLots...and lots of things..."
+    }
+  ]
+}

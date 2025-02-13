@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320123_06_msg0001",
+      "style": 84,
+      "name": "Acedia's sunk beneath the Cloud Sea\nand we're being flooded with refugees!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320123_06_msg0002",
+      "style": 84,
+      "name": "We're already seeing scuffles popping\nup between the refugees and the locals\nall around the city center..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320123_06_msg0003",
+      "style": 84,
+      "name": "It's a total shambles! And even if I\nwent back to the homeland, it's on\nthe verge of sinking too! HELP!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320123_06_msg0004",
+      "style": 84,
+      "name": "Somebody... Anybody...\nGet Alst out of this mess!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320123_06_msg0005",
+      "style": 84,
+      "name": "You're going to help us?!\nOh, yes! Please do, please do!"
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Collection point"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Treasure trove"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Fallen tree"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Named tombstone"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Airflow"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "壁ジャンプ予備"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Underground spring"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Door"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Vent"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Ether miasma"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Call button"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Elevator button"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Excavation"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Valve"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Hangar division console"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Circuit box"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Pathway control panel"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Drawbridge controls"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Lattice door"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Ventilation fan"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Stacked wooden boxes"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Huge rock"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Ether tank control panel"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Control panel"
+    },
+    {
+      "$id": 25,
+      "style": 171,
+      "name": "Keycode terminal"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Fallen tree"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "崩れた大岩"
+    },
+    {
+      "$id": 28,
+      "style": 171,
+      "name": "Keycode terminal"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Upper perimeter door"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Energy room door"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Central gate"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "操舵室の扉"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Malign miasma"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Sealstone of Earth"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Miasma barrier"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Dead end"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Coral-covered bedrock"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Sealstone of Water"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Blocked floodgate"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Obstructive roots"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Cole's room door"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Locked fence"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Smùide Plant door"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Old drainage sluice"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Bent iron door"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "開閉バルブ（仮）"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Vestige of light"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Rusted door"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "内鍵1号棟5Fの扉（仮）"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Control room door"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Access gate"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Central control panel"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Ether fuel chamber"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "加工室小　東側扉（仮）"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "加工室小　西側扉（仮）"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "事務室の扉（仮）"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "内鍵1号棟3Fの扉（仮）"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Frozen barrier"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Sealstone of Light"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Sealstone of Thunder"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Sealstone of Ice"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Sealstone of Darkness"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Overgrown ivy"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Suspicious hole"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "玄関扉（仮）"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "ドーンの部屋の扉（仮）"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Segmented waterfall"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Sealstone of Wind"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Divine Beast's reflex center"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Cracked wall"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Viewpoint brazier"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Storage area door"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Collapsed frozen bridge"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Stele of Judgment"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "光のない洞窟（仮）"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Spider web"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Crest-marked wall"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Hangar door controls"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Hangar door"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Safety device panel"
+    },
+    {
+      "$id": 81,
+      "style": 171,
+      "name": "Hangar division control panel"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Control lever"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "配電室の扉（仮）"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Switchboard"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Rusted sign"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Anangham Gate"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Snow mound"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Ice-encased Therida"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Incinerator controls"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Frozen pond"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Vault door"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "謁見の間の扉（仮）"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "アステル部屋"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "兵士部屋の扉（仮）"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "B3F通路部屋の扉（仮）"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "B3F倉庫の扉（仮）"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Treasury door"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "脆そうな壁（仮）"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "脆そうな壁（仮）"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Inn door"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Wheelhouse door"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "船長室の扉"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Warehouse back door"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Sealstone of Fire"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "壊せる壁（仮）"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Control room door"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "保管庫の扉（仮）"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "客室の扉（仮）"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "執務室の扉（仮）"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "執務室の扉（仮）"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Tora's hidden door"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Precarious icicle"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Salvage Point"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Bonding Talk"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Control panel"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Shrine door"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Cargo warehouse door"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Fuel container"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Port warehouse door"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Cell door"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Armory door"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Defense door"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Sealed bulkhead"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Withered tree"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Small waterfall"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Obstructive roots"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Noxious bog"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Green barrel"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Unlit lantern"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Geyser"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Campsite"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Tree"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Flower"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Vegetable"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Insect nest"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Waterside"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Mineral deposit"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Old machine"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Miasma residue"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Unusual plant"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Glowing stone"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Catch"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Fragrant flower"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Large old machine"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Gleaming rock"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Yielding soil"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Insect cocoon"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Impressive tree"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Pretty wildflowers"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Fresh vegetables"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Burrowed insect nest"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Pristine waterside"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Ancient mineral deposit"
+    }
+  ]
+}

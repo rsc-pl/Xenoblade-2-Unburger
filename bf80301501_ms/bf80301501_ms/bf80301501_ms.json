@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "45890101",
+      "style": 82,
+      "name": "I'm Nanakoori. Pleasure!"
+    },
+    {
+      "$id": 2,
+      "label": "45890102",
+      "style": 82,
+      "name": "Whooaaah!"
+    },
+    {
+      "$id": 3,
+      "label": "45890103",
+      "style": 82,
+      "name": "Tee hee hee... Bahahahaha!"
+    },
+    {
+      "$id": 4,
+      "label": "45890104",
+      "style": 82,
+      "name": "Shoulder to the wheel! Right, Beary?"
+    }
+  ]
+}

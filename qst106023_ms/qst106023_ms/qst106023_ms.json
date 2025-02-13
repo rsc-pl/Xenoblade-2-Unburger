@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst106023_msg0001",
+      "style": 84,
+      "name": "Energy finally finish charging!"
+    },
+    {
+      "$id": 2,
+      "label": "qst106023_msg0002",
+      "style": 84,
+      "name": "Masterpon, it really time now?"
+    },
+    {
+      "$id": 3,
+      "label": "qst106023_msg0003",
+      "style": 84,
+      "name": "Time is come, yes."
+    },
+    {
+      "$id": 4,
+      "label": "qst106023_msg0004",
+      "style": 84,
+      "name": "Time for Hana to grow up and blossom\ninto powered-up lady!"
+    },
+    {
+      "$id": 5,
+      "label": "qst106023_msg0005",
+      "style": 84,
+      "name": "Hana ready when Masterpon ready!"
+    },
+    {
+      "$id": 6,
+      "label": "qst106023_msg0006",
+      "style": 84,
+      "name": "Leave it to Tora and Dadapon!"
+    }
+  ]
+}

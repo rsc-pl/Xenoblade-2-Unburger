@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45450111_03_msg0001",
+      "style": 84,
+      "name": "Me and Harghal, we both have\na flair for dancing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45450111_03_msg0002",
+      "style": 84,
+      "name": "That's why Bahn took such a shine\nto us, and now we're his personal\ndancing girls and secretaries."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45450111_03_msg0003",
+      "style": 84,
+      "name": "Though if I'm honest, I think he likes\nHarghal more than he likes me."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45450111_03_msg0004",
+      "style": 84,
+      "name": "At any rate, I'm grateful for how well\nhe treats us, and I enjoy the work."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45450111_03_msg0005",
+      "style": 84,
+      "name": "I almost wish life could go on\nlike this forever."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210018304_msg0001",
+      "style": 84,
+      "name": "In fiction, Lapupu can become anyone!\nLike swishy-swashy hero or fluffy-puff\nprincess or zip-a-zip fairy!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210018304_msg0002",
+      "style": 84,
+      "name": "But not able to touch world of fiction.\nNot see or smell either."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210018304_msg0003",
+      "style": 84,
+      "name": "When Lapupu a bit older, Lapupu want\nto go on great adventure, see Alst!\nMaybe then will find real-life fairy!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100141_01_msg0001",
+      "style": 84,
+      "name": "I used to live on an island, but it got\ncaught up in a conflict between Invidia\nand Superbia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100141_01_msg0002",
+      "style": 84,
+      "name": "The grown-ups kept yelling at each\nother about where to go, where the\nbest place for us would be."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100141_01_msg0003",
+      "style": 84,
+      "name": "In the end, they split into two groups,\none for Invidia and one for Superbia,\nand started fighting among themselves."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100141_01_msg0004",
+      "style": 84,
+      "name": "Grown-ups really are the worst..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100141_01_msg0005",
+      "style": 84,
+      "name": "Vandham said they\naren't all the same."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100141_01_msg0006",
+      "style": 84,
+      "name": "But frankly, I find that hard to believe..."
+    }
+  ]
+}

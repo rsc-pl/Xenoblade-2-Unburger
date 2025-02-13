@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400024_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Cmalaf Artwork! Your one-\nstop shop for all the best works of art,\nselected by me with extreme prejudice."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400024_01_msg0004",
+      "style": 84,
+      "name": "Welcome to Cmalaf Artwork!\nIt's always a pleasure to see our\nesteemed owner!"
+    }
+  ]
+}

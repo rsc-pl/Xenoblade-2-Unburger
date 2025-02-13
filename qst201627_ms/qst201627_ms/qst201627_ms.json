@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201627_msg0001",
+      "style": 84,
+      "name": "Do your best, Miss!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201627_msg0002",
+      "style": 84,
+      "name": "You're a great singer, Miss!\nI'm sure it'll be amazing!\nDon't worry, I'm cheering you on!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201627_msg0003",
+      "style": 84,
+      "name": "And make the most of my Torigonda!\nDon't worry about giving it back, either!"
+    }
+  ]
+}

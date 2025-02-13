@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320391_01_msg0001",
+      "style": 84,
+      "name": "His Majesty gave the order to halt\nall Divine Beast weapon excavation, but\nSenator Roderich went ahead anyway."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320391_01_msg0002",
+      "style": 84,
+      "name": "Since it's all unofficial, we never got\nsent any powerful Driver soldiers\nto back us up or anything."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320391_01_msg0003",
+      "style": 84,
+      "name": "So of course we were never going to be\nable to face up to the likes of Iira!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320391_01_msg0004",
+      "style": 84,
+      "name": "He just doesn't know how to\nmanage a crisis at all.\nDon't tell anyone I said that, mind."
+    }
+  ]
+}

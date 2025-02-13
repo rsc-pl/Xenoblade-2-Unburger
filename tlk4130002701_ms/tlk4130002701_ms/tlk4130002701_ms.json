@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300027_01_msg0001",
+      "style": 84,
+      "name": "Welcome to the finest gadget shop\nin town! If it's not on the shelf, it's\nnot worth buying!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300027_01_msg0002",
+      "style": 84,
+      "name": "Oh, but granddad told me not to give\nany discounts, so don't even ask!"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk033_msg0001",
+      "style": 84,
+      "name": "So, Rex, you lived here?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk033_msg0002",
+      "style": 84,
+      "name": "Huh? No, this was my getaway.\nYou know, like a secret hideout."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk033_msg0003",
+      "style": 84,
+      "name": "I lived on Gramps.\nI'd moor him next to\nthat cliff over the way."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk033_msg0004",
+      "style": 84,
+      "name": "What kind of kid were you, Rex?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk033_msg0005",
+      "style": 84,
+      "name": "I dunno. I've not really thought about it."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk033_msg0006",
+      "style": 84,
+      "name": "I bet you're curious too, right Nia?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk033_msg0007",
+      "style": 84,
+      "name": "Oh, er, well, maybe a bit."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk033_msg0008",
+      "style": 84,
+      "name": "I could tell you a few stories about\nwhen Rex was younger."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk033_msg0009",
+      "style": 84,
+      "name": "Ah yes... He was a wild child, that's\nfor sure. A bit of a tearaway."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk033_msg0010",
+      "style": 84,
+      "name": "He was never the biggest child, but he\nhad a strong sense of justice. Always\npicking fights with the local bullies!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk033_msg0011",
+      "style": 84,
+      "name": "I think I still have the bumps to prove it."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk033_msg0012",
+      "style": 84,
+      "name": "So he's been this full of energy his\nwhole life?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk033_msg0013",
+      "style": 84,
+      "name": "Sounds like you were a right handful!"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk033_msg0014",
+      "style": 84,
+      "name": "My my, you certainly seem interested."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk033_msg0015",
+      "style": 84,
+      "name": "Well then, perhaps I'll tell you\nmy best Rex story."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk033_msg0016",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk033_msg0017",
+      "style": 164,
+      "name": "Whoa, wait just a sec!"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk033_msg0018",
+      "style": 164,
+      "name": "Go on then. I've got nothing to hide!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk033_msg0101",
+      "style": 84,
+      "name": "What do you mean, \"best\"?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk033_msg0102",
+      "style": 84,
+      "name": "One day, one of the local kids\nwas attacked by a monster."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk033_msg0103",
+      "style": 84,
+      "name": "Without thinking, Rex jumped\nin to help him."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk033_msg0104",
+      "style": 84,
+      "name": "That's our reckless Rex!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk033_msg0105",
+      "style": 84,
+      "name": "That's your story?\nOf course I'm gonna help someone\nin danger!"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk033_msg0106",
+      "style": 84,
+      "name": "What happened after that?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk033_msg0107",
+      "style": 84,
+      "name": "Both Rex and the kid had to\nbe rescued by the villagers."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk033_msg0108",
+      "style": 84,
+      "name": "Huh? Wasn't Rex meant to be\nthe one doing the rescuing?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk033_msg0109",
+      "style": 84,
+      "name": "That was his plan. Unfortunately, he\njust ended up in the same hot water."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk033_msg0110",
+      "style": 84,
+      "name": "Hah. Rex, you genius."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk033_msg0111",
+      "style": 84,
+      "name": "That night, I heard Rex\nbawling his eyes out."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk033_msg0112",
+      "style": 84,
+      "name": "Was he was in pain from his wounds,\nI asked."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk033_msg0113",
+      "style": 84,
+      "name": "But he replied \"No, I just wish\nI'd been able to save my friend.\""
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk033_msg0114",
+      "style": 84,
+      "name": "Injury held no fear for him, but\nthe anguish of not being able to\nsave his friend was unbearable."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk033_msg0115",
+      "style": 84,
+      "name": "And he cried about that?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk033_msg0116",
+      "style": 84,
+      "name": "What's the big deal?\nKids cry. It's normal!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk033_msg0117",
+      "style": 84,
+      "name": "No, Rex. Nia is impressed."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk033_msg0118",
+      "style": 84,
+      "name": "Aren't you?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk033_msg0119",
+      "style": 84,
+      "name": "Sure."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk033_msg0120",
+      "style": 84,
+      "name": "I was surprised at your bravery.\nEven at that age..."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk033_msg0121",
+      "style": 84,
+      "name": "We admire you, Rex."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk033_msg0122",
+      "style": 84,
+      "name": "Aw, stoppit! You'll make me blush."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk033_msg0123",
+      "style": 84,
+      "name": "Ho ho ho.\nI told you it was a good story!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk033_msg0201",
+      "style": 84,
+      "name": "Gramps'll just exaggerate it anyway."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk033_msg0202",
+      "style": 84,
+      "name": "So you won't mind me telling\nthem about the time you wet yourself\nwhen there was a monster attack?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk033_msg0203",
+      "style": 84,
+      "name": "Huh?\nNo, that's not-"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk033_msg0204",
+      "style": 84,
+      "name": "W-wet yourself?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk033_msg0205",
+      "style": 84,
+      "name": "Rex, you baby."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk033_msg0206",
+      "style": 84,
+      "name": "That was just when I was a kid!\nI don't do it anymore!"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk033_msg0207",
+      "style": 84,
+      "name": "Don't even think about carrying\non with the story, Gramps!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk033_msg0208",
+      "style": 84,
+      "name": "Aw, c'mon. We wanna hear!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk033_msg0209",
+      "style": 84,
+      "name": "No!\nHomura, please... You don't want to hear\nit, do you?"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk033_msg0210",
+      "style": 84,
+      "name": "Um...\nActually, I kind of do."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk033_msg0211",
+      "style": 84,
+      "name": "Huh?!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk033_msg0212",
+      "style": 84,
+      "name": "This is a story about the time one of\nthe local bullies fell foul of a monster."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk033_msg0213",
+      "style": 84,
+      "name": "Rex didn't hesitate. He packed up and..."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk033_msg0214",
+      "style": 84,
+      "name": "Gramps, please stop!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk033_msg0215",
+      "style": 84,
+      "name": "Is wetting yourself really that\nembarrassing?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk033_msg0216",
+      "style": 84,
+      "name": "Super embarrassing! Nia, don't tell me\nit's never happened to you!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk033_msg0217",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk033_msg0218",
+      "style": 84,
+      "name": "Maybe we should hear a different story."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk033_msg0219",
+      "style": 84,
+      "name": "Oho, you'd like to hear an even\nmore embarrassing story?"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk033_msg0220",
+      "style": 84,
+      "name": "No! Stop!\nDon't encourage him, Homura!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk033_msg0221",
+      "style": 84,
+      "name": "Huh? I just want to know as\nmuch about you as possible, Rex."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk033_msg0222",
+      "style": 84,
+      "name": "Well said.\nDrivers and Blades should know\neverything about each other."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk033_msg0223",
+      "style": 84,
+      "name": "Yeah, well, there's everything\nand there's EVERYTHING.\nCan we please just drop it?"
+    }
+  ]
+}

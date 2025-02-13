@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk80000001_01_msg0001",
+      "style": 84,
+      "name": "Let's have a look then..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk80000001_01_msg0002",
+      "style": 84,
+      "name": "Looks like someone needs a hand."
+    },
+    {
+      "$id": 3,
+      "label": "tlk80000001_01_msg0003",
+      "style": 84,
+      "name": "Time to accept some missions."
+    },
+    {
+      "$id": 4,
+      "label": "tlk80000001_01_msg0101",
+      "style": 84,
+      "name": "What've we got here then?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk80000001_01_msg0102",
+      "style": 84,
+      "name": "Looks like some folks need helping out."
+    },
+    {
+      "$id": 6,
+      "label": "tlk80000001_01_msg0103",
+      "style": 84,
+      "name": "Let's see what missions are up\nfor grabs..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk80000001_01_msg0201",
+      "style": 84,
+      "name": "What missions Tora can grabby-grab?"
+    },
+    {
+      "$id": 8,
+      "label": "tlk80000001_01_msg0202",
+      "style": 84,
+      "name": "Yes indeedy, people in needy!"
+    },
+    {
+      "$id": 9,
+      "label": "tlk80000001_01_msg0203",
+      "style": 84,
+      "name": "Now it time for Tora to shine!"
+    },
+    {
+      "$id": 10,
+      "label": "tlk80000001_01_msg0301",
+      "style": 84,
+      "name": "Now what have we here?"
+    },
+    {
+      "$id": 11,
+      "label": "tlk80000001_01_msg0302",
+      "style": 84,
+      "name": "I'm curious..."
+    },
+    {
+      "$id": 12,
+      "label": "tlk80000001_01_msg0303",
+      "style": 84,
+      "name": "Let's have the Hræsvelgr mercenaries\nclear up some trouble."
+    },
+    {
+      "$id": 13,
+      "label": "tlk80000001_01_msg0401",
+      "style": 84,
+      "name": "What have we got here, eh?"
+    },
+    {
+      "$id": 14,
+      "label": "tlk80000001_01_msg0402",
+      "style": 84,
+      "name": "Doesn't matter where you go, there's\nalways someone who needs help."
+    },
+    {
+      "$id": 15,
+      "label": "tlk80000001_01_msg0403",
+      "style": 84,
+      "name": "Just relax and let the Zekenator\nhandle this."
+    }
+  ]
+}

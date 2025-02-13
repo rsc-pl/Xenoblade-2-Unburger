@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300081_03_msg0001",
+      "style": 84,
+      "name": "Want friends to see commercial\nsuccess story of Mamanji!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300081_03_msg0002",
+      "style": 84,
+      "name": "Board game shop of Mamanji,\nHobby Trappers, is just above here!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300081_03_msg0003",
+      "style": 84,
+      "name": "It times like these we need good form\nof entertainment, to take mind off\nterrible things happening in world!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300081_03_msg0004",
+      "style": 84,
+      "name": "Although there still people who get too\ninto game and start arguing. People\ntake games too seriously in Luxuria..."
+    }
+  ]
+}

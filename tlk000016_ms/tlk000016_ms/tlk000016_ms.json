@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000016_msg0001",
+      "style": 84,
+      "name": "Dorara hear the news!\nFriends wanting to go to Luxuria?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000016_msg0002",
+      "style": 165,
+      "name": "Set sail?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000016_msg0003",
+      "style": 165,
+      "name": "Let's go"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000016_msg0004",
+      "style": 165,
+      "name": "Not yet..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk000016_msg0005",
+      "style": 84,
+      "name": "Actually, ship captain was Acedian, and\ngo into deep mourning for Fan-sama.\nThen was nobody left to steer ship..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk000016_msg0006",
+      "style": 84,
+      "name": "And so, Dorara get selected to replace!\nDorara never go there before, so will\nhave to work hard to make trip success!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk000016_msg0007",
+      "style": 84,
+      "name": "Dorara not worry, though. With prince\nof Luxuria on board, getting in should\nbe piece of pollen cake!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk000016_msg0008",
+      "style": 84,
+      "name": "Dorara understand. Friends need\nmental composure before visit\nto Luxuria."
+    },
+    {
+      "$id": 9,
+      "label": "tlk000016_msg0009",
+      "style": 84,
+      "name": "Dorara not going anywhere, so no need\nfor rushings!"
+    }
+  ]
+}

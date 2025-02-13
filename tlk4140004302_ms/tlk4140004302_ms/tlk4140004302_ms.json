@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004302_msg0001",
+      "style": 84,
+      "name": "Thanks a lot for picking me! I can tell\nyou're a great bunch."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004302_msg0002",
+      "style": 84,
+      "name": "I'm acting as head chef during the\nevening."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004302_msg0003",
+      "style": 84,
+      "name": "Making sure everyone's content is\npart of the job, and keeping their\nbellies full is no exception!"
+    }
+  ]
+}

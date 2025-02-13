@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_04_msg0001",
+      "style": 84,
+      "name": "Magomago surprised out of fur when\nDivine Beast start moving with big groan!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_04_msg0002",
+      "style": 84,
+      "name": "But Magomago not afraid! Not when\nMagomago have Grampypon by side!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_04_msg0003",
+      "style": 84,
+      "name": "Grampypon say it Nopon ethic to keep\nraking in profit at times like this!"
+    }
+  ]
+}

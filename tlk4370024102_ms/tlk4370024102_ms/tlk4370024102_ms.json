@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700241_02_msg0001",
+      "style": 84,
+      "name": "I lost to you because I wasn't using\nmy Aux Cores properly."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700241_02_msg0002",
+      "style": 84,
+      "name": "You know how there's one called\nDamage Heal?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700241_02_msg0003",
+      "style": 84,
+      "name": "If you equip that, then every time you\nget attacked, you get a portion of HP\nback."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700241_02_msg0004",
+      "style": 84,
+      "name": "If the Holy Grail ever decided to fight me\nagain, I'd be able to stand up to her\nnow without being such a pushover!"
+    }
+  ]
+}

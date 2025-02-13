@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000501_01_msg0001",
+      "style": 84,
+      "name": "Hail, friends. Nilny on little touristy\nexcursion to Superbia Empire."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000501_01_msg0003",
+      "style": 84,
+      "name": "Alba Margen really is splendid place.\nAir is clear and food exquisite."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000501_01_msg0004",
+      "style": 84,
+      "name": "Meh? I get it backward? Ahaha...\nOops. That happen from time to time."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000501_01_msg0005",
+      "style": 84,
+      "name": "Err... Nilny probably go look around\nsomewhere now. But much thanks for\nsaying hello."
+    }
+  ]
+}

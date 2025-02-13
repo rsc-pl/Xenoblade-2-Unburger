@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320151_05_msg0001",
+      "style": 84,
+      "name": "Unauthorized persons are not permitted\nentry to Hadashal Palace."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320151_05_msg0002",
+      "style": 84,
+      "name": "Be on your way."
+    }
+  ]
+}

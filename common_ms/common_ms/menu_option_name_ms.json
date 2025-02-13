@@ -1,0 +1,214 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 151,
+      "name": "Invert up/down"
+    },
+    {
+      "$id": 2,
+      "style": 151,
+      "name": "Invert left/right"
+    },
+    {
+      "$id": 3,
+      "style": 151,
+      "name": "Auto camera response speed"
+    },
+    {
+      "$id": 4,
+      "style": 151,
+      "name": "Camera reset response speed"
+    },
+    {
+      "$id": 5,
+      "style": 151,
+      "name": "Auto-camera extra turn speed"
+    },
+    {
+      "$id": 6,
+      "style": 151,
+      "name": "Turn speed"
+    },
+    {
+      "$id": 7,
+      "style": 151,
+      "name": "Zoom speed"
+    },
+    {
+      "$id": 8,
+      "style": 151,
+      "name": "Subtitles"
+    },
+    {
+      "$id": 9,
+      "style": 151,
+      "name": "Cutscene voice volume"
+    },
+    {
+      "$id": 10,
+      "style": 151,
+      "name": "Script event volume"
+    },
+    {
+      "$id": 11,
+      "style": 151,
+      "name": "Game BGM volume"
+    },
+    {
+      "$id": 12,
+      "style": 151,
+      "name": "Game SE volume"
+    },
+    {
+      "$id": 13,
+      "style": 151,
+      "name": "Game voice volume"
+    },
+    {
+      "$id": 14,
+      "style": 151,
+      "name": "Battle Narration volume"
+    },
+    {
+      "$id": 15,
+      "style": 151,
+      "name": "Environment volume"
+    },
+    {
+      "$id": 16,
+      "style": 151,
+      "name": "System volume"
+    },
+    {
+      "$id": 17,
+      "style": 25,
+      "name": "Screen Brightness"
+    },
+    {
+      "$id": 18,
+      "style": 151,
+      "name": "Gradient Correction"
+    },
+    {
+      "$id": 19,
+      "style": 35,
+      "name": "Voice"
+    },
+    {
+      "$id": 20,
+      "style": 25,
+      "name": "Difficulty level"
+    },
+    {
+      "$id": 21,
+      "style": 35,
+      "name": "Easy"
+    },
+    {
+      "$id": 22,
+      "style": 35,
+      "name": "Normal"
+    },
+    {
+      "$id": 23,
+      "style": 35,
+      "name": "Bringer of Chaos"
+    },
+    {
+      "$id": 24,
+      "style": 35,
+      "name": "Custom"
+    },
+    {
+      "$id": 25,
+      "style": 25,
+      "name": "Auto-battle"
+    },
+    {
+      "$id": 26,
+      "style": 25,
+      "name": "Automate Special Button Challenges"
+    },
+    {
+      "$id": 27,
+      "style": 25,
+      "name": "Enemy Aggression"
+    },
+    {
+      "$id": 28,
+      "style": 25,
+      "name": "Enemy Attack Power"
+    },
+    {
+      "$id": 29,
+      "style": 25,
+      "name": "Enemy Attack Frequency"
+    },
+    {
+      "$id": 30,
+      "style": 25,
+      "name": "Enemy Maximum HP"
+    },
+    {
+      "$id": 31,
+      "style": 25,
+      "name": "Enemy Debuff Duration"
+    },
+    {
+      "$id": 32,
+      "style": 25,
+      "name": "Player Blade Combo Buffer Time"
+    },
+    {
+      "$id": 33,
+      "style": 25,
+      "name": "Party Gauge Gains"
+    },
+    {
+      "$id": 34,
+      "style": 25,
+      "name": "Player Special Recharge Rate"
+    },
+    {
+      "$id": 35,
+      "style": 25,
+      "name": "Player Health Restoration"
+    },
+    {
+      "$id": 36,
+      "style": 25,
+      "name": "Chain Attack Damage Multiplier"
+    },
+    {
+      "$id": 37,
+      "style": 25,
+      "name": "Ascended State Party Gauge Use"
+    },
+    {
+      "$id": 38,
+      "style": 25,
+      "name": "Auto-Save Function"
+    },
+    {
+      "$id": 39,
+      "style": 25,
+      "name": "Skip Community Registration"
+    },
+    {
+      "$id": 40,
+      "style": 35,
+      "name": "Special BGM"
+    }
+  ]
+}

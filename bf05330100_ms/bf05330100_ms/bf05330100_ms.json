@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf05330100_0010",
+      "style": 82,
+      "name": "It's still intact after all these centuries. Amazing."
+    },
+    {
+      "$id": 2,
+      "label": "bf05330100_0020",
+      "style": 82,
+      "name": "The pinnacle of Flesh Eater technology..."
+    },
+    {
+      "$id": 3,
+      "label": "bf05330100_0030",
+      "style": 82,
+      "name": "Tenacious creatures, humans."
+    },
+    {
+      "$id": 4,
+      "label": "bf05340100_0010",
+      "style": 82,
+      "name": "I'm so sorry to do this to you..."
+    }
+  ]
+}

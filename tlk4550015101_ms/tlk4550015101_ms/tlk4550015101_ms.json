@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500151_01_msg0001",
+      "style": 84,
+      "name": "Welcoooooome to Adelno Musiiiic! ♪\nAll the beeeeeest in Ardaaaainian\niiiiinstruments! ♪"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500151_01_msg0004",
+      "style": 84,
+      "name": "Owneeeeeer! ♪\nSuch a pleasure to seeeeeee you! ♪\nEnjoy your visit to Adelno Musiiiiic! ♪"
+    }
+  ]
+}

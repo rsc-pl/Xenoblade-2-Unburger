@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn010_msg0001",
+      "style": 84,
+      "name": "Hey ho. What say we chill out together\nfor a while, homie."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn010_msg0002",
+      "style": 84,
+      "name": "Sure. Where d'ya want to go?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn010_msg0003",
+      "style": 84,
+      "name": "How about we go and climb to the\nvery top of the windmill thingummy in\nTretl Windmill Plaza?"
+    }
+  ]
+}

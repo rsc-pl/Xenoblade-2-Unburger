@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502009_msg0001",
+      "style": 84,
+      "name": "How is this machine supposed to work?"
+    },
+    {
+      "$id": 2,
+      "label": "qst502009_msg0002",
+      "style": 84,
+      "name": "I've seen a lot of salvaged machinery\nin my time, but nothing quite like this."
+    },
+    {
+      "$id": 3,
+      "label": "qst502009_msg0101",
+      "style": 84,
+      "name": "I suppose this thing might work\nif it were fed a stable flow of\nlightning energy..."
+    },
+    {
+      "$id": 4,
+      "label": "qst502009_msg0102",
+      "style": 84,
+      "name": "We'd need someone with an enormous\nsupply of lightning energy, and the\nability to control it very precisely."
+    },
+    {
+      "$id": 5,
+      "label": "qst502009_msg0103",
+      "style": 84,
+      "name": "If you're going to try it out, be sure to\ndo it at night. It's dangerous during the\nday with so many people around."
+    }
+  ]
+}

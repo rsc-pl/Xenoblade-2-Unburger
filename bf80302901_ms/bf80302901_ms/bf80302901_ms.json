@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "24890101",
+      "style": 82,
+      "name": "I'm Benkei, so what."
+    },
+    {
+      "$id": 2,
+      "label": "24890201",
+      "style": 82,
+      "name": "Ah, so very dull..."
+    },
+    {
+      "$id": 3,
+      "label": "24890301",
+      "style": 82,
+      "name": "Hmph... I'll do it but I don't like it..."
+    }
+  ]
+}

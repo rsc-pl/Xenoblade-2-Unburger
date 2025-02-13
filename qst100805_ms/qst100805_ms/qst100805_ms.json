@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100805_msg0001",
+      "style": 84,
+      "name": "I wonder if there's an easy way up...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100805_msg0002",
+      "style": 84,
+      "name": "Thanks for helping me out here."
+    },
+    {
+      "$id": 3,
+      "label": "qst100805_msg0101",
+      "style": 84,
+      "name": "Thanks for bringing Cherlie back.\nI'm much obliged!"
+    },
+    {
+      "$id": 4,
+      "label": "qst100805_msg0102",
+      "style": 84,
+      "name": "Eurgh...\nI don't feel so good."
+    }
+  ]
+}

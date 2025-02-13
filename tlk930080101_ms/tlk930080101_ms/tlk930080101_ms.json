@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300801_01_msg0001",
+      "style": 84,
+      "name": "Enough of your insolence, retainers.\nWhat would possess you to leave your\nKing behind in this sorry place?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300801_01_msg0002",
+      "style": 84,
+      "name": "I decree that you will take me\nto a more worthy stage!"
+    }
+  ]
+}

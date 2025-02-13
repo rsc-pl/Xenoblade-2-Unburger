@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320392_01_msg0001",
+      "style": 84,
+      "name": "Three months ago, there was an\nexplosive accident caused by the\nDivine Beast weapon."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320392_01_msg0002",
+      "style": 84,
+      "name": "According to the testimony of the\nsurviving workers, the cause was\nhuman error."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320392_01_msg0003",
+      "style": 84,
+      "name": "Some fool tried to operate the system\nwithout following the procedures, and\nhandled the Divine Beast fluid incorrectly."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320392_01_msg0004",
+      "style": 84,
+      "name": "Moral is, even when we think we have\nthis great weapon under control,\nwe don't really understand it."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320392_01_msg0005",
+      "style": 84,
+      "name": "Whoever built this thing is probably\nlaughing at us from beyond the grave."
+    }
+  ]
+}

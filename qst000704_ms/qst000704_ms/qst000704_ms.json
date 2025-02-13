@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000704_msg0001",
+      "style": 84,
+      "name": "Fiddlesticks! Tweedlebum!\nHow could I lose to Eluned?!"
+    },
+    {
+      "$id": 2,
+      "label": "qst000704_msg0002",
+      "style": 84,
+      "name": "I can't believe he actually got one!"
+    },
+    {
+      "$id": 3,
+      "label": "qst000704_msg0003",
+      "style": 84,
+      "name": "Ah, but at least I saw a\nSnow-White Rhino with my own eyes..."
+    },
+    {
+      "$id": 4,
+      "label": "qst000704_msg0004",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]It's so emotional..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk20010151_01_msg0001",
+      "style": 84,
+      "name": "My lord is like family to me.\nHe is kind, caring; an all-round\nwonderful person."
+    },
+    {
+      "$id": 2,
+      "label": "tlk20010151_01_msg0002",
+      "style": 84,
+      "name": "There's just one problem...\nHe's still green when it comes to battle\nand fears the sight of blood."
+    },
+    {
+      "$id": 3,
+      "label": "tlk20010151_01_msg0003",
+      "style": 84,
+      "name": "Kindness can be seen as weakness.\nThat's why I endeavor to support my\nlord in whatever capacity I can."
+    }
+  ]
+}

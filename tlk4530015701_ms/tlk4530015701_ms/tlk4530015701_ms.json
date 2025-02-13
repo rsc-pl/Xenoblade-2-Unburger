@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300157_01_msg0001",
+      "style": 84,
+      "name": "This is Smùide Plant. Entry is forbidden\nto all but authorized personnel."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300157_01_msg0002",
+      "style": 84,
+      "name": "This plant is where we convert the\nheat from inside the Divine Beast into energy\nfor our steam engines."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300157_01_msg0003",
+      "style": 84,
+      "name": "You could call it the foundation of\nthe Superbian Empire's technology."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300157_01_msg0004",
+      "style": 84,
+      "name": "It's connected to the plant outside the\ncity by gondola, but don't you dare\ntry anything funny, hear?"
+    }
+  ]
+}

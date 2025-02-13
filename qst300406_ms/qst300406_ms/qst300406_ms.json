@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300406_msg001",
+      "style": 62,
+      "name": "神獣戦艦の入り口で艦長とトーク"
+    },
+    {
+      "$id": 2,
+      "label": "qst300406_msg0001",
+      "style": 84,
+      "name": "How might I help you?"
+    },
+    {
+      "$id": 3,
+      "label": "qst300406_msg0002",
+      "style": 84,
+      "name": "A Jeweled Signet?\nNothing of that sort around here,\nI assure you."
+    },
+    {
+      "$id": 4,
+      "label": "qst300406_msg0003",
+      "style": 84,
+      "name": "Now, if you will excuse me, we are\nquite busy here with preparations to\ndepart. I would ask you to kindly leave."
+    },
+    {
+      "$id": 5,
+      "label": "qst300406_msg0101",
+      "style": 84,
+      "name": "Companions of the Special Inquisitor\nthough you may be, this is hardly a\nplace for civilians to loiter."
+    }
+  ]
+}

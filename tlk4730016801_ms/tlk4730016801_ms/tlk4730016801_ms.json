@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4730016801_msg0001",
+      "style": 84,
+      "name": "Eyup, pal!\nI'm wondering what we're supposed\nto do with this building here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4730016801_msg0002",
+      "style": 84,
+      "name": "It's looking the worse for wear, so it\nneeds repairing, that's for sure. The\nquestion is, how?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4730016801_msg0003",
+      "style": 84,
+      "name": "Could use it for storage, but it's a bit of\na waste. Thing is, if we turn it into a\nhouse, then there's no one to live in it!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4730016801_msg0004",
+      "style": 84,
+      "name": "Unless of course you decided to\nsettle down with a nice lass, Rex.\nThat'd solve all our problems!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk4730016801_msg0104",
+      "style": 84,
+      "name": "Unless of course Rex decides to\nsettle down with a nice lass.\nThat'd solve all our problems!"
+    }
+  ]
+}

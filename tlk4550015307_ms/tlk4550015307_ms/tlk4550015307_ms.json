@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500153_07_msg0001",
+      "style": 84,
+      "name": "Let me tell you about something that\nhappened while I was at the baths."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500153_07_msg0002",
+      "style": 84,
+      "name": "I was just getting ready for a nice soak,\nchatting about the latest gossip, when\nan earthquake shook the whole place!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500153_07_msg0003",
+      "style": 84,
+      "name": "Ran out onto the roof stark naked I did,\nand what do you think I saw? Only the\nWorld Tree drawing closer and closer!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500153_07_msg0004",
+      "style": 84,
+      "name": "And that wasn't the end of it, either!\nSuddenly the Divine Beast itself unleashed\na mighty attack!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45500153_07_msg0005",
+      "style": 84,
+      "name": "It blew up such a powerful wind,\nmy towel was swept clean away!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45500153_07_msg0006",
+      "style": 84,
+      "name": "Everyone scrambled back down\ninto the baths as fast as our\nlegs could carry us!"
+    }
+  ]
+}

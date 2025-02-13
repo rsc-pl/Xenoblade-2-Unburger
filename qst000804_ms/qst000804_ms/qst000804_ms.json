@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000804_msg001",
+      "style": 62,
+      "name": "この紙切れなんだろう？(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst000804_msg002",
+      "style": 62,
+      "name": "地図が描いてある(仮)"
+    }
+  ]
+}

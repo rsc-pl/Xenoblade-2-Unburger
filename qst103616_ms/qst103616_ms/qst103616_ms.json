@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103616_msg0001",
+      "style": 84,
+      "name": "Please! Let me go!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103616_msg0002",
+      "style": 84,
+      "name": "I haven't done anything wrong!\nI'm totally innocent!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103616_msg0003",
+      "style": 84,
+      "name": "Hmph. Obstructing official business is\na pretty major crime, you know!"
+    }
+  ]
+}

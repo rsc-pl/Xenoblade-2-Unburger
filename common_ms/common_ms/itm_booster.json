@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Bravery Booster"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Truth Booster"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Compassion Booster"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Justice Booster"
+    },
+    {
+      "$id": 5,
+      "style": 0,
+      "name": "ブースター青-1"
+    },
+    {
+      "$id": 6,
+      "style": 0,
+      "name": "ブースター赤-1"
+    },
+    {
+      "$id": 7,
+      "style": 0,
+      "name": "ブースター白-1"
+    },
+    {
+      "$id": 8,
+      "style": 0,
+      "name": "ブースター黒-1"
+    }
+  ]
+}

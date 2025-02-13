@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk501502_msg0001",
+      "style": 165,
+      "name": "Deposit some money for Linne?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk501502_msg0004",
+      "style": 165,
+      "name": "Deposit 10,000G"
+    },
+    {
+      "$id": 3,
+      "label": "tlk501502_msg0005",
+      "style": 165,
+      "name": "Deposit 50,000G"
+    },
+    {
+      "$id": 4,
+      "label": "tlk501502_msg0006",
+      "style": 165,
+      "name": "Deposit 100,000G"
+    },
+    {
+      "$id": 5,
+      "label": "tlk501502_msg0007",
+      "style": 165,
+      "name": "Don't deposit anything"
+    },
+    {
+      "$id": 6,
+      "label": "tlk501502_msg0002",
+      "style": 84,
+      "name": "Linne's note: 'Thanks to you we have\namassed 1,000,000G for the fulfillment\nof our dreams.'"
+    },
+    {
+      "$id": 7,
+      "label": "tlk501502_msg0003",
+      "style": 84,
+      "name": "Linne's note: 'Additional funds are not\nrequired. We will soon hold a\ndelightful tea party.'"
+    }
+  ]
+}

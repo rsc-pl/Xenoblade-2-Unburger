@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09070100_0010",
+      "style": 82,
+      "name": "My Queen! Is that-?!"
+    },
+    {
+      "$id": 2,
+      "label": "bf09070100_0020",
+      "style": 82,
+      "name": "The World Tree..."
+    },
+    {
+      "$id": 3,
+      "label": "bf09070100_0030",
+      "style": 82,
+      "name": "Superbia, Acedia..."
+    },
+    {
+      "$id": 4,
+      "label": "bf09070100_0040",
+      "style": 82,
+      "name": "What the blazes is going on out there?"
+    },
+    {
+      "$id": 5,
+      "label": "bf09070100_0050",
+      "style": 82,
+      "name": "Highness! Our Divine Beast, it's-!"
+    }
+  ]
+}

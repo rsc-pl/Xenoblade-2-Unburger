@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46310171_02_msg0001",
+      "style": 84,
+      "name": "For some reason I can't forget the sight\nof Fan-sama's face as she gazed upon\nthe tales of Alst's creation..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46310171_02_msg0002",
+      "style": 84,
+      "name": "She looked so strangely melancholy...\nI can't imagine what must have been\ngoing through her mind."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46310171_02_msg0003",
+      "style": 84,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "tlk46310171_02_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

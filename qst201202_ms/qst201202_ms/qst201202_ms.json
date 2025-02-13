@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201202_msg0001",
+      "style": 84,
+      "name": "Knock it off, Veero!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201202_msg0002",
+      "style": 84,
+      "name": "Waaagh! B-but..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201202_msg0003",
+      "style": 84,
+      "name": "Hey, boys! What's wrong?\nI'd like to help you if I can!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201202_msg0004",
+      "style": 84,
+      "name": "Nothing's wrong!\nIt's just my little brother, Veero, he-"
+    },
+    {
+      "$id": 5,
+      "label": "qst201202_msg0005",
+      "style": 84,
+      "name": "Huh?!"
+    },
+    {
+      "$id": 6,
+      "label": "qst201202_msg0006",
+      "style": 84,
+      "name": "B-brother! It's them!"
+    },
+    {
+      "$id": 7,
+      "label": "qst201202_msg0007",
+      "style": 84,
+      "name": "Ah?!\nThe one-eyed Blades?!"
+    },
+    {
+      "$id": 8,
+      "label": "qst201202_msg0008",
+      "style": 84,
+      "name": "We gotta run, bro!"
+    },
+    {
+      "$id": 9,
+      "label": "qst201202_msg0009",
+      "style": 84,
+      "name": "Y-yeah!\nWait for me!"
+    },
+    {
+      "$id": 10,
+      "label": "qst201202_msg0010",
+      "style": 84,
+      "name": "Uh? What's wrong?!\nHey, hold up, what's going on?"
+    },
+    {
+      "$id": 11,
+      "label": "qst201202_msg0011",
+      "style": 84,
+      "name": "...Mikumari.\nStop intimidating people."
+    },
+    {
+      "$id": 12,
+      "label": "qst201202_msg0012",
+      "style": 84,
+      "name": "I did not intimidate them!"
+    },
+    {
+      "$id": 13,
+      "label": "qst201202_msg0013",
+      "style": 84,
+      "name": "Anyway, we should go after them!"
+    },
+    {
+      "$id": 14,
+      "label": "qst201202_msg0014",
+      "style": 84,
+      "name": "I don't really get what's happened,\nbut it's got to be some sort of mistake\nthat we can straighten out!"
+    },
+    {
+      "$id": 15,
+      "label": "qst201202_msg0015",
+      "style": 84,
+      "name": "...Fine. Whatever."
+    }
+  ]
+}

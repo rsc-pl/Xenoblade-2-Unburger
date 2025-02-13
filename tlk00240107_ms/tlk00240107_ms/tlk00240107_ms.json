@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00240107_msg0001",
+      "style": 84,
+      "name": "Grandpa's a lot livelier than he was\nbefore!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00240107_msg0002",
+      "style": 84,
+      "name": "He's been going backstage a lot more\nnow too..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00240107_msg0003",
+      "style": 84,
+      "name": "And Mister Vandham's story's coming\nalong nicely!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00240107_msg0004",
+      "style": 84,
+      "name": "I'm looking forward to seeing it on\nstage. You should come and see it too!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45450112_04_msg0001",
+      "style": 84,
+      "name": "Chairman Bahn has been too busy\nlately to give us much work to do,\nclerical or dancing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45450112_04_msg0002",
+      "style": 84,
+      "name": "Since our pay is commission-based,\nthat's not great for our bottom line."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45450112_04_msg0003",
+      "style": 84,
+      "name": "It's a real problem...\nI'm not sure what I ought to do."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300054_04_msg0001",
+      "style": 84,
+      "name": "I can't believe it...\nHow could they make Superbia's\nDivine Beast do something so reckless?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300054_04_msg0002",
+      "style": 84,
+      "name": "Little cracks are starting to show all\nover Alba Margen, and it's taking\neverything I have to fix them all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300054_04_msg0003",
+      "style": 84,
+      "name": "Apparently they even picked up\nsome worrying readings at the\nGeothermal Mining Plant."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300054_04_msg0004",
+      "style": 84,
+      "name": "It looks like things may have calmed\ndown for now, but how much longer\ncan the Divine Beast really hold up?"
+    }
+  ]
+}

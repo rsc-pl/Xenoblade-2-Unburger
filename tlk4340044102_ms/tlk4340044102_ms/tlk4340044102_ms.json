@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400441_02_msg0001",
+      "style": 84,
+      "name": "I see...\nSo my father, he..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400441_02_msg0002",
+      "style": 84,
+      "name": "Now that I'm married to an Invidian,\nI don't get back to Trigo often."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400441_02_msg0003",
+      "style": 84,
+      "name": "But, I think I'll go and have a look\nat the old house sooner or later."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400441_02_msg0004",
+      "style": 84,
+      "name": "He must have entrusted those golden\nbracers to you because he knew he\nhadn't long left."
+    }
+  ]
+}

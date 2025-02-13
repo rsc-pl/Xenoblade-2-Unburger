@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300054_03_msg0001",
+      "style": 84,
+      "name": "The Superbia Divine Beast's life is running\nout, everybody knows it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300054_03_msg0002",
+      "style": 84,
+      "name": "My dad tells me that when he was\na boy, there was much less steam\nhanging in the air around here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300054_03_msg0003",
+      "style": 84,
+      "name": "As a Divine Beast's death draws closer,\nthe surface temperature of its body\nstarts to rise."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300054_03_msg0004",
+      "style": 84,
+      "name": "Apparently it's hotter this month\nthan it was the last, even."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300054_03_msg0005",
+      "style": 84,
+      "name": "You have to wonder how much longer\nthis whole place will hold out."
+    }
+  ]
+}

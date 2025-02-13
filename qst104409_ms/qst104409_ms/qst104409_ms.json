@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104409_msg001",
+      "style": 62,
+      "name": "ありがとう。楽しかったよ(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104409_msg002",
+      "style": 62,
+      "name": "話を聞く①"
+    },
+    {
+      "$id": 3,
+      "label": "qst104409_msg003",
+      "style": 62,
+      "name": "話を聞く②"
+    },
+    {
+      "$id": 4,
+      "label": "qst104409_msg004",
+      "style": 62,
+      "name": "話を聞く③"
+    }
+  ]
+}

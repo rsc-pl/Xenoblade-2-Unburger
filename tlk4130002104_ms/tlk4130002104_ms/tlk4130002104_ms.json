@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300021_04_msg0001",
+      "style": 84,
+      "name": "Lately, the adventurers and merchants\nwho visit this port have a constant edge\nof worry in their voices."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300021_04_msg0002",
+      "style": 84,
+      "name": "The great Divine Beast of Acedia has sunk\nbeneath the clouds, and three others\nhave gathered around the World Tree..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300021_04_msg0003",
+      "style": 84,
+      "name": "Nothing about any of this is normal."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300021_04_msg0004",
+      "style": 84,
+      "name": "Gula is still quite far from the Tree,\nbut I'm sure we will be plagued with\npeople fleeing from the danger zone."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300021_04_msg0005",
+      "style": 84,
+      "name": "How did the world come to this...?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41300021_04_msg0006",
+      "style": 84,
+      "name": "It feels like the notion of peace has\nfaded away into a distant dream."
+    }
+  ]
+}

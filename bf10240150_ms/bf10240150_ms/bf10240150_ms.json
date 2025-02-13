@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10240150_0010",
+      "style": 82,
+      "name": "When a person loses something,\nthey cannot help but seek a reason why."
+    },
+    {
+      "$id": 2,
+      "label": "bf10240150_0020",
+      "style": 82,
+      "name": "Within themselves, or in others..."
+    },
+    {
+      "$id": 3,
+      "label": "bf10240150_0030",
+      "style": 82,
+      "name": "They seek a concrete answer to the question"
+    },
+    {
+      "$id": 4,
+      "label": "bf10240150_0040",
+      "style": 82,
+      "name": "of who they really are, deep inside."
+    },
+    {
+      "$id": 5,
+      "label": "bf10240150_0050",
+      "style": 82,
+      "name": "Such a very lonely existence..."
+    },
+    {
+      "$id": 6,
+      "label": "bf10240150_0060",
+      "style": 82,
+      "name": "But perhaps that is what it is to be human..."
+    }
+  ]
+}

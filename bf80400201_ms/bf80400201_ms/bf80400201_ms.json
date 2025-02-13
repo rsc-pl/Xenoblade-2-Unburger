@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "504890101",
+      "style": 82,
+      "name": "The name's Kamuya!"
+    },
+    {
+      "$id": 2,
+      "label": "504890102",
+      "style": 82,
+      "name": "[ML:undisp ]*sword swing exertion 1*"
+    },
+    {
+      "$id": 3,
+      "label": "504890103",
+      "style": 82,
+      "name": "[ML:undisp ]*sword swing exertion 2*"
+    },
+    {
+      "$id": 4,
+      "label": "504890104",
+      "style": 82,
+      "name": "[ML:undisp ]*sword swing exertion 3 (heavy)*"
+    },
+    {
+      "$id": 5,
+      "label": "504890105",
+      "style": 82,
+      "name": "[ML:undisp ]*sword swing exertion 4 and 5*"
+    },
+    {
+      "$id": 6,
+      "label": "504890106",
+      "style": 82,
+      "name": "[ML:undisp ]*sword swing exertion 6*"
+    },
+    {
+      "$id": 7,
+      "label": "504890107",
+      "style": 82,
+      "name": "[ML:undisp ]*sword swing exertion 7 (heavy)*"
+    },
+    {
+      "$id": 8,
+      "label": "504890108",
+      "style": 82,
+      "name": "Your foes won't stand a chance while I'm around!"
+    },
+    {
+      "$id": 9,
+      "label": "504890109",
+      "style": 82,
+      "name": "Hey, I don't mean to brag or anything, but I really am that good!"
+    },
+    {
+      "$id": 10,
+      "label": "504890110",
+      "style": 82,
+      "name": "You'll see soon enough!"
+    },
+    {
+      "$id": 11,
+      "label": "504890112",
+      "style": 82,
+      "name": "[ML:undisp ]*some random exert*"
+    },
+    {
+      "$id": 12,
+      "label": "504890113",
+      "style": 82,
+      "name": "[ML:undisp ]*some random exert*"
+    },
+    {
+      "$id": 13,
+      "label": "504890111",
+      "style": 82,
+      "name": "Catch you later!"
+    }
+  ]
+}

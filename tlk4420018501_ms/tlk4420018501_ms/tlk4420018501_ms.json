@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44200185_01_msg0001",
+      "style": 84,
+      "name": "You! Outlander! Have you any books?\nAny books? Books from the outside?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44200185_01_msg0002",
+      "style": 84,
+      "name": "Huff... My apologies.\nIt's just that I've read pretty much all\nI could from the library already..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44200185_01_msg0003",
+      "style": 84,
+      "name": "So I thought that visitors from the\noutside might have Invidian books,\nor Superbian ones..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44200185_01_msg0004",
+      "style": 84,
+      "name": "I'd love to read some books from the\noutside, but Luxuria won't have anything\nto do with other countries."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300183_02_msg0001",
+      "style": 84,
+      "name": "I just had meat, first time in ages!\nI feel so nourished! Yum!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300183_02_msg0002",
+      "style": 84,
+      "name": "You gotta remember, it's hard to get\nedible meat round these parts."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300183_02_msg0003",
+      "style": 84,
+      "name": "But ever since foreign trade restarted,\nmeat's become a bit more accessible!\nNot that much, though...but it's a start!"
+    }
+  ]
+}

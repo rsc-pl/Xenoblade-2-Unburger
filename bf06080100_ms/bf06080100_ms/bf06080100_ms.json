@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06080100_0010",
+      "style": 82,
+      "name": "Six o'clock already...\nHikari's been in there for a long time now..."
+    },
+    {
+      "$id": 2,
+      "label": "bf06080100_0020",
+      "style": 82,
+      "name": "We've just gotta trust 'em. They're dealing\nwith the leaders of whole nations."
+    },
+    {
+      "$id": 3,
+      "label": "bf06080100_0030",
+      "style": 82,
+      "name": "It's not like there's anything you\nor me can do to help..."
+    },
+    {
+      "$id": 4,
+      "label": "bf06080100_0040",
+      "style": 82,
+      "name": "Hikari..."
+    }
+  ]
+}

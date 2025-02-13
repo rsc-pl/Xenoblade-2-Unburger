@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200702_msg0001",
+      "style": 84,
+      "name": "But for real, that truly incredible\nchompy-chomp!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200702_msg0002",
+      "style": 84,
+      "name": "Friend Idaten become speed-eating\nsensation in Nopon society today!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200702_msg0003",
+      "style": 84,
+      "name": "Spectators also much enjoy, so\ncontest was great success!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200702_msg0004",
+      "style": 84,
+      "name": "No doubt next time success is\neven greater, meh!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200702_msg0005",
+      "style": 84,
+      "name": "Thank friend for participating!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk004001_02_msg0001",
+      "style": 84,
+      "name": "Why...\nI had only the best interests of the\nstate at heart..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk004001_02_msg0002",
+      "style": 84,
+      "name": "Was what I was doing so wrong?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk004001_02_msg0003",
+      "style": 84,
+      "name": "What was I supposed to have done to\ndefend my country? Our Divine Beast does\nnot have many years left on the clock..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk004001_02_msg0004",
+      "style": 84,
+      "name": "...Never mind. It's not as if dwelling on\nit now is going to do us any good."
+    },
+    {
+      "$id": 5,
+      "label": "tlk004001_02_msg0005",
+      "style": 84,
+      "name": "Stop that Divine Beast Weapon, I implore you!\nElse I fear Superbia is done for..."
+    }
+  ]
+}

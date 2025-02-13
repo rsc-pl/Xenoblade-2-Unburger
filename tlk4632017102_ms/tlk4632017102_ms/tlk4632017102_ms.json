@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320171_02_msg0001",
+      "style": 84,
+      "name": "With Fan-sama's passing, there is much\nmourning even among the refugees."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320171_02_msg0002",
+      "style": 84,
+      "name": "She would often personally pay visits\nto the refugee camp when the Pope\nwas too busy to attend to them."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320171_02_msg0003",
+      "style": 84,
+      "name": "I just hope this tragedy does not fan\nthe flames of the anti-Blade protests.\nErm, no pun intended, of course..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46320171_02_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

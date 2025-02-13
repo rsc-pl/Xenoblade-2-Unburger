@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170042104_msg0001",
+      "style": 84,
+      "name": "Oh, Superbia... Your indomitable\nflames... Your singular will, sharp as\na spearpoint..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170042104_msg0002",
+      "style": 84,
+      "name": "I was writing poetry about Gula\nuntil some soldiers ordered me instead\nto write about the glory of Superbia..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170042104_msg0003",
+      "style": 84,
+      "name": "They said they'd pay me if they\nliked it, so I'm putting everything\nI've got into it!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101701_msg001",
+      "style": 62,
+      "name": "聖歌隊を作りたい（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst101701_msg002",
+      "style": 62,
+      "name": "楽器を手に入れてください（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst101701_msg003",
+      "style": 62,
+      "name": "次に指導者を\nスカウトしてきてください（仮）"
+    },
+    {
+      "$id": 4,
+      "label": "qst101701_msg004",
+      "style": 62,
+      "name": "指導者は4名必要です（仮）"
+    }
+  ]
+}

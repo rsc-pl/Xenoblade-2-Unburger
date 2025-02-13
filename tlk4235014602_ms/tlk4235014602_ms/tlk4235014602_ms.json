@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350146_02_msg0001",
+      "style": 84,
+      "name": "Hototo notice lately there less\nFusty Fungus around to pick..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350146_02_msg0002",
+      "style": 84,
+      "name": "Me-eeeh?! What friends doing here?!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350146_02_msg0003",
+      "style": 84,
+      "name": "This supposed to be Hototo's secret\nden of happiness, Hototo's hidden\nparadise..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350146_02_msg0004",
+      "style": 84,
+      "name": "Oh well, it not as if Hototo lose all\nmushrooms. Come on, Hototo split\nwith you."
+    }
+  ]
+}

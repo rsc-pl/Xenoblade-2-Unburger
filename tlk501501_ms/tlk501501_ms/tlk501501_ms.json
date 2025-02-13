@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk501501_msg0001",
+      "style": 84,
+      "name": "Do you know what this sparkly box is?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk501501_msg0002",
+      "style": 84,
+      "name": "Hahaha...\nThis is my special piggy bank."
+    },
+    {
+      "$id": 3,
+      "label": "tlk501501_msg0003",
+      "style": 84,
+      "name": "My current goal is to fill it with\nlots of shiny gold."
+    },
+    {
+      "$id": 4,
+      "label": "tlk501501_msg0004",
+      "style": 84,
+      "name": "Do you think you could help me out\nwith this...simple task?"
+    }
+  ]
+}

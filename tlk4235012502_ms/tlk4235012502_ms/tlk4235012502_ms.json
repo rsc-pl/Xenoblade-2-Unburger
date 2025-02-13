@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4235012502_msg0001",
+      "style": 84,
+      "name": "Mokumoku have question. Friends\never see crazy-strong monsters on\ntravels?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4235012502_msg0002",
+      "style": 84,
+      "name": "Strong monsters get famous and\nreceive special names. Mokumoku not\nsure exactly who name them, though."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4235012502_msg0003",
+      "style": 84,
+      "name": "If friends want to challenge monsters,\nMokumoku not stop you, but best idea\nis to run away."
+    }
+  ]
+}

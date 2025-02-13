@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102905_msg001",
+      "style": 62,
+      "name": "こんなの子供だましだね"
+    },
+    {
+      "$id": 2,
+      "label": "qst102905_msg101",
+      "style": 62,
+      "name": "僕はその建築家がどんな\n偉業を成し遂げたかの方が\n気になるんだけど"
+    }
+  ]
+}

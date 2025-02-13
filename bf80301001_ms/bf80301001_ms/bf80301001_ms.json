@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "40890101",
+      "style": 82,
+      "name": "Hi! I'm Mikumari!"
+    },
+    {
+      "$id": 2,
+      "label": "40890102",
+      "style": 82,
+      "name": "Ta-daa!"
+    },
+    {
+      "$id": 3,
+      "label": "40890103",
+      "style": 82,
+      "name": "With this lance I'll reach for all my dreams!"
+    }
+  ]
+}

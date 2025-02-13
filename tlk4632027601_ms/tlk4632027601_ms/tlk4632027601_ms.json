@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4632027601_msg0001",
+      "style": 84,
+      "name": "Welcome to Goth Isut, the capital\nof the Holy See of Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4632027601_msg0002",
+      "style": 84,
+      "name": "The people of Acedia live in peace and\nharmony thanks to the teachings of\nMarveni, our beloved Pope."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4632027601_msg0003",
+      "style": 84,
+      "name": "Perhaps most important is the teaching\nthat it is never too late for anyone, even\ncriminals, to repent and live a good life."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4632027601_msg0004",
+      "style": 84,
+      "name": "The belief that faith can save any soul\nand lead it down a brighter path is one\nI hold dear to my heart."
+    }
+  ]
+}

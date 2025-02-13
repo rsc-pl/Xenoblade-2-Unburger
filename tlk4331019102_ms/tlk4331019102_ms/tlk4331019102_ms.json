@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310191_02_msg0001",
+      "style": 84,
+      "name": "Have you heard of Temperantia?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310191_02_msg0002",
+      "style": 84,
+      "name": "Invidia and Superbia are in close\nproximity around this period, and\nTemperantia is slap bang in the middle."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310191_02_msg0003",
+      "style": 84,
+      "name": "It's established as a buffer zone\nwhere all combat is prohibited."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310191_02_msg0004",
+      "style": 84,
+      "name": "But both sides station forces there\nin case something does break out."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43310191_02_msg0005",
+      "style": 84,
+      "name": "That's why we're stocking this ship up\nwith rations and soldiers and heading\nto Temperantia right now."
+    }
+  ]
+}

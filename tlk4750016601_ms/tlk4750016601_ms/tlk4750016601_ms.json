@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4750016601_msg0001",
+      "style": 84,
+      "name": "Hi there. If you're looking for passage\nto Superbia, you should catch a ship\nat Rigitte Harbor."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4750016601_msg0002",
+      "style": 84,
+      "name": "Ysheva Harbor is for ships to the\nHoly See, but those don't go very\noften, only once every five days."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4750016601_msg0003",
+      "style": 84,
+      "name": "I recommend staying a while in\nIyasaki over on the neighboring island.\nIt's the perfect place to unwind."
+    }
+  ]
+}

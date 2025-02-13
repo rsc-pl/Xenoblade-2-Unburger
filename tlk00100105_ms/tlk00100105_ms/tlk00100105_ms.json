@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001001_05_msg0001",
+      "style": 84,
+      "name": "Please, let me help you on your\njourney."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001001_05_msg0002",
+      "style": 84,
+      "name": "If there's anything I can assist you\nwith, just say the word."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001001_05_msg0003",
+      "style": 84,
+      "name": "A Divine Beast ship, Archelon...\nwhatever you need."
+    }
+  ]
+}

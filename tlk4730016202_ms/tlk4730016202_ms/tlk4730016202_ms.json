@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300162_02_msg0001",
+      "style": 84,
+      "name": "Good to have you back, Rex! You\nknow we're all proper proud of you.\nWhat brings you back so soon?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300162_02_msg0002",
+      "style": 84,
+      "name": "The Village Guardian? Well, I'd be\ncareful if I were you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300162_02_msg0003",
+      "style": 84,
+      "name": "There're some ridiculously strong\nmonsters roaming around them parts.\nBut I'm sure you're capable enough."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_01_msg0004",
+      "style": 84,
+      "name": "Monsters have never shown up here.\nI don't even want to imagine things\nlurking beneath the village..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk47300161_01_msg0101",
+      "style": 84,
+      "name": "If you're going to see the Village\nGuardian, you'd better be careful."
+    },
+    {
+      "$id": 6,
+      "label": "tlk47300161_01_msg0102",
+      "style": 84,
+      "name": "There're some ridiculously strong\nmonsters roaming around them parts.\nBut I'm sure you're capable enough."
+    },
+    {
+      "$id": 7,
+      "label": "tlk47300161_01_msg0103",
+      "style": 84,
+      "name": "Monsters have never shown up here.\nI don't even want to imagine things\nlurking beneath the village..."
+    },
+    {
+      "$id": 8,
+      "label": "tlk47300161_01_msg0104",
+      "style": 84,
+      "name": "Oh, you lot! Still got a bit of business\nto take care of have you?"
+    }
+  ]
+}

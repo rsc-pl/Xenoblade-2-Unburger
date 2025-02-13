@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst006001_msg0001",
+      "style": 84,
+      "name": "Ah, is this a stone tablet?\nIt does not seem all that old."
+    },
+    {
+      "$id": 2,
+      "label": "qst006001_msg0002",
+      "style": 84,
+      "name": "The people of Luxuria once made their\ndwellings among the Genbu Drifts."
+    },
+    {
+      "$id": 3,
+      "label": "qst006001_msg0003",
+      "style": 84,
+      "name": "Therein lay..."
+    },
+    {
+      "$id": 4,
+      "label": "qst006001_msg0004",
+      "style": 84,
+      "name": "\"Therein lay\"...? Therein lay what?"
+    },
+    {
+      "$id": 5,
+      "label": "qst006001_msg0005",
+      "style": 84,
+      "name": "I'm afraid that sentence has\nno conclusion."
+    },
+    {
+      "$id": 6,
+      "label": "qst006001_msg0006",
+      "style": 84,
+      "name": "No conclusion?\nWhat do you mean?"
+    },
+    {
+      "$id": 7,
+      "label": "qst006001_msg0007",
+      "style": 84,
+      "name": "A piece of the stone tablet is missing,\nso the sentence is unfinished."
+    },
+    {
+      "$id": 8,
+      "label": "qst006001_msg0008",
+      "style": 84,
+      "name": "Then if we want to know the full story,\nwe have to find the missing piece?"
+    },
+    {
+      "$id": 9,
+      "label": "qst006001_msg0009",
+      "style": 84,
+      "name": "Apparently the proprietor found this\ntablet around the Genbu Drifts area."
+    },
+    {
+      "$id": 10,
+      "label": "qst006001_msg0010",
+      "style": 84,
+      "name": "What d'you think, Kubira?"
+    },
+    {
+      "$id": 11,
+      "label": "qst006001_msg0011",
+      "style": 84,
+      "name": "Need you even ask?"
+    },
+    {
+      "$id": 12,
+      "label": "qst006001_msg0012",
+      "style": 84,
+      "name": "We must search far and wide for\nas many missing pieces as it takes!"
+    },
+    {
+      "$id": 13,
+      "label": "qst006001_msg0013",
+      "style": 84,
+      "name": "And then of course we will return here\nto examine the completed tablet.\nIs that understood, my retainers?"
+    },
+    {
+      "$id": 14,
+      "label": "qst006001_msg0014",
+      "style": 84,
+      "name": "Haha... As you wish, Your Majesty."
+    }
+  ]
+}

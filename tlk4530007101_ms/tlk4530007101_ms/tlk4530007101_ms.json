@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300071_01_msg0001",
+      "style": 84,
+      "name": "Just take a look at this view!\nIsn't it spectacular? You can see\nthe head of Acedia so clearly!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300071_01_msg0002",
+      "style": 84,
+      "name": "Standing here, I feel almost like I've\nbecome a bird, gliding across the\nwide Cloud Sea below."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300071_01_msg0003",
+      "style": 84,
+      "name": "You should try this too sometime, you\nknow - find a high point that juts out,\nand toss some money into the clouds."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300071_01_msg0004",
+      "style": 84,
+      "name": "They say if you throw money into the\nCloud Sea from high above, your wish\nwill come true! I sure hope mine does."
+    }
+  ]
+}

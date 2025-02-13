@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000510_msg0001",
+      "style": 62,
+      "name": "グーラ人の女の子がスペルビア帝国に\n捕まったらしいね"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000510_msg0002",
+      "style": 62,
+      "name": "神獣戦艦に収監されたそうだ"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000510_msg0003",
+      "style": 62,
+      "name": "今　この街はその話題でもちきりだよ"
+    }
+  ]
+}

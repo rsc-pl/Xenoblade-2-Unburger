@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_300_100_msg0001",
+      "style": 84,
+      "name": "ラウラ様[ML:Dash ]\n大丈夫ですか？"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_300_100_msg0002",
+      "style": 84,
+      "name": "アイツ[ML:Dash ]\nカスミの力のことを知ってた[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_300_100_msg0003",
+      "style": 84,
+      "name": "私達を追っていたんでしょうか？"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_300_100_msg0004",
+      "style": 84,
+      "name": "かもしれない[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_300_100_msg0005",
+      "style": 84,
+      "name": "シンもいないし\nこっちの手の内を知られた厳しい戦いだけど\n諦めるわけにはいかない"
+    },
+    {
+      "$id": 6,
+      "label": "campfev11_300_100_msg0006",
+      "style": 84,
+      "name": "準備ができたら\nトリゴ村に戻るよ　カスミ"
+    },
+    {
+      "$id": 7,
+      "label": "campfev11_300_100_msg0007",
+      "style": 84,
+      "name": "はい！"
+    }
+  ]
+}

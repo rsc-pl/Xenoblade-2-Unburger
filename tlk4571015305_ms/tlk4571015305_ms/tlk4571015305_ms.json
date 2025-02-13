@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45710153_05_msg0001",
+      "style": 84,
+      "name": "Who could have predicted the world\nwould come to this?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45710153_05_msg0002",
+      "style": 84,
+      "name": "But it's at times like this that we all\nneed to help each other out more\nthan ever. That's why I came here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45710153_05_msg0003",
+      "style": 84,
+      "name": "For some reason even the\nImperial Army are willing to\nlisten to what I have to say."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45710153_05_msg0004",
+      "style": 84,
+      "name": "I'm glad I can be of help to everyone."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45710153_05_msg0005",
+      "style": 84,
+      "name": "We'll be all right here, I'll make\nsure of it. So you can focus on\nsaving Alst, eh?"
+    }
+  ]
+}

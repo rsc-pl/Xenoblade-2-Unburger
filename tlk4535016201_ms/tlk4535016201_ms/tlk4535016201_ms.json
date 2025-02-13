@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4535016201_msg0001",
+      "style": 84,
+      "name": "Ah, just who I was hoping to see!\nI've been meaning to thank you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4535016201_msg0002",
+      "style": 84,
+      "name": "You set up that direct trade route from\nYsheva Harbor to Avaritia, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4535016201_msg0003",
+      "style": 84,
+      "name": "I'm really grateful for your efforts!\nThanks to you, it's so much easier to\nget Avaritia goods around here."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4535016201_msg0004",
+      "style": 84,
+      "name": "We can even enjoy the taste of\nCinnopon Rolls now! They spoil so\nfast, we couldn't get them in before."
+    }
+  ]
+}

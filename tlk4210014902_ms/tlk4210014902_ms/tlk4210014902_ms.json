@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100149_02_msg0001",
+      "style": 84,
+      "name": "Chamomo so excited about war starting\nbetween Invidia and Superbia!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100149_02_msg0002",
+      "style": 84,
+      "name": "Will be big chance for Avaritia\nTrade Guild to earn crazy-big\nbuckets of money!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100149_02_msg0003",
+      "style": 84,
+      "name": "We all set for war to break out now.\nShip already piled full of military and\nmedical supplies."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100149_02_msg0004",
+      "style": 84,
+      "name": "And we supposed to inform chairman\nat very moment Invidia make move!"
+    }
+  ]
+}

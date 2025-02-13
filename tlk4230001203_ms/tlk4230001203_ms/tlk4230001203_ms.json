@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300012_03_msg0001",
+      "style": 84,
+      "name": "Friends know about shrine above here?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300012_03_msg0002",
+      "style": 84,
+      "name": "Shrine has been around since time of\nbuilding of Goldmund, so they say."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300012_03_msg0003",
+      "style": 84,
+      "name": "It dilapidated old place now though.\nNo one there any more."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300012_03_msg0004",
+      "style": 84,
+      "name": "Is not usual place for Nopon to visit,\nmeaning it outside of Tonadon's scope\nfor repairs."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300012_03_msg0005",
+      "style": 84,
+      "name": "Even if it in ruins, is no need to report\nto Tonadon whatsoever."
+    }
+  ]
+}

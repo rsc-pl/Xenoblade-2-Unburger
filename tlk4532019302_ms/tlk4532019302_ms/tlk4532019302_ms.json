@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4532019302_msg0001",
+      "style": 84,
+      "name": "This was the main battlefield of\nthe great war 500 years ago."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4532019302_msg0002",
+      "style": 84,
+      "name": "The scars of the conflict back then\nare still plain to see in the terrain."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4532019302_msg0003",
+      "style": 84,
+      "name": "The place names are often related\nto events back then as well, but nobody\nknows the full stories behind them."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4532019302_msg0004",
+      "style": 84,
+      "name": "If somebody were to excavate the ruins\nof the Lost Capital Judicium, maybe\nwe could learn more."
+    }
+  ]
+}

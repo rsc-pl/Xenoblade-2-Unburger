@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev06_100_125_msg0001",
+      "style": 84,
+      "name": "Morning, folks. You're looking a bit\nbetter-slept than yesterday."
+    },
+    {
+      "$id": 2,
+      "label": "fev06_100_125_msg0002",
+      "style": 84,
+      "name": "Pretty much."
+    },
+    {
+      "$id": 3,
+      "label": "fev06_100_125_msg0003",
+      "style": 84,
+      "name": "Fan's state funeral is to be held\ntoday, is it not?"
+    },
+    {
+      "$id": 4,
+      "label": "fev06_100_125_msg0004",
+      "style": 84,
+      "name": "Yeah, I think it was meant to be\nhappening in Seoris Plaza, right\noutside the cathedral."
+    },
+    {
+      "$id": 5,
+      "label": "fev06_100_125_msg0005",
+      "style": 84,
+      "name": "You'll be going, right, chum?"
+    },
+    {
+      "$id": 6,
+      "label": "fev06_100_125_msg0006",
+      "style": 84,
+      "name": "Yes. It would be wrong for me not to."
+    },
+    {
+      "$id": 7,
+      "label": "fev06_100_125_msg0007",
+      "style": 84,
+      "name": "Seoris Plaza very not far away.\nTime to go! Quick-quick!"
+    },
+    {
+      "$id": 8,
+      "label": "fev06_100_125_msg0008",
+      "style": 84,
+      "name": "Masterpon so bossy sometimes..."
+    }
+  ]
+}

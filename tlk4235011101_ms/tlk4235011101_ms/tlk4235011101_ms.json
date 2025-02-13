@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350111_01_msg0001",
+      "style": 84,
+      "name": "Sweety-sweety confections to\npurchase here! Friends buy?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350111_01_msg0004",
+      "style": 84,
+      "name": "I don't think I should be wasting time\nright now..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350111_01_msg0005",
+      "style": 84,
+      "name": "Welcome owner! Always pleasure to\nsell owner sweety-sweety confections!"
+    }
+  ]
+}

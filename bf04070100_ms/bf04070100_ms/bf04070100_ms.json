@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf04070100_0010",
+      "style": 82,
+      "name": "I reckon the quickest route is...\nBack to Avaritia, ship to Superbia, then on to the Holy See."
+    },
+    {
+      "$id": 2,
+      "label": "bf04070100_0020",
+      "style": 82,
+      "name": "If we're lucky, there'll be\na Guild ship at the port."
+    },
+    {
+      "$id": 3,
+      "label": "bf04070100_0030",
+      "style": 82,
+      "name": "Can't say no to a free ride.\nLet's go and see!"
+    },
+    {
+      "$id": 4,
+      "label": "bf04070100_0040",
+      "style": 82,
+      "name": "It doesn't cost anything?"
+    },
+    {
+      "$id": 5,
+      "label": "bf04070100_0050",
+      "style": 82,
+      "name": "Salvagers can board Guild ships for\nfree. I'll negotiate for you guys, too."
+    },
+    {
+      "$id": 6,
+      "label": "bf04070100_0060",
+      "style": 82,
+      "name": "That would be big help!"
+    }
+  ]
+}

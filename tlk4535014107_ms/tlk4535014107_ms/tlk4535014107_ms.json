@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_07_msg0001",
+      "style": 84,
+      "name": "Ah, it's you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_07_msg0002",
+      "style": 84,
+      "name": "You've built up the Hræsvelgr Mercenaries\nso much at this point, I can scarcely\nbelieve it myself."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_07_msg0003",
+      "style": 84,
+      "name": "If Vandham were here to see it,\nI daresay even he might shed a\ntear or two."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_07_msg0004",
+      "style": 84,
+      "name": "And of course, there are new jobs\navailable. Feel free to peruse them."
+    }
+  ]
+}

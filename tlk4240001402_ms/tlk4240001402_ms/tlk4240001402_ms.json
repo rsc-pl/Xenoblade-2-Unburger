@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400014_02_msg0001",
+      "style": 84,
+      "name": "Doo doo doo ♪ La da dee dah ♪\nLa da dee doo doo dee dee dah ♪"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400014_02_msg0002",
+      "style": 84,
+      "name": "Listen to song of Falala... ♪\nWhile eating Spicy Stralu... ♪\nIt go down hatch...yum... ♪"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400014_02_msg0003",
+      "style": 84,
+      "name": "Me have no need to keep singing now\nSolala came back, but customers still\nask me to keep singing."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400014_02_msg0004",
+      "style": 84,
+      "name": "Friends help me with lots of stuff ♪\nMe can not thank you enough ♪"
+    }
+  ]
+}

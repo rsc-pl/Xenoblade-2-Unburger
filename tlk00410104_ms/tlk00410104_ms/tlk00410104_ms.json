@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk004101_04_msg0001",
+      "style": 84,
+      "name": "A war in Temperantia, the demilitarized\nzone between Superbia and Invidia,\nmust be avoided at all costs..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk004101_04_msg0002",
+      "style": 84,
+      "name": "But it is likely that that was Superbia's goal all along."
+    },
+    {
+      "$id": 3,
+      "label": "tlk004101_04_msg0003",
+      "style": 84,
+      "name": "The Pope has entrusted you to\ndefuse the situation, but should\nworst come to worst..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk004101_04_msg0004",
+      "style": 84,
+      "name": "We will have to take precautionary\nmeasures."
+    }
+  ]
+}

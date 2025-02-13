@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 95,
+      "name": "Seal Self-Destruct"
+    },
+    {
+      "$id": 2,
+      "style": 95,
+      "name": "Seal Stench"
+    },
+    {
+      "$id": 3,
+      "style": 95,
+      "name": "Seal Blowdown"
+    },
+    {
+      "$id": 4,
+      "style": 95,
+      "name": "Seal Shackle Driver"
+    },
+    {
+      "$id": 5,
+      "style": 95,
+      "name": "Seal Back Attack"
+    },
+    {
+      "$id": 6,
+      "style": 95,
+      "name": "Seal Shackle Blade"
+    },
+    {
+      "$id": 7,
+      "style": 95,
+      "name": "Seal Affinity Down"
+    },
+    {
+      "$id": 8,
+      "style": 95,
+      "name": "Seal Reinforcements"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200901_msg001",
+      "style": 84,
+      "name": "Come on, guys, we need to get going!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200901_msg002",
+      "style": 84,
+      "name": "I wanna go shopping!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200901_msg003",
+      "style": 84,
+      "name": "Everything'll be sold out if we don't\nhurry!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200901_msg004",
+      "style": 84,
+      "name": "What you in so much hurry to\npurchase, Kasane?"
+    },
+    {
+      "$id": 5,
+      "label": "qst200901_msg005",
+      "style": 84,
+      "name": "Bread, Hana, bread!\nThe wondrous bread of fortune,\nLucky Dawn Bread!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200901_msg015",
+      "style": 84,
+      "name": "They make it down at Tilly Bakery,\nunder the windmill!"
+    },
+    {
+      "$id": 7,
+      "label": "qst200901_msg006",
+      "style": 84,
+      "name": "Bread of fortune...?\nNever heard of it."
+    },
+    {
+      "$id": 8,
+      "label": "qst200901_msg007",
+      "style": 84,
+      "name": "They knead Dawn Hydrangeas in\nwith the dough when they make it.\nIt's supposed to bring great luck."
+    },
+    {
+      "$id": 9,
+      "label": "qst200901_msg008",
+      "style": 84,
+      "name": "The lady at the inn told me about it!"
+    },
+    {
+      "$id": 10,
+      "label": "qst200901_msg010",
+      "style": 84,
+      "name": "And if you eat it, you bring luck to\nyourself and to those around you!"
+    },
+    {
+      "$id": 11,
+      "label": "qst200901_msg011",
+      "style": 84,
+      "name": "Wow. That's some bread."
+    },
+    {
+      "$id": 12,
+      "label": "qst200901_msg012",
+      "style": 84,
+      "name": "Right?!"
+    },
+    {
+      "$id": 13,
+      "label": "qst200901_msg013",
+      "style": 84,
+      "name": "It's one of their most popular items, so\nif you don't go first thing in the morning\nyou've got no chance of getting any!"
+    },
+    {
+      "$id": 14,
+      "label": "qst200901_msg014",
+      "style": 84,
+      "name": "So let's go already! Let's get to Tilly\nBakery before they're all sold out!"
+    }
+  ]
+}

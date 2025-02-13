@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst703202_msg0001",
+      "style": 84,
+      "name": "お　お腹[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst703202_msg0002",
+      "style": 84,
+      "name": "空きすぎて[ML:Dash ]　ううぅ～"
+    },
+    {
+      "$id": 3,
+      "label": "qst703202_msg0003",
+      "style": 84,
+      "name": "辛いもの[ML:Dash ]　食べたい[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst703202_msg0101",
+      "style": 84,
+      "name": "ううぅ～"
+    },
+    {
+      "$id": 5,
+      "label": "qst703202_msg0102",
+      "style": 84,
+      "name": "灼熱オムカレー\n激辛サソリクッキー\nた　食べたい[ML:Dash ]"
+    },
+    {
+      "$id": 6,
+      "label": "qst703202_msg0201",
+      "style": 84,
+      "name": "きゅう～"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301801_01_msg0001",
+      "style": 84,
+      "name": "Tea parties and banquets do\nnot come for free, you know.\nThey require money."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301801_01_msg0002",
+      "style": 84,
+      "name": "If you take me with you, I will earn\nyou mountains of glittering gold!"
+    }
+  ]
+}

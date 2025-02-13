@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320152_03_msg0001",
+      "style": 84,
+      "name": "The Superbian Empire is vast and\npowerful, but it is not without its\ninternal struggles."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320152_03_msg0002",
+      "style": 84,
+      "name": "There is an anti-imperial organization\nknown as Brionac."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320152_03_msg0003",
+      "style": 84,
+      "name": "Their goal is to replace His Majesty\nthe Emperor Nefer with another of\ntheir choosing."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320152_03_msg0004",
+      "style": 84,
+      "name": "Apparently many soldiers who left the\nImperial Army over the years have\nallied themselves with these people."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320152_03_msg0005",
+      "style": 84,
+      "name": "They even have Divine Beast weapons of\ntheir own. A dangerous lot, to be sure."
+    }
+  ]
+}

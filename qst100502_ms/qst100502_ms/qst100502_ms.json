@@ -1,0 +1,474 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100502_msg0001",
+      "style": 84,
+      "name": "Hmm!"
+    },
+    {
+      "$id": 2,
+      "label": "qst100502_msg0002",
+      "style": 84,
+      "name": "Oooh... Saw it...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst100502_msg0003",
+      "style": 84,
+      "name": "Try your luck?"
+    },
+    {
+      "$id": 4,
+      "label": "qst100502_msg0004",
+      "style": 84,
+      "name": "No-brains will be no good though."
+    },
+    {
+      "$id": 5,
+      "label": "qst100502_msg0005",
+      "style": 84,
+      "name": "Read! Read!"
+    },
+    {
+      "$id": 6,
+      "label": "qst100502_msg0101",
+      "style": 84,
+      "name": "Do again."
+    },
+    {
+      "$id": 7,
+      "label": "qst100502_msg0110",
+      "style": 84,
+      "name": "Come back again?"
+    },
+    {
+      "$id": 8,
+      "label": "qst100502_msg0111",
+      "style": 84,
+      "name": "Try your luck?"
+    },
+    {
+      "$id": 9,
+      "label": "qst100502_msg0201",
+      "style": 84,
+      "name": "Passed. Good. Big rubber stamp."
+    },
+    {
+      "$id": 10,
+      "label": "qst100502_msg0202",
+      "style": 84,
+      "name": "Not stupid. This good."
+    },
+    {
+      "$id": 11,
+      "label": "qst100502_msg0203",
+      "style": 84,
+      "name": "Congratulations. Friend have job."
+    },
+    {
+      "$id": 12,
+      "label": "qst100502_msg0204",
+      "style": 84,
+      "name": "Hereby name you Rododo's helper."
+    },
+    {
+      "$id": 13,
+      "label": "qst100502_msg0205",
+      "style": 84,
+      "name": "Now your duties."
+    },
+    {
+      "$id": 14,
+      "label": "qst100502_msg0206",
+      "style": 84,
+      "name": "Go to upper level of here. Open door,\nsee inside. Tell Rododo."
+    },
+    {
+      "$id": 15,
+      "label": "qst100502_msg0207",
+      "style": 84,
+      "name": "Avaritia person cannot open door.\nMany tried. All failed."
+    },
+    {
+      "$id": 16,
+      "label": "qst100502_msg0208",
+      "style": 84,
+      "name": "Details are mystery. So open door.\nThen truth revealed."
+    },
+    {
+      "$id": 17,
+      "label": "qst100502_msg0209",
+      "style": 84,
+      "name": "Origin of us."
+    },
+    {
+      "$id": 18,
+      "label": "qst100502_msg0210",
+      "style": 84,
+      "name": "Hehe."
+    },
+    {
+      "$id": 19,
+      "label": "qst100502_msg0211",
+      "style": 84,
+      "name": "But! Not have key."
+    },
+    {
+      "$id": 20,
+      "label": "qst100502_msg0212",
+      "style": 84,
+      "name": "Don't know location of key.\nHelper must find."
+    },
+    {
+      "$id": 21,
+      "label": "qst100502_msg0213",
+      "style": 84,
+      "name": "Begin duties!"
+    },
+    {
+      "$id": 22,
+      "label": "qst100502_msg0301",
+      "style": 84,
+      "name": "Open door on upper level.\nSee inside."
+    },
+    {
+      "$id": 23,
+      "label": "qst100502_msg0302",
+      "style": 84,
+      "name": "Not have key.\nHelper find key."
+    },
+    {
+      "$id": 24,
+      "label": "qst100502_msg0401",
+      "style": 84,
+      "name": "Hello, helper. Give Rododo report."
+    },
+    {
+      "$id": 25,
+      "label": "qst100502_msg0402",
+      "style": 84,
+      "name": "Helper's duty was see inside door on\nupper level."
+    },
+    {
+      "$id": 26,
+      "label": "qst100502_msg0403",
+      "style": 84,
+      "name": "Deliver Rododo report on findings."
+    },
+    {
+      "$id": 27,
+      "label": "qst100502_msg0501",
+      "style": 84,
+      "name": "Hello, helper. Give Rododo report."
+    },
+    {
+      "$id": 28,
+      "label": "qst100502_msg0502",
+      "style": 84,
+      "name": "So! Helper saw statue of Nopon with\neyepatch and funny hat."
+    },
+    {
+      "$id": 29,
+      "label": "qst100502_msg0503",
+      "style": 84,
+      "name": "That must be...\nCaptain Nopopon!"
+    },
+    {
+      "$id": 30,
+      "label": "qst100502_msg0504",
+      "style": 84,
+      "name": "Captain Nopopon!\nLegendary Nopon Pirate!"
+    },
+    {
+      "$id": 31,
+      "label": "qst100502_msg0521",
+      "style": 84,
+      "name": "Traces of Captain Nopopon! In such a\nplace! Woowee!"
+    },
+    {
+      "$id": 32,
+      "label": "qst100502_msg0522",
+      "style": 84,
+      "name": "Ahem.\nSorry for outburst."
+    },
+    {
+      "$id": 33,
+      "label": "qst100502_msg0523",
+      "style": 84,
+      "name": "So. Stomach indentations.\nRound one and square one."
+    },
+    {
+      "$id": 34,
+      "label": "qst100502_msg0524",
+      "style": 84,
+      "name": "Probably, need two different parts.\nOne for each indentation."
+    },
+    {
+      "$id": 35,
+      "label": "qst100502_msg0525",
+      "style": 84,
+      "name": "Helper find them, fit them in."
+    },
+    {
+      "$id": 36,
+      "label": "qst100502_msg0601",
+      "style": 84,
+      "name": "Find circle part. Find square part.\nPut parts in stomach indentations."
+    },
+    {
+      "$id": 37,
+      "label": "qst100502_msg0602",
+      "style": 84,
+      "name": "Not know location of parts.\nHelper find."
+    },
+    {
+      "$id": 38,
+      "label": "qst100502_msg0701",
+      "style": 84,
+      "name": "Hello, helper. Give Rododo report."
+    },
+    {
+      "$id": 39,
+      "label": "qst100502_msg0702",
+      "style": 84,
+      "name": "Helper's duty was fit parts into stone\nstatue."
+    },
+    {
+      "$id": 40,
+      "label": "qst100502_msg0703",
+      "style": 84,
+      "name": "Deliver Rododo report on findings."
+    },
+    {
+      "$id": 41,
+      "label": "qst100502_msg0801",
+      "style": 84,
+      "name": "Hello, helper. Give Rododo report."
+    },
+    {
+      "$id": 42,
+      "label": "qst100502_msg0802",
+      "style": 84,
+      "name": "Location: Hræsvelgr."
+    },
+    {
+      "$id": 43,
+      "label": "qst100502_msg0803",
+      "style": 84,
+      "name": "Go. Investigate."
+    },
+    {
+      "$id": 44,
+      "label": "qst100502_msg0804",
+      "style": 84,
+      "name": "Hehe...\nGetting closer..."
+    },
+    {
+      "$id": 45,
+      "label": "qst100502_msg0901",
+      "style": 84,
+      "name": "Hello, helper. Give Rododo report."
+    },
+    {
+      "$id": 46,
+      "label": "qst100502_msg0902",
+      "style": 84,
+      "name": "Gaudy box of precious things.\nCaptain Nopopon's logbook."
+    },
+    {
+      "$id": 47,
+      "label": "qst100502_msg0903",
+      "style": 84,
+      "name": "You can have gaudy things.\nJust show logbook to Rododo!"
+    },
+    {
+      "$id": 48,
+      "label": "qst100502_msg0904",
+      "style": 84,
+      "name": "Hmmm ponponpon....\nUhmm ponponpon...?!"
+    },
+    {
+      "$id": 49,
+      "label": "qst100502_msg0905",
+      "style": 84,
+      "name": "This...\nWaa! Woowee!"
+    },
+    {
+      "$id": 50,
+      "label": "qst100502_msg0906",
+      "style": 84,
+      "name": "This book written in unusual\ncombination of ancient and modern\nNopon!"
+    },
+    {
+      "$id": 51,
+      "label": "qst100502_msg0907",
+      "style": 84,
+      "name": "If Rododo decipher this...will be able to\nread ancient Nopon writing on stone\nstatue!"
+    },
+    {
+      "$id": 52,
+      "label": "qst100502_msg0908",
+      "style": 84,
+      "name": "Ahem. Very exciting."
+    },
+    {
+      "$id": 53,
+      "label": "qst100502_msg0909",
+      "style": 84,
+      "name": "Investigate statue. Helper come too."
+    },
+    {
+      "$id": 54,
+      "label": "qst100502_msg0910",
+      "style": 84,
+      "name": "Quick! Quick! Helper, hurry!"
+    },
+    {
+      "$id": 55,
+      "label": "qst100502_msg1001",
+      "style": 84,
+      "name": "Rododo has deciphered."
+    },
+    {
+      "$id": 56,
+      "label": "qst100502_msg1002",
+      "style": 84,
+      "name": "This statue constructed by ancient\nNopon to remember Captain Nopopon."
+    },
+    {
+      "$id": 57,
+      "label": "qst100502_msg1003",
+      "style": 84,
+      "name": "Rododo performed careful analyze\nof statue and logbook..."
+    },
+    {
+      "$id": 58,
+      "label": "qst100502_msg1004",
+      "style": 84,
+      "name": "Findings reveal incredible surprising\nthing about history of Nopon!"
+    },
+    {
+      "$id": 59,
+      "label": "qst100502_msg1005",
+      "style": 84,
+      "name": "Ancient Nopon people...talk in erudite\nand grammatically-correct language!"
+    },
+    {
+      "$id": 60,
+      "label": "qst100502_msg1006",
+      "style": 84,
+      "name": "Rododo was very shocked.\nOld Nopon writings sound just like\nposh and educated human talk!"
+    },
+    {
+      "$id": 61,
+      "label": "qst100502_msg1007",
+      "style": 84,
+      "name": "But also discover more things."
+    },
+    {
+      "$id": 62,
+      "label": "qst100502_msg1008",
+      "style": 84,
+      "name": "Rododo will read from logbook of\nCaptain Nopopon. Helper, listen!"
+    },
+    {
+      "$id": 63,
+      "label": "qst100502_msg1009",
+      "style": 84,
+      "name": "\"I am weary, so weary of the long fight\nfor treasure and riches. But I have\nhit upon a solution.\""
+    },
+    {
+      "$id": 64,
+      "label": "qst100502_msg1010",
+      "style": 84,
+      "name": "\"It seems that the Non-Nopon people\ntake us for charming, harmless little\nballs of fluff.\""
+    },
+    {
+      "$id": 65,
+      "label": "qst100502_msg1011",
+      "style": 84,
+      "name": "\"I propose we use this perception to\nour advantage in diplomacy, in order to\ncreate a new era of Nopon domination!\""
+    },
+    {
+      "$id": 66,
+      "label": "qst100502_msg1012",
+      "style": 84,
+      "name": "\"Furthermore, I suggest that we use silly\nsounding, grammatically imprecise\nsentences. This makes us even cuter.\""
+    },
+    {
+      "$id": 67,
+      "label": "qst100502_msg1013",
+      "style": 84,
+      "name": "\"Henceforth, I will fluff my fur,\nmake myself sound extremely silly...\""
+    },
+    {
+      "$id": 68,
+      "label": "qst100502_msg1014",
+      "style": 84,
+      "name": "\"And build big-big good Guild of\nTrading! For glory of all Nopon!\nMeh-meh-meh!\""
+    },
+    {
+      "$id": 69,
+      "label": "qst100502_msg1015",
+      "style": 84,
+      "name": "That end of logbook entry."
+    },
+    {
+      "$id": 70,
+      "label": "qst100502_msg1016",
+      "style": 84,
+      "name": "Indeed! Captain Nopopon make Nopon\nspeech what it is today! He father of\nmodern Nopon-speak! Woowee!"
+    },
+    {
+      "$id": 71,
+      "label": "qst100502_msg1017",
+      "style": 84,
+      "name": "Ahem.\nThis really very big deal."
+    },
+    {
+      "$id": 72,
+      "label": "qst100502_msg1018",
+      "style": 84,
+      "name": "Helper. Thank you.\nTh-thank you friends very much!"
+    },
+    {
+      "$id": 73,
+      "label": "qst100502_msg1019",
+      "style": 84,
+      "name": "This amazing discovery! Will rewrite\nhistory books of Nopon people!"
+    },
+    {
+      "$id": 74,
+      "label": "qst100502_msg1020",
+      "style": 84,
+      "name": "Like Captain Nopopon say. Nopon must\nbe cute. This Nopon way."
+    },
+    {
+      "$id": 75,
+      "label": "qst100502_msg1021",
+      "style": 84,
+      "name": "Mystery of the door all solve anyway,\nso Rododo give up on trying to talk\nall stoic and cool like!"
+    },
+    {
+      "$id": 76,
+      "label": "qst100502_msg1022",
+      "style": 84,
+      "name": "Woowee! Wait till Rododo tell\neverybody!"
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk051_msg001",
+      "style": 84,
+      "name": "Oh my!\nSuch a wonderful place!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk051_msg002",
+      "style": 84,
+      "name": "The lady at the inn sure knows her\nstuff!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk051_msg003",
+      "style": 84,
+      "name": "Yes, indeed...\nI must admit, it's a dramatic scene."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk051_msg004",
+      "style": 84,
+      "name": "Looking at it is like a spur to my\ncreative energy."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk051_msg005",
+      "style": 84,
+      "name": "Yoshitsune...\nYou think you'll write another play?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk051_msg006",
+      "style": 84,
+      "name": "Perhaps. Gazing out at a vista like this...\nIt's like a churning sea of possibilities."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk051_msg007",
+      "style": 84,
+      "name": "I mean, for example..."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk051_msg008",
+      "style": 84,
+      "name": "A story of a woman...who took to the\nskies on wings of freedom."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk051_msg009",
+      "style": 84,
+      "name": "Sounds way interesting!\nI wanna hear more!"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk051_msg010",
+      "style": 84,
+      "name": "Yoshitsune! You must write that story!\nI can't bear it if you don't!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk051_msg011",
+      "style": 84,
+      "name": "Kamui... It's easier said than done.\nIdeas need to crystallize a little first."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk051_msg012",
+      "style": 84,
+      "name": "But... Perhaps you could be my\ninspiration for this story?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk051_msg013",
+      "style": 84,
+      "name": "Inspiration?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk051_msg014",
+      "style": 84,
+      "name": "I mean...because you fly on wings of\nfreedom."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk051_msg015",
+      "style": 84,
+      "name": "You're wild and untameable.\nAnd you've already got wings."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk051_msg016",
+      "style": 84,
+      "name": "Oh... Am I now...?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk051_msg017",
+      "style": 84,
+      "name": "Why don't you try flying a little\nfor me now? Right here?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk051_msg018",
+      "style": 84,
+      "name": "Yes!\nOf course!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk051_msg019",
+      "style": 165,
+      "name": "What should I say to Kamui?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk051_msg020",
+      "style": 164,
+      "name": "Flying? From here?\nWait, can you actually fly?!"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk051_msg021",
+      "style": 164,
+      "name": "It's true that you're quite the free spirit."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk051_msg022",
+      "style": 165,
+      "name": "What should I say to Kamui?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk051_msg023",
+      "style": 164,
+      "name": "Flying? From here?\nI didn't think you could fly..."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk051_msg024",
+      "style": 164,
+      "name": "You're my kind of girl, Kamui. Living\nyour own way."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk051_msg025",
+      "style": 165,
+      "name": "What shall I say to Kamui?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk051_msg026",
+      "style": 164,
+      "name": "You're thinking of flying from here?\nI didn't even know you could fly."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk051_msg027",
+      "style": 164,
+      "name": "You're a free spirit, Kamui. I like that."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk051_msg028",
+      "style": 165,
+      "name": "What should I say to Kamui?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk051_msg029",
+      "style": 164,
+      "name": "What? You want to fly from here?\nYou can fly? Way cool."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk051_msg030",
+      "style": 164,
+      "name": "You don't let reality hold you back.\nI guess you're a free spirit like me."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk051_msg031",
+      "style": 84,
+      "name": "Heh? You really didn't know I could\nfly? So very silly!"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk051_msg032",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk051_msg033",
+      "style": 84,
+      "name": "Well, it's not as though she has real\nflight, like a bird flapping its wings."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk051_msg034",
+      "style": 84,
+      "name": "It's more like floating around on the\nether flow. Those wing-like organs\nlet her manipulate it."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk051_msg035",
+      "style": 84,
+      "name": "But unlike real flight, it's not affected\nby wind or weather, so I can go\nwherever I like!"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk051_msg036",
+      "style": 84,
+      "name": "So they really are wings of freedom!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk051_msg037",
+      "style": 84,
+      "name": "Hey, Kamui, here's an idea...\nWhy don't you try taking to the\nskies with your Driver?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk051_msg038",
+      "style": 84,
+      "name": "With my Driver?\nBut, Drivers can't fly!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk051_msg039",
+      "style": 84,
+      "name": "Can't you bear them up in your arms?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk051_msg040",
+      "style": 84,
+      "name": "The heroine in my story was going to\nsoar the heavens with her loyal\ncompanion."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk051_msg041",
+      "style": 84,
+      "name": "That'd be incredibly dramatic, don't\nyou think?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk051_msg042",
+      "style": 84,
+      "name": "Now that you mention it...yes!"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk051_msg043",
+      "style": 84,
+      "name": "If you want to take to the skies on\nKamui Airways, just call me!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk051_msg044",
+      "style": 84,
+      "name": "Ah...I'm OK for now..."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk051_msg045",
+      "style": 84,
+      "name": "Hmmm...nah..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk051_msg046",
+      "style": 84,
+      "name": "No, I don't think so."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk051_msg047",
+      "style": 84,
+      "name": "I laugh in the face of danger! But, no\nthanks."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk051_msg048",
+      "style": 84,
+      "name": "What? No?!\nYou trembling mouse!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk051_msg049",
+      "style": 84,
+      "name": "I promise to try not to drop you!\nI'm not all that clumsy, you know!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk051_msg050",
+      "style": 84,
+      "name": "Hey, wait a moment."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk051_msg051",
+      "style": 84,
+      "name": "That would be even more dramatic.\nThe heroine drops her friend...\nOh, the pathos!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk051_msg052",
+      "style": 84,
+      "name": "Yes, the muses have called out to me,\nand I've heard!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk051_msg053",
+      "style": 84,
+      "name": "?!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk051_msg054",
+      "style": 84,
+      "name": "So, she will drop her friend?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk051_msg055",
+      "style": 84,
+      "name": "That's right. Her companion will be\ndashed on the rocks below, like a bag\nof wet rice."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk051_msg056",
+      "style": 84,
+      "name": "Now come on, Kamui. It's time you\ntried taking your Driver for a spin!"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk051_msg057",
+      "style": 84,
+      "name": "Reach the highest peak, then let them\ngo, into the Cloud Sea below!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk051_msg058",
+      "style": 84,
+      "name": "OK!\nSounds like a great idea!"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk051_msg059",
+      "style": 84,
+      "name": "Kamui! You'd better be joking!"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk051_msg060",
+      "style": 84,
+      "name": "Hey, not so fast! I wouldn't want to fly\nwithout Byakko."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk051_msg061",
+      "style": 84,
+      "name": "There's no way you can hold up me\nand furbag here."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk051_msg062",
+      "style": 84,
+      "name": "Wait a moment!"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk051_msg063",
+      "style": 84,
+      "name": "...I...just remembered something I have\nto do. Very urgent imperial business!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk051_msg064",
+      "style": 84,
+      "name": "W-whoa there!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk051_msg065",
+      "style": 84,
+      "name": "Wouldn't you rather take Yoshitsune?\nI mean, you'd cramp my style."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk051_msg066",
+      "style": 84,
+      "name": "Come on, this isn't an offer that one\ncan refuse. I'm writing the ultimate\ncomedy here. Your help is appreciated."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk051_msg067",
+      "style": 84,
+      "name": "No doubt about it! I can't miss out on\nthe chance to be immortalized in one of\nyour tales, Yoshitsune."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk051_msg101",
+      "style": 84,
+      "name": "Of course I am!\nI'm the very picture of freedom!"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk051_msg102",
+      "style": 84,
+      "name": "Although...sometimes I wonder whether\nwhat I have is actually real freedom."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk051_msg103",
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk051_msg104",
+      "style": 84,
+      "name": "I mean, a Blade always shares\nthe fate of their Driver, right?"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk051_msg105",
+      "style": 84,
+      "name": "Doesn't that mean we're kind of\ntied down by our Drivers?"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk051_msg106",
+      "style": 84,
+      "name": "You can hardly call that freedom."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk051_msg107",
+      "style": 84,
+      "name": "Kamui, you surprise me."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk051_msg108",
+      "style": 84,
+      "name": "What? How?"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk051_msg109",
+      "style": 84,
+      "name": "That's awfully insightful. It seems the\ngenius of my story has inspired you in\nturn."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk051_msg110",
+      "style": 84,
+      "name": "I always thought that you were just\nfired by raw, unthinking desires and\nwhimsical emotion."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk051_msg111",
+      "style": 84,
+      "name": "Yoshitsune! You're skating on thin ice!"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk051_msg112",
+      "style": 84,
+      "name": "I'm actually very thoughtful...\nunderneath..."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk051_msg113",
+      "style": 84,
+      "name": "Like, uh...say I've got some of my\nfavorite Luxurian Porridge here."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk051_msg114",
+      "style": 84,
+      "name": "And let's say...Rex is about to eat it."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk051_msg115",
+      "style": 84,
+      "name": "And let's say...Nia is about to eat it."
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk051_msg116",
+      "style": 84,
+      "name": "And let's say...Meleph is about to eat it."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk051_msg117",
+      "style": 84,
+      "name": "And let's say...Zeke is about to eat it."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk051_msg118",
+      "style": 84,
+      "name": "My stomach says, \"eat it!\"... But my\nconscience says, \"let my Driver have it.\""
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk051_msg119",
+      "style": 84,
+      "name": "Real freedom is being able to choose\nwhether I sit back and let them eat it,\nor ask them to let me have some."
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk051_msg120",
+      "style": 84,
+      "name": "And that choice is up to me, Kamui.\nSo in a way, I'm the Driver of me!"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk051_msg121",
+      "style": 84,
+      "name": "Being able to choose...\nthat's real freedom!"
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk051_msg122",
+      "style": 84,
+      "name": "Yes. You can make choices. And those\nchoices lead to consequences."
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk051_msg123",
+      "style": 84,
+      "name": "All of that is under your control."
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk051_msg124",
+      "style": 84,
+      "name": "Although... I have to say I can't picture\nyou making either of those choices."
+    },
+    {
+      "$id": 92,
+      "label": "kizunatalk051_msg125",
+      "style": 84,
+      "name": "If I was to bet on it, I'd have said you'd\nhave punched your Driver and taken\nall the grub for yourself."
+    },
+    {
+      "$id": 93,
+      "label": "kizunatalk051_msg126",
+      "style": 84,
+      "name": "Would you really consider any\nother option?"
+    },
+    {
+      "$id": 94,
+      "label": "kizunatalk051_msg127",
+      "style": 84,
+      "name": "Eheheh... Realistically, that probably\nis what I'd decide to go for..."
+    },
+    {
+      "$id": 95,
+      "label": "kizunatalk051_msg128",
+      "style": 84,
+      "name": "But in the end, that just means\nyou're being selfish!"
+    },
+    {
+      "$id": 96,
+      "label": "kizunatalk051_msg129",
+      "style": 84,
+      "name": "Hang on, doesn't that just mean\nyou're being selfish?!"
+    },
+    {
+      "$id": 97,
+      "label": "kizunatalk051_msg130",
+      "style": 84,
+      "name": "But in the end, that simply means\nyou're being selfish!"
+    },
+    {
+      "$id": 98,
+      "label": "kizunatalk051_msg131",
+      "style": 84,
+      "name": "Hold it. Doesn't that just mean\nyou're being selfish?!"
+    },
+    {
+      "$id": 99,
+      "label": "kizunatalk051_msg132",
+      "style": 84,
+      "name": "W-well... Choosing to be selfish\nis a kind of freedom too!"
+    },
+    {
+      "$id": 100,
+      "label": "kizunatalk051_msg133",
+      "style": 84,
+      "name": "Not being tied down by anything...\nLiving for myself..."
+    },
+    {
+      "$id": 101,
+      "label": "kizunatalk051_msg134",
+      "style": 84,
+      "name": "Not doing anything nasty and boring!\nOnly doing fun things!"
+    },
+    {
+      "$id": 102,
+      "label": "kizunatalk051_msg135",
+      "style": 84,
+      "name": "That's the sort of life I want!"
+    },
+    {
+      "$id": 103,
+      "label": "kizunatalk051_msg136",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 104,
+      "label": "kizunatalk051_msg137",
+      "style": 84,
+      "name": "Yes, yes... You're the ideal inspiration\nfor my free-spirited heroine..."
+    },
+    {
+      "$id": 105,
+      "label": "kizunatalk051_msg138",
+      "style": 84,
+      "name": "This is going to be the greatest comedy\nof all time!"
+    },
+    {
+      "$id": 106,
+      "label": "kizunatalk051_msg139",
+      "style": 84,
+      "name": "Well, that settles it. I'll keep doing\nwhatever I want! Otherwise Yoshitsune's\nstory would be ruined!"
+    }
+  ]
+}

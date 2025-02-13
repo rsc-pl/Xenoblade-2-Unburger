@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006101_06_msg0001",
+      "style": 84,
+      "name": "Hey, guess what! Garram's going to\nstart giving me salvager training!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk006101_06_msg0002",
+      "style": 84,
+      "name": "But Pittman's supposed to be there\ntoo..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006101_06_msg0003",
+      "style": 84,
+      "name": "Ever since the time I stole that guy's\nboat, he's been super suspicious of us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006101_06_msg0004",
+      "style": 84,
+      "name": "I guess I've only got myself to blame,\nbut it's made things really awkward\nbetween us..."
+    }
+  ]
+}

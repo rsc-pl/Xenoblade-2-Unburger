@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001022_msg0001",
+      "style": 84,
+      "name": "You're from Liberalitas, are you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001022_msg0002",
+      "style": 84,
+      "name": "Sure am.\nI was raised in Iyasaki Village."
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001022_msg0003",
+      "style": 84,
+      "name": "The village is right by the Cloud Sea,\nso I grew up swimming in the clouds."
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001022_msg0004",
+      "style": 84,
+      "name": "That's why salvaging work comes\nnaturally to me. I'm pretty confident in\nmy skills, despite how I may look."
+    },
+    {
+      "$id": 5,
+      "label": "tlk0001022_msg0005",
+      "style": 84,
+      "name": "Very good."
+    },
+    {
+      "$id": 6,
+      "label": "tlk0001022_msg0006",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk0001022_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]Maybe I shouldn't interrupt him\nwhen he's deep in thought..."
+    }
+  ]
+}

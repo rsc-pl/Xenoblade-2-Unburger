@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst630403_msg0001",
+      "style": 84,
+      "name": "Hmm... I wonder if these footprints\nare from Bonard's squad."
+    },
+    {
+      "$id": 2,
+      "label": "qst630403_msg0002",
+      "style": 84,
+      "name": "Well, it can't hurt to have a closer look!"
+    },
+    {
+      "$id": 3,
+      "label": "qst630403_msg0101",
+      "style": 84,
+      "name": "What are these footprints doing here?"
+    },
+    {
+      "$id": 4,
+      "label": "qst630403_msg0102",
+      "style": 84,
+      "name": "Maybe the mercenaries left them.\nBetter have a closer look."
+    },
+    {
+      "$id": 5,
+      "label": "qst630403_msg0201",
+      "style": 84,
+      "name": "Meh-meh! Is footprints!\nHaving strange feeling about\nprint-prints."
+    },
+    {
+      "$id": 6,
+      "label": "qst630403_msg0202",
+      "style": 84,
+      "name": "Maybe Tora investigate!"
+    },
+    {
+      "$id": 7,
+      "label": "qst630403_msg0301",
+      "style": 84,
+      "name": "Could these tracks have been\nleft by the mercenaries?"
+    },
+    {
+      "$id": 8,
+      "label": "qst630403_msg0302",
+      "style": 84,
+      "name": "They certainly warrant further \ninvestigation."
+    },
+    {
+      "$id": 9,
+      "label": "qst630403_msg0401",
+      "style": 84,
+      "name": "Footprints! Do you think they've come\nfrom our missing mercenaries?"
+    },
+    {
+      "$id": 10,
+      "label": "qst630403_msg0402",
+      "style": 84,
+      "name": "Best to check them out."
+    }
+  ]
+}

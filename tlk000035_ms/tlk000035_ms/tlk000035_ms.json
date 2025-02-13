@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000035_msg0001",
+      "style": 84,
+      "name": "Meh-meh-meh!\nThis very interesting!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000035_msg0002",
+      "style": 84,
+      "name": "Looks like can probably salvage\nvery intriguing things here!\nJust as interesting as Superbia!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000035_msg0003",
+      "style": 84,
+      "name": "Anyway, Tora stay here for now.\nFriends go have fun and relax!"
+    }
+  ]
+}

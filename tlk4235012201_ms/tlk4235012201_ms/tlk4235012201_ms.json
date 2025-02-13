@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350122_01_msg0001",
+      "style": 84,
+      "name": "Mmmm, this place is the best on\nsunny days! The breeze feels so good...\nAnd the warm sunshine, too!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350122_01_msg0002",
+      "style": 84,
+      "name": "If it weren't for the shouting I hear\nsometimes, it would be perfect!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350122_01_msg0003",
+      "style": 84,
+      "name": "There's these people all dressed\nup in armor who seem to shout\nin rhythm all the time."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350122_01_msg0004",
+      "style": 84,
+      "name": "I don't know what they're doing,\nbut it makes it hard to take a nap!"
+    }
+  ]
+}

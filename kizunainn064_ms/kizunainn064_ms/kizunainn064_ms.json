@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn064_msg001",
+      "style": 84,
+      "name": "Hey, Seori..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn064_msg002",
+      "style": 84,
+      "name": "I heard you get a really nice\nview from this place called\nLyta Oasis."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn064_msg003",
+      "style": 84,
+      "name": "Why don't we go and take a look?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn064_msg004",
+      "style": 84,
+      "name": "Huh? Seems like a lot of effort."
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn064_msg005",
+      "style": 84,
+      "name": "Nah, come on, it won't take long.\nLet's bring the others too!"
+    },
+    {
+      "$id": 6,
+      "label": "kizunainn064_msg006",
+      "style": 84,
+      "name": "FINE. If you want to go so much."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100126_03_msg0001",
+      "style": 84,
+      "name": "Ugh! Can't I win one single match?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100126_03_msg0002",
+      "style": 84,
+      "name": "Stupid Eluned! Why can't he at least\nlet me win once?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100126_03_msg0003",
+      "style": 84,
+      "name": "I guess it's still fun, though, even if I\nend up losing. I'm glad I've got friends\nto play with!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100126_03_msg0004",
+      "style": 84,
+      "name": "But that just sounds like I'm a quitter,\ndoesn't it? Just you wait, Eluned.\nYou're gonna get your comeuppance!"
+    }
+  ]
+}

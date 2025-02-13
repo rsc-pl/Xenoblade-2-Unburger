@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09030100_0010",
+      "style": 82,
+      "name": "Your Majesty, are you hurt?"
+    },
+    {
+      "$id": 2,
+      "label": "bf09030100_0020",
+      "style": 82,
+      "name": "What happened?"
+    },
+    {
+      "$id": 3,
+      "label": "bf09030100_0030",
+      "style": 82,
+      "name": "The Divine Beast just released a vast\namount of energy from its chest!"
+    },
+    {
+      "$id": 4,
+      "label": "bf09030100_0040",
+      "style": 82,
+      "name": "We think the brownout may be linked to that."
+    },
+    {
+      "$id": 5,
+      "label": "bf09030100_0050",
+      "style": 82,
+      "name": "Majesty!"
+    },
+    {
+      "$id": 6,
+      "label": "bf09030100_0060",
+      "style": 82,
+      "name": "We strayed off course but we've managed\nto confirm our current position!"
+    },
+    {
+      "$id": 7,
+      "label": "bf09030100_0070",
+      "style": 82,
+      "name": "Where are we?"
+    },
+    {
+      "$id": 8,
+      "label": "bf09030100_0080",
+      "style": 82,
+      "name": "Look!"
+    },
+    {
+      "$id": 9,
+      "label": "bf09030100_0090",
+      "style": 82,
+      "name": "T-that's..."
+    },
+    {
+      "$id": 10,
+      "label": "bf09030100_0100",
+      "style": 82,
+      "name": "Again...?"
+    },
+    {
+      "$id": 11,
+      "label": "bf09030100_0110",
+      "style": 82,
+      "name": "Curses! Superbia can't afford\nto lose any more energy!"
+    }
+  ]
+}

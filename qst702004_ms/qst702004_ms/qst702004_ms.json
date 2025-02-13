@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702004_msg0001",
+      "style": 84,
+      "name": "カイとケイの足跡かな[ML:Dash ]？"
+    },
+    {
+      "$id": 2,
+      "label": "qst702004_msg0101",
+      "style": 84,
+      "name": "二人の足跡を辿ろう[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst702004_msg0201",
+      "style": 84,
+      "name": "カイくんとケイちゃんの足跡は[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst702004_msg0301",
+      "style": 84,
+      "name": "カイとケイの足跡は[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "qst702004_msg0401",
+      "style": 84,
+      "name": "二人の足跡を辿りましょ"
+    },
+    {
+      "$id": 6,
+      "label": "qst702004_msg0501",
+      "style": 84,
+      "name": "二人の足跡を辿ろう"
+    },
+    {
+      "$id": 7,
+      "label": "qst702004_msg0601",
+      "style": 84,
+      "name": "カイとケイの足跡を辿りましょう"
+    },
+    {
+      "$id": 8,
+      "label": "qst702004_msg0701",
+      "style": 84,
+      "name": "二人はどこに行ったのかしら"
+    },
+    {
+      "$id": 9,
+      "label": "qst702004_msg0801",
+      "style": 84,
+      "name": "二人共無事だといいが[ML:Dash ]"
+    }
+  ]
+}

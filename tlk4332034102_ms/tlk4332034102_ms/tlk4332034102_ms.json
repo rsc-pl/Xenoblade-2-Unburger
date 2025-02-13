@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320341_02_msg0001",
+      "style": 84,
+      "name": "A few members of Iira showed up\nin this town a little while ago."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320341_02_msg0002",
+      "style": 84,
+      "name": "I was thinking of trying to arrest them\nmyself. But it was just me, so I didn't\nhave a hope."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320341_02_msg0003",
+      "style": 84,
+      "name": "Looks like they're mobile enough to\nappear anywhere they like though."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320341_02_msg0004",
+      "style": 84,
+      "name": "They've got a really smart ship, that's\nfor sure. It's not made out of a Divine Beast,\neither."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320341_02_msg0005",
+      "style": 84,
+      "name": "It looked like a thing from another era,\nif you ask me...Something using some\nkind of forgotten technology."
+    }
+  ]
+}

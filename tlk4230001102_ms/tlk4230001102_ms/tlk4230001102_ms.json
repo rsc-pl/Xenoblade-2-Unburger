@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300011_02_msg0001",
+      "style": 84,
+      "name": "Many thanks for getting precious\npendant back for Limuli!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300011_02_msg0002",
+      "style": 84,
+      "name": "Limuli has put guard duty on back\nburner in exchange for intensive\ntraining to defeat Krabble next time!"
+    }
+  ]
+}

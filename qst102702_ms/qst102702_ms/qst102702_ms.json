@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102702_msg0001",
+      "style": 84,
+      "name": "Welcome to the Smaia Clinic."
+    },
+    {
+      "$id": 2,
+      "label": "qst102702_msg0002",
+      "style": 84,
+      "name": "Ah, I see... Yes, I can see how other\ndoctors might not be equipped to\ntake on such an unusual case."
+    },
+    {
+      "$id": 3,
+      "label": "qst102702_msg0003",
+      "style": 84,
+      "name": "Unfortunately, Doctor Smaia\nisn't in the clinic right now."
+    },
+    {
+      "$id": 4,
+      "label": "qst102702_msg0004",
+      "style": 84,
+      "name": "She's on a trip to Temperantia, as part\nof her research on a new remedy."
+    },
+    {
+      "$id": 5,
+      "label": "qst102702_msg0005",
+      "style": 84,
+      "name": "I believe she's currently working at\nthe Superbian military station there."
+    },
+    {
+      "$id": 6,
+      "label": "qst102702_msg0006",
+      "style": 84,
+      "name": "If you're in a hurry, it might be\nquickest to travel there and\nfind her yourself."
+    },
+    {
+      "$id": 7,
+      "label": "qst102702_msg0007",
+      "style": 84,
+      "name": "No no, that's quite all right.\nFrankly, I'm sorry I couldn't do more\nto help after you came all this way."
+    },
+    {
+      "$id": 8,
+      "label": "qst102702_msg0008",
+      "style": 84,
+      "name": "Just...try not to be too shocked\nwhen you do meet the Doctor."
+    },
+    {
+      "$id": 9,
+      "label": "qst102702_msg0009",
+      "style": 84,
+      "name": "It's just that she's a little...eccentric.\nPeople tend to be somewhat\ntaken aback."
+    },
+    {
+      "$id": 10,
+      "label": "qst102702_msg0101",
+      "style": 84,
+      "name": "Doctor Smaia is conducting research\nat the Superbia military installation\nin Temperantia."
+    },
+    {
+      "$id": 11,
+      "label": "qst102702_msg0102",
+      "style": 84,
+      "name": "I wish you the best of luck finding her."
+    },
+    {
+      "$id": 12,
+      "label": "qst102702_msg0201",
+      "style": 84,
+      "name": "Doctor Smaia is back from her\nresearch trip. I guess things are going\nto get lively around here again."
+    },
+    {
+      "$id": 13,
+      "label": "qst102702_msg0301",
+      "style": 84,
+      "name": "Which ingredient would you like\nto hear about?"
+    },
+    {
+      "$id": 14,
+      "label": "qst102702_msg0302",
+      "style": 165,
+      "name": "(Which should I ask about?)"
+    },
+    {
+      "$id": 15,
+      "label": "qst102702_msg0303",
+      "style": 165,
+      "name": "Gloomwood Root"
+    },
+    {
+      "$id": 16,
+      "label": "qst102702_msg0304",
+      "style": 165,
+      "name": "Cloud Sea Halite"
+    },
+    {
+      "$id": 17,
+      "label": "qst102702_msg0305",
+      "style": 165,
+      "name": "A vegetable that makes you feel young"
+    },
+    {
+      "$id": 18,
+      "label": "qst102702_msg0321",
+      "style": 84,
+      "name": "Gloomwood Root can be found in\nSpirit Crucible Elpys, or so I've heard."
+    },
+    {
+      "$id": 19,
+      "label": "qst102702_msg0322",
+      "style": 84,
+      "name": "As the name suggests, it's a root,\nso you'll probably find it in an area\nwith plant life."
+    },
+    {
+      "$id": 20,
+      "label": "qst102702_msg0341",
+      "style": 84,
+      "name": "Cloud Sea Halite is a natural salt\nfound on the Cliffs of Mors."
+    },
+    {
+      "$id": 21,
+      "label": "qst102702_msg0342",
+      "style": 84,
+      "name": "You'll probably have the most luck\nin rocky areas like caves."
+    },
+    {
+      "$id": 22,
+      "label": "qst102702_msg0361",
+      "style": 84,
+      "name": "Ah yes, that's a difficult one...\nDoctor Smaia does demand the most\noddly specific things sometimes."
+    },
+    {
+      "$id": 23,
+      "label": "qst102702_msg0362",
+      "style": 84,
+      "name": "Actually, I think I heard something\nabout a farmer in Gula trying to\ncultivate a brand-new vegetable..."
+    },
+    {
+      "$id": 24,
+      "label": "qst102702_msg0363",
+      "style": 84,
+      "name": "Maybe you should go and see\nif that would suit our purposes."
+    },
+    {
+      "$id": 25,
+      "label": "qst102702_msg0401",
+      "style": 84,
+      "name": "Would you like to hear about\nDragon Incense?"
+    },
+    {
+      "$id": 26,
+      "label": "qst102702_msg0402",
+      "style": 165,
+      "name": "What should we do?"
+    },
+    {
+      "$id": 27,
+      "label": "qst102702_msg0403",
+      "style": 165,
+      "name": "Hear the explanation."
+    },
+    {
+      "$id": 28,
+      "label": "qst102702_msg0404",
+      "style": 165,
+      "name": "Not interested."
+    },
+    {
+      "$id": 29,
+      "label": "qst102702_msg0420",
+      "style": 84,
+      "name": "Dragon Incense is a crystallized\nsubstance formed from the digestive\nsecretions of the Invidian Divine Beast."
+    },
+    {
+      "$id": 30,
+      "label": "qst102702_msg0421",
+      "style": 84,
+      "name": "It's hard to procure in large quantities,\nbut has an exquisite aroma and medical\nproperties, so it sells for a high price."
+    },
+    {
+      "$id": 31,
+      "label": "qst102702_msg0422",
+      "style": 84,
+      "name": "True Dragon Incense is the name given\nto samples of exceptionally high purity."
+    },
+    {
+      "$id": 32,
+      "label": "qst102702_msg0423",
+      "style": 84,
+      "name": "It's said that once upon a time, you\ncould build a whole house for the price\nof a single True Dragon Incense crystal."
+    },
+    {
+      "$id": 33,
+      "label": "qst102702_msg0424",
+      "style": 84,
+      "name": "The secretion is unique to the Invidian\nDivine Beast; no other Divine Beasts produce it."
+    },
+    {
+      "$id": 34,
+      "label": "qst102702_msg0425",
+      "style": 84,
+      "name": "I think that just about covers it.\nWell, good luck out there!"
+    },
+    {
+      "$id": 35,
+      "label": "qst102702_msg0450",
+      "style": 84,
+      "name": "Oh, all right. Take care, then."
+    },
+    {
+      "$id": 36,
+      "label": "qst102702_msg0501",
+      "style": 84,
+      "name": "Ah, you must have found the\nTrue Dragon Incense.\nI can tell from the scent."
+    },
+    {
+      "$id": 37,
+      "label": "qst102702_msg0502",
+      "style": 84,
+      "name": "Mmmmmm...the fragrance is exquisite!"
+    },
+    {
+      "$id": 38,
+      "label": "qst102702_msg0601",
+      "style": 84,
+      "name": "I always thought Flesh Eaters were\nnothing more than a legend, you know."
+    },
+    {
+      "$id": 39,
+      "label": "qst102702_msg0602",
+      "style": 84,
+      "name": "It's quite a revelation to learn that\nthey actually exist! I'd like to meet\none someday."
+    }
+  ]
+}

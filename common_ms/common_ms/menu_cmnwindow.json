@@ -1,0 +1,1954 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 56,
+      "name": "By addition"
+    },
+    {
+      "$id": 2,
+      "style": 56,
+      "name": "By recency"
+    },
+    {
+      "$id": 3,
+      "style": 56,
+      "name": "By name"
+    },
+    {
+      "$id": 4,
+      "style": 56,
+      "name": "By rarity"
+    },
+    {
+      "$id": 5,
+      "style": 56,
+      "name": "Weapon Class"
+    },
+    {
+      "$id": 6,
+      "style": 56,
+      "name": "Element"
+    },
+    {
+      "$id": 7,
+      "style": 56,
+      "name": "Phys. Def."
+    },
+    {
+      "$id": 8,
+      "style": 56,
+      "name": "Ether Def."
+    },
+    {
+      "$id": 9,
+      "style": 56,
+      "name": "Strength"
+    },
+    {
+      "$id": 10,
+      "style": 56,
+      "name": "Ether"
+    },
+    {
+      "$id": 11,
+      "style": 56,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 12,
+      "style": 56,
+      "name": "Agility"
+    },
+    {
+      "$id": 13,
+      "style": 56,
+      "name": "Luck"
+    },
+    {
+      "$id": 14,
+      "style": 56,
+      "name": "Attack"
+    },
+    {
+      "$id": 15,
+      "style": 56,
+      "name": "Block Rate"
+    },
+    {
+      "$id": 16,
+      "style": 56,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 17,
+      "style": 56,
+      "name": "Remove All"
+    },
+    {
+      "$id": 18,
+      "style": 56,
+      "name": "Attack Focus"
+    },
+    {
+      "$id": 19,
+      "style": 56,
+      "name": "Tank Focus"
+    },
+    {
+      "$id": 20,
+      "style": 56,
+      "name": "Healer Focus"
+    },
+    {
+      "$id": 21,
+      "style": 64,
+      "name": "Set as active quest?"
+    },
+    {
+      "$id": 22,
+      "style": 64,
+      "name": "Deactivate this quest?"
+    },
+    {
+      "$id": 23,
+      "style": 64,
+      "name": "ドライバー：ニアが仲間になった\nブレイド：ビャッコが仲間になった\n仮メニューです\nパーティー編成画面呼び出し予定"
+    },
+    {
+      "$id": 24,
+      "style": 64,
+      "name": "ドライバー：メツが仲間になった\nブレイド：ザンテツが仲間になった\n仮メニューです\nパーティー編成画面呼び出し予定"
+    },
+    {
+      "$id": 25,
+      "style": 64,
+      "name": "ドライバー：ニアが仲間から外れた\nブレイド：ビャッコが仲間から外れた\n仮メニューです\nパーティー編成画面呼び出し予定"
+    },
+    {
+      "$id": 26,
+      "style": 64,
+      "name": "ドライバー：メツが仲間から外れた\nブレイド：ザンテツが仲間から外れた\n仮メニューです\nパーティー編成画面呼び出し予定"
+    },
+    {
+      "$id": 27,
+      "style": 64,
+      "name": "ブレイド：ホムラが仲間になった\n仮メニューです\nパーティー編成画面呼び出し予定"
+    },
+    {
+      "$id": 28,
+      "style": 64,
+      "name": "Set this Blade?"
+    },
+    {
+      "$id": 29,
+      "style": 64,
+      "name": "Cannot have more Blades in party.\nChoose one to send to the Merc Group."
+    },
+    {
+      "$id": 30,
+      "style": 64,
+      "name": "■■■■■■■　採集　■■■■■■■■\nフィールドには光るポイントがあります\n近づき調べることで採集ができます\nコレクションアイテムを集めましょう"
+    },
+    {
+      "$id": 31,
+      "style": 64,
+      "name": "■■■■　フィールドスキル　■■■■\nブレイドは各々特別な能力が使えます\n倒木により道が塞がれていますが\nホムラの「燃焼」の能力を使いましょう"
+    },
+    {
+      "$id": 32,
+      "style": 37,
+      "name": "Key item(s) obtained"
+    },
+    {
+      "$id": 33,
+      "style": 37,
+      "name": "Save"
+    },
+    {
+      "$id": 34,
+      "style": 64,
+      "name": "Save current progress?"
+    },
+    {
+      "$id": 35,
+      "style": 64,
+      "name": "Party formation has changed."
+    },
+    {
+      "$id": 36,
+      "style": 64,
+      "name": "You need to open all salvaged treasure\ntroves before salvaging again."
+    },
+    {
+      "$id": 37,
+      "style": 61,
+      "name": "Currently deployed. Recall from duty?"
+    },
+    {
+      "$id": 38,
+      "style": 60,
+      "name": "Undertake request?"
+    },
+    {
+      "$id": 39,
+      "style": 64,
+      "name": "No Blades on standby that fulfill\nthe mission requirements."
+    },
+    {
+      "$id": 40,
+      "style": 60,
+      "name": "Squad disbanded."
+    },
+    {
+      "$id": 41,
+      "style": 60,
+      "name": "Squad dispatched!"
+    },
+    {
+      "$id": 42,
+      "style": 60,
+      "name": "Preset registered."
+    },
+    {
+      "$id": 43,
+      "style": 64,
+      "name": "Too many presets.\nOverwrite?"
+    },
+    {
+      "$id": 44,
+      "style": 64,
+      "name": "Edits will not be applied if you cancel.\nIs that OK?"
+    },
+    {
+      "$id": 45,
+      "style": 64,
+      "name": "Dispatched Blades can't be added to\nthe party. Is that OK?"
+    },
+    {
+      "$id": 46,
+      "style": 64,
+      "name": "Cannot make further edits to squad."
+    },
+    {
+      "$id": 47,
+      "style": 60,
+      "name": "Enhance Driver?"
+    },
+    {
+      "$id": 48,
+      "style": 60,
+      "name": "Choose Driver to enhance."
+    },
+    {
+      "$id": 49,
+      "style": 64,
+      "name": "Leveling up automatically.\nIs this OK?"
+    },
+    {
+      "$id": 50,
+      "style": 60,
+      "name": "Enhance another Driver?"
+    },
+    {
+      "$id": 51,
+      "style": 60,
+      "name": "Go to Character Customization"
+    },
+    {
+      "$id": 52,
+      "style": 60,
+      "name": "Choose a type of level growth."
+    },
+    {
+      "$id": 53,
+      "style": 64,
+      "name": "Automatically level up all Drivers to\nmax possible level."
+    },
+    {
+      "$id": 54,
+      "style": 64,
+      "name": "Choose Drivers to automatically level\nup to max possible level."
+    },
+    {
+      "$id": 55,
+      "style": 64,
+      "name": "Choose Drivers and manually set levels."
+    },
+    {
+      "$id": 56,
+      "style": 64,
+      "name": "Expend EXP to raise a\nlevel of your choice."
+    },
+    {
+      "$id": 57,
+      "style": 60,
+      "name": "Learned Arts × [ML:number digit=2 ]"
+    },
+    {
+      "$id": 58,
+      "style": 64,
+      "name": "There are no Drivers that can be\nleveled up at the moment."
+    },
+    {
+      "$id": 59,
+      "style": 64,
+      "name": "You may never see this Blade again.\nAre you sure you want to proceed?"
+    },
+    {
+      "$id": 60,
+      "style": 64,
+      "name": "Blade released."
+    },
+    {
+      "$id": 61,
+      "style": 60,
+      "name": "Something's shining..."
+    },
+    {
+      "$id": 62,
+      "style": 60,
+      "name": "You got a Pollen Orb!"
+    },
+    {
+      "$id": 63,
+      "style": 60,
+      "name": "Choose a Blade to release."
+    },
+    {
+      "$id": 64,
+      "style": 64,
+      "name": "Too many Blades.\nChoose a Blade to release."
+    },
+    {
+      "$id": 65,
+      "style": 64,
+      "name": "Disengage Blade?"
+    },
+    {
+      "$id": 66,
+      "style": 64,
+      "name": "This Blade cannot be disengaged."
+    },
+    {
+      "$id": 67,
+      "style": 64,
+      "name": "No items to equip."
+    },
+    {
+      "$id": 68,
+      "style": 64,
+      "name": "You can't equip two of the same item."
+    },
+    {
+      "$id": 69,
+      "style": 64,
+      "name": "Put this item in pouch #1?"
+    },
+    {
+      "$id": 70,
+      "style": 64,
+      "name": "Remove equipped item.\nIs this OK?"
+    },
+    {
+      "$id": 71,
+      "style": 64,
+      "name": "Items beyond carry limit will be\nautomatically sold. Is this OK?"
+    },
+    {
+      "$id": 72,
+      "style": 64,
+      "name": "You can't hold any more money.\nDo you still want to sell?"
+    },
+    {
+      "$id": 73,
+      "style": 64,
+      "name": "Select an Art from the weapon\ncategories to set or strengthen."
+    },
+    {
+      "$id": 74,
+      "style": 64,
+      "name": "Strengthen Art?"
+    },
+    {
+      "$id": 75,
+      "style": 64,
+      "name": "Not enough WP to strengthen."
+    },
+    {
+      "$id": 76,
+      "style": 64,
+      "name": "This Art cannot be strengthened\nfurther."
+    },
+    {
+      "$id": 77,
+      "style": 64,
+      "name": "Unlock level not reached."
+    },
+    {
+      "$id": 78,
+      "style": 64,
+      "name": "This Core Chip has already been\napplied."
+    },
+    {
+      "$id": 79,
+      "style": 64,
+      "name": "Enhance weapon?\n(Uses up the Core Chip.)"
+    },
+    {
+      "$id": 80,
+      "style": 64,
+      "name": "Remove orb from slot?"
+    },
+    {
+      "$id": 81,
+      "style": 64,
+      "name": "Unable to equip multiple orbs with the\nsame effect."
+    },
+    {
+      "$id": 82,
+      "style": 64,
+      "name": "Not enough equippable items."
+    },
+    {
+      "$id": 83,
+      "style": 64,
+      "name": "Cannot be equipped by this character."
+    },
+    {
+      "$id": 84,
+      "style": 64,
+      "name": "Enhance this orb?"
+    },
+    {
+      "$id": 85,
+      "style": 64,
+      "name": "Provide these items?"
+    },
+    {
+      "$id": 86,
+      "style": 64,
+      "name": "You got 250,000G, half the value\nof Linne's Core Crystal!"
+    },
+    {
+      "$id": 87,
+      "style": 64,
+      "name": "You got the advance payment!\n(100,000G)"
+    },
+    {
+      "$id": 88,
+      "style": 64,
+      "name": "You got a reward! (200G)"
+    },
+    {
+      "$id": 89,
+      "style": 64,
+      "name": "Learn this skill?"
+    },
+    {
+      "$id": 90,
+      "style": 64,
+      "name": "You got a Key Affinity Reward!\nNew skills may be unlocked!"
+    },
+    {
+      "$id": 91,
+      "style": 64,
+      "name": "You got an Affinity Reward!\nSkill learned or improved!"
+    },
+    {
+      "$id": 92,
+      "style": 64,
+      "name": "You got all Affinity Rewards!\nBlade is at maximum development!"
+    },
+    {
+      "$id": 93,
+      "style": 64,
+      "name": "Affinity Reward"
+    },
+    {
+      "$id": 94,
+      "style": 64,
+      "name": "You haven't fulfilled the requirements\nfor this Affinity Reward yet."
+    },
+    {
+      "$id": 95,
+      "style": 64,
+      "name": "Going into battle with this party.\nIs this OK?"
+    },
+    {
+      "$id": 96,
+      "style": 64,
+      "name": "Travel to this destination?"
+    },
+    {
+      "$id": 97,
+      "style": 64,
+      "name": "Changed the time of day."
+    },
+    {
+      "$id": 98,
+      "style": 64,
+      "name": "Engage this Blade?"
+    },
+    {
+      "$id": 99,
+      "style": 64,
+      "name": "Rose to Rank A!\nYou are now the Divine Salvager!"
+    },
+    {
+      "$id": 100,
+      "style": 64,
+      "name": "Rose to Rank B!\nYou are now a Legendary Salvager!"
+    },
+    {
+      "$id": 101,
+      "style": 64,
+      "name": "Rose to Rank C!\nYou are now a Mushroom-Feast\nSalvager!"
+    },
+    {
+      "$id": 102,
+      "style": 64,
+      "name": "Rose to Rank D!\nYou are now a Bahn-Level Salvager!"
+    },
+    {
+      "$id": 103,
+      "style": 64,
+      "name": "Rose to Rank E!\nYou are now a Baby-Level Salvager!"
+    },
+    {
+      "$id": 104,
+      "style": 64,
+      "name": "Battle unique monster again?"
+    },
+    {
+      "$id": 105,
+      "style": 64,
+      "name": "Modify weapon?\n(Uses up the Core Chip.)"
+    },
+    {
+      "$id": 106,
+      "style": 64,
+      "name": "This will result in a downgrade.\nIs that OK?"
+    },
+    {
+      "$id": 107,
+      "style": 64,
+      "name": "Set Aux Core?"
+    },
+    {
+      "$id": 108,
+      "style": 64,
+      "name": "Remove Aux Core?"
+    },
+    {
+      "$id": 109,
+      "style": 64,
+      "name": "Rose to Merc Group Rank 1!"
+    },
+    {
+      "$id": 110,
+      "style": 64,
+      "name": "Rose to Merc Group Rank 2!"
+    },
+    {
+      "$id": 111,
+      "style": 64,
+      "name": "Rose to Merc Group Rank 3!"
+    },
+    {
+      "$id": 112,
+      "style": 64,
+      "name": "Rose to Merc Group Rank 4!"
+    },
+    {
+      "$id": 113,
+      "style": 64,
+      "name": "Rose to Merc Group Rank 5!"
+    },
+    {
+      "$id": 114,
+      "style": 64,
+      "name": "Select how you want to level up."
+    },
+    {
+      "$id": 115,
+      "style": 64,
+      "name": "All Drivers who can level up will be\nauto-advanced to max available level."
+    },
+    {
+      "$id": 116,
+      "style": 64,
+      "name": "Select Drivers to auto-advance\nto max available level."
+    },
+    {
+      "$id": 117,
+      "style": 64,
+      "name": "Select Drivers to manually level up."
+    },
+    {
+      "$id": 118,
+      "style": 64,
+      "name": "You can spend bonus EXP\nto advance to selected level."
+    },
+    {
+      "$id": 119,
+      "style": 64,
+      "name": "Level-up will be handled automatically.\nIs this OK?"
+    },
+    {
+      "$id": 120,
+      "style": 64,
+      "name": "[ML:DriverName ] has levelled up!"
+    },
+    {
+      "$id": 121,
+      "style": 64,
+      "name": "Select a Driver to advance."
+    },
+    {
+      "$id": 122,
+      "style": 64,
+      "name": "Advance another Driver?"
+    },
+    {
+      "$id": 123,
+      "style": 64,
+      "name": "Is this OK?"
+    },
+    {
+      "$id": 124,
+      "style": 64,
+      "name": "I provide a service whereby I can\nnotify you of the Cloud Sea's tide\nfor when you wish to depart."
+    },
+    {
+      "$id": 125,
+      "style": 64,
+      "name": "Would you like to rest until\nthe Cloud Sea's tide turns?"
+    },
+    {
+      "$id": 126,
+      "style": 64,
+      "name": "Good morning! The Cloud Sea's tide\nseems to have turned."
+    },
+    {
+      "$id": 127,
+      "style": 64,
+      "name": "Hrm? It looks like your bonus EXP\nhas piled up, doesn't it?"
+    },
+    {
+      "$id": 128,
+      "style": 64,
+      "name": "You can level up now.\nHow about it?"
+    },
+    {
+      "$id": 129,
+      "style": 64,
+      "name": "In that case, I look forward\nto serving you again."
+    },
+    {
+      "$id": 130,
+      "style": 64,
+      "name": "Equip this item in the pouch?"
+    },
+    {
+      "$id": 131,
+      "style": 64,
+      "name": "[ML:number digit=4 ] points to go\nbefore next energy limit unlock."
+    },
+    {
+      "$id": 132,
+      "style": 64,
+      "name": "[ML:number digit=9 ] more ether crystals\nrequired for expansion."
+    },
+    {
+      "$id": 133,
+      "style": 64,
+      "name": "Spend ether crystals to expand?"
+    },
+    {
+      "$id": 134,
+      "style": 64,
+      "name": "Remove this part?"
+    },
+    {
+      "$id": 135,
+      "style": 64,
+      "name": "Set this part?"
+    },
+    {
+      "$id": 136,
+      "style": 64,
+      "name": "Spend ether crystals to create this part?"
+    },
+    {
+      "$id": 137,
+      "style": 64,
+      "name": "Create how many?"
+    },
+    {
+      "$id": 138,
+      "style": 64,
+      "name": "Convert this part into ether crystals?"
+    },
+    {
+      "$id": 139,
+      "style": 64,
+      "name": "Convert how many?"
+    },
+    {
+      "$id": 140,
+      "style": 64,
+      "name": "Link Jumping to [ML:MapName ]."
+    },
+    {
+      "$id": 141,
+      "style": 64,
+      "name": "Are you sure you want to bond\nwith this Core Crystal?\n(The game state will be saved.)"
+    },
+    {
+      "$id": 142,
+      "style": 64,
+      "name": "You cannot salvage because you do not\nhave any cylinders."
+    },
+    {
+      "$id": 143,
+      "style": 64,
+      "name": "Use the Pouch Expansion Kit and\ncreate a new pouch?"
+    },
+    {
+      "$id": 144,
+      "style": 64,
+      "name": "The game will be saved.\nIs this OK?"
+    },
+    {
+      "$id": 145,
+      "style": 64,
+      "name": "Bonding Talk\n\"By the Graveside\"\ncomplete."
+    },
+    {
+      "$id": 146,
+      "style": 64,
+      "name": "Bonding Talk\n\"Meleph the Chef\"\ncomplete."
+    },
+    {
+      "$id": 147,
+      "style": 64,
+      "name": "Bonding Talk\n\"Before the Storm\"\ncomplete."
+    },
+    {
+      "$id": 148,
+      "style": 64,
+      "name": "Bonding Talk\n\"Byakko's Wisdom\"\ncomplete."
+    },
+    {
+      "$id": 149,
+      "style": 64,
+      "name": "Bonding Talk\n\"Burgeoning Curiosity\"\ncomplete."
+    },
+    {
+      "$id": 150,
+      "style": 64,
+      "name": "Bonding Talk\n\"The Real Gramps\"\ncomplete."
+    },
+    {
+      "$id": 151,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 152,
+      "style": 64,
+      "name": "Bonding Talk\n\"Hana Judgement Day\"\ncomplete."
+    },
+    {
+      "$id": 153,
+      "style": 64,
+      "name": "Bonding Talk\n\"Hana's Remodel?\"\ncomplete."
+    },
+    {
+      "$id": 154,
+      "style": 64,
+      "name": "Bonding Talk\n\"Hard Life\"\ncomplete."
+    },
+    {
+      "$id": 155,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 156,
+      "style": 64,
+      "name": "Bonding Talk\n\"Superbian Technology\"\ncomplete."
+    },
+    {
+      "$id": 157,
+      "style": 64,
+      "name": "Bonding Talk\n\"Tora's Angst\"\ncomplete."
+    },
+    {
+      "$id": 158,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 159,
+      "style": 64,
+      "name": "Bonding Talk\n\"Saika's Troubles\"\ncomplete."
+    },
+    {
+      "$id": 160,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 161,
+      "style": 64,
+      "name": "Bonding Talk\n\"Blushy-Crushy\"\ncomplete."
+    },
+    {
+      "$id": 162,
+      "style": 64,
+      "name": "Bonding Talk\n\"Life Goes On\"\ncomplete."
+    },
+    {
+      "$id": 163,
+      "style": 64,
+      "name": "Bonding Talk\n\"Reconciliation\"\ncomplete."
+    },
+    {
+      "$id": 164,
+      "style": 64,
+      "name": "Bonding Talk\n\"A Tora and Hana Production\"\ncomplete."
+    },
+    {
+      "$id": 165,
+      "style": 64,
+      "name": "Bonding Talk\n\"Bold Adventures\"\ncomplete."
+    },
+    {
+      "$id": 166,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 167,
+      "style": 64,
+      "name": "Bonding Talk\n\"The Ground Beneath our Feet\"\ncomplete."
+    },
+    {
+      "$id": 168,
+      "style": 64,
+      "name": "Bonding Talk\n\"Five Centuries of Memory\"\ncomplete."
+    },
+    {
+      "$id": 169,
+      "style": 64,
+      "name": "Bonding Talk\n\"Family Ties\"\ncomplete."
+    },
+    {
+      "$id": 170,
+      "style": 64,
+      "name": "Bonding Talk\n\"Hikari Vs. Kagutsuchi\"\ncomplete."
+    },
+    {
+      "$id": 171,
+      "style": 64,
+      "name": "Bonding Talk\n\"Rub-a-Dub-Dub\"\ncomplete."
+    },
+    {
+      "$id": 172,
+      "style": 64,
+      "name": "Bonding Talk\n\"Tora's Tribe\"\ncomplete."
+    },
+    {
+      "$id": 173,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 174,
+      "style": 64,
+      "name": "Bonding Talk\n\"Growing Up\"\ncomplete."
+    },
+    {
+      "$id": 175,
+      "style": 64,
+      "name": "Bonding Talk\n\"Unforgiving Terrain\"\ncomplete."
+    },
+    {
+      "$id": 176,
+      "style": 64,
+      "name": "Bonding Talk\n\"Adel's Appetite\"\ncomplete."
+    },
+    {
+      "$id": 177,
+      "style": 64,
+      "name": "Bonding Talk\n\"Little Rex\"\ncomplete."
+    },
+    {
+      "$id": 178,
+      "style": 64,
+      "name": "Bonding Talk\n\"A Moment's Peace\"\ncomplete."
+    },
+    {
+      "$id": 179,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 180,
+      "style": 64,
+      "name": "Bonding Talk\n\"Eternal Rest\"\ncomplete."
+    },
+    {
+      "$id": 181,
+      "style": 64,
+      "name": "Bonding Talk\n\"Curse of the Zekenator\"\ncomplete."
+    },
+    {
+      "$id": 182,
+      "style": 64,
+      "name": "Bonding Talk\n'\\[blank\\]'\ncomplete."
+    },
+    {
+      "$id": 183,
+      "style": 64,
+      "name": "Bonding Talk\n\"Top of the World\"\ncomplete."
+    },
+    {
+      "$id": 184,
+      "style": 64,
+      "name": "Bonding Talk\n\"Tending to Turters\"\ncomplete."
+    },
+    {
+      "$id": 185,
+      "style": 64,
+      "name": "Bonding Talk\n\"Good Habits\"\ncomplete."
+    },
+    {
+      "$id": 186,
+      "style": 64,
+      "name": "Bonding Talk\n\"Open Your Eyes\"\ncomplete."
+    },
+    {
+      "$id": 187,
+      "style": 64,
+      "name": "Bonding Talk\n\"Legendary Land\"\ncomplete."
+    },
+    {
+      "$id": 188,
+      "style": 64,
+      "name": "Bonding Talk\n\"What's in a Name?\"\ncomplete."
+    },
+    {
+      "$id": 189,
+      "style": 64,
+      "name": "Bonding Talk\n\"Constants\"\ncomplete."
+    },
+    {
+      "$id": 190,
+      "style": 64,
+      "name": "Bonding Talk\n\"Mors the Unknown\"\ncomplete."
+    },
+    {
+      "$id": 191,
+      "style": 64,
+      "name": "Bonding Talk\n\"A Thespian's Life\"\ncomplete."
+    },
+    {
+      "$id": 192,
+      "style": 64,
+      "name": "Bonding Talk\n\"The Literary Life\"\ncomplete."
+    },
+    {
+      "$id": 193,
+      "style": 64,
+      "name": "Bonding Talk\n\"Benkei's Predilections\"\ncomplete."
+    },
+    {
+      "$id": 194,
+      "style": 64,
+      "name": "Bonding Talk\n\"Free as a Bird\"\ncomplete."
+    },
+    {
+      "$id": 195,
+      "style": 64,
+      "name": "Bonding Talk\n\"Lone Wolf\"\ncomplete."
+    },
+    {
+      "$id": 196,
+      "style": 64,
+      "name": "Bonding Talk\n\"Muscle Power\"\ncomplete."
+    },
+    {
+      "$id": 197,
+      "style": 64,
+      "name": "Bonding Talk\n\"Jack of All Trades\"\ncomplete."
+    },
+    {
+      "$id": 198,
+      "style": 64,
+      "name": "Bonding Talk\n\"At the Seat of Power\"\ncomplete."
+    },
+    {
+      "$id": 199,
+      "style": 64,
+      "name": "Bonding Talk\n\"Servant of Justice\"\ncomplete."
+    },
+    {
+      "$id": 200,
+      "style": 64,
+      "name": "Bonding Talk\n\"The Kindness of Blades\"\ncomplete."
+    },
+    {
+      "$id": 201,
+      "style": 64,
+      "name": "Bonding Talk\n\"Poetic License\"\ncomplete."
+    },
+    {
+      "$id": 202,
+      "style": 64,
+      "name": "Bonding Talk\n\"Sweet Strategy\"\ncomplete."
+    },
+    {
+      "$id": 203,
+      "style": 64,
+      "name": "Bonding Talk\n\"Blue Blood\"\ncomplete."
+    },
+    {
+      "$id": 204,
+      "style": 64,
+      "name": "Bonding Talk\n\"Forward-Looking Woman\"\ncomplete."
+    },
+    {
+      "$id": 205,
+      "style": 64,
+      "name": "Bonding Talk\n\"Idaten the Gourmand\"\ncomplete."
+    },
+    {
+      "$id": 206,
+      "style": 64,
+      "name": "Bonding Talk\n\"Desolate Land\"\ncomplete."
+    },
+    {
+      "$id": 207,
+      "style": 64,
+      "name": "Bonding Talk\n\"Sisterly Love\"\ncomplete."
+    },
+    {
+      "$id": 208,
+      "style": 64,
+      "name": "Bonding Talk\n\"Rough Diamond\"\ncomplete."
+    },
+    {
+      "$id": 209,
+      "style": 64,
+      "name": "Bonding Talk\n\"Indomitable Will\"\ncomplete."
+    },
+    {
+      "$id": 210,
+      "style": 64,
+      "name": "Bonding Talk\n\"Girl Power\"\ncomplete."
+    },
+    {
+      "$id": 211,
+      "style": 64,
+      "name": "Bonding Talk\n\"A Love Too Deep\"\ncomplete."
+    },
+    {
+      "$id": 212,
+      "style": 64,
+      "name": "Bonding Talk\n\"Not Quite Comfortable Yet\"\ncomplete."
+    },
+    {
+      "$id": 213,
+      "style": 64,
+      "name": "Bonding Talk\n\"Mad about Divine Beast Weapons\"\ncomplete."
+    },
+    {
+      "$id": 214,
+      "style": 64,
+      "name": "Bonding Talk\n\"Uka-Speak\"\ncomplete."
+    },
+    {
+      "$id": 215,
+      "style": 64,
+      "name": "Bonding Talk\n\"Linne's Dream\"\ncomplete."
+    },
+    {
+      "$id": 216,
+      "style": 64,
+      "name": "Bonding Talk\n\"Reunion\"\ncomplete."
+    },
+    {
+      "$id": 217,
+      "style": 64,
+      "name": "Bonding Talk\n\"Walking Encyclopedia\"\ncomplete."
+    },
+    {
+      "$id": 218,
+      "style": 64,
+      "name": "Bonding Talk\n\"Self-Confidence\"\ncomplete."
+    },
+    {
+      "$id": 219,
+      "style": 64,
+      "name": "Bonding Talk\n\"Stronger Than Light\"\ncomplete."
+    },
+    {
+      "$id": 220,
+      "style": 64,
+      "name": "Bonding Talk\n\"Bird's-Eye View\"\ncomplete."
+    },
+    {
+      "$id": 221,
+      "style": 64,
+      "name": "Bonding Talk\n\"Daybreak\"\ncomplete."
+    },
+    {
+      "$id": 222,
+      "style": 64,
+      "name": "Bonding Talk\n\"Atonement\"\ncomplete."
+    },
+    {
+      "$id": 223,
+      "style": 64,
+      "name": "Bonding Talk\n\"Mei's Weakness\"\ncomplete."
+    },
+    {
+      "$id": 224,
+      "style": 64,
+      "name": "Bonding Talk\n\"Impassioned Thoughts\"\ncomplete."
+    },
+    {
+      "$id": 225,
+      "style": 64,
+      "name": "Bonding Talk\n\"The Purest Beauty?\"\ncomplete."
+    },
+    {
+      "$id": 226,
+      "style": 64,
+      "name": "If you open this door, there will be\nno turning back. Falling in battle will\nmean restarting from the title screen."
+    },
+    {
+      "$id": 227,
+      "style": 64,
+      "name": "The money disappears\ninto the Cloud Sea."
+    },
+    {
+      "$id": 228,
+      "style": 64,
+      "name": "The money falls relatively close."
+    },
+    {
+      "$id": 229,
+      "style": 64,
+      "name": "Mission requirements not fulfilled."
+    },
+    {
+      "$id": 230,
+      "style": 64,
+      "name": "Cancel deployment and return to\nmission selection screen?"
+    },
+    {
+      "$id": 231,
+      "style": 64,
+      "name": "The assembled squad will be deployed.\nIs this OK? (Engaged Blades will be\ndisengaged if necessary.)"
+    },
+    {
+      "$id": 232,
+      "style": 64,
+      "name": "Refine this Aux Core?"
+    },
+    {
+      "$id": 233,
+      "style": 64,
+      "name": "Provide these items?"
+    },
+    {
+      "$id": 234,
+      "style": 55,
+      "name": "OK"
+    },
+    {
+      "$id": 235,
+      "style": 55,
+      "name": "Yes"
+    },
+    {
+      "$id": 236,
+      "style": 55,
+      "name": "No"
+    },
+    {
+      "$id": 237,
+      "style": 64,
+      "name": "Put this item in pouch #2?"
+    },
+    {
+      "$id": 238,
+      "style": 64,
+      "name": "Put this item in pouch #3?"
+    },
+    {
+      "$id": 239,
+      "style": 64,
+      "name": "Finished leveling up?"
+    },
+    {
+      "$id": 240,
+      "style": 64,
+      "name": "You can now weave at Meske's house."
+    },
+    {
+      "$id": 241,
+      "style": 64,
+      "name": "Advance to the selected level?"
+    },
+    {
+      "$id": 242,
+      "style": 64,
+      "name": "Returning to default state.\nIs this OK?"
+    },
+    {
+      "$id": 243,
+      "style": 64,
+      "name": "You can't use this Core Crystal yet."
+    },
+    {
+      "$id": 244,
+      "style": 64,
+      "name": "All squads have been dispatched."
+    },
+    {
+      "$id": 245,
+      "style": 64,
+      "name": "This is equipped to a different\ncharacter. Remove and equip?"
+    },
+    {
+      "$id": 246,
+      "style": 64,
+      "name": "You got the Level 1 Access Key."
+    },
+    {
+      "$id": 247,
+      "style": 64,
+      "name": "You cannot release this Blade."
+    },
+    {
+      "$id": 248,
+      "style": 64,
+      "name": "You cannot release an engaged\nBlade."
+    },
+    {
+      "$id": 249,
+      "style": 64,
+      "name": "You can't hold any more."
+    },
+    {
+      "$id": 250,
+      "style": 64,
+      "name": "Not enough materials."
+    },
+    {
+      "$id": 251,
+      "style": 64,
+      "name": "Controlling lightning got a little easier."
+    },
+    {
+      "$id": 252,
+      "style": 64,
+      "name": "Not enough of the required items."
+    },
+    {
+      "$id": 253,
+      "style": 64,
+      "name": "Make this dish?"
+    },
+    {
+      "$id": 254,
+      "style": 64,
+      "name": "Prepare this item?"
+    },
+    {
+      "$id": 255,
+      "style": 64,
+      "name": "Is this item fine?"
+    },
+    {
+      "$id": 256,
+      "style": 64,
+      "name": "You cannot Change Time right now."
+    },
+    {
+      "$id": 257,
+      "style": 64,
+      "name": "The name will be set to \"Homura\".\nIs this OK?"
+    },
+    {
+      "$id": 258,
+      "style": 64,
+      "name": "The name will be set to \"Hikari\".\nIs this OK?"
+    },
+    {
+      "$id": 259,
+      "style": 64,
+      "name": "Changing to Hikari.\nIs this OK?"
+    },
+    {
+      "$id": 260,
+      "style": 64,
+      "name": "Changing to Homura.\nIs this OK?"
+    },
+    {
+      "$id": 261,
+      "style": 64,
+      "name": "Make Nia a Blade?"
+    },
+    {
+      "$id": 262,
+      "style": 64,
+      "name": "Make Nia a Driver?"
+    },
+    {
+      "$id": 263,
+      "style": 61,
+      "name": "Recall Blade from mission\nand engage?"
+    },
+    {
+      "$id": 264,
+      "style": 64,
+      "name": "You cannot resonate with any more\nCore Crystals right now."
+    },
+    {
+      "$id": 265,
+      "style": 64,
+      "name": "Max. no. of common Blades increased.\nNew Merc Missions available."
+    },
+    {
+      "$id": 266,
+      "style": 64,
+      "name": "Max. no. of common Blades increased.\nNew Merc Missions available.\nNo. of squads to manage increased."
+    },
+    {
+      "$id": 267,
+      "style": 64,
+      "name": "Max. no. of common Blades increased.\nNew Merc Missions available."
+    },
+    {
+      "$id": 268,
+      "style": 64,
+      "name": "Max. no. of common Blades increased.\nNew Merc Missions available.\nNo. of squads to manage increased."
+    },
+    {
+      "$id": 269,
+      "style": 64,
+      "name": "Max. no. of common Blades increased.\nNew Merc Missions available."
+    },
+    {
+      "$id": 270,
+      "style": 64,
+      "name": "Do you want to resonate with this\nCore Crystal?"
+    },
+    {
+      "$id": 271,
+      "style": 64,
+      "name": "Engage this Blade that is bonded\nwith another Driver?\n(This action is reversible.)"
+    },
+    {
+      "$id": 272,
+      "style": 64,
+      "name": "Disengage this Blade from the\nMaster Driver and restore it to its\noriginal Driver?"
+    },
+    {
+      "$id": 273,
+      "style": 64,
+      "name": "Disengage the Blade and add\nthem to the squad?"
+    },
+    {
+      "$id": 274,
+      "style": 64,
+      "name": "Disengaged Blades restored."
+    },
+    {
+      "$id": 275,
+      "style": 64,
+      "name": "Not enough space to accept reward."
+    },
+    {
+      "$id": 276,
+      "style": 64,
+      "name": "Not enough space to accept reward."
+    },
+    {
+      "$id": 277,
+      "style": 64,
+      "name": "Not enough space to accept reward."
+    },
+    {
+      "$id": 278,
+      "style": 64,
+      "name": "Not enough space to accept reward."
+    },
+    {
+      "$id": 279,
+      "style": 64,
+      "name": "Unable to separate Blade from Driver."
+    },
+    {
+      "$id": 280,
+      "style": 64,
+      "name": "This Merc Mission has been completed."
+    },
+    {
+      "$id": 281,
+      "style": 64,
+      "name": "Acedia is now a hostile power. You can\nno longer continue any quests that you\naccepted in Acedia."
+    },
+    {
+      "$id": 282,
+      "style": 64,
+      "name": "Merc Missions accepted / Dev Points\nacquired in Acedia will be transferred to\nLiberalitas."
+    },
+    {
+      "$id": 283,
+      "style": 64,
+      "name": "Apply the Core Chip you purchased?"
+    },
+    {
+      "$id": 284,
+      "style": 64,
+      "name": "Blade in top position cannot be moved."
+    },
+    {
+      "$id": 285,
+      "style": 64,
+      "name": "Raise max capacity of energy\nconverter? (Consumes ether crystals.)"
+    },
+    {
+      "$id": 286,
+      "style": 64,
+      "name": "This Core Crystal can\nonly be used by Meleph."
+    },
+    {
+      "$id": 287,
+      "style": 64,
+      "name": "This Blade cannot modify its weapon."
+    },
+    {
+      "$id": 288,
+      "style": 64,
+      "name": "Use Weaponry for Noobs\n(small effect)?"
+    },
+    {
+      "$id": 289,
+      "style": 64,
+      "name": "Use Intermediate Weaponry\n(medium effect)?"
+    },
+    {
+      "$id": 290,
+      "style": 64,
+      "name": "Use Ultimate Weaponry\n(large effect)?"
+    },
+    {
+      "$id": 291,
+      "style": 64,
+      "name": "You cannot use this. All Arts for chosen\nweapon class are already at max level."
+    },
+    {
+      "$id": 292,
+      "style": 64,
+      "name": "You cannot disengage another Driver's\ntop-position Blade."
+    },
+    {
+      "$id": 293,
+      "style": 64,
+      "name": "You cannot dispatch any more of\nthis Driver's Blades."
+    },
+    {
+      "$id": 294,
+      "style": 64,
+      "name": "You cannot substitute this character\nright now."
+    },
+    {
+      "$id": 295,
+      "style": 64,
+      "name": "You cannot use Overdrive with this\nBlade, as doing so would remove the\nDriver's last engaged Blade."
+    },
+    {
+      "$id": 296,
+      "style": 64,
+      "name": "You cannot use Overdrive with this\nBlade, as it is the Driver's last\nremaining one."
+    },
+    {
+      "$id": 297,
+      "style": 64,
+      "name": "You cannot return Nia to Driver state\nbecause no other Blades are engaged."
+    },
+    {
+      "$id": 298,
+      "style": 64,
+      "name": "Your game will be saved before\nthe final battle begins."
+    },
+    {
+      "$id": 299,
+      "style": 64,
+      "name": "Pre-existing save data found. If you\nsave after starting a new game, the old\ndata will be overwritten, so please be\ncareful."
+    },
+    {
+      "$id": 300,
+      "style": 64,
+      "name": "Set the main story as the active quest?"
+    },
+    {
+      "$id": 301,
+      "style": 64,
+      "name": "Leaving the save screen.\nIs that OK?"
+    },
+    {
+      "$id": 302,
+      "style": 54,
+      "name": "Confirm"
+    },
+    {
+      "$id": 303,
+      "style": 54,
+      "name": "Cancel"
+    },
+    {
+      "$id": 304,
+      "style": 64,
+      "name": "You're carrying too much gold\nto be able to receive this."
+    },
+    {
+      "$id": 305,
+      "style": 64,
+      "name": "You're carrying too much of this item\nto be able to receive this."
+    },
+    {
+      "$id": 306,
+      "style": 64,
+      "name": "You're carrying too many ether crystals\nto be able to receive this."
+    },
+    {
+      "$id": 307,
+      "style": 64,
+      "name": "You cannot receive this content yet.\nYou will have to proceed further in the\ngame's story to be able to receive it."
+    },
+    {
+      "$id": 308,
+      "style": 64,
+      "name": "You have received the contents."
+    },
+    {
+      "$id": 309,
+      "style": 64,
+      "name": "From now on, Budada will make you\nspecial cylinders."
+    },
+    {
+      "$id": 310,
+      "style": 64,
+      "name": "Meet him in the Goldmund Residential\nDistrict, in Avaritia."
+    },
+    {
+      "$id": 311,
+      "style": 64,
+      "name": "The Fire Dragons have taught Homura\ntheir new recipe. You can make it\nin the kitchen at either Corrine's\nor Tora's House."
+    },
+    {
+      "$id": 312,
+      "style": 64,
+      "name": "As thanks, Maddock has issued\nsome requests to the Merc Group."
+    },
+    {
+      "$id": 313,
+      "style": 64,
+      "name": "More Merc Missions with high\nMerc Point rewards are now available."
+    },
+    {
+      "$id": 314,
+      "style": 64,
+      "name": "As a follow-up to the matter, Strath\nhas issued some Merc Group requests."
+    },
+    {
+      "$id": 315,
+      "style": 64,
+      "name": "More Merc Missions which greatly\nbuild Trust are now available."
+    },
+    {
+      "$id": 316,
+      "style": 64,
+      "name": "You've discovered a new Salvage Point."
+    },
+    {
+      "$id": 317,
+      "style": 64,
+      "name": "You can now salvage from Balquors\nRuins in the Cliffs of Mors."
+    },
+    {
+      "$id": 318,
+      "style": 64,
+      "name": "From now on, Chulev will make you\naccessories in return for materials."
+    },
+    {
+      "$id": 319,
+      "style": 64,
+      "name": "Check what kinds he can make\nby talking to him in person."
+    },
+    {
+      "$id": 320,
+      "style": 64,
+      "name": "You can now make the hat Lhagen's\nbeen dreaming of. This will require\nusing Mei's Field Skill."
+    },
+    {
+      "$id": 321,
+      "style": 64,
+      "name": "Love Source is a pouch item that\ngreatly increases Trust."
+    },
+    {
+      "$id": 322,
+      "style": 64,
+      "name": "From now on, if you pick more\nFlutterheart Grass in Luxuria, you\ncan make more of the elixir here."
+    },
+    {
+      "$id": 323,
+      "style": 64,
+      "name": "As thanks, Geoffili has issued\nsome requests to the Merc Group."
+    },
+    {
+      "$id": 324,
+      "style": 64,
+      "name": "More Merc Missions which offer\nlarge rewards are now available."
+    },
+    {
+      "$id": 325,
+      "style": 64,
+      "name": "As thanks, Caephon has issued\nsome requests to the Merc Group."
+    },
+    {
+      "$id": 326,
+      "style": 64,
+      "name": "More Merc Missions which build\nTrust even further are now available."
+    },
+    {
+      "$id": 327,
+      "style": 64,
+      "name": "Seesaw has completed work on the\nspecial cylinder."
+    },
+    {
+      "$id": 328,
+      "style": 64,
+      "name": "You can use the Booster Cylinder\nat the Salvage Point on Gula's\nLascham Island."
+    },
+    {
+      "$id": 329,
+      "style": 64,
+      "name": "Seesaw can make you as many\nBooster Cylinders as you like."
+    },
+    {
+      "$id": 330,
+      "style": 64,
+      "name": "Jennifora will pass on the orders\nfor Yuou's Just Desserts to the\nMerc Group from now on."
+    },
+    {
+      "$id": 331,
+      "style": 64,
+      "name": "More Merc Missions which build\nTrust even further, and offer special\npouch item rewards, are now available."
+    },
+    {
+      "$id": 332,
+      "style": 64,
+      "name": "Bring Barhanen the materials and\nhe'll make Accessories for you."
+    },
+    {
+      "$id": 333,
+      "style": 64,
+      "name": "Gather the Ellook Horns from Ripbik\nEllook, along with any other necessary\nmaterials, then bring them to him."
+    },
+    {
+      "$id": 334,
+      "style": 64,
+      "name": "If you set the level to this, you'll get \nmore Bonus EXP than you can keep.\nContinue to set the level and lose\nall Bonus EXP over the max amount?"
+    },
+    {
+      "$id": 335,
+      "style": 64,
+      "name": "You can lower your Drivers' levels \nwhile playing New Game Plus.\nWhen you lower their level, you can\nkeep the EXP difference as Bonus EXP."
+    },
+    {
+      "$id": 336,
+      "style": 64,
+      "name": "Set the level to this?"
+    },
+    {
+      "$id": 337,
+      "style": 64,
+      "name": "Finished changing level?"
+    },
+    {
+      "$id": 338,
+      "style": 64,
+      "name": "Satahiko will be engaged by whichever\ncharacter talks to him. However, Tora\ncannot engage him."
+    },
+    {
+      "$id": 339,
+      "style": 64,
+      "name": "If Satahiko is released, he will reappear\nin this place."
+    },
+    {
+      "$id": 340,
+      "style": 64,
+      "name": "This Blade's weapon can't be modified.\nDo you still want to buy Core Chips?"
+    },
+    {
+      "$id": 341,
+      "style": 64,
+      "name": "You got 20,000 ether crystals."
+    },
+    {
+      "$id": 342,
+      "style": 64,
+      "name": "You can change the difficulty settings \nany time from [System:Color name=tutorial ]Main Menu[/System:Color] > [System:Color name=tutorial ]System [/System:Color]>\n[System:Color name=tutorial ]Options [/System:Color]> [System:Color name=tutorial ]Game Settings[/System:Color]."
+    },
+    {
+      "$id": 343,
+      "style": 64,
+      "name": "This Blade is listed as favorite.\nIf you want to release it, you will\nhave to delist it first."
+    },
+    {
+      "$id": 344,
+      "style": 64,
+      "name": "If you go any further, there will be\nno turning back. Falling in battle will\nmean restarting from the title screen."
+    },
+    {
+      "$id": 345,
+      "style": 64,
+      "name": "Your game will be saved before\nthe final battle begins."
+    },
+    {
+      "$id": 346,
+      "style": 64,
+      "name": "You can only dispatch one model\nof Hana at a time."
+    },
+    {
+      "$id": 347,
+      "style": 64,
+      "name": "When Hana is on a Merc Mission,\nTora cannot take part in battles.\nIs this OK?"
+    },
+    {
+      "$id": 348,
+      "style": 64,
+      "name": "Tora cannot participate in any battles\nwhile Hana is on a Merc Mission."
+    },
+    {
+      "$id": 349,
+      "style": 64,
+      "name": "If you tell tales in exchange for items,\nthe amount of Bonus EXP required will\nbe taken from the active character."
+    },
+    {
+      "$id": 350,
+      "style": 64,
+      "name": "Use the Accessory Expander Kit\nto increase the number of slots?"
+    },
+    {
+      "$id": 351,
+      "style": 57,
+      "name": "Yes (View Awakening)"
+    },
+    {
+      "$id": 352,
+      "style": 57,
+      "name": "Yes (Skip Awakening)"
+    },
+    {
+      "$id": 353,
+      "style": 64,
+      "name": "You can't receive this reward\nbecause your inventory is full."
+    },
+    {
+      "$id": 354,
+      "style": 64,
+      "name": "Start New Game Plus?"
+    },
+    {
+      "$id": 355,
+      "style": 64,
+      "name": "Each Driver can only use an\nAccessory Expander Kit once."
+    },
+    {
+      "$id": 356,
+      "style": 64,
+      "name": "Retry the challenge?\nIf you do, you will not receive any\ntreasure troves for this attempt."
+    },
+    {
+      "$id": 357,
+      "style": 64,
+      "name": "The challenge will begin.\nIs that OK?"
+    },
+    {
+      "$id": 358,
+      "style": 64,
+      "name": "The Driver requirements aren't met."
+    },
+    {
+      "$id": 359,
+      "style": 64,
+      "name": "The downloadable content has\nbeen removed. Please redownload\nthe content to continue playing your\npreviously-saved game."
+    },
+    {
+      "$id": 360,
+      "style": 64,
+      "name": "You are already holding the maximum\npossible number of accessories.\nFirst sell some accessories if you\nwant to purchase this item."
+    },
+    {
+      "$id": 361,
+      "style": 64,
+      "name": "You cannot use this feature in the\nLand of Challenge."
+    },
+    {
+      "$id": 362,
+      "style": 64,
+      "name": "The camping screen will be closed.\nIs that OK?"
+    },
+    {
+      "$id": 363,
+      "style": 64,
+      "name": "The camping screen will be closed\nand you will rest until morning.\nIs that OK?"
+    },
+    {
+      "$id": 364,
+      "style": 64,
+      "name": "Laura and Kasumi will be removed from\nthe party if you approach the flagship."
+    },
+    {
+      "$id": 365,
+      "style": 64,
+      "name": "If you want to re-add Laura to the party,\nreturn to Trigo and speak to her."
+    },
+    {
+      "$id": 366,
+      "style": 64,
+      "name": "Give up on the challenge?\nIf you do, you will not receive any\ntreasure troves for this attempt."
+    },
+    {
+      "$id": 367,
+      "style": 57,
+      "name": "Give up on challenge"
+    },
+    {
+      "$id": 368,
+      "style": 57,
+      "name": "Retry challenge"
+    },
+    {
+      "$id": 369,
+      "style": 57,
+      "name": "Keep going"
+    },
+    {
+      "$id": 370,
+      "style": 64,
+      "name": "You can now collect Panacellin\nwhenever you like."
+    },
+    {
+      "$id": 371,
+      "style": 64,
+      "name": "You cannot equip more than one\nappearance-changing item."
+    },
+    {
+      "$id": 372,
+      "style": 64,
+      "name": "After you check Hibana's Affinity\nchart, you'll be able to use her cooking\nskill at Tora's House."
+    },
+    {
+      "$id": 373,
+      "style": 64,
+      "name": "Hibana's cooking repertoire\nhas increased."
+    },
+    {
+      "$id": 374,
+      "style": 64,
+      "name": "You can now collect Pestronella\nwhenever you like."
+    },
+    {
+      "$id": 375,
+      "style": 64,
+      "name": "Let's go ahead and make Trout Stralu."
+    },
+    {
+      "$id": 376,
+      "style": 64,
+      "name": "Elma's Focus and Lockpicking\nAffinity Rewards have been updated."
+    },
+    {
+      "$id": 377,
+      "style": 64,
+      "name": "Some of Kamuya's Affinity Reward\nconditions have been revealed."
+    },
+    {
+      "$id": 378,
+      "style": 64,
+      "name": "Track this character?"
+    },
+    {
+      "$id": 379,
+      "style": 64,
+      "name": "This will use a NoponGro: Bravery.\nIs this OK?"
+    },
+    {
+      "$id": 380,
+      "style": 64,
+      "name": "This will use a NoponGro: Truth.\nIs this OK?"
+    },
+    {
+      "$id": 381,
+      "style": 64,
+      "name": "This will use a NoponGro: Compassion.\nIs this OK?"
+    },
+    {
+      "$id": 382,
+      "style": 64,
+      "name": "This will use a NoponGro: Justice.\nIs this OK?"
+    },
+    {
+      "$id": 383,
+      "style": 64,
+      "name": "You can change customization settings\nduring gameplay."
+    },
+    {
+      "$id": 384,
+      "style": 64,
+      "name": "Stop tracking this character?"
+    },
+    {
+      "$id": 385,
+      "style": 64,
+      "name": "You can lower your teams' levels \nwhile playing New Game Plus.\nWhen you lower their level, you can\nkeep the EXP difference as Bonus EXP."
+    },
+    {
+      "$id": 386,
+      "style": 64,
+      "name": "You cannot hold any more of these."
+    },
+    {
+      "$id": 387,
+      "style": 64,
+      "name": "You will need the support of many\npeople to progress in this quest."
+    },
+    {
+      "$id": 388,
+      "style": 64,
+      "name": "Help others out as much as you can\nto build up your Community, then\ntalk to Macmac."
+    }
+  ]
+}

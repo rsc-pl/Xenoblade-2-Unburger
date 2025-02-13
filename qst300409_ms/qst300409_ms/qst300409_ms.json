@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300409_msg001",
+      "style": 62,
+      "name": "艦長撃破後FEV"
+    },
+    {
+      "$id": 2,
+      "label": "qst300409_msg0001",
+      "style": 84,
+      "name": "I don't know where you are\ngetting your information from..."
+    },
+    {
+      "$id": 3,
+      "label": "qst300409_msg0002",
+      "style": 84,
+      "name": "But your actions here are in\ndirect opposition to the interests\nof Superbia!"
+    },
+    {
+      "$id": 4,
+      "label": "qst300409_msg0021",
+      "style": 165,
+      "name": "(What shall we ask about?)"
+    },
+    {
+      "$id": 5,
+      "label": "qst300409_msg0022",
+      "style": 165,
+      "name": "About the heir of Hannes"
+    },
+    {
+      "$id": 6,
+      "label": "qst300409_msg0023",
+      "style": 165,
+      "name": "About this incident's mastermind"
+    },
+    {
+      "$id": 7,
+      "label": "qst300409_msg0051",
+      "style": 84,
+      "name": "I know nothing of an heir."
+    },
+    {
+      "$id": 8,
+      "label": "qst300409_msg0052",
+      "style": 84,
+      "name": "Our lord merely suggested that we use\nthe rumors from the Succession War\nto make our claim sound legitimate."
+    },
+    {
+      "$id": 9,
+      "label": "qst300409_msg0053",
+      "style": 84,
+      "name": "There's no point asking after our lord.\nHe will already have escaped to a safe\nlocation by now. You'll never find him!"
+    },
+    {
+      "$id": 10,
+      "label": "qst300409_msg0071",
+      "style": 84,
+      "name": "We have already informed our lord\nthat you people were snooping around."
+    },
+    {
+      "$id": 11,
+      "label": "qst300409_msg0072",
+      "style": 84,
+      "name": "I'm sure he will already have escaped\nto somewhere you will never find him!"
+    },
+    {
+      "$id": 12,
+      "label": "qst300409_msg0073",
+      "style": 84,
+      "name": "He was the one who came up with\nthe idea to take advantage of the wild\nrumors of an Envian heir, you know."
+    },
+    {
+      "$id": 13,
+      "label": "qst300409_msg0101",
+      "style": 84,
+      "name": "This is the key to the room where\nthe Jeweled Signet is hidden.\nDo with it as you wish."
+    },
+    {
+      "$id": 14,
+      "label": "qst300409_msg0102",
+      "style": 84,
+      "name": "I am the captain of this vessel."
+    },
+    {
+      "$id": 15,
+      "label": "qst300409_msg0103",
+      "style": 84,
+      "name": "I value the safety of my ship and its\ncrew over securing an item for a client\nwho will already have gone into hiding..."
+    },
+    {
+      "$id": 16,
+      "label": "qst300409_msg0104",
+      "style": 84,
+      "name": "If we resist you any further, I doubt\nthis ship would stay unharmed for long."
+    }
+  ]
+}

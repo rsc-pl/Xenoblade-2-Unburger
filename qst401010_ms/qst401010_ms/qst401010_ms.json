@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk401010_msg0001",
+      "style": 84,
+      "name": "Perhaps there are untoward\nintentions on the Superbia side.\nFrankly, I would expect it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk401010_msg0002",
+      "style": 84,
+      "name": "But I can assure you that we\nof Invidia have no intentions of\ntrying anything funny."
+    },
+    {
+      "$id": 3,
+      "label": "tlk401010_msg0003",
+      "style": 84,
+      "name": "The word of Queen Lagert is absolute."
+    },
+    {
+      "$id": 4,
+      "label": "tlk401010_msg0004",
+      "style": 84,
+      "name": "We trust in our Queen, and as she wills\nit, we gladly put our weapons aside."
+    },
+    {
+      "$id": 5,
+      "label": "tlk401010_msg0005",
+      "style": 84,
+      "name": "So there is no need for concern."
+    },
+    {
+      "$id": 6,
+      "label": "tlk401010_msg0006",
+      "style": 84,
+      "name": "...Of course, if the Queen ordered me to\ntake up arms, I would gladly fight tooth\nand nail against those Superbian dogs."
+    },
+    {
+      "$id": 7,
+      "label": "tlk401010_msg0007",
+      "style": 84,
+      "name": "You would do well not to forget that."
+    }
+  ]
+}

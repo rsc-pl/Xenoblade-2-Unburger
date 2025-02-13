@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00340104_msg0001",
+      "style": 84,
+      "name": "Safe journey. Fons Maim's a way out."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00340104_msg0002",
+      "style": 84,
+      "name": "And the monsters are tough as old\nnails out there. Make sure you're all\nset before you head out, yeah?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00340104_msg0003",
+      "style": 84,
+      "name": "When in doubt, just bear the Boss's\nwords in mind. He'll keep you in good\nstead."
+    }
+  ]
+}

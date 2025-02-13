@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45340112_01_msg0001",
+      "style": 84,
+      "name": "Hey there, Rex! This Divine Beast ship\ncatch your interest?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45340112_01_msg0002",
+      "style": 84,
+      "name": "It is the finest Divine Beast ship in all of the\nAvaritia Trade Guild, after all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45340112_01_msg0003",
+      "style": 84,
+      "name": "But as you can see, it's currently\nundergoing maintenance. It won't\nbe setting sail for a while yet."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45340112_01_msg0004",
+      "style": 84,
+      "name": "If you want to see it in action,\ntry coming round another time."
+    }
+  ]
+}

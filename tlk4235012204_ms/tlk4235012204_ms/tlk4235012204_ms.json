@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350122_04_msg0001",
+      "style": 84,
+      "name": "The people in Trigo are so kind.\nThey're making places to live for all\nthese people who suddenly showed up!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350122_04_msg0002",
+      "style": 84,
+      "name": "Normally if outsiders come into your\nterritory, that's the cue for a fight."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350122_04_msg0003",
+      "style": 84,
+      "name": "Turf wars are such a pain, though.\nPersonally I'd probably just give\nup and leave."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350122_04_msg0004",
+      "style": 84,
+      "name": "But in Trigo, it looks like everyone\nwill be getting along well pretty soon!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320351_01_msg0001",
+      "style": 84,
+      "name": "The audience chamber is right above\nhere, but His Majesty the Emperor\nis not here right now."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320351_01_msg0002",
+      "style": 84,
+      "name": "If you seek an audience, please\nreturn some other time."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320351_01_msg00101",
+      "style": 84,
+      "name": "Ah, Special Inquisitor Meleph!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320351_01_msg00102",
+      "style": 84,
+      "name": "I regret to inform you that Emperor\nNefer is most busy with his official\nduties at the present time."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320351_01_msg00103",
+      "style": 84,
+      "name": "If you wish to see him, please\nreturn another time."
+    }
+  ]
+}

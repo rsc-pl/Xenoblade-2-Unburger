@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn061_msg0001",
+      "style": 84,
+      "name": "Hey, listen! I read my fortune\nwhen I got up today!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn061_msg0002",
+      "style": 84,
+      "name": "It said if we go to Gotrock Oracle\nRuins at the Cliffs of Mors,\nwe'll see a lovely sunset!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn061_msg0003",
+      "style": 84,
+      "name": "I really want to go..."
+    }
+  ]
+}

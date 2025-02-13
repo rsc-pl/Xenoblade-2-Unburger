@@ -1,0 +1,554 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Homura"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Hikari"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "[ML:HomuriName ]"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Byakko"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Hana JS"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Hana JK"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Hana JD"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Suzaku"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Kagutsuchi"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Saika"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Nia"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Utsuro"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Akaru"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Guren"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Ichijin"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Kubira"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Supamaru"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Randama"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Kogetsu"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Kandachi"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Haniya"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Shura"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Hiten"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Araishu"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Yuou"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Idaten"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Kasane"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Mikumari"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Seori"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Tokiha"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Zakuro"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Azami"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Nanakoori"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Ginsen"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Newt"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Uka"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Linne"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Musubi"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Hinku"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "Ichiru"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Chitose"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Ninigi"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Tsuchibiko"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Hororo"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Zantetsu"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Yoshitsune"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Benkei"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Satahiko"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Kamui"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Rago"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Ootsuchi"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "Wadatsumi"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Glen"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Jikarao"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Vasara"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Yuou"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Kubira"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Idaten"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Hotaru"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Kasane"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Mikumari"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Seori"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Tokiha"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Zakuro"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Azami"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Nanakoori"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Newt"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Uka"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "Linne"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Musubi"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "Shiki"
+    },
+    {
+      "$id": 72,
+      "style": 15,
+      "name": "Raiko"
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "Yaegiri"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Ibuki"
+    },
+    {
+      "$id": 75,
+      "style": 15,
+      "name": "KOS-MOS RE: Re:"
+    },
+    {
+      "$id": 76,
+      "style": 15,
+      "name": "Ten'i"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "Tsuki"
+    },
+    {
+      "$id": 78,
+      "style": 15,
+      "name": "Mei"
+    },
+    {
+      "$id": 79,
+      "style": 15,
+      "name": "Menou"
+    },
+    {
+      "$id": 80,
+      "style": 15,
+      "name": "男・トマホーク"
+    },
+    {
+      "$id": 81,
+      "style": 15,
+      "name": "男・ランス"
+    },
+    {
+      "$id": 82,
+      "style": 15,
+      "name": "男・キャノン"
+    },
+    {
+      "$id": 83,
+      "style": 15,
+      "name": "男・シールド"
+    },
+    {
+      "$id": 84,
+      "style": 15,
+      "name": "男・日本刀"
+    },
+    {
+      "$id": 85,
+      "style": 15,
+      "name": "男・ボール"
+    },
+    {
+      "$id": 86,
+      "style": 15,
+      "name": "男・ナックルー"
+    },
+    {
+      "$id": 87,
+      "style": 15,
+      "name": "屈強・トマホーク"
+    },
+    {
+      "$id": 88,
+      "style": 15,
+      "name": "屈強・ランス"
+    },
+    {
+      "$id": 89,
+      "style": 15,
+      "name": "屈強・キャノン"
+    },
+    {
+      "$id": 90,
+      "style": 15,
+      "name": "屈強・シールド"
+    },
+    {
+      "$id": 91,
+      "style": 15,
+      "name": "屈強・日本刀"
+    },
+    {
+      "$id": 92,
+      "style": 15,
+      "name": "屈強・ボール"
+    },
+    {
+      "$id": 93,
+      "style": 15,
+      "name": "屈強・ナックル"
+    },
+    {
+      "$id": 94,
+      "style": 15,
+      "name": "女・トマホーク"
+    },
+    {
+      "$id": 95,
+      "style": 15,
+      "name": "女・ランス"
+    },
+    {
+      "$id": 96,
+      "style": 15,
+      "name": "女・エーテルキャノン"
+    },
+    {
+      "$id": 97,
+      "style": 15,
+      "name": "女・シールドハンマー"
+    },
+    {
+      "$id": 98,
+      "style": 15,
+      "name": "女・日本刀"
+    },
+    {
+      "$id": 99,
+      "style": 15,
+      "name": "女・ビットボール"
+    },
+    {
+      "$id": 100,
+      "style": 15,
+      "name": "女・ナックルクロー"
+    },
+    {
+      "$id": 101,
+      "style": 15,
+      "name": "四足・ツインリング"
+    },
+    {
+      "$id": 102,
+      "style": 15,
+      "name": "T-elos Re:"
+    },
+    {
+      "$id": 103,
+      "style": 15,
+      "name": "Hanabuster"
+    },
+    {
+      "$id": 104,
+      "style": 15,
+      "name": "Shulk"
+    },
+    {
+      "$id": 105,
+      "style": 15,
+      "name": "Fiorung"
+    },
+    {
+      "$id": 106,
+      "style": 15,
+      "name": "Kamuya"
+    },
+    {
+      "$id": 107,
+      "style": 15,
+      "name": "Hibana"
+    },
+    {
+      "$id": 108,
+      "style": 15,
+      "name": "Elma"
+    }
+  ]
+}

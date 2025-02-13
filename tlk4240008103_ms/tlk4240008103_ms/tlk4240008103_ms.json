@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240008103_msg0001",
+      "style": 84,
+      "name": "Ooohoho!\nSo many rare ingredients Quiqui never\never seen before!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240008103_msg0002",
+      "style": 84,
+      "name": "They even selling things within teacher\nbudget! Quiqui one happy customer!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240008103_msg0003",
+      "style": 84,
+      "name": "And now Quiqui can conduct\nexperiments in building with proper\nroof! Brings tears to Quiqui's eyes!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4240008103_msg0004",
+      "style": 84,
+      "name": "But students say lessons of Quiqui\ndifficult to understand... Must work\non simplifying course materials."
+    }
+  ]
+}

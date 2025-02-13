@@ -1,0 +1,659 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 47,
+      "name": "OK"
+    },
+    {
+      "$id": 2,
+      "style": 47,
+      "name": "Cancel"
+    },
+    {
+      "$id": 3,
+      "style": 47,
+      "name": "Return"
+    },
+    {
+      "$id": 4,
+      "style": 47,
+      "name": "Close"
+    },
+    {
+      "$id": 5,
+      "style": 47,
+      "name": "Arrange"
+    },
+    {
+      "$id": 6,
+      "style": 47,
+      "name": "Disengage"
+    },
+    {
+      "$id": 7,
+      "style": 47,
+      "name": "Remove"
+    },
+    {
+      "$id": 8,
+      "style": 47,
+      "name": "Select Stats"
+    },
+    {
+      "$id": 9,
+      "style": 47,
+      "name": "Team Info"
+    },
+    {
+      "$id": 10,
+      "style": 47,
+      "name": "Blade Info"
+    },
+    {
+      "$id": 11,
+      "style": 47,
+      "name": "Select Team"
+    },
+    {
+      "$id": 12,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 13,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 14,
+      "style": 47,
+      "name": "Select Team Type"
+    },
+    {
+      "$id": 15,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 16,
+      "style": 47,
+      "name": "Sort"
+    },
+    {
+      "$id": 17,
+      "style": 47,
+      "name": "Switch"
+    },
+    {
+      "$id": 18,
+      "style": 47,
+      "name": "Interact"
+    },
+    {
+      "$id": 19,
+      "style": 47,
+      "name": "Remove"
+    },
+    {
+      "$id": 20,
+      "style": 47,
+      "name": "Remove"
+    },
+    {
+      "$id": 21,
+      "style": 47,
+      "name": "Details"
+    },
+    {
+      "$id": 22,
+      "style": 47,
+      "name": "Change"
+    },
+    {
+      "$id": 23,
+      "style": 47,
+      "name": "Level Up"
+    },
+    {
+      "$id": 24,
+      "style": 47,
+      "name": "Unequip"
+    },
+    {
+      "$id": 25,
+      "style": 47,
+      "name": "Enhance Art"
+    },
+    {
+      "$id": 26,
+      "style": 47,
+      "name": "Move Cursor"
+    },
+    {
+      "$id": 27,
+      "style": 47,
+      "name": "Scroll map"
+    },
+    {
+      "$id": 28,
+      "style": 47,
+      "name": "Zoom in/out"
+    },
+    {
+      "$id": 29,
+      "style": 47,
+      "name": "Toggle Icons"
+    },
+    {
+      "$id": 30,
+      "style": 47,
+      "name": "Legend"
+    },
+    {
+      "$id": 31,
+      "style": 47,
+      "name": "Change Order"
+    },
+    {
+      "$id": 32,
+      "style": 47,
+      "name": "Info"
+    },
+    {
+      "$id": 33,
+      "style": 47,
+      "name": "Save"
+    },
+    {
+      "$id": 34,
+      "style": 47,
+      "name": "Switch"
+    },
+    {
+      "$id": 35,
+      "style": 47,
+      "name": "Include"
+    },
+    {
+      "$id": 36,
+      "style": 47,
+      "name": "Exclude"
+    },
+    {
+      "$id": 37,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 38,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 39,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 40,
+      "style": 47,
+      "name": "Switch"
+    },
+    {
+      "$id": 41,
+      "style": 47,
+      "name": "Move Cursor"
+    },
+    {
+      "$id": 42,
+      "style": 47,
+      "name": "Skip"
+    },
+    {
+      "$id": 43,
+      "style": 47,
+      "name": "Activate"
+    },
+    {
+      "$id": 44,
+      "style": 47,
+      "name": "Deactivate"
+    },
+    {
+      "$id": 45,
+      "style": 47,
+      "name": "Change Time"
+    },
+    {
+      "$id": 46,
+      "style": 47,
+      "name": "Item Info"
+    },
+    {
+      "$id": 47,
+      "style": 47,
+      "name": "Turn"
+    },
+    {
+      "$id": 48,
+      "style": 47,
+      "name": "Model Only"
+    },
+    {
+      "$id": 49,
+      "style": 47,
+      "name": "Replay Motion"
+    },
+    {
+      "$id": 50,
+      "style": 47,
+      "name": "Link Jump"
+    },
+    {
+      "$id": 51,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 52,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 53,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 54,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 55,
+      "style": 47,
+      "name": "Character List"
+    },
+    {
+      "$id": 56,
+      "style": 47,
+      "name": "Change Blade"
+    },
+    {
+      "$id": 57,
+      "style": 47,
+      "name": "Select Category"
+    },
+    {
+      "$id": 58,
+      "style": 47,
+      "name": "Expand"
+    },
+    {
+      "$id": 59,
+      "style": 47,
+      "name": "Release"
+    },
+    {
+      "$id": 60,
+      "style": 47,
+      "name": "Check Contents"
+    },
+    {
+      "$id": 61,
+      "style": 47,
+      "name": "Details Off"
+    },
+    {
+      "$id": 62,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 63,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 64,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 65,
+      "style": 47,
+      "name": "Select Option"
+    },
+    {
+      "$id": 66,
+      "style": 47,
+      "name": "Restore Default"
+    },
+    {
+      "$id": 67,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 68,
+      "style": 47,
+      "name": "Details On"
+    },
+    {
+      "$id": 69,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 70,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 71,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 72,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 73,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 74,
+      "style": 47,
+      "name": "Step Outwards"
+    },
+    {
+      "$id": 75,
+      "style": 47,
+      "name": "Step Inwards"
+    },
+    {
+      "$id": 76,
+      "style": 47,
+      "name": "Hidden Affinity"
+    },
+    {
+      "$id": 77,
+      "style": 47,
+      "name": "Overt Affinity"
+    },
+    {
+      "$id": 78,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 79,
+      "style": 47,
+      "name": "Filter On"
+    },
+    {
+      "$id": 80,
+      "style": 47,
+      "name": "Filter Off"
+    },
+    {
+      "$id": 81,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 82,
+      "style": 47,
+      "name": "Confirm"
+    },
+    {
+      "$id": 83,
+      "style": 47,
+      "name": "Setting Select"
+    },
+    {
+      "$id": 84,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 85,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 86,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 87,
+      "style": 47,
+      "name": "Increase"
+    },
+    {
+      "$id": 88,
+      "style": 47,
+      "name": "Reduce"
+    },
+    {
+      "$id": 89,
+      "style": 47,
+      "name": "Swap to Hikari"
+    },
+    {
+      "$id": 90,
+      "style": 47,
+      "name": "Swap to Homura"
+    },
+    {
+      "$id": 91,
+      "style": 47,
+      "name": "To Blade Form"
+    },
+    {
+      "$id": 92,
+      "style": 47,
+      "name": "To Driver Form"
+    },
+    {
+      "$id": 93,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 94,
+      "style": 47,
+      "name": "Remove"
+    },
+    {
+      "$id": 95,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 96,
+      "style": 47,
+      "name": "Create Part"
+    },
+    {
+      "$id": 97,
+      "style": 47,
+      "name": "Crystallize"
+    },
+    {
+      "$id": 98,
+      "style": 47,
+      "name": "Equipped"
+    },
+    {
+      "$id": 99,
+      "style": 47,
+      "name": "Zoom In"
+    },
+    {
+      "$id": 100,
+      "style": 47,
+      "name": "Zoom Out"
+    },
+    {
+      "$id": 101,
+      "style": 47,
+      "name": "Voice #1"
+    },
+    {
+      "$id": 102,
+      "style": 47,
+      "name": "Voice #2"
+    },
+    {
+      "$id": 103,
+      "style": 47,
+      "name": "Voice #3"
+    },
+    {
+      "$id": 104,
+      "style": 47,
+      "name": "Select"
+    },
+    {
+      "$id": 105,
+      "style": 47,
+      "name": "Skip"
+    },
+    {
+      "$id": 106,
+      "style": 47,
+      "name": "Resume"
+    },
+    {
+      "$id": 107,
+      "style": 47,
+      "name": "Toggle Info"
+    },
+    {
+      "$id": 108,
+      "style": 47,
+      "name": "Speed"
+    },
+    {
+      "$id": 109,
+      "style": 47,
+      "name": "Use Item"
+    },
+    {
+      "$id": 110,
+      "style": 47,
+      "name": "Main Story"
+    },
+    {
+      "$id": 111,
+      "style": 47,
+      "name": "Options"
+    },
+    {
+      "$id": 112,
+      "style": 47,
+      "name": "In-Game State"
+    },
+    {
+      "$id": 113,
+      "style": 47,
+      "name": "Edit Characters"
+    },
+    {
+      "$id": 114,
+      "style": 47,
+      "name": "Set Up"
+    },
+    {
+      "$id": 115,
+      "style": 47,
+      "name": "Receive All"
+    },
+    {
+      "$id": 116,
+      "style": 47,
+      "name": "List as Favorite"
+    },
+    {
+      "$id": 117,
+      "style": 47,
+      "name": "Delist"
+    },
+    {
+      "$id": 118,
+      "style": 47,
+      "name": "Next Page"
+    },
+    {
+      "$id": 119,
+      "style": 47,
+      "name": "See updates"
+    },
+    {
+      "$id": 120,
+      "style": 22,
+      "name": "Vanguard Switch"
+    },
+    {
+      "$id": 121,
+      "style": 47,
+      "name": "Blade Switch"
+    },
+    {
+      "$id": 122,
+      "style": 47,
+      "name": "Tutorials"
+    },
+    {
+      "$id": 123,
+      "style": 47,
+      "name": "Next"
+    },
+    {
+      "$id": 124,
+      "style": 47,
+      "name": "Previous"
+    },
+    {
+      "$id": 125,
+      "style": 22,
+      "name": "To Character Screen"
+    },
+    {
+      "$id": 126,
+      "style": 22,
+      "name": "Track"
+    },
+    {
+      "$id": 127,
+      "style": 22,
+      "name": "Open List"
+    },
+    {
+      "$id": 128,
+      "style": 22,
+      "name": "Stop Tracking"
+    },
+    {
+      "$id": 129,
+      "style": 22,
+      "name": "See Souvenir Photo"
+    }
+  ]
+}

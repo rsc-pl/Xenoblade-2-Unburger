@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200504_msg001",
+      "style": 84,
+      "name": "Bennett, Gamri and Rhidluk are\nall living here in Fons Maim."
+    },
+    {
+      "$id": 2,
+      "label": "qst200504_msg002",
+      "style": 84,
+      "name": "It shouldn't take you long to find\nthem, I don't think."
+    },
+    {
+      "$id": 3,
+      "label": "qst200504_msg0101",
+      "style": 84,
+      "name": "I hope you'll like the shop!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200504_msg0201",
+      "style": 84,
+      "name": "The shop's in the Commercial District.\nYou should go and have a look for\nyourself."
+    }
+  ]
+}

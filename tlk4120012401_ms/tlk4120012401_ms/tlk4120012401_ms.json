@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200124_01_msg0001",
+      "style": 84,
+      "name": "Heya! Are you dying for cosmetics?\nWell, look no further - my cosmetics\nshop is here to fulfill your needs!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200124_01_msg0004",
+      "style": 84,
+      "name": "Well, if it isn't our very own owner!\nAlways nice to see you!"
+    }
+  ]
+}

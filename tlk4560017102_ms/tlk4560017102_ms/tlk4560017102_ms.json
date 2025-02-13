@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45600171_02_msg0001",
+      "style": 84,
+      "name": "I needed to catch my breath after\nexperiencing such a historical moment.\nA spot of prayer should do the trick."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45600171_02_msg0002",
+      "style": 84,
+      "name": "Really, I suppose I ought to go home\nto Avaritia before I get mixed up in\nany of this, but...I think I'll stick around."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45600171_02_msg0003",
+      "style": 84,
+      "name": "I only planned to come here on a lazy\ntourist spree, but...my merchant blood\nis telling me I have to see this through!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45600171_02_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

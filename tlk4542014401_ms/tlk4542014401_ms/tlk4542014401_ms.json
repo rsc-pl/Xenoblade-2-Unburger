@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420144_01_msg0001",
+      "style": 84,
+      "name": "Vandham always manages to find the\nmost interesting individuals to bring\nback here, doesn't he?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420144_01_msg0002",
+      "style": 84,
+      "name": "I never thought the legendary Holy Grail\nwould be such a cute girl! I mean, not\nthat that's a bad thing or anything."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420144_01_msg0003",
+      "style": 84,
+      "name": "But yeah, we take all sorts here.\nWhen you've seen as many crazy folk\nas we have, Holy Grail is no biggie."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev01000001_msg0001",
+      "style": 1,
+      "name": "じっちゃんFEVテスト"
+    },
+    {
+      "$id": 2,
+      "label": "fev01000001_msg0002",
+      "style": 1,
+      "name": "じっちゃん"
+    },
+    {
+      "$id": 3,
+      "label": "fev01000001_msg0003",
+      "style": 1,
+      "name": "なんじゃ？"
+    },
+    {
+      "$id": 4,
+      "label": "fev01000001_msg0004",
+      "style": 1,
+      "name": "アヴァリティアへはいつ着く？"
+    },
+    {
+      "$id": 5,
+      "label": "fev01000001_msg0005",
+      "style": 1,
+      "name": "そう慌てるな"
+    }
+  ]
+}

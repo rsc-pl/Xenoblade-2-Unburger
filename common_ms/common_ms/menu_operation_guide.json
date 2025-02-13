@@ -1,0 +1,424 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 168,
+      "name": "Select a character to customize."
+    },
+    {
+      "$id": 2,
+      "style": 168,
+      "name": "Select an option to customize."
+    },
+    {
+      "$id": 3,
+      "style": 168,
+      "name": "Select an option to customize."
+    },
+    {
+      "$id": 4,
+      "style": 168,
+      "name": "Select a landmark to travel to."
+    },
+    {
+      "$id": 5,
+      "style": 168,
+      "name": "Select an item to check."
+    },
+    {
+      "$id": 6,
+      "style": 168,
+      "name": "Select a quest to check."
+    },
+    {
+      "$id": 7,
+      "style": 168,
+      "name": "Select which encyclopedia to check."
+    },
+    {
+      "$id": 8,
+      "style": 168,
+      "name": "Select an option."
+    },
+    {
+      "$id": 9,
+      "style": 168,
+      "name": "Choose dispatch region."
+    },
+    {
+      "$id": 10,
+      "style": 168,
+      "name": "Choose a Merc Mission."
+    },
+    {
+      "$id": 11,
+      "style": 168,
+      "name": "Choose Blades to dispatch."
+    },
+    {
+      "$id": 12,
+      "style": 168,
+      "name": "Choose a Blade to appoint as leader."
+    },
+    {
+      "$id": 13,
+      "style": 168,
+      "name": "Select an option."
+    },
+    {
+      "$id": 14,
+      "style": 168,
+      "name": "Select a character to move."
+    },
+    {
+      "$id": 15,
+      "style": 168,
+      "name": "Select an accessory to equip."
+    },
+    {
+      "$id": 16,
+      "style": 168,
+      "name": "Select a weapon class to strengthen Arts for."
+    },
+    {
+      "$id": 17,
+      "style": 168,
+      "name": "Select an Art to strengthen."
+    },
+    {
+      "$id": 18,
+      "style": 168,
+      "name": "Select new position."
+    },
+    {
+      "$id": 19,
+      "style": 168,
+      "name": "Select a skill to acquire."
+    },
+    {
+      "$id": 20,
+      "style": 168,
+      "name": "Go to Blade Affinity Chart."
+    },
+    {
+      "$id": 21,
+      "style": 168,
+      "name": "You can skip this event."
+    },
+    {
+      "$id": 22,
+      "style": 168,
+      "name": "You cannot skip this event."
+    },
+    {
+      "$id": 23,
+      "style": 168,
+      "name": "Select a Core Chip to use."
+    },
+    {
+      "$id": 24,
+      "style": 168,
+      "name": "Select an Aux Core to set."
+    },
+    {
+      "$id": 25,
+      "style": 168,
+      "name": "Select an Affinity Reward to check."
+    },
+    {
+      "$id": 26,
+      "style": 168,
+      "name": "Go to a character's Affinity chart."
+    },
+    {
+      "$id": 27,
+      "style": 168,
+      "name": "Checking owned items and setting up pouch."
+    },
+    {
+      "$id": 28,
+      "style": 168,
+      "name": "Select an item to put in the pouch."
+    },
+    {
+      "$id": 29,
+      "style": 168,
+      "name": "Select a Blade to release."
+    },
+    {
+      "$id": 30,
+      "style": 168,
+      "name": "Check enemy details."
+    },
+    {
+      "$id": 31,
+      "style": 168,
+      "name": "Customize Hana to maximize output."
+    },
+    {
+      "$id": 32,
+      "style": 168,
+      "name": "Use ether crystals to create Hana parts."
+    },
+    {
+      "$id": 33,
+      "style": 168,
+      "name": "Convert Hana parts into ether crystals."
+    },
+    {
+      "$id": 34,
+      "style": 168,
+      "name": "Select a slot to change."
+    },
+    {
+      "$id": 35,
+      "style": 168,
+      "name": "Select a Blade to engage in this slot."
+    },
+    {
+      "$id": 36,
+      "style": 168,
+      "name": "Select a slot to change."
+    },
+    {
+      "$id": 37,
+      "style": 168,
+      "name": "Do you want to buy or sell?"
+    },
+    {
+      "$id": 38,
+      "style": 168,
+      "name": "Select lodging plan."
+    },
+    {
+      "$id": 39,
+      "style": 168,
+      "name": "Select a pouch to use."
+    },
+    {
+      "$id": 40,
+      "style": 168,
+      "name": "Select Blade to check."
+    },
+    {
+      "$id": 41,
+      "style": 168,
+      "name": "Check items' effects and duration."
+    },
+    {
+      "$id": 42,
+      "style": 168,
+      "name": "Save your game progress."
+    },
+    {
+      "$id": 43,
+      "style": 168,
+      "name": "Select a character to bond with."
+    },
+    {
+      "$id": 44,
+      "style": 168,
+      "name": "Select a Core Crystal."
+    },
+    {
+      "$id": 45,
+      "style": 168,
+      "name": "Select a Booster."
+    },
+    {
+      "$id": 46,
+      "style": 168,
+      "name": "Choose a character to level up."
+    },
+    {
+      "$id": 47,
+      "style": 168,
+      "name": "Choose an option to adjust."
+    },
+    {
+      "$id": 48,
+      "style": 168,
+      "name": "Choose an option to adjust."
+    },
+    {
+      "$id": 49,
+      "style": 168,
+      "name": "Choose an option to adjust."
+    },
+    {
+      "$id": 50,
+      "style": 168,
+      "name": "Adjust screen brightness."
+    },
+    {
+      "$id": 51,
+      "style": 168,
+      "name": "Customize characters."
+    },
+    {
+      "$id": 52,
+      "style": 168,
+      "name": "Return to a previously visited landmark."
+    },
+    {
+      "$id": 53,
+      "style": 168,
+      "name": "View quests."
+    },
+    {
+      "$id": 54,
+      "style": 168,
+      "name": "Expand, manage or view your Blade collection."
+    },
+    {
+      "$id": 55,
+      "style": 168,
+      "name": "Dispatch Blades on Merc Missions."
+    },
+    {
+      "$id": 56,
+      "style": 168,
+      "name": "View items you have."
+    },
+    {
+      "$id": 57,
+      "style": 168,
+      "name": "View details about Blades and monsters."
+    },
+    {
+      "$id": 58,
+      "style": 168,
+      "name": "Save the game or change game settings."
+    },
+    {
+      "$id": 59,
+      "style": 168,
+      "name": "Select a position to move to."
+    },
+    {
+      "$id": 60,
+      "style": 168,
+      "name": "Select a time to skip to."
+    },
+    {
+      "$id": 61,
+      "style": 168,
+      "name": "Select the number of Boosters you'd like to use."
+    },
+    {
+      "$id": 62,
+      "style": 168,
+      "name": "Select classification."
+    },
+    {
+      "$id": 63,
+      "style": 168,
+      "name": "Select a monster to view."
+    },
+    {
+      "$id": 64,
+      "style": 168,
+      "name": "Select an item to purchase."
+    },
+    {
+      "$id": 65,
+      "style": 168,
+      "name": "Select an item to sell."
+    },
+    {
+      "$id": 66,
+      "style": 168,
+      "name": "Indicate amount."
+    },
+    {
+      "$id": 67,
+      "style": 168,
+      "name": "Select an Aux Core to refine."
+    },
+    {
+      "$id": 68,
+      "style": 168,
+      "name": "Select items to trade."
+    },
+    {
+      "$id": 69,
+      "style": 168,
+      "name": "Select materials to use."
+    },
+    {
+      "$id": 70,
+      "style": 168,
+      "name": "Select an item."
+    },
+    {
+      "$id": 71,
+      "style": 168,
+      "name": "Select a dish."
+    },
+    {
+      "$id": 72,
+      "style": 168,
+      "name": "Select the item to make."
+    },
+    {
+      "$id": 73,
+      "style": 168,
+      "name": "Receive available content."
+    },
+    {
+      "$id": 74,
+      "style": 168,
+      "name": "Select the content to receive."
+    },
+    {
+      "$id": 75,
+      "style": 168,
+      "name": "Select a character to change level."
+    },
+    {
+      "$id": 76,
+      "style": 168,
+      "name": "Change the setting."
+    },
+    {
+      "$id": 77,
+      "style": 168,
+      "name": "Announcements regarding the Expansion Pass."
+    },
+    {
+      "$id": 78,
+      "style": 168,
+      "name": "Check characters you've interacted with."
+    },
+    {
+      "$id": 79,
+      "style": 168,
+      "name": "About Xenoblade Chronicles 2"
+    },
+    {
+      "$id": 80,
+      "style": 168,
+      "name": "Select a topic you want to learn more about."
+    },
+    {
+      "$id": 81,
+      "style": 168,
+      "name": "Select a team to level up."
+    },
+    {
+      "$id": 82,
+      "style": 168,
+      "name": "Select a team to change level."
+    }
+  ]
+}

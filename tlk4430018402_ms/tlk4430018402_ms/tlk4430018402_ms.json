@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300184_02_msg0001",
+      "style": 84,
+      "name": "I used to run a shop here. Alas,\nthings took a turn for the worse\nand I had to close down."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300184_02_msg0002",
+      "style": 84,
+      "name": "Some Nopon from Avaritia came,\nasked me if I wouldn't come set up\nand sell my wares there."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300184_02_msg0003",
+      "style": 84,
+      "name": "That black market isn't going to last\nforever, so I'm thinking I might take\nthem up on that offer."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300184_02_msg0004",
+      "style": 84,
+      "name": "But now... What kind of shop\nshould I run? Oh, the possibilities!"
+    }
+  ]
+}

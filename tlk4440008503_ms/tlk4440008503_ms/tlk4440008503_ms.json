@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400085_03_msg0001",
+      "style": 84,
+      "name": "I wish someone could reassure me that\nthings are going to turn out fine..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400085_03_msg0002",
+      "style": 84,
+      "name": "But no, I'm sure we'll pull through. His\nMajesty is still going strong, and our\nCrown Prince has shown his mettle!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400085_03_msg0003",
+      "style": 84,
+      "name": "If we continue to be as determined and\npositive as His Highness Zeke, I'm sure\nthings will turn out just dandy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400085_03_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

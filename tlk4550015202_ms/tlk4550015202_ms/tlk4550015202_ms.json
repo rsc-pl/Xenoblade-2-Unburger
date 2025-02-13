@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500152_02_msg0001",
+      "style": 84,
+      "name": "OK, who's been messing around with\nmy stuff while I was asleep?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500152_02_msg0002",
+      "style": 84,
+      "name": "The boxes I stacked up for maximum\nefficiency are a whole ped out of line!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500152_02_msg0003",
+      "style": 84,
+      "name": "The imperial soldiers were causing a\nruckus during the night, weren't they?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500152_02_msg0004",
+      "style": 84,
+      "name": "Defending the peace of the capital is\nall very well, but I wish they'd consider\nour livelihoods as well!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45500152_02_msg0005",
+      "style": 84,
+      "name": "We don't pay all that tax for\nnothing, you know!"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005601_msg001",
+      "style": 84,
+      "name": "I guess just blind guessing isn't\ngoing to get us very far..."
+    },
+    {
+      "$id": 2,
+      "label": "qst005601_msg002",
+      "style": 84,
+      "name": "Maybe if we tried it enough times\nwe'd hit on a solution eventually,\nbut it would take quite a while."
+    },
+    {
+      "$id": 3,
+      "label": "qst005601_msg003",
+      "style": 84,
+      "name": "Yeah, that doesn't sound like much fun."
+    },
+    {
+      "$id": 4,
+      "label": "qst005601_msg004",
+      "style": 84,
+      "name": "If the key to this tablet lies anywhere,\nit will probably be in some kind of\nancient tome."
+    },
+    {
+      "$id": 5,
+      "label": "qst005601_msg005",
+      "style": 84,
+      "name": "That would make sense.\nPerhaps it would be quicker if we\nfound the appropriate texts first."
+    },
+    {
+      "$id": 6,
+      "label": "qst005601_msg006",
+      "style": 84,
+      "name": "Could I ask for a bit of help from\nthe mercenaries, too?"
+    },
+    {
+      "$id": 7,
+      "label": "qst005601_msg007",
+      "style": 84,
+      "name": "Of course! Let's find whatever clues\nwe can to unlock this tablet's mystery!"
+    }
+  ]
+}

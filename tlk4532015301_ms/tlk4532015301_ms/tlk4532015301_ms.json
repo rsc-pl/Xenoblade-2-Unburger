@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320153_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Bathein Watchtower."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320153_01_msg0002",
+      "style": 84,
+      "name": "This right here may be the best vantage\npoint in all Superbia. You can see the\nwhole of the Divine Beast's right shoulder."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320153_01_msg0003",
+      "style": 84,
+      "name": "When monsters approach, we send 'em\nflying with the cannons in Grian, Wing\nArea #2, which you came here through."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320153_01_msg0004",
+      "style": 84,
+      "name": "It's me and my comrade's job to\nkeep watch every day and make sure\nnothing seems amiss."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320153_01_msg0005",
+      "style": 84,
+      "name": "By the way, that comrade I mentioned\nis always slacking off somewhere.\nSo I basically keep watch on my own."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10280130_0010_h",
+      "style": 82,
+      "name": "Homura, where's Metsu?"
+    },
+    {
+      "$id": 2,
+      "label": "bf10280130_0010_s",
+      "style": 82,
+      "name": "Hikari, where's Metsu?"
+    },
+    {
+      "$id": 3,
+      "label": "bf10280130_0020",
+      "style": 82,
+      "name": "If he is here, I know where he must have gone..."
+    },
+    {
+      "$id": 4,
+      "label": "bf10280130_0030",
+      "style": 82,
+      "name": "Where is it? Tell us!"
+    },
+    {
+      "$id": 5,
+      "label": "bf10280130_0040",
+      "style": 82,
+      "name": "The greatest of all Devices."
+    },
+    {
+      "$id": 6,
+      "label": "bf10280130_0050",
+      "style": 82,
+      "name": "The Device that exists solely to destroy the world..."
+    },
+    {
+      "$id": 7,
+      "label": "bf10280130_0060",
+      "style": 82,
+      "name": "Aion..."
+    },
+    {
+      "$id": 8,
+      "label": "bf10280130_0070",
+      "style": 82,
+      "name": "Aion...?\nSo that's what Metsu meant!"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000501_msg0001",
+      "style": 84,
+      "name": "Help! Help! If we don't do something,\nNorman is going to die!"
+    }
+  ]
+}

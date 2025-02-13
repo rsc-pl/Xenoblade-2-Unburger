@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000004_msg0001",
+      "style": 84,
+      "name": "Just letting you know, it's a good way\nto Fons Maim from here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000004_msg0002",
+      "style": 165,
+      "name": "Are you ready to depart?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000004_msg0003",
+      "style": 165,
+      "name": "Yes"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000004_msg0004",
+      "style": 165,
+      "name": "Not yet"
+    },
+    {
+      "$id": 5,
+      "label": "tlk000004_msg0005",
+      "style": 84,
+      "name": "Take your time. Just gimme a shout\nwhenever you're ready."
+    },
+    {
+      "$id": 6,
+      "label": "tlk000004_msg0006",
+      "style": 84,
+      "name": "Plenty of monsters out there on the\nroad. Make sure you've got yourselves\nall kitted up before we head out."
+    },
+    {
+      "$id": 7,
+      "label": "tlk000004_msg0007",
+      "style": 84,
+      "name": "All set? Then let's get our backsides\nover to Fons Maim, pronto!"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202021_msg0001",
+      "style": 84,
+      "name": "He fall asleep...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202021_msg0002",
+      "style": 84,
+      "name": "No. I'm afraid he's already..."
+    },
+    {
+      "$id": 3,
+      "label": "qst202021_msg0003",
+      "style": 84,
+      "name": "No..."
+    },
+    {
+      "$id": 4,
+      "label": "qst202021_msg0004",
+      "style": 84,
+      "name": "Everyone's got to go someday.\nEven Drivers."
+    },
+    {
+      "$id": 5,
+      "label": "qst202021_msg0005",
+      "style": 84,
+      "name": "It's a terrible thing, but that's just\nthe way of the world..."
+    },
+    {
+      "$id": 6,
+      "label": "qst202021_msg0006",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 7,
+      "label": "qst202021_msg0007",
+      "style": 84,
+      "name": "Ah...wait, where's Musubi?"
+    },
+    {
+      "$id": 8,
+      "label": "qst202021_msg0008",
+      "style": 84,
+      "name": "Driver and Blades are inextricably\nlinked. I expect she will have returned\nto her Core Crystal..."
+    },
+    {
+      "$id": 9,
+      "label": "qst202021_msg0009",
+      "style": 84,
+      "name": "I'm gonna go and check on her!"
+    },
+    {
+      "$id": 10,
+      "label": "qst202021_msg0010",
+      "style": 84,
+      "name": "I'll come with you!"
+    }
+  ]
+}

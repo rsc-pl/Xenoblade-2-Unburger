@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn048_msg001",
+      "style": 84,
+      "name": "Yo. An old geez at the inn let\nme in on something pretty cool."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn048_msg002",
+      "style": 84,
+      "name": "How's about you accompany me\nover to the Ayvill Shopping district?\nYou down for that?"
+    }
+  ]
+}

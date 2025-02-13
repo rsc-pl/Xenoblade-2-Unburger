@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006401_03_msg0001",
+      "style": 84,
+      "name": "Hey. Rhys and his gang are starting to\nreally get the hang of working here.\nThey're getting on with the locals too."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006401_03_msg0002",
+      "style": 84,
+      "name": "Having hard workers like them on\nboard saves us a lot of work too, so\nit goes both ways."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006401_03_msg0003",
+      "style": 84,
+      "name": "Although Pittman hasn't quite found\nin his heart to forgive them yet, seeing\nit was his ship that got stolen..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006401_03_msg0004",
+      "style": 84,
+      "name": "Well, give it time. I'm sure he'll come\nround eventually."
+    }
+  ]
+}

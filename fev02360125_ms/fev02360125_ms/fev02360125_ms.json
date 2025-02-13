@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev02_360_125_msg0001",
+      "style": 84,
+      "name": "Looks like this is the way to the hangar."
+    },
+    {
+      "$id": 2,
+      "label": "fev02_360_125_msg0002",
+      "style": 84,
+      "name": "Sounds like a way out of here!"
+    },
+    {
+      "$id": 3,
+      "label": "fev02_360_125_msg0003",
+      "style": 84,
+      "name": "Meh-meh-meh...\nDoor is locked, no way to open!"
+    },
+    {
+      "$id": 4,
+      "label": "fev02_360_125_msg0004",
+      "style": 84,
+      "name": "Even Hana probably not able to\nbreak through this..."
+    },
+    {
+      "$id": 5,
+      "label": "fev02_360_125_msg0005",
+      "style": 84,
+      "name": "But we're so close!"
+    },
+    {
+      "$id": 6,
+      "label": "fev02_360_125_msg0006",
+      "style": 84,
+      "name": "Rex. Take a look over there."
+    },
+    {
+      "$id": 7,
+      "label": "fev02_360_125_msg0007",
+      "style": 84,
+      "name": "Good eyes. Could that be the\nswitch to open it?"
+    },
+    {
+      "$id": 8,
+      "label": "fev02_360_125_msg0008",
+      "style": 84,
+      "name": "We don't have many options\nbut to try."
+    },
+    {
+      "$id": 9,
+      "label": "fev02_360_125_msg0009",
+      "style": 84,
+      "name": "If it does open the door, we will surely\nbe able to escape through the hangar."
+    },
+    {
+      "$id": 10,
+      "label": "fev02_360_125_msg0010",
+      "style": 84,
+      "name": "Then what are we waiting for?!"
+    },
+    {
+      "$id": 11,
+      "label": "fev02_360_125_msg0011",
+      "style": 84,
+      "name": "Looks like we have to leave this room\nfor now and find a way up there."
+    }
+  ]
+}

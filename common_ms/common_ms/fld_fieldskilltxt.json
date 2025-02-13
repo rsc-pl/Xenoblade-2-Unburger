@@ -1,0 +1,704 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 70,
+      "name": "Forestry"
+    },
+    {
+      "$id": 2,
+      "style": 70,
+      "name": "Botany"
+    },
+    {
+      "$id": 3,
+      "style": 70,
+      "name": "Agronomy"
+    },
+    {
+      "$id": 4,
+      "style": 70,
+      "name": "Entomology"
+    },
+    {
+      "$id": 5,
+      "style": 70,
+      "name": "Ichthyology"
+    },
+    {
+      "$id": 6,
+      "style": 70,
+      "name": "Mineralogy"
+    },
+    {
+      "$id": 7,
+      "style": 70,
+      "name": "Salvaging Mastery"
+    },
+    {
+      "$id": 8,
+      "style": 70,
+      "name": "Fire Mastery"
+    },
+    {
+      "$id": 9,
+      "style": 70,
+      "name": "Water Mastery"
+    },
+    {
+      "$id": 10,
+      "style": 70,
+      "name": "Earth Mastery"
+    },
+    {
+      "$id": 11,
+      "style": 70,
+      "name": "Wind Mastery"
+    },
+    {
+      "$id": 12,
+      "style": 70,
+      "name": "Electric Mastery"
+    },
+    {
+      "$id": 13,
+      "style": 70,
+      "name": "Ice Mastery"
+    },
+    {
+      "$id": 14,
+      "style": 70,
+      "name": "Dark Mastery"
+    },
+    {
+      "$id": 15,
+      "style": 70,
+      "name": "Light Mastery"
+    },
+    {
+      "$id": 16,
+      "style": 70,
+      "name": "Lockpicking"
+    },
+    {
+      "$id": 17,
+      "style": 70,
+      "name": "Keen Eye"
+    },
+    {
+      "$id": 18,
+      "style": 70,
+      "name": "Leaping"
+    },
+    {
+      "$id": 19,
+      "style": 70,
+      "name": "Superstrength"
+    },
+    {
+      "$id": 20,
+      "style": 70,
+      "name": "Focus"
+    },
+    {
+      "$id": 21,
+      "style": 70,
+      "name": "Ancient Wisdom"
+    },
+    {
+      "$id": 22,
+      "style": 70,
+      "name": "Nopon Wisdom"
+    },
+    {
+      "$id": 23,
+      "style": 70,
+      "name": "Fortitude"
+    },
+    {
+      "$id": 24,
+      "style": 70,
+      "name": "Cooking"
+    },
+    {
+      "$id": 25,
+      "style": 70,
+      "name": "Miasma Dispersal"
+    },
+    {
+      "$id": 26,
+      "style": 70,
+      "name": "Passionate Soul"
+    },
+    {
+      "$id": 27,
+      "style": 70,
+      "name": "Justice-Loving Soul"
+    },
+    {
+      "$id": 28,
+      "style": 70,
+      "name": "Kind Soul"
+    },
+    {
+      "$id": 29,
+      "style": 70,
+      "name": "Assassination"
+    },
+    {
+      "$id": 30,
+      "style": 70,
+      "name": "Patissier"
+    },
+    {
+      "$id": 31,
+      "style": 70,
+      "name": "Cavalier Attitude"
+    },
+    {
+      "$id": 32,
+      "style": 70,
+      "name": "Fleet of Foot"
+    },
+    {
+      "$id": 33,
+      "style": 70,
+      "name": "Beguiling Charms"
+    },
+    {
+      "$id": 34,
+      "style": 70,
+      "name": "One Lucky Gal"
+    },
+    {
+      "$id": 35,
+      "style": 70,
+      "name": "Chivalry"
+    },
+    {
+      "$id": 36,
+      "style": 70,
+      "name": "Girls' Talk"
+    },
+    {
+      "$id": 37,
+      "style": 70,
+      "name": "Clairvoyant Eye"
+    },
+    {
+      "$id": 38,
+      "style": 70,
+      "name": "Harmony"
+    },
+    {
+      "$id": 39,
+      "style": 70,
+      "name": "Divine Beast Weapon Wisdom"
+    },
+    {
+      "$id": 40,
+      "style": 70,
+      "name": "Phonex Linguistics"
+    },
+    {
+      "$id": 41,
+      "style": 70,
+      "name": "Dumpling Pro"
+    },
+    {
+      "$id": 42,
+      "style": 70,
+      "name": "Extra-Ancient Wisdom"
+    },
+    {
+      "$id": 43,
+      "style": 70,
+      "name": "Mastery of Thunder"
+    },
+    {
+      "$id": 44,
+      "style": 70,
+      "name": "Birdbrain"
+    },
+    {
+      "$id": 45,
+      "style": 70,
+      "name": "Mental Arithmetic"
+    },
+    {
+      "$id": 46,
+      "style": 70,
+      "name": "Rampage"
+    },
+    {
+      "$id": 47,
+      "style": 70,
+      "name": "Weaving"
+    },
+    {
+      "$id": 48,
+      "style": 70,
+      "name": "Prospecting"
+    },
+    {
+      "$id": 49,
+      "style": 70,
+      "name": "Icecraft"
+    },
+    {
+      "$id": 50,
+      "style": 70,
+      "name": "Info Collector"
+    },
+    {
+      "$id": 51,
+      "style": 70,
+      "name": "Expeditionist"
+    },
+    {
+      "$id": 52,
+      "style": 70,
+      "name": "Transport Mastery"
+    },
+    {
+      "$id": 53,
+      "style": 70,
+      "name": "Industry Mastery"
+    },
+    {
+      "$id": 54,
+      "style": 70,
+      "name": "Production Mastery"
+    },
+    {
+      "$id": 55,
+      "style": 70,
+      "name": "Girl lover"
+    },
+    {
+      "$id": 56,
+      "style": 70,
+      "name": "Swift Swordplay"
+    },
+    {
+      "$id": 57,
+      "style": 70,
+      "name": "Manipulate Ether"
+    },
+    {
+      "$id": 58,
+      "style": 70,
+      "name": "Power of Light"
+    },
+    {
+      "$id": 59,
+      "style": 70,
+      "name": "Superstrength"
+    },
+    {
+      "$id": 60,
+      "style": 70,
+      "name": "Command Water"
+    },
+    {
+      "$id": 61,
+      "style": 70,
+      "name": "Mining"
+    },
+    {
+      "$id": 62,
+      "style": 70,
+      "name": "Lockpicking"
+    },
+    {
+      "$id": 63,
+      "style": 70,
+      "name": "Keen Eye"
+    },
+    {
+      "$id": 64,
+      "style": 70,
+      "name": "Fortitude"
+    },
+    {
+      "$id": 65,
+      "style": 70,
+      "name": "Focus"
+    },
+    {
+      "$id": 66,
+      "style": 61,
+      "name": "Knowledge related to trees."
+    },
+    {
+      "$id": 67,
+      "style": 61,
+      "name": "Knowledge related to plants."
+    },
+    {
+      "$id": 68,
+      "style": 61,
+      "name": "Knowledge related to vegetables."
+    },
+    {
+      "$id": 69,
+      "style": 61,
+      "name": "Knowledge related to insects."
+    },
+    {
+      "$id": 70,
+      "style": 61,
+      "name": "Knowledge related to fish."
+    },
+    {
+      "$id": 71,
+      "style": 61,
+      "name": "Knowledge related to minerals."
+    },
+    {
+      "$id": 72,
+      "style": 61,
+      "name": "Knowledge related to salvaging."
+    },
+    {
+      "$id": 73,
+      "style": 61,
+      "name": "The power of a Fire Blade."
+    },
+    {
+      "$id": 74,
+      "style": 61,
+      "name": "The power of a Water Blade."
+    },
+    {
+      "$id": 75,
+      "style": 61,
+      "name": "The power of an Earth Blade."
+    },
+    {
+      "$id": 76,
+      "style": 61,
+      "name": "The power of a Wind Blade."
+    },
+    {
+      "$id": 77,
+      "style": 61,
+      "name": "The power of an Electric Blade."
+    },
+    {
+      "$id": 78,
+      "style": 61,
+      "name": "The power of an Ice Blade."
+    },
+    {
+      "$id": 79,
+      "style": 61,
+      "name": "The power of a Dark Blade."
+    },
+    {
+      "$id": 80,
+      "style": 61,
+      "name": "The power of a Light Blade."
+    },
+    {
+      "$id": 81,
+      "style": 61,
+      "name": "The power to open various things.\nWorks on doors, treasure troves, etc."
+    },
+    {
+      "$id": 82,
+      "style": 61,
+      "name": "The power to see things clearly.\nUsed to notice small changes, etc."
+    },
+    {
+      "$id": 83,
+      "style": 61,
+      "name": "The power to jump.\nUsed to reach high places."
+    },
+    {
+      "$id": 84,
+      "style": 61,
+      "name": "Extraordinary physical strength.\nUsed to break things, lift them up, etc."
+    },
+    {
+      "$id": 85,
+      "style": 61,
+      "name": "The power to focus on one thing.\nAlso used to control one's power."
+    },
+    {
+      "$id": 86,
+      "style": 61,
+      "name": "Knowledge of ancient civilizations.\nUsed to decode writing, etc."
+    },
+    {
+      "$id": 87,
+      "style": 61,
+      "name": "Knowledge related to Nopon.\nDecode writing, speak Nopon, etc."
+    },
+    {
+      "$id": 88,
+      "style": 61,
+      "name": "The power to endure hardships.\nIt even helps cope with boring jobs."
+    },
+    {
+      "$id": 89,
+      "style": 61,
+      "name": "The power to prepare delicious food.\nSkill exclusive to Homura."
+    },
+    {
+      "$id": 90,
+      "style": 61,
+      "name": "Disperse poison gas emitted by Divine Beasts.\nSkill exclusive to Suzaku."
+    },
+    {
+      "$id": 91,
+      "style": 61,
+      "name": "A burning heart that crushes the strong.\nSkill exclusive to Glen."
+    },
+    {
+      "$id": 92,
+      "style": 61,
+      "name": "A just heart that tolerates no evil.\nSkill exclusive to Glen."
+    },
+    {
+      "$id": 93,
+      "style": 61,
+      "name": "A kind heart that helps the weak.\nSkill exclusive to Glen."
+    },
+    {
+      "$id": 94,
+      "style": 61,
+      "name": "Judge and punish those who do evil.\nSkill exclusive to Vasara."
+    },
+    {
+      "$id": 95,
+      "style": 61,
+      "name": "Enjoy making tasty sweet things.\nSkill exclusive to Yuou."
+    },
+    {
+      "$id": 96,
+      "style": 61,
+      "name": "The belief that kings should delegate\nwork to subjects. Exclusive to Kubira?"
+    },
+    {
+      "$id": 97,
+      "style": 61,
+      "name": "Move faster than the eye can see.\nSkill exclusive to Idaten."
+    },
+    {
+      "$id": 98,
+      "style": 61,
+      "name": "Captivate all with your charming\nappearance. Exclusive to Hotaru."
+    },
+    {
+      "$id": 99,
+      "style": 61,
+      "name": "Chase luck, but find only misfortune.\nCurse exclusive to Kasane."
+    },
+    {
+      "$id": 100,
+      "style": 61,
+      "name": "A knight's sense for meting out justice.\nSkill exclusive to Tokiha."
+    },
+    {
+      "$id": 101,
+      "style": 61,
+      "name": "Talk openly, girl-to-girl."
+    },
+    {
+      "$id": 102,
+      "style": 61,
+      "name": "Her left eye lets her see through all\nobstructions. Exclusive to Azami."
+    },
+    {
+      "$id": 103,
+      "style": 61,
+      "name": "Have fun playing beautiful music.\nSkill exclusive to Nanakoori."
+    },
+    {
+      "$id": 104,
+      "style": 61,
+      "name": "Deep knowledge of Divine Beast weapons.\nSkill exclusive to Newt."
+    },
+    {
+      "$id": 105,
+      "style": 61,
+      "name": "The power to speak with Phonexes.\nSkill exclusive to Uka."
+    },
+    {
+      "$id": 106,
+      "style": 61,
+      "name": "Prepare tasty triangular dumplings.\nSkill exclusive to Musubi."
+    },
+    {
+      "$id": 107,
+      "style": 61,
+      "name": "Knowledge about super-old culture lost\nto the Cloud Sea. Exclusive to Shiki."
+    },
+    {
+      "$id": 108,
+      "style": 61,
+      "name": "The power to control electricity.\nRaiko's not exactly good at this..."
+    },
+    {
+      "$id": 109,
+      "style": 61,
+      "name": "The power to instantly forget anything.\nSkill exclusive to Ibuki."
+    },
+    {
+      "$id": 110,
+      "style": 61,
+      "name": "Perform complex calculations at speed.\nSkill exclusive to KOS-MOS RE: Re:."
+    },
+    {
+      "$id": 111,
+      "style": 61,
+      "name": "A power so great, it had to be sealed.\nReleasing it causes Ten'i to rampage."
+    },
+    {
+      "$id": 112,
+      "style": 61,
+      "name": "Use looms to weave gorgeous fabrics.\nSkill exclusive to Mei."
+    },
+    {
+      "$id": 113,
+      "style": 61,
+      "name": "Discover never-before-seen precious\nstones. Skill exclusive to Meno."
+    },
+    {
+      "$id": 114,
+      "style": 61,
+      "name": "Create intricately beautiful art from ice.\nSkill exclusive to Tsuki."
+    },
+    {
+      "$id": 115,
+      "style": 61,
+      "name": "Skillful at retrieving information.\nExclusively for Merc Missions."
+    },
+    {
+      "$id": 116,
+      "style": 61,
+      "name": "Can use full strength even away from\nDriver. Exclusively for Merc Missions."
+    },
+    {
+      "$id": 117,
+      "style": 61,
+      "name": "Skillful at moving lots of goods quickly.\nExclusively for Merc Missions."
+    },
+    {
+      "$id": 118,
+      "style": 61,
+      "name": "Skillful at machine repairs and upkeep.\nExclusively for Merc Missions."
+    },
+    {
+      "$id": 119,
+      "style": 61,
+      "name": "Skillful at deftly making things.\nExclusively for Merc Missions."
+    },
+    {
+      "$id": 120,
+      "style": 61,
+      "name": "New cute girls join the harem.\nSkill exclusive to Linne."
+    },
+    {
+      "$id": 121,
+      "style": 61,
+      "name": "The ability to strike too fast for anyone\n(except Shin) to see or follow."
+    },
+    {
+      "$id": 122,
+      "style": 61,
+      "name": "The power to control the nearby ether.\nAlso lets one restrict Blades' powers."
+    },
+    {
+      "$id": 123,
+      "style": 61,
+      "name": "The power to illuminate with dazzling\nlight. Also affects ether miasma."
+    },
+    {
+      "$id": 124,
+      "style": 61,
+      "name": "Extraordinary physical strength.\nUsed to break things, lift them up, etc."
+    },
+    {
+      "$id": 125,
+      "style": 61,
+      "name": "The power to control water. Has to be\nused in specific places to work."
+    },
+    {
+      "$id": 126,
+      "style": 61,
+      "name": "The power to reveal objects buried in\nthe earth. Or in sandy dunes. Or stone."
+    },
+    {
+      "$id": 127,
+      "style": 61,
+      "name": "The power to open various things.\nMostly useful for treasure troves."
+    },
+    {
+      "$id": 128,
+      "style": 61,
+      "name": "The power to see things clearly.\nUsed to notice small changes, etc."
+    },
+    {
+      "$id": 129,
+      "style": 61,
+      "name": "The power to endure hardships. Lets\nyou excel at mind-numbing tasks, too."
+    },
+    {
+      "$id": 130,
+      "style": 61,
+      "name": "The power to focus on a single thing.\nAlso used to control one's power."
+    },
+    {
+      "$id": 131,
+      "style": 61,
+      "name": "Knowledge related to trees.\nMainly helps gather items from trees."
+    },
+    {
+      "$id": 132,
+      "style": 61,
+      "name": "Knowledge related to plants and\nveggies. Mainly helps gather on plains."
+    },
+    {
+      "$id": 133,
+      "style": 61,
+      "name": "Knowledge related to insects.\nMainly helps gather items in the desert."
+    },
+    {
+      "$id": 134,
+      "style": 61,
+      "name": "Knowledge related to fish\nMainly helps gather items by the water."
+    },
+    {
+      "$id": 135,
+      "style": 61,
+      "name": "Knowledge related to minerals. Mainly\nhelps collect items in rocky areas."
+    },
+    {
+      "$id": 136,
+      "style": 61,
+      "name": "A power Hikari discovered through\nhuman interaction. It's not that useful."
+    },
+    {
+      "$id": 137,
+      "style": 61,
+      "name": "Ardent Cooking"
+    },
+    {
+      "$id": 138,
+      "style": 61,
+      "name": "The power to prepare food like Homura's.\nSkill exclusive to Hibana."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200143_03_msg0001",
+      "style": 84,
+      "name": "Jelved? Oh, he's trying so hard!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200143_03_msg0002",
+      "style": 84,
+      "name": "With his sword lessons, and his other\nlessons... He's got no time to play\nanymore, that's how intense it is!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200143_03_msg0003",
+      "style": 84,
+      "name": "I'm afraid he'll get sick\nif he doesn't take it easy..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200143_03_msg0004",
+      "style": 84,
+      "name": "Maybe I'll ask him to come have\na picnic at Greatmaw Rapids?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200143_03_msg0005",
+      "style": 84,
+      "name": "If we get attacked by monsters or\nsomething, it'll be Jelved's chance\nto shine!"
+    }
+  ]
+}

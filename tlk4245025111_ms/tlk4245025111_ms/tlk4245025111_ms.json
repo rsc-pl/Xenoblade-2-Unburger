@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450251_11_msg00001",
+      "style": 84,
+      "name": "Waaaah! Rex! It good to see you!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450251_11_msg00002",
+      "style": 84,
+      "name": "Periperi just whiling away time,\nwatching ships go by till cargo\nall loaded on board."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450251_11_msg00003",
+      "style": 84,
+      "name": "What Rex say to meal together?\nNice tasty Samod or somesuch?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42450251_11_msg00004",
+      "style": 84,
+      "name": "Sorry... I'm kind of busy at the moment."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42450251_11_msg00005",
+      "style": 84,
+      "name": "Mehhh... That too bad..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk42450251_11_msg00006",
+      "style": 84,
+      "name": "Periperi thought, would be nice to\nmake happy memories before set\nout on long, long voyage..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk42450251_11_msg00007",
+      "style": 84,
+      "name": "Ah, never mind Periperi. Is just being\nmelodramatic. Rex keep up doing\ngood work with salvaging!"
+    }
+  ]
+}

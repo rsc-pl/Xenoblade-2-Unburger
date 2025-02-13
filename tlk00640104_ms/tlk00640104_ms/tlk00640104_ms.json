@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006401_04_msg0001",
+      "style": 84,
+      "name": "Turns out Rhys and his pals are good,\nhard workers."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006401_04_msg0002",
+      "style": 84,
+      "name": "Pittman's been going through the\nsalvaging basics with them lately."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006401_04_msg0003",
+      "style": 84,
+      "name": "They've got the guts and they've got\nthe spirit. They might even turn out to\nbe like you someday, Rex."
+    }
+  ]
+}

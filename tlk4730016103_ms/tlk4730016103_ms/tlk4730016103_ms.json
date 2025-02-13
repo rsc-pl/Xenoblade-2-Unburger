@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300161_03_msg0001",
+      "style": 84,
+      "name": "The Acedian Holy See's gone?\nHeaven's sakes, that's awful."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300161_03_msg0002",
+      "style": 84,
+      "name": "Mark was supposed to be going to\nschool there, you know."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300161_03_msg0003",
+      "style": 84,
+      "name": "It'll be Iira's doing. They're the\nones ruining everything."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_01_msg0004",
+      "style": 84,
+      "name": "Acedia brought it upon themselves? Heh,\nthat's what the gossipers around here\nare saying too... Sounds complicated."
+    }
+  ]
+}

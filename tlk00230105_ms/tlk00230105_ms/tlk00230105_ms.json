@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00230105_msg0001",
+      "style": 84,
+      "name": "Heya, folks! Glad you dropped by!\n*cough cough*"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00230105_msg0002",
+      "style": 84,
+      "name": "Whew... It's harder getting up these\ndays, lemme tell ya."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00230105_msg0003",
+      "style": 84,
+      "name": "I'm starting to wonder whether I'll\nreally be able to finish writing before\nmy time's up..."
+    }
+  ]
+}

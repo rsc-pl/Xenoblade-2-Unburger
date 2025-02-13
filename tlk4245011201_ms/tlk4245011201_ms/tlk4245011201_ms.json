@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450112_01_msg0001",
+      "style": 84,
+      "name": "Fun to play, fun to look!\nCome see all our musical instrument!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450112_01_msg0005",
+      "style": 84,
+      "name": "I don't think I should be wasting time\nright now..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450112_01_msg0006",
+      "style": 84,
+      "name": "Since you owner, here is little secret...\nNalinali can not actually play any\ninstrument. But still sell plenty!"
+    }
+  ]
+}

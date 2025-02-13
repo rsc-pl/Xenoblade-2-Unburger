@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500184_02_msg0001",
+      "style": 84,
+      "name": "Welcome, travelers from afar! I do\nhope your arrival here encourages\nmore outlanders to visit us."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500184_02_msg0002",
+      "style": 84,
+      "name": "Well, I'd certainly be happy about it,\nbut I'm not sure how well the others\nwould take it..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500184_02_msg0003",
+      "style": 84,
+      "name": "Some of us here think that having\nrelations with the outside world makes\nus more susceptible to being invaded."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500184_02_msg0004",
+      "style": 84,
+      "name": "I just hope our country's heading in\nthe right direction..."
+    }
+  ]
+}

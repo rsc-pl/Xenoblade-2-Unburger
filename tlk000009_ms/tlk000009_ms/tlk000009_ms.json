@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000009_msg0001",
+      "style": 84,
+      "name": "Jakolo's Inn, how may I help you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000009_msg0002",
+      "style": 84,
+      "name": "Do you happen to be the Tora party?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000009_msg0003",
+      "style": 84,
+      "name": "Ah, grand.\nMuimui mentioned you'd be coming."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000009_msg0004",
+      "style": 84,
+      "name": "It so happens we're offering a special\nrate today."
+    },
+    {
+      "$id": 5,
+      "label": "tlk000009_msg0005",
+      "style": 165,
+      "name": "Stay at the inn for 100G?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk000009_msg0006",
+      "style": 84,
+      "name": "We're also proud to offer one of the\nfinest open-air baths. Feel free to use\nthem at your leisure."
+    },
+    {
+      "$id": 7,
+      "label": "tlk000009_msg0007",
+      "style": 84,
+      "name": "You'll be wanting to take in the sights\nof Alba Margen, I imagine."
+    },
+    {
+      "$id": 8,
+      "label": "tlk000009_msg0008",
+      "style": 84,
+      "name": "Just pop back whenever you need\na good night's rest."
+    },
+    {
+      "$id": 9,
+      "label": "tlk000009_msg0009",
+      "style": 84,
+      "name": "Stay"
+    },
+    {
+      "$id": 10,
+      "label": "tlk000009_msg0010",
+      "style": 84,
+      "name": "Don't stay"
+    }
+  ]
+}

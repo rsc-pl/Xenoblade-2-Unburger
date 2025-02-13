@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650520_msg0001",
+      "style": 84,
+      "name": "We need to head back to Alst\nfor a while."
+    },
+    {
+      "$id": 2,
+      "label": "qst650520_msg0002",
+      "style": 84,
+      "name": "Understood."
+    },
+    {
+      "$id": 3,
+      "label": "qst650520_msg0003",
+      "style": 84,
+      "name": "I'll wait for you here, then."
+    },
+    {
+      "$id": 4,
+      "label": "qst650520_msg0004",
+      "style": 84,
+      "name": "We'll be back, promise.\nHope to see you soon!"
+    },
+    {
+      "$id": 5,
+      "label": "qst650520_msg0005",
+      "style": 84,
+      "name": "Sure thing. Good luck out there."
+    }
+  ]
+}

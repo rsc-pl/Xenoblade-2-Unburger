@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300021_06_msg0001",
+      "style": 84,
+      "name": "You know that pair of Blades who were\nworking as dirty Core Crystal hunters?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300021_06_msg0002",
+      "style": 84,
+      "name": "I heard they've been taken in by\nnew Drivers and are using their\npowers for good now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300021_06_msg0003",
+      "style": 84,
+      "name": "If they're not evil any more,\nI'd kind of like to meet them."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300021_06_msg0004",
+      "style": 84,
+      "name": "Just to see what kind of Blades\nwere causing my bro and the Military\nEngineer Corps so much grief!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300021_06_msg0005",
+      "style": 84,
+      "name": "What?! These two?!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300021_06_msg0006",
+      "style": 84,
+      "name": "I'm...sorry for running my mouth\noff like that."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45300021_06_msg0007",
+      "style": 84,
+      "name": "You do seem like good people now.\nI can feel an air of honesty around you."
+    },
+    {
+      "$id": 8,
+      "label": "tlk45300021_06_msg0008",
+      "style": 84,
+      "name": "I guess it's true that Blades are\nstrongly affected by their Drivers."
+    },
+    {
+      "$id": 9,
+      "label": "tlk45300021_06_msg0009",
+      "style": 84,
+      "name": "You two should count yourselves\nlucky to have found such good Drivers\nthis time around!"
+    }
+  ]
+}

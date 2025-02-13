@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf05050100_0010",
+      "style": 82,
+      "name": "Is it working?"
+    },
+    {
+      "$id": 2,
+      "label": "bf05050100_0020",
+      "style": 82,
+      "name": "Yes. I can hear the Blades' voices now."
+    },
+    {
+      "$id": 3,
+      "label": "bf05050100_0030",
+      "style": 82,
+      "name": "Come with me.\nYoshitsune has found something very interesting."
+    },
+    {
+      "$id": 4,
+      "label": "bf05050100_0040",
+      "style": 82,
+      "name": "Very well."
+    }
+  ]
+}

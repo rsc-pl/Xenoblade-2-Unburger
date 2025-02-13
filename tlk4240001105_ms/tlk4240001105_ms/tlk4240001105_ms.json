@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400011_05_msg0001",
+      "style": 84,
+      "name": "Erm... Not sure if friends know, but..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400011_05_msg0002",
+      "style": 84,
+      "name": "Customer from mercenaries come in\nand make reservation."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400011_05_msg0003",
+      "style": 84,
+      "name": "They reserve almost every seat in\nRumbletum Canteen!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400011_05_msg0004",
+      "style": 84,
+      "name": "Etoto think it too much to handle by\nourselves, so we looking to hire temp\nstaff for the occasion."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42400011_05_msg0005",
+      "style": 84,
+      "name": "Big problem is, it not looking likely\nthat we find anyone... Erm..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk42400011_05_msg0007",
+      "style": 84,
+      "name": "Oh, that save Etoto's fur big time!\nVery thankful to friends for help!"
+    }
+  ]
+}

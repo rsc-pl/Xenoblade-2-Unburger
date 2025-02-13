@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001020_msg0001",
+      "style": 84,
+      "name": "So you've finally arrived, have you?\nWell? Are you here to keep watch,\nor aren't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001020_msg0002",
+      "style": 165,
+      "name": "Shall I start on guard duty?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001020_msg0003",
+      "style": 165,
+      "name": "Start the shift"
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001020_msg0004",
+      "style": 165,
+      "name": "Not just yet"
+    },
+    {
+      "$id": 5,
+      "label": "tlk0001020_msg0005",
+      "style": 84,
+      "name": "Ahhh, at last, I can get a breather.\nThink I've earned myself a drink or two."
+    },
+    {
+      "$id": 6,
+      "label": "tlk0001020_msg0006",
+      "style": 84,
+      "name": "It's not looking too good out there.\nI'd steel yourself for the worst."
+    },
+    {
+      "$id": 7,
+      "label": "tlk0001020_msg0007",
+      "style": 84,
+      "name": "If something's up, give me a shout.\nDon't worry, I won't be drinking myself\ninto a stupor or anything."
+    },
+    {
+      "$id": 8,
+      "label": "tlk0001020_msg0008",
+      "style": 84,
+      "name": "All right, but be quick about it."
+    },
+    {
+      "$id": 9,
+      "label": "tlk0001020_msg0009",
+      "style": 84,
+      "name": "Happy hour only lasts so long."
+    },
+    {
+      "$id": 10,
+      "label": "tlk0001020_msg0101",
+      "style": 84,
+      "name": "Rex! Glad to see you came!\nYou're actually a little early."
+    },
+    {
+      "$id": 11,
+      "label": "tlk0001020_msg0102",
+      "style": 84,
+      "name": "This is your first time on the Maelstrom,\nright? Why not have a nosy around?"
+    },
+    {
+      "$id": 12,
+      "label": "tlk0001020_msg0103",
+      "style": 84,
+      "name": "Oh, and have you talked much to your\nclients yet? I'd suggest you get to know\nthem before you start the real work."
+    }
+  ]
+}

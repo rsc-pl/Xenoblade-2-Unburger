@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201811_msg0001",
+      "style": 84,
+      "name": "Excuse me?\nYou want to know my favorite food?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201811_msg0002",
+      "style": 84,
+      "name": "Hm. Well, the tastiest thing around here\nis the Trippy Catfish."
+    },
+    {
+      "$id": 3,
+      "label": "qst201811_msg0003",
+      "style": 84,
+      "name": "I could watch it swimming for hours,\nand then it tastes sooo good, too!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201811_msg0004",
+      "style": 84,
+      "name": "It's all the rage with Temperantia's\nPhonex community."
+    },
+    {
+      "$id": 5,
+      "label": "qst201811_msg0005",
+      "style": 84,
+      "name": "A Phonex called Pex?\nNo, I'm sorry, I haven't a clue."
+    },
+    {
+      "$id": 6,
+      "label": "qst201811_msg0006",
+      "style": 84,
+      "name": "Our village is in Aegishammer though,\nmaybe someone there will know."
+    }
+  ]
+}

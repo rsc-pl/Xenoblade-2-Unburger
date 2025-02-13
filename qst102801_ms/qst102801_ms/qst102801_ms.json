@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102801_msg001",
+      "style": 62,
+      "name": "ボイラーの調子が悪いので\nBさんへ修理を要請してください\nこれが修理内容のメモです"
+    },
+    {
+      "$id": 2,
+      "label": "qst102801_msg002",
+      "style": 62,
+      "name": "Bさんは工場の前にいますよ"
+    }
+  ]
+}

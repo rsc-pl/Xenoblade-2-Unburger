@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310158_03_msg0001",
+      "style": 84,
+      "name": "Hey, have you heard of the Hræsvelgr\nMercenaries from Invidia?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310158_03_msg0002",
+      "style": 84,
+      "name": "They're a tough bunch, I can\ntell you that for free."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310158_03_msg0003",
+      "style": 84,
+      "name": "Lately they keep taking on all the\njobs round here. Solving everyone's\nproblems in the blink of an eye."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310158_03_msg0004",
+      "style": 84,
+      "name": "Us locals have gotta step up our game\nif we want to stay competitive!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310158_03_msg0005",
+      "style": 84,
+      "name": "All the mercenaries in Superbia\nright now are burning to show those\ninterlopers what's what."
+    }
+  ]
+}

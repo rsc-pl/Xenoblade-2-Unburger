@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500184_03_msg0001",
+      "style": 84,
+      "name": "I never would have imagined things\nwould come to this..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500184_03_msg0002",
+      "style": 84,
+      "name": "But still, I believe in you.\nI'm with you all the way."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500184_03_msg0003",
+      "style": 84,
+      "name": "Ever since you passed through these\ngates, I get the sense that the country's\nfinally got up off its backside."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500184_03_msg0004",
+      "style": 84,
+      "name": "Ah, I don't mean in a bad way. What's\ngood for Alst's good for Luxuria. You\njust keep fighting for the greater good!"
+    }
+  ]
+}

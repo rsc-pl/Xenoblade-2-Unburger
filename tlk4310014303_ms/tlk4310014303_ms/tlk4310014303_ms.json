@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100143_03_msg0001",
+      "style": 84,
+      "name": "Temperantia got raided by the\nSuperbian army! And my dad was there!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100143_03_msg0002",
+      "style": 84,
+      "name": "They had some really crazy Divine Beast\nweaponry, he said!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100143_03_msg0003",
+      "style": 84,
+      "name": "I hope it'll turn out OK..."
+    }
+  ]
+}

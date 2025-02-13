@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00340102_msg0001",
+      "style": 84,
+      "name": "Never imagined that the Holy Grail's troupe\nwould be a buncha kids..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00340102_msg0002",
+      "style": 84,
+      "name": "Don't take it the wrong way. I'm just\nsurprised. You musta had it real tough."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00340102_msg0003",
+      "style": 84,
+      "name": "Our boss is really concerned about\nyou lot. Don't you worry, there ain't a\nperson here who thinks badly of you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00340102_msg0004",
+      "style": 84,
+      "name": "You can rest easy here in Hræsvelgr.\nTake some time to recuperate."
+    }
+  ]
+}

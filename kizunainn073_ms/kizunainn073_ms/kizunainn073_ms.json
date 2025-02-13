@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn073_msg001",
+      "style": 84,
+      "name": "Hey, um..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn073_msg002",
+      "style": 84,
+      "name": "Hey... There's a house in Trigo\nthat I'm a little curious about."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn073_msg003",
+      "style": 84,
+      "name": "It doesn't seem anyone's\nliving there right now."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn073_msg004",
+      "style": 84,
+      "name": "Would you like to come with\nme to check it out?"
+    }
+  ]
+}

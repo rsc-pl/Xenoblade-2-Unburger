@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700141_01_msg0001",
+      "style": 84,
+      "name": "It was Vandham that inspired me\nto join the mercs. I just can't believe\nhe's gone..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700141_01_msg0002",
+      "style": 84,
+      "name": "It was a long time ago now...\nI was a merc in Fons Maim."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700141_01_msg0003",
+      "style": 84,
+      "name": "I happened to get paired up with\nVandham on a mission."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700141_01_msg0004",
+      "style": 84,
+      "name": "He was a paragon among mercenaries."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43700141_01_msg0006",
+      "style": 84,
+      "name": "I want to do everything I can to\nhelp the Hræsvelgr Mercs and carry\non his legacy..."
+    }
+  ]
+}

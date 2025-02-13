@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100121_03_msg0001",
+      "style": 84,
+      "name": "Tataka love climbing tall things,\nso ultimate goal is now to reach\ntop of World Tree!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100121_03_msg0002",
+      "style": 84,
+      "name": "World Tree go up and up into clouds,\nso not know how tall..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100121_03_msg0003",
+      "style": 84,
+      "name": "But must be scenery like dream at\nsummit, that Tataka sure of!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100121_03_msg0004",
+      "style": 84,
+      "name": "It dream of Tataka to climb to top\nof World Tree and drink hot cup of\nGulan Honeytea!"
+    }
+  ]
+}

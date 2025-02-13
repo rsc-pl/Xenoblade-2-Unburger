@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000906_msg0001",
+      "style": 84,
+      "name": "History lessons make my head spin..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000906_msg0002",
+      "style": 84,
+      "name": "Mr. Alisdeigh wants us to go to\nSpirit Crucible Elpys. That's exciting\nfor a school trip, don'tcha think?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000906_msg0003",
+      "style": 84,
+      "name": "Erp, I shouldn't be talking in the\nmiddle of class. I'll get told off!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000906_msg0101",
+      "style": 84,
+      "name": "We get to salvage during lessons!\nJust the other day, I reeled in a\nFairy-Tale Belt Pulley!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000906_msg0102",
+      "style": 84,
+      "name": "Everything looks like treasure to us,\nbut I guess it's not all that rare, is it?"
+    }
+  ]
+}

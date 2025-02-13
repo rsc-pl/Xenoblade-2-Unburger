@@ -1,0 +1,864 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Burning Sword"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Union Sword"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Sacred Arrow"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Infinity Blade"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Divine Sword"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Nexus Force"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Dark Maelstrom"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Jet Biter"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Quixotic Megaburst"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Quantum Judgment"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Azure III: Soulfire"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Sonic Thunderslash"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Crimson Storm"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Deadly Divide"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Hellwind of Ruin"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Illusory Bloom"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Ultimate Crow"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Star Crusher"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Diamond Inferno"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Lacerator"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Sea God's Tidal Wave"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Whiteout"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Apocalypse"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Demon Quadrant"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Rock My World"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Blazing Conquest"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Gobble Gobble!"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Lethal Lavender"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Melancholic Break"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Torrential Pain"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Winter's Wake"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Snowflake of Judgment"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Sweet Emotion"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Evil Ensemble"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Ursine Phantasm"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Going Ballistic"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Earth Priestess"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Royal Tea Party"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Divine Plasma"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "Literacy Beatdown"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Electrifying Show"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Twixt Heaven & Hell"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Perfect Storm"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "X-Buster"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Heaven on Earth"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Dark Drama"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Invincible Moldavite"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Silver-Snow Glory"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Absolute Smash"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Immortal Spike"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Wisdom Strike"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "Irresistible Rush"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Superior Strike"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Chaos Slam"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Heracles Break"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Megaton Charge"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Colossal Sting"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Radical Bullet"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Riot Hammer"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Overcharger"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Colossal Strike"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Incredible Beat"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Excess Axe"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Imperial Lance"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Dragoon Shot"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Victor Swing"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Triumphant Front"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Asteroid Throw"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "Amazing Rush"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Savage Chakram"
+    },
+    {
+      "$id": 71,
+      "style": 155,
+      "name": "Cleave the enemy with a giant sword\nof flame that detonates on impact."
+    },
+    {
+      "$id": 72,
+      "style": 155,
+      "name": "Beat the enemy to a pulp with\na medley of fire and water."
+    },
+    {
+      "$id": 73,
+      "style": 155,
+      "name": "Rain down arrows of light from\nabove to tear the enemy apart."
+    },
+    {
+      "$id": 74,
+      "style": 155,
+      "name": "Unleash energy and sever the\nenemy with a sword of light."
+    },
+    {
+      "$id": 75,
+      "style": 155,
+      "name": "Invert the power of regeneration\nto erode the enemy from within."
+    },
+    {
+      "$id": 76,
+      "style": 155,
+      "name": "Beat the enemy to a pulp with\na medley of fire and water."
+    },
+    {
+      "$id": 77,
+      "style": 155,
+      "name": "Follow up Wild Roar with\nan overwhelming assault."
+    },
+    {
+      "$id": 78,
+      "style": 155,
+      "name": "Attack with the Big Mecha\nBiter (once charged)."
+    },
+    {
+      "$id": 79,
+      "style": 155,
+      "name": "Fire off numerous destructive\nmissiles (once charged)."
+    },
+    {
+      "$id": 80,
+      "style": 155,
+      "name": "Dice the enemy and unleash\n100% power in mid-air."
+    },
+    {
+      "$id": 81,
+      "style": 155,
+      "name": "Engulf the enemy in countless blue\nflames, reducing them to ashes."
+    },
+    {
+      "$id": 82,
+      "style": 155,
+      "name": "Power up Driver to strike the\nenemy at ultra high speed."
+    },
+    {
+      "$id": 83,
+      "style": 155,
+      "name": "Suzaku follows up Driver attack\nwith an assault from the air."
+    },
+    {
+      "$id": 84,
+      "style": 155,
+      "name": "Slash the enemy with a\ngiant blade of ether."
+    },
+    {
+      "$id": 85,
+      "style": 155,
+      "name": "Perform a spinning attack in the\nair, finishing with a bowshot."
+    },
+    {
+      "$id": 86,
+      "style": 155,
+      "name": "Transform weapon into scimitar\nand hack the enemy to pieces."
+    },
+    {
+      "$id": 87,
+      "style": 155,
+      "name": "Flourish two fans to slice the\nenemy with an elegant dance."
+    },
+    {
+      "$id": 88,
+      "style": 155,
+      "name": "Slash the enemy and emit mystic\nrays of light from your wings."
+    },
+    {
+      "$id": 89,
+      "style": 155,
+      "name": "Annihilate the enemy with attacks\nfrom four different weapons."
+    },
+    {
+      "$id": 90,
+      "style": 155,
+      "name": "Rush down the enemy and slam them\nwith a leaping body press."
+    },
+    {
+      "$id": 91,
+      "style": 155,
+      "name": "Sharpen senses and unleash\na series of fierce strikes."
+    },
+    {
+      "$id": 92,
+      "style": 155,
+      "name": "Attack repeatedly and slam your\nweapon to create a shockwave."
+    },
+    {
+      "$id": 93,
+      "style": 155,
+      "name": "Jab at the enemy repeatedly and\nfire a laser from the chest."
+    },
+    {
+      "$id": 94,
+      "style": 155,
+      "name": "Mow down the enemy with 3 strikes,\nthen finish with an almighty slice."
+    },
+    {
+      "$id": 95,
+      "style": 155,
+      "name": "Use the momentum of a spinning cut\nto jump and fire a shockwave."
+    },
+    {
+      "$id": 96,
+      "style": 155,
+      "name": "Slowly build up energy to\nburn the enemy to a crisp."
+    },
+    {
+      "$id": 97,
+      "style": 155,
+      "name": "Jump after a spinning attack\nto fire a hail of bullets."
+    },
+    {
+      "$id": 98,
+      "style": 155,
+      "name": "Spin along with the Bitball to send\nout a shockwave in all directions."
+    },
+    {
+      "$id": 99,
+      "style": 155,
+      "name": "Offer prayers to your shield, then\nrelease a large number of bandages."
+    },
+    {
+      "$id": 100,
+      "style": 155,
+      "name": "Launch a continuous, hard-to-dodge\nattack at high speeds."
+    },
+    {
+      "$id": 101,
+      "style": 155,
+      "name": "Hurl out continuous ice strikes to\nfreeze the enemy in their tracks."
+    },
+    {
+      "$id": 102,
+      "style": 155,
+      "name": "After a series of trifling cuts,\nunleash a giant pillar of ice."
+    },
+    {
+      "$id": 103,
+      "style": 155,
+      "name": "Break the enemy's block, then throw\na full-strength lightning punch."
+    },
+    {
+      "$id": 104,
+      "style": 155,
+      "name": "Fire bullets continuously at the\nenemy while dancing in a circle."
+    },
+    {
+      "$id": 105,
+      "style": 155,
+      "name": "Attack with an uppercut while\nBeary rushes the enemy."
+    },
+    {
+      "$id": 106,
+      "style": 155,
+      "name": "Attack with a series of cuts, then an\nexplosion with ether from the scabbard."
+    },
+    {
+      "$id": 107,
+      "style": 155,
+      "name": "After a series of attacks, hit the enemy\nwith a high-powered laser shot."
+    },
+    {
+      "$id": 108,
+      "style": 155,
+      "name": "Linne sits in her bathtub to attack\nin tandem with her watery lover."
+    },
+    {
+      "$id": 109,
+      "style": 155,
+      "name": "Attack the enemy with a ball of\nlightning formed by Musubi's weapon."
+    },
+    {
+      "$id": 110,
+      "style": 155,
+      "name": "As the enemy recoils from a series of\nattacks, fire a blast of compressed air."
+    },
+    {
+      "$id": 111,
+      "style": 155,
+      "name": "Raiko hits her weapon like\na drum to trigger a shockwave."
+    },
+    {
+      "$id": 112,
+      "style": 155,
+      "name": "Strike down on the enemy from\non high with a powerful weapon."
+    },
+    {
+      "$id": 113,
+      "style": 155,
+      "name": "During a spinning attack...slip\nand let go of the hammer."
+    },
+    {
+      "$id": 114,
+      "style": 155,
+      "name": "Fire a concentrated laser beam, but\nonly when energy reserves are full."
+    },
+    {
+      "$id": 115,
+      "style": 155,
+      "name": "Fire a super-strong laser\nto annihilate the enemy."
+    },
+    {
+      "$id": 116,
+      "style": 155,
+      "name": "Lose control completely and batter\nthe enemy with the lance."
+    },
+    {
+      "$id": 117,
+      "style": 155,
+      "name": "Launch an attack while spinning\nthe weapon around."
+    },
+    {
+      "$id": 118,
+      "style": 155,
+      "name": "Fire icy crystals from the ball\nas it moves around Tsuki."
+    },
+    {
+      "$id": 119,
+      "style": 155,
+      "name": "Take a weapon out of the air and bring\nit down in a series of attacks."
+    },
+    {
+      "$id": 120,
+      "style": 155,
+      "name": "Jab the lance outwards in a\nseries of stabbing attacks."
+    },
+    {
+      "$id": 121,
+      "style": 155,
+      "name": "Fire the cannon blindly straight\ndown at the ground."
+    },
+    {
+      "$id": 122,
+      "style": 155,
+      "name": "Follow up a shield attack with\na rush attack with the hammer."
+    },
+    {
+      "$id": 123,
+      "style": 155,
+      "name": "Strike out with the scabbard, then\nperform a series of cutting attacks."
+    },
+    {
+      "$id": 124,
+      "style": 155,
+      "name": "Pummel the enemy with super-fast\nBitball attacks."
+    },
+    {
+      "$id": 125,
+      "style": 155,
+      "name": "Rush in at high speed with a\ncombination of kicks and punches."
+    },
+    {
+      "$id": 126,
+      "style": 155,
+      "name": "Tackle the enemy to throw them off\nguard, then perform a spinning cut."
+    },
+    {
+      "$id": 127,
+      "style": 155,
+      "name": "Extend the weapon as far as\nit will go to stab upwards."
+    },
+    {
+      "$id": 128,
+      "style": 155,
+      "name": "Fire continuous blasts with\na high-powered cannon."
+    },
+    {
+      "$id": 129,
+      "style": 155,
+      "name": "After a spinning attack, strike\nthe ground with full strength."
+    },
+    {
+      "$id": 130,
+      "style": 155,
+      "name": "Make a cut with the sword, then\nstrike with the scabbard."
+    },
+    {
+      "$id": 131,
+      "style": 155,
+      "name": "Wield the ball with the right arm to land\na hit, then throw it at the enemy."
+    },
+    {
+      "$id": 132,
+      "style": 155,
+      "name": "Attack with a series of hooks,\nthen a powerful uppercut."
+    },
+    {
+      "$id": 133,
+      "style": 155,
+      "name": "Go from a dashing, spinning attack\ninto a jumping, descending attack."
+    },
+    {
+      "$id": 134,
+      "style": 155,
+      "name": "Spin the lance over the head to create\na flurry of stabbing attacks."
+    },
+    {
+      "$id": 135,
+      "style": 155,
+      "name": "Jump back and fire\nan ether bullet."
+    },
+    {
+      "$id": 136,
+      "style": 155,
+      "name": "Bash the enemy with the shield,\nthen hit them with the hammer."
+    },
+    {
+      "$id": 137,
+      "style": 155,
+      "name": "Draw and attack, then follow on with\nthe scabbard, draw and slash again."
+    },
+    {
+      "$id": 138,
+      "style": 155,
+      "name": "Perform multiple attacks throwing a\nBitball designed for maximum damage."
+    },
+    {
+      "$id": 139,
+      "style": 155,
+      "name": "Rush in at high speed with a\ncombination of kicks and punches."
+    },
+    {
+      "$id": 140,
+      "style": 155,
+      "name": "Charge with a ring in your mouth."
+    },
+    {
+      "$id": 141,
+      "style": 155,
+      "name": "Deadly Drive"
+    },
+    {
+      "$id": 142,
+      "style": 155,
+      "name": "World's End"
+    },
+    {
+      "$id": 143,
+      "style": 155,
+      "name": "Hundred Flame"
+    },
+    {
+      "$id": 144,
+      "style": 155,
+      "name": "Stellar Explosion"
+    },
+    {
+      "$id": 145,
+      "style": 15,
+      "name": "U-TENERITAS"
+    },
+    {
+      "$id": 146,
+      "style": 15,
+      "name": "Buster Impact"
+    },
+    {
+      "$id": 147,
+      "style": 15,
+      "name": "Monado Unbound"
+    },
+    {
+      "$id": 148,
+      "style": 15,
+      "name": "Butterfly Step"
+    },
+    {
+      "$id": 149,
+      "style": 15,
+      "name": "Evello Mortem Tyrannis"
+    },
+    {
+      "$id": 150,
+      "style": 15,
+      "name": "Go! Miracle Star!"
+    },
+    {
+      "$id": 151,
+      "style": 15,
+      "name": "Full Metal Jaguar"
+    },
+    {
+      "$id": 152,
+      "style": 155,
+      "name": "Detonate a high-energy explosive that\ndamages all enemies in the vicinity."
+    },
+    {
+      "$id": 153,
+      "style": 155,
+      "name": "Initiate Hanabuster self-destruct mode."
+    },
+    {
+      "$id": 154,
+      "style": 155,
+      "name": "Unleash the true power of the Monado\nin a series of strikes."
+    },
+    {
+      "$id": 155,
+      "style": 155,
+      "name": "Overwhelm the enemy with a flurry\nof high-speed blows."
+    },
+    {
+      "$id": 156,
+      "style": 155,
+      "name": "Let loose with a series of slashes,\nfollowed with a strike from mid-air."
+    },
+    {
+      "$id": 157,
+      "style": 155,
+      "name": "Barrage the enemy with a series of\nether explosions sent forward."
+    },
+    {
+      "$id": 158,
+      "style": 155,
+      "name": "Lead with a burst of gunfire, then jump\nin the air and slam your swords down."
+    },
+    {
+      "$id": 159,
+      "style": 15,
+      "name": "Midnight Sun"
+    },
+    {
+      "$id": 160,
+      "style": 15,
+      "name": "Starlight Strike"
+    },
+    {
+      "$id": 161,
+      "style": 15,
+      "name": "Hadron Impact"
+    },
+    {
+      "$id": 162,
+      "style": 15,
+      "name": "Escorpión"
+    },
+    {
+      "$id": 163,
+      "style": 15,
+      "name": "Soulfire"
+    },
+    {
+      "$id": 164,
+      "style": 15,
+      "name": "Sea God's Tidal Wave"
+    },
+    {
+      "$id": 165,
+      "style": 155,
+      "name": "Follow up Laura's quickfire slashes\nwith a full-force cleave."
+    },
+    {
+      "$id": 166,
+      "style": 155,
+      "name": "Batter the enemy with staff blows and\nair blasts, finishing with a knee strike."
+    },
+    {
+      "$id": 167,
+      "style": 155,
+      "name": "Let Adel make the first strikes, then\nnail the enemy from mid-air."
+    },
+    {
+      "$id": 168,
+      "style": 155,
+      "name": "Rapidly pass weapons back and forth,\nshooting and slashing in sequence."
+    },
+    {
+      "$id": 169,
+      "style": 155,
+      "name": "Lead with a few slashes, then immolate\nthe foe with countless flaming missiles."
+    },
+    {
+      "$id": 170,
+      "style": 155,
+      "name": "Slice and dice the enemy, then cleave\nthem with one final rapid blow."
+    }
+  ]
+}

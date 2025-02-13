@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000905_msg0001",
+      "style": 84,
+      "name": "So this school wasn't always a school?\nI never knew!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000905_msg0002",
+      "style": 84,
+      "name": "You got all the materials for us and\nMason helped rebuild the building..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000905_msg0003",
+      "style": 84,
+      "name": "You even got us some teachers!\nIt's not a proper school without\nteachers, after all."
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000905_msg0101",
+      "style": 84,
+      "name": "Miss Quiqui always launches straight\ninto experiments, and none of them\never go well. It's a bit worrying..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000905_msg0102",
+      "style": 84,
+      "name": "But I love having a Nopon teacher.\nThey're just soooo cute!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk01000905_msg0103",
+      "style": 84,
+      "name": "And the way they talk, it's so dear\nI just can't bear it!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300011_05_msg0001",
+      "style": 84,
+      "name": "When Alst become more peaceful,\nLimuli probably switch job to salvager."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300011_05_msg0002",
+      "style": 84,
+      "name": "Would like to switch job now,\nbut Gegebi tell Limuli no."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300011_05_msg0003",
+      "style": 84,
+      "name": "Seem like Gegebi like Limuli more\nthan Limuli thought."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300011_05_msg0004",
+      "style": 84,
+      "name": "So Limuli OK with staying around\nlittle while longer."
+    }
+  ]
+}

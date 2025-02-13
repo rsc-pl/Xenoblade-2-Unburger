@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4440008903_msg0001",
+      "style": 84,
+      "name": "Bathing in spring waters,\nhow the bright droplets glint\nand sparkle in the sunlight..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4440008903_msg0002",
+      "style": 84,
+      "name": "Ahh... If only he would leap out of the\npages and whisk me away..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4440008903_msg0003",
+      "style": 84,
+      "name": "Something wrong? You look concerned.\nWhat? A lady can dream, can't she?"
+    }
+  ]
+}

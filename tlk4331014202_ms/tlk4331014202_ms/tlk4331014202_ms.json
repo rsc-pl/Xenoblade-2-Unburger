@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310142_02_msg0001",
+      "style": 84,
+      "name": "The gate leading to the Karam Ruins,\nthe Holy Gate of Fontana, has been\nforced open."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310142_02_msg0002",
+      "style": 84,
+      "name": "Some sources claim it was the work\nof Iira, but there's no trace of them\nto be found, so it's difficult to say."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310142_02_msg0003",
+      "style": 84,
+      "name": "We also found some severe damage\nto the Karam Ruins themselves."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310142_02_msg0004",
+      "style": 84,
+      "name": "Some people are even saying they saw\nthe Holy Grail around. We'll have to boost\nFons Maim's security, that's for sure..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43310142_02_msg0005",
+      "style": 84,
+      "name": "If you see anyone suspicious, be sure\nto report them to the Invidian Army."
+    }
+  ]
+}

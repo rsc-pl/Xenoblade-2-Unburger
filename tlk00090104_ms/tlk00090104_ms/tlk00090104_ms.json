@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000901_04_msg0001",
+      "style": 84,
+      "name": "The way things are going, it will be\nimpossible to prevent an all-out war\nbetween Superbia and Invidia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000901_04_msg0002",
+      "style": 84,
+      "name": "I would ask that you make haste to\nTemperantia and defuse the situation\nthere."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000901_04_msg0003",
+      "style": 84,
+      "name": "Your efforts are much appreciated."
+    }
+  ]
+}

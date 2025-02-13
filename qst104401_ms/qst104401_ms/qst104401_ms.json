@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104401_msg001",
+      "style": 62,
+      "name": "受注トーク(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104401_msg002",
+      "style": 62,
+      "name": "催促トーク(仮)"
+    }
+  ]
+}

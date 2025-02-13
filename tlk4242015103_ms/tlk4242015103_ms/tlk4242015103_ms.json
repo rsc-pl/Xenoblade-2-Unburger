@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42420151_03_msg0002",
+      "style": 84,
+      "name": "Chocholo feels like the\nworld is ending..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42420151_03_msg0003",
+      "style": 84,
+      "name": "Chocholo has never even left\nSuperbia in whole life yet...\nCan't even speak proper Nopon!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42420151_03_msg0004",
+      "style": 84,
+      "name": "How can it all be over so soon?!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42420151_03_msg0005",
+      "style": 84,
+      "name": "What did us Nopon do to deserve this?!\nIt was all the Superbians and Invidians\nand Acedia people doing bad things!"
+    }
+  ]
+}

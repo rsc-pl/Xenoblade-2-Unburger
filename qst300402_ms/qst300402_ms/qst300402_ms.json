@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300402_msg001",
+      "style": 62,
+      "name": "受注前テキスト"
+    },
+    {
+      "$id": 2,
+      "label": "qst300402_msg002",
+      "style": 62,
+      "name": "受注後テキスト"
+    },
+    {
+      "$id": 3,
+      "label": "qst300402_msg003",
+      "style": 62,
+      "name": "タスク８クリア後テキスト"
+    },
+    {
+      "$id": 4,
+      "label": "qst300402_msg0001",
+      "style": 84,
+      "name": "Yew won't even tell me who this\nlatest job is from."
+    },
+    {
+      "$id": 5,
+      "label": "qst300402_msg0002",
+      "style": 84,
+      "name": "He must really not be kidding\nwhen he says they're a big shot."
+    },
+    {
+      "$id": 6,
+      "label": "qst300402_msg0003",
+      "style": 84,
+      "name": "You'll let me know who it turns\nout to be afterwards, right?\nJust on the down low."
+    },
+    {
+      "$id": 7,
+      "label": "qst300402_msg0101",
+      "style": 84,
+      "name": "Man, I can't believe your client\nturned out to be the Queen herself!"
+    },
+    {
+      "$id": 8,
+      "label": "qst300402_msg0102",
+      "style": 84,
+      "name": "We had a mystery-client job to deal\nwith ourselves while you were gone,\nyou know. It was quite the challenge."
+    }
+  ]
+}

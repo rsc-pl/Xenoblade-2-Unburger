@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102402_msg001",
+      "style": 62,
+      "name": "うごかねぇ（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst102402_msg101",
+      "style": 62,
+      "name": "お前に壊せるわけがねぇ（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst102402_msg201",
+      "style": 62,
+      "name": "手品か？（仮）"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300183_03_msg0001",
+      "style": 84,
+      "name": "This might be the last dinner I ever eat.\nIt's a sad thought, but here we are..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300183_03_msg0002",
+      "style": 84,
+      "name": "I wish I had had a chance to try more\nof the delicious foods and drinks that\nAlst has on offer."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300183_03_msg0003",
+      "style": 84,
+      "name": "I wish I'd traveled more, seen\nGula at least... But in reality,\nI've never even left Luxuria..."
+    }
+  ]
+}

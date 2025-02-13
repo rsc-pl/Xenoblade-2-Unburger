@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev03_120_125_msg0001",
+      "style": 84,
+      "name": "He said to follow him, but I'm\nnot seeing him anywhere..."
+    },
+    {
+      "$id": 2,
+      "label": "fev03_120_125_msg0002",
+      "style": 84,
+      "name": "What an annoying old guy."
+    },
+    {
+      "$id": 3,
+      "label": "fev03_120_125_msg0003",
+      "style": 84,
+      "name": "Where do you think Vandham went?"
+    },
+    {
+      "$id": 4,
+      "label": "fev03_120_125_msg0004",
+      "style": 84,
+      "name": "I guess we just explore the village\nand hope we run into him?"
+    },
+    {
+      "$id": 5,
+      "label": "fev03_120_125_msg0005",
+      "style": 84,
+      "name": "Good idea. It's always best to get\nthe lay of the land when you arrive\nin a new place."
+    },
+    {
+      "$id": 6,
+      "label": "fev03_120_125_msg0006",
+      "style": 84,
+      "name": "Besides, didn't he say we should\n\"get ready\" for something?"
+    },
+    {
+      "$id": 7,
+      "label": "fev03_120_125_msg0007",
+      "style": 84,
+      "name": "He's not exactly big on explaining\nhimself, is he?"
+    },
+    {
+      "$id": 8,
+      "label": "fev03_120_125_msg0008",
+      "style": 84,
+      "name": "There's quite a few shops around\nhere, so let's stock up on anything\nwe need while we look for him."
+    }
+  ]
+}

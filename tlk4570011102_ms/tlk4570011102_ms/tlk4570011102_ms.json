@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45700111_02_msg0001",
+      "style": 84,
+      "name": "I've been in the salvaging business\ntwenty years now. Let me give you\na bit of advice."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45700111_02_msg0002",
+      "style": 84,
+      "name": "The area you salvage in'll determine\nwhat you find."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45700111_02_msg0003",
+      "style": 84,
+      "name": "And you'll find that some places are\nharder to salvage in than others."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45700111_02_msg0004",
+      "style": 84,
+      "name": "If you can't find what you're looking\nfor in one place, try elsewhere."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45700111_02_msg0005",
+      "style": 84,
+      "name": "Say I can't find something here up\non the Salvage Deck. I'll just head\nover to the Maelstrom instead."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45700111_02_msg0006",
+      "style": 84,
+      "name": "Oh, and one more thing. Don't\nbe surprised if monsters end up\ncoming after you."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45700111_02_msg0007",
+      "style": 84,
+      "name": "Sometimes you've gotta make a stand\nagainst the critters of the Cloud Sea\nif you want to get the good stuff."
+    }
+  ]
+}

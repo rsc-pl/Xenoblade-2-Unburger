@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310158_04_msg0001",
+      "style": 84,
+      "name": "Lately no matter where you go,\nthere's one name you always hear:\nthe Hræsvelgr Mercenaries."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310158_04_msg0002",
+      "style": 84,
+      "name": "If you've got a problem, leave it to the\nHræsvelgr Mercenaries, everyone says."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310158_04_msg0003",
+      "style": 84,
+      "name": "Worst part is, I can't even argue.\nThey DO solve pretty much any\nproblem, and efficiently at that."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310158_04_msg0004",
+      "style": 84,
+      "name": "I shudder to think how many Blades\nthey must have working for them.\nPowerful ones they must be, too."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310158_04_msg0005",
+      "style": 84,
+      "name": "Maybe it's time I headed to Invidia\nmyself and asked if they wouldn't\nlet me join up."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45310158_04_msg0006",
+      "style": 84,
+      "name": "The days of solo mercenary work might\nbe coming to an end. From here on out,\nmaybe it's best we all work together."
+    }
+  ]
+}

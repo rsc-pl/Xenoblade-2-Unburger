@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200828_msg0001",
+      "style": 84,
+      "name": "To make the tree brace, we'll need\nfive pieces of Healing Teak."
+    },
+    {
+      "$id": 2,
+      "label": "qst200828_msg0002",
+      "style": 84,
+      "name": "You can find it all across Gula."
+    },
+    {
+      "$id": 3,
+      "label": "qst200828_msg0003",
+      "style": 84,
+      "name": "If you can just get that much,\nwe'll make you a nice, sturdy one."
+    }
+  ]
+}

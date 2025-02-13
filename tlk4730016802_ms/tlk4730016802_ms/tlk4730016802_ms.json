@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4730016802_msg0001",
+      "style": 84,
+      "name": "Eyup, pal! I was just basking in awe\nat the amazing thing we've achieved\nhere with this new school!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4730016802_msg0002",
+      "style": 84,
+      "name": "Reinforcing the walls and fixing leaks\nin the roof together with the kids were\nsome real moments to be treasured..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4730016802_msg0003",
+      "style": 84,
+      "name": "Oof! I almost forgot, we've got new\nfaces now, don't we? Looks like it's\ntime for an extension then!"
+    }
+  ]
+}

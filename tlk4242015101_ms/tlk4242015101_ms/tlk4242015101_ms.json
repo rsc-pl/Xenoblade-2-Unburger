@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42420151_01_msg0001",
+      "style": 84,
+      "name": "Chocholo was on the roof gazing up\nat the stars when someone stepped\non Chocholo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42420151_01_msg0002",
+      "style": 84,
+      "name": "It hurt a lot... Felt like the shoe\nwas made out of metal."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42420151_01_msg0003",
+      "style": 84,
+      "name": "So Chocholo asked a Superbia\nsoldier to find the culprit!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42420151_01_msg0004",
+      "style": 84,
+      "name": "The culprit maybe too strong for an\nordinary soldier, though... Maybe only\nMeleph-sama could really handle them."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202402_msg0001",
+      "style": 84,
+      "name": "If you return Noganga's Nopon Trade\nGuild ID, it proof that you smarter\nthan Tirkin, even though look same."
+    },
+    {
+      "$id": 2,
+      "label": "qst202402_msg0101",
+      "style": 84,
+      "name": "Hurry to Liberalitan Archipelago!\nGet Nopon Trade Guild ID back\nfrom Tirkin lair!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202402_msg0102",
+      "style": 84,
+      "name": "Without ID, Noganga cannot trade!"
+    }
+  ]
+}

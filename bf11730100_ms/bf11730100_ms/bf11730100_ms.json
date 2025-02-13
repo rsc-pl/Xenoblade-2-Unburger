@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf11730100_0010",
+      "style": 82,
+      "name": "あれが[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "bf11730100_0020",
+      "style": 82,
+      "name": "イーラの[System:Ruby rt=アルス ]巨神獣[/System:Ruby]の本当の姿"
+    },
+    {
+      "$id": 3,
+      "label": "bf11730100_0030",
+      "style": 82,
+      "name": "あそこにメツが[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "bf11730100_0040",
+      "style": 82,
+      "name": "時間がない　急ぐぞ"
+    }
+  ]
+}

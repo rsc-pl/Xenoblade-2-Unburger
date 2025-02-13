@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00350107_msg0001",
+      "style": 84,
+      "name": "I dipped a finger in some of our\nemergency rations and strike me,\nwas it tasty!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00350107_msg0002",
+      "style": 84,
+      "name": "Makes me kinda looking forward to\nMerc Missions now, getting some tasty\ngrub like that!"
+    }
+  ]
+}

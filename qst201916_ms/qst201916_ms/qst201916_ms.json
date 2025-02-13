@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201916_msg0001",
+      "style": 84,
+      "name": "Thanks to that black-haired Nopon,\nmy lovely shell hairpiece is all broken!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201916_msg0002",
+      "style": 84,
+      "name": "I loved that hairpiece... It was a\nbirthday present and everything..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201916_msg0003",
+      "style": 84,
+      "name": "My daddy said he got it from\na salvager friend."
+    },
+    {
+      "$id": 4,
+      "label": "qst201916_msg0004",
+      "style": 84,
+      "name": "He said it was so pretty,\nhe was sure it would suit me!"
+    }
+  ]
+}

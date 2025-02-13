@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400046_01_msg0001",
+      "style": 84,
+      "name": "The trust you have between Blade\nand Driver...isn't bad at all!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400046_01_msg0002",
+      "style": 84,
+      "name": "I know, 'cos my dad has a merc\ngroup, so it's something I've seen often."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400046_01_msg0003",
+      "style": 84,
+      "name": "During a battle, a Driver's inner\nstrength grows."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400046_01_msg0004",
+      "style": 84,
+      "name": "And at the same time, the Blade's bond\nof trust with the Driver deepens."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400046_01_msg0005",
+      "style": 84,
+      "name": "You both gain something by heading\nout onto the field of battle together."
+    }
+  ]
+}

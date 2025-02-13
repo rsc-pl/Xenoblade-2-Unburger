@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn032_msg001",
+      "style": 84,
+      "name": "Hey, you must have some decent\ngrub in Luxuria, surely?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn032_msg002",
+      "style": 84,
+      "name": "Even in these tough times, I'm\nsure we can track down something\nthat tickles your taste buds."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn032_msg003",
+      "style": 84,
+      "name": "How about we go out and eat?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn032_msg004",
+      "style": 84,
+      "name": "Sure! Let's do it!"
+    }
+  ]
+}

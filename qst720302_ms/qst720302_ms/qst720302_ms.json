@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720302_msg0001",
+      "style": 84,
+      "name": "あ　あなた達は[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst720302_msg0002",
+      "style": 84,
+      "name": "え？　私の名前がケイじゃないかって[ML:Dash ]？"
+    },
+    {
+      "$id": 3,
+      "label": "qst720302_msg0003",
+      "style": 84,
+      "name": "どうして　知ってるの？"
+    },
+    {
+      "$id": 4,
+      "label": "qst720302_msg0004",
+      "style": 84,
+      "name": "そう　カイ兄ちゃんが[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "qst720302_msg0005",
+      "style": 84,
+      "name": "うん　わかった\nカイ兄ちゃんの所へ連れてって[ML:Dash ]"
+    }
+  ]
+}

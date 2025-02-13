@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100151_02_msg0001",
+      "style": 84,
+      "name": "I've never seen a Phonex from\nLiberalitas."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100151_02_msg0002",
+      "style": 84,
+      "name": "There must be so much to eat there.\nDo they look all round and pudgy?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100151_02_msg0003",
+      "style": 84,
+      "name": "I'm sure they must stand out.\nI'd know one at a glance, so I'm\npositive I've never seen one."
+    }
+  ]
+}

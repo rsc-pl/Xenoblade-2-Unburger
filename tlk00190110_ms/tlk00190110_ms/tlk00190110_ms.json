@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00190110_msg0001",
+      "style": 84,
+      "name": "Well, hello! I heard you helped build\nus a school!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00190110_msg0002",
+      "style": 84,
+      "name": "Oh, that's wonderful news. Our Mark's\nbeen so down about not being able to\ngo to his Academy..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00190110_msg0003",
+      "style": 84,
+      "name": "We're all so proud, you know.\nI even heard the mayor bragging\nabout \"Rex, the pride of our village\"!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00190110_msg0004",
+      "style": 84,
+      "name": "Seeing my little boy all grown up,\nand with such wonderful friends...\nWhat more could a parent ask for?"
+    }
+  ]
+}

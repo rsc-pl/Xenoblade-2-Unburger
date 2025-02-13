@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn027_msg0001",
+      "style": 84,
+      "name": "Boss! Tora think it about time\nfor nice dip in hot bath!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn027_msg0002",
+      "style": 84,
+      "name": "Nothing like a relaxing bath\nfor male bonding!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700142_01_msg0001",
+      "style": 84,
+      "name": "Well, well, well! Have I got a beaut of\na drink for you! I worked in the service\nof the high court, so I know my stuff!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700142_01_msg0002",
+      "style": 84,
+      "name": "In fact, I'll give you a full refund if you\ncan keep a straight face! Gahaha!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700142_01_msg0005",
+      "style": 84,
+      "name": "Good to see you, owner! As ever,\nI provide only the most exquisite drinks,\nbased on my days at the high court!"
+    }
+  ]
+}

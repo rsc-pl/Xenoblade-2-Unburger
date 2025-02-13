@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4550019103_msg0001",
+      "style": 84,
+      "name": "All I used to think about was\ncuring patients."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4550019103_msg0002",
+      "style": 84,
+      "name": "Now I have other priorities.\nPassing on my knowledge to kids.\nIt's not bad, actually."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4550019103_msg0003",
+      "style": 84,
+      "name": "I'll make the school here in Iyasaki\na fine one. Better than any stuffy old\nacademy in Acedia."
+    }
+  ]
+}

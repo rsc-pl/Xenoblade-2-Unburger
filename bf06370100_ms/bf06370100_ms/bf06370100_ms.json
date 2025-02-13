@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06370100_0010",
+      "style": 82,
+      "name": "Is me sleeping a part of the trial?"
+    },
+    {
+      "$id": 2,
+      "label": "bf06370100_0020",
+      "style": 82,
+      "name": "That's right..."
+    },
+    {
+      "$id": 3,
+      "label": "bf06370100_0030",
+      "style": 82,
+      "name": "It is a trial for us humans.\nOne we must overcome ourselves."
+    },
+    {
+      "$id": 4,
+      "label": "bf06370100_0040",
+      "style": 82,
+      "name": "If we cannot do that, we don't\ndeserve to live alongside you."
+    }
+  ]
+}

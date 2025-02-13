@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140092101_msg0001",
+      "style": 84,
+      "name": "Thanks for the help last time.\nUm...Therida...she..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140092101_msg0002",
+      "style": 84,
+      "name": "She says she won't be satisfied until\nshe sees her prince. She won't budge\nan inch from this spot."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140092101_msg0003",
+      "style": 84,
+      "name": "I just want to go back to the inn..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4140092101_msg0004",
+      "style": 84,
+      "name": "She said she's not dirty because she's\nbeen frozen in ice for five years.\nShe still hasn't taken a bath..."
+    }
+  ]
+}

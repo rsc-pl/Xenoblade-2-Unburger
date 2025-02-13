@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104903_msg0001",
+      "style": 84,
+      "name": "*gasp* You would come to me with\nyour radiant warmth and gorgeous\nFlowers of Ice...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst104903_msg0002",
+      "style": 84,
+      "name": "Wait... I feel as if I'm on the verge of a\nbreakthrough..."
+    },
+    {
+      "$id": 3,
+      "label": "qst104903_msg0003",
+      "style": 84,
+      "name": "Give me a moment... The ideas are\ncoming to me now..."
+    },
+    {
+      "$id": 4,
+      "label": "qst104903_msg0004",
+      "style": 84,
+      "name": "I would love to reward you, but please\nbear with me. I'm on the cusp!"
+    },
+    {
+      "$id": 5,
+      "label": "qst104903_msg0005",
+      "style": 84,
+      "name": "...No! How could I even consider\nmaking one of Alst's treasures\nwork for free!"
+    },
+    {
+      "$id": 6,
+      "label": "qst104903_msg0006",
+      "style": 84,
+      "name": "I have a room over at Anastatia's in\nTeos Aure. Could you pay me a visit\nthere later?"
+    },
+    {
+      "$id": 7,
+      "label": "qst104903_msg0007",
+      "style": 84,
+      "name": "Ohh... The possibilities..."
+    },
+    {
+      "$id": 8,
+      "label": "qst104903_msg0101",
+      "style": 84,
+      "name": "You've returned with the flowers\nI asked for?"
+    },
+    {
+      "$id": 9,
+      "label": "qst104903_msg0102",
+      "style": 84,
+      "name": "But they're such beautiful flowers...\nI would really prefer to receive them\nfrom a similarly handsome gentleman..."
+    }
+  ]
+}

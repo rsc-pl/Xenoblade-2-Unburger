@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100807_msg0001",
+      "style": 84,
+      "name": "You can only get the Healing Herb\nin the morning."
+    },
+    {
+      "$id": 2,
+      "label": "qst100807_msg0002",
+      "style": 84,
+      "name": "Or did you want me to go along\nand get it with you?"
+    },
+    {
+      "$id": 3,
+      "label": "qst100807_msg0003",
+      "style": 84,
+      "name": "So, you guys don't think I can handle\ndangerous places either, huh?"
+    },
+    {
+      "$id": 4,
+      "label": "qst100807_msg0101",
+      "style": 84,
+      "name": "Thanks for getting it..."
+    }
+  ]
+}

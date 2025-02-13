@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000001_msg0001",
+      "style": 84,
+      "name": "Never thought I'd see the day you'd\nbe riding the Maelstrom, Rex."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000001_msg0002",
+      "style": 84,
+      "name": "Suppose it just goes to show how far\nyou've come as a salvager, eh?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000001_msg0003",
+      "style": 84,
+      "name": "Well, I'm proud of you, lad."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000001_msg0004",
+      "style": 84,
+      "name": "Now, are you all set? We're setting\nsail soon as you're ready to board."
+    },
+    {
+      "$id": 5,
+      "label": "tlk000001_msg0005",
+      "style": 165,
+      "name": "Are you ready?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk000001_msg0006",
+      "style": 165,
+      "name": "Yes"
+    },
+    {
+      "$id": 7,
+      "label": "tlk000001_msg0007",
+      "style": 165,
+      "name": "Not yet"
+    },
+    {
+      "$id": 8,
+      "label": "tlk000001_msg0008",
+      "style": 84,
+      "name": "That's what I like to hear!\nCome on then, hop on!"
+    },
+    {
+      "$id": 9,
+      "label": "tlk000001_msg0009",
+      "style": 84,
+      "name": "We're heading into uncharted territory\nfor this job, you know. I'm getting\ngoose pimples just thinking about it!"
+    },
+    {
+      "$id": 10,
+      "label": "tlk000001_msg0010",
+      "style": 84,
+      "name": "Well, I say that, but don't worry. You\ncan always come back here any time\nyou think it's getting hairy."
+    },
+    {
+      "$id": 11,
+      "label": "tlk000001_msg0011",
+      "style": 84,
+      "name": "It's not as if we're heading off to war\nor anything."
+    },
+    {
+      "$id": 12,
+      "label": "tlk000001_msg0012",
+      "style": 84,
+      "name": "I'm not ready to shuffle off the mortal\ncoil just yet, so watch how you go!"
+    }
+  ]
+}

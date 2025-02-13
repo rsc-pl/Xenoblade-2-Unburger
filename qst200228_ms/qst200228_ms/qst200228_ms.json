@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200228_msg0001",
+      "style": 84,
+      "name": "I was so scared..."
+    },
+    {
+      "$id": 2,
+      "label": "qst200228_msg0002",
+      "style": 84,
+      "name": "You've been a very brave boy.\nBut you can leave the rest to us!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200228_msg0003",
+      "style": 84,
+      "name": "Please...save Teos Aure!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200228_msg0004",
+      "style": 84,
+      "name": "You can count on me!\nI swear on my fist of justice!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620306_msg0001",
+      "style": 84,
+      "name": "Please take down those Gogols\nover there!"
+    },
+    {
+      "$id": 2,
+      "label": "qst620306_msg0002",
+      "style": 84,
+      "name": "Once the monsters are gone, I'll be able\nto propose to Aurelia under the light of\nthe aurora..."
+    },
+    {
+      "$id": 3,
+      "label": "qst620306_msg0003",
+      "style": 84,
+      "name": "Please help make it happen!"
+    }
+  ]
+}

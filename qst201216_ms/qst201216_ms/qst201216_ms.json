@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201216_msg0001",
+      "style": 84,
+      "name": "This cookie's got a weird face.\nIs this what common kids eat...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201216_msg0002",
+      "style": 84,
+      "name": "Do you think it'll have any effect\non my palate?"
+    },
+    {
+      "$id": 3,
+      "label": "qst201216_msg1001",
+      "style": 84,
+      "name": "This is-?!\nWhere do they sell these?!\nI must buy them all!"
+    }
+  ]
+}

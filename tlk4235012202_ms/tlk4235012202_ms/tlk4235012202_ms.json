@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350122_02_msg0001",
+      "style": 84,
+      "name": "Have you heard of Cordell Village?\nIt's a little village on the outskirts\nof Gula."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350122_02_msg0002",
+      "style": 84,
+      "name": "It's such a lovely place.\nThe water's clean, and the people\nare all so kind."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350122_02_msg0003",
+      "style": 84,
+      "name": "There's a boy called Rhys there\nwho would always play with us!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350122_02_msg0004",
+      "style": 84,
+      "name": "I haven't been there in a while, actually.\nI hope Rhys is doing well!"
+    }
+  ]
+}

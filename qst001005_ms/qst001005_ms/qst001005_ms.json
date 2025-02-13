@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001005_msg001",
+      "style": 84,
+      "name": "Thank goodness everyone was OK.\nI'm so relieved."
+    },
+    {
+      "$id": 2,
+      "label": "qst001005_msg002",
+      "style": 84,
+      "name": "Next time we'll make sure they're\naccompanied by an adult."
+    },
+    {
+      "$id": 3,
+      "label": "qst001005_msg003",
+      "style": 84,
+      "name": "We should let Yew know.\nThanks for helping, guys."
+    },
+    {
+      "$id": 4,
+      "label": "qst001005_msg004",
+      "style": 84,
+      "name": "Oh, I nearly forgot!\nPlease take this."
+    },
+    {
+      "$id": 5,
+      "label": "qst001005_msg005",
+      "style": 84,
+      "name": "It's nothing special. Just a little\nsomething to say thanks."
+    },
+    {
+      "$id": 6,
+      "label": "qst001005_msg006",
+      "style": 84,
+      "name": "Don't mention it!\nYou really helped us out!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104905_msg0001",
+      "style": 84,
+      "name": "Please make sure to remember every\nlast detail of your fight."
+    },
+    {
+      "$id": 2,
+      "label": "qst104905_msg0002",
+      "style": 84,
+      "name": "I'll be furiously writing down notes\nusing your description as reference!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104905_msg0101",
+      "style": 84,
+      "name": "I'd much prefer if a handsome\nyoung gentleman were to defeat\nthose monsters..."
+    },
+    {
+      "$id": 4,
+      "label": "qst104905_msg0102",
+      "style": 84,
+      "name": "Well, I don't suppose it matters if\nsomeone else fights them. Just make\nsure your narrator is a pretty one..."
+    }
+  ]
+}

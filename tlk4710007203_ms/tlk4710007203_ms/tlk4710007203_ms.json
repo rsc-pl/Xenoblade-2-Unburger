@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100072_03_msg0001",
+      "style": 84,
+      "name": "You're looking for Pex, aren't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100072_03_msg0002",
+      "style": 84,
+      "name": "Well you won't find him in Acedia.\nIt's just Tex and me here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100072_03_msg0003",
+      "style": 84,
+      "name": "Thanks a lot for helping Mix out, by\nthe way. A Phonex never forgets acts\nof kindness."
+    }
+  ]
+}

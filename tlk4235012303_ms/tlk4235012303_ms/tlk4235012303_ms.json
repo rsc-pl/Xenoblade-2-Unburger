@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350123_03_msg0001",
+      "style": 84,
+      "name": "Ohhh! It's the true heroes!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350123_03_msg0002",
+      "style": 84,
+      "name": "I heard you guys saved the\nPhonex heroes, right?\nThanks so much!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350123_03_msg0003",
+      "style": 84,
+      "name": "Ooh, I could learn from your humble\nattitude. That's true heroes for you!"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103409_msg0001",
+      "style": 84,
+      "name": "Is there something you want to discuss?"
+    },
+    {
+      "$id": 2,
+      "label": "qst103409_msg0002",
+      "style": 84,
+      "name": "What? You defeated Akatsuki and\nhis Driver? Are you certain?"
+    },
+    {
+      "$id": 3,
+      "label": "qst103409_msg0003",
+      "style": 84,
+      "name": "A Core Crystal...\nThis is Akatsuki's?"
+    },
+    {
+      "$id": 4,
+      "label": "qst103409_msg0004",
+      "style": 84,
+      "name": "Would it be all right if I kept hold\nof this? As evidence, you understand."
+    },
+    {
+      "$id": 5,
+      "label": "qst103409_msg0005",
+      "style": 84,
+      "name": "Thank you."
+    },
+    {
+      "$id": 6,
+      "label": "qst103409_msg0006",
+      "style": 84,
+      "name": "With this, I suppose the anti-imperialist\nschemes of Brionac really are finished."
+    },
+    {
+      "$id": 7,
+      "label": "qst103409_msg0007",
+      "style": 84,
+      "name": "What? Another organization?!"
+    },
+    {
+      "$id": 8,
+      "label": "qst103409_msg0008",
+      "style": 84,
+      "name": "Lindwurm...\nI'm sorry, I can't say I've ever\nheard the name before."
+    },
+    {
+      "$id": 9,
+      "label": "qst103409_msg0009",
+      "style": 84,
+      "name": "Of course, it may not be wise to take\neverything Akatsuki said at face value."
+    },
+    {
+      "$id": 10,
+      "label": "qst103409_msg0010",
+      "style": 84,
+      "name": "There was that time when he\ntaunted you with empty threats\nbefore letting you leave, after all."
+    },
+    {
+      "$id": 11,
+      "label": "qst103409_msg0011",
+      "style": 84,
+      "name": "At any rate, thank you for all the work\nyou've done in service of the Empire."
+    },
+    {
+      "$id": 12,
+      "label": "qst103409_msg0012",
+      "style": 84,
+      "name": "We can handle the task of rounding\nup any remaining stray rebels, so don't\nworry yourselves any further."
+    }
+  ]
+}

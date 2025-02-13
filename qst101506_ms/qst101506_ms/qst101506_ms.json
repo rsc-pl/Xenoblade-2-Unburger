@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101506_msg001",
+      "style": 62,
+      "name": "僕の好きなもの持ってきてくれたら協力するよ。(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101506_msg101",
+      "style": 62,
+      "name": "おいしい(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst101506_msg201",
+      "style": 62,
+      "name": "何かもってきて(仮)"
+    },
+    {
+      "$id": 4,
+      "label": "qst101506_msg301",
+      "style": 62,
+      "name": "お腹いっぱい(仮)"
+    },
+    {
+      "$id": 5,
+      "label": "qst101506_msg401",
+      "style": 62,
+      "name": "船も良いもんだな(仮)"
+    }
+  ]
+}

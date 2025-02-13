@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301201_01_msg0001",
+      "style": 84,
+      "name": "I must uphold my own ideals of justice!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301201_01_msg0002",
+      "style": 84,
+      "name": "And to do that, it would be, um,\nhelpful if you'd take me with you."
+    }
+  ]
+}

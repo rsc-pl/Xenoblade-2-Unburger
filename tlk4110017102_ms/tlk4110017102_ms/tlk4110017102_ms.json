@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_02_msg0001",
+      "style": 84,
+      "name": "Is the Goddess of the Holy See\na goddess of fortune, do you think?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_02_msg0002",
+      "style": 84,
+      "name": "There're tourists who toss coins over\nthe edge at Milama Viewpoint, but a lot\nof them actually land around here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_02_msg0003",
+      "style": 84,
+      "name": "And there's been more than usual with\nthe whole funeral business. I should\nthank the goddess for that, I suppose!"
+    }
+  ]
+}

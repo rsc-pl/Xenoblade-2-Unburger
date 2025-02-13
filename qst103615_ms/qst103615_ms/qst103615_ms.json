@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103615_msg0001",
+      "style": 84,
+      "name": "I'll keep my eye on Senator Stulc!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103615_msg0002",
+      "style": 84,
+      "name": "When you get back, you can help\nme organize his transferal."
+    }
+  ]
+}

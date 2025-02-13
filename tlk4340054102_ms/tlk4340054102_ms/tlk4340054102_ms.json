@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400541_02_msg0001",
+      "style": 84,
+      "name": "As you can see, Invidia is a land filled\nwith plenty of water and greenery."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400541_02_msg0002",
+      "style": 84,
+      "name": "Thanks to this, we also have plenty of\nfood. We will not be beaten by any\nother country."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400541_02_msg0003",
+      "style": 84,
+      "name": "Even if we were to get into a war with\nSuperbia, we would not struggle for\nfood."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400541_02_msg0004",
+      "style": 84,
+      "name": "If it became a war of attrition, without\ndoubt, victory would be Invidia's."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400541_02_msg0005",
+      "style": 84,
+      "name": "It's only right the military continues\nto regulate the Gromrice rations."
+    }
+  ]
+}

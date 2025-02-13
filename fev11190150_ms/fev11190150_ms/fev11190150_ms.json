@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_190_150_msg0001",
+      "style": 84,
+      "name": "ありがとう　シン"
+    },
+    {
+      "$id": 2,
+      "label": "fev11_190_150_msg0002",
+      "style": 84,
+      "name": "もう大丈夫　落ち着いたから[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "fev11_190_150_msg0003",
+      "style": 84,
+      "name": "[ML:Dash ]無理をする必要はない"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_190_150_msg0004",
+      "style": 84,
+      "name": "うん[ML:Dash ]わかってる"
+    },
+    {
+      "$id": 5,
+      "label": "fev11_190_150_msg0005",
+      "style": 84,
+      "name": "ねえ　皆\nまた村の方へ戻ってもいいかな？"
+    },
+    {
+      "$id": 6,
+      "label": "fev11_190_150_msg0006",
+      "style": 84,
+      "name": "何か気になるのか？"
+    },
+    {
+      "$id": 7,
+      "label": "fev11_190_150_msg0007",
+      "style": 84,
+      "name": "そういうわけじゃないんだけど[ML:Dash ]"
+    },
+    {
+      "$id": 8,
+      "label": "fev11_190_150_msg0008",
+      "style": 84,
+      "name": "母さん以外のお墓にも\n何か供えてあげられるもの\nないかなって[ML:Dash ]"
+    },
+    {
+      "$id": 9,
+      "label": "fev11_190_150_msg0009",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]みんな焼き払われてしまったのに[ML:Dash ]"
+    },
+    {
+      "$id": 10,
+      "label": "fev11_190_150_msg0010",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]さっき、何も見つからなかったのに[ML:Dash ]"
+    },
+    {
+      "$id": 11,
+      "label": "fev11_190_150_msg0011",
+      "style": 84,
+      "name": "…………"
+    },
+    {
+      "$id": 12,
+      "label": "fev11_190_150_msg0012",
+      "style": 84,
+      "name": "わかった　皆で探してみよう"
+    },
+    {
+      "$id": 13,
+      "label": "fev11_190_150_msg0013",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]それで君の気がすむのなら[ML:Dash ]"
+    }
+  ]
+}

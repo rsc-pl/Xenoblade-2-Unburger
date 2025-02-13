@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn024_msg0001",
+      "style": 84,
+      "name": "Hey, Gramps. There's something\nI'd like to talk to you about."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn024_msg0002",
+      "style": 84,
+      "name": "Of course, Rex. You know I'm\nalways willing to lend you an ear."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn024_msg0003",
+      "style": 84,
+      "name": "OK! Let's go to the Canyon of Husks\nat Spirit Crucible Elpys and I'll tell you\nall about it!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn024_msg0004",
+      "style": 84,
+      "name": "Oh... Seems an awfully\nlong way to go..."
+    }
+  ]
+}

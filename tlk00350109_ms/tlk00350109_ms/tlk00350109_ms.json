@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00350109_msg0001",
+      "style": 84,
+      "name": "Glad you and Yew managed to find\na decent person for the job!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00350109_msg0002",
+      "style": 84,
+      "name": "I can tell you put a lot of thought into\npicking that particular candidate!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02110100_0010",
+      "style": 82,
+      "name": "So, this is Trigo..."
+    },
+    {
+      "$id": 2,
+      "label": "bf02110100_0020",
+      "style": 82,
+      "name": "It hasn't changed a bit."
+    },
+    {
+      "$id": 3,
+      "label": "bf02110100_0030",
+      "style": 82,
+      "name": "Nia?"
+    },
+    {
+      "$id": 4,
+      "label": "bf02110100_0040",
+      "style": 82,
+      "name": "It's nothing."
+    },
+    {
+      "$id": 5,
+      "label": "bf02110100_0050",
+      "style": 82,
+      "name": "OK then. I'll show you to an inn.\nThen I'm out of here."
+    }
+  ]
+}

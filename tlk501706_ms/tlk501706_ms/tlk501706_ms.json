@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501706_msg0001",
+      "style": 84,
+      "name": "Working in here, I hear all sorts of\ninteresting tidbits from tourists,\nrefugees, and the clergy alike."
+    },
+    {
+      "$id": 2,
+      "label": "qst501706_msg0002",
+      "style": 84,
+      "name": "Now, what would you like to know?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001001_07_msg0001",
+      "style": 84,
+      "name": "Thank you...all of you. Not as emperor,\nbut as myself, as a person."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001001_07_msg0002",
+      "style": 84,
+      "name": "Thank you for taking Special\nInquisitor Meleph..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001001_07_msg0003",
+      "style": 84,
+      "name": "No... Thank you for taking my sister\nwith you on your journey."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001001_07_msg0004",
+      "style": 84,
+      "name": "I entrust the future of Alst to you.\nAnd I hope you will continue to keep\nmy sister under your wing till the end."
+    },
+    {
+      "$id": 5,
+      "label": "tlk001001_07_msg0005",
+      "style": 84,
+      "name": "Dear sister...\nI'll take care of our country."
+    },
+    {
+      "$id": 6,
+      "label": "tlk001001_07_msg0006",
+      "style": 84,
+      "name": "Go with the Holy Grail and Rex.\nHelp them save Alst."
+    },
+    {
+      "$id": 7,
+      "label": "tlk001001_07_msg0007",
+      "style": 84,
+      "name": "When peace is finally restored,\nI'd very much like to hear your\ntales of adventure."
+    }
+  ]
+}

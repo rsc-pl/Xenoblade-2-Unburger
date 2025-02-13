@@ -1,0 +1,438 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk052_msg0001",
+      "style": 84,
+      "name": "Ahahah. Ahh, this is the life. The wind\non your face, the air in your lungs..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk052_msg0002",
+      "style": 84,
+      "name": "It feels like freedom! This kind of place\nmakes you glad to be alive."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk052_msg0003",
+      "style": 84,
+      "name": "What are you saying? You talk like you\naren't always free to do as you please."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk052_msg0004",
+      "style": 84,
+      "name": "Hissss! Issss something wrong with your\neyes? Does this look like freedom\nto you?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk052_msg0005",
+      "style": 84,
+      "name": "Following a group of brats and Nopon\nlike a teacher on a school outing?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk052_msg0006",
+      "style": 84,
+      "name": "You do it because you like them, right?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk052_msg0007",
+      "style": 84,
+      "name": "*cackle* LIKE them?\nI do it because I have no choice!"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk052_msg0008",
+      "style": 84,
+      "name": "Gahaha!"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk052_msg0009",
+      "style": 84,
+      "name": "You seem to enjoy it anyway!"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk052_msg0010",
+      "style": 84,
+      "name": "Maybe something IS\nwrong with your eyes!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk052_msg0011",
+      "style": 84,
+      "name": "You're pretty talkative today, Zantetsu."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk052_msg0012",
+      "style": 84,
+      "name": "You're talkative today, Zantetsu."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk052_msg0013",
+      "style": 84,
+      "name": "You're rather talkative today, Zantetsu."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk052_msg0014",
+      "style": 84,
+      "name": "You're jolly talkative today, Zantetsu."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk052_msg0015",
+      "style": 84,
+      "name": "You think? Hehe...\nI suppose I'm just in a good mood."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk052_msg0016",
+      "style": 84,
+      "name": "Talkative or not, I'm always keeping\na watchful eye over everyone."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk052_msg0017",
+      "style": 84,
+      "name": "Hah, good one! More like you're\nalways wandering around doing\nyour own thing!"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk052_msg0018",
+      "style": 84,
+      "name": "You've always got something to\nshout back at me, haven't you?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk052_msg0019",
+      "style": 84,
+      "name": "Waaah!"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk052_msg0020",
+      "style": 165,
+      "name": "Let's ask Zantetsu something."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk052_msg0021",
+      "style": 164,
+      "name": "Do you dislike having to\nworry about others?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk052_msg0022",
+      "style": 164,
+      "name": "Why do you prefer being alone?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk052_msg0023",
+      "style": 165,
+      "name": "Let's ask Zantetsu something."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk052_msg0024",
+      "style": 164,
+      "name": "Do you hate being around us?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk052_msg0025",
+      "style": 164,
+      "name": "Why do you prefer being alone?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk052_msg0026",
+      "style": 165,
+      "name": "Let's ask Zantetsu something."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk052_msg0027",
+      "style": 164,
+      "name": "Do you hate caring for others?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk052_msg0028",
+      "style": 164,
+      "name": "Why do you prefer your own company?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk052_msg0029",
+      "style": 165,
+      "name": "Let's ask Zantetsu something."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk052_msg0030",
+      "style": 164,
+      "name": "Do you just hate other people?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk052_msg0031",
+      "style": 164,
+      "name": "Why d'you like doing your own thing?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk052_msg0101",
+      "style": 84,
+      "name": "Hmph, well to be honest I've never\nliked being part of a large group."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk052_msg0102",
+      "style": 84,
+      "name": "Others are just an unnecessary burden."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk052_msg0103",
+      "style": 84,
+      "name": "So we should just leave you behind?\nYou'd be lost without us, admit it!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk052_msg0104",
+      "style": 84,
+      "name": "It's important that your Driver\nbe able to keep an eye on you."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk052_msg0105",
+      "style": 84,
+      "name": "How rude... Jerk."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk052_msg0106",
+      "style": 84,
+      "name": "Why don't we leave YOU behind? I'm\nsure it would be fun to watch you rage."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk052_msg0107",
+      "style": 84,
+      "name": "Waaaah!\nYou wouldn't do that!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk052_msg0108",
+      "style": 84,
+      "name": "Ahaha, you guys argue so much\nbut I can tell you're good friends."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk052_msg0109",
+      "style": 84,
+      "name": "Ahaha, you guys argue so much\nbut I can tell you're good friends."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk052_msg0110",
+      "style": 84,
+      "name": "Heh, you guys argue so much\nbut in truth you're good friends."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk052_msg0111",
+      "style": 84,
+      "name": "You fellas argue so much, but you're\nreally good friends, aren't ya?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk052_msg0112",
+      "style": 84,
+      "name": "What?\nAre you serious?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk052_msg0113",
+      "style": 84,
+      "name": "This oaf is no friend of mine!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk052_msg0114",
+      "style": 84,
+      "name": "At least we agree on something! I'd\nrather be friends with an Igna!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk052_msg0115",
+      "style": 84,
+      "name": "Yeah? You're one to talk, you\nGogol-faced buffoon!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk052_msg0116",
+      "style": 84,
+      "name": "Waaaah!\nI'm stronger than a Gogol!"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk052_msg0117",
+      "style": 84,
+      "name": "Oh. Whatever you say."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk052_msg0118",
+      "style": 84,
+      "name": "At any rate, I'm just going to\ncontinue doing as I please."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk052_msg0119",
+      "style": 84,
+      "name": "As long as I find this place tolerable,\nI'll keep on lending my services to you."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk052_msg0120",
+      "style": 84,
+      "name": "I expect the same from you, Driver."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk052_msg0201",
+      "style": 84,
+      "name": "Alone is just easier.\nNobody to burden you."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk052_msg0202",
+      "style": 84,
+      "name": "Besides, the phrase \"lone wolf\"\nhas something of a ring to it."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk052_msg0203",
+      "style": 84,
+      "name": "You're a Blade, though.\nYou can't just survive\non your own like that."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk052_msg0204",
+      "style": 84,
+      "name": "You don't think I know that?"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk052_msg0205",
+      "style": 84,
+      "name": "Do you feel like we're\nholding you back?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk052_msg0206",
+      "style": 84,
+      "name": "So you feel like we're\njust holding you back."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk052_msg0207",
+      "style": 84,
+      "name": "You mean to say that we\nare just holding you back?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk052_msg0208",
+      "style": 84,
+      "name": "What, so we're just holding you back?"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk052_msg0209",
+      "style": 84,
+      "name": "Hmm?\nNo, not at all!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk052_msg0210",
+      "style": 84,
+      "name": "No need to go cry about it."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk052_msg0211",
+      "style": 84,
+      "name": "It's all fine. I don't have any particular\nobjection to being around you."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk052_msg0212",
+      "style": 84,
+      "name": "And I certainly don't feel held back."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk052_msg0213",
+      "style": 84,
+      "name": "If anything, it's rather enjoyable...\nHehehe..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk052_msg0214",
+      "style": 84,
+      "name": "It's as Ootsuchi says.\nWithout a Driver, I\ncannot continue living."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk052_msg0215",
+      "style": 84,
+      "name": "I envy those who are able to live alone."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk052_msg0216",
+      "style": 84,
+      "name": "That's all I meant."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk052_msg0217",
+      "style": 84,
+      "name": "You don't need to concern\nyourselves over me. Got it?"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk052_msg0218",
+      "style": 84,
+      "name": "Gahaha!\nYou're a character, Zantetsu."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk052_msg0219",
+      "style": 84,
+      "name": "Shut up, you!\nThat counts as concerning yourself!"
+    }
+  ]
+}

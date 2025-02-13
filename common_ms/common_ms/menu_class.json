@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Reduces damage taken"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Boosts damage dealt"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "HP Potion effect up"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Boosts auto-atk aggro"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Boosts Arts/Spec. aggro"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Lowers auto-atk aggro"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Lowers Arts/Spec. aggro"
+    }
+  ]
+}

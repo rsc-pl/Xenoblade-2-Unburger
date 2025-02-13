@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201623_msg0001",
+      "style": 84,
+      "name": "Friends will buy Champ's Churros\nfor benefit of friend Nanakoori, yes?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201623_msg0002",
+      "style": 84,
+      "name": "There is stall that sells them\njust outside playhouse!"
+    }
+  ]
+}

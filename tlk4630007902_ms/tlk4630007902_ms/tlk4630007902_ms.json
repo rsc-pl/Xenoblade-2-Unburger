@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300079_02_msg0001",
+      "style": 84,
+      "name": "I'm on guard duty."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300079_02_msg0002",
+      "style": 84,
+      "name": "These goods are for distribution\nto the populace."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300079_02_msg0003",
+      "style": 84,
+      "name": "There were thefts in the past.\nGoods being put on the black market."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46300079_02_msg0004",
+      "style": 84,
+      "name": "Well, that's why I'm guarding them."
+    }
+  ]
+}

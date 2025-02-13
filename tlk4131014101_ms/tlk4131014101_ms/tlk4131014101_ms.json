@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310141_01_msg0001",
+      "style": 84,
+      "name": "When you're taking on a request, first\nand foremost, you've got to consider\nthe needs of the client."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310141_01_msg0002",
+      "style": 84,
+      "name": "Especially when the livelihood of us\nmercs are dependent on the rewards\nthey give us."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310141_01_msg0003",
+      "style": 84,
+      "name": "Any time we scoff at or make fun of\nour employers, well, that'll come back\nto bite us in the behind sooner or later."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41310141_01_msg0004",
+      "style": 84,
+      "name": "Now, it may be no skin off your back,\nbut you'd do well to remember that.\nIt can't hurt playing it safe, you hear?"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320122_05_msg0001",
+      "style": 84,
+      "name": "The refugees from Acedia have arrived\nand we're doing what we can in the\nbase to deal with them."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320122_05_msg0002",
+      "style": 84,
+      "name": "From what I heard, Iira attacked\nthem with some Divine Beast-like...thing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320122_05_msg0003",
+      "style": 84,
+      "name": "Two Divine Beasts fighting each other...\nIt's the stuff of nightmares."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320122_05_msg0004",
+      "style": 84,
+      "name": "There's rumors Superbia's moved\nup near the World Tree as well..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320122_05_msg0005",
+      "style": 84,
+      "name": "I'm worried for my dad back in the\nhome country. I hope he'll agree to\nevacuate here too..."
+    }
+  ]
+}

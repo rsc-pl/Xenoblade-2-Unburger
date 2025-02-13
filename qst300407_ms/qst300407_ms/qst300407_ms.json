@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300407_msg001",
+      "style": 62,
+      "name": "副艦長とトーク"
+    },
+    {
+      "$id": 2,
+      "label": "qst300407_msg0001",
+      "style": 84,
+      "name": "What are a gaggle of civilians\ndoing aboard this vessel?"
+    },
+    {
+      "$id": 3,
+      "label": "qst300407_msg0002",
+      "style": 84,
+      "name": "A consignment from a Gulan\nmercenary?"
+    },
+    {
+      "$id": 4,
+      "label": "qst300407_msg0003",
+      "style": 84,
+      "name": "Yes, I recall Captain Saffran receiving\na package of that nature. An important\ndelivery to the homeland, he called it."
+    },
+    {
+      "$id": 5,
+      "label": "qst300407_msg0004",
+      "style": 84,
+      "name": "Well, I'm afraid he didn't specify\nas to the exact contents..."
+    },
+    {
+      "$id": 6,
+      "label": "qst300407_msg0005",
+      "style": 84,
+      "name": "But even if I knew, what good\nwould it do you when you will not\nbe leaving this room alive?"
+    },
+    {
+      "$id": 7,
+      "label": "qst300407_msg0006",
+      "style": 84,
+      "name": "En garde!"
+    }
+  ]
+}

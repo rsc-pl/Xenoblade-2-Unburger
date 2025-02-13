@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst500205_msg0001",
+      "style": 84,
+      "name": "Meh-meh-meh?! Foorara knew\nfriends would find Foorara!"
+    },
+    {
+      "$id": 2,
+      "label": "qst500205_msg0002",
+      "style": 84,
+      "name": "Foorara wanted to meet nice Emperor,\nso went into throne room with no\npermission, but got chased by soldiers!"
+    },
+    {
+      "$id": 3,
+      "label": "qst500205_msg0003",
+      "style": 84,
+      "name": "Foorara OK now though!"
+    },
+    {
+      "$id": 4,
+      "label": "qst500205_msg0004",
+      "style": 84,
+      "name": "Had enough of being chased though.\nFoorara want to go back to Invidia cave\nand snuggle up eating mushrooms..."
+    },
+    {
+      "$id": 5,
+      "label": "qst500205_msg0005",
+      "style": 84,
+      "name": "But Voltis Trade Guild Walky-Walky\nGuide Book say, Walky-Walky Nopon\nmust not go to same place twice!"
+    },
+    {
+      "$id": 6,
+      "label": "qst500205_msg0006",
+      "style": 84,
+      "name": "Is sad, but Foorara have to look for\ndifferent cave to snuggle up instead."
+    },
+    {
+      "$id": 7,
+      "label": "qst500205_msg0007",
+      "style": 84,
+      "name": "Anyway, maybe we meet again.\nBest of luck!"
+    }
+  ]
+}

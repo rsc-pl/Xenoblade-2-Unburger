@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006101_05_msg0001",
+      "style": 84,
+      "name": "There's a lot of nice people here in\nAvaritia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006101_05_msg0002",
+      "style": 84,
+      "name": "I've been helping out at the docks for\na while, but Garram only recently told\nme why we have to do work like this."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006101_05_msg0003",
+      "style": 84,
+      "name": "It's so that we can get familiar with\nAvaritia, and build up our stamina\nand endurance."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006101_05_msg0004",
+      "style": 84,
+      "name": "I think I can work hard knowing that\nit's for good people. I need to return\nthe kindness they showed me."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300164_02_msg0001",
+      "style": 84,
+      "name": "Everything's the same as always here,\nbut it's like there's some great invisible\nshadow looming. I've got a bad feeling..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300164_02_msg0002",
+      "style": 84,
+      "name": "I've heard that Iira are responsible\nfor terrible wrongdoings, but do they\nhave anything to gain by coming here?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300164_02_msg0003",
+      "style": 84,
+      "name": "There are no soldiers here. We can't\nfight them like Superbia. All we can\ndo now is pray to the Village Guardian..."
+    }
+  ]
+}

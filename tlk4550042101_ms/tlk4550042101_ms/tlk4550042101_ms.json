@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500421_01_msg0001",
+      "style": 84,
+      "name": "And who might you be, hmm?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500421_01_msg0002",
+      "style": 84,
+      "name": "From the looks of you... You must be\nhere to ask my advice, I suppose?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500421_01_msg0003",
+      "style": 84,
+      "name": "I see, I see... Must've gotten\nthe wrong end of the stick."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500421_01_msg0004",
+      "style": 84,
+      "name": "Drivers often come to me asking\nfor advice on their work, you know."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45500421_01_msg0005",
+      "style": 84,
+      "name": "I'm retired now - age does take its\ntoll - but I had quite the career as\na Driver myself, you see."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45500421_01_msg0006",
+      "style": 84,
+      "name": "Though at this point, I'm no different\nfrom any other old man living out my\nremaining days in peace."
+    }
+  ]
+}

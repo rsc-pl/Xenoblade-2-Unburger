@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00000594_01_msg0001",
+      "style": 84,
+      "name": "This looks like...a water tower?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00000594_01_msg0002",
+      "style": 84,
+      "name": "Maybe this place used to be covered\nin trees and flowers like Gula..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00000594_01_msg0101",
+      "style": 84,
+      "name": "This is a water tower, right?\nWhat's one of those doing here?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00000594_01_msg0201",
+      "style": 84,
+      "name": "Tora seen tower like this in Gula!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk00000594_01_msg0202",
+      "style": 84,
+      "name": "Was Eden like Gula\nlong time ago?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk00000594_01_msg0301",
+      "style": 84,
+      "name": "I suppose the people of Eden\nstored their water supply in towers,\njust like we do ourselves."
+    },
+    {
+      "$id": 7,
+      "label": "tlk00000594_01_msg0302",
+      "style": 84,
+      "name": "Perhaps our societies were not as\ndifferent as they might seem."
+    },
+    {
+      "$id": 8,
+      "label": "tlk00000594_01_msg0401",
+      "style": 84,
+      "name": "If it was in Alst, I'd say this was\nfor storing water..."
+    },
+    {
+      "$id": 9,
+      "label": "tlk00000594_01_msg0402",
+      "style": 84,
+      "name": "But who knows what the people\nliving here might've stored in it."
+    }
+  ]
+}

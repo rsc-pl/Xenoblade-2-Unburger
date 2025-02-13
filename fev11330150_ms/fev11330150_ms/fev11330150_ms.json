@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_330_150_msg0001",
+      "style": 84,
+      "name": "ラウラ[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "fev11_330_150_msg0002",
+      "style": 84,
+      "name": "…………"
+    },
+    {
+      "$id": 3,
+      "label": "fev11_330_150_msg0003",
+      "style": 84,
+      "name": "あんなアデル　初めて見た[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_330_150_msg0004",
+      "style": 84,
+      "name": "一人にしてあげた方がいいのかな[ML:Dash ]？"
+    },
+    {
+      "$id": 5,
+      "label": "fev11_330_150_msg0005",
+      "style": 84,
+      "name": "好きにするといい\n俺はついていくだけだ"
+    },
+    {
+      "$id": 6,
+      "label": "fev11_330_150_msg0006",
+      "style": 84,
+      "name": "うん[ML:Dash ]"
+    },
+    {
+      "$id": 7,
+      "label": "fev11_330_150_msg0007",
+      "style": 84,
+      "name": "やっぱりほっとけない\nアデルを追いかけよう"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300083_02_msg0001",
+      "style": 84,
+      "name": "Have you heard? They say that\nthe Luxurian royals are not, after\nall, descended from Adel..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300083_02_msg0002",
+      "style": 84,
+      "name": "I was using talk of our Addamite\nhistory and this castle's solidity\nto try and win over this girl..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300083_02_msg0003",
+      "style": 84,
+      "name": "But when she told me about the\ndescendant thing, it was my heart's\nmighty ramparts that crumbled away..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300083_02_msg0004",
+      "style": 84,
+      "name": "Though I'm rather pleased she even\nspoke to me at all! My ramparts will\nbe soaring again in no time."
+    }
+  ]
+}

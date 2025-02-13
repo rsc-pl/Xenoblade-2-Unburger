@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202208_msg001",
+      "style": 84,
+      "name": "Excuse me, can I ask you something?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202208_msg002",
+      "style": 84,
+      "name": "Meh?! What you want?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202208_msg003",
+      "style": 84,
+      "name": "B-b-buzzy-buzzy Blade?!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202208_msg004",
+      "style": 84,
+      "name": "Huh?!"
+    },
+    {
+      "$id": 5,
+      "label": "qst202208_msg005",
+      "style": 84,
+      "name": "N-n-no! Not touch buzzy-buzzy!\nHate buzzy-buzzy!"
+    },
+    {
+      "$id": 6,
+      "label": "qst202208_msg006",
+      "style": 84,
+      "name": "Oh, don't worry! I'm not gonna zap\nyou, I just wanted to-"
+    },
+    {
+      "$id": 7,
+      "label": "qst202208_msg007",
+      "style": 84,
+      "name": "Meh-meh? ...No! Not come any closer!\nKeep buzzy-buzzy away!"
+    },
+    {
+      "$id": 8,
+      "label": "qst202208_msg008",
+      "style": 84,
+      "name": "I think we should probably ask\nsomeone else..."
+    },
+    {
+      "$id": 9,
+      "label": "qst202208_msg009",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 10,
+      "label": "qst202208_msg010",
+      "style": 84,
+      "name": "Don't let it bother you, Raiko."
+    },
+    {
+      "$id": 11,
+      "label": "qst202208_msg011",
+      "style": 84,
+      "name": "We're sure to find someone who'll\nunderstand the efforts you went to\neventually."
+    },
+    {
+      "$id": 12,
+      "label": "qst202208_msg012",
+      "style": 84,
+      "name": "Right... Yeah. I'll keep trying!"
+    }
+  ]
+}

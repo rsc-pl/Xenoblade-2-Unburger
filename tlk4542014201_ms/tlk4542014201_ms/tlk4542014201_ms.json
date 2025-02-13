@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4542014201_ms",
+      "style": 84,
+      "name": "Vandham would have told Nicc\nto stay too. I'm sure of it.\nYou made the right choice."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4542014201_ms_00",
+      "style": 84,
+      "name": "I'm sure Jelved will be able to\nunderstand too, someday."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4542014201_ms_01",
+      "style": 84,
+      "name": "He just needs to do a bit more\ngrowing up. Nobody can live a perfect\nlife, unless they're some kind of god."
+    }
+  ]
+}

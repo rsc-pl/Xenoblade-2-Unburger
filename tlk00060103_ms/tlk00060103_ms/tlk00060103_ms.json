@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000601_03_msg0001",
+      "style": 84,
+      "name": "Remember, any time grandson of\nProfessor Senzo in need of helping\nhand, use hand of Muimui."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000601_03_msg0002",
+      "style": 84,
+      "name": "In meantime, Muimui search for clues\nthat might help with finding of Kiku."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000601_03_msg0003",
+      "style": 84,
+      "name": "Swear on life of Muimui, I will find\nProfessor Tatezo!"
+    }
+  ]
+}

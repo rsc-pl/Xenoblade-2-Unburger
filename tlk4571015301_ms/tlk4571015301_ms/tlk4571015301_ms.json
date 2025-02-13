@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45710153_01_msg0001",
+      "style": 84,
+      "name": "Hmm? Have we met somewhere\nbefore, perhaps?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45710153_01_msg0002",
+      "style": 84,
+      "name": "Ah, the Chairman's office in Goldmund.\nOf course, of course..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45710153_01_msg0003",
+      "style": 84,
+      "name": "This is where I grew up, you know.\nI came back briefly to take care of\na small work-related matter..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45710153_01_msg0004",
+      "style": 84,
+      "name": "And now that's all sorted, I'm enjoying\na sweet moment's rest."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45710153_01_msg0005",
+      "style": 84,
+      "name": "I wouldn't recommend you stray too\nclose to Hadashal Palace, by the way.\nIt's just across that bridge there."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45710153_01_msg0006",
+      "style": 84,
+      "name": "If you're lucky, you'd get turned away\nby the guards. If you're unlucky, you\nmight wind up in a cell."
+    }
+  ]
+}

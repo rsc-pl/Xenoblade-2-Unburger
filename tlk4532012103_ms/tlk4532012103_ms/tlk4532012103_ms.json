@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320121_03_msg0001",
+      "style": 84,
+      "name": "As a Driver scout, I do worry about the\nwelfare of our young recruits!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320121_03_msg0002",
+      "style": 84,
+      "name": "There was a lad who enrolled just\nthe other day, in fact."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320121_03_msg0003",
+      "style": 84,
+      "name": "Jac, I think his name was."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320121_03_msg0004",
+      "style": 84,
+      "name": "Said he wanted to become a Driver\nto help out his siblings. That's some\npassion for you!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320121_03_msg0005",
+      "style": 84,
+      "name": "I hope life's treating him well in\nSuperbia..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103402_msg0001",
+      "style": 84,
+      "name": "Master Akatsuki, these people are..."
+    },
+    {
+      "$id": 2,
+      "label": "qst103402_msg0002",
+      "style": 84,
+      "name": "Ah, the ones who interfered\nwith our recent operation."
+    },
+    {
+      "$id": 3,
+      "label": "qst103402_msg0003",
+      "style": 84,
+      "name": "Well, everyone! It seems the Empire\nhas sent warriors to deal with us!"
+    },
+    {
+      "$id": 4,
+      "label": "qst103402_msg0004",
+      "style": 84,
+      "name": "Let us show them that Brionac\nwill not be so easily felled!"
+    }
+  ]
+}

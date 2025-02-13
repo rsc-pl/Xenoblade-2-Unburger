@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000205_msg001",
+      "style": 84,
+      "name": "Everyone here now!"
+    },
+    {
+      "$id": 2,
+      "label": "qst000205_msg002",
+      "style": 84,
+      "name": "Friend find Talulu already?"
+    },
+    {
+      "$id": 3,
+      "label": "qst000205_msg003",
+      "style": 84,
+      "name": "Yes...\nFriend is hide-'n'-seek genius."
+    },
+    {
+      "$id": 4,
+      "label": "qst000205_msg004",
+      "style": 84,
+      "name": "Hear hear!"
+    },
+    {
+      "$id": 5,
+      "label": "qst000205_msg015",
+      "style": 84,
+      "name": "Anyhow, thank friend for playing!"
+    },
+    {
+      "$id": 6,
+      "label": "qst000205_msg005",
+      "style": 84,
+      "name": "Mmeh?\nAft, have to say thank you!"
+    },
+    {
+      "$id": 7,
+      "label": "qst000205_msg006",
+      "style": 84,
+      "name": "Yeah, yeah, I was gonna!\nThanks for playing."
+    },
+    {
+      "$id": 8,
+      "label": "qst000205_msg007",
+      "style": 84,
+      "name": "My parents are both too busy\nto play with me, ever..."
+    },
+    {
+      "$id": 9,
+      "label": "qst000205_msg008",
+      "style": 84,
+      "name": "But today was real fun! Really,\nthanks a lot for playing with us!"
+    },
+    {
+      "$id": 10,
+      "label": "qst000205_msg009",
+      "style": 84,
+      "name": "You can come play with us anytime!"
+    },
+    {
+      "$id": 11,
+      "label": "qst000205_msg010",
+      "style": 84,
+      "name": "Um... Here is thank-you gift from\nSnikisniki and friends."
+    },
+    {
+      "$id": 12,
+      "label": "qst000205_msg011",
+      "style": 84,
+      "name": "It like scrap of treasure for us!"
+    },
+    {
+      "$id": 13,
+      "label": "qst000205_msg012",
+      "style": 84,
+      "name": "Or maybe it just scrap.\nAnyhoo, please take!"
+    },
+    {
+      "$id": 14,
+      "label": "qst000205_msg013",
+      "style": 84,
+      "name": "All right then, I guess you've got\nplaces to go?"
+    },
+    {
+      "$id": 15,
+      "label": "qst000205_msg014",
+      "style": 84,
+      "name": "Come and play again!\nSee you around!"
+    }
+  ]
+}

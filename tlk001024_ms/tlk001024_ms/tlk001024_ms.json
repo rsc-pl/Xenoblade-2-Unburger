@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001024_msg0001",
+      "style": 84,
+      "name": "You seem awfully quiet.\nDid you get seasick or something?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001024_msg0002",
+      "style": 84,
+      "name": "Course I'm not seasick!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001024_msg0003",
+      "style": 84,
+      "name": "I'm just...not used to ships with this\nmany salvagers on, that's all!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001024_msg0004",
+      "style": 84,
+      "name": "Well, if it's wearing you out now,\nyou'll be a wreck by the time we\nreach our destination."
+    },
+    {
+      "$id": 5,
+      "label": "tlk0001024_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]I can handle myself, all right?!"
+    }
+  ]
+}

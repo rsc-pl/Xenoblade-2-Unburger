@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001801_05_msg0001",
+      "style": 84,
+      "name": "Now that Kiku all good and fixed,\nTatezo pondering what to do next."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001801_05_msg0002",
+      "style": 84,
+      "name": "Should maybe improve Kiku more?\nOr work on power up for Hana?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001801_05_msg0003",
+      "style": 84,
+      "name": "Too many enticing options!"
+    }
+  ]
+}

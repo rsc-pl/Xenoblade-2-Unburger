@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06040100_0010",
+      "style": 82,
+      "name": "What's the deal with this ceasefire?"
+    },
+    {
+      "$id": 2,
+      "label": "bf06040100_0020",
+      "style": 82,
+      "name": "A tribunal, it looks like.\nHis Holiness Marveni is here in person."
+    },
+    {
+      "$id": 3,
+      "label": "bf06040100_0030",
+      "style": 82,
+      "name": "It's not like you can just ignore him, yeah?"
+    },
+    {
+      "$id": 4,
+      "label": "bf06040100_0040",
+      "style": 82,
+      "name": "Does he have any clue how many men we lost...?!"
+    },
+    {
+      "$id": 5,
+      "label": "bf06040100_0045",
+      "style": 82,
+      "name": "If those Superbians get away with this...\nShit!"
+    },
+    {
+      "$id": 6,
+      "label": "bf06040100_0050",
+      "style": 82,
+      "name": "Quit yer grumblin', mate. All this is way\nbeyond our pay grade."
+    },
+    {
+      "$id": 7,
+      "label": "bf06040100_0060",
+      "style": 82,
+      "name": "You got that right. We're all just faceless cannon fodder to the\nbigwigs. CO says jump, we jump."
+    }
+  ]
+}

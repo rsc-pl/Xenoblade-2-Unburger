@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104716_msg001",
+      "style": 62,
+      "name": "外のモンスターは大丈夫か？(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104716_msg101",
+      "style": 62,
+      "name": "ありがとう助かったよ(仮)"
+    }
+  ]
+}

@@ -1,0 +1,1364 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Reflex Response"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Rapid Attack III"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Picture of Health"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Lively Lad"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Topple Champ"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Fight or Flight"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Eyes on the Prize"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Combat Boost"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Child of Steel"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Relentless Spirit"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Rapid Attack I"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Muscle Builder"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Combo Enhance"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Arts Chain"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Drive to Win"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Shadow Strike"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Prediction"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Inherit Muscle"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Pre-empt Moves"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Heart Recharge"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Ether Studies"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Rescue"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Gramps' Blessing"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Rapid Attack II"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Ultimate Relay"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Further Ether Studies"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Cheer Up"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Herbalism"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Solidarity"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Gramps' Auspices"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Catgirl"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Big Cat"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Feral Awakening III"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Natural Selection"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Hard Hitter"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Focused Technique"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Wild Life"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Tigergirl"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Sore Loser"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Adrenaline"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Kinetic Vision"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Feral Awakening II"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Tooth and Claw"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Panther Pounce"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Bestial Pursuit"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Lithe Strength"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Tiger's Eye"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Transmit Power"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Bear Knuckles"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Road to Victory"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Soothing Hand"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Ether Talent"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Herb Synthesis"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Mutual Happiness"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Feral Awakening I"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Chance Recovery"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Lucky Cat"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Cheer Leader"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Inner Strength"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Lady of Luck"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Raring to Go I"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Spongy Bod"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Health Bomb"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Super Spongy Bod"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "Grin and Bear It"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Keen Recovery"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Restless Foot"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Nopon Topple Arts"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Look Over There!"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Super Restless Foot"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Good With Hands"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Raring to Go III"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Tiger Muscles"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Nopon Chain Arts"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Crazy With Hands"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Forced Initiative"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Nopon Chain Boost"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Inherit Protein"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Hana Care"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Mood Maker"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Luckypon"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Placebo"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Raring to Go II"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Double-Luckypon"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Rapture"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Nopon Rescue Service"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Hidden Talent"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Hope for the Best"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Team Mascot"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Burgeoning Talent...?"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Tough Nut"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Veteran"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Guardian"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Muscle Accelerator II"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Last Man Standing"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Power Lift"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Quick Muscles"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Recuperation"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Pumped Dodge"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Physical Fitness"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "10,000 Push-Ups"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Burly Chain"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Muscle Accelerator I"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Beefcake Flurry"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Elite Muscles"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Knack for Battle"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "Anything for a Mate"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "Dependable Guy"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Honed to Perfection"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "World's Strongest Man"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Ether Power"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Muscle Accelerator III"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Big Strong Hands"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Ether Muscle"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Serious Recovery"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Thank the Heavens"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Booming Aid"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Buff Buff"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Higher Powers"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Greatest Work"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Imperial Footwork"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Basic Discipline"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Initiative I"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Martial Prowess"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Ultimate Footwork"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Instant Chain"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Survival Training"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Warrior's Resolve"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Life's Flow"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Imperial Pride"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Arts Relay"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Initiative II"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Vigilance"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Physical Discipline"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Imperial Pursuit"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Silent Bloodshed"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Blade Alliance"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Cool Focus"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Battle Stance"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Legendary Skill"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Etherology"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Alchemy"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Charmed Life"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Imperial First Aid"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Initiative III"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Inspiration"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Ultimate Etherology"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Divination"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Cheer Master"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Golden Opportunity"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Adamant Heart"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Flash Step"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Mach Prep II"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Critical Pro"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Air Extender"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Natural Healing"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "Heart of Gold"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Zeal Heal"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Fleetfoot Flit"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Second Wind"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Mach Prep I"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Brawn over Brain"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Camaraderie"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Herculean Strength"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "Move Chaining"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "Fiendish Pursuit"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "Professional Hit"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "Hotshot Hit"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "Obsidian Slash"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "A Hero's Work"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Lucky Duck"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Ether Prodigy"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Luxuria Courage"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Mach Prep III"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Histrionic Hero"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Ether Autarch"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "Medicinal Maestro"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Unleash Shining Justice"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Raucous Cheer"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "As One"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "Honed Reflexes"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Miles Ahead II"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "Superhealing"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Survival Instinct"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Break Specialist"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Circular Breathing"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Expert's Abandon"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Show of Courage"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Girl Unbreakable"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Fearless"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Miles Ahead I"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Strong and Supple"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Packs a Punch"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Quickfire Combo"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Will to Excel"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Silent Striker"
+    },
+    {
+      "$id": 197,
+      "style": 36,
+      "name": "Goal-Oriented"
+    },
+    {
+      "$id": 198,
+      "style": 36,
+      "name": "One Mighty Gal"
+    },
+    {
+      "$id": 199,
+      "style": 36,
+      "name": "Dead Certain"
+    },
+    {
+      "$id": 200,
+      "style": 36,
+      "name": "Deep Bond"
+    },
+    {
+      "$id": 201,
+      "style": 36,
+      "name": "Mountain Ascetic"
+    },
+    {
+      "$id": 202,
+      "style": 36,
+      "name": "Certified First-Aider"
+    },
+    {
+      "$id": 203,
+      "style": 36,
+      "name": "Protective Charm"
+    },
+    {
+      "$id": 204,
+      "style": 36,
+      "name": "Miles Ahead III"
+    },
+    {
+      "$id": 205,
+      "style": 36,
+      "name": "Breaking Waves"
+    },
+    {
+      "$id": 206,
+      "style": 36,
+      "name": "Cascade"
+    },
+    {
+      "$id": 207,
+      "style": 36,
+      "name": "For One and All"
+    },
+    {
+      "$id": 208,
+      "style": 36,
+      "name": "Overanalysis"
+    },
+    {
+      "$id": 209,
+      "style": 36,
+      "name": "Solidarity"
+    },
+    {
+      "$id": 210,
+      "style": 36,
+      "name": "Impregnable Charm"
+    },
+    {
+      "$id": 211,
+      "style": 36,
+      "name": "Hard as an Ardun"
+    },
+    {
+      "$id": 212,
+      "style": 36,
+      "name": "Smell Trouble"
+    },
+    {
+      "$id": 213,
+      "style": 36,
+      "name": "First Strike II"
+    },
+    {
+      "$id": 214,
+      "style": 36,
+      "name": "Skyrender"
+    },
+    {
+      "$id": 215,
+      "style": 36,
+      "name": "Perfect Poise"
+    },
+    {
+      "$id": 216,
+      "style": 36,
+      "name": "Lease of Life"
+    },
+    {
+      "$id": 217,
+      "style": 36,
+      "name": "Ironclad"
+    },
+    {
+      "$id": 218,
+      "style": 36,
+      "name": "Irresistible Force"
+    },
+    {
+      "$id": 219,
+      "style": 36,
+      "name": "Fleet of Foot"
+    },
+    {
+      "$id": 220,
+      "style": 36,
+      "name": "Dragonsblood"
+    },
+    {
+      "$id": 221,
+      "style": 36,
+      "name": "First Strike I"
+    },
+    {
+      "$id": 222,
+      "style": 36,
+      "name": "Bulking Up"
+    },
+    {
+      "$id": 223,
+      "style": 36,
+      "name": "Bonds of Friendship"
+    },
+    {
+      "$id": 224,
+      "style": 36,
+      "name": "Arts Chain"
+    },
+    {
+      "$id": 225,
+      "style": 36,
+      "name": "Dog of War"
+    },
+    {
+      "$id": 226,
+      "style": 36,
+      "name": "Merciless Pursuit"
+    },
+    {
+      "$id": 227,
+      "style": 36,
+      "name": "Swordsmanship"
+    },
+    {
+      "$id": 228,
+      "style": 36,
+      "name": "One with the Sword"
+    },
+    {
+      "$id": 229,
+      "style": 36,
+      "name": "Quick on the Draw"
+    },
+    {
+      "$id": 230,
+      "style": 36,
+      "name": "Our Leader"
+    },
+    {
+      "$id": 231,
+      "style": 36,
+      "name": "Naturally Gifted"
+    },
+    {
+      "$id": 232,
+      "style": 36,
+      "name": "Inner Strength"
+    },
+    {
+      "$id": 233,
+      "style": 36,
+      "name": "Lionheart"
+    },
+    {
+      "$id": 234,
+      "style": 36,
+      "name": "First Strike III"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Opportunist"
+    },
+    {
+      "$id": 236,
+      "style": 36,
+      "name": "New Heights"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Pharmacology"
+    },
+    {
+      "$id": 238,
+      "style": 36,
+      "name": "Phenomenal Talent"
+    },
+    {
+      "$id": 239,
+      "style": 36,
+      "name": "Battle Affinity"
+    },
+    {
+      "$id": 240,
+      "style": 36,
+      "name": "Frontliner"
+    },
+    {
+      "$id": 241,
+      "style": 36,
+      "name": "Survival Training"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "Basic Discipline"
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Initiative II"
+    },
+    {
+      "$id": 244,
+      "style": 36,
+      "name": "Expert Duelist"
+    },
+    {
+      "$id": 245,
+      "style": 36,
+      "name": "Advanced Survivalist"
+    },
+    {
+      "$id": 246,
+      "style": 36,
+      "name": "Faster than the Eye"
+    },
+    {
+      "$id": 247,
+      "style": 36,
+      "name": "Imperial Footwork"
+    },
+    {
+      "$id": 248,
+      "style": 36,
+      "name": "Ultimate Footwork"
+    },
+    {
+      "$id": 249,
+      "style": 36,
+      "name": "Controlled Breathing"
+    },
+    {
+      "$id": 250,
+      "style": 36,
+      "name": "Imperial Pride"
+    },
+    {
+      "$id": 251,
+      "style": 36,
+      "name": "Initiative I"
+    },
+    {
+      "$id": 252,
+      "style": 36,
+      "name": "Vigilance"
+    },
+    {
+      "$id": 253,
+      "style": 36,
+      "name": "Arts Relay"
+    },
+    {
+      "$id": 254,
+      "style": 36,
+      "name": "Physical Discipline"
+    },
+    {
+      "$id": 255,
+      "style": 36,
+      "name": "Imperial Pursuit"
+    },
+    {
+      "$id": 256,
+      "style": 36,
+      "name": "Silent Bloodshed"
+    },
+    {
+      "$id": 257,
+      "style": 36,
+      "name": "Martial Driver Arts"
+    },
+    {
+      "$id": 258,
+      "style": 36,
+      "name": "Cool Focus"
+    },
+    {
+      "$id": 259,
+      "style": 36,
+      "name": "Ultimate Discipline"
+    },
+    {
+      "$id": 260,
+      "style": 36,
+      "name": "Legendary Skill"
+    },
+    {
+      "$id": 261,
+      "style": 36,
+      "name": "Etherology"
+    },
+    {
+      "$id": 262,
+      "style": 36,
+      "name": "Power of the People"
+    },
+    {
+      "$id": 263,
+      "style": 36,
+      "name": "Imperial First Aid"
+    },
+    {
+      "$id": 264,
+      "style": 36,
+      "name": "Initiative III"
+    },
+    {
+      "$id": 265,
+      "style": 36,
+      "name": "Inspiration"
+    },
+    {
+      "$id": 266,
+      "style": 36,
+      "name": "Alchemy"
+    },
+    {
+      "$id": 267,
+      "style": 36,
+      "name": "Ultimate Etherology"
+    },
+    {
+      "$id": 268,
+      "style": 36,
+      "name": "Ancestral Protection"
+    },
+    {
+      "$id": 269,
+      "style": 36,
+      "name": "Royal Attributes"
+    },
+    {
+      "$id": 270,
+      "style": 36,
+      "name": "Golden Opportunity"
+    }
+  ]
+}

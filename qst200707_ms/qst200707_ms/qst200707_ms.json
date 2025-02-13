@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200707_msg0001",
+      "style": 84,
+      "name": "What friend doing?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200707_msg0002",
+      "style": 84,
+      "name": "Y-you!\nWhen did you-?!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200707_msg0003",
+      "style": 84,
+      "name": "Ah, Tora get it. For sure, this area full\nof monsters, so if friend have no Blade\nto help, get feathers is challenge."
+    },
+    {
+      "$id": 4,
+      "label": "qst200707_msg0004",
+      "style": 84,
+      "name": "N-not at all! No challenge!\nI already have a brilliant stratagem!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200707_msg0005",
+      "style": 84,
+      "name": "You may play with the monsters\nif you wish!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200707_msg0007",
+      "style": 84,
+      "name": "Huh... Idaten, with how fast you are,\nI bet you could fetch the feather\nwithout the monsters noticing you."
+    },
+    {
+      "$id": 7,
+      "label": "qst200707_msg0008",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 8,
+      "label": "qst200707_msg0009",
+      "style": 165,
+      "name": "Should Idaten fetch the feather?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200707_msg0010",
+      "style": 165,
+      "name": "Yes"
+    },
+    {
+      "$id": 10,
+      "label": "qst200707_msg0011",
+      "style": 165,
+      "name": "No"
+    },
+    {
+      "$id": 11,
+      "label": "qst200707_msg0012",
+      "style": 84,
+      "name": "I'll be there and back in no time!"
+    },
+    {
+      "$id": 12,
+      "label": "qst200707_msg0013",
+      "style": 84,
+      "name": "N-no way!\nAt this speed, I'll be found for sure!"
+    },
+    {
+      "$id": 13,
+      "label": "qst200707_msg0014",
+      "style": 84,
+      "name": "Nah, I'd feel bad sending Idaten alone.\nLet's all go ahead together!"
+    },
+    {
+      "$id": 14,
+      "label": "qst200707_msg0015",
+      "style": 84,
+      "name": "Right, let's wade through monsters\nagain... Joy of joys."
+    }
+  ]
+}

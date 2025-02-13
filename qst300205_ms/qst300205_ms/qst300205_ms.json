@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300205_msg001",
+      "style": 62,
+      "name": "(仮)バトル前トーク"
+    },
+    {
+      "$id": 2,
+      "label": "qst300205_msg002",
+      "style": 62,
+      "name": "(仮)バトル後トーク"
+    },
+    {
+      "$id": 3,
+      "label": "qst300205_msg003",
+      "style": 62,
+      "name": "(仮)クエスト完了"
+    },
+    {
+      "$id": 4,
+      "label": "qst300205_msg0001",
+      "style": 84,
+      "name": "Sorry about all this. I know it's a pain."
+    },
+    {
+      "$id": 5,
+      "label": "qst300205_msg0002",
+      "style": 84,
+      "name": "But it's time we set things straight.\nShow 'em the younger generation's still\ngot every right to be calling the shots."
+    },
+    {
+      "$id": 6,
+      "label": "qst300205_msg0101",
+      "style": 84,
+      "name": "You beat Vorden and Jugger?!\nThat's some bragging rights!"
+    },
+    {
+      "$id": 7,
+      "label": "qst300205_msg0201",
+      "style": 84,
+      "name": "What a battle. I have no regrets!"
+    },
+    {
+      "$id": 8,
+      "label": "qst300205_msg0202",
+      "style": 84,
+      "name": "If Vandham were here today,\nhe'd be so proud of you!"
+    }
+  ]
+}

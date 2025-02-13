@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170042102_msg0001",
+      "style": 84,
+      "name": "Now then, class, I want you to\nwrite a short descriptive piece on\nthe Liberalitan landscape."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170042102_msg0002",
+      "style": 84,
+      "name": "It needs to be evocative, so that anyone\nreading can immediately picture the\nscenery in their mind's eye."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170042102_msg0003",
+      "style": 84,
+      "name": "Don't just describe what you see.\nRemember to use metaphor and\nsimile to express your feelings!"
+    }
+  ]
+}

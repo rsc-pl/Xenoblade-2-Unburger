@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500153_03_msg0001",
+      "style": 84,
+      "name": "Here's a bit of gossip I heard\nat the baths."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500153_03_msg0002",
+      "style": 84,
+      "name": "You know there's an old factory\naround the Superbia Divine Beast's chest?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500153_03_msg0003",
+      "style": 84,
+      "name": "Apparently someone was secretly\nusing that place to manufacture\na ton of artificial Blades!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500153_03_msg0004",
+      "style": 84,
+      "name": "My old man reckoned some group\ncalled Lindwurm had bought up a\nbunch of them."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45500153_03_msg0005",
+      "style": 84,
+      "name": "But nobody seems to know where\nthey've got to now."
+    }
+  ]
+}

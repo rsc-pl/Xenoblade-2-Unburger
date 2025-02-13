@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200906_msg010",
+      "style": 84,
+      "name": "I see a Nopon."
+    },
+    {
+      "$id": 2,
+      "label": "qst200906_msg011",
+      "style": 84,
+      "name": "Maybe they'll know something about\nOtto. Shall we inquire?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200906_msg012",
+      "style": 84,
+      "name": "Looks like they've got their own\nshare of problems..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200906_msg013",
+      "style": 84,
+      "name": "We can ask about that too while\nwe're at it."
+    },
+    {
+      "$id": 5,
+      "label": "qst200906_msg014",
+      "style": 84,
+      "name": "True, true.\nAll right, let's check it out then!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200906_msg001",
+      "style": 84,
+      "name": "Excuse me, good Nopon, sir!\nCan we help you at all?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200906_msg002",
+      "style": 84,
+      "name": "Meh? AH!\nWait...not tell me..."
+    },
+    {
+      "$id": 8,
+      "label": "qst200906_msg003",
+      "style": 84,
+      "name": "...Are you...Kasane...?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200906_msg004",
+      "style": 84,
+      "name": "...Huh?"
+    },
+    {
+      "$id": 10,
+      "label": "qst200906_msg015",
+      "style": 84,
+      "name": "You know who I am?"
+    },
+    {
+      "$id": 11,
+      "label": "qst200906_msg005",
+      "style": 84,
+      "name": "Meh?"
+    },
+    {
+      "$id": 12,
+      "label": "qst200906_msg006",
+      "style": 84,
+      "name": "Mehmeh-MEEEEEEEH!!!"
+    },
+    {
+      "$id": 13,
+      "label": "qst200906_msg007",
+      "style": 84,
+      "name": "Are you all right? That tree just\ncame down out of nowhere..."
+    },
+    {
+      "$id": 14,
+      "label": "qst200906_msg008",
+      "style": 84,
+      "name": "Yeah, I'm fine..."
+    },
+    {
+      "$id": 15,
+      "label": "qst200906_msg009",
+      "style": 84,
+      "name": "Huh? Where'd the Nopon go?"
+    },
+    {
+      "$id": 16,
+      "label": "qst200906_msg016",
+      "style": 84,
+      "name": "I think he's going to need a hand..."
+    }
+  ]
+}

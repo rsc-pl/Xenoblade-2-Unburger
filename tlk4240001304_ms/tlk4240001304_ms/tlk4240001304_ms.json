@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_04_msg0001",
+      "style": 84,
+      "name": "Can not believe Chairman Bahn was\nmixed up in illegal business!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_04_msg0002",
+      "style": 84,
+      "name": "Helehele never dream of such truth!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_04_msg0003",
+      "style": 84,
+      "name": "Chairman was always clearly very\nenamored with gold, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400013_04_msg0004",
+      "style": 84,
+      "name": "Helehele did not think he stoop\nto such things!"
+    }
+  ]
+}

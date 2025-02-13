@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200311_msg0001",
+      "style": 84,
+      "name": "The Gogol?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200311_msg0002",
+      "style": 84,
+      "name": "I did bump into it by the main gate.\nLiterally? No, not literally."
+    },
+    {
+      "$id": 3,
+      "label": "qst200311_msg0003",
+      "style": 84,
+      "name": "Ah, it was fine though.\nIt didn't do anythin', just sorta ran off."
+    },
+    {
+      "$id": 4,
+      "label": "qst200311_msg0008",
+      "style": 84,
+      "name": "If you could find its tracks, you could\nprobably follow 'em easy enough."
+    },
+    {
+      "$id": 5,
+      "label": "qst200311_msg0004",
+      "style": 84,
+      "name": "Mind you, Gogols are timid creatures."
+    },
+    {
+      "$id": 6,
+      "label": "qst200311_msg0005",
+      "style": 84,
+      "name": "They don't normally attack people."
+    },
+    {
+      "$id": 7,
+      "label": "qst200311_msg0006",
+      "style": 84,
+      "name": "I think it's just confused after Luxuria's\nisolation ended and people started\ndigging for salt everywhere..."
+    },
+    {
+      "$id": 8,
+      "label": "qst200311_msg0007",
+      "style": 84,
+      "name": "That's probably why it\nwandered into town all of a sudden."
+    }
+  ]
+}

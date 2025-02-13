@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100121_03_msg0001",
+      "style": 84,
+      "name": "Even after our bug-catching showdown,\nme and Leif have been facing off at all\nsorts of other things!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100121_03_msg0002",
+      "style": 84,
+      "name": "Though we don't go anywhere near\ndangerous places any more, of course."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45100121_03_msg0003",
+      "style": 84,
+      "name": "Anyway, at the moment I've won ten\ntimes out of ten! I haven't lost once!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45100121_03_msg0004",
+      "style": 84,
+      "name": "Yeah! I guess I really am my mam's son.\nI don't believe in losing!"
+    }
+  ]
+}

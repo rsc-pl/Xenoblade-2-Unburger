@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700125_01_msg0001",
+      "style": 84,
+      "name": "Well, hello there!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700125_01_msg0002",
+      "style": 84,
+      "name": "Our Trigo specialties use ultra-fine\ngrain ground by a windmill. You can't\ngo wrong with these!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700125_01_msg0005",
+      "style": 84,
+      "name": "Why, if it isn't our owner!\nAlways a pleasure."
+    }
+  ]
+}

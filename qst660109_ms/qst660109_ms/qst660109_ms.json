@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660109_msg0001",
+      "style": 84,
+      "name": "We need to go back to Alst now."
+    },
+    {
+      "$id": 2,
+      "label": "qst660109_msg0002",
+      "style": 84,
+      "name": "Understood."
+    },
+    {
+      "$id": 3,
+      "label": "qst660109_msg0003",
+      "style": 84,
+      "name": "It doesn't look like we can go with you,\nso we'll just wait for you here."
+    },
+    {
+      "$id": 4,
+      "label": "qst660109_msg0004",
+      "style": 84,
+      "name": "Take care of yourself, Rex."
+    },
+    {
+      "$id": 5,
+      "label": "qst660109_msg0005",
+      "style": 84,
+      "name": "Sure thing!"
+    },
+    {
+      "$id": 6,
+      "label": "qst660109_msg0006",
+      "style": 84,
+      "name": "We'll be back soon enough I'm sure.\nKeep yourselves occupied, yeah?"
+    },
+    {
+      "$id": 7,
+      "label": "qst660109_msg0007",
+      "style": 84,
+      "name": "Will do, Rex. Get back safe."
+    },
+    {
+      "$id": 8,
+      "label": "qst660109_msg0008",
+      "style": 84,
+      "name": "It shouldn't be too long.\nWhen we return, I'm sure we'll\nhave need of all three of you!"
+    }
+  ]
+}

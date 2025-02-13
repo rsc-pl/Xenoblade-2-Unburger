@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10070100_0010",
+      "style": 82,
+      "name": "It sure is bright."
+    },
+    {
+      "$id": 2,
+      "label": "bf10070100_0020",
+      "style": 82,
+      "name": "Yeah...it's right through here.\nI'm sure of it."
+    },
+    {
+      "$id": 3,
+      "label": "bf10070100_0030",
+      "style": 82,
+      "name": "We've almost reached Eden..."
+    }
+  ]
+}

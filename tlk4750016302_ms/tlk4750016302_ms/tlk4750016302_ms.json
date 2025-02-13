@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47500163_02_msg0001",
+      "style": 84,
+      "name": "I've been hearing worrying things lately.\nLiberalitas's far removed from the world\nat large, but anything could happen..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47500163_02_msg0002",
+      "style": 84,
+      "name": "All these old bones can do is pray to\nthe Village Guardian and our ancestors\nto give our kids a brighter tomorrow..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47500163_02_msg0003",
+      "style": 84,
+      "name": "Rex? Don't waste your life in vain, do\nyou hear? For Correl, and for your\nparents."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47500163_02_msg0004",
+      "style": 84,
+      "name": "...Yeah. I promise."
+    }
+  ]
+}

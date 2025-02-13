@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4537015303_msg0001",
+      "style": 84,
+      "name": "...So as you can see, by learning of\npast events we can come to understand\nwhat brings success and what failure."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4537015303_msg0002",
+      "style": 84,
+      "name": "This is why it is paramount that we\nretain records of our history, for the\nsake of the future."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4537015303_msg0003",
+      "style": 84,
+      "name": "Please don't interrupt me in the\nmiddle of a lesson."
+    }
+  ]
+}

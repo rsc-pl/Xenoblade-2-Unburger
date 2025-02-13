@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102113_msg001",
+      "style": 84,
+      "name": "None may pass without proper\nauthorization!"
+    },
+    {
+      "$id": 2,
+      "label": "qst102113_msg002",
+      "style": 84,
+      "name": "Oh, it's you. OK, we heard from Raloo.\nYou're authorized to pass."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400081_01_msg0001",
+      "style": 84,
+      "name": "Welcome! Do you have a craving for\nLuxuria's sweetest of sweeties?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400081_01_msg0002",
+      "style": 84,
+      "name": "We use only the fluffiest natural\nsnow in our recipes. I assure you,\nthey're delicious!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400081_01_msg0005",
+      "style": 84,
+      "name": "Welcome! Has our Star Patron fallen\nfor my divine sweets?"
+    }
+  ]
+}

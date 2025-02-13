@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev02_210_125_msg0001",
+      "style": 84,
+      "name": "Tora, do you have any ingredients\nI could work with?"
+    },
+    {
+      "$id": 2,
+      "label": "fev02_210_125_msg0002",
+      "style": 84,
+      "name": "Just what in the pantry there.\nNot much really. Tora sorry!"
+    },
+    {
+      "$id": 3,
+      "label": "fev02_210_125_msg0003",
+      "style": 84,
+      "name": "It doesn't seem wise to go out and buy\nmore supplies, so we'll just have to\nmake do with what we have."
+    },
+    {
+      "$id": 4,
+      "label": "fev02_210_125_msg0004",
+      "style": 84,
+      "name": "Let's see what we've got, then."
+    },
+    {
+      "$id": 5,
+      "label": "fev02_210_125_msg0005",
+      "style": 84,
+      "name": "Glitterspuds, Sumpkins...\nOh, and here's an Oil Oyster and\na single Meaty Carrot."
+    },
+    {
+      "$id": 6,
+      "label": "fev02_210_125_msg0006",
+      "style": 84,
+      "name": "And Hot Oranges too!\nThese aren't bad ingredients at all!"
+    },
+    {
+      "$id": 7,
+      "label": "fev02_210_125_msg0007",
+      "style": 84,
+      "name": "All foods that can be eaten with no\ncooking. That how Tora usually eat!"
+    },
+    {
+      "$id": 8,
+      "label": "fev02_210_125_msg0008",
+      "style": 84,
+      "name": "That's...a bit depressing."
+    },
+    {
+      "$id": 9,
+      "label": "fev02_210_125_msg0009",
+      "style": 84,
+      "name": "We aren't much better ourselves,\nyou know!"
+    },
+    {
+      "$id": 10,
+      "label": "fev02_210_125_msg0010",
+      "style": 84,
+      "name": "I guess you're right..."
+    },
+    {
+      "$id": 11,
+      "label": "fev02_210_125_msg0011",
+      "style": 84,
+      "name": "So what do you think, Homura?\nCan you make anything with this?"
+    },
+    {
+      "$id": 12,
+      "label": "fev02_210_125_msg0012",
+      "style": 84,
+      "name": "Yes, I think this should be enough!"
+    },
+    {
+      "$id": 13,
+      "label": "fev02_210_125_msg0013",
+      "style": 84,
+      "name": "I'll just use the kitchen, OK?"
+    }
+  ]
+}

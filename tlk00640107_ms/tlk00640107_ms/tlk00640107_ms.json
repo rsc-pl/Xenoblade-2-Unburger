@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006401_07_msg0001",
+      "style": 84,
+      "name": "Hey. Rhys and his gang are really\ncoming along - they can go salvaging\nwithout supervision now and all!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk006401_07_msg0002",
+      "style": 84,
+      "name": "We'd never have discovered raw\ntalent like theirs if you hadn't got us\nto hire them."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006401_07_msg0003",
+      "style": 84,
+      "name": "You've got a real eye for people, Rex."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006401_07_msg0004",
+      "style": 84,
+      "name": "In any case, we've got us a promising\nbunch of up-and-coming salvagers for\nyour trouble, and for that, I'm grateful."
+    }
+  ]
+}

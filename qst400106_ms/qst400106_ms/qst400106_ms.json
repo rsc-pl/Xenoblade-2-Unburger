@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400106_msg0001",
+      "style": 84,
+      "name": "I guess I got a bit distracted...\nWhat was I meant to be doing again?"
+    },
+    {
+      "$id": 2,
+      "label": "qst400106_msg0002",
+      "style": 84,
+      "name": "Hmm... I guess I should\nstock up on food supplies."
+    },
+    {
+      "$id": 3,
+      "label": "qst400106_msg0003",
+      "style": 84,
+      "name": "I've got that Braised Cloud Sea Shark\nnow, but I could do with a bit more."
+    },
+    {
+      "$id": 4,
+      "label": "qst400106_msg0004",
+      "style": 84,
+      "name": "Yeah, I'll visit Fishy Fishy on the\nthird floor. Then I should be all set!"
+    }
+  ]
+}

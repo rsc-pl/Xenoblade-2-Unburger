@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44200185_03_msg0001",
+      "style": 84,
+      "name": "Hey, so... Is our Divine Beast gonna wind up\nsinking into the Cloud Sea one day,\njust like in \"The Millenarian Divine Beast\"?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44200185_03_msg0002",
+      "style": 84,
+      "name": "Oh, don't you know that book?\nThe story follows a Divine Beast for the\nentire long course of its life."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44200185_03_msg0003",
+      "style": 84,
+      "name": "Towards the end, the exhausted Divine Beast\ngrows colder and colder, until no one\ncan stop it sinking beneath the clouds..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44200185_03_msg0004",
+      "style": 84,
+      "name": "What? You mean, you're gonna\ntry and save our Divine Beast somehow?\nWow, you're like real heroes!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk44200185_03_msg0005",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

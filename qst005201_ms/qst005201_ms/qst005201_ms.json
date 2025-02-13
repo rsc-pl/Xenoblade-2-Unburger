@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005201_msg0001",
+      "style": 84,
+      "name": "The beast-form Blade's Driver?\nYou won't find him here."
+    },
+    {
+      "$id": 2,
+      "label": "qst005201_msg0002",
+      "style": 84,
+      "name": "He lets his Blade, Akatsuki, relay all\nhis orders. Never shows his own face."
+    },
+    {
+      "$id": 3,
+      "label": "qst005201_msg0003",
+      "style": 84,
+      "name": "His orders always produce results,\nbut I suppose he made a mistake\nthis time letting you go."
+    },
+    {
+      "$id": 4,
+      "label": "qst005201_msg0004",
+      "style": 84,
+      "name": "No matter, though...\nI'll clean up the mess he left behind!"
+    }
+  ]
+}

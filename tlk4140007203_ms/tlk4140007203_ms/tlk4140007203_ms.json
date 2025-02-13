@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400072_03_msg0001",
+      "style": 84,
+      "name": "I believe one day we'll get word that\nthe war is over."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400072_03_msg0002",
+      "style": 84,
+      "name": "I believe we'll all get to go home, me \nand the other refugees."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400072_03_msg0003",
+      "style": 84,
+      "name": "I guess I can keep my spirits up every\nday because I believe peace will come."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400072_03_msg0004",
+      "style": 84,
+      "name": "So people like you - with Blades - have\nto keep working towards that peace.\nPeople like me are counting on you."
+    }
+  ]
+}

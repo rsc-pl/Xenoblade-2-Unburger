@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300103_msg101",
+      "style": 84,
+      "name": "So I hear you're making rations?\nIf I find anything I can help with,\nI'll ask Zuo to let you know."
+    },
+    {
+      "$id": 2,
+      "label": "qst300103_msg103",
+      "style": 84,
+      "name": "Oh, you found the Mokmo Onion!\nGo on then, take it to the campfire\nand make the Dried Scented Salmon."
+    },
+    {
+      "$id": 3,
+      "label": "qst300103_msg104",
+      "style": 84,
+      "name": "...That's quite the powerful scent...\nI'm sure it's a sign of how nutritious\nit is, but still...wow. Pungent."
+    },
+    {
+      "$id": 4,
+      "label": "qst300103_msg001",
+      "style": 84,
+      "name": "Hey, I hear you're collecting\ningredients for rations, is that right?"
+    },
+    {
+      "$id": 5,
+      "label": "qst300103_msg002",
+      "style": 84,
+      "name": "Then you should try and get your\nhands on a Mokmo Onion!"
+    },
+    {
+      "$id": 6,
+      "label": "qst300103_msg003",
+      "style": 84,
+      "name": "Sorry, I guess that was a bit sudden.\nIt's supposed to be a really nutritious\ningredient, so it's perfect for rations."
+    },
+    {
+      "$id": 7,
+      "label": "qst300103_msg004",
+      "style": 84,
+      "name": "They grow on Lascham Island in\nGula, but they're buried really deep,\nso you don't see them in shops much."
+    },
+    {
+      "$id": 8,
+      "label": "qst300103_msg005",
+      "style": 84,
+      "name": "It shouldn't be too hard to find the\nplace where they grow, but actually\nobtaining them might be a challenge."
+    },
+    {
+      "$id": 9,
+      "label": "qst300103_msg006",
+      "style": 84,
+      "name": "Still, a Mokmo Onion or two would\nmake for perfect Dried Scented\nSalmon, so it's definitely worth a try!"
+    },
+    {
+      "$id": 10,
+      "label": "qst300103_msg007",
+      "style": 84,
+      "name": "I'll give you the Breath Charcoal\nand Steel Salmon and you can get\nthe Mokmo Onion. Don't give up!"
+    },
+    {
+      "$id": 11,
+      "label": "qst300103_msg008",
+      "style": 84,
+      "name": "Don't give up the search, will you?"
+    }
+  ]
+}

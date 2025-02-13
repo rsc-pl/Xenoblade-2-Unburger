@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105306_msg001",
+      "style": 62,
+      "name": "LIST_QST105306の仮実装"
+    },
+    {
+      "$id": 2,
+      "label": "qst105306_msg002",
+      "style": 62,
+      "name": "大型神獣寄生虫の声が聞こえたぞ"
+    }
+  ]
+}

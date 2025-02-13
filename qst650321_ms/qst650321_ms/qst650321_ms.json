@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650321_msg0001",
+      "style": 84,
+      "name": "Having some time to kick back and\nrelax is fun and all..."
+    },
+    {
+      "$id": 2,
+      "label": "qst650321_msg0002",
+      "style": 84,
+      "name": "But I really miss being part of the\ngang, you know?"
+    }
+  ]
+}

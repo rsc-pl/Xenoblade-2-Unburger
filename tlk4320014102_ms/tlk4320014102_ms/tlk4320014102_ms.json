@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200141_02_msg0001",
+      "style": 84,
+      "name": "Did Ion really get kidnapped?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200141_02_msg0002",
+      "style": 84,
+      "name": "I'm glad to hear she's OK now. She\nlooked really sad when I saw her in\ntown though."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200141_02_msg0003",
+      "style": 84,
+      "name": "She looked kinda scared too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200141_02_msg0004",
+      "style": 84,
+      "name": "But I reckon I'll be able to cheer her up\nif I take her out for a Rainbow Parfait,\nno worries!"
+    }
+  ]
+}

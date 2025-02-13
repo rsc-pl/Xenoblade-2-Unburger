@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300451_02_msg0001",
+      "style": 84,
+      "name": "Hey there."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300451_02_msg0002",
+      "style": 84,
+      "name": "I knew on some level this might happen\nfrom the day I first decided to leave\nhim behind and make a life of my own..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300451_02_msg0003",
+      "style": 84,
+      "name": "But it still hurts that I didn't get to see\nmy old man again before he died."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300451_02_msg0004",
+      "style": 84,
+      "name": "You were there for his last moments,\nweren't you?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300451_02_msg0005",
+      "style": 84,
+      "name": "I hope he was happy, at least..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300451_02_msg0006",
+      "style": 84,
+      "name": "My dad's real home was here, in Alba\nCavanich. To tell the truth, I was hoping\nI could bring him back here someday."
+    }
+  ]
+}

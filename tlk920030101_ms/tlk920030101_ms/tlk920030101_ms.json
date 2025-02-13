@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9200301_01_msg0001",
+      "style": 84,
+      "name": "Have you got some work for me?\nOr, uh, not."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9200301_01_msg0002",
+      "style": 84,
+      "name": "Come on, which is it?\nI'm ready to go any time!"
+    }
+  ]
+}

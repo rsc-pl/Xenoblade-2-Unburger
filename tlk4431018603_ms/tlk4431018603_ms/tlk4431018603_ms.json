@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310186_03_msg0001",
+      "style": 84,
+      "name": "The capital was built to last!\nGo on! Get inside, where it's safe!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310186_03_msg0002",
+      "style": 84,
+      "name": "Ah! Prince Sigurd and his retinue!\nI didn't mean to offend."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310186_03_msg0003",
+      "style": 84,
+      "name": "I'm instructing travelers and suburban\ncitizens to get inside. That's my orders!\nThe city's strong enough to hold out."
+    }
+  ]
+}

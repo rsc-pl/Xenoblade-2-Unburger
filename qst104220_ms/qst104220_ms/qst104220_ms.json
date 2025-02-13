@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104220_msg0001",
+      "style": 84,
+      "name": "History teaches us not only the\nsuccesses of our forebears, but\nalso their mistakes."
+    },
+    {
+      "$id": 2,
+      "label": "qst104220_msg0002",
+      "style": 84,
+      "name": "I will do my best to ensure the young\nfolk here are able to look to the past\nfor guidance in times of difficulty."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105703_msg0001",
+      "style": 84,
+      "name": "Meh-heh-heh...\nTake key and proceed to basement."
+    },
+    {
+      "$id": 2,
+      "label": "qst105703_msg0002",
+      "style": 84,
+      "name": "There friends meet esteemed individual\nwith power beyond Zadazan's dreams..."
+    },
+    {
+      "$id": 3,
+      "label": "qst105703_msg0003",
+      "style": 84,
+      "name": "Mighty Don of Lindwurm\nwill crush friends under feet!"
+    }
+  ]
+}

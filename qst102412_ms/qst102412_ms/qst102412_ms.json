@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102412_msg001",
+      "style": 62,
+      "name": "お前のようなやつがいたとはな（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst102412_msg002",
+      "style": 62,
+      "name": "みんな帰るぞ（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst102412_msg003",
+      "style": 62,
+      "name": "お前達も後で俺のところへ来てくれ（仮）"
+    }
+  ]
+}

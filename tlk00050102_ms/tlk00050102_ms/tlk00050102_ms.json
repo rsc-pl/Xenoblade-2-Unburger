@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000501_02_msg0001",
+      "style": 84,
+      "name": "What going on?! Nilny saw explosion\non roof of building!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000501_02_msg0002",
+      "style": 84,
+      "name": "Cannot believe this happening!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000501_02_msg0003",
+      "style": 84,
+      "name": "Must help prevent casualties,\nquickly!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000501_02_msg0004",
+      "style": 84,
+      "name": "Go! Not concern yourselves with\nNilny!"
+    }
+  ]
+}

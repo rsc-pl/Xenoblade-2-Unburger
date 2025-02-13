@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_1310_msg0001",
+      "style": 84,
+      "name": "あの兄妹はラスカムの港に\n向かったのよね？"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_1310_msg0002",
+      "style": 84,
+      "name": "ああ[ML:Dash ]\n我々も急ごうじゃないか"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_1310_msg0003",
+      "style": 84,
+      "name": "あまり待たせてしまっては\nまた不安に思うでしょうからね"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_1310_msg0004",
+      "style": 84,
+      "name": "そうだね\n早く行ってあげよう"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100151_01_msg0001",
+      "style": 84,
+      "name": "These are rare and unusual junk items\nthat we've gathered from all over."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100151_01_msg0002",
+      "style": 84,
+      "name": "You might find something that's useful\nto you. If you do, be sure to buy it -\nI don't need folk wasting my time."
+    }
+  ]
+}

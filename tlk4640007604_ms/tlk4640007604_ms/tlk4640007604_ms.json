@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400076_04_msg0001",
+      "style": 84,
+      "name": "Apparently there is some kind\nof emergency to attend to?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400076_04_msg0002",
+      "style": 84,
+      "name": "May God's blessings be with you all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400076_04_msg0003",
+      "style": 84,
+      "name": "I will remain here and pray\nfor your safe return."
+    }
+  ]
+}

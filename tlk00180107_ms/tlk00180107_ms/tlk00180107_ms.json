@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001801_07_msg0001",
+      "style": 84,
+      "name": "Friends leave this town to\nTatezo and Kiku!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001801_07_msg0002",
+      "style": 84,
+      "name": "Tatezo gave Kiku sneaky upgrade while\nfriends not looking. Now she have\nhundred thousand horsepower!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001801_07_msg0003",
+      "style": 84,
+      "name": "So no matter what disaster come here,\nTatezo and Kiku will protect home."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001801_07_msg0004",
+      "style": 84,
+      "name": "Tora and friends can feel safe in\nthat knowledge, and focus all effort\non important mission!"
+    }
+  ]
+}

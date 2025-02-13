@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4340008101_msg0001",
+      "style": 84,
+      "name": "Thought I'd come and have a look at\nthe prince of Luxuria! I'm waiting for\nhim to show up."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4340008101_msg0002",
+      "style": 84,
+      "name": "Ah! You're the ones who helped me out\nwhen I was frozen... Thanks for that.\nIt was quite an embarrassing situation."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4340008101_msg0003",
+      "style": 84,
+      "name": "Apparently, the prince is off, trying\nwith all his might to save Alst!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4340008101_msg0004",
+      "style": 84,
+      "name": "I bet he looks super cool doing it...\nI hope he comes back soon so I can\nsee him..."
+    }
+  ]
+}

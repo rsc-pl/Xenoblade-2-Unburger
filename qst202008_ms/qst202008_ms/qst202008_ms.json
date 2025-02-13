@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202008_msg001",
+      "style": 84,
+      "name": "Thank you. Dinner's almost ready now."
+    },
+    {
+      "$id": 2,
+      "label": "qst202008_msg002",
+      "style": 84,
+      "name": "Would you mind asking Mabon about\nwhere to put the firewood?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202008_msg101",
+      "style": 84,
+      "name": "Mabon seems awfully fidgety..."
+    },
+    {
+      "$id": 4,
+      "label": "qst202008_msg102",
+      "style": 84,
+      "name": "He hasn't asked you to go on one of\nhis choclit-grabbing errands, I hope?"
+    },
+    {
+      "$id": 5,
+      "label": "qst202008_msg0201",
+      "style": 84,
+      "name": "Ah, that brings back memories...\nI used to eat these all the time."
+    },
+    {
+      "$id": 6,
+      "label": "qst202008_msg0202",
+      "style": 84,
+      "name": "You don't see much of them around\nthese days..."
+    },
+    {
+      "$id": 7,
+      "label": "qst202008_msg0203",
+      "style": 84,
+      "name": "But how did you know I liked these rice\nballs?"
+    },
+    {
+      "$id": 8,
+      "label": "qst202008_msg0204",
+      "style": 84,
+      "name": "Ahh, so Mabon told you...\nI see what's going on here."
+    },
+    {
+      "$id": 9,
+      "label": "qst202008_msg0205",
+      "style": 84,
+      "name": "He asked you to buy him some\nchoclit, didn't he?"
+    },
+    {
+      "$id": 10,
+      "label": "qst202008_msg0206",
+      "style": 84,
+      "name": "I knew it."
+    },
+    {
+      "$id": 11,
+      "label": "qst202008_msg0207",
+      "style": 84,
+      "name": "He thought he could fool me, did he..."
+    },
+    {
+      "$id": 12,
+      "label": "qst202008_msg0208",
+      "style": 84,
+      "name": "Honestly, I don't know what to do with\nthat man any more. I'll have to give him\na proper telling off."
+    }
+  ]
+}

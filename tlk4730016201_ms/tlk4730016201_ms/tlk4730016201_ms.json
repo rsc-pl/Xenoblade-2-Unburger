@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300162_01_msg0001",
+      "style": 84,
+      "name": "So! Our village's biggest success story,\nthe great Rex, is back in town for once!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300162_01_msg0002",
+      "style": 84,
+      "name": "What d'you think? Good wood, isn't it?\nLiberalitas's not got many trees, so we\nmake the most of the ones we do have."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300162_01_msg0003",
+      "style": 84,
+      "name": "Same goes for the buildings an' all.\nWe fix 'em up, so they're in a decent\nstate for the next generation."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_01_msg0004",
+      "style": 84,
+      "name": "That one at the edge of town's getting\nold, mind. We'll use it for storage or\nsummat, I reckon. Not sure yet, though."
+    }
+  ]
+}

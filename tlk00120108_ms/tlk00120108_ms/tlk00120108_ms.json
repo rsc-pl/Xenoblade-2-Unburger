@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001201_08_msg0001",
+      "style": 84,
+      "name": "Disaster is raining upon Alst from\nthe skies..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001201_08_msg0002",
+      "style": 84,
+      "name": "Fortunately, Luxuria has been spared\nfrom the assault, but what is Metsu\nthinking? Is he trying to destroy us all?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001201_08_msg0003",
+      "style": 84,
+      "name": "We have not the power to ward off, let\nalone stop, the Devices from wreaking\nchaos."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001201_08_msg0004",
+      "style": 84,
+      "name": "You are the only ones who can end this.\nThe future of Alst lies with you..."
+    }
+  ]
+}

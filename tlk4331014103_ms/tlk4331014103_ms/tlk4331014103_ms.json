@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310141_03_msg0001",
+      "style": 84,
+      "name": "The Superbians came at us without\neven the slightest warning. That's\npretty low, even for them."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310141_03_msg0002",
+      "style": 84,
+      "name": "Half of the Divine Beast battleships and their\ncrews won't make it back from\nTemperantia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310141_03_msg0003",
+      "style": 84,
+      "name": "Ah, it's a shame it came to this. It's\nprobably too late even to get out of\nthe way of the war now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310141_03_msg0004",
+      "style": 84,
+      "name": "Those Superbians are going to find out\nthe hard way the costs of messing with\nus, you can count on that."
+    }
+  ]
+}

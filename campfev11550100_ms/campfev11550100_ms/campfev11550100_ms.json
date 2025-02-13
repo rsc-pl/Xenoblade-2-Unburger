@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_550_100_msg0001",
+      "style": 84,
+      "name": "早く王宮へ赴き\nイーラ王にメツの狙いを\n知らせなければなりませんね"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_550_100_msg0002",
+      "style": 84,
+      "name": "ああ"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_550_100_msg0003",
+      "style": 84,
+      "name": "僕達の報告が遅れることで\nメツの被害が大きくなるのは\n避けたいところだからな"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_550_100_msg0004",
+      "style": 84,
+      "name": "俺は王宮の外で\n待たせてもらうことにするぞ"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_550_100_msg0005",
+      "style": 84,
+      "name": "嫌な感じがするんでな"
+    },
+    {
+      "$id": 6,
+      "label": "campfev11_550_100_msg0006",
+      "style": 84,
+      "name": "なにそれ[ML:Dash ]？"
+    },
+    {
+      "$id": 7,
+      "label": "campfev11_550_100_msg0007",
+      "style": 84,
+      "name": "お前達は大丈夫だろうさ\n気にせず行ってくれ"
+    },
+    {
+      "$id": 8,
+      "label": "campfev11_550_100_msg0008",
+      "style": 84,
+      "name": "わかった[ML:Dash ]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300045_01_msg0001",
+      "style": 84,
+      "name": "Hello! This shop sells\nonly desserts of the highest quality.\nDon't eat them all at once!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300045_01_msg0005",
+      "style": 84,
+      "name": "Hello, dear owner! Please enjoy our\ndesserts - always the highest quality.\nDon't eat them all at once!"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 20,
+      "name": "Characters"
+    },
+    {
+      "$id": 2,
+      "style": 20,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 3,
+      "style": 20,
+      "name": "Item List"
+    },
+    {
+      "$id": 4,
+      "style": 20,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 5,
+      "style": 20,
+      "name": "Encyclopedia"
+    },
+    {
+      "$id": 6,
+      "style": 20,
+      "name": "Blades"
+    },
+    {
+      "$id": 7,
+      "style": 20,
+      "name": "Merc Group"
+    },
+    {
+      "$id": 8,
+      "style": 20,
+      "name": "System"
+    },
+    {
+      "$id": 9,
+      "style": 20,
+      "name": "Change Order"
+    },
+    {
+      "$id": 10,
+      "style": 20,
+      "name": "Expansion Pass"
+    },
+    {
+      "$id": 11,
+      "style": 20,
+      "name": "Notifications"
+    },
+    {
+      "$id": 12,
+      "style": 20,
+      "name": "Community"
+    }
+  ]
+}

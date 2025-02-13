@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101505_msg001",
+      "style": 62,
+      "name": "あ、巨神獣が襲われている(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101505_msg002",
+      "style": 62,
+      "name": "あの巨神獣を助けて交渉してみよう(仮)"
+    }
+  ]
+}

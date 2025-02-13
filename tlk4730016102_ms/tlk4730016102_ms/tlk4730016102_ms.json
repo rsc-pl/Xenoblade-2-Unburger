@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300161_02_msg0001",
+      "style": 84,
+      "name": "'Lo there, Rex!\nHere to visit us again? Auntie Correl'll\nbe dead chuffed!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300161_02_msg0002",
+      "style": 84,
+      "name": "You're off to see the Village Guardian?!\nWhat, again? What for, eh?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300161_02_msg0003",
+      "style": 84,
+      "name": "Seiryuu's old enough to remember..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_02_msg0004",
+      "style": 84,
+      "name": "There's some mysterious stuff round\nthere... Stuff I don't know about!"
+    }
+  ]
+}

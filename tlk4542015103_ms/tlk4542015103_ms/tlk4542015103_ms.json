@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420151_03_msg0001",
+      "style": 84,
+      "name": "When a Blade is awakened from a\nCore Crystal, the form they take is\ninfluenced by the Driver's heart."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420151_03_msg0002",
+      "style": 84,
+      "name": "So the classic strategy is to use a\nbooster to enhance whichever aspect\nyou're already strongest in."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420151_03_msg0003",
+      "style": 84,
+      "name": "But if you're looking to awaken a\ndifferent kind of Blade from usual,\nit's worth boosting a different aspect."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420151_03_msg0004",
+      "style": 84,
+      "name": "Of course, none of this makes it a\nsure thing. At the end of the day,\nthe Blade you get is down to luck."
+    }
+  ]
+}

@@ -1,0 +1,2534 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Blazing End"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Flame Nova"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Prominence Revolt"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Ray of Punishment"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Lightning Buster"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Photon Edge"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Starburst"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Radiant Flare"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Genesis Saber"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Last Hope"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Merciful Heart"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Redeeming Strike"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Raging Tiger"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Aqua Wave"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Wild Roar"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Hana Drill"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Noponic Storm"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Hana Spinning Slash"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Hana Crushing Blow"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Hana Missile"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Noponic Destruction"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Hana Ignition"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Noponic Axion"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Hana Unlimited"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Heat Kasumi"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Will-o'-the-Wisp"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Swirling Dragon"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Lightning Force"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Electric Circus"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Thunder Doom"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Death Wing"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Crushing Twister"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Feather Typhoon"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Storm Edge"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Engrave"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Death Match"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "White Wave"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Sacred Wyrm"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Dark Judgment"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "Swallow's Flight"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Great Garland"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Dragonfly Slash"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Crow Beat"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Crow Feather"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Final Crow"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Shred"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Skewer"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Cruel World"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Diamond Crash"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Diamond Flight"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Diamond Hands"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "Dead Ball"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Berserk March"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Earth Breath"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Water Moon"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Breaking Wave"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Midnight Mist"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Tough Break"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Cold Judgment"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Justice Blizzard"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Brutal Lance"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Termination Blast"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Hellbound"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Dark Serpent"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Blade Vortex"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Grim Moon"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Innocent Teardrop"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Bittersweet Dreams"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "Leave Me Alone"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Flame Crown"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "Tyrant Crush"
+    },
+    {
+      "$id": 72,
+      "style": 15,
+      "name": "Kaiser Flare"
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "Open Wide!"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Snack On This!"
+    },
+    {
+      "$id": 75,
+      "style": 15,
+      "name": "Gobble 'em Up!"
+    },
+    {
+      "$id": 76,
+      "style": 15,
+      "name": "Lavender Drive"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "Lilium Dance"
+    },
+    {
+      "$id": 78,
+      "style": 15,
+      "name": "Physalis Judgment"
+    },
+    {
+      "$id": 79,
+      "style": 15,
+      "name": "Sentimental Burst"
+    },
+    {
+      "$id": 80,
+      "style": 15,
+      "name": "Hidden Emotion"
+    },
+    {
+      "$id": 81,
+      "style": 15,
+      "name": "Secret Desire"
+    },
+    {
+      "$id": 82,
+      "style": 15,
+      "name": "Foam Blast"
+    },
+    {
+      "$id": 83,
+      "style": 15,
+      "name": "Geyser Spring"
+    },
+    {
+      "$id": 84,
+      "style": 15,
+      "name": "Fierce Deluge"
+    },
+    {
+      "$id": 85,
+      "style": 15,
+      "name": "Ice Slash"
+    },
+    {
+      "$id": 86,
+      "style": 15,
+      "name": "Frost Banish"
+    },
+    {
+      "$id": 87,
+      "style": 15,
+      "name": "Rebel Sister"
+    },
+    {
+      "$id": 88,
+      "style": 15,
+      "name": "Cold Zantetsu"
+    },
+    {
+      "$id": 89,
+      "style": 15,
+      "name": "Punishment Strike"
+    },
+    {
+      "$id": 90,
+      "style": 15,
+      "name": "Extinction Icicle"
+    },
+    {
+      "$id": 91,
+      "style": 15,
+      "name": "Electric Pompom"
+    },
+    {
+      "$id": 92,
+      "style": 15,
+      "name": "Vivid Love"
+    },
+    {
+      "$id": 93,
+      "style": 15,
+      "name": "Angelic Drop"
+    },
+    {
+      "$id": 94,
+      "style": 15,
+      "name": "Nightmare Rondeau"
+    },
+    {
+      "$id": 95,
+      "style": 15,
+      "name": "Shadow Rhapsody"
+    },
+    {
+      "$id": 96,
+      "style": 15,
+      "name": "Decadent Finale"
+    },
+    {
+      "$id": 97,
+      "style": 15,
+      "name": "Beary Strong"
+    },
+    {
+      "$id": 98,
+      "style": 15,
+      "name": "Beary Helpful"
+    },
+    {
+      "$id": 99,
+      "style": 15,
+      "name": "Beary-Go-Round"
+    },
+    {
+      "$id": 100,
+      "style": 15,
+      "name": "Flaming Slashwave"
+    },
+    {
+      "$id": 101,
+      "style": 15,
+      "name": "Immolating Cleave"
+    },
+    {
+      "$id": 102,
+      "style": 15,
+      "name": "Extreme Gutsy Spirit"
+    },
+    {
+      "$id": 103,
+      "style": 15,
+      "name": "Fierce Healer"
+    },
+    {
+      "$id": 104,
+      "style": 15,
+      "name": "Wild Grappler"
+    },
+    {
+      "$id": 105,
+      "style": 15,
+      "name": "Organic Automata"
+    },
+    {
+      "$id": 106,
+      "style": 15,
+      "name": "Dessert Bomb"
+    },
+    {
+      "$id": 107,
+      "style": 15,
+      "name": "Tea Leaves"
+    },
+    {
+      "$id": 108,
+      "style": 15,
+      "name": "Golden Font"
+    },
+    {
+      "$id": 109,
+      "style": 15,
+      "name": "Healing Bolt"
+    },
+    {
+      "$id": 110,
+      "style": 15,
+      "name": "Ball Lightning"
+    },
+    {
+      "$id": 111,
+      "style": 15,
+      "name": "Thunderstrike"
+    },
+    {
+      "$id": 112,
+      "style": 15,
+      "name": "Harness the Wind"
+    },
+    {
+      "$id": 113,
+      "style": 15,
+      "name": "Slipstream"
+    },
+    {
+      "$id": 114,
+      "style": 15,
+      "name": "Mortal Storm"
+    },
+    {
+      "$id": 115,
+      "style": 15,
+      "name": "Bang-Bang Bound"
+    },
+    {
+      "$id": 116,
+      "style": 15,
+      "name": "Shocking Assault"
+    },
+    {
+      "$id": 117,
+      "style": 15,
+      "name": "Rolling Thunder"
+    },
+    {
+      "$id": 118,
+      "style": 15,
+      "name": "Diabolic Zephyr"
+    },
+    {
+      "$id": 119,
+      "style": 15,
+      "name": "Adamantine Axe"
+    },
+    {
+      "$id": 120,
+      "style": 15,
+      "name": "Ascension Blade"
+    },
+    {
+      "$id": 121,
+      "style": 15,
+      "name": "Blast of Fresh Air"
+    },
+    {
+      "$id": 122,
+      "style": 15,
+      "name": "Whoopsie Crazy"
+    },
+    {
+      "$id": 123,
+      "style": 15,
+      "name": "Wake-Up Whirl"
+    },
+    {
+      "$id": 124,
+      "style": 15,
+      "name": "R-Blade"
+    },
+    {
+      "$id": 125,
+      "style": 15,
+      "name": "H-Effect R"
+    },
+    {
+      "$id": 126,
+      "style": 15,
+      "name": "F-G-Shot"
+    },
+    {
+      "$id": 127,
+      "style": 15,
+      "name": "Empyrean Salvo"
+    },
+    {
+      "$id": 128,
+      "style": 15,
+      "name": "The Heavens Open"
+    },
+    {
+      "$id": 129,
+      "style": 15,
+      "name": "Final Retribution"
+    },
+    {
+      "$id": 130,
+      "style": 15,
+      "name": "Blood Altar"
+    },
+    {
+      "$id": 131,
+      "style": 15,
+      "name": "Tainted Palace"
+    },
+    {
+      "$id": 132,
+      "style": 15,
+      "name": "Accursed Prison"
+    },
+    {
+      "$id": 133,
+      "style": 15,
+      "name": "Heliodor Passion"
+    },
+    {
+      "$id": 134,
+      "style": 15,
+      "name": "Star Beryl Courage"
+    },
+    {
+      "$id": 135,
+      "style": 15,
+      "name": "Rhodochrosite Might"
+    },
+    {
+      "$id": 136,
+      "style": 15,
+      "name": "Crystal Blizzard"
+    },
+    {
+      "$id": 137,
+      "style": 15,
+      "name": "Snowblind"
+    },
+    {
+      "$id": 138,
+      "style": 15,
+      "name": "Frost Queen"
+    },
+    {
+      "$id": 139,
+      "style": 15,
+      "name": "Stream Edge"
+    },
+    {
+      "$id": 140,
+      "style": 15,
+      "name": "Falling Axe"
+    },
+    {
+      "$id": 141,
+      "style": 15,
+      "name": "Axe Throw"
+    },
+    {
+      "$id": 142,
+      "style": 15,
+      "name": "Round Break"
+    },
+    {
+      "$id": 143,
+      "style": 15,
+      "name": "Boomerang Spear"
+    },
+    {
+      "$id": 144,
+      "style": 15,
+      "name": "Splash Lance"
+    },
+    {
+      "$id": 145,
+      "style": 15,
+      "name": "Sidewinder"
+    },
+    {
+      "$id": 146,
+      "style": 15,
+      "name": "Aerial Trigger"
+    },
+    {
+      "$id": 147,
+      "style": 15,
+      "name": "Swing Cannon"
+    },
+    {
+      "$id": 148,
+      "style": 15,
+      "name": "Shield Charge"
+    },
+    {
+      "$id": 149,
+      "style": 15,
+      "name": "Smash Circle"
+    },
+    {
+      "$id": 150,
+      "style": 15,
+      "name": "Hammer Beat"
+    },
+    {
+      "$id": 151,
+      "style": 15,
+      "name": "Excelsior Slash"
+    },
+    {
+      "$id": 152,
+      "style": 15,
+      "name": "Triple Edge"
+    },
+    {
+      "$id": 153,
+      "style": 15,
+      "name": "Multi-Raid"
+    },
+    {
+      "$id": 154,
+      "style": 15,
+      "name": "Grenade Throw"
+    },
+    {
+      "$id": 155,
+      "style": 15,
+      "name": "Grim Sphere"
+    },
+    {
+      "$id": 156,
+      "style": 15,
+      "name": "Shrapnel"
+    },
+    {
+      "$id": 157,
+      "style": 15,
+      "name": "Flying Knuckle"
+    },
+    {
+      "$id": 158,
+      "style": 15,
+      "name": "Assault Rush"
+    },
+    {
+      "$id": 159,
+      "style": 15,
+      "name": "Executioner"
+    },
+    {
+      "$id": 160,
+      "style": 15,
+      "name": "Axe Break"
+    },
+    {
+      "$id": 161,
+      "style": 15,
+      "name": "Ground Charge"
+    },
+    {
+      "$id": 162,
+      "style": 15,
+      "name": "War Swing"
+    },
+    {
+      "$id": 163,
+      "style": 15,
+      "name": "Speed Glaive"
+    },
+    {
+      "$id": 164,
+      "style": 15,
+      "name": "Beam Halberd"
+    },
+    {
+      "$id": 165,
+      "style": 15,
+      "name": "Hair Trigger"
+    },
+    {
+      "$id": 166,
+      "style": 15,
+      "name": "Beam Bomber"
+    },
+    {
+      "$id": 167,
+      "style": 15,
+      "name": "Zero Burst"
+    },
+    {
+      "$id": 168,
+      "style": 15,
+      "name": "Spinning Laser"
+    },
+    {
+      "$id": 169,
+      "style": 15,
+      "name": "Wheel Crash"
+    },
+    {
+      "$id": 170,
+      "style": 15,
+      "name": "Ground Impulse"
+    },
+    {
+      "$id": 171,
+      "style": 15,
+      "name": "Turn Strike"
+    },
+    {
+      "$id": 172,
+      "style": 15,
+      "name": "Drop Edge"
+    },
+    {
+      "$id": 173,
+      "style": 15,
+      "name": "Counter Spin"
+    },
+    {
+      "$id": 174,
+      "style": 15,
+      "name": "Magnum Edge"
+    },
+    {
+      "$id": 175,
+      "style": 15,
+      "name": "Metal Blast"
+    },
+    {
+      "$id": 176,
+      "style": 15,
+      "name": "Wrecking Ball"
+    },
+    {
+      "$id": 177,
+      "style": 15,
+      "name": "Violent Swing"
+    },
+    {
+      "$id": 178,
+      "style": 15,
+      "name": "Bomber Tackle"
+    },
+    {
+      "$id": 179,
+      "style": 15,
+      "name": "Head Shaker"
+    },
+    {
+      "$id": 180,
+      "style": 15,
+      "name": "Knuckle Purge"
+    },
+    {
+      "$id": 181,
+      "style": 15,
+      "name": "Axe Strike"
+    },
+    {
+      "$id": 182,
+      "style": 15,
+      "name": "Megaslash"
+    },
+    {
+      "$id": 183,
+      "style": 15,
+      "name": "Flying Cutter"
+    },
+    {
+      "$id": 184,
+      "style": 15,
+      "name": "Multi-Edge"
+    },
+    {
+      "$id": 185,
+      "style": 15,
+      "name": "Trident Buster"
+    },
+    {
+      "$id": 186,
+      "style": 15,
+      "name": "Spiral Spear"
+    },
+    {
+      "$id": 187,
+      "style": 15,
+      "name": "Flash Barrel"
+    },
+    {
+      "$id": 188,
+      "style": 15,
+      "name": "Blink Bullet"
+    },
+    {
+      "$id": 189,
+      "style": 15,
+      "name": "Beam Barrage"
+    },
+    {
+      "$id": 190,
+      "style": 15,
+      "name": "Aerial Shield"
+    },
+    {
+      "$id": 191,
+      "style": 15,
+      "name": "Drum Roll"
+    },
+    {
+      "$id": 192,
+      "style": 15,
+      "name": "Hammer Rush"
+    },
+    {
+      "$id": 193,
+      "style": 15,
+      "name": "Sword Dance"
+    },
+    {
+      "$id": 194,
+      "style": 15,
+      "name": "Rage Cutter"
+    },
+    {
+      "$id": 195,
+      "style": 15,
+      "name": "Air Slash"
+    },
+    {
+      "$id": 196,
+      "style": 15,
+      "name": "Flash Bomb"
+    },
+    {
+      "$id": 197,
+      "style": 15,
+      "name": "Power Effect"
+    },
+    {
+      "$id": 198,
+      "style": 15,
+      "name": "Rumble Sphere"
+    },
+    {
+      "$id": 199,
+      "style": 15,
+      "name": "Thermal Payload"
+    },
+    {
+      "$id": 200,
+      "style": 15,
+      "name": "Leg Blast"
+    },
+    {
+      "$id": 201,
+      "style": 15,
+      "name": "Flash Blow"
+    },
+    {
+      "$id": 202,
+      "style": 15,
+      "name": "Ripple Drive"
+    },
+    {
+      "$id": 203,
+      "style": 15,
+      "name": "Dual Fang"
+    },
+    {
+      "$id": 204,
+      "style": 15,
+      "name": "Screw Edge"
+    },
+    {
+      "$id": 205,
+      "style": 155,
+      "name": "Concentrate attack on a single\nenemy, incinerating them."
+    },
+    {
+      "$id": 206,
+      "style": 155,
+      "name": "Absorb ether from the air and\ntransform it into fighting spirit."
+    },
+    {
+      "$id": 207,
+      "style": 155,
+      "name": "Pillars of fire erupt from\nbeneath all enemies."
+    },
+    {
+      "$id": 208,
+      "style": 155,
+      "name": "Fire concentrated arrows\nof light at an enemy."
+    },
+    {
+      "$id": 209,
+      "style": 155,
+      "name": "Slice an enemy multiple times\nwith a blade of light."
+    },
+    {
+      "$id": 210,
+      "style": 155,
+      "name": "Move at light-speed to cut\nthe enemy instantaneously."
+    },
+    {
+      "$id": 211,
+      "style": 155,
+      "name": "Blast a merciless siren\nbeam through enemies."
+    },
+    {
+      "$id": 212,
+      "style": 155,
+      "name": "Attack hostiles with\na light-speed attack."
+    },
+    {
+      "$id": 213,
+      "style": 155,
+      "name": "Pierce enemies with countless\nlight blades created by ether."
+    },
+    {
+      "$id": 214,
+      "style": 155,
+      "name": "Drain enemies' life force, and\ndistribute it to allies."
+    },
+    {
+      "$id": 215,
+      "style": 155,
+      "name": "Attack enemies with\na water shock wave."
+    },
+    {
+      "$id": 216,
+      "style": 155,
+      "name": "Destroy enemies from within by\nmanipulating the power of regeneration."
+    },
+    {
+      "$id": 217,
+      "style": 155,
+      "name": "Slash repeatedly by unleashing\nyour inner beast."
+    },
+    {
+      "$id": 218,
+      "style": 155,
+      "name": "Attack enemies and heal allies\nwith a wave of ether."
+    },
+    {
+      "$id": 219,
+      "style": 155,
+      "name": "Shoot forward all ether\ncollected by the rings."
+    },
+    {
+      "$id": 220,
+      "style": 155,
+      "name": "Attack all within range with spinning\nmotion."
+    },
+    {
+      "$id": 221,
+      "style": 155,
+      "name": "Shoot out a vortex of ether\ncreated within the body."
+    },
+    {
+      "$id": 222,
+      "style": 155,
+      "name": "Charge with jet propulsion\nlike a spinning drill."
+    },
+    {
+      "$id": 223,
+      "style": 155,
+      "name": "Launch a large missile and\naudaciously bomb the enemy."
+    },
+    {
+      "$id": 224,
+      "style": 155,
+      "name": "Pulverize the enemy with a spinning\npunch then an explosive uppercut."
+    },
+    {
+      "$id": 225,
+      "style": 155,
+      "name": "Launch countless missiles while in\nthe air to mow down your enemies."
+    },
+    {
+      "$id": 226,
+      "style": 155,
+      "name": "Shoot repeated slashing attacks\nwhile maneuvering freely."
+    },
+    {
+      "$id": 227,
+      "style": 155,
+      "name": "Mop up the enemy with a laser\nblast in bombardment mode."
+    },
+    {
+      "$id": 228,
+      "style": 155,
+      "name": "Overwhelm the enemy with\nunlimited repeat attacks."
+    },
+    {
+      "$id": 229,
+      "style": 155,
+      "name": "Spin your weapon round and incinerate\nenemies within range."
+    },
+    {
+      "$id": 230,
+      "style": 155,
+      "name": "Blue flames follow the\nenemy and deal damage."
+    },
+    {
+      "$id": 231,
+      "style": 155,
+      "name": "Swing round your weapon and\nfocus the attack on a single enemy."
+    },
+    {
+      "$id": 232,
+      "style": 155,
+      "name": "Catch a lightning strike with your wand\nand throw it out to attack enemies."
+    },
+    {
+      "$id": 233,
+      "style": 155,
+      "name": "Manipulate an electrified weapon with\nyour wand and attack the enemy."
+    },
+    {
+      "$id": 234,
+      "style": 155,
+      "name": "Smash your weapon into the ground\nfor a massive lightning explosion."
+    },
+    {
+      "$id": 235,
+      "style": 155,
+      "name": "Combine the Dual Scythes and\nthrow them at the enemy."
+    },
+    {
+      "$id": 236,
+      "style": 155,
+      "name": "Take the enemy by surprise\nwith acrobatic movements."
+    },
+    {
+      "$id": 237,
+      "style": 155,
+      "name": "Create a giant vortex to suck\nup the enemy in one go."
+    },
+    {
+      "$id": 238,
+      "style": 155,
+      "name": "Slash enemies in Tonfa mode\nand create a whirlwind."
+    },
+    {
+      "$id": 239,
+      "style": 155,
+      "name": "Pierce the enemy countless\ntimes in Sword mode."
+    },
+    {
+      "$id": 240,
+      "style": 155,
+      "name": "Shoot out a whirlwind to collect\nether in Shield mode."
+    },
+    {
+      "$id": 241,
+      "style": 155,
+      "name": "Release a shockwave from\nyour weapon in Shield mode."
+    },
+    {
+      "$id": 242,
+      "style": 155,
+      "name": "Shoot in Bow mode\nwhile flying back."
+    },
+    {
+      "$id": 243,
+      "style": 155,
+      "name": "Cut up the enemy while spinning\nhorizontally in the air with a kama."
+    },
+    {
+      "$id": 244,
+      "style": 155,
+      "name": "Perform a horizontal sweeping\nthree-pronged attack."
+    },
+    {
+      "$id": 245,
+      "style": 155,
+      "name": "Smash the naginata into the ground\nto send out a shockwave."
+    },
+    {
+      "$id": 246,
+      "style": 155,
+      "name": "Release a strong slashing attack\nwith a backward somersault."
+    },
+    {
+      "$id": 247,
+      "style": 155,
+      "name": "Soar into the air and attack with\nblack wings."
+    },
+    {
+      "$id": 248,
+      "style": 155,
+      "name": "Deal serious damage simply\nby twisting your fan."
+    },
+    {
+      "$id": 249,
+      "style": 155,
+      "name": "Compress ether between two fans\nand shoot it at the enemy."
+    },
+    {
+      "$id": 250,
+      "style": 155,
+      "name": "Tear into the enemy at great speed,\nhaphazardly wielding your weapon."
+    },
+    {
+      "$id": 251,
+      "style": 155,
+      "name": "Create a short sword from electric\nether and skewer the enemy."
+    },
+    {
+      "$id": 252,
+      "style": 155,
+      "name": "Emits a mysterious light from\ngiant eyes on your wings."
+    },
+    {
+      "$id": 253,
+      "style": 155,
+      "name": "Bash the hammer into the ground\nand set off a shockwave."
+    },
+    {
+      "$id": 254,
+      "style": 155,
+      "name": "Release ether in one burst,\nattacking indiscriminately."
+    },
+    {
+      "$id": 255,
+      "style": 155,
+      "name": "Wield four weapons and shower\nthe enemy with blows."
+    },
+    {
+      "$id": 256,
+      "style": 155,
+      "name": "Throw out a ball of condensed\nenergy from your right hand."
+    },
+    {
+      "$id": 257,
+      "style": 155,
+      "name": "Go on a rampage, bowling\nover the enemy."
+    },
+    {
+      "$id": 258,
+      "style": 155,
+      "name": "Hit the ground with ether collected\nbetween both fists."
+    },
+    {
+      "$id": 259,
+      "style": 155,
+      "name": "Gather ether in the Chroma Katana and\nrelease it as you draw the blade."
+    },
+    {
+      "$id": 260,
+      "style": 155,
+      "name": "Use a flying kick to dissolve the\nenemy's composure then tear them up."
+    },
+    {
+      "$id": 261,
+      "style": 155,
+      "name": "Perform a series of quick draw slashes\nthe moment you engage the enemy."
+    },
+    {
+      "$id": 262,
+      "style": 155,
+      "name": "Attack by grasping your shield and\nthrusting forward with all your might."
+    },
+    {
+      "$id": 263,
+      "style": 155,
+      "name": "Create a shock wave and ice pillar\nto overwhelm the enemy."
+    },
+    {
+      "$id": 264,
+      "style": 155,
+      "name": "Release all power and cause\na massive ice explosion."
+    },
+    {
+      "$id": 265,
+      "style": 155,
+      "name": "Spin weapon erratically and strike."
+    },
+    {
+      "$id": 266,
+      "style": 155,
+      "name": "Shoot out absorbed\nenergy in a laser blast."
+    },
+    {
+      "$id": 267,
+      "style": 155,
+      "name": "Fly up and perform a drop\nattack with maximum power."
+    },
+    {
+      "$id": 268,
+      "style": 155,
+      "name": "Attack by spraying out dark ether."
+    },
+    {
+      "$id": 269,
+      "style": 155,
+      "name": "At the moment of movement, perform\nquick draw cuts at visible speed."
+    },
+    {
+      "$id": 270,
+      "style": 155,
+      "name": "Adopt a quick draw pose, then in an\ninstant slash all enemies in range."
+    },
+    {
+      "$id": 271,
+      "style": 155,
+      "name": "Condense water ether and attack\nall enemies over a wide range."
+    },
+    {
+      "$id": 272,
+      "style": 155,
+      "name": "Attack by shooting out water ether\nfrom your spinning weapon."
+    },
+    {
+      "$id": 273,
+      "style": 155,
+      "name": "After high-speed spinning slashes,\nlaunch a giant water pillar."
+    },
+    {
+      "$id": 274,
+      "style": 155,
+      "name": "Calmly draw near the enemy and\nperform intense slashing attacks."
+    },
+    {
+      "$id": 275,
+      "style": 155,
+      "name": "Pursue a downed enemy with a kick\nand perform spinning slashes."
+    },
+    {
+      "$id": 276,
+      "style": 155,
+      "name": "Spread maximum ether and\nincinerate everything."
+    },
+    {
+      "$id": 277,
+      "style": 155,
+      "name": "Cover your whole body with\nwind ether and charge."
+    },
+    {
+      "$id": 278,
+      "style": 155,
+      "name": "Chew a Bitball and shoot\nout balls of energy."
+    },
+    {
+      "$id": 279,
+      "style": 155,
+      "name": "Shoot out a laser while in the\nair and eradicate your enemies."
+    },
+    {
+      "$id": 280,
+      "style": 155,
+      "name": "Kick a Bitball three\ntimes while spinning."
+    },
+    {
+      "$id": 281,
+      "style": 155,
+      "name": "Release a shockwave while\nspinning a Bitball."
+    },
+    {
+      "$id": 282,
+      "style": 155,
+      "name": "Massively enlarge a Bitball\nand roll it over the enemy."
+    },
+    {
+      "$id": 283,
+      "style": 155,
+      "name": "Condense dark ether\nuntil it explodes."
+    },
+    {
+      "$id": 284,
+      "style": 155,
+      "name": "Hit the shield while in the air, and\nemit a large amount of healing."
+    },
+    {
+      "$id": 285,
+      "style": 155,
+      "name": "Enter unconscious state with the mask\nand draw out your true power."
+    },
+    {
+      "$id": 286,
+      "style": 155,
+      "name": "Transform ether into bubble\nform and spray it forward."
+    },
+    {
+      "$id": 287,
+      "style": 155,
+      "name": "Gather ether on your weapon and shoot\nit out as a powerful current of water."
+    },
+    {
+      "$id": 288,
+      "style": 155,
+      "name": "Use water ether to attack with\nhigh-speed repeated thrusts."
+    },
+    {
+      "$id": 289,
+      "style": 155,
+      "name": "After throwing ice knives, attack with\nslashes."
+    },
+    {
+      "$id": 290,
+      "style": 155,
+      "name": "Release a powerful somersault kick\nafter three repeat attacks."
+    },
+    {
+      "$id": 291,
+      "style": 155,
+      "name": "With one slash, smash an ice pillar\nand attack enemies over a wide area."
+    },
+    {
+      "$id": 292,
+      "style": 155,
+      "name": "Use ice ether to attack with\na series of high-speed stabs."
+    },
+    {
+      "$id": 293,
+      "style": 155,
+      "name": "Swing your weapon round above your\nhead to create a giant block of ice."
+    },
+    {
+      "$id": 294,
+      "style": 155,
+      "name": "Create a giant ice lance and use\nit in an extra powerful charge."
+    },
+    {
+      "$id": 295,
+      "style": 155,
+      "name": "Do lively jumps and smash your\nweapon into the ground."
+    },
+    {
+      "$id": 296,
+      "style": 155,
+      "name": "Give heart-shaped electric ether\nto your enemies as a present."
+    },
+    {
+      "$id": 297,
+      "style": 155,
+      "name": "Release a powerful flying kick\nwhile spinning your weapon."
+    },
+    {
+      "$id": 298,
+      "style": 155,
+      "name": "Throw your weapon spinning into\nthe air so it shoots out lasers."
+    },
+    {
+      "$id": 299,
+      "style": 155,
+      "name": "Ether becomes a dark hand that rises\nout of the ground to attack the enemy."
+    },
+    {
+      "$id": 300,
+      "style": 155,
+      "name": "Throw your weapon into the air and\nspray bullets to annihilate the enemy."
+    },
+    {
+      "$id": 301,
+      "style": 155,
+      "name": "Beary swipes his ice claws\nand mows down the enemy."
+    },
+    {
+      "$id": 302,
+      "style": 155,
+      "name": "Beary attacks the enemy\nwith an ice shockwave."
+    },
+    {
+      "$id": 303,
+      "style": 155,
+      "name": "Beary spins round and overwhelms\nall enemies in range."
+    },
+    {
+      "$id": 304,
+      "style": 155,
+      "name": "Change ether into flaming slashes\nthat shoot out ahead."
+    },
+    {
+      "$id": 305,
+      "style": 155,
+      "name": "Wrap the Chroma Katana in flames\nand cut enemies ahead in two."
+    },
+    {
+      "$id": 306,
+      "style": 155,
+      "name": "After dealing a series of violent\npunches, cut enemies in two."
+    },
+    {
+      "$id": 307,
+      "style": 155,
+      "name": "Shoot out your own ether\nas a shockwave."
+    },
+    {
+      "$id": 308,
+      "style": 155,
+      "name": "Rush in wielding a weapon\nof concentrated ether."
+    },
+    {
+      "$id": 309,
+      "style": 155,
+      "name": "Kit and Sunny emit\na laser beam."
+    },
+    {
+      "$id": 310,
+      "style": 155,
+      "name": "Explode a giant ball of\nwater ether in mid-air."
+    },
+    {
+      "$id": 311,
+      "style": 155,
+      "name": "An unprecedented bathtub-based\ncharging assault."
+    },
+    {
+      "$id": 312,
+      "style": 155,
+      "name": "Fly up in the bath and\nattack indiscriminately."
+    },
+    {
+      "$id": 313,
+      "style": 155,
+      "name": "Swing your weapon round your\nhead and release a shockwave."
+    },
+    {
+      "$id": 314,
+      "style": 155,
+      "name": "Throw your weapon about randomly\nand cause a lightning explosion."
+    },
+    {
+      "$id": 315,
+      "style": 155,
+      "name": "Kick a ball and lightning will\nstrike where it bounces."
+    },
+    {
+      "$id": 316,
+      "style": 155,
+      "name": "Compress wind ether and\nblow away the enemy."
+    },
+    {
+      "$id": 317,
+      "style": 155,
+      "name": "Create a vacuum with high-speed\nchops and kicks."
+    },
+    {
+      "$id": 318,
+      "style": 155,
+      "name": "Hit the enemy with a series\nof compressed air kicks."
+    },
+    {
+      "$id": 319,
+      "style": 155,
+      "name": "Hit the ground while cheerfully\njumping and bounding."
+    },
+    {
+      "$id": 320,
+      "style": 155,
+      "name": "Charge forward after charging\nup electric ether."
+    },
+    {
+      "$id": 321,
+      "style": 155,
+      "name": "Create thunder clouds and attack\nenemies in range with lightning strikes."
+    },
+    {
+      "$id": 322,
+      "style": 155,
+      "name": "Gently raise the axe overhead\nthen bring it down crashing."
+    },
+    {
+      "$id": 323,
+      "style": 155,
+      "name": "Quickly raise the axe overhead\nand attack quickly."
+    },
+    {
+      "$id": 324,
+      "style": 155,
+      "name": "Fly around cutting up the enemy\nwith powerful slash attacks."
+    },
+    {
+      "$id": 325,
+      "style": 155,
+      "name": "Swing the hammer and\nhit ether balls."
+    },
+    {
+      "$id": 326,
+      "style": 155,
+      "name": "Attack enemies within range while\njumping and spinning your weapon."
+    },
+    {
+      "$id": 327,
+      "style": 155,
+      "name": "After jumping up in the sky, crash\ninto the ground at high speed."
+    },
+    {
+      "$id": 328,
+      "style": 155,
+      "name": "Put your enemies into a hornet's\nnest by spraying out bullets."
+    },
+    {
+      "$id": 329,
+      "style": 155,
+      "name": "Develop the Hilbert Effect and\nchange the course of battle."
+    },
+    {
+      "$id": 330,
+      "style": 155,
+      "name": "After charging energy, shoot\nout scattered laser beams."
+    },
+    {
+      "$id": 331,
+      "style": 155,
+      "name": "Launch homing missiles from\nyour weapon and tail."
+    },
+    {
+      "$id": 332,
+      "style": 155,
+      "name": "Release maximum electric ether\nand cause a huge explosion."
+    },
+    {
+      "$id": 333,
+      "style": 155,
+      "name": "Remove limiter and charge the\nenemy, exterminating them."
+    },
+    {
+      "$id": 334,
+      "style": 155,
+      "name": "Slap the enemy with the side of your\nweapon, then go on the attack."
+    },
+    {
+      "$id": 335,
+      "style": 155,
+      "name": "Seal enemy movements and pierce with\nthe lance as far as possible."
+    },
+    {
+      "$id": 336,
+      "style": 155,
+      "name": "Throw your weapon twice, then\nhit the enemy with a drop attack."
+    },
+    {
+      "$id": 337,
+      "style": 155,
+      "name": "The thrown weapon spins\nand cuts up the enemy."
+    },
+    {
+      "$id": 338,
+      "style": 155,
+      "name": "Swing the weapon down with\nall your strength as if digging."
+    },
+    {
+      "$id": 339,
+      "style": 155,
+      "name": "Attack the enemy by smashing\nup a crystal."
+    },
+    {
+      "$id": 340,
+      "style": 155,
+      "name": "Lift foot up high and throw the\nball as hard as possible."
+    },
+    {
+      "$id": 341,
+      "style": 155,
+      "name": "Kiss and attack with a\nball filled with ether."
+    },
+    {
+      "$id": 342,
+      "style": 155,
+      "name": "Charge up a Bitball on an ice stage,\nthen attack."
+    },
+    {
+      "$id": 343,
+      "style": 155,
+      "name": "Scare the enemy with crescent\nmoon slashes, then pounce."
+    },
+    {
+      "$id": 344,
+      "style": 155,
+      "name": "Attack by dropping down an\nether blade from above."
+    },
+    {
+      "$id": 345,
+      "style": 155,
+      "name": "Slash up enemies in range while\nspinning your weapon."
+    },
+    {
+      "$id": 346,
+      "style": 155,
+      "name": "Jump up and throw your Megalance\ndown to the side."
+    },
+    {
+      "$id": 347,
+      "style": 155,
+      "name": "Spin your weapon at high speed,\ndealing countless slash attacks."
+    },
+    {
+      "$id": 348,
+      "style": 155,
+      "name": "Create countless ether balls\nto attack the enemy."
+    },
+    {
+      "$id": 349,
+      "style": 155,
+      "name": "Launch two missiles at once\nto attack the enemy."
+    },
+    {
+      "$id": 350,
+      "style": 155,
+      "name": "Jump into the air and fire a shot\nwith an elemental attribute."
+    },
+    {
+      "$id": 351,
+      "style": 155,
+      "name": "Float your weapon and mow down\nall enemies within range with a laser."
+    },
+    {
+      "$id": 352,
+      "style": 155,
+      "name": "Charge in with your shield and\nperform a follow-on attack."
+    },
+    {
+      "$id": 353,
+      "style": 155,
+      "name": "Attack by throwing your\nweapon like a disc."
+    },
+    {
+      "$id": 354,
+      "style": 155,
+      "name": "Hit the ground with all your might\nto attack with a shockwave."
+    },
+    {
+      "$id": 355,
+      "style": 155,
+      "name": "Attack with a shockwave, then\nfollow on with an ether slash attack."
+    },
+    {
+      "$id": 356,
+      "style": 155,
+      "name": "Slash at the enemy repeatedly, not\nallowing them chance to defend."
+    },
+    {
+      "$id": 357,
+      "style": 155,
+      "name": "Attack with a shockwave and repeated\nslashes of your blade."
+    },
+    {
+      "$id": 358,
+      "style": 155,
+      "name": "Throw a condensed ball of\nether which explodes."
+    },
+    {
+      "$id": 359,
+      "style": 155,
+      "name": "Attack by repeatedly bashing\nyour enemy with the ball."
+    },
+    {
+      "$id": 360,
+      "style": 155,
+      "name": "Attacks with a Bitball, absorbing\nether which is used to heal you."
+    },
+    {
+      "$id": 361,
+      "style": 155,
+      "name": "Launch your Knuckle Claws like\nmissiles to attack the enemy."
+    },
+    {
+      "$id": 362,
+      "style": 155,
+      "name": "Charge forward in an instant and\noverwhelm the enemy with a flurry."
+    },
+    {
+      "$id": 363,
+      "style": 155,
+      "name": "Unleash a dive kick and cause\nan ether explosion."
+    },
+    {
+      "$id": 364,
+      "style": 155,
+      "name": "Smash your weapon into the ground\nand release a shockwave in the area."
+    },
+    {
+      "$id": 365,
+      "style": 155,
+      "name": "Smash your weapon into the ground\nand charge into the enemy."
+    },
+    {
+      "$id": 366,
+      "style": 155,
+      "name": "Swing your weapon with all your might\nto attack enemies in range."
+    },
+    {
+      "$id": 367,
+      "style": 155,
+      "name": "Use high-speed repeated stabs to\ndestroy the enemy to its core."
+    },
+    {
+      "$id": 368,
+      "style": 155,
+      "name": "Fill your weapon with ether\nand shoot it out as a laser."
+    },
+    {
+      "$id": 369,
+      "style": 155,
+      "name": "Pierce the ground with your lance\ntip to release a shockwave."
+    },
+    {
+      "$id": 370,
+      "style": 155,
+      "name": "Emit a laser from your\novercharged weapon."
+    },
+    {
+      "$id": 371,
+      "style": 155,
+      "name": "Charge at the enemy, then fire at close\nrange so it's difficult to avoid."
+    },
+    {
+      "$id": 372,
+      "style": 155,
+      "name": "Spin while emitting a laser,\nto mow down the enemy."
+    },
+    {
+      "$id": 373,
+      "style": 155,
+      "name": "Throw a hammer so it spins at\nhigh speed and hits the enemy."
+    },
+    {
+      "$id": 374,
+      "style": 155,
+      "name": "Hit the ground with your weapon\nand cause a shockwave."
+    },
+    {
+      "$id": 375,
+      "style": 155,
+      "name": "Throw your weapon ahead and by\nspinning it, attack enemies in range."
+    },
+    {
+      "$id": 376,
+      "style": 155,
+      "name": "Attack with blade sheathed,\nthen draw and slash."
+    },
+    {
+      "$id": 377,
+      "style": 155,
+      "name": "After throwing the scabbard from your\nleft hand, perform a slash attack."
+    },
+    {
+      "$id": 378,
+      "style": 155,
+      "name": "Stomp on the ground, and perform a\nquick draw cut with all your might."
+    },
+    {
+      "$id": 379,
+      "style": 155,
+      "name": "Hit the ball into the ground and\ncause a massive explosion."
+    },
+    {
+      "$id": 380,
+      "style": 155,
+      "name": "Hit the ball with your fist so it\nhits the enemy multiple times."
+    },
+    {
+      "$id": 381,
+      "style": 155,
+      "name": "Swing the ball around, as if on a chain,\nto hit enemies repeatedly."
+    },
+    {
+      "$id": 382,
+      "style": 155,
+      "name": "Barge into the enemy then give them\na powerful uppercut while dazed."
+    },
+    {
+      "$id": 383,
+      "style": 155,
+      "name": "Hit the ground with both fists to attack\nthe enemy with a powerful shockwave."
+    },
+    {
+      "$id": 384,
+      "style": 155,
+      "name": "Daze the enemy with a tackle\nthen shoot your weapon."
+    },
+    {
+      "$id": 385,
+      "style": 155,
+      "name": "Drop an ether blade from\nabove to attack."
+    },
+    {
+      "$id": 386,
+      "style": 155,
+      "name": "After random slash attacks, perform\na powerful spinning slash."
+    },
+    {
+      "$id": 387,
+      "style": 155,
+      "name": "Throw your weapon and adjust\nits path to attack the enemy."
+    },
+    {
+      "$id": 388,
+      "style": 155,
+      "name": "Create countless ether balls\nto attack the enemy."
+    },
+    {
+      "$id": 389,
+      "style": 155,
+      "name": "Jump up and throw your Megalance\ndown to the side."
+    },
+    {
+      "$id": 390,
+      "style": 155,
+      "name": "Throw your weapon so it spins round,\nhitting any enemy in range."
+    },
+    {
+      "$id": 391,
+      "style": 155,
+      "name": "Float your weapon and launch\na giant ether ball."
+    },
+    {
+      "$id": 392,
+      "style": 155,
+      "name": "Jump up into the air and\nlaunch a homing missile."
+    },
+    {
+      "$id": 393,
+      "style": 155,
+      "name": "Emit a laser from your\novercharged weapon."
+    },
+    {
+      "$id": 394,
+      "style": 155,
+      "name": "A mid-air weapon drops down at\nhigh speed, attacking the enemy."
+    },
+    {
+      "$id": 395,
+      "style": 155,
+      "name": "Hit the ground with all your might,\nattacking with a shockwave."
+    },
+    {
+      "$id": 396,
+      "style": 155,
+      "name": "After swinging your weapon repeatedly,\nfinish off with a rising attack."
+    },
+    {
+      "$id": 397,
+      "style": 155,
+      "name": "A two-stage attack where you slash\nthen attack with blade sheathed."
+    },
+    {
+      "$id": 398,
+      "style": 155,
+      "name": "Heighten concentration and perform\na triple slash attack."
+    },
+    {
+      "$id": 399,
+      "style": 155,
+      "name": "Perform a quick draw in the air then\nrelease a massive slash attack."
+    },
+    {
+      "$id": 400,
+      "style": 155,
+      "name": "Throw a condensed ball of\nether which explodes."
+    },
+    {
+      "$id": 401,
+      "style": 155,
+      "name": "Unleash condensed ether above\nthe head to attack."
+    },
+    {
+      "$id": 402,
+      "style": 155,
+      "name": "The ball bashes into the enemy\nmultiple times, damaging them."
+    },
+    {
+      "$id": 403,
+      "style": 155,
+      "name": "Knuckle Claws fly out\nmatching your movements."
+    },
+    {
+      "$id": 404,
+      "style": 155,
+      "name": "Combo move with a single punch\nfollowed by a sharp kick."
+    },
+    {
+      "$id": 405,
+      "style": 155,
+      "name": "Combo attack with a forward\nsomersault followed by a flying kick."
+    },
+    {
+      "$id": 406,
+      "style": 155,
+      "name": "Control ether to attack the\nenemy and heal allies."
+    },
+    {
+      "$id": 407,
+      "style": 155,
+      "name": "Shoot out lasers from the rings\nfloating on both sides."
+    },
+    {
+      "$id": 408,
+      "style": 155,
+      "name": "Attack repeatedly using the\nring held in the mouth."
+    },
+    {
+      "$id": 409,
+      "style": 15,
+      "name": "ECHIDNA"
+    },
+    {
+      "$id": 410,
+      "style": 15,
+      "name": "MAGDALENE 16"
+    },
+    {
+      "$id": 411,
+      "style": 15,
+      "name": "T-SKYLLA"
+    },
+    {
+      "$id": 412,
+      "style": 15,
+      "name": "Buster Cyclone"
+    },
+    {
+      "$id": 413,
+      "style": 15,
+      "name": "Buster Cannon"
+    },
+    {
+      "$id": 414,
+      "style": 15,
+      "name": "Buster Mirage"
+    },
+    {
+      "$id": 415,
+      "style": 15,
+      "name": "Monado Purge"
+    },
+    {
+      "$id": 416,
+      "style": 15,
+      "name": "Monado Cyclone"
+    },
+    {
+      "$id": 417,
+      "style": 15,
+      "name": "Monado Buster"
+    },
+    {
+      "$id": 418,
+      "style": 15,
+      "name": "Hidden Thorn"
+    },
+    {
+      "$id": 419,
+      "style": 15,
+      "name": "Power Smash"
+    },
+    {
+      "$id": 420,
+      "style": 15,
+      "name": "Lacerate"
+    },
+    {
+      "$id": 421,
+      "style": 15,
+      "name": "Fuga Daemonum"
+    },
+    {
+      "$id": 422,
+      "style": 15,
+      "name": "Lacerna Noctis"
+    },
+    {
+      "$id": 423,
+      "style": 15,
+      "name": "Ex Tenebris Lux"
+    },
+    {
+      "$id": 424,
+      "style": 15,
+      "name": "Go! Great Star!"
+    },
+    {
+      "$id": 425,
+      "style": 15,
+      "name": "Go! Shooting Star!"
+    },
+    {
+      "$id": 426,
+      "style": 15,
+      "name": "Go! Lucky Star!"
+    },
+    {
+      "$id": 427,
+      "style": 15,
+      "name": "Sliding Slinger"
+    },
+    {
+      "$id": 428,
+      "style": 15,
+      "name": "Hundred Shells"
+    },
+    {
+      "$id": 429,
+      "style": 15,
+      "name": "Violent Streak"
+    },
+    {
+      "$id": 430,
+      "style": 155,
+      "name": "Deliver a slashing attack, and follow it\nup with a powerful kick."
+    },
+    {
+      "$id": 431,
+      "style": 155,
+      "name": "Deliver a whirling blow followed by\na wild volley of shots."
+    },
+    {
+      "$id": 432,
+      "style": 155,
+      "name": "Unleash a mid-air slash and then\nunload your firearm at the enemy."
+    },
+    {
+      "$id": 433,
+      "style": 155,
+      "name": "Transform your weapon into knuckle\nclaws and barrel into the enemy."
+    },
+    {
+      "$id": 434,
+      "style": 155,
+      "name": "Transform your weapon into a cannon\nand unload it into the enemy."
+    },
+    {
+      "$id": 435,
+      "style": 155,
+      "name": "Unleash the combined power of Hana\nMk. II and Hanabuster on the enemy."
+    },
+    {
+      "$id": 436,
+      "style": 155,
+      "name": "Brandish the Monado to generate\na mid-air shockwave."
+    },
+    {
+      "$id": 437,
+      "style": 155,
+      "name": "Perform a rising spin to damage\nenemies surrounding you."
+    },
+    {
+      "$id": 438,
+      "style": 155,
+      "name": "A powerful slash using the true power\nof the Monado."
+    },
+    {
+      "$id": 439,
+      "style": 155,
+      "name": "Quickly close in on the enemy and\ndice them into submission."
+    },
+    {
+      "$id": 440,
+      "style": 155,
+      "name": "Charge up power, then unleash it in\na series of airborne spinning attacks."
+    },
+    {
+      "$id": 441,
+      "style": 155,
+      "name": "Deliver a rising attack, followed up\nwith a strong downward blow."
+    },
+    {
+      "$id": 442,
+      "style": 155,
+      "name": "Slash foes in the surrounding area\nwith blades made of light."
+    },
+    {
+      "$id": 443,
+      "style": 155,
+      "name": "Lead with a mighty cleaving blow,\nthen follow-up with a cape swipe."
+    },
+    {
+      "$id": 444,
+      "style": 155,
+      "name": "A dual-sword combo assault using\nthe power of Durandal."
+    },
+    {
+      "$id": 445,
+      "style": 155,
+      "name": "Cram the Bitball full of ether,\nthen spin it and make it blow up."
+    },
+    {
+      "$id": 446,
+      "style": 155,
+      "name": "Set off a series of ether explosions,\ncapped with one last big one."
+    },
+    {
+      "$id": 447,
+      "style": 155,
+      "name": "Set up the Bitball, then spike it for\na truly giant boom."
+    },
+    {
+      "$id": 448,
+      "style": 155,
+      "name": "Slide forward while concentrating fire\non the enemy."
+    },
+    {
+      "$id": 449,
+      "style": 155,
+      "name": "Swing your swords downward to send\nshockwaves flying at your foes."
+    },
+    {
+      "$id": 450,
+      "style": 155,
+      "name": "Blast all enemies in the vicinity with\nan unstoppable barrage of fire."
+    },
+    {
+      "$id": 451,
+      "style": 15,
+      "name": "Wildfire Snap"
+    },
+    {
+      "$id": 452,
+      "style": 15,
+      "name": "Ring o' Roses"
+    },
+    {
+      "$id": 453,
+      "style": 15,
+      "name": "Spiral Snare"
+    },
+    {
+      "$id": 454,
+      "style": 15,
+      "name": "Hailstrike"
+    },
+    {
+      "$id": 455,
+      "style": 15,
+      "name": "Zero Blade"
+    },
+    {
+      "$id": 456,
+      "style": 15,
+      "name": "Ice Revolution"
+    },
+    {
+      "$id": 457,
+      "style": 15,
+      "name": "Pebble Storm"
+    },
+    {
+      "$id": 458,
+      "style": 15,
+      "name": "Cloudburst"
+    },
+    {
+      "$id": 459,
+      "style": 15,
+      "name": "Celadon Whirlwind"
+    },
+    {
+      "$id": 460,
+      "style": 15,
+      "name": "Sword Blossom"
+    },
+    {
+      "$id": 461,
+      "style": 15,
+      "name": "Assault Rave"
+    },
+    {
+      "$id": 462,
+      "style": 15,
+      "name": "Soul Burst"
+    },
+    {
+      "$id": 463,
+      "style": 15,
+      "name": "Twilight Striker"
+    },
+    {
+      "$id": 464,
+      "style": 15,
+      "name": "Chroma Dust"
+    },
+    {
+      "$id": 465,
+      "style": 15,
+      "name": "Terminal Flash"
+    },
+    {
+      "$id": 466,
+      "style": 15,
+      "name": "Espada"
+    },
+    {
+      "$id": 467,
+      "style": 15,
+      "name": "Ciclón"
+    },
+    {
+      "$id": 468,
+      "style": 15,
+      "name": "Cruceta"
+    },
+    {
+      "$id": 469,
+      "style": 15,
+      "name": "Shield Rondo"
+    },
+    {
+      "$id": 470,
+      "style": 15,
+      "name": "Imperial Sword"
+    },
+    {
+      "$id": 471,
+      "style": 15,
+      "name": "Final Thrust"
+    },
+    {
+      "$id": 472,
+      "style": 15,
+      "name": "Wheel of Penance"
+    },
+    {
+      "$id": 473,
+      "style": 15,
+      "name": "Twin Serpents"
+    },
+    {
+      "$id": 474,
+      "style": 15,
+      "name": "Beltane Blade"
+    },
+    {
+      "$id": 475,
+      "style": 15,
+      "name": "Cascade Smash"
+    },
+    {
+      "$id": 476,
+      "style": 15,
+      "name": "Roiling Tide"
+    },
+    {
+      "$id": 477,
+      "style": 15,
+      "name": "Hundred-Year Wave"
+    },
+    {
+      "$id": 478,
+      "style": 155,
+      "name": "A boisterous flurry of strikes and\nkicks that really puts the pressure on."
+    },
+    {
+      "$id": 479,
+      "style": 155,
+      "name": "Push ahead with a series of open-palm\nstrikes."
+    },
+    {
+      "$id": 480,
+      "style": 155,
+      "name": "Lead with a vicious flying kick,\nthen follow with the battle braid."
+    },
+    {
+      "$id": 481,
+      "style": 155,
+      "name": "Cut the enemy to ribbons with a series\nof quick, relentless slashes."
+    },
+    {
+      "$id": 482,
+      "style": 155,
+      "name": "A combo attack of sword cuts and\nice spears delivered at absolute zero."
+    },
+    {
+      "$id": 483,
+      "style": 155,
+      "name": "Unbalance your foe with a palm strike,\nthen follow up with powerful slashes."
+    },
+    {
+      "$id": 484,
+      "style": 155,
+      "name": "Scatter wind ether projectiles over\na large area to deal damage."
+    },
+    {
+      "$id": 485,
+      "style": 155,
+      "name": "Deploy numerous whirlwinds out in\nfront of you to lay waste to your foes."
+    },
+    {
+      "$id": 486,
+      "style": 155,
+      "name": "Barrage your foe with razor-sharp wind,\nthen blow them away with a tornado."
+    },
+    {
+      "$id": 487,
+      "style": 155,
+      "name": "Send the enemy flying with a\nbreathless onslaught of cuts."
+    },
+    {
+      "$id": 488,
+      "style": 155,
+      "name": "Put all your momentum into a single\nslash to blow the enemy away."
+    },
+    {
+      "$id": 489,
+      "style": 155,
+      "name": "An unparalleled strike, backed by the\nuser's whole body and soul."
+    },
+    {
+      "$id": 490,
+      "style": 155,
+      "name": "Launch a flurry of light-speed slashes,\nthen finish up with a spinning strike."
+    },
+    {
+      "$id": 491,
+      "style": 155,
+      "name": "Charge your sword with ether energy,\nthen blast the enemy from mid-air."
+    },
+    {
+      "$id": 492,
+      "style": 155,
+      "name": "A focused attack targeting a single\nenemy to annihilate them."
+    },
+    {
+      "$id": 493,
+      "style": 155,
+      "name": "Lead with a series of double-bladed\ncuts, then barrage the foe with bullets."
+    },
+    {
+      "$id": 494,
+      "style": 155,
+      "name": "Destroy your enemies using cuts and\nshots delivered while spinning."
+    },
+    {
+      "$id": 495,
+      "style": 155,
+      "name": "Slide into range, guns blazing, then\nleap in for an all-out attack."
+    },
+    {
+      "$id": 496,
+      "style": 155,
+      "name": "Unbalance the enemy with a flurry of\nstrikes, then rush them with full force."
+    },
+    {
+      "$id": 497,
+      "style": 155,
+      "name": "Deploy a series of powerful slashes to\ndraw enemy attention on yourself."
+    },
+    {
+      "$id": 498,
+      "style": 155,
+      "name": "Surge forward to break the enemies'\nstances, then end with a mighty charge."
+    },
+    {
+      "$id": 499,
+      "style": 155,
+      "name": "Slash at the enemy with flames, cast\nwhile revolving relentlessly."
+    },
+    {
+      "$id": 500,
+      "style": 155,
+      "name": "A blindingly fast series of cuts, followed\nby an unstoppable cross-slash."
+    },
+    {
+      "$id": 501,
+      "style": 155,
+      "name": "Spin sideways, slashing the enemy,\nthen immolate them with azure flame."
+    },
+    {
+      "$id": 502,
+      "style": 155,
+      "name": "Slash against the enemy, then follow up\nwith a series of aerial kicks."
+    },
+    {
+      "$id": 503,
+      "style": 155,
+      "name": "Forge ahead with sword strikes backed\nup by waves of water ether energy."
+    },
+    {
+      "$id": 504,
+      "style": 155,
+      "name": "Shoot energy waves from your sword,\nthen conclude with an overhead strike."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000701_02_msg0001",
+      "style": 84,
+      "name": "We'll be staying here a while. Why\ndon't you shrimps take a gander\naround Hræsvelgr in the meantime?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000701_02_msg0002",
+      "style": 84,
+      "name": "Give Guldon a shout once you're done\nsightseeing. He'll rustle up some grub\nfor ya."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000701_02_msg0003",
+      "style": 84,
+      "name": "We can have a right bonzer feast and\nget to know each other a little better!"
+    }
+  ]
+}

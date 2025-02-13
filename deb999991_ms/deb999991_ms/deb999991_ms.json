@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "deb999991_0001",
+      "style": 2,
+      "name": "Test for consecutive event."
+    },
+    {
+      "$id": 2,
+      "label": "deb999991_0002",
+      "style": 2,
+      "name": "Link to next consecutive\nevent?"
+    },
+    {
+      "$id": 3,
+      "label": "deb999991_0003",
+      "style": 2,
+      "name": "Yes"
+    },
+    {
+      "$id": 4,
+      "label": "deb999991_0004",
+      "style": 2,
+      "name": "No"
+    },
+    {
+      "$id": 5,
+      "label": "deb999991_0005",
+      "style": 2,
+      "name": "Linking to another event."
+    },
+    {
+      "$id": 6,
+      "label": "deb999991_0006",
+      "style": 2,
+      "name": "Canceled."
+    }
+  ]
+}

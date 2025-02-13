@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001301_msg0001",
+      "style": 84,
+      "name": "*sigh*\nWhat am I gonna do about this...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst001301_msg0002",
+      "style": 84,
+      "name": "Oh, hello there. That's about as big of\na welcome as I can muster right now."
+    },
+    {
+      "$id": 3,
+      "label": "qst001301_msg0003",
+      "style": 84,
+      "name": "I'm in a bit of tight spot. At this rate,\nmy whole trade might be done for!"
+    },
+    {
+      "$id": 4,
+      "label": "qst001301_msg0005",
+      "style": 84,
+      "name": "But I dunno how interested you are in\nmy problems."
+    },
+    {
+      "$id": 5,
+      "label": "qst001301_msg0006",
+      "style": 84,
+      "name": "Huh? No, really, it'd bore you to death.\nWait, hang on...are you lot Drivers?"
+    },
+    {
+      "$id": 6,
+      "label": "qst001301_msg0007",
+      "style": 84,
+      "name": "Oh, this is a turn-up for the books!"
+    },
+    {
+      "$id": 7,
+      "label": "qst001301_msg0008",
+      "style": 84,
+      "name": "They've been having a bit of problem\nwith monsters in Gwenith Paddies\nlately. They can't harvest the Gromrice."
+    },
+    {
+      "$id": 8,
+      "label": "qst001301_msg0009",
+      "style": 84,
+      "name": "詳しくは知らねぇが\nヴィルトシュヴァイン傭兵団とやらが\nそのモンスター（仮）の天敵を倒しすぎたとか[ML:Dash ]"
+    },
+    {
+      "$id": 9,
+      "label": "qst001301_msg0010",
+      "style": 84,
+      "name": "But anyhow, that means I can't make\nhalf the items on my menu, 'cos I've\ngot no Gromrice."
+    },
+    {
+      "$id": 10,
+      "label": "qst001301_msg0011",
+      "style": 84,
+      "name": "So my business is in a bit of a slump.\nI can't really open up till it gets sorted\nout."
+    },
+    {
+      "$id": 11,
+      "label": "qst001301_msg0012",
+      "style": 84,
+      "name": "It's not just a problem for me. I can't\npay my staff. I dunno what they're\ngoing to do."
+    },
+    {
+      "$id": 12,
+      "label": "qst001301_msg0013",
+      "style": 84,
+      "name": "Well, that's my problem. You lot look\npretty tough, so I thought it was worth\na punt to tell you about it."
+    },
+    {
+      "$id": 13,
+      "label": "qst001301_msg0014",
+      "style": 84,
+      "name": "Do you reckon you could get it sorted\nfor us?"
+    },
+    {
+      "$id": 14,
+      "label": "qst001301_msg0015",
+      "style": 84,
+      "name": "Gwenith Paddiesの\nモンスター共（仮）を倒してほしいんだ"
+    },
+    {
+      "$id": 15,
+      "label": "qst001301_msg0016",
+      "style": 84,
+      "name": "I'll make it worth your while, of course."
+    },
+    {
+      "$id": 16,
+      "label": "qst001301_msg0017",
+      "style": 84,
+      "name": "So, what do you say?"
+    },
+    {
+      "$id": 17,
+      "label": "qst001301_msg0018",
+      "style": 84,
+      "name": "Oh, thank you so much! I really owe\nyou! Or, I mean, I will, once you've\ntaken care of it."
+    },
+    {
+      "$id": 18,
+      "label": "qst001301_msg0019",
+      "style": 84,
+      "name": "All right, well, I'll let you go and sort it\nout."
+    },
+    {
+      "$id": 19,
+      "label": "qst001301_msg0101",
+      "style": 84,
+      "name": "Hey there again. Did you\nforget where to go?"
+    },
+    {
+      "$id": 20,
+      "label": "qst001301_msg0102",
+      "style": 84,
+      "name": "俺の依頼は\nGwenith Paddiesで繁殖した\nエネミー（仮）の討伐だ"
+    },
+    {
+      "$id": 21,
+      "label": "qst001301_msg0103",
+      "style": 84,
+      "name": "Thanks for taking it on!"
+    },
+    {
+      "$id": 22,
+      "label": "qst001301_msg0201",
+      "style": 84,
+      "name": "What's up? Did you forget something?"
+    },
+    {
+      "$id": 23,
+      "label": "qst001301_msg0202",
+      "style": 84,
+      "name": "それとも　もうモンスター共（仮）を\n倒してきたのか？"
+    },
+    {
+      "$id": 24,
+      "label": "qst001301_msg0203",
+      "style": 84,
+      "name": "Haha! Taking care of that many\nmonsters in such a short time? The\nvery thought of it!"
+    },
+    {
+      "$id": 25,
+      "label": "qst001301_msg0204",
+      "style": 84,
+      "name": "Huh? Done already? No.\nI don't believe it. Seriously?"
+    },
+    {
+      "$id": 26,
+      "label": "qst001301_msg0205",
+      "style": 84,
+      "name": "Are you sure you aren't fibbing?\nI'll find out if you are, y'know!\nBut wait... If you ARE serious..."
+    },
+    {
+      "$id": 27,
+      "label": "qst001301_msg0207",
+      "style": 84,
+      "name": "Well, I told you I shut up shop\nfor the moment, yeah?"
+    },
+    {
+      "$id": 28,
+      "label": "qst001301_msg0208",
+      "style": 84,
+      "name": "So, as the guy in charge, I gotta make\nsure we don't lose too much cash here.\nAnd wages cost a bunch."
+    },
+    {
+      "$id": 29,
+      "label": "qst001301_msg0209",
+      "style": 84,
+      "name": "So I kind of...don't have any staff left!"
+    },
+    {
+      "$id": 30,
+      "label": "qst001301_msg0210",
+      "style": 84,
+      "name": "I guess I got a bit carried away letting\npeople go. But I mean, I didn't expect\nthe problem to clear up so quick!"
+    },
+    {
+      "$id": 31,
+      "label": "qst001301_msg0211",
+      "style": 84,
+      "name": "Been in our family for generations,\nthis place has. I have to make tough\ndecisions to keep it afloat sometimes."
+    },
+    {
+      "$id": 32,
+      "label": "qst001301_msg0212",
+      "style": 84,
+      "name": "Seems like my decision backfired a bit\nthis time, though."
+    },
+    {
+      "$id": 33,
+      "label": "qst001301_msg0213",
+      "style": 84,
+      "name": "But it's far too soon to give up!"
+    },
+    {
+      "$id": 34,
+      "label": "qst001301_msg0214",
+      "style": 84,
+      "name": "Could you help me out here while I\ntry and round some staff back up?"
+    },
+    {
+      "$id": 35,
+      "label": "qst001301_msg0215",
+      "style": 84,
+      "name": "Hey, you've helped me this far.\nWhat's a little more, right?\nI'll double your reward and everything!"
+    },
+    {
+      "$id": 36,
+      "label": "qst001301_msg0216",
+      "style": 84,
+      "name": "You'll help? Thanks a million!"
+    },
+    {
+      "$id": 37,
+      "label": "qst001301_msg0217",
+      "style": 84,
+      "name": "OK, sorry to be throwin' orders at you\nalready, but there's this tricky request\njust came in from one of my regulars."
+    },
+    {
+      "$id": 38,
+      "label": "qst001301_msg0218",
+      "style": 84,
+      "name": "I need someone to fetch the\ningredients. Giant Frog Meat\nand Fusty Fungus, to be precise."
+    },
+    {
+      "$id": 39,
+      "label": "qst001301_msg0219",
+      "style": 84,
+      "name": "Fusty Fungus isn't too difficult.\nI just order it in from Hræsvelgr usually."
+    },
+    {
+      "$id": 40,
+      "label": "qst001301_msg0220",
+      "style": 84,
+      "name": "Giant Frog Meat, though...that's\na bit more tricky."
+    },
+    {
+      "$id": 41,
+      "label": "qst001301_msg0221",
+      "style": 84,
+      "name": "○○○にいる×××を倒せば\n手に入るだろう"
+    },
+    {
+      "$id": 42,
+      "label": "qst001301_msg0222",
+      "style": 84,
+      "name": "It's a bit of big ask, but I'm sure you\nlot'll be able to sort it out, no problem."
+    },
+    {
+      "$id": 43,
+      "label": "qst001301_msg0223",
+      "style": 84,
+      "name": "Oh? You'll do it? That's a really big\nhelp to me!"
+    },
+    {
+      "$id": 44,
+      "label": "qst001301_msg0224",
+      "style": 84,
+      "name": "OK, I'll leave it up to you lot then.\nGood luck!"
+    },
+    {
+      "$id": 45,
+      "label": "qst001302_msg0301",
+      "style": 84,
+      "name": "It's not easy, getting staff to come\nback after you've let them go..."
+    },
+    {
+      "$id": 46,
+      "label": "qst001302_msg0302",
+      "style": 84,
+      "name": "How you doing with that\nGiant Frog Meat and Fusty Fungus?"
+    },
+    {
+      "$id": 47,
+      "label": "qst001302_msg0303",
+      "style": 84,
+      "name": "Fusty Fungus is pretty easy to order\nfrom Hræsvelgr."
+    },
+    {
+      "$id": 48,
+      "label": "qst001302_msg0304",
+      "style": 84,
+      "name": "Giant Frog Meatは\n○○○にいる×××を倒せば\n手に入るだろ"
+    },
+    {
+      "$id": 49,
+      "label": "qst001302_msg0305",
+      "style": 84,
+      "name": "Good luck with it!"
+    },
+    {
+      "$id": 50,
+      "label": "qst001301_msg0401",
+      "style": 84,
+      "name": "Aha! Just who I was hoping to see!"
+    },
+    {
+      "$id": 51,
+      "label": "qst001301_msg0402",
+      "style": 84,
+      "name": "Right, I'll get this dish whipped up\nin a jiffy. Could you deliver it when\nit's done?"
+    },
+    {
+      "$id": 52,
+      "label": "qst001301_msg0403",
+      "style": 84,
+      "name": "There you go! One Salted Brog Sauté!"
+    },
+    {
+      "$id": 53,
+      "label": "qst001301_msg0404",
+      "style": 84,
+      "name": "Ever had it before? The eyes are the\ntastiest bit, y'know."
+    },
+    {
+      "$id": 54,
+      "label": "qst001301_msg0405",
+      "style": 84,
+      "name": "What's up? Hungry for something?"
+    },
+    {
+      "$id": 55,
+      "label": "qst001301_msg0406",
+      "style": 84,
+      "name": "Course you are! Must be tough making\ndeliveries now all this lovely food's got\nyour taste buds tickled, eh?"
+    },
+    {
+      "$id": 56,
+      "label": "qst001301_msg0407",
+      "style": 84,
+      "name": "I'll whip you up an extra bit if you like,\nsince you've already been so helpful."
+    },
+    {
+      "$id": 57,
+      "label": "qst001301_msg0408",
+      "style": 84,
+      "name": "Hey, what's up? Your appetite left you\nspeechless? Don't you want to try this\ndelicious grub?"
+    },
+    {
+      "$id": 58,
+      "label": "qst001301_msg0409",
+      "style": 84,
+      "name": "Looks pretty tasty, doesn't it?"
+    },
+    {
+      "$id": 59,
+      "label": "qst001301_msg0410",
+      "style": 84,
+      "name": "The smell's irresistible, isn't it?\nMelt in your mouth, that will.\nI bet you're dying for a bite, right?"
+    },
+    {
+      "$id": 60,
+      "label": "qst001301_msg0411",
+      "style": 84,
+      "name": "How will you respond?"
+    },
+    {
+      "$id": 61,
+      "label": "qst001301_msg0412",
+      "style": 84,
+      "name": "Say you'd like to try it sometime"
+    },
+    {
+      "$id": 62,
+      "label": "qst001301_msg0413",
+      "style": 84,
+      "name": "Say you never want to eat it"
+    },
+    {
+      "$id": 63,
+      "label": "qst001301_msg0414",
+      "style": 84,
+      "name": "Ah! I knew it! Well, I wouldn't dream of\nnot giving you a taste of this gourmet\ncuisine."
+    },
+    {
+      "$id": 64,
+      "label": "qst001301_msg0415",
+      "style": 84,
+      "name": "Hehehe... I'll stew yours in the oily\njuices a little longer to make sure\nit's packed full of froggy flavor!"
+    },
+    {
+      "$id": 65,
+      "label": "qst001301_msg0416",
+      "style": 84,
+      "name": "Uh... All right, then?"
+    },
+    {
+      "$id": 66,
+      "label": "qst001301_msg0417",
+      "style": 84,
+      "name": "That's mighty odd... Who wouldn't\nlove my famous Salted Brog Sauté?"
+    },
+    {
+      "$id": 67,
+      "label": "qst001301_msg0418",
+      "style": 84,
+      "name": "I was going to give you a year's supply\nas your payment, actually. Maybe I'd\nbest come up with a different reward."
+    },
+    {
+      "$id": 68,
+      "label": "qst001301_msg0419",
+      "style": 84,
+      "name": "Anyway, let's focus on the task at hand."
+    },
+    {
+      "$id": 69,
+      "label": "qst001301_msg0420",
+      "style": 84,
+      "name": "Can you deliver this to Svandin for me?"
+    },
+    {
+      "$id": 70,
+      "label": "qst001301_msg0421",
+      "style": 84,
+      "name": "You'll find him at the Invidian barracks\nnear Fons Maim Port."
+    },
+    {
+      "$id": 71,
+      "label": "qst001301_msg0422",
+      "style": 84,
+      "name": "Thanks again!"
+    },
+    {
+      "$id": 72,
+      "label": "qst001301_msg0501",
+      "style": 84,
+      "name": "Huh? Not too sure where you're\nsupposed to go, are you?"
+    },
+    {
+      "$id": 73,
+      "label": "qst001301_msg0502",
+      "style": 84,
+      "name": "You'll find Svandin at the Invidian\nbarracks near Fons Maim Port."
+    },
+    {
+      "$id": 74,
+      "label": "qst001301_msg0503",
+      "style": 84,
+      "name": "Thanks a lot for taking care\nof that for me."
+    },
+    {
+      "$id": 75,
+      "label": "qst001301_msg0601",
+      "style": 84,
+      "name": "Good to see you again! Looks like you\nmanaged to take care of that delivery.\nThat's a real big help!"
+    },
+    {
+      "$id": 76,
+      "label": "qst001301_msg0602",
+      "style": 84,
+      "name": "Thanks to you lot, I'm going to be able\nto get my business back on its feet!"
+    },
+    {
+      "$id": 77,
+      "label": "qst001301_msg0603",
+      "style": 84,
+      "name": "Now as for your compensation..."
+    },
+    {
+      "$id": 78,
+      "label": "qst001301_msg0604",
+      "style": 84,
+      "name": "I'd like to give you one of our\nsuper-secret recipes."
+    },
+    {
+      "$id": 79,
+      "label": "qst001301_msg0605",
+      "style": 84,
+      "name": "Salted Brog Sauté! What did you\nthink it was going to be?"
+    },
+    {
+      "$id": 80,
+      "label": "qst001301_msg0606",
+      "style": 84,
+      "name": "I was in deep trouble there, and you\nhelped me out. So I wanted to give you\nsomething really special."
+    },
+    {
+      "$id": 81,
+      "label": "qst001301_msg0607",
+      "style": 84,
+      "name": "It's my great grandpa's recipe, but I'm\nsure he wouldn't mind me giving it to\nyou, considering the circumstances."
+    },
+    {
+      "$id": 82,
+      "label": "qst001301_msg0608",
+      "style": 84,
+      "name": "Hey, you're looking a bit green round\nthe gills. Are you feeling OK?"
+    },
+    {
+      "$id": 83,
+      "label": "qst001301_msg0609",
+      "style": 84,
+      "name": "Haven't been working yourself sick,\nhave you?"
+    },
+    {
+      "$id": 84,
+      "label": "qst001301_msg0610",
+      "style": 84,
+      "name": "Nothing a nice big bowl of Salted Brog\nSauté won't fix!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006301_09_msg0001",
+      "style": 84,
+      "name": "Luxuria has come out of the attack\nrelatively unscathed, perhaps due to\nour proximity with the World Tree."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006301_09_msg0002",
+      "style": 84,
+      "name": "But I witnessed many Divine Beasts falling\ninto the Cloud Sea from afar..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006301_09_msg0003",
+      "style": 84,
+      "name": "It seems Alst's final hour is at hand..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006301_09_msg0004",
+      "style": 84,
+      "name": "It pains me that Luxuria's decision\n500 years ago would cause such\nrepercussions..."
+    }
+  ]
+}

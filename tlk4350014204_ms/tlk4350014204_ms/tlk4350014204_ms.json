@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500142_04_msg0001",
+      "style": 84,
+      "name": "I'm sure you've heard already, but just\nto make this clear, there's always a\nconstant flow of mercenary missions."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500142_04_msg0002",
+      "style": 84,
+      "name": "You'll be asked to help out with\nthings like guard duty, escort duty,\nharvesting..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43500142_04_msg0003",
+      "style": 84,
+      "name": "Remember which missions require\nthe least effort, because it's never\na bad idea to repeat those ones."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43500142_04_msg0004",
+      "style": 84,
+      "name": "But no matter the mission, it's always\nworth tackling each one at least once."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43500142_04_msg0005",
+      "style": 84,
+      "name": "There's always a big reward waiting\nfor you the first time you finish."
+    }
+  ]
+}

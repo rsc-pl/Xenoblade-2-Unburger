@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400072_01_msg0001",
+      "style": 84,
+      "name": "I see you have Blades with you.\nThen I have something to ask of you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400072_01_msg0002",
+      "style": 84,
+      "name": "Please just...don't hurt us.\nThe common people. We are powerless\nagainst you and your Blades..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400072_01_msg0003",
+      "style": 84,
+      "name": "Those with the aptitude to be a Driver\nand soldiers trained for war have the\npower to oppose others, but us?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400072_01_msg0004",
+      "style": 84,
+      "name": "All we want is to live our lives in peace\nand quiet. Blades have taken away our\nhomes, our families..."
+    }
+  ]
+}

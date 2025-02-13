@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360113_03_msg0001",
+      "style": 84,
+      "name": "Limuli started saying he want\nto become salvager, but me\ntell him is bad idea."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360113_03_msg0002",
+      "style": 84,
+      "name": "We need all security personnel we can\nget right now, so no one get away with\nvile deeds like Chairman Bahn."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360113_03_msg0003",
+      "style": 84,
+      "name": "Besides, Limuli is dozypon, always late\nfor work and make mistake. Not cut out\nfor dangerous job like salvaging!"
+    }
+  ]
+}

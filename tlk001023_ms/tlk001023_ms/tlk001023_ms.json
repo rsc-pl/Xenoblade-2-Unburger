@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001023_msg0001",
+      "style": 84,
+      "name": "What do you want, kid?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001023_msg0002",
+      "style": 84,
+      "name": "I'm called Rex, actually.\nPleasure to be working with you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001023_msg0003",
+      "style": 84,
+      "name": "So...I'm guessing you're not going to\nfill me in on what exactly it is we're\nlooking for out here?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001023_msg0004",
+      "style": 84,
+      "name": "That's the idea.\nNeed-to-know basis."
+    },
+    {
+      "$id": 5,
+      "label": "tlk0001023_msg0005",
+      "style": 84,
+      "name": "Why, are you curious?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk0001023_msg0006",
+      "style": 84,
+      "name": "Well, sure I am.\nBut I'll do the work I'm paid for\nwhether you tell me or not."
+    },
+    {
+      "$id": 7,
+      "label": "tlk0001023_msg0007",
+      "style": 84,
+      "name": "That's what I like to hear, kid.\nI just hope your skills are more\nadvanced than your age."
+    },
+    {
+      "$id": 8,
+      "label": "tlk0001023_msg0008",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]My name's still \"Rex,\" not \"kid\"..."
+    }
+  ]
+}

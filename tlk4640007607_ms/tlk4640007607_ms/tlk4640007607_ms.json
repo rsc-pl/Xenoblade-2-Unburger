@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400076_07_msg0001",
+      "style": 84,
+      "name": "Ah, hello again!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400076_07_msg0002",
+      "style": 84,
+      "name": "I'm very sorry, but only guests\nwith special permission are\npermitted to stay here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400076_07_msg0003",
+      "style": 84,
+      "name": "Might I suggest you stay at the inn\nin Goth Isut Port instead?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk46400076_07_msg0004",
+      "style": 84,
+      "name": "I look forward to the day when I can\nwelcome you here once more.\nBlessings be with you."
+    }
+  ]
+}

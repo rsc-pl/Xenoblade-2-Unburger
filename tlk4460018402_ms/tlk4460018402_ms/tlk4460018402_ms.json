@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44600184_02_msg0001",
+      "style": 84,
+      "name": "*sigh*\nDid you want something? Sorry, I've\nbeen awfully worried lately..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44600184_02_msg0002",
+      "style": 84,
+      "name": "I dread to think what might happen to\nLuxuria... I'm so sick with worry, I can't\neven concentrate on reading right now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44600184_02_msg0003",
+      "style": 84,
+      "name": "May Adel protect us..."
+    }
+  ]
+}

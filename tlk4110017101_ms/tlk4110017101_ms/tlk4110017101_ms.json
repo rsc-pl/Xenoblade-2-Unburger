@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_01_msg0001",
+      "style": 84,
+      "name": "Woo-hoo!\nI'm really raking it in today!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_01_msg0002",
+      "style": 84,
+      "name": "The tourists at Milama Viewpoint toss\ntheir coins into the Cloud Sea, but\nsome of them land around here!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_01_msg0003",
+      "style": 84,
+      "name": "Tossing a coin's supposed to grant\nyou a wish. Well it sure granted my\nwish...to earn more money, that is!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100171_01_msg0004",
+      "style": 84,
+      "name": "Why don't you have a go too?\nIf you happen to throw it my way,\nI'll save it for a rainy day!"
+    }
+  ]
+}

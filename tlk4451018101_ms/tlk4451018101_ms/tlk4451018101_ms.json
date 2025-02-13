@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510181_01_msg0001",
+      "style": 84,
+      "name": "Long ago, there used to be\na great temple beneath here.\nTheospiti Temple."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510181_01_msg0002",
+      "style": 84,
+      "name": "There's supposedly some kind of Blade\nsealed inside now. I think it's because\nthey went berserk or some such."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510181_01_msg0003",
+      "style": 84,
+      "name": "The legends don't say what ever\nbecame of that Blade, though."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510181_01_msg0004",
+      "style": 84,
+      "name": "And now that the temple itself has\nfallen into ruin, that history is lost\nto us forever..."
+    }
+  ]
+}

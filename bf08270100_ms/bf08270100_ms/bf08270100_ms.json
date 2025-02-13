@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf08270100_0010",
+      "style": 82,
+      "name": "Th-this is..."
+    },
+    {
+      "$id": 2,
+      "label": "bf08270100_0020",
+      "style": 82,
+      "name": "Boss? What's matter?\nFind something?"
+    },
+    {
+      "$id": 3,
+      "label": "bf08270100_0030",
+      "style": 82,
+      "name": "Uh! N-no...it's nothing."
+    },
+    {
+      "$id": 4,
+      "label": "bf08270100_0040",
+      "style": 82,
+      "name": "We talk about what to do next.\nBoss should join!"
+    },
+    {
+      "$id": 5,
+      "label": "bf08270100_0050",
+      "style": 82,
+      "name": "Ah...yeah...OK!"
+    },
+    {
+      "$id": 6,
+      "label": "bf08270100_0060",
+      "style": 82,
+      "name": "It can't be..."
+    }
+  ]
+}

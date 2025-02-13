@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500147_01_msg0001",
+      "style": 84,
+      "name": "I hear there's this Blade called the\nHoly Grail that's been resurrected."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500147_01_msg0002",
+      "style": 84,
+      "name": "If the program at Mymoma Playhouse\nis anything to go by, it's the one that\ndestroyed Alst 500 years ago."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43500147_01_msg0003",
+      "style": 84,
+      "name": "There's been a public notice issued\nby the Invidian army about it, telling\nus to stay vigilant."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43500147_01_msg0004",
+      "style": 84,
+      "name": "Apparently we're to be on the lookout\nfor a green Core Crystal..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43500147_01_msg0005",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43500147_01_msg0006",
+      "style": 84,
+      "name": "Hmm. Well, I'm not going to bother\nmuch about it."
+    }
+  ]
+}

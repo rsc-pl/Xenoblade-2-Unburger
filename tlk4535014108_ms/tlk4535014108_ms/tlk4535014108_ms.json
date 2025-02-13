@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_08_msg0001",
+      "style": 84,
+      "name": "You've built up the Hræsvelgr Mercenaries\nso much at this point, I can scarcely\nbelieve it myself."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_08_msg0002",
+      "style": 84,
+      "name": "If Vandham were here to see it,\nI daresay even he might shed a\ntear or two."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_08_msg0003",
+      "style": 84,
+      "name": "With all the Blades and members\nyou've assembled, we're a formidable\nfighting force to say the least."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_08_msg0004",
+      "style": 84,
+      "name": "You've got everything so well organized\nthat there's precious little for me to do\nthese days. Not that I'm complaining."
+    }
+  ]
+}

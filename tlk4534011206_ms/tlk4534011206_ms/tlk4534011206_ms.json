@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45340112_06_msg0001",
+      "style": 84,
+      "name": "We're keeping her well-maintained,\nbut there are no plans for the\nMaelstrom to set sail any time soon."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45340112_06_msg0002",
+      "style": 84,
+      "name": "Well, after that nasty business with\nIira, nobody wants to be the next\nperson to take the Maelstrom out."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45340112_06_msg0003",
+      "style": 84,
+      "name": "Here's hoping when her next mission\ndoes come along, it goes a darn sight\nmore smoothly than her last one!"
+    }
+  ]
+}

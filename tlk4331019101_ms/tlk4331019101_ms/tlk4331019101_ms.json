@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310191_01_msg0001",
+      "style": 84,
+      "name": "War with Superbia could easily\nbreak out at any time."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310191_01_msg0002",
+      "style": 84,
+      "name": "That's why we're stocking up the\nDivine Beast battleship with food rations."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310191_01_msg0003",
+      "style": 84,
+      "name": "If the Empire make a move to expand\ntheir territory, only Invidia will be able\nto stop them!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310191_01_msg0004",
+      "style": 84,
+      "name": "So we must always be on our guard,\nfor the sake of other nations as well."
+    }
+  ]
+}

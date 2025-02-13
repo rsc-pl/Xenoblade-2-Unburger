@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104407_msg001",
+      "style": 62,
+      "name": "協力ありがとう(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104407_msg002",
+      "style": 62,
+      "name": "もっともってきてくれ(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst104407_msg003",
+      "style": 62,
+      "name": "手伝ってくれ(仮)"
+    }
+  ]
+}

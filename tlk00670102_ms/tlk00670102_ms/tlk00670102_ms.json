@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006701_02_msg0001",
+      "style": 84,
+      "name": "Yeee-owch...\nThat's gonna leave a bruise..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006701_02_msg0002",
+      "style": 84,
+      "name": "The worst part about being head of\nsecurity is having to report to my boss.\nHe's such a jerk."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006701_02_msg0003",
+      "style": 84,
+      "name": "In fact, you'd better not distract me\nor I'll get an earful again."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006701_02_msg0004",
+      "style": 84,
+      "name": "We've got to keep on the lookout for\nthis Blade with a green Core Crystal..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420144_02_msg0001",
+      "style": 84,
+      "name": "Even without Vandham, the Hræsvelgr\nMercenaries aren't going anywhere."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420144_02_msg0002",
+      "style": 84,
+      "name": "We have to carry on what he started.\nI think we all feel that way."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420144_02_msg0003",
+      "style": 84,
+      "name": "Did you talk to Yew and Zuo yet?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420144_02_msg0004",
+      "style": 84,
+      "name": "There's a lot riding on your\nshoulders too. So good luck!"
+    }
+  ]
+}

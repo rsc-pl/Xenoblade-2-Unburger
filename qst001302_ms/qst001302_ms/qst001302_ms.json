@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001302_msg0001",
+      "style": 84,
+      "name": "Ooh... That smell..."
+    },
+    {
+      "$id": 2,
+      "label": "qst001302_msg0002",
+      "style": 84,
+      "name": "That could only be Eurion's cooking!"
+    },
+    {
+      "$id": 3,
+      "label": "qst001302_msg0003",
+      "style": 84,
+      "name": "Ah, thanks for delivering that... Salted\nBrog Sauté is kind of my life-blood."
+    },
+    {
+      "$id": 4,
+      "label": "qst001302_msg0004",
+      "style": 84,
+      "name": "I heard they had some problems with\nthe supply of Gromrice. But it looks like\nit's all sorted out now!"
+    },
+    {
+      "$id": 5,
+      "label": "qst001302_msg0005",
+      "style": 84,
+      "name": "Huh? Just warning you, I'm not gonna\nshare this. It's one of the only things\nmakes my life worth living here."
+    },
+    {
+      "$id": 6,
+      "label": "qst001302_msg0006",
+      "style": 84,
+      "name": "Why don't you run off back to Eurion\nand convey my thanks."
+    },
+    {
+      "$id": 7,
+      "label": "qst001302_msg0101",
+      "style": 84,
+      "name": "Don't bother me when I'm\ngetting ready to enjoy a delicious\nSalted Brog Sauté!"
+    },
+    {
+      "$id": 8,
+      "label": "qst001302_msg0102",
+      "style": 84,
+      "name": "Just give my thanks to Eurion, OK?"
+    }
+  ]
+}

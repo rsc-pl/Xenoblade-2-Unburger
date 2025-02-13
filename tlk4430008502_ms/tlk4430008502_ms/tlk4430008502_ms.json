@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4430008502_msg0001",
+      "style": 84,
+      "name": "Feel free to make use of the things\nfrom Azgall's stash."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4430008502_msg0002",
+      "style": 84,
+      "name": "We both used to love showing off\nrare finds to anyone who cared."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4430008502_msg0003",
+      "style": 84,
+      "name": "If the contents of that chest make you\nhappy, I'm sure that would be more\nthan enough for him."
+    }
+  ]
+}

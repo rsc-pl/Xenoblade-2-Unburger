@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4235012501_msg0001",
+      "style": 84,
+      "name": "Mokumoku impressed! Not think\nanyone come looking here!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4235012501_msg0002",
+      "style": 84,
+      "name": "You travelers? Well, me afraid you out\nof luck. Me have nothing to sell you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4235012501_msg0003",
+      "style": 84,
+      "name": "Mokumoku just handle timber needed\nfor house and furniture building. That\nnot much use to travelers."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4235012501_msg0004",
+      "style": 84,
+      "name": "But if friends want to lug big pieces\nof wood around, go ahead, be guest\nof Mokumoku!"
+    }
+  ]
+}

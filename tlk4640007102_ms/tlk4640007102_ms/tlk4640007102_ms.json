@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400071_02_msg0001",
+      "style": 84,
+      "name": "Fan-sama's funerary service was\nso solemn and grand..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400071_02_msg0002",
+      "style": 84,
+      "name": "I will probably never forget her\nbeauty, nor the pain of losing\nsuch a pure and noble soul."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400071_02_msg0003",
+      "style": 84,
+      "name": "I wonder what will become of Acedia\nwithout Fan-sama..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46400071_02_msg0004",
+      "style": 84,
+      "name": "I hope that the peace we enjoy will\ncontinue, but I cannot help but worry..."
+    }
+  ]
+}

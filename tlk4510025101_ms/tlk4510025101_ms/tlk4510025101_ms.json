@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100251_01_msg0001",
+      "style": 84,
+      "name": "Hey listen, me and my mum and dad\nare all moving to Acedia soon!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100251_01_msg0002",
+      "style": 84,
+      "name": "Hmm... I wonder if you can get Cloud\nSea Crab Sticks in Acedia too?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45100251_01_msg0003",
+      "style": 84,
+      "name": "Having to leave all my friends behind\nis bad, but having to leave my favorite\nfoods behind would be even worse..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45100251_01_msg0004",
+      "style": 84,
+      "name": "Hey, I know!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45100251_01_msg0005",
+      "style": 84,
+      "name": "I heard when a country's business is\nbooming, they trade more with other\nplaces and you can get imported goods!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45100251_01_msg0006",
+      "style": 84,
+      "name": "So we just have to buy lots of stuff\nand make business in Acedia do great!"
+    }
+  ]
+}

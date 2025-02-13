@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350123_02_msg0001",
+      "style": 84,
+      "name": "Mmmm, I don't think I've ever heard\nof a Phonex called Pex."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350123_02_msg0002",
+      "style": 84,
+      "name": "He's from Liberalitas, is he?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350123_02_msg0003",
+      "style": 84,
+      "name": "Where is Liberalitas, anyway?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350123_02_msg0004",
+      "style": 84,
+      "name": "My mum and dad wouldn't tell me..."
+    }
+  ]
+}

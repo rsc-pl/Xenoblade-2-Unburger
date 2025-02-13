@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420341_04_msg0001",
+      "style": 84,
+      "name": "The mercenary groups have an\ninfluence on the Development Level\nof each country."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420341_04_msg0002",
+      "style": 84,
+      "name": "Raising a country's Development\nLevel will create new business\nopportunities."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420341_04_msg0003",
+      "style": 84,
+      "name": "Trading with other countries will\nlead to the creation of new products."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420341_04_msg0004",
+      "style": 84,
+      "name": "In turn, work for mercenaries will\nincrease..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43420341_04_msg0005",
+      "style": 84,
+      "name": "Completing more missions will further\ndevelop the countries, and so on..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43420341_04_msg0006",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries that Vandham\nbuilt up are now your responsibility."
+    }
+  ]
+}

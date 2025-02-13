@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202211_0010",
+      "style": 82,
+      "name": "Aaah!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202211_0020",
+      "style": 82,
+      "name": "Sounded like a child!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202211_0030",
+      "style": 82,
+      "name": "Over there, Rex!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202211_0040",
+      "style": 82,
+      "name": "Isn't that...the kid Raiko's been looking for?"
+    },
+    {
+      "$id": 5,
+      "label": "qst202211_0050",
+      "style": 82,
+      "name": "Help meeee!"
+    },
+    {
+      "$id": 6,
+      "label": "qst202211_0060",
+      "style": 82,
+      "name": "Don't you dare touch the kid!"
+    },
+    {
+      "$id": 7,
+      "label": "qst202211_0070",
+      "style": 82,
+      "name": "Pick on someone your own size, you rotter!"
+    },
+    {
+      "$id": 8,
+      "label": "qst202211_0080",
+      "style": 82,
+      "name": "Let's go!"
+    }
+  ]
+}

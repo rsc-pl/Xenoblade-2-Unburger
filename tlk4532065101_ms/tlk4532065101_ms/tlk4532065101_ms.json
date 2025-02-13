@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320651_01_msg0001",
+      "style": 84,
+      "name": "I'm from the Operations Testing\nDepartment."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320651_01_msg0002",
+      "style": 84,
+      "name": "Our main job is to test new equipment\ndeveloped by Central R&D."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320651_01_msg0003",
+      "style": 84,
+      "name": "Things like guns and armor for\nthe regular infantry."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320651_01_msg0004",
+      "style": 84,
+      "name": "The Imperial Army doesn't have\nall that many Drivers."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320651_01_msg0005",
+      "style": 84,
+      "name": "So developing powerful weapons\nthat anyone can use is an important\ninvestment of resources."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45320651_01_msg0006",
+      "style": 84,
+      "name": "...I guess that doesn't have much\nto do with you though, huh?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk45320651_01_msg0007",
+      "style": 84,
+      "name": "All you need to be able to dominate\nin combat is your Blades and maybe\na few Core Chips. It's not fair, really."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst004601_msg001",
+      "style": 62,
+      "name": "アアァ！　やメテ！\nボク　タべてモ　オイしくなイ！"
+    },
+    {
+      "$id": 2,
+      "label": "qst004601_msg002",
+      "style": 62,
+      "name": "ヤダヤダ！\nアッチいケ！！"
+    },
+    {
+      "$id": 3,
+      "label": "qst004601_msg003",
+      "style": 62,
+      "name": "アァ！　ソコナル　旅ノヒト！\nタ　タ　タ　タスケテ！！"
+    }
+  ]
+}

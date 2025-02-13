@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45340112_04_msg0001",
+      "style": 84,
+      "name": "'Fraid you can't board the Maelstrom\nright now. Sorry."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45340112_04_msg0002",
+      "style": 84,
+      "name": "Once we're done with the expedition\nhere, we need to be ready for the\njourney back to Goldmund, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45340112_04_msg0003",
+      "style": 84,
+      "name": "So we're taking care of the necessary\nmaintenance right now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45340112_04_msg0004",
+      "style": 84,
+      "name": "Now if you're done hanging around\nhere, I'd suggest you hurry up and go\nfind your objective!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45340112_04_msg0005",
+      "style": 84,
+      "name": "I don't want to stay in this creepy\nplace any longer than I have to..."
+    }
+  ]
+}

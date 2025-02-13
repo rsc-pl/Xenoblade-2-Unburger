@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350123_01_msg0001",
+      "style": 84,
+      "name": "Gula is the perfect place to live\nfor Phonexes like us!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350123_01_msg0002",
+      "style": 84,
+      "name": "It's full of trees and water, there's so\nmuch to eat, and it's lovely and warm!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350123_01_msg0003",
+      "style": 84,
+      "name": "That's what my mum and dad\nsaid, anyway."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350123_01_msg0004",
+      "style": 84,
+      "name": "Me, I'm just like...are there places\nthat aren't like that?"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202204_0010",
+      "style": 82,
+      "name": "How much further is she\ngoing to keep running?!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202204_0020",
+      "style": 82,
+      "name": "That girl's got enough energy to run the\nlength of the Gulan Divine Beast."
+    },
+    {
+      "$id": 3,
+      "label": "qst202204_0030",
+      "style": 82,
+      "name": "She must be really upset, to be running\naround all over the place like this..."
+    },
+    {
+      "$id": 4,
+      "label": "qst202204_0040",
+      "style": 82,
+      "name": "Yeah... We'd better find her quickly\nand help her out, the poor thing."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700161_02_msg0001",
+      "style": 84,
+      "name": "The Liberalitan Divine Beast's meant to be\nhidden somewhere in the Cloud Sea\nridge, but I've never actually seen it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700161_02_msg0002",
+      "style": 84,
+      "name": "I tried navigating Lud Cloudway\nmyself just to get a peek, but it\ndidn't go so well."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700161_02_msg0003",
+      "style": 84,
+      "name": "The monsters there are tough blighters.\nThey kept hounding me. I didn't even\nget to see a trace of the Divine Beast."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700161_02_msg0004",
+      "style": 84,
+      "name": "If you do happen to find it, don't tell\nme what it looks like. I want to see it\nwith my own two eyes."
+    }
+  ]
+}

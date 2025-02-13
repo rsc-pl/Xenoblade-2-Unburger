@@ -1,0 +1,558 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701905_msg0001",
+      "style": 84,
+      "name": "お待たせ\n龍尽香　手に入れられたよ"
+    },
+    {
+      "$id": 2,
+      "label": "qst701905_msg0002",
+      "style": 84,
+      "name": "本当ですか[ML:Dash ]？\nありがとうございます"
+    },
+    {
+      "$id": 3,
+      "label": "qst701905_msg0003",
+      "style": 84,
+      "name": "貸してくれ！\nオイラが作ってくる！"
+    },
+    {
+      "$id": 4,
+      "label": "qst701905_msg0004",
+      "style": 84,
+      "name": "レシピはわかるの？"
+    },
+    {
+      "$id": 5,
+      "label": "qst701905_msg0005",
+      "style": 84,
+      "name": "マレナさんから龍尽香のことを聞いてから\n勉強したんだ"
+    },
+    {
+      "$id": 6,
+      "label": "qst701905_msg0006",
+      "style": 84,
+      "name": "他の材料もティコとジョーイと揃えたし\n準備はバッチリだよ"
+    },
+    {
+      "$id": 7,
+      "label": "qst701905_msg0007",
+      "style": 84,
+      "name": "じゃあ　お願いね"
+    },
+    {
+      "$id": 8,
+      "label": "qst701905_msg0008",
+      "style": 84,
+      "name": "任せなって！"
+    },
+    {
+      "$id": 9,
+      "label": "qst701905_msg0009",
+      "style": 84,
+      "name": "さあ　できたぞ！"
+    },
+    {
+      "$id": 10,
+      "label": "qst701905_msg0010",
+      "style": 84,
+      "name": "フリア　飲んでみてくれ"
+    },
+    {
+      "$id": 11,
+      "label": "qst701905_msg0011",
+      "style": 84,
+      "name": "またマズいんじゃ[ML:Dash ]"
+    },
+    {
+      "$id": 12,
+      "label": "qst701905_msg0012",
+      "style": 84,
+      "name": "前よりも甘くしたから大丈夫だ！"
+    },
+    {
+      "$id": 13,
+      "label": "qst701905_msg0013",
+      "style": 84,
+      "name": "オイラやラウラ様達を信じて飲むんだ！"
+    },
+    {
+      "$id": 14,
+      "label": "qst701905_msg0014",
+      "style": 84,
+      "name": "わかった[ML:Dash ]"
+    },
+    {
+      "$id": 15,
+      "label": "qst701905_msg0015",
+      "style": 84,
+      "name": "ごくっ[ML:Dash ]"
+    },
+    {
+      "$id": 16,
+      "label": "qst701905_msg0016",
+      "style": 84,
+      "name": "あれ[ML:Dash ]？"
+    },
+    {
+      "$id": 17,
+      "label": "qst701905_msg0101",
+      "style": 84,
+      "name": "身体がすごく軽く感じる[ML:Dash ]"
+    },
+    {
+      "$id": 18,
+      "label": "qst701905_msg0102",
+      "style": 84,
+      "name": "すごい！\nすごいよ　この薬！"
+    },
+    {
+      "$id": 19,
+      "label": "qst701905_msg0103",
+      "style": 84,
+      "name": "超いい感じだよ！"
+    },
+    {
+      "$id": 20,
+      "label": "qst701905_msg0104",
+      "style": 84,
+      "name": "超いい感じかー！\nやったー！"
+    },
+    {
+      "$id": 21,
+      "label": "qst701905_msg0105",
+      "style": 84,
+      "name": "効果抜群だ！！"
+    },
+    {
+      "$id": 22,
+      "label": "qst701905_msg0106",
+      "style": 84,
+      "name": "やったね！！！"
+    },
+    {
+      "$id": 23,
+      "label": "qst701905_msg0107",
+      "style": 84,
+      "name": "ああ[ML:Dash ]\nフリア[ML:Dash ]"
+    },
+    {
+      "$id": 24,
+      "label": "qst701905_msg0108",
+      "style": 84,
+      "name": "おかあさん！！"
+    },
+    {
+      "$id": 25,
+      "label": "qst701905_msg0109",
+      "style": 84,
+      "name": "良かったね[ML:Dash ]"
+    },
+    {
+      "$id": 26,
+      "label": "qst701905_msg0110",
+      "style": 84,
+      "name": "フリア　調子はどうだい？"
+    },
+    {
+      "$id": 27,
+      "label": "qst701905_msg0111",
+      "style": 84,
+      "name": "すごくよくなったよ[ML:Dash ]！"
+    },
+    {
+      "$id": 28,
+      "label": "qst701905_msg0112",
+      "style": 84,
+      "name": "立つのも平気になったし\n歩く元気も出てきたし[ML:Dash ]"
+    },
+    {
+      "$id": 29,
+      "label": "qst701905_msg0113",
+      "style": 84,
+      "name": "これならフリードさんの宿に\n避難しても大丈夫そうね"
+    },
+    {
+      "$id": 30,
+      "label": "qst701905_msg0114",
+      "style": 84,
+      "name": "うん[ML:Dash ]！"
+    },
+    {
+      "$id": 31,
+      "label": "qst701905_msg0201",
+      "style": 84,
+      "name": "ものすごく力が溢れてくる[ML:Dash ]"
+    },
+    {
+      "$id": 32,
+      "label": "qst701905_msg0202",
+      "style": 84,
+      "name": "人生で一番調子がいいと思う"
+    },
+    {
+      "$id": 33,
+      "label": "qst701905_msg0203",
+      "style": 84,
+      "name": "立つのも歩くのも走るのもできそう！！"
+    },
+    {
+      "$id": 34,
+      "label": "qst701905_msg0204",
+      "style": 84,
+      "name": "ははっ\nでも　あまりはしゃぎすぎないようにな"
+    },
+    {
+      "$id": 35,
+      "label": "qst701905_msg0205",
+      "style": 84,
+      "name": "うん[ML:Dash ]！"
+    },
+    {
+      "$id": 36,
+      "label": "qst701905_msg0206",
+      "style": 84,
+      "name": "これならもしかすると\nウォッタさんの巨神獣船にも\n乗せてもらえるかもしれません"
+    },
+    {
+      "$id": 37,
+      "label": "qst701905_msg0301",
+      "style": 84,
+      "name": "あの子があんなに元気になるなんて[ML:Dash ]\nまるで夢のようです[ML:Dash ]"
+    },
+    {
+      "$id": 38,
+      "label": "qst701905_msg0302",
+      "style": 84,
+      "name": "これもラウラ様やアデル様[ML:Dash ]\n皆様のおかげです"
+    },
+    {
+      "$id": 39,
+      "label": "qst701905_msg0303",
+      "style": 84,
+      "name": "何とお礼をしていいか[ML:Dash ]"
+    },
+    {
+      "$id": 40,
+      "label": "qst701905_msg0304",
+      "style": 84,
+      "name": "[ML:Dash ]あの龍尽香は\nこれまで私達が出会ったたくさんの人が\n力を貸してくれて　手に入れたもの[ML:Dash ]"
+    },
+    {
+      "$id": 41,
+      "label": "qst701905_msg0305",
+      "style": 84,
+      "name": "私達はそれを届けただけなの"
+    },
+    {
+      "$id": 42,
+      "label": "qst701905_msg0306",
+      "style": 84,
+      "name": "だから　その[ML:Dash ]\nお礼なんて　気にしないで"
+    },
+    {
+      "$id": 43,
+      "label": "qst701905_msg0307",
+      "style": 84,
+      "name": "ああ　その通りだ"
+    },
+    {
+      "$id": 44,
+      "label": "qst701905_msg0308",
+      "style": 84,
+      "name": "僕達はフリアの元気な姿が見れただけで\n十分なんだ"
+    },
+    {
+      "$id": 45,
+      "label": "qst701905_msg0309",
+      "style": 84,
+      "name": "[ML:Dash ]ありがとうございます"
+    },
+    {
+      "$id": 46,
+      "label": "qst701905_msg0310",
+      "style": 84,
+      "name": "これで一件落着だね"
+    },
+    {
+      "$id": 47,
+      "label": "qst701905_msg0311",
+      "style": 84,
+      "name": "シン[ML:Dash ]\n今日のこと日記につけたら\n読ませてくださいね"
+    },
+    {
+      "$id": 48,
+      "label": "qst701905_msg0312",
+      "style": 84,
+      "name": "なぜだ[ML:Dash ]？"
+    },
+    {
+      "$id": 49,
+      "label": "qst701905_msg0313",
+      "style": 84,
+      "name": "今日のこの素晴らしい出来事を\nまた振り返りたいんですよ"
+    },
+    {
+      "$id": 50,
+      "label": "qst701905_msg0314",
+      "style": 84,
+      "name": "カグツチに頼んでくれ"
+    },
+    {
+      "$id": 51,
+      "label": "qst701905_msg0315",
+      "style": 84,
+      "name": "私もお断りよ\nミノチさんに本を書いてもらいましょう"
+    },
+    {
+      "$id": 52,
+      "label": "qst701905_msg0316",
+      "style": 84,
+      "name": "いや[ML:Dash ]\nまあ書くつもりだったが[ML:Dash ]"
+    },
+    {
+      "$id": 53,
+      "label": "qst701905_msg0317",
+      "style": 84,
+      "name": "私が大活躍したところ\nかっこよく書いてね"
+    },
+    {
+      "$id": 54,
+      "label": "qst701905_msg0318",
+      "style": 84,
+      "name": "ヒカリは何もしていなかったような[ML:Dash ]"
+    },
+    {
+      "$id": 55,
+      "label": "qst701905_msg0319",
+      "style": 84,
+      "name": "確かに"
+    },
+    {
+      "$id": 56,
+      "label": "qst701905_msg0320",
+      "style": 84,
+      "name": "なっ！？\n龍尽香ではともかく\nその前に活躍したでしょ"
+    },
+    {
+      "$id": 57,
+      "label": "qst701905_msg0321",
+      "style": 84,
+      "name": "ふふっ　賑やかですね"
+    },
+    {
+      "$id": 58,
+      "label": "qst701905_msg0322",
+      "style": 84,
+      "name": "あの[ML:Dash ]\nアデル様"
+    },
+    {
+      "$id": 59,
+      "label": "qst701905_msg0323",
+      "style": 84,
+      "name": "先程お礼は不要と言ってくださったのですが\nひとつお渡ししたいものがありまして[ML:Dash ]"
+    },
+    {
+      "$id": 60,
+      "label": "qst701905_msg0324",
+      "style": 84,
+      "name": "何だい？"
+    },
+    {
+      "$id": 61,
+      "label": "qst701905_msg0325",
+      "style": 84,
+      "name": "滋養強壮に効果があるそうで\nフリアに食べさせていたのですが\n今は龍尽香があれば大丈夫ですので[ML:Dash ]"
+    },
+    {
+      "$id": 62,
+      "label": "qst701905_msg0326",
+      "style": 84,
+      "name": "あっ[ML:Dash ]\n娘のために百瓶程買い溜めしていたので\n大量にあるんです"
+    },
+    {
+      "$id": 63,
+      "label": "qst701905_msg0327",
+      "style": 84,
+      "name": "ですから　奥様のために\nいくらか持って行っていただければと\n思ったんです"
+    },
+    {
+      "$id": 64,
+      "label": "qst701905_msg0328",
+      "style": 84,
+      "name": "気遣いありがとう\n妻も喜ぶよ"
+    },
+    {
+      "$id": 65,
+      "label": "qst701905_msg0329",
+      "style": 84,
+      "name": "奥様？　妻？"
+    },
+    {
+      "$id": 66,
+      "label": "qst701905_msg0330",
+      "style": 84,
+      "name": "ああ　言ってなかったかな？"
+    },
+    {
+      "$id": 67,
+      "label": "qst701905_msg0331",
+      "style": 84,
+      "name": "アレッタの屋敷にいるんだよ"
+    },
+    {
+      "$id": 68,
+      "label": "qst701905_msg0332",
+      "style": 84,
+      "name": "身重でね\nもうすぐ子供が生まれると思うんだが[ML:Dash ]"
+    },
+    {
+      "$id": 69,
+      "label": "qst701905_msg0333",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]ええーーー！？"
+    },
+    {
+      "$id": 70,
+      "label": "qst701905_msg0334",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]本当ですか！？"
+    },
+    {
+      "$id": 71,
+      "label": "qst701905_msg0335",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]知らなかったな[ML:Dash ]"
+    },
+    {
+      "$id": 72,
+      "label": "qst701905_msg0336",
+      "style": 84,
+      "name": "話してなかったか\nそれはすまないね"
+    },
+    {
+      "$id": 73,
+      "label": "qst701905_msg0337",
+      "style": 84,
+      "name": "僕はイーラのため　家族のために\nメツを倒さなきゃならないってわけだな"
+    },
+    {
+      "$id": 74,
+      "label": "qst701905_msg0338",
+      "style": 84,
+      "name": "いやいや\nここで人助けをしてる場合じゃないよ！"
+    },
+    {
+      "$id": 75,
+      "label": "qst701905_msg0339",
+      "style": 84,
+      "name": "アレッタに戻らなきゃ！"
+    },
+    {
+      "$id": 76,
+      "label": "qst701905_msg0340",
+      "style": 84,
+      "name": "大丈夫さ"
+    },
+    {
+      "$id": 77,
+      "label": "qst701905_msg0341",
+      "style": 84,
+      "name": "いざという時はベリタスやモントス\nそれに抵抗軍の皆がいる"
+    },
+    {
+      "$id": 78,
+      "label": "qst701905_msg0342",
+      "style": 84,
+      "name": "うまくやってくれるさ"
+    },
+    {
+      "$id": 79,
+      "label": "qst701905_msg0343",
+      "style": 84,
+      "name": "そうかもしれないけど[ML:Dash ]"
+    },
+    {
+      "$id": 80,
+      "label": "qst701905_msg0344",
+      "style": 84,
+      "name": "だがまず　そんな事態にならないように\n皆で力を合わせ　メツを倒そう"
+    },
+    {
+      "$id": 81,
+      "label": "qst701905_msg0345",
+      "style": 84,
+      "name": "そうですね\nそれは私達にしかできないことです"
+    },
+    {
+      "$id": 82,
+      "label": "qst701905_msg0346",
+      "style": 84,
+      "name": "そうだけど[ML:Dash ]"
+    },
+    {
+      "$id": 83,
+      "label": "qst701905_msg0347",
+      "style": 84,
+      "name": "うん[ML:Dash ]"
+    },
+    {
+      "$id": 84,
+      "label": "qst701905_msg0348",
+      "style": 84,
+      "name": "今までつながりができた人のために[ML:Dash ]"
+    },
+    {
+      "$id": 85,
+      "label": "qst701905_msg0349",
+      "style": 84,
+      "name": "そしてイーラの皆のためにも\n見知らぬアルストの人々のためにも"
+    },
+    {
+      "$id": 86,
+      "label": "qst701905_msg0350",
+      "style": 84,
+      "name": "私達がメツを倒さなきゃね"
+    },
+    {
+      "$id": 87,
+      "label": "qst701905_msg0351",
+      "style": 84,
+      "name": "そう　それでこそ\nラウラだな"
+    },
+    {
+      "$id": 88,
+      "label": "qst701905_msg0352",
+      "style": 84,
+      "name": "大丈夫[ML:Dash ]\nこの仲間と一緒なら　勝てますよ"
+    },
+    {
+      "$id": 89,
+      "label": "qst701905_msg0353",
+      "style": 84,
+      "name": "うん[ML:Dash ]\n皆　全力を尽くそう！"
+    },
+    {
+      "$id": 90,
+      "label": "qst701905_msg0354",
+      "style": 84,
+      "name": "ああ[ML:Dash ]！"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350171_02_msg0001",
+      "style": 84,
+      "name": "This world is a cruel, empty place.\nThere is no joy. Only despair."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350171_02_msg0002",
+      "style": 84,
+      "name": "Fan-sama has passed away...\nGazing upon her was all that kept\nmy soul at ease..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350171_02_msg0003",
+      "style": 84,
+      "name": "I hear my homeland of Superbia is\nforming a peace treaty with Invidia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350171_02_msg0004",
+      "style": 84,
+      "name": "No doubt the result of some higher-up\nseeing Fan-sama's smile and realizing\nthe futility of conflict. Oh, Fan-sama..."
+    }
+  ]
+}

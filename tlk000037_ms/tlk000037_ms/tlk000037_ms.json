@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000037_msg0001",
+      "style": 165,
+      "name": "Begin the final battle?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000037_msg0002",
+      "style": 165,
+      "name": "Let's do this!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000037_msg0003",
+      "style": 165,
+      "name": "Not yet..."
+    }
+  ]
+}

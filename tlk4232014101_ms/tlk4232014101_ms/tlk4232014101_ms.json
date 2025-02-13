@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4232014101_msg0001",
+      "style": 84,
+      "name": "This merc group pay much better than\nlast one. And everyone so friendly!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4232014101_msg0002",
+      "style": 84,
+      "name": "Even if better job position open up\nsomewhere else, Damida refuse to\nbe swayed."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4232014101_msg0003",
+      "style": 84,
+      "name": "Nowhere else have endless supply of\nscrummy mushrooms!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501707_msg0001",
+      "style": 84,
+      "name": "Oh, the story of my narrow escape\nfrom Acedia is a harrowing, beautiful one.\nI would so love to regale you..."
+    },
+    {
+      "$id": 2,
+      "label": "qst501707_msg0002",
+      "style": 84,
+      "name": "But for now, let's talk business.\nEveryone's got to eat, after all."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4530005801_msg0001",
+      "style": 84,
+      "name": "Welcome to the Smaia Clinic.\nFrom little scratches to rare sicknesses,\nwe'll patch you up in a jiffy!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4530005801_msg0002",
+      "style": 84,
+      "name": "Actually, I'm just an assistant.\nDoctor Smaia is out gathering\ningredients for a new medicine..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4530005801_msg0003",
+      "style": 84,
+      "name": "If you ever find a patient who no other\ndoctor can handle, come and see us!\nWe take on the toughest cases!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103313_msg0001",
+      "style": 84,
+      "name": "I must prepare to fetch my wife's\nbody...\nDammit! That bastard Cruim!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103313_msg0002",
+      "style": 84,
+      "name": "If I'd known it would come to this,\nI'd have pushed for much harsher\nmeasures..."
+    }
+  ]
+}

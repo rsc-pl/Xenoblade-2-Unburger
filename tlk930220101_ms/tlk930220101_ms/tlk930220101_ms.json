@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9302201_01_msg0001",
+      "style": 84,
+      "name": "I feel a bit...under-stimulated."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9302201_01_msg0002",
+      "style": 84,
+      "name": "My skills are going to decline if I sit\naround here forever. Aren't there any\nstrong enemies for me to fight?!"
+    }
+  ]
+}

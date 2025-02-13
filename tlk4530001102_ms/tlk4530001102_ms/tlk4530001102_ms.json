@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300011_02_msg0001",
+      "style": 84,
+      "name": "You know you can retake the same\nMerc Mission even after you've\nfinished it?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300011_02_msg0002",
+      "style": 84,
+      "name": "I guess it makes sense. I'd never turn\ndown a little extra help with making\ndeliveries myself!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300011_02_msg0003",
+      "style": 84,
+      "name": "And then there's stuff like guard duty\nwhere they need somebody on the job\npretty much constantly."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300011_02_msg0004",
+      "style": 84,
+      "name": "If you've got some Blades to spare,\ngive them some Merc Missions to do.\nBetter than having them laze around!"
+    }
+  ]
+}

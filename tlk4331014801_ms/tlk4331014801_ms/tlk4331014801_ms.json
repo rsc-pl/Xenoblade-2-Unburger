@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310148_01_msg0001",
+      "style": 84,
+      "name": "Nice. A Driver and a Blade."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310148_01_msg0002",
+      "style": 84,
+      "name": "So. What's your class?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310148_01_msg0003",
+      "style": 84,
+      "name": "A Driver's characteristics are affected\nby their Blades or, strictly speaking,\nthe weapons the Blades have, y'know."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310148_01_msg0004",
+      "style": 84,
+      "name": "If you've got, say, two with Megalances\nby your side, that gives you the class\nof Elite Fighter."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43310148_01_msg0005",
+      "style": 84,
+      "name": "Or if you've got one with a Bitball and\none with a Shield Hammer, then you're\na Knight."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43310148_01_msg0006",
+      "style": 84,
+      "name": "A good Driver tries out all kinds of\ndifferent combinations and figures out\nwhat works best with what."
+    }
+  ]
+}

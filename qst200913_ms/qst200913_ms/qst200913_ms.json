@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200913_msg001",
+      "style": 84,
+      "name": "There he is! Mr. Kupooon!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200913_msg002",
+      "style": 84,
+      "name": "Oh no! He's being attacked by Tirkin!\nWe've got to help him!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200913_msg003",
+      "style": 84,
+      "name": "Go away! Kupon maybe look like tasty\nsnack, but definitely not taste like one!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200913_msg004",
+      "style": 84,
+      "name": "Gyaaaaaaah!!!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200913_msg005",
+      "style": 84,
+      "name": "Kasane?! This not good, no no!\nNot come any closer!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200913_msg006",
+      "style": 84,
+      "name": "Don't sweat it! Everything's going to be\njust fine. We're here to rescue you!"
+    },
+    {
+      "$id": 7,
+      "label": "qst200913_msg007",
+      "style": 84,
+      "name": "No! Kasane stay away from Kupon!\nStay away!"
+    },
+    {
+      "$id": 8,
+      "label": "qst200913_msg008",
+      "style": 84,
+      "name": "...Why me?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200913_msg009",
+      "style": 84,
+      "name": "Are you all right...?"
+    },
+    {
+      "$id": 10,
+      "label": "qst200913_msg010",
+      "style": 84,
+      "name": "I suppose we'll just have to help\nhim again now..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310141_02_msg0001",
+      "style": 84,
+      "name": "Maintenance is complete. This one's\nready to head out into battle already."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310141_02_msg0002",
+      "style": 84,
+      "name": "Just waiting for the order now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310141_02_msg0003",
+      "style": 84,
+      "name": "But to be honest, I'd rather we didn't\ngo to war with Superbia."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200153_01_msg0001",
+      "style": 84,
+      "name": "Alba Margen is a pretty big city, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200153_01_msg0002",
+      "style": 84,
+      "name": "The buildings are pretty huge, and\nthere are all kinds of different shops.\nApparently folk who visit get lost a lot."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200153_01_msg0003",
+      "style": 84,
+      "name": "Shops are on the central main street.\nThis way's all houses and warehouses,\nand down the opposite way's the inn."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200153_01_msg0004",
+      "style": 84,
+      "name": "But if you really get lost, it helps\nto get up on the roofs. Good view\nfrom up there!"
+    }
+  ]
+}

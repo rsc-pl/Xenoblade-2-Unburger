@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300079_01_msg0001",
+      "style": 84,
+      "name": "I'm inspecting these goods."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300079_01_msg0002",
+      "style": 84,
+      "name": "They were provided by\nHis Holiness Marveni."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300079_01_msg0003",
+      "style": 84,
+      "name": "For distribution to the populace.\nNow if you'll excuse me.\nI have work to do."
+    }
+  ]
+}

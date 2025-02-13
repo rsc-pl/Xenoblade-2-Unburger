@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170042101_msg0001",
+      "style": 84,
+      "name": "O fair Gula, many are thy charms:\nSunlight like a mother's sweet caress,\nBranches stronger than a father's arms!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170042101_msg0002",
+      "style": 84,
+      "name": "Oh, my apologies. I was merely\nexpressing my love for the natural\nbeauty of Gula through poetry."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170042101_msg0003",
+      "style": 84,
+      "name": "I wish only that the children in the city\nwould weave beautiful verses about\ntheir homeland also."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4170042101_msg0004",
+      "style": 84,
+      "name": "But alas, it seems they are all more\nconcerned with enjoying the present\nmoment than pursuing the literary arts."
+    }
+  ]
+}

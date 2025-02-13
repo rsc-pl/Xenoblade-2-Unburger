@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn079_msg0001",
+      "style": 84,
+      "name": "I trust you're feeling refreshed!\nI have a message for you."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn079_msg0002",
+      "style": 84,
+      "name": "It said to bring Ten'i to Theospiti\nTemple without delay."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn079_msg0003",
+      "style": 84,
+      "name": "I didn't catch the name of\nthe man who left it. And\nhe cleared off sharpish too."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn079_msg0004",
+      "style": 84,
+      "name": "But that's what he said!"
+    }
+  ]
+}

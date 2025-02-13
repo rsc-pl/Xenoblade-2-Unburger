@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201815_msg0001",
+      "style": 84,
+      "name": "魔王はリベラリタス島嶼群の\nIsle of Urchonあたりに巣をつくっている"
+    },
+    {
+      "$id": 2,
+      "label": "qst201815_msg0002",
+      "style": 84,
+      "name": "ウカ殿　どうか私達に力を貸してくれ！"
+    }
+  ]
+}

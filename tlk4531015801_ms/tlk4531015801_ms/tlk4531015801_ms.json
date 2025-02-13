@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310158_01_msg0001",
+      "style": 84,
+      "name": "At the top of this elevator is\nAlba Margen, the imperial capital."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310158_01_msg0002",
+      "style": 84,
+      "name": "You can buy top quality Core Chips and\naccessories there, made using cutting-\nedge Superbian technology."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310158_01_msg0003",
+      "style": 84,
+      "name": "Any Driver would be a fool not to\npay the place a visit at least once."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310158_01_msg0004",
+      "style": 84,
+      "name": "Also, most food in the Empire is pretty\nawful, but there's something called\nQuoteletta that's actually worth a try."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310158_01_msg0005",
+      "style": 84,
+      "name": "Stay away from this stuff they call\nKascha, though. It's a kind of gruel, but\nthe things they put in it are just...eurgh."
+    }
+  ]
+}

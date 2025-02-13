@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_02_msg0001",
+      "style": 84,
+      "name": "Friend receive mission direct from\nChairman. Make sure to do good job."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_02_msg0002",
+      "style": 84,
+      "name": "But even more important than\ngood job, make sure come back\nin one piece."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_02_msg0003",
+      "style": 84,
+      "name": "No dying and making family sad!"
+    }
+  ]
+}

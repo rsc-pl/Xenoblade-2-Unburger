@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102403_msg001",
+      "style": 62,
+      "name": "これでは荷馬車が通れないな（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst102403_msg101",
+      "style": 62,
+      "name": "何かいい手はないものか（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst102403_msg201",
+      "style": 62,
+      "name": "うちの団に任せておけばいいものを（仮）"
+    }
+  ]
+}

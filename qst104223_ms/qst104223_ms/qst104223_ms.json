@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104223_msg0001",
+      "style": 84,
+      "name": "Ding-dong!\nMr. Rex! I've got a question!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104223_msg0002",
+      "style": 84,
+      "name": "I found a piece of rock near the\nVillage Guardian the other day\nwith this weird old writing on it!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104223_msg0003",
+      "style": 84,
+      "name": "Can you read this squiggly stuff?"
+    },
+    {
+      "$id": 4,
+      "label": "qst104223_msg0021",
+      "style": 84,
+      "name": "Of course! I'm pretty good at\nreading ancient writing."
+    },
+    {
+      "$id": 5,
+      "label": "qst104223_msg0022",
+      "style": 84,
+      "name": "Wow, Mr. Rex! You're amazing!\nD'you think I could learn to\nread this stuff too someday?"
+    },
+    {
+      "$id": 6,
+      "label": "qst104223_msg0023",
+      "style": 84,
+      "name": "You're a really hard worker,\nMark, so I bet you could learn\nto read it if you tried."
+    },
+    {
+      "$id": 7,
+      "label": "qst104223_msg0024",
+      "style": 84,
+      "name": "All right! I'll study hard to see\nif I can read what's on that stone!"
+    },
+    {
+      "$id": 8,
+      "label": "qst104223_msg0025",
+      "style": 84,
+      "name": "Right, next up is Kazuna's question."
+    },
+    {
+      "$id": 9,
+      "label": "qst104223_msg0041",
+      "style": 84,
+      "name": "Squiggly writing, huh...\nThat might be a bit tricky."
+    },
+    {
+      "$id": 10,
+      "label": "qst104223_msg0042",
+      "style": 84,
+      "name": "Oh, really?\nI'll try asking the history teacher\nwhen they get here, then!"
+    },
+    {
+      "$id": 11,
+      "label": "qst104223_msg0043",
+      "style": 84,
+      "name": "You're a hard worker, Mark, so\nyou could probably learn to read\nit yourself if you tried."
+    },
+    {
+      "$id": 12,
+      "label": "qst104223_msg0044",
+      "style": 84,
+      "name": "Right, next up is Kazuna's question."
+    },
+    {
+      "$id": 13,
+      "label": "qst104223_msg0101",
+      "style": 84,
+      "name": "You're not Mr. Rex! I thought Mr. Rex\nwas going to give us a lesson?"
+    },
+    {
+      "$id": 14,
+      "label": "qst104223_msg0201",
+      "style": 84,
+      "name": "You should go answer\nKazuna's question next."
+    },
+    {
+      "$id": 15,
+      "label": "qst104223_msg0202",
+      "style": 84,
+      "name": "You should go answer\nKirk's question next."
+    }
+  ]
+}

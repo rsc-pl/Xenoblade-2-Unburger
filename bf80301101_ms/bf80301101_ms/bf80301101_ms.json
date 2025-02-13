@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "41890101",
+      "style": 82,
+      "name": "...I am called Seori."
+    },
+    {
+      "$id": 2,
+      "label": "41890102",
+      "style": 82,
+      "name": "I swear by this sword."
+    },
+    {
+      "$id": 3,
+      "label": "41890103",
+      "style": 82,
+      "name": "I will cleave all!"
+    },
+    {
+      "$id": 4,
+      "label": "41890104",
+      "style": 82,
+      "name": "I will protect all!"
+    }
+  ]
+}

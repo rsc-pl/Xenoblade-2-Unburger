@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43600141_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Aldomar Books.\nWe have many volumes here devoted\nto the fine arts."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43600141_01_msg0005",
+      "style": 84,
+      "name": "Back again, are we? You really do\nhave curious tastes, owner."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43600141_01_msg0101",
+      "style": 84,
+      "name": "We should be getting in some antique\nbooks quite soon."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43600141_01_msg0102",
+      "style": 84,
+      "name": "We have some antique books available."
+    }
+  ]
+}

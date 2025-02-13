@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn050_msg0001",
+      "style": 84,
+      "name": "Hey, wanna take a walk with me?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn050_msg0002",
+      "style": 84,
+      "name": "I heard about this interesting place\nfrom the old lady. Supposed to be\nsome good food there too!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn050_msg0003",
+      "style": 84,
+      "name": "It's that place where all the\ntimber's piled up. You know it?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn050_msg0004",
+      "style": 84,
+      "name": "Don't keep me waiting!"
+    }
+  ]
+}

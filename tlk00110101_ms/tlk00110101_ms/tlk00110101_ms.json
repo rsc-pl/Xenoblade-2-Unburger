@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001101_01_msg0001",
+      "style": 84,
+      "name": "This is truly a magnificent place!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001101_01_msg0002",
+      "style": 84,
+      "name": "I was fortunate to have the chance to\ntalk to some of the residents earlier.\nThey are truly hospitable people!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001101_01_msg0003",
+      "style": 84,
+      "name": "And it is so calm and peaceful..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001101_01_msg0004",
+      "style": 84,
+      "name": "I will soon retire for the night.\nPlease, Master Rex, take the\nopportunity to relax a little."
+    }
+  ]
+}

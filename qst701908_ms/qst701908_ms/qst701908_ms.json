@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701908_msg0001",
+      "style": 84,
+      "name": "はぁ[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst701908_msg0002",
+      "style": 84,
+      "name": "ダナスカラーで作った\n特効薬なら絶対に治ると思ったのに"
+    },
+    {
+      "$id": 3,
+      "label": "qst701908_msg0003",
+      "style": 84,
+      "name": "かなり工夫したんだけど\n全然飲みやすくならないんだよ[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst701908_msg0004",
+      "style": 84,
+      "name": "別の方法はないのかな[ML:Dash ]"
+    }
+  ]
+}

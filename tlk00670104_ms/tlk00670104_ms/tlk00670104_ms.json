@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006701_04_msg0001",
+      "style": 84,
+      "name": "I got demoted for letting Iira get\naway."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006701_04_msg0002",
+      "style": 84,
+      "name": "And now? Now I'm back to the old\ngarrison patrol."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006701_04_msg0003",
+      "style": 84,
+      "name": "But I've got to say, it's a fair sight\nbetter than being bossed around\nby a lousy boss..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006701_04_msg0004",
+      "style": 84,
+      "name": "My salary took a hefty blow, but really\nthis suits me just fine. I can get by."
+    },
+    {
+      "$id": 5,
+      "label": "tlk006701_04_msg0005",
+      "style": 84,
+      "name": "Wh-what's Special Inquisitor Meleph\ndoing here in Trigo...?!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk006701_04_msg0006",
+      "style": 84,
+      "name": "O-oh, forgive me! Please, forget\nI said anything!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk006701_04_msg0007",
+      "style": 84,
+      "name": "I, Pax, will humbly carry out my\nduty as is expected of my station!"
+    }
+  ]
+}

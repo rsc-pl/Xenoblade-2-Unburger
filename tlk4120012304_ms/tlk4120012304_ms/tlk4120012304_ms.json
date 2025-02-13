@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200123_04_msg0001",
+      "style": 84,
+      "name": "Rule 1 of the Driver's code:\nThink of all others\nas your sisters and brothers!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200123_04_msg0002",
+      "style": 84,
+      "name": "Oh, hey! I'm reciting the Driver's code.\nIt's an important part of my training!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200123_04_msg0003",
+      "style": 84,
+      "name": "Yep! My trainer told me that you\nneed a deep sense of self if you want\nto resonate with a Core Crystal!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200123_04_msg0004",
+      "style": 84,
+      "name": "The more tender your heart, the\nbetter the chance you'll have of\nresonating with a good Blade!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200123_04_msg0005",
+      "style": 84,
+      "name": "Rule 2 of the Driver's code:\nIf there's a person in trouble,\nhelp out on the double!"
+    }
+  ]
+}

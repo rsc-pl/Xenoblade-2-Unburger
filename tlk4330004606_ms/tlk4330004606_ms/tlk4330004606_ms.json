@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_06_msg0001",
+      "style": 84,
+      "name": "Whole months have passed since I\nquit the merc life to be a cook...but\nfinally the head cook approves of me!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_06_msg0002",
+      "style": 84,
+      "name": "I'm now permitted to make a real dish."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_06_msg0003",
+      "style": 84,
+      "name": "Namely, I'm in charge of\nthe Roast Meat Tagliata!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_06_msg0004",
+      "style": 84,
+      "name": "Now if I only knew how to make that..."
+    }
+  ]
+}

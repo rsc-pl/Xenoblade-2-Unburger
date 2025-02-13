@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000601_01_msg0001",
+      "style": 84,
+      "name": "Muimui never dream of meeting\nfriends in place like this!\nIs very big coincidence!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000601_01_msg0002",
+      "style": 84,
+      "name": "Muimui suggest staying at Jakolo's Inn.\nMuimui go so often, he known by face\nnow."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000601_01_msg0003",
+      "style": 84,
+      "name": "Inn is in Beraf Industry Ward! Better\nstill, they have hot springs that will\nsoothe all troubles of friends away!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000601_01_msg0004",
+      "style": 84,
+      "name": "Take it from me. It very cheap too.\nMuimui cannot recommend enough!"
+    }
+  ]
+}

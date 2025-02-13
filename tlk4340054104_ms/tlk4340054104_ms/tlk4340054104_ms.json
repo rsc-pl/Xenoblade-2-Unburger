@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400541_04_msg0001",
+      "style": 84,
+      "name": "The water in the paddies seems\na bit odd."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400541_04_msg0002",
+      "style": 84,
+      "name": "Is it because we used the power of the\nInvidia Divine Beast, maybe?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400541_04_msg0003",
+      "style": 84,
+      "name": "It'll probably get back to normal soon...\nBut I fear the next Gromrice crop will\nbe spoiled."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400541_04_msg0004",
+      "style": 84,
+      "name": "The sooner it's right again, the better..."
+    }
+  ]
+}

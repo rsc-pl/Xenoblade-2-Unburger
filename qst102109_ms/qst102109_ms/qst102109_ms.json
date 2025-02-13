@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102109_msg0001",
+      "style": 84,
+      "name": "It's only in the midst of battle that\nyou really learn where people's\ntrue allegiances lie."
+    },
+    {
+      "$id": 2,
+      "label": "qst102109_msg0002",
+      "style": 84,
+      "name": "Things aren't going the way I foresaw...\nStill, I'm counting on you."
+    },
+    {
+      "$id": 3,
+      "label": "qst102109_msg0101",
+      "style": 84,
+      "name": "Spike Urchon have been known\nto attack the village before..."
+    },
+    {
+      "$id": 4,
+      "label": "qst102109_msg0102",
+      "style": 84,
+      "name": "They probably know how good\nhuman food tastes."
+    },
+    {
+      "$id": 5,
+      "label": "qst102109_msg0103",
+      "style": 84,
+      "name": "Defeat them all before they can\nget inside!"
+    },
+    {
+      "$id": 6,
+      "label": "qst102109_msg0201",
+      "style": 84,
+      "name": "Where'd those three go?"
+    },
+    {
+      "$id": 7,
+      "label": "qst102109_msg0202",
+      "style": 84,
+      "name": "Disappearing at a time like this?\nSuspicious..."
+    }
+  ]
+}

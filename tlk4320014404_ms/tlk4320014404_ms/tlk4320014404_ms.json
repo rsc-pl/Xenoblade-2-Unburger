@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200144_04_msg0001",
+      "style": 84,
+      "name": "The Great Stairway behind the\nHoly Gate is cool, but so are the stairs\nthat lead downwards from the Plaza!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200144_04_msg0002",
+      "style": 84,
+      "name": "I hear they lead to a place called the\nRuins of Fountain Park. Ah, but I don't\nthink I could make it all the way..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200144_04_msg0003",
+      "style": 84,
+      "name": "You might be able to, if you could\njump a really long way... But for me,\nit'd spell broken bones for sure!"
+    }
+  ]
+}

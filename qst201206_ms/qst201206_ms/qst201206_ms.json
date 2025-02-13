@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201206_msg0001",
+      "style": 84,
+      "name": "You should talk to Brabe, she runs a\nrestaurant above the square in\nFons Maim's Commercial District."
+    },
+    {
+      "$id": 2,
+      "label": "qst201206_msg0002",
+      "style": 84,
+      "name": "Have fun making Whelzaman Cookies!"
+    }
+  ]
+}

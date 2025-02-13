@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45600151_01_msg0001",
+      "style": 84,
+      "name": "Hey there. Might I recommend\nour Dolphin Carrot Sliders?\nThey're delicious!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45600151_01_msg0004",
+      "style": 84,
+      "name": "And what can I get for our dear owner\ntoday? A Crispy Vegetable Salad\nperhaps? Or a Steamflake Tabbouleh?"
+    }
+  ]
+}

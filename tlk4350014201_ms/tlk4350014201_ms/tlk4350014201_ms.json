@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500142_01_msg0001",
+      "style": 84,
+      "name": "What do you want, young'un?\nI'm done with my mercenary\nconsultation sessions for today."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500142_01_msg0002",
+      "style": 84,
+      "name": "Oh, you're not mercenaries?\nSorry, then. Guess I got the wrong idea."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43500142_01_msg0003",
+      "style": 84,
+      "name": "I'd still be glad to lend you a\nword of advice if there's anything\ntroubling you, mind."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43500142_01_msg0004",
+      "style": 84,
+      "name": "I used to be the leader of a mercenary\nband, y'see, so I know a thing or two."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43500142_01_msg0101",
+      "style": 84,
+      "name": "Well, if it isn't Vandham. I've heard\nall sorts of tales about the things\nyou've been getting up to."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43500142_01_msg0102",
+      "style": 84,
+      "name": "In all my years, I never heard of a\nmercenary band taking in orphans\nfrom across the land until yours!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk43500142_01_msg0103",
+      "style": 84,
+      "name": "From the looks of things, I'll wager\nyou're sticking your nose in to help\nanother band of youths right now, eh?"
+    },
+    {
+      "$id": 8,
+      "label": "tlk43500142_01_msg0104",
+      "style": 84,
+      "name": "Well, I'm not going to stop you,\nbut try to look out for yourself too\nonce in a while."
+    }
+  ]
+}

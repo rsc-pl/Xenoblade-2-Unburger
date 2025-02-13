@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47400162_01_msg0001",
+      "style": 84,
+      "name": "You're looking a bit scrawny. I think\nyou need to put a bit of meat on you.\nIt'll do you good!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47400162_01_msg0004",
+      "style": 84,
+      "name": "Kind of you to drop by, Boss!\nYou'll be wanting to stock up\nlike usual, I suppose?"
+    }
+  ]
+}

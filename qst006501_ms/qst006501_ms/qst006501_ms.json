@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst006501_msg0001",
+      "style": 84,
+      "name": "A Whelzaman Cookie, for me?\nSorry, I don't feel like one right now..."
+    },
+    {
+      "$id": 2,
+      "label": "qst006501_msg0002",
+      "style": 84,
+      "name": "That nasty Jankie stole my\nfavorite treasure from me..."
+    },
+    {
+      "$id": 3,
+      "label": "qst006501_msg0003",
+      "style": 84,
+      "name": "Without my treasure, I don't\nfeel like eating anything!"
+    },
+    {
+      "$id": 4,
+      "label": "qst006501_msg0004",
+      "style": 84,
+      "name": "Th-thanks! I think Jankie was heading\nover towards Loska's Gap."
+    },
+    {
+      "$id": 5,
+      "label": "qst006501_msg1001",
+      "style": 84,
+      "name": "You'll get my treasure back\nfrom Jankie, right?"
+    },
+    {
+      "$id": 6,
+      "label": "qst006501_msg1002",
+      "style": 84,
+      "name": "I think Jankie was heading\nover towards Loska's Gap."
+    },
+    {
+      "$id": 7,
+      "label": "qst006501_msg2001",
+      "style": 84,
+      "name": "Ahhh! It's my treasure!\nThank you!"
+    },
+    {
+      "$id": 8,
+      "label": "qst006501_msg2002",
+      "style": 84,
+      "name": "Now I might have the appetite for\none of those Whelzaman Cookies!"
+    },
+    {
+      "$id": 9,
+      "label": "qst006501_msg2003",
+      "style": 84,
+      "name": "Thanks so much, really!"
+    },
+    {
+      "$id": 10,
+      "label": "qst006501_msg3001",
+      "style": 84,
+      "name": "When I grow up, I wanna marry\na girl who makes the BEST\nWhelzaman Cookies."
+    }
+  ]
+}

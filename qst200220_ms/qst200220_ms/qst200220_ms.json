@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200220_msg0001",
+      "style": 84,
+      "name": "We're looking for an Superbian woman\nnamed Harghal. She's been smuggling\nPollen Orb ingredients into Luxuria."
+    },
+    {
+      "$id": 2,
+      "label": "qst200220_msg0002",
+      "style": 84,
+      "name": "Do you know anything about her?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200220_msg0003",
+      "style": 84,
+      "name": "Sure, I know her. You don't see\nmany Superbian women around\nthese parts, after all."
+    },
+    {
+      "$id": 4,
+      "label": "qst200220_msg0004",
+      "style": 84,
+      "name": "I believe her cargo was taken to over\nnear the Old Gelgemos Gate."
+    },
+    {
+      "$id": 5,
+      "label": "qst200220_msg0005",
+      "style": 84,
+      "name": "Seems like she's making something\nover there."
+    },
+    {
+      "$id": 6,
+      "label": "qst200220_msg0006",
+      "style": 84,
+      "name": "Pollen Orbs, right?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200220_msg0007",
+      "style": 84,
+      "name": "Perhaps, perhaps...\nI'm afraid I don't have any sources\non the precise details."
+    },
+    {
+      "$id": 8,
+      "label": "qst200220_msg0008",
+      "style": 84,
+      "name": "I see. Well, thanks for the help."
+    },
+    {
+      "$id": 9,
+      "label": "qst200220_msg0009",
+      "style": 84,
+      "name": "The Old Gelgemos Gate, huh...?\nI guess it would be quickest to go\nvia Genbu Drifts."
+    },
+    {
+      "$id": 10,
+      "label": "qst200220_msg0010",
+      "style": 84,
+      "name": "Sounds about right. At any rate,\nlooks like we're finally getting close\nto catching this Harghal girl!"
+    },
+    {
+      "$id": 11,
+      "label": "qst200220_msg0011",
+      "style": 84,
+      "name": "Yeah! Not long until we get to see\nher in person! Let's do this!"
+    }
+  ]
+}

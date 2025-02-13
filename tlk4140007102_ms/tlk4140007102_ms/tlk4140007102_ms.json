@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400071_02_msg0001",
+      "style": 84,
+      "name": "So APPARENTLY the bigwigs are\nhaving some kind of meeting to put\nan end to the war peacefully."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400071_02_msg0002",
+      "style": 84,
+      "name": "I just can't see the conflict really\nending, not as long as there are\nBlades in the world."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400071_02_msg0003",
+      "style": 84,
+      "name": "You may as well be walking around\ntoting weapons in everyone's faces."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400071_02_msg0004",
+      "style": 84,
+      "name": "Down with Blades! We'll never have\ntrue peace until we rid the world of\nBlades completely!"
+    }
+  ]
+}

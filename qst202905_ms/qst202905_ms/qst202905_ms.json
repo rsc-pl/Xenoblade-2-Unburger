@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202905_msg0001",
+      "style": 84,
+      "name": "You're looking for Kastina?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202905_msg0002",
+      "style": 84,
+      "name": "Hmmm... I didn't see her today,\nso I don't really know."
+    },
+    {
+      "$id": 3,
+      "label": "qst202905_msg0003",
+      "style": 84,
+      "name": "She's always hanging around with\nCelesmia though, so you might want\nto try asking her."
+    }
+  ]
+}

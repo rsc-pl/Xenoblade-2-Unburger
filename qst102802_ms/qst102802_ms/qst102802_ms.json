@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102802_msg001",
+      "style": 62,
+      "name": "Cさんはエーテルを運搬するために\n集積所に向かった"
+    },
+    {
+      "$id": 2,
+      "label": "qst102802_msg002",
+      "style": 62,
+      "name": "今はやぐらにいると思うよ"
+    },
+    {
+      "$id": 3,
+      "label": "qst102802_msg003",
+      "style": 62,
+      "name": "Cさんはやぐらにいるはずだよ"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf05280100_0010",
+      "style": 82,
+      "name": "[ML:undisp ]*pant* *pant* *pant*"
+    },
+    {
+      "$id": 2,
+      "label": "bf05280100_0020",
+      "style": 82,
+      "name": "\"Your Holiness. Your Holiness, Marveni.\""
+    },
+    {
+      "$id": 3,
+      "label": "bf05280100_0030",
+      "style": 154,
+      "name": "[System:Size size=120 ]\"Father waits,\n above...\"[/System:Size]"
+    }
+  ]
+}

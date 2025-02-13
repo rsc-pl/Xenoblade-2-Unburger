@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201625_msg0001",
+      "style": 84,
+      "name": "Teetapz need friends to call on girl\nfrom Trigo. Teetapz will wait at\nvenue!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201623_msg0002",
+      "style": 84,
+      "name": "If words of Teetapz not reach\nfriend Nanakoori, maybe girl can\ntalk sense into her."
+    },
+    {
+      "$id": 3,
+      "label": "qst201625_msg0101",
+      "style": 84,
+      "name": "Meh-meh!\nYou brought girl!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201625_msg0102",
+      "style": 84,
+      "name": "Well, not just stand there!\nHave talkings with friend Nanakoori!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300022_03_msg0004",
+      "style": 84,
+      "name": "Oh, hey.\nThinking of joining the vigilantes, are\nyou? Kidding, kidding!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300022_03_msg0001",
+      "style": 84,
+      "name": "An Superbian acquaintance of mine\ntold me they're secretly manufacturing\nsome kind of artificial Blades."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300022_03_msg0002",
+      "style": 84,
+      "name": "Apparently, they don't even need to\nbond or anything like that? I don't\nknow if there's any truth in it..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300022_03_msg0003",
+      "style": 84,
+      "name": "Wish I could get one to help me out\nwith the vigilantes. We're so short-\nstaffed right now..."
+    }
+  ]
+}

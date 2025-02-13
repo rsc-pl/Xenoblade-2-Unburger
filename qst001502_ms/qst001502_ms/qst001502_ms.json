@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001502_msg001",
+      "style": 84,
+      "name": "おや　何か御用でしょうか？"
+    },
+    {
+      "$id": 2,
+      "label": "qst001502_msg002",
+      "style": 84,
+      "name": "こ　これは[ML:Dash ]！\nきみ！　これを一体どこで！？"
+    },
+    {
+      "$id": 3,
+      "label": "qst001502_msg003",
+      "style": 84,
+      "name": "[ML:Dash ]なるほど\nわざわざ届けてくださったのですね"
+    },
+    {
+      "$id": 4,
+      "label": "qst001502_msg004",
+      "style": 84,
+      "name": "この情報が他国に知られたら\nどうなっていたことか[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "qst001502_msg005",
+      "style": 84,
+      "name": "本当に助かりました\nありがとうございます"
+    },
+    {
+      "$id": 6,
+      "label": "qst001502_msg006",
+      "style": 84,
+      "name": "こちら　報酬の品になります\nどうぞお受け取りください"
+    },
+    {
+      "$id": 7,
+      "label": "qst001502_msg007",
+      "style": 84,
+      "name": "これはメレフ特別執権官殿\n如何しましたか？"
+    },
+    {
+      "$id": 8,
+      "label": "qst001502_msg008",
+      "style": 84,
+      "name": "[ML:Dash ]なんと\nメレフ殿自ら届けてくださったのですか！"
+    },
+    {
+      "$id": 9,
+      "label": "qst001502_msg009",
+      "style": 84,
+      "name": "この情報がインヴィディアなどに\n渡っていたら今頃大変なことになって[ML:Dash ]"
+    },
+    {
+      "$id": 10,
+      "label": "qst001502_msg010",
+      "style": 84,
+      "name": "ああ　このような場所ですべき話では\nありませんでしたね\n申しわけありません"
+    },
+    {
+      "$id": 11,
+      "label": "qst001502_msg011",
+      "style": 84,
+      "name": "ともかく　本当に助かりました\nありがとうございます！"
+    },
+    {
+      "$id": 12,
+      "label": "qst001502_msg0001",
+      "style": 84,
+      "name": "Hello, citizen. Something the matter?"
+    },
+    {
+      "$id": 13,
+      "label": "qst001502_msg0002",
+      "style": 84,
+      "name": "T-this!\nWhere did you-?!"
+    },
+    {
+      "$id": 14,
+      "label": "qst001502_msg0003",
+      "style": 84,
+      "name": "...Ooohh, I see.\nYou went to all that trouble."
+    },
+    {
+      "$id": 15,
+      "label": "qst001502_msg0004",
+      "style": 84,
+      "name": "I shudder to think what might happen\nif this information got into the other\ncountries' hands..."
+    },
+    {
+      "$id": 16,
+      "label": "qst001502_msg0005",
+      "style": 84,
+      "name": "If Emperor Nefer and Special Inquisitor\nMeleph's past schedules became public\nknowledge, they'd be in deep water!"
+    },
+    {
+      "$id": 17,
+      "label": "qst001502_msg0006",
+      "style": 84,
+      "name": "Oop, pardon, I overstepped.\nYou heard nothing."
+    },
+    {
+      "$id": 18,
+      "label": "qst001502_msg0007",
+      "style": 84,
+      "name": "You've been a great help, really\nyou have. Thank you very much."
+    },
+    {
+      "$id": 19,
+      "label": "qst001502_msg0008",
+      "style": 84,
+      "name": "This is your reward. Take it, please."
+    },
+    {
+      "$id": 20,
+      "label": "qst001502_msg00101",
+      "style": 84,
+      "name": "Special Inquisitor Meleph!\nIs something the matter?"
+    },
+    {
+      "$id": 21,
+      "label": "qst001502_msg00102",
+      "style": 84,
+      "name": "There was a case, wasn't there, of a\nspy hiding top-secret intelligence inside\na Noog Skeeter?!"
+    },
+    {
+      "$id": 22,
+      "label": "qst001502_msg00103",
+      "style": 84,
+      "name": "I have retrieved it."
+    },
+    {
+      "$id": 23,
+      "label": "qst001502_msg00104",
+      "style": 84,
+      "name": "...Wow!\nMeleph-sama Flamebringer herself\ndid us the honor of recovering it?!"
+    },
+    {
+      "$id": 24,
+      "label": "qst001502_msg00105",
+      "style": 84,
+      "name": "And to think that Emperor Nefer and\nMeleph-sama's childhood diaries could\nhave been halfway to Invidia by now..."
+    },
+    {
+      "$id": 25,
+      "label": "qst001502_msg00106",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 26,
+      "label": "qst001502_msg00107",
+      "style": 84,
+      "name": "I beg your pardon!\nA slip of the tongue, is all!"
+    },
+    {
+      "$id": 27,
+      "label": "qst001502_msg00108",
+      "style": 84,
+      "name": "Regardless, this is a great help.\nThank you very much!"
+    },
+    {
+      "$id": 28,
+      "label": "qst001502_msg00109",
+      "style": 84,
+      "name": "Don't mention it.\nAll in a day's work."
+    }
+  ]
+}

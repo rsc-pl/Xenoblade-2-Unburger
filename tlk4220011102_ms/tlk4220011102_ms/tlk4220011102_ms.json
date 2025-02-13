@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200111_02_msg0001",
+      "style": 84,
+      "name": "Bright Samod is super yum-yums!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200111_02_msg0002",
+      "style": 84,
+      "name": "Bright Fig from Invidia is perfect\nmatch for delicious Samod taste!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200111_02_msg0003",
+      "style": 84,
+      "name": "Whoever come up with that idea\nis genius!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200111_02_msg0004",
+      "style": 84,
+      "name": "Mamapon love Bright Samod too,\nso she buy whole crateful and we all\none big chompy-chompy family!"
+    }
+  ]
+}

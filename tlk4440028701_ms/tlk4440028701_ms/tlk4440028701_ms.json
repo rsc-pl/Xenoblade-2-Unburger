@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400287_01_msg0001",
+      "style": 84,
+      "name": "Luxurian science has been passed\ndown for generations, so our knowledge\nfar surpasses the Superbians'."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400287_01_msg0002",
+      "style": 84,
+      "name": "You are outlanders, if I'm not mistaken?\nThen I must not let myself sound as if\nwe're blowing our own trumpets."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400287_01_msg0003",
+      "style": 84,
+      "name": "Let me simply say that thanks to our\nextensive collection of records, we are\nable to address all manner of issues."
+    }
+  ]
+}

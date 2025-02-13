@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02330100_0010",
+      "style": 82,
+      "name": "No doubt about it, that's the place!"
+    },
+    {
+      "$id": 2,
+      "label": "bf02330100_0020",
+      "style": 82,
+      "name": "Who are you people?!"
+    },
+    {
+      "$id": 3,
+      "label": "bf02330100_0030",
+      "style": 82,
+      "name": "They're the terrorist's friends!"
+    },
+    {
+      "$id": 4,
+      "label": "bf02330100_0040",
+      "style": 82,
+      "name": "We are her friends!\nBut I won't let you call her a terrorist!"
+    }
+  ]
+}

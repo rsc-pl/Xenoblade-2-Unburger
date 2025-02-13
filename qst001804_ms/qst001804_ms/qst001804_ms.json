@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001804_msg001",
+      "style": 62,
+      "name": "連れてきてくれてありがとう!"
+    },
+    {
+      "$id": 2,
+      "label": "qst001804_msg002",
+      "style": 62,
+      "name": "お礼をどうぞ"
+    }
+  ]
+}

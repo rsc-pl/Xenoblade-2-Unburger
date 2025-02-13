@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 13,
+      "name": "Slot 1"
+    },
+    {
+      "$id": 2,
+      "style": 13,
+      "name": "Slot 2"
+    },
+    {
+      "$id": 3,
+      "style": 13,
+      "name": "Slot 3"
+    }
+  ]
+}

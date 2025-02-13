@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200225_0010",
+      "style": 82,
+      "name": "Dammit, the town is-!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200225_0020",
+      "style": 82,
+      "name": "Are we too late?!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200225_0030",
+      "style": 82,
+      "name": "There's no time to talk!\nLet's dash!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200225_0040",
+      "style": 82,
+      "name": "Heeeeeeelp!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200225_0050",
+      "style": 82,
+      "name": "Hey - hang in there!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200225_0060",
+      "style": 82,
+      "name": "Th-thank you..."
+    },
+    {
+      "$id": 7,
+      "label": "qst200225_0070",
+      "style": 82,
+      "name": "Can you run?"
+    },
+    {
+      "$id": 8,
+      "label": "qst200225_0080",
+      "style": 82,
+      "name": "S-sure!"
+    },
+    {
+      "$id": 9,
+      "label": "qst200225_0090",
+      "style": 82,
+      "name": "OK, then run.\nRun away, fast as you can!"
+    },
+    {
+      "$id": 10,
+      "label": "qst200225_0100",
+      "style": 82,
+      "name": "No hanging around! If anyone's not out yet,\nwe find them and we GET them out!"
+    }
+  ]
+}

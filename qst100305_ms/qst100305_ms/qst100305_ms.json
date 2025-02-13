@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100305_msg0101",
+      "style": 84,
+      "name": "Friend has brought materials for ship\nrepair?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100305_msg0102",
+      "style": 84,
+      "name": "Very grateful!\nThank you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst100305_msg0103",
+      "style": 84,
+      "name": "Would give reward, but have no\nwallet right now. Back in Avaritia,\nPanpan give friend big reward."
+    },
+    {
+      "$id": 4,
+      "label": "qst100305_msg0201",
+      "style": 84,
+      "name": "This bit go here...\nThat bit go there..."
+    },
+    {
+      "$id": 5,
+      "label": "qst100305_msg0202",
+      "style": 84,
+      "name": "Little twist for good luck and\nwind up good!"
+    },
+    {
+      "$id": 6,
+      "label": "qst100305_msg0301",
+      "style": 84,
+      "name": "There! It look all fixed now!"
+    },
+    {
+      "$id": 7,
+      "label": "qst100305_msg0302",
+      "style": 84,
+      "name": "Oh, Panpan so very grateful to friend.\nWords not suffice... Panpan all too\naware of this..."
+    },
+    {
+      "$id": 8,
+      "label": "qst100305_msg0303",
+      "style": 84,
+      "name": "Panpan will give heartfelt token of\nthanks and some coin for parts.\nBack in Avaritia, that is."
+    },
+    {
+      "$id": 9,
+      "label": "qst100305_msg0401",
+      "style": 84,
+      "name": "Meh-meh?! Training time about\nto hit 40 hours!"
+    },
+    {
+      "$id": 10,
+      "label": "qst100305_msg0402",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Time for big rush to Avaritia!\nWhey-hey-hey-hey!"
+    }
+  ]
+}

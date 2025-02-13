@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000501_07_msg0001",
+      "style": 84,
+      "name": "Nilny now standing in for time\nbeing as Acting Chairman."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000501_07_msg0002",
+      "style": 84,
+      "name": "Nilny swear to change the way\nthings work around here, undo\nBahn's influence."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000501_07_msg0003",
+      "style": 84,
+      "name": "First we crack down on slackers and\nshady dealings. Want Avaritia to be\nknown for clean, honest trade."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000501_07_msg0004",
+      "style": 84,
+      "name": "Yes, Nilny looking forward to bright\nfuture of Avaritia Trade Guild!"
+    }
+  ]
+}

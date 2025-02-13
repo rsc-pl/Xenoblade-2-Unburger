@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43600143_04_msg0001",
+      "style": 84,
+      "name": "Ever hear of Char-Grilled Grumbird?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43600143_04_msg0002",
+      "style": 84,
+      "name": "It's probably the tastiest thing I've\never eaten in my life, and that's no\nexaggeration!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43600143_04_msg0003",
+      "style": 84,
+      "name": "First time I tasted it, it almost moved\nme to tears, it was so delicious."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43600143_04_msg0004",
+      "style": 84,
+      "name": "Never thought us working with\nSuperbia would introduce us\nto a delicacy like that!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43600143_04_msg0005",
+      "style": 84,
+      "name": "The way I see it, Alst's going to pot\nanyway, so I may as well blow all my\nsavings on the food."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43600143_04_msg0006",
+      "style": 84,
+      "name": "I ain't got that many years on the\nclock left, but experiencing food like\nthat, I think I can go happy now."
+    }
+  ]
+}

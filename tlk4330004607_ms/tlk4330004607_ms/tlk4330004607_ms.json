@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_07_msg0001",
+      "style": 84,
+      "name": "I've finally mastered the\nRoast Meat Tagliata!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_07_msg0002",
+      "style": 84,
+      "name": "I even got the head cook's\nseal of approval."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_07_msg0003",
+      "style": 84,
+      "name": "I knew I was on to something using my\naxe instead of the regular carving knife.\nAnd the plates I used were good, too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_07_msg0004",
+      "style": 84,
+      "name": "Anyway, I'm one step closer to the day\nwhen I will finally be able to cook for\nthe esteemed Queen Lagert!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300046_07_msg0005",
+      "style": 84,
+      "name": "This is partly thanks to you, so\nwhy don't I teach you a recipe\nas a sign of my gratitude."
+    }
+  ]
+}

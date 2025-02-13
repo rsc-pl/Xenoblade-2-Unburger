@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45700111_03_msg0001",
+      "style": 84,
+      "name": "Got any of those Premium Cylinders?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45700111_03_msg0002",
+      "style": 84,
+      "name": "Apparently salvaging with one of those\nwill bag you an incredible treasure\nevery single time!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45700111_03_msg0003",
+      "style": 84,
+      "name": "Well, strictly speaking it's because they\nlet you search around in the Cloud Sea\nfor ages, until you find the best stuff."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45700111_03_msg0004",
+      "style": 84,
+      "name": "The Avaritia Guild can manufacture\nordinary cylinders, but nobody has the\ntechnology to make premium ones."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45700111_03_msg0005",
+      "style": 84,
+      "name": "All the ones you see on the market\nwere made in ancient times. That's\nwhy they're so rare and expensive."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45700111_03_msg0006",
+      "style": 84,
+      "name": "If you do have any, I'd suggest saving\nthem for when you really need them."
+    }
+  ]
+}

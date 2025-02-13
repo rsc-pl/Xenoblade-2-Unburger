@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300083_01_msg0001",
+      "style": 84,
+      "name": "Ohh, my darling... Your heart is as\nimpenetrable as Theoscaldia... How\ncan I coax you to open your gates?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300083_01_msg0002",
+      "style": 84,
+      "name": "...I'd thank you for not interrupting.\nI'm using the landscape here to\nwoo my beloved."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300083_01_msg0003",
+      "style": 84,
+      "name": "The city of Teos Aure is very secure...\nIt may be the embodiment of history,\nuninterrupted since the time of Adel."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300083_01_msg0004",
+      "style": 84,
+      "name": "Hoho... The more sturdy the keep,\nthe greater the satisfaction does its\ndownfall bring!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk44300083_01_msg0005",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

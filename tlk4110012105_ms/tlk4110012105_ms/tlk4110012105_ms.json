@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100121_05_msg0001",
+      "style": 84,
+      "name": "So Acedia's kinda disappeared, huh?\nAll the people who came over are\nall spaced out and stuff..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100121_05_msg0002",
+      "style": 84,
+      "name": "I kinda understand, though. I mean,\nthey lost their homes, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100121_05_msg0003",
+      "style": 84,
+      "name": "And like, their faith got betrayed.\nPeople are saying that's even worse."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100121_05_msg0004",
+      "style": 84,
+      "name": "But I'm trying to cheer up the kids\nwho took shelter here. We're all\ngoing swimming together and stuff!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100121_05_msg0005",
+      "style": 84,
+      "name": "We can all make friends from\nswimming and then no one'll\nhave to be sad any more!"
+    }
+  ]
+}

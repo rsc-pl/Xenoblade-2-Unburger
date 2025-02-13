@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301301_01_msg0001",
+      "style": 84,
+      "name": "I want to be able to chat with\nall kinds of new people!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301301_01_msg0002",
+      "style": 84,
+      "name": "So if you're going somewhere,\nI'd love it if you'd take me along."
+    },
+    {
+      "$id": 3,
+      "label": "tlk9301301_01_msg0003",
+      "style": 84,
+      "name": "Oh, but I guess then I'd have less\nchance to talk with the people here..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk9301301_01_msg0004",
+      "style": 84,
+      "name": "Hmmm...that would be kind of\na shame too, in its own way!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk9301301_01_msg0005",
+      "style": 84,
+      "name": "Whatever should I do?\nYou got any bright ideas, Driver?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk9301301_01_msg0006",
+      "style": 84,
+      "name": "Oh, come to think of it, I haven't\nhad much chance to chat with you\nlately either, have I?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk9301301_01_msg0007",
+      "style": 84,
+      "name": "While we're here, let's chat right now!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk9301301_01_msg0008",
+      "style": 84,
+      "name": "Or, uh...are you busy with other stuff\nright now? No time for chatting?"
+    },
+    {
+      "$id": 9,
+      "label": "tlk9301301_01_msg0009",
+      "style": 84,
+      "name": "Awww...\nWell, we should totally chat some\nother time! That's a promise, OK?!"
+    }
+  ]
+}

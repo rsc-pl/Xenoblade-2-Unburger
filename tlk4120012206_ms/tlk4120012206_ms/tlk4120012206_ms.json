@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200122_06_msg0001",
+      "style": 84,
+      "name": "So if Acedia got destroyed, what\nhappened to all th'Armoo?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200122_06_msg0002",
+      "style": 84,
+      "name": "Did they just let them die?!\nNo... How could they..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200122_06_msg0003",
+      "style": 84,
+      "name": "Huh? There're no Armoo there?\nGuess there're not much farms on\nAcedia, huh..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200122_06_msg0004",
+      "style": 84,
+      "name": "I'm scared of all the people coming\nhere, though. What if they get so\nhungry that they eat all the Armoo?!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200122_06_msg0005",
+      "style": 84,
+      "name": "Oh no, what do I do?!\nMaybe I'll hide them in the forest..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41200122_06_msg0007",
+      "style": 84,
+      "name": "Ahhhhhhhh!\nArmoo aren't tasty! They're really not!"
+    }
+  ]
+}

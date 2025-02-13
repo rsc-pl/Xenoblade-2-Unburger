@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000007_02_msg0001",
+      "style": 62,
+      "name": "アデル様[ML:Dash ]\n気を付けてください"
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000007_02_msg0002",
+      "style": 62,
+      "name": "ヒカリ\nアデル様を絶対にお守りするんだぞ！"
+    }
+  ]
+}

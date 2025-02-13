@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400072_02_msg0001",
+      "style": 84,
+      "name": "If it weren't for Blades, we would all be\nable to live here in Gula in peace."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400072_02_msg0002",
+      "style": 84,
+      "name": "And yet, perhaps then I wouldn't\nbe here today..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400072_02_msg0003",
+      "style": 84,
+      "name": "I slipped on the outer wall the\nother day and fell onto the\nback of the Acedian Divine Beast."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400072_02_msg0004",
+      "style": 84,
+      "name": "I cried for help, but no one seemed to\nnotice my absence. I thought that was\nit for me, but then a Blade saved me."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41400072_02_msg0005",
+      "style": 84,
+      "name": "I know it's not the Blades we should\nbe blaming, it's the ones in control\nof them...but still..."
+    }
+  ]
+}

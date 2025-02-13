@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000508_msg0001",
+      "style": 84,
+      "name": "You heard him, right? My husband\nis a stubborn one all right..."
+    },
+    {
+      "$id": 2,
+      "label": "qst000508_msg0002",
+      "style": 84,
+      "name": "With my help, they might be able to\nconvince him, but it's all for nothing\nif they're not here..."
+    },
+    {
+      "$id": 3,
+      "label": "qst000508_msg0003",
+      "style": 84,
+      "name": "Sometimes I think, if Rhiannon is happy\nwith her life like this, maybe that is\nfor the best..."
+    },
+    {
+      "$id": 4,
+      "label": "qst000508_msg0004",
+      "style": 84,
+      "name": "I don't know what to do..."
+    }
+  ]
+}

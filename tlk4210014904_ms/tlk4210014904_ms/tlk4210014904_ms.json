@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100149_04_msg0001",
+      "style": 84,
+      "name": "Ch-Chamomo's lips are sealed!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100149_04_msg0002",
+      "style": 84,
+      "name": "E-especially when it come to former\nChairman Bahn!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100149_04_msg0003",
+      "style": 84,
+      "name": "Chamomo just instructed to help Don,\nwas not accomplice to anything!\nChamomo did nothing bad!"
+    }
+  ]
+}

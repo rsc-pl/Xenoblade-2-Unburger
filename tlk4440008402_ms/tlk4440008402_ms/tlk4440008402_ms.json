@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400084_02_msg0001",
+      "style": 84,
+      "name": "I hear we're finally warming to the idea\nof trade with the outside. I'm glad.\nI won't have to come here any more."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400084_02_msg0002",
+      "style": 84,
+      "name": "I always feel utterly freezing, not being\nable to get a decent meal around here.\nThis is the only place I can warm up."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400084_02_msg0003",
+      "style": 84,
+      "name": "The water here is heated internally,\nfrom within the Divine Beast, so it's always\nwarm."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400084_02_msg0004",
+      "style": 84,
+      "name": "That water is spread throughout the\nkingdom. That's why you won't see\nany snow in town. It'd just melt."
+    }
+  ]
+}

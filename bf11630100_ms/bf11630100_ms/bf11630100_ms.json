@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf11630100_0010",
+      "style": 82,
+      "name": "これで私も\n正式なイーラのドライバーか[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "bf11630100_0020",
+      "style": 82,
+      "name": "思い出　一杯作ろうね[ML:Dash ]"
+    }
+  ]
+}

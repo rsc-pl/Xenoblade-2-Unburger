@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300072_01_msg0001",
+      "style": 84,
+      "name": "This ship bound for Avaritia, but\nwe still not leave port..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300072_01_msg0002",
+      "style": 84,
+      "name": "We still waiting on full shipment of\ngoods. Probably better if friends\ncome back later."
+    }
+  ]
+}

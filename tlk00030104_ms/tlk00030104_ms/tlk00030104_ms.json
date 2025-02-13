@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030104_msg0001",
+      "style": 84,
+      "name": "Meh? What you doing here?!\nBahn thought you conducting\ninvestigation of ancient vessel!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030104_msg0002",
+      "style": 84,
+      "name": "Hop hop, on the double!\nHave job to be doing, yes?\nSo go do job!"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003402_msg0001",
+      "style": 84,
+      "name": "Gah...\nUrgh..."
+    },
+    {
+      "$id": 2,
+      "label": "qst003402_msg0002",
+      "style": 84,
+      "name": "So, you had to break the water tower\nto get away from the Superbian\nsoldiers?"
+    },
+    {
+      "$id": 3,
+      "label": "qst003402_msg0003",
+      "style": 84,
+      "name": "It's sort of their fault then, really."
+    },
+    {
+      "$id": 4,
+      "label": "qst003402_msg0004",
+      "style": 84,
+      "name": "I can't really blame you lot for\nsomething you did when you were\ncornered."
+    },
+    {
+      "$id": 5,
+      "label": "qst003402_msg0005",
+      "style": 84,
+      "name": "Ah, nothing changes, does it? These\nmighty forces do what they like, and\nus little fellows pay the price."
+    },
+    {
+      "$id": 6,
+      "label": "qst003402_msg0006",
+      "style": 84,
+      "name": "Hey, aren't you the ones who brought\nthat Melosian Honey earlier?"
+    },
+    {
+      "$id": 7,
+      "label": "qst003402_msg0007",
+      "style": 84,
+      "name": "My daughter's not got much of an\nappetite, but she can't resist ruska\ncookies with a bit of Melosian Honey."
+    },
+    {
+      "$id": 8,
+      "label": "qst003402_msg0008",
+      "style": 84,
+      "name": "I suppose I can let you off that\nargy-bargy with the water tower,\nfor bringing us that."
+    },
+    {
+      "$id": 9,
+      "label": "qst003402_msg0009",
+      "style": 84,
+      "name": "But next time you're taking on that\nSuperbian bunch, try and spare a\nthought for the rest of us, yeah?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102906_msg001",
+      "style": 62,
+      "name": "財宝には宝石もあるのかな"
+    },
+    {
+      "$id": 2,
+      "label": "qst102906_msg101",
+      "style": 62,
+      "name": "王族の人達の\nラブストーリーとか知らない？"
+    }
+  ]
+}

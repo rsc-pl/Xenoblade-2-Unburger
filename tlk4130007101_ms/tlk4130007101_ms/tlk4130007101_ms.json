@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300071_01_msg0001",
+      "style": 84,
+      "name": "Please, feel free to browse our wares.\nEveryone here in the camp pitched in\nto make these!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300071_01_msg0003",
+      "style": 84,
+      "name": "A thousand thank-yous! We'll be sure\nto share the proceeds with everyone\nat the camp!"
+    }
+  ]
+}

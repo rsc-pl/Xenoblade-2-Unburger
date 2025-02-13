@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202807_msg0001",
+      "style": 84,
+      "name": "I found something!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202807_msg0002",
+      "style": 84,
+      "name": "...Hmm, I don't think I've seen one\nlike that before."
+    },
+    {
+      "$id": 3,
+      "label": "qst202807_msg0003",
+      "style": 84,
+      "name": "Agreed, I think it's something rare.\nLet's get Misimisi to appraise it!"
+    }
+  ]
+}

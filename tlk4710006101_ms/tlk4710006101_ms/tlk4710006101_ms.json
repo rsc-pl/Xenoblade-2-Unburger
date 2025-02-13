@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100061_01_msg0001",
+      "style": 84,
+      "name": "Where did that Pex get to?\nI hope he comes back soon..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100061_01_msg0002",
+      "style": 84,
+      "name": "EEEEP!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100061_01_msg0003",
+      "style": 84,
+      "name": "Don't scare me like that!\nI almost jumped out of my fur!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100061_01_msg0004",
+      "style": 84,
+      "name": "The grass around Iyasaki tastes lovely\nand crisp, don't you think?"
+    }
+  ]
+}

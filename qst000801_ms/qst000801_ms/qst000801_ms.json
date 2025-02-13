@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000801_msg0001",
+      "style": 84,
+      "name": "It's snapped in two... I guess they used\nit to try and open this chest, but failed?"
+    },
+    {
+      "$id": 2,
+      "label": "qst000801_msg0002",
+      "style": 84,
+      "name": "Wait, there's something written on it..."
+    },
+    {
+      "$id": 3,
+      "label": "qst000801_msg0101",
+      "style": 84,
+      "name": "Huh, it's broken. Looks like someone\nused it to try and prize open the\nchest. Unsuccessfully."
+    },
+    {
+      "$id": 4,
+      "label": "qst000801_msg0102",
+      "style": 84,
+      "name": "There are some markings on the hilt..."
+    },
+    {
+      "$id": 5,
+      "label": "qst000801_msg0201",
+      "style": 84,
+      "name": "It's snapped clean in two. Looks like\nsome rascal tried to open the chest\nwith it. Didn't get very far, though..."
+    },
+    {
+      "$id": 6,
+      "label": "qst000801_msg0202",
+      "style": 84,
+      "name": "Hello? There's something written\non it."
+    },
+    {
+      "$id": 7,
+      "label": "qst000801_msg0301",
+      "style": 84,
+      "name": "Knife is all broken in half!\nMaybe someone try to open chest\nwith knife, but it not work?"
+    },
+    {
+      "$id": 8,
+      "label": "qst000801_msg0302",
+      "style": 84,
+      "name": "Meh-meh? It have words on holdy bit!"
+    },
+    {
+      "$id": 9,
+      "label": "qst000801_msg0401",
+      "style": 84,
+      "name": "The blade seems to be broken.\nSomeone must have tried to open the\nchest, but clearly to no avail."
+    },
+    {
+      "$id": 10,
+      "label": "qst000801_msg0402",
+      "style": 84,
+      "name": "Hmm? There are words on the hilt..."
+    },
+    {
+      "$id": 11,
+      "label": "qst000801_msg0501",
+      "style": 84,
+      "name": "\"Wealth and fortune to Erebos, dearest\ngrandson.\""
+    },
+    {
+      "$id": 12,
+      "label": "qst000801_msg0502",
+      "style": 84,
+      "name": "Looks important. If we ever come\nacross the owner, we'll have to ask\nthem about it."
+    },
+    {
+      "$id": 13,
+      "label": "qst000801_msg0503",
+      "style": 84,
+      "name": "Looks important. If we ever come\nacross the owner, we'll have to ask\nthem about it."
+    },
+    {
+      "$id": 14,
+      "label": "qst000801_msg0504",
+      "style": 84,
+      "name": "A treasured item, eh? If we ever come\nacross the owner, I'm sure they'll have\na story to tell about it."
+    },
+    {
+      "$id": 15,
+      "label": "qst000801_msg0505",
+      "style": 84,
+      "name": "Erebos must have forgotten!\nTora deliver knife for Erebos!"
+    },
+    {
+      "$id": 16,
+      "label": "qst000801_msg0506",
+      "style": 84,
+      "name": "We had better ask its owner about it,\nif the opportunity ever presents itself."
+    }
+  ]
+}

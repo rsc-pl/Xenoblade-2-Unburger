@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201918_msg0001",
+      "style": 84,
+      "name": "Corala buried barrel near Leaning\nTower of Dorrick in Temperantia."
+    },
+    {
+      "$id": 2,
+      "label": "qst201918_msg0002",
+      "style": 84,
+      "name": "Surely friends not go and dig up barrel\nafter Corala go to trouble of burying?"
+    },
+    {
+      "$id": 3,
+      "label": "qst201918_msg0003",
+      "style": 84,
+      "name": "Corala not happy about that...\nBut also not want to meet same fate\nas Saisai, so Corala not argue."
+    }
+  ]
+}

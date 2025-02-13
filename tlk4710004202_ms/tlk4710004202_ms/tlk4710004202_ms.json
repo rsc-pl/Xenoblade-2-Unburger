@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100042_02_msg0001",
+      "style": 84,
+      "name": "Well! Never in a million years did I think\nthat I would meet the true heroes here!\nIt is such an honor to meet you!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100042_02_msg0002",
+      "style": 84,
+      "name": "Ever since your heroic deeds, Phonex\nhave started leaving their territory to\nexplore, so word has started to travel!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100042_02_msg0003",
+      "style": 84,
+      "name": "I'd like to travel to places like Liberalitas\nand Gula myself someday..."
+    }
+  ]
+}

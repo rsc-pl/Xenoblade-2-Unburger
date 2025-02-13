@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002603_msg001",
+      "style": 84,
+      "name": "Wow!\nYou found it! You really found it!"
+    },
+    {
+      "$id": 2,
+      "label": "qst002603_msg002",
+      "style": 84,
+      "name": "Yay!\nI had no idea what I was going to do\nwithout it. Thank you so much!"
+    },
+    {
+      "$id": 3,
+      "label": "qst002603_msg003",
+      "style": 84,
+      "name": "Here! Take this!"
+    },
+    {
+      "$id": 4,
+      "label": "qst002603_msg004",
+      "style": 84,
+      "name": "Hehe, it's nice, right?\nI love these!"
+    },
+    {
+      "$id": 5,
+      "label": "qst002603_msg005",
+      "style": 84,
+      "name": "When I grow up, I wanna be a\ncool helper-outer person too!"
+    },
+    {
+      "$id": 6,
+      "label": "qst002603_msg006",
+      "style": 84,
+      "name": "Hey, I challenge you to a snowball\nfight next time we meet!"
+    }
+  ]
+}

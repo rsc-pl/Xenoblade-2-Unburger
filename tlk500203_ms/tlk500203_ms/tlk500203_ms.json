@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst500203_msg0001",
+      "style": 84,
+      "name": "Foorara eat too much!"
+    },
+    {
+      "$id": 2,
+      "label": "qst500203_msg0002",
+      "style": 84,
+      "name": "But this place like Eden."
+    },
+    {
+      "$id": 3,
+      "label": "qst500203_msg0003",
+      "style": 84,
+      "name": "Foorara want to stay here forever,\nsnug and warm and eating mushroom."
+    },
+    {
+      "$id": 4,
+      "label": "qst500203_msg0004",
+      "style": 84,
+      "name": "Why friends fix Foorara with cold gaze?"
+    },
+    {
+      "$id": 5,
+      "label": "qst500203_msg0005",
+      "style": 84,
+      "name": "Voltis Trade Guild Walky-Walky Guide\nBook say, even if want to settle down,\nWalky-Walky Nopon must press on."
+    },
+    {
+      "$id": 6,
+      "label": "qst500203_msg0006",
+      "style": 84,
+      "name": "So while sad to leave, Foorara must go."
+    },
+    {
+      "$id": 7,
+      "label": "qst500203_msg0007",
+      "style": 84,
+      "name": "Next destination can only be\nFons Maim, capital of Invidia."
+    },
+    {
+      "$id": 8,
+      "label": "qst500203_msg0008",
+      "style": 84,
+      "name": "Anyway, maybe we meet again.\nBest of luck!"
+    }
+  ]
+}

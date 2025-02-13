@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300163_02_msg0001",
+      "style": 84,
+      "name": "I look after my veggies like they're my\nown flesh and blood."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300163_02_msg0002",
+      "style": 84,
+      "name": "You know that Braised Cloud Sea\nShark dish Correl likes to make?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300163_02_msg0003",
+      "style": 84,
+      "name": "Take note of the seasoning,\nbecause it's my herbs that give\nit that special oomph!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300163_02_msg0004",
+      "style": 84,
+      "name": "I'm a firm believer that feeding a child\nhis greens makes him grow up good.\nAnd our Rex is living proof, eh?"
+    }
+  ]
+}

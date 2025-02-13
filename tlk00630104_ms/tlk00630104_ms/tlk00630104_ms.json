@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006301_04_msg0001",
+      "style": 84,
+      "name": "To get to the Sanctus Chain, you'll need\nto leave town, head through Amphoret\nPillar and descend the Genbu Drifts."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006301_04_msg0002",
+      "style": 84,
+      "name": "Once you're out of the drifts, you'll\nalso need to traverse the Great Pillar\nPassage."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006301_04_msg0003",
+      "style": 84,
+      "name": "I realize that we are in no position to\nask anything of you. And yet..."
+    }
+  ]
+}

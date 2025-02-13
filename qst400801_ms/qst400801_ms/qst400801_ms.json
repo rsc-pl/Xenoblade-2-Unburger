@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400801_msg0001",
+      "style": 84,
+      "name": "Yes, I saw him."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400801_msg0002",
+      "style": 84,
+      "name": "Just as the ship was docking, he ran\nup the stairs in a terrible hurry."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400801_msg0003",
+      "style": 84,
+      "name": "I thought he wasn't a familiar face\naround here, but I'm afraid I couldn't\ntell you much about him beyond that."
+    }
+  ]
+}

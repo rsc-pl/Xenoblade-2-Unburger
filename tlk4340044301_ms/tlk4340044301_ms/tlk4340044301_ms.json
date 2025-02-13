@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400443_01_msg0001",
+      "style": 84,
+      "name": "I'm asking for rations again today."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400443_01_msg0002",
+      "style": 84,
+      "name": "Because of the war, the Invidian Army\nis restricting sales of food and things\nare getting more and more expensive."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400443_01_msg0003",
+      "style": 84,
+      "name": "I just can't get vegetables like I used to."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400443_01_msg0004",
+      "style": 84,
+      "name": "But it's all going toward Invidia's\nvictory in the war."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400443_01_msg0005",
+      "style": 84,
+      "name": "And there's lots of people working\nas soldiers and mercenaries in\nFons Maim..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43400443_01_msg0006",
+      "style": 84,
+      "name": "That includes lots of people I know.\nWe all have to do our bit."
+    }
+  ]
+}

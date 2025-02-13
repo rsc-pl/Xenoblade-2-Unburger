@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300081_02_msg0001",
+      "style": 84,
+      "name": "Meh-meh... This quite big problem.\nBoard games selling well now, but\nreceiving many many complaints..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300081_02_msg0002",
+      "style": 84,
+      "name": "People getting into big fights playing\ncompetitive games like Don't Feed\nthe Armu and Money-Bye-Bye..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300081_02_msg0003",
+      "style": 84,
+      "name": "Perhaps bringing board games here\nwas dangerous...only bring conflict...!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300081_02_msg0004",
+      "style": 84,
+      "name": "Waaah... If it keeping up like this, board\ngames just going to get banned again!"
+    }
+  ]
+}

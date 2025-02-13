@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst006605_msg0001",
+      "style": 84,
+      "name": "Thanks for taking care of\nthat scary man!"
+    },
+    {
+      "$id": 2,
+      "label": "qst006605_msg0002",
+      "style": 84,
+      "name": "You've got a Whelzaman Cookie\nfor me, too?! Wow, thanks!"
+    },
+    {
+      "$id": 3,
+      "label": "qst006605_msg0003",
+      "style": 84,
+      "name": "I'll halve it with my mom!"
+    },
+    {
+      "$id": 4,
+      "label": "qst006605_msg1001",
+      "style": 84,
+      "name": "When I grow up, I want to become\na strong, kind person!"
+    },
+    {
+      "$id": 5,
+      "label": "qst006605_msg1002",
+      "style": 84,
+      "name": "I'll save lots of people, and every\ntime I'll give them a Whelzaman Cookie\nand then walk away all cool like!"
+    }
+  ]
+}
