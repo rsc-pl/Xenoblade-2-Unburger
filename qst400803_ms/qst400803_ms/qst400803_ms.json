@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400803_msg0001",
+      "style": 84,
+      "name": "I did see a boy head over towards the\nfarm...was he the one you're after?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk400803_msg0002",
+      "style": 84,
+      "name": "I feel like this city's getting less safe\nrecently... There was that nasty incident\nnot long ago too, and the water outage."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400803_msg0003",
+      "style": 84,
+      "name": "Trigo has the biggest Superbian base\nin the whole of Gula, you know."
+    },
+    {
+      "$id": 4,
+      "label": "tlk400803_msg0004",
+      "style": 84,
+      "name": "In other regions, the Superbians don't\nhave quite as much influence.\nI just worry about the future, is all..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700126_02_msg0001",
+      "style": 84,
+      "name": "Little Hotaru really loves her nature,\ndoesn't she?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700126_02_msg0002",
+      "style": 84,
+      "name": "I hope one day I can bring her with\nme and show her all the amazing flora\nAlst's got to offer."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700126_02_msg0003",
+      "style": 84,
+      "name": "I'll keep her safe, don't you worry.\nIt's the duty of the strong to take\ncare of the meek."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700126_02_msg0004",
+      "style": 84,
+      "name": "'Course, I'd need to be a Driver for all\nthis to happen."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700126_02_msg0005",
+      "style": 84,
+      "name": "Frankly, I'm jealous. What I wouldn't\ngive to share the company of a lovely\nlady like her..."
+    }
+  ]
+}

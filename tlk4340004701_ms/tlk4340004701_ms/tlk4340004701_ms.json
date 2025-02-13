@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400047_01_msg0001",
+      "style": 84,
+      "name": "Come closer...\nHave a good look around."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400047_01_msg0005",
+      "style": 84,
+      "name": "Come on in, owner!\nHave a good look around."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300011_04_msg0001",
+      "style": 84,
+      "name": "Never noticed before, but you guys\nhave a whole gaggle of Blades there,\ndon't ya?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300011_04_msg0002",
+      "style": 84,
+      "name": "If you've got any kicking about doing\nnothing, why not have them take on\na Merc Mission?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300011_04_msg0003",
+      "style": 84,
+      "name": "There's plenty of folks in town who'd\nappreciate a helping hand."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300011_04_msg0004",
+      "style": 84,
+      "name": "You'll get some form of reward\nand you'll net experience in the\nprocess. Worth it, no?"
+    }
+  ]
+}

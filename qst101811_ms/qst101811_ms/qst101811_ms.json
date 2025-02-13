@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101811_msg001",
+      "style": 62,
+      "name": "LIST_QST101811仮実装"
+    },
+    {
+      "$id": 2,
+      "label": "qst101811_msg002",
+      "style": 62,
+      "name": "本物のジゾーだったもね"
+    },
+    {
+      "$id": 3,
+      "label": "qst101811_msg0001",
+      "style": 84,
+      "name": "That Blade might have lost his Driver,\nbut he's not giving me the slip without\npaying up, I'll tell you for nothing."
+    },
+    {
+      "$id": 4,
+      "label": "qst101811_msg0002",
+      "style": 84,
+      "name": "Then again, if he winds up as a\nCore Crystal, that'd suit me just\nfine too... Heheheh..."
+    },
+    {
+      "$id": 5,
+      "label": "qst101811_msg0101",
+      "style": 84,
+      "name": "Yes, your Blade friend's all paid up\nnow, dearie."
+    },
+    {
+      "$id": 6,
+      "label": "qst101811_msg0102",
+      "style": 84,
+      "name": "You're a funny sort, paying off people's\ndebts for them!"
+    }
+  ]
+}

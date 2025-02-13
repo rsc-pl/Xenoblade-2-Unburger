@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006501_02_msg0001",
+      "style": 84,
+      "name": "I still can't say I really trust those brats."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006501_02_msg0002",
+      "style": 84,
+      "name": "They look like they're working hard,\nbut you never know when they might\nup and off with something again..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006501_02_msg0003",
+      "style": 84,
+      "name": "I don't care how tragic it is that they\nlost their homes. You can't just resort\nto stealing!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk006501_02_msg0004",
+      "style": 84,
+      "name": "No, there's no telling what they might\ndo. I've still got my eye on them..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300146_01_msg0001",
+      "style": 84,
+      "name": "Yuou's shop is tended by the\ndaughter of the Gaselart family."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300146_01_msg0002",
+      "style": 84,
+      "name": "It would normally be unthinkable to\nhave the daughter of a noble house\nworking in a shop, but..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300146_01_msg0003",
+      "style": 84,
+      "name": "It seems like the lady herself has\ntaken a liking to Yuou's desserts..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300146_01_msg0004",
+      "style": 84,
+      "name": "She begged to be allowed to work\nthere, so even I was swayed by\nher zeal."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300146_01_msg0005",
+      "style": 84,
+      "name": "I'm really happy Yuou's shop,\nJust Desserts, has come to fruition."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43300146_01_msg0006",
+      "style": 84,
+      "name": "Now with the girl's help, it seems\nlikely business will further improve,\nso we'll be counting on your support!"
+    }
+  ]
+}

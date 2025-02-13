@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200121_02_msg0001",
+      "style": 84,
+      "name": "Oh, perfect timing.\nThere's something I've been wanting\nto ask Drivers and Blades like you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200121_02_msg0002",
+      "style": 84,
+      "name": "You have to fight against\nmonsters a lot, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200121_02_msg0003",
+      "style": 84,
+      "name": "Have you ever seen any monsters get\nreally angry after taking damage?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200121_02_msg0004",
+      "style": 165,
+      "name": "How should we answer?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200121_02_msg0005",
+      "style": 165,
+      "name": "There are monsters like that"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41200121_02_msg0006",
+      "style": 165,
+      "name": "There aren't any monsters like that"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41200121_02_msg0007",
+      "style": 84,
+      "name": "I thought there must be!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk41200121_02_msg0008",
+      "style": 84,
+      "name": "After all, monsters are living\ncreatures too. They must get\nangry from time to time."
+    },
+    {
+      "$id": 9,
+      "label": "tlk41200121_02_msg0009",
+      "style": 84,
+      "name": "OK, here's my next question."
+    },
+    {
+      "$id": 10,
+      "label": "tlk41200121_02_msg0010",
+      "style": 84,
+      "name": "Are there any monsters out there\nthat actually block your attacks?"
+    },
+    {
+      "$id": 11,
+      "label": "tlk41200121_02_msg0011",
+      "style": 84,
+      "name": "Wow, they do that too, huh?"
+    },
+    {
+      "$id": 12,
+      "label": "tlk41200121_02_msg0012",
+      "style": 84,
+      "name": "I guess monsters like that would be\ntough to defeat, since you need to stop\nthem from guarding to deal damage."
+    },
+    {
+      "$id": 13,
+      "label": "tlk41200121_02_msg0013",
+      "style": 84,
+      "name": "OK, thanks for all your help.\nI'm going to brag to my dad that I know\nall this stuff about monsters now!"
+    },
+    {
+      "$id": 14,
+      "label": "tlk41200121_02_msg0014",
+      "style": 84,
+      "name": "Really? None at all?"
+    },
+    {
+      "$id": 15,
+      "label": "tlk41200121_02_msg0015",
+      "style": 84,
+      "name": "Maybe they're out there somewhere\nand you just haven't met them yet..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202703_msg0001",
+      "style": 84,
+      "name": "An apocalypse cult?\nCan't say I've ever heard of them."
+    },
+    {
+      "$id": 2,
+      "label": "qst202703_msg0002",
+      "style": 84,
+      "name": "You say it's popular with Nopon?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202703_msg0003",
+      "style": 84,
+      "name": "I have no clue what they're thinking."
+    },
+    {
+      "$id": 4,
+      "label": "qst202703_msg0004",
+      "style": 84,
+      "name": "I mean, it doesn't exactly sound\nwholesome, now does it?"
+    }
+  ]
+}

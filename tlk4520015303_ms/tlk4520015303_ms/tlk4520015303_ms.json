@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200153_03_msg0001",
+      "style": 84,
+      "name": "We almost ended up at war with Invidia,\nbut thanks to Emperor Nefer it all\nworked out fine in the end!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200153_03_msg0002",
+      "style": 84,
+      "name": "My mom and dad were pretty relieved."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200153_03_msg0003",
+      "style": 84,
+      "name": "By the way, why would we have to\nfight with Invidia anyway?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200153_03_msg0004",
+      "style": 84,
+      "name": "They don't seem all that bad to me..."
+    }
+  ]
+}

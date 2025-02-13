@@ -1,0 +1,2124 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Juicy Samod"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Lightly Fried Rice"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Avaritia Noodle Soup"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Massive Mushroom Pie"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Bright Samod"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Tasty Kordeth Samod"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Grilled Anchortail"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Oyster Stir-Fry"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Marine Stir-Fry"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Melodious Melon Parfait"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Cinnopon Roll"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Sparklesugar"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Fruity Rice Ball"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Narcipear Jelly"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Twinklejuice"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Fizz Juice"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Chunky Juice"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Sappan Veg Juice"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Honey au Lait"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Crispy Blendshake"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Roly-Poly Maracas"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Nopolele"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Funky Conga"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Whispercorder"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Casta-Mutes"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Clicky-Clacks"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Salvaging Made Easy"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Yumyum's Golden Gun"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "The Millenarian Divine Beast"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Adventures of Myram"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Mumuni the Littlepon"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Clattertongue"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Nopon Chess Set"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Sneak-Thief King"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Tradeway 66"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Coral Nopon Chess Set"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Liberalitan Life"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Eau de Doux"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Elastifying Tonic"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Freshening Gel"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Curled Eyelashes"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Bubbly Mani-Pedi Kit"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Full Moon Eyeliner"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Ruska Dumplings"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Ruska Noodle Goulash"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Deluxe Ham Toastie"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Ruska Noodle Soup"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Beat Paste Paratha"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Crispy Sauté"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Trigo Marinade"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Stuffed Meaty Carrot"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Puri Leaf Salad"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Snowy Dudleya Gelée"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Estral Steak"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Tasty Sausage"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Mince & Lentil Stir-Fry"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Mustard Kordeth"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Gulan Fish Flakes"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Grass-Smoked Salmon"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Bipedal Crab Chili"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Lunana Smoothie"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Gulan Honeytea"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Kukurel Springwater"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Passion Fruit Shake"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "Victory Smoothie"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Torigonda"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Woodgrain Alphorn"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Cedarwood Koto"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Woodboard"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Coralline Marimba"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "The Girl on the Hill"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Black Flower Field"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Woodcut Print of Bahn"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Wood-Carven Queen"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Puffoundation"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Treesap Conditioner"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Flurrycomb"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Conch Hairpin"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Sparkly Snow Perfume"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Puzzletree Pouch"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Trigo-Weave Mat"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Wood-Dye Waistcloth"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Sun-Dappled Curtains"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Leaf-Weave Cape"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Snowflake Scarf"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Wrapped Glarna Bake"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Three-Cheese Puran"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Glitterspud Puran"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Hearty Kordeth Puran"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Pomegranate Soup"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Sour-Spark-on-a-Stick"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Boiled Hustle Hyacinth"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Pickled Ice Cabbage"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Armu T-Bone Steak"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Mixed Meat Platter"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Hotplate Fry-Up"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Char-Grilled Grumbird"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Dried Sunfish"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Bullybelly Carpaccio"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Steamed Bluegill"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Whitebait With Seeds"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Rainbow Parfait"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Blossom Custard"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Plumage Peach Jelly"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Champ's Churros"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Glitterspud Cake"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "Snipe Flan"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "Cherry Cheese Mousse"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Neon Grape Flan"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Black Roast Coffee"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Jenerossi Tea"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Fizzy Lassi"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Lentil Milkshake"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Scarlet Shamisen"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Fonsan Viola"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Hero's Harp"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Rumble Cello"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Cloudsnail Arpeggione"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Patron King's Carving"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Final Chorus"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Singing Maiden Statue"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Skywards by Divine Beast"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "The Alrestogony"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "The Legacy of Selosia"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Masterpieces of Alst"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Adel's Love and War"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Castle Poker"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Gladiator Wrestling"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Coral Reversi"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Duel Line"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Nopopo Yard"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Coral Casino"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Red Opal Lipstick"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Divine Beast-Oil Hand Cream"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Golden Mascara"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Gorgeous Blusher"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Iyasaki-Rouge Lipgloss"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Sanar-Knit Headband"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Armu-Skin Gladiator"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Coralweave Towel"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Dazzling Handkerchief"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Gulan Woodwing"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Sanar-Knit Blanket"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Dolphin Carrot Sliders"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Campfire Skewers"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Crispy Vegetable Salad"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Steamflake Tabbouleh"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Meat & Lentil Skewer"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Herbal Tartare Kascha"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Grumbird Casserole"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Estral Quotelettas"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Armu & Bean Stew"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Grilled Salmon in Herbs"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Cloud Sea Crab Sticks"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Sand Salmon Ceviche"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Fish and Herb Broth"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "Steamed Milk Brioche"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Steam-Gel Ice Cream"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Sweet Lentil Bun"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Sky-Jewel Tart"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Odifa Gelée Tart"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Hot Ruby Steamed Bun"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Pipe Trumpet"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Steamwork Organ"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "Army-Issue Violin"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "Hammerplate Snare"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "Tube Xylophone"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "Icicle Marimba"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "Punk Doll"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "Copper Ephem Statue"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Felmeri Fairy Statue"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Conch Music Box"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Superbian Arms Album"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Emperor Ephem's War"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Imperial Secret Escapes"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Les Awfuls"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "How Wars Profit Nopon"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Love Beyond the Clouds"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Army Field Manual"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "Chooby Tubes"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "Secret Trials"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Dueling Kingdoms"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "Dealing Kingdoms"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Plumber Escape Game"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Lybarian Chowder"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Green Cheese Salad"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Vegetable Mille-Feuille"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Veg & Oyster Aspic"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Snowbaby Potato Salad"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Pastel Camill"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Albacon Frystack"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Sweet Armu Belly Stew"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Zaproast Power Bowl"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Fragrant Samod Stralu"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Glarna Stir-Fry"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Broiled Pinfin"
+    },
+    {
+      "$id": 197,
+      "style": 36,
+      "name": "Sautéed Beat Shrimps"
+    },
+    {
+      "$id": 198,
+      "style": 36,
+      "name": "Braised Cloud Sea Shark"
+    },
+    {
+      "$id": 199,
+      "style": 36,
+      "name": "Smoke-Braised Killifish"
+    },
+    {
+      "$id": 200,
+      "style": 36,
+      "name": "Seared Whitebait"
+    },
+    {
+      "$id": 201,
+      "style": 36,
+      "name": "Odifa"
+    },
+    {
+      "$id": 202,
+      "style": 36,
+      "name": "Acedian Tea"
+    },
+    {
+      "$id": 203,
+      "style": 36,
+      "name": "Frozen Odifa"
+    },
+    {
+      "$id": 204,
+      "style": 36,
+      "name": "Pipestraw Smoothie"
+    },
+    {
+      "$id": 205,
+      "style": 36,
+      "name": "Armu Milk Earl Grey"
+    },
+    {
+      "$id": 206,
+      "style": 36,
+      "name": "Luna Lizard Wreath"
+    },
+    {
+      "$id": 207,
+      "style": 36,
+      "name": "Montecoran Doll"
+    },
+    {
+      "$id": 208,
+      "style": 36,
+      "name": "Steel Pipe Lexos"
+    },
+    {
+      "$id": 209,
+      "style": 36,
+      "name": "Lush Moonbeam Mask"
+    },
+    {
+      "$id": 210,
+      "style": 36,
+      "name": "Jellyfish Balsam Rug"
+    },
+    {
+      "$id": 211,
+      "style": 36,
+      "name": "Codweave Shop Curtain"
+    },
+    {
+      "$id": 212,
+      "style": 36,
+      "name": "Codweave Safety Blanky"
+    },
+    {
+      "$id": 213,
+      "style": 36,
+      "name": "Silken Stool"
+    },
+    {
+      "$id": 214,
+      "style": 36,
+      "name": "Noponcho"
+    },
+    {
+      "$id": 215,
+      "style": 36,
+      "name": "Prismatic Headband"
+    },
+    {
+      "$id": 216,
+      "style": 36,
+      "name": "Fondant Rice Cake"
+    },
+    {
+      "$id": 217,
+      "style": 36,
+      "name": "Luxurian Porridge"
+    },
+    {
+      "$id": 218,
+      "style": 36,
+      "name": "Poached Fruit Samod"
+    },
+    {
+      "$id": 219,
+      "style": 36,
+      "name": "Grumbird Rice Bowl"
+    },
+    {
+      "$id": 220,
+      "style": 36,
+      "name": "Steamed Veg Stralu"
+    },
+    {
+      "$id": 221,
+      "style": 36,
+      "name": "Adel's Embercakes"
+    },
+    {
+      "$id": 222,
+      "style": 36,
+      "name": "Vinaigrette Ice Cabbage"
+    },
+    {
+      "$id": 223,
+      "style": 36,
+      "name": "Prickly Snowpickle"
+    },
+    {
+      "$id": 224,
+      "style": 36,
+      "name": "Aromalocaris Sauté"
+    },
+    {
+      "$id": 225,
+      "style": 36,
+      "name": "Abyssturgeon Medallion"
+    },
+    {
+      "$id": 226,
+      "style": 36,
+      "name": "Bagna Oyster Roll"
+    },
+    {
+      "$id": 227,
+      "style": 36,
+      "name": "Whitebait-Samod Hotpot"
+    },
+    {
+      "$id": 228,
+      "style": 36,
+      "name": "Airy Snowflake Sherbet"
+    },
+    {
+      "$id": 229,
+      "style": 36,
+      "name": "Thawing Mille-Feuille"
+    },
+    {
+      "$id": 230,
+      "style": 36,
+      "name": "Baked Narcipear"
+    },
+    {
+      "$id": 231,
+      "style": 36,
+      "name": "Sno-Bake Cheesecake"
+    },
+    {
+      "$id": 232,
+      "style": 36,
+      "name": "Odifa Punch"
+    },
+    {
+      "$id": 233,
+      "style": 36,
+      "name": "Snow Dumplings"
+    },
+    {
+      "$id": 234,
+      "style": 36,
+      "name": "Ancient King’s Portrait"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Snow-Crystal Vase"
+    },
+    {
+      "$id": 236,
+      "style": 36,
+      "name": "Portrait of Ger the Hero"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Prideful Walking"
+    },
+    {
+      "$id": 238,
+      "style": 36,
+      "name": "The Armu Who Loved"
+    },
+    {
+      "$id": 239,
+      "style": 36,
+      "name": "Witness the Crustip"
+    },
+    {
+      "$id": 240,
+      "style": 36,
+      "name": "The Annals of Adel"
+    },
+    {
+      "$id": 241,
+      "style": 36,
+      "name": "The Blizzard Choir"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "Astrology Made Simple"
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Don't Feed the Armu"
+    },
+    {
+      "$id": 244,
+      "style": 36,
+      "name": "Bluff Knight"
+    },
+    {
+      "$id": 245,
+      "style": 36,
+      "name": "Money-Bye-Bye"
+    },
+    {
+      "$id": 246,
+      "style": 36,
+      "name": "Smack-A-Nopon"
+    },
+    {
+      "$id": 247,
+      "style": 36,
+      "name": "Jeweled Billiard Balls"
+    },
+    {
+      "$id": 248,
+      "style": 36,
+      "name": "Steamy Oil"
+    },
+    {
+      "$id": 249,
+      "style": 36,
+      "name": "Chocolate Shadow"
+    },
+    {
+      "$id": 250,
+      "style": 36,
+      "name": "Moonstar Lipstick"
+    },
+    {
+      "$id": 251,
+      "style": 36,
+      "name": "Noponic Nails"
+    },
+    {
+      "$id": 252,
+      "style": 36,
+      "name": "Steam Powder"
+    },
+    {
+      "$id": 253,
+      "style": 36,
+      "name": "Luxurian Velvet"
+    },
+    {
+      "$id": 254,
+      "style": 36,
+      "name": "Snowflake-Weave Sole"
+    },
+    {
+      "$id": 255,
+      "style": 36,
+      "name": "Genbu-Weave Cloth"
+    },
+    {
+      "$id": 256,
+      "style": 36,
+      "name": "Heatstripe"
+    },
+    {
+      "$id": 257,
+      "style": 36,
+      "name": "Musical Hair Clasp"
+    },
+    {
+      "$id": 258,
+      "style": 36,
+      "name": "Trigo Snowpouch"
+    },
+    {
+      "$id": 259,
+      "style": 36,
+      "name": "Glitterbake"
+    },
+    {
+      "$id": 260,
+      "style": 36,
+      "name": "Tricolor Bowl"
+    },
+    {
+      "$id": 261,
+      "style": 36,
+      "name": "Hot Moonbeam Salad"
+    },
+    {
+      "$id": 262,
+      "style": 36,
+      "name": "Adel's Supercakes"
+    },
+    {
+      "$id": 263,
+      "style": 36,
+      "name": "Meatball Pot-au-Feu"
+    },
+    {
+      "$id": 264,
+      "style": 36,
+      "name": "Pan-Fried Tartari"
+    },
+    {
+      "$id": 265,
+      "style": 36,
+      "name": "Roast Meat Tagliata"
+    },
+    {
+      "$id": 266,
+      "style": 36,
+      "name": "Sunshine Pie"
+    },
+    {
+      "$id": 267,
+      "style": 36,
+      "name": "Acqua Pearl Pazza"
+    },
+    {
+      "$id": 268,
+      "style": 36,
+      "name": "Musubi’s Dumplings"
+    },
+    {
+      "$id": 269,
+      "style": 36,
+      "name": "Rainbow Dumplings"
+    },
+    {
+      "$id": 270,
+      "style": 36,
+      "name": "Gromrice Dumplings"
+    },
+    {
+      "$id": 271,
+      "style": 36,
+      "name": "Puri Leaf Dumplings"
+    },
+    {
+      "$id": 272,
+      "style": 36,
+      "name": "Spicy Stralu"
+    },
+    {
+      "$id": 273,
+      "style": 36,
+      "name": "Lovemerry Cake"
+    },
+    {
+      "$id": 274,
+      "style": 36,
+      "name": "Neon Cookies"
+    },
+    {
+      "$id": 275,
+      "style": 36,
+      "name": "Bitter Choclit"
+    },
+    {
+      "$id": 276,
+      "style": 36,
+      "name": "Bitlip Drink"
+    },
+    {
+      "$id": 277,
+      "style": 36,
+      "name": "Pucklip Drink"
+    },
+    {
+      "$id": 278,
+      "style": 36,
+      "name": "Tinglip Drink"
+    },
+    {
+      "$id": 279,
+      "style": 36,
+      "name": "Sourlip Drink"
+    },
+    {
+      "$id": 280,
+      "style": 36,
+      "name": "Tricolor Ice Floe"
+    },
+    {
+      "$id": 281,
+      "style": 36,
+      "name": "Sparkling Snowglobe"
+    },
+    {
+      "$id": 282,
+      "style": 36,
+      "name": "Rainbow Scope"
+    },
+    {
+      "$id": 283,
+      "style": 36,
+      "name": "Luxuria Icecube"
+    },
+    {
+      "$id": 284,
+      "style": 36,
+      "name": "Divine Beast Illuminations"
+    },
+    {
+      "$id": 285,
+      "style": 36,
+      "name": "Salted Brog Sauté"
+    },
+    {
+      "$id": 286,
+      "style": 36,
+      "name": "Cream Orange Paratha"
+    },
+    {
+      "$id": 287,
+      "style": 36,
+      "name": "The Flora of Alst"
+    },
+    {
+      "$id": 288,
+      "style": 36,
+      "name": "Gentlemen: A Study"
+    },
+    {
+      "$id": 289,
+      "style": 36,
+      "name": "Quoteletta"
+    },
+    {
+      "$id": 290,
+      "style": 36,
+      "name": "Fried Octomayo"
+    },
+    {
+      "$id": 291,
+      "style": 36,
+      "name": "Superbian Bear Carving"
+    },
+    {
+      "$id": 292,
+      "style": 36,
+      "name": "Master's Curry"
+    },
+    {
+      "$id": 293,
+      "style": 36,
+      "name": "Lucky Dawn Bread"
+    },
+    {
+      "$id": 294,
+      "style": 36,
+      "name": "Choclit Dumplings"
+    },
+    {
+      "$id": 295,
+      "style": 36,
+      "name": "Heart Cookies"
+    },
+    {
+      "$id": 296,
+      "style": 36,
+      "name": "Rizzente Mantle"
+    },
+    {
+      "$id": 297,
+      "style": 36,
+      "name": "Felt Cushioning"
+    },
+    {
+      "$id": 298,
+      "style": 36,
+      "name": "Brut Silk"
+    },
+    {
+      "$id": 299,
+      "style": 36,
+      "name": "Shelton Broadcloth"
+    },
+    {
+      "$id": 300,
+      "style": 36,
+      "name": "Crinkly Wool"
+    },
+    {
+      "$id": 301,
+      "style": 36,
+      "name": "Homura's Baked Redfish"
+    },
+    {
+      "$id": 302,
+      "style": 36,
+      "name": "Fabulously Fierce Hat"
+    },
+    {
+      "$id": 303,
+      "style": 36,
+      "name": "Love Source"
+    },
+    {
+      "$id": 304,
+      "style": 36,
+      "name": "Cotton Charm"
+    },
+    {
+      "$id": 305,
+      "style": 36,
+      "name": "Organic Charm"
+    },
+    {
+      "$id": 306,
+      "style": 36,
+      "name": "Traveler's Charm"
+    },
+    {
+      "$id": 307,
+      "style": 36,
+      "name": "Batwing Charm"
+    },
+    {
+      "$id": 308,
+      "style": 36,
+      "name": "Burly Charm"
+    },
+    {
+      "$id": 309,
+      "style": 36,
+      "name": "Sword Charm"
+    },
+    {
+      "$id": 310,
+      "style": 36,
+      "name": "Mechanical Charm"
+    },
+    {
+      "$id": 311,
+      "style": 36,
+      "name": "Rynea's Charm"
+    },
+    {
+      "$id": 312,
+      "style": 36,
+      "name": "Hollow Charm"
+    },
+    {
+      "$id": 313,
+      "style": 36,
+      "name": "Galaxy Charm"
+    },
+    {
+      "$id": 314,
+      "style": 36,
+      "name": "Deviled Baguette"
+    },
+    {
+      "$id": 315,
+      "style": 36,
+      "name": "Survivalist's Sandwich"
+    },
+    {
+      "$id": 316,
+      "style": 36,
+      "name": "Lucky Colorful Salad"
+    },
+    {
+      "$id": 317,
+      "style": 36,
+      "name": "Feris Quotelettas"
+    },
+    {
+      "$id": 318,
+      "style": 36,
+      "name": "White-Hot Eggy Curry"
+    },
+    {
+      "$id": 319,
+      "style": 36,
+      "name": "Ruby-Stew Buloofo"
+    },
+    {
+      "$id": 320,
+      "style": 36,
+      "name": "Trout Stralu"
+    },
+    {
+      "$id": 321,
+      "style": 36,
+      "name": "Rich Platinum Bonbon"
+    },
+    {
+      "$id": 322,
+      "style": 36,
+      "name": "Energy Stir-Fry"
+    },
+    {
+      "$id": 323,
+      "style": 36,
+      "name": "Wildflower Salad"
+    },
+    {
+      "$id": 324,
+      "style": 36,
+      "name": "XL Magma Sauté"
+    },
+    {
+      "$id": 325,
+      "style": 36,
+      "name": "Bunnit-Stuffed Peppers"
+    },
+    {
+      "$id": 326,
+      "style": 36,
+      "name": "Fried Tartari à la Shin"
+    },
+    {
+      "$id": 327,
+      "style": 36,
+      "name": "Chilsainian Kascha"
+    },
+    {
+      "$id": 328,
+      "style": 36,
+      "name": "Wingberry Cake"
+    },
+    {
+      "$id": 329,
+      "style": 36,
+      "name": "Soothing Talisman"
+    },
+    {
+      "$id": 330,
+      "style": 36,
+      "name": "Bright Talisman"
+    },
+    {
+      "$id": 331,
+      "style": 36,
+      "name": "Unforgettable Talisman"
+    },
+    {
+      "$id": 332,
+      "style": 36,
+      "name": "Mystery Talisman"
+    },
+    {
+      "$id": 333,
+      "style": 36,
+      "name": "Exorcising Talisman"
+    },
+    {
+      "$id": 334,
+      "style": 36,
+      "name": "Fierce Talisman"
+    },
+    {
+      "$id": 335,
+      "style": 36,
+      "name": "Farsighted Talisman"
+    },
+    {
+      "$id": 336,
+      "style": 36,
+      "name": "Swordstrike Talisman"
+    },
+    {
+      "$id": 337,
+      "style": 36,
+      "name": "Unbreakable Talisman"
+    },
+    {
+      "$id": 338,
+      "style": 36,
+      "name": "Golden Land Talisman"
+    },
+    {
+      "$id": 339,
+      "style": 36,
+      "name": "アデルクラフト1(仮)"
+    },
+    {
+      "$id": 340,
+      "style": 36,
+      "name": "アデルクラフト2(仮)"
+    },
+    {
+      "$id": 341,
+      "style": 36,
+      "name": "アデルクラフト3(仮)"
+    },
+    {
+      "$id": 342,
+      "style": 36,
+      "name": "日輪カラクリ香炉"
+    },
+    {
+      "$id": 343,
+      "style": 36,
+      "name": "アデルクラフト5(仮)"
+    },
+    {
+      "$id": 344,
+      "style": 36,
+      "name": "アデルクラフト6(仮)"
+    },
+    {
+      "$id": 345,
+      "style": 36,
+      "name": "アデルクラフト7(仮)"
+    },
+    {
+      "$id": 346,
+      "style": 36,
+      "name": "銀河ストームグラス"
+    },
+    {
+      "$id": 347,
+      "style": 36,
+      "name": "アデルクラフト8(仮)"
+    },
+    {
+      "$id": 348,
+      "style": 36,
+      "name": "アデルクラフト9(仮)"
+    },
+    {
+      "$id": 349,
+      "style": 36,
+      "name": "アデルクラフト10(仮)"
+    },
+    {
+      "$id": 350,
+      "style": 36,
+      "name": "アデルクラフト11(仮)"
+    },
+    {
+      "$id": 351,
+      "style": 36,
+      "name": "アデルクラフト12(仮)"
+    },
+    {
+      "$id": 352,
+      "style": 36,
+      "name": "アデルクラフト13(仮)"
+    },
+    {
+      "$id": 353,
+      "style": 36,
+      "name": "Whole Upa in a Bun"
+    },
+    {
+      "$id": 354,
+      "style": 36,
+      "name": "Sweet Feris Dumplings"
+    },
+    {
+      "$id": 355,
+      "style": 36,
+      "name": "Chaos Stralu"
+    },
+    {
+      "$id": 356,
+      "style": 36,
+      "name": "Puréed Sculpin Parfait"
+    },
+    {
+      "$id": 357,
+      "style": 36,
+      "name": "Spicy Scorpion Cookie"
+    },
+    {
+      "$id": 358,
+      "style": 36,
+      "name": "Inconceivable Pudding"
+    },
+    {
+      "$id": 359,
+      "style": 36,
+      "name": "Grisly Mille-Feuille"
+    },
+    {
+      "$id": 360,
+      "style": 36,
+      "name": "Moisturizing Bagel"
+    },
+    {
+      "$id": 361,
+      "style": 36,
+      "name": "Chilsainian Kascha DX"
+    },
+    {
+      "$id": 362,
+      "style": 36,
+      "name": "Ruby-Stew Buloofo DX"
+    },
+    {
+      "$id": 363,
+      "style": 36,
+      "name": "Love-Hate Sausage"
+    },
+    {
+      "$id": 364,
+      "style": 36,
+      "name": "Caramelized Seafood"
+    },
+    {
+      "$id": 365,
+      "style": 36,
+      "name": "Ascension Waffles"
+    },
+    {
+      "$id": 366,
+      "style": 36,
+      "name": "Literally Killer Tart"
+    },
+    {
+      "$id": 367,
+      "style": 36,
+      "name": "Miracle Parfait"
+    },
+    {
+      "$id": 368,
+      "style": 36,
+      "name": "A Happy Encounter"
+    },
+    {
+      "$id": 369,
+      "style": 36,
+      "name": "Beyond Endless Dunes"
+    },
+    {
+      "$id": 370,
+      "style": 36,
+      "name": "The Quaestor"
+    },
+    {
+      "$id": 371,
+      "style": 36,
+      "name": "The Capital Under Fire"
+    },
+    {
+      "$id": 372,
+      "style": 36,
+      "name": "The Knight of Iira"
+    },
+    {
+      "$id": 373,
+      "style": 36,
+      "name": "Preparing for the Worst"
+    },
+    {
+      "$id": 374,
+      "style": 36,
+      "name": "What You Must Protect"
+    },
+    {
+      "$id": 375,
+      "style": 36,
+      "name": "The Aegis"
+    },
+    {
+      "$id": 376,
+      "style": 36,
+      "name": "ミノチクラフト9(仮)"
+    },
+    {
+      "$id": 377,
+      "style": 36,
+      "name": "Community Spirit"
+    },
+    {
+      "$id": 378,
+      "style": 36,
+      "name": "ブライトストック"
+    },
+    {
+      "$id": 379,
+      "style": 36,
+      "name": "マッスルショベル"
+    },
+    {
+      "$id": 380,
+      "style": 36,
+      "name": "マシンウォッチ"
+    },
+    {
+      "$id": 381,
+      "style": 36,
+      "name": "プリズムコンパス"
+    },
+    {
+      "$id": 382,
+      "style": 36,
+      "name": "ウイングワイヤーリール"
+    },
+    {
+      "$id": 383,
+      "style": 36,
+      "name": "エレクトスコープ"
+    },
+    {
+      "$id": 384,
+      "style": 36,
+      "name": "オーシャンヘッドライト"
+    },
+    {
+      "$id": 385,
+      "style": 36,
+      "name": "サンライトピッケル"
+    },
+    {
+      "$id": 386,
+      "style": 36,
+      "name": "フレグランタン"
+    },
+    {
+      "$id": 387,
+      "style": 36,
+      "name": "ジャイロダイス"
+    },
+    {
+      "$id": 388,
+      "style": 36,
+      "name": "スターリーツェルト"
+    },
+    {
+      "$id": 389,
+      "style": 36,
+      "name": "メイルザック"
+    },
+    {
+      "$id": 390,
+      "style": 36,
+      "name": "スチームオルゴール"
+    },
+    {
+      "$id": 391,
+      "style": 36,
+      "name": "スチームクロック"
+    },
+    {
+      "$id": 392,
+      "style": 36,
+      "name": "Winterwind Perfume"
+    },
+    {
+      "$id": 393,
+      "style": 36,
+      "name": "Spring Revival Perfume"
+    },
+    {
+      "$id": 394,
+      "style": 36,
+      "name": "Dignified Perfume"
+    },
+    {
+      "$id": 395,
+      "style": 36,
+      "name": "Evilbane Perfume"
+    },
+    {
+      "$id": 396,
+      "style": 36,
+      "name": "Hopeful Perfume"
+    },
+    {
+      "$id": 397,
+      "style": 36,
+      "name": "Resurrection Perfume"
+    },
+    {
+      "$id": 398,
+      "style": 36,
+      "name": "Serenity Perfume"
+    },
+    {
+      "$id": 399,
+      "style": 36,
+      "name": "Exquisite Perfume"
+    },
+    {
+      "$id": 400,
+      "style": 36,
+      "name": "Pestronella Oil"
+    },
+    {
+      "$id": 401,
+      "style": 36,
+      "name": "Eternity Perfume"
+    },
+    {
+      "$id": 402,
+      "style": 36,
+      "name": "Ruska Dumpling Soup"
+    },
+    {
+      "$id": 403,
+      "style": 36,
+      "name": "Ruska Veggie Hot-Pot"
+    },
+    {
+      "$id": 404,
+      "style": 36,
+      "name": "Pickled Purses"
+    },
+    {
+      "$id": 405,
+      "style": 36,
+      "name": "Rhogul à la Ardainaise"
+    },
+    {
+      "$id": 406,
+      "style": 36,
+      "name": "Sweet-Stewed Sculpin"
+    },
+    {
+      "$id": 407,
+      "style": 36,
+      "name": "Gulan Sashimi Plate"
+    },
+    {
+      "$id": 408,
+      "style": 36,
+      "name": "Deep-Fried Iiran Fish"
+    },
+    {
+      "$id": 409,
+      "style": 36,
+      "name": "Plain Boiled Crab"
+    },
+    {
+      "$id": 410,
+      "style": 36,
+      "name": "Coeian-Style Fry-Up"
+    },
+    {
+      "$id": 411,
+      "style": 36,
+      "name": "Sumpkin Griddle Cakes"
+    },
+    {
+      "$id": 412,
+      "style": 36,
+      "name": "Hyber Meatball Stew"
+    },
+    {
+      "$id": 413,
+      "style": 36,
+      "name": "Hustle Marinade"
+    },
+    {
+      "$id": 414,
+      "style": 36,
+      "name": "Bonytongue Casserole"
+    },
+    {
+      "$id": 415,
+      "style": 36,
+      "name": "Steel Salmon Tempura"
+    },
+    {
+      "$id": 416,
+      "style": 36,
+      "name": "Fisherman's Feast"
+    },
+    {
+      "$id": 417,
+      "style": 36,
+      "name": "Molten Salsa"
+    },
+    {
+      "$id": 418,
+      "style": 36,
+      "name": "Blazing Quoteletta"
+    },
+    {
+      "$id": 419,
+      "style": 36,
+      "name": "Brimstone Tartari"
+    },
+    {
+      "$id": 420,
+      "style": 36,
+      "name": "White-Hot Eggy Curry"
+    },
+    {
+      "$id": 421,
+      "style": 36,
+      "name": "Homura's Acqua Pazza"
+    },
+    {
+      "$id": 422,
+      "style": 36,
+      "name": "Love Doughnut"
+    }
+  ]
+}

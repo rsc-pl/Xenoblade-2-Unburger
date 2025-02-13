@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00240102_msg0001",
+      "style": 84,
+      "name": "If you're looking for Grandpa,\nhe's in the last room at the end\nof the corridor."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00240102_msg0002",
+      "style": 84,
+      "name": "You should go say hi to him, Mister\nVandham. I think he'd like that."
+    }
+  ]
+}

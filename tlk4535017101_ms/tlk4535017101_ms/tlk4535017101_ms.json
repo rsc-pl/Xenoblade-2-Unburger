@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350171_01_msg0001",
+      "style": 84,
+      "name": "I've finished selling all the goods\nI brought from Superbia, so I'm off\nto the cathedral for a spot of prayer."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350171_01_msg0002",
+      "style": 84,
+      "name": "No, I'm not particularly religious or\nanything. I just want to get a glimpse of\nFan-sama, Goddess of the Holy See!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350171_01_msg0003",
+      "style": 84,
+      "name": "There are Invidians in this city too,\nbut when I gaze at Fan-sama, all that\npolitical unrest seems so insignificant."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350171_01_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

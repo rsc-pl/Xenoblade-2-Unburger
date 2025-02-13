@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310111_03_msg0001",
+      "style": 84,
+      "name": "That was a terrible ordeal back\nthere... I'm just glad we got out\nof it in one piece."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310111_03_msg0002",
+      "style": 84,
+      "name": "D'you think Chairman Bahn didn't know\nthose people were members of Iira?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310111_03_msg0003",
+      "style": 84,
+      "name": "I hope he'll investigate his clients more\nclosely before taking on jobs in future..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310111_03_msg0004",
+      "style": 84,
+      "name": "Those guys weren't normal, I tell you.\nIt's a miracle that we escaped alive!"
+    }
+  ]
+}

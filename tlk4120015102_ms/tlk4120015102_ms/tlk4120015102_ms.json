@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200151_02_msg0001",
+      "style": 84,
+      "name": "It's been a while since our big bro Jac\nleft for Superbia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200151_02_msg0002",
+      "style": 84,
+      "name": "I hope he's not pushing himself\ntoo hard. If he gets sick, I'll be\nso angry!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200151_02_msg0003",
+      "style": 84,
+      "name": "Being a Driver for the Empire's\nsupposed to be really hard..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200151_02_msg0004",
+      "style": 84,
+      "name": "If the same thing were to happen\nto him as what happened to Ma,\nI couldn't bear it..."
+    }
+  ]
+}

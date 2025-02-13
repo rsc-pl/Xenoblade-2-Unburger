@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103316_msg0001",
+      "style": 84,
+      "name": "Oh, wow! Looks like you\ndidn't need my help."
+    },
+    {
+      "$id": 2,
+      "label": "qst103316_msg0002",
+      "style": 84,
+      "name": "Ughh...\nI beg you, spare me my life..."
+    },
+    {
+      "$id": 3,
+      "label": "qst103316_msg0003",
+      "style": 84,
+      "name": "I did nothing wrong..."
+    },
+    {
+      "$id": 4,
+      "label": "qst103316_msg0004",
+      "style": 84,
+      "name": "I only gave them the details of milady's\nroutine! I had no idea they'd..."
+    },
+    {
+      "$id": 5,
+      "label": "qst103316_msg0005",
+      "style": 84,
+      "name": "Oh, yes! I have something for you!"
+    },
+    {
+      "$id": 6,
+      "label": "qst103316_msg0006",
+      "style": 84,
+      "name": "It's a key to these scoundrels'\nsecret hideout!"
+    },
+    {
+      "$id": 7,
+      "label": "qst103316_msg0007",
+      "style": 84,
+      "name": "They're holed up in an old\nwarehouse in the lower city."
+    },
+    {
+      "$id": 8,
+      "label": "qst103316_msg0008",
+      "style": 84,
+      "name": "It's true, I swear it!\nI wouldn't lie to you!"
+    },
+    {
+      "$id": 9,
+      "label": "qst103316_msg0009",
+      "style": 84,
+      "name": "S-see, I'll provide you valuable\ninformation! I'm no ally of theirs!\nSo please!"
+    },
+    {
+      "$id": 10,
+      "label": "qst103316_msg0101",
+      "style": 165,
+      "name": "Do we trust him?"
+    },
+    {
+      "$id": 11,
+      "label": "qst103316_msg0102",
+      "style": 165,
+      "name": "Yes"
+    },
+    {
+      "$id": 12,
+      "label": "qst103316_msg0103",
+      "style": 165,
+      "name": "No"
+    },
+    {
+      "$id": 13,
+      "label": "qst103316_msg0121",
+      "style": 84,
+      "name": "Oh, thank goodness."
+    },
+    {
+      "$id": 14,
+      "label": "qst103316_msg0122",
+      "style": 84,
+      "name": "You may not be one of them,\nbut you'd still better tell us\neverything you know!"
+    },
+    {
+      "$id": 15,
+      "label": "qst103316_msg0151",
+      "style": 84,
+      "name": "Please! I had no idea they\nwould kill milady! You have\nto believe me!"
+    },
+    {
+      "$id": 16,
+      "label": "qst103316_msg0152",
+      "style": 84,
+      "name": "You can furnish us with the\nrest of your lies back at HQ!"
+    },
+    {
+      "$id": 17,
+      "label": "qst103316_msg0181",
+      "style": 84,
+      "name": "I'll take this miscreant\ninto custody."
+    },
+    {
+      "$id": 18,
+      "label": "qst103316_msg0182",
+      "style": 84,
+      "name": "Can I ask you to check\nout this secret hideout?"
+    },
+    {
+      "$id": 19,
+      "label": "qst103316_msg0183",
+      "style": 84,
+      "name": "Once I've handed him over\nto HQ, I'll go join you."
+    }
+  ]
+}

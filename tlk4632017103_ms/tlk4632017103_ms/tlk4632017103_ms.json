@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320171_03_msg0001",
+      "style": 84,
+      "name": "The ration distribution service is\nonly available during the daytime."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320171_03_msg0002",
+      "style": 84,
+      "name": "We've been trying to convince the\nbetter-off refugees to emigrate to other\nnations, but none of them are budging."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320171_03_msg0003",
+      "style": 84,
+      "name": "With our limited resources, it will be\ndifficult to keep supporting them all\nindefinitely..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "22890101",
+      "style": 82,
+      "name": "It's Zantetsu's turn to wreak untold havoc!"
+    },
+    {
+      "$id": 2,
+      "label": "22890102",
+      "style": 82,
+      "name": "[ML:undisp ]*cackle*"
+    },
+    {
+      "$id": 3,
+      "label": "22890103",
+      "style": 82,
+      "name": "If I see anyone bawling, they'll get slapped. Got it?!"
+    },
+    {
+      "$id": 4,
+      "label": "22890104",
+      "style": 82,
+      "name": "[ML:undisp ]*cackle*"
+    }
+  ]
+}

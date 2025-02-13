@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370122_01_msg0001",
+      "style": 84,
+      "name": "As time goes on, many soldiers have\nbegun to harbor all kinds of doubts\nthat distract from their duties."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370122_01_msg0002",
+      "style": 84,
+      "name": "But Newt's passion for her duty\nwas unwavering. She reminded me\nof the Superbian army's golden days."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370122_01_msg0003",
+      "style": 84,
+      "name": "Newt was a valuable asset\nto Superbia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45370122_01_msg0004",
+      "style": 84,
+      "name": "Once her time with you is done and she\nreturns to her Core Crystal, I hope you\nwill return her to the Superbian army."
+    }
+  ]
+}

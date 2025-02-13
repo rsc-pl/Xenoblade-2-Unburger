@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000202_msg001",
+      "style": 84,
+      "name": "Aw, rats!\nYou found me already?!"
+    },
+    {
+      "$id": 2,
+      "label": "qst000202_msg002",
+      "style": 84,
+      "name": "I was so sure I had the perfect\nhiding place as well..."
+    },
+    {
+      "$id": 3,
+      "label": "qst000202_msg003",
+      "style": 84,
+      "name": "So laaame..."
+    },
+    {
+      "$id": 4,
+      "label": "qst000202_msg004",
+      "style": 84,
+      "name": "Ah, whatever. I'm glad you didn't\ntake it easy on me! OK, I'll go wait\nin the Bower Lounge."
+    },
+    {
+      "$id": 5,
+      "label": "qst000202_msg005",
+      "style": 84,
+      "name": "I was the last, right? I was the\nbest hider?"
+    },
+    {
+      "$id": 6,
+      "label": "qst000202_msg006",
+      "style": 84,
+      "name": "Hehehe, I knew it!\nAll right, to the Bower Lounge!"
+    }
+  ]
+}

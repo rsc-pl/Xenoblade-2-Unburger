@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320152_01_msg0001",
+      "style": 84,
+      "name": "Welcome to the Empire of Superbia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320152_01_msg0002",
+      "style": 84,
+      "name": "To reach the capital of Alba Margen,\njust follow the path right there."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320152_01_msg0003",
+      "style": 84,
+      "name": "The path terminates in the Cargo\nTransportation Zone. From there, take\nthe elevator to reach the city proper."
+    }
+  ]
+}

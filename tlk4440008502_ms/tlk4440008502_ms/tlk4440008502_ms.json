@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400085_02_msg0001",
+      "style": 84,
+      "name": "You've come from the outside,\nhaven't you? Allow me to teach\nyou about our city."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400085_02_msg0002",
+      "style": 84,
+      "name": "You may not know this, but our Crown\nPrince goes by the name of Zeke."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400085_02_msg0003",
+      "style": 84,
+      "name": "He looks much like his father, King\nSerich. Very sharp, striking\nfeatures. But unlike his father..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400085_02_msg0004",
+      "style": 84,
+      "name": "Go on... I'm listening."
+    },
+    {
+      "$id": 5,
+      "label": "tlk44400085_02_msg0005",
+      "style": 84,
+      "name": "Eeek! Your Highness! Err, umm...but\nunlike his father, he...he has a very...\nentertaining mode of expression!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk44400085_02_msg0006",
+      "style": 84,
+      "name": "So people find me funny? Excellent!\nThat's just what I was going for!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk44400085_02_msg0007",
+      "style": 84,
+      "name": "Whenever he opens his mouth, there is\nan incessant flow of verbal...nobility."
+    },
+    {
+      "$id": 8,
+      "label": "tlk44400085_02_msg0008",
+      "style": 84,
+      "name": "Sorry if I'm not being very specific...\nI'm sure you'll understand if you talk\nto him."
+    }
+  ]
+}

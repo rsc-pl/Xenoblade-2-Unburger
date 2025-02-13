@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202012_msg001",
+      "style": 84,
+      "name": "I need you to find a pair of\ngolden bracers I hid away\nnigh on 30 years ago."
+    },
+    {
+      "$id": 2,
+      "label": "qst202012_msg002",
+      "style": 84,
+      "name": "As my memory serves, we buried\nthem in the Fief of Forgetfulness\nin Superbia..."
+    },
+    {
+      "$id": 3,
+      "label": "qst202012_msg003",
+      "style": 84,
+      "name": "But Musubi insists that it was at the\nRuins of Fountain Park in Invidia."
+    },
+    {
+      "$id": 4,
+      "label": "qst202012_msg004",
+      "style": 84,
+      "name": "If you could check both of those\nlocations just to make sure, it'd\nbe fantastic."
+    },
+    {
+      "$id": 5,
+      "label": "qst202012_msg101",
+      "style": 84,
+      "name": "I'm thinking of sending those bracers\nto my son and daughter."
+    },
+    {
+      "$id": 6,
+      "label": "qst202012_msg102",
+      "style": 84,
+      "name": "My son's name is Antis. He should be\nin Alba Margen in Superbia."
+    },
+    {
+      "$id": 7,
+      "label": "qst202012_msg103",
+      "style": 84,
+      "name": "And my daughter's called Noelle.\nShe's living in Fons Maim, in Invidia."
+    },
+    {
+      "$id": 8,
+      "label": "qst202012_msg104",
+      "style": 84,
+      "name": "I trust you to get the bracers to them.\nAnd of course, I'll be sure to reward\nyou handsomely when you're done!"
+    }
+  ]
+}

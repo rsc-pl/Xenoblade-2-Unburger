@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700122_05_msg0001",
+      "style": 84,
+      "name": "Have you tried those Nopon Radishes\nNomon makes? They're exquisite."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700122_05_msg0002",
+      "style": 84,
+      "name": "Sometimes I feel a bit guilty slicing\nthem, with how they're shaped and all,\nbut it's actually good stress relief too!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700122_05_msg0003",
+      "style": 84,
+      "name": "And at the end of the day, that\ntaste is just the best. They're a\nquality product inside and out."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700122_05_msg0004",
+      "style": 84,
+      "name": "I made the right decision, lending\nmy field out to that Nopon."
+    }
+  ]
+}

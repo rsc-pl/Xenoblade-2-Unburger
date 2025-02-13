@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350351_03_msg0001",
+      "style": 84,
+      "name": "With Luxuria re-entering the global\nmarket, I guess we're going to see\nbig developments in trade."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350351_03_msg0002",
+      "style": 84,
+      "name": "If we take the opportunity to grow our\nown economy, maybe we can work with\nLuxuria to make some new products."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350351_03_msg0003",
+      "style": 84,
+      "name": "One thing's for sure - things are going\nto get plenty busy around here!"
+    }
+  ]
+}

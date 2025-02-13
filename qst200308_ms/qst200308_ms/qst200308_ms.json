@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200308_msg0001",
+      "style": 84,
+      "name": "...Where is it?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200308_msg0002",
+      "style": 84,
+      "name": "Where's the Gogol?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200308_msg0003",
+      "style": 84,
+      "name": "Not here!\nIt vanished!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200308_msg0004",
+      "style": 84,
+      "name": "It seems we've lost it..."
+    },
+    {
+      "$id": 5,
+      "label": "qst200308_msg0005",
+      "style": 84,
+      "name": "No wonder.\nOur opponent is plenty nimble."
+    },
+    {
+      "$id": 6,
+      "label": "qst200308_msg0006",
+      "style": 84,
+      "name": "There aren't even any clues..."
+    },
+    {
+      "$id": 7,
+      "label": "qst200308_msg0007",
+      "style": 84,
+      "name": "I'll search!\nI will find it!"
+    },
+    {
+      "$id": 8,
+      "label": "qst200308_msg0008",
+      "style": 84,
+      "name": "Calm down, Jikarao.\nBlind rage gains us nothing."
+    },
+    {
+      "$id": 9,
+      "label": "qst200308_msg0009",
+      "style": 84,
+      "name": "It would be better to return to Teos Aure\nfor now, give Evart an update."
+    },
+    {
+      "$id": 10,
+      "label": "qst200308_msg0010",
+      "style": 84,
+      "name": "That makes sense.\nWe can look for the Gogol later."
+    },
+    {
+      "$id": 11,
+      "label": "qst200308_msg0011",
+      "style": 84,
+      "name": "Coming, Jikarao?"
+    },
+    {
+      "$id": 12,
+      "label": "qst200308_msg0012",
+      "style": 84,
+      "name": "...Mrgh."
+    }
+  ]
+}

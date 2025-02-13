@@ -1,0 +1,1274 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Purifying Flames"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Resplendence"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Flaming Edge"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Foresight"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Lightspeed Flurry"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Glint"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "A Dream of the Future"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "The Chosen One"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "The Aegis"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Celestial Gift"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "River's Blessing"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Howl of Calm"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Noponic Iron"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Emergency Mode"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Velocity Gear"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Flash Counter"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Flash Boot"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Reflection"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Nanomachine Repair"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Overclock"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Sickle"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Storm and Stress"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Swoop"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "War Pyre"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Dance of the Flames"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Firewalker"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Quickest Purple"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Thunderblast"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Sudden Spark"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Sea of Plenty"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Instant Regen"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Cellular Stimulus"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Serene Heart"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Like Water"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Enlightenment"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Got the Guts"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Fierce Fervor"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Light of Justice"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "The Preternatural"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Power Unleashed"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Critical Strike"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Eater of Men"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Soulsucker"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Brandish"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Violence Machine"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Void Lance"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Overture of Blood"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Razor-Sharp Iolite"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Tanzanite Pursuer"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Tiger's Eye Wrecker"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "FTL"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "IMD"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "FAS"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Tasty Snack"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Look Out!"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Twang!"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Kaiser Zone"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Regal Presence"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Gold Effect"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Calamity"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Fortune"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Stability"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "The Awakened (Power)"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "The Awakened (Skill)"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Brimming Pep"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Aerial Flashdance"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Conviction"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Steadfast"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Defender"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Silent Spear"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Battle Plans"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Stop Thinking"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Walking Joy"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Potion Hoarder"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "All For Love"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Pain of Longing"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Vendetta"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Snow Charm"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Beary Healing"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Hide and Seek"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Tranquil Guard"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Last Line of Defense"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Flowers of War"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Restorative Fusion"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Synthesis Lore"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Wild Familiars"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Economicanimal"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Harem's Pleasure"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Financial Settlement"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Space-Tea-Time"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Sympathy"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Not Part of the Plan"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Element Wisdom"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Battle Wisdom"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Treasure Wisdom"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Sparky Girl"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Zappy Girl"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Clangy Girl"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Carnage"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "The Indomitable"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Greatest Warrior"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Did I Do That?"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Doesn't Ring a Bell"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Surprise!"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "The Coming of Spring"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "Blossomfall"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "White Lilies"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Phase Transition Tech"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Hyperclock"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Encephalon"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Dissolve Seal"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Taboo"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Unlimited Output"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Spotlight"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Fireworks"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Opportunist"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Armor Piercing"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Nullify Defense"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Heartless Kill"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Transmigration"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Dead Zone"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Endless Cycle"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Fatal Blow"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Fury"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Sanguine Steel"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Gravity Pinwheel"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Dimensional Fold"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Dimensional Wrinkle"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Swift Kitty"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Now You See Me..."
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Quick Prep"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Doublestrike"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Stay True"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Bushido"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Senton"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Double Team"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Trespass"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Persevering Strength"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Mad Warrior"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Life Absorb"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Rage"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Resist Fire"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Resist Water"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Resist Wind"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Resist Earth"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Resist Electric"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Resist Ice"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Resist Light"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Resist Dark"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Elemental Mastery"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Acute Focus"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Streamlined Step"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Back Attack"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Healing Wind"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Challenger"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "High-Speed Preparation"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Counter"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Pinpoint Weakness"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Unrelenting Spirit"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Vital Charge"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Damage Spike"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Into the Ground"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Treasure Sensor"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "Accelerated Growth"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "Beast Hunter"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "Insect Hunter"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "Aerial Hunter"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "Aquatic Hunter"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "Humanoid Hunter"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Machine Hunter"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Divine Beast Hunter"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Beast Slayer"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Insect Slayer"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Aerial Slayer"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Aquatic Slayer"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "Humanoid Slayer"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Machine Slayer"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Divine Beast Slayer"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "Front Attack"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "Gold Rush"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Emergency Guard"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "Pierce"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Smooth Action"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Gentle Touch"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Cloud Conceal"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Flash"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Insulting Flourish"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Attention Grabber"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Glittering Stars"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Prolonged Fight"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Rapid Regen"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Movement Recovery"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Potion Keeper"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Tight Space"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Natural Guard"
+    },
+    {
+      "$id": 197,
+      "style": 36,
+      "name": "Encourage"
+    },
+    {
+      "$id": 198,
+      "style": 36,
+      "name": "Barrier Aura"
+    },
+    {
+      "$id": 199,
+      "style": 36,
+      "name": "Attack Aura"
+    },
+    {
+      "$id": 200,
+      "style": 36,
+      "name": "Evasion Aura"
+    },
+    {
+      "$id": 201,
+      "style": 36,
+      "name": "Precision Aura"
+    },
+    {
+      "$id": 202,
+      "style": 36,
+      "name": "Into the Air"
+    },
+    {
+      "$id": 203,
+      "style": 36,
+      "name": "Open Space"
+    },
+    {
+      "$id": 204,
+      "style": 36,
+      "name": "Grandarbor's Roots"
+    },
+    {
+      "$id": 205,
+      "style": 36,
+      "name": "Good Balance"
+    },
+    {
+      "$id": 206,
+      "style": 36,
+      "name": "Never Fall"
+    },
+    {
+      "$id": 207,
+      "style": 36,
+      "name": "Immovable"
+    },
+    {
+      "$id": 208,
+      "style": 36,
+      "name": "Ultra Heavy"
+    },
+    {
+      "$id": 209,
+      "style": 36,
+      "name": "Layered Defense"
+    },
+    {
+      "$id": 210,
+      "style": 36,
+      "name": "Ukemi"
+    },
+    {
+      "$id": 211,
+      "style": 36,
+      "name": "Avenger"
+    },
+    {
+      "$id": 212,
+      "style": 36,
+      "name": "Side Attack"
+    },
+    {
+      "$id": 213,
+      "style": 36,
+      "name": "Swift Strike"
+    },
+    {
+      "$id": 214,
+      "style": 36,
+      "name": "Target Weakness"
+    },
+    {
+      "$id": 215,
+      "style": 36,
+      "name": "Ether Barrier"
+    },
+    {
+      "$id": 216,
+      "style": 36,
+      "name": "Solid"
+    },
+    {
+      "$id": 217,
+      "style": 36,
+      "name": "Physical Barrier"
+    },
+    {
+      "$id": 218,
+      "style": 36,
+      "name": "Silent Strike"
+    },
+    {
+      "$id": 219,
+      "style": 36,
+      "name": "Vendetta"
+    },
+    {
+      "$id": 220,
+      "style": 36,
+      "name": "Ultimate Combo"
+    },
+    {
+      "$id": 221,
+      "style": 36,
+      "name": "Weaponsmaster"
+    },
+    {
+      "$id": 222,
+      "style": 36,
+      "name": "Slamdown"
+    },
+    {
+      "$id": 223,
+      "style": 36,
+      "name": "Orb Master"
+    },
+    {
+      "$id": 224,
+      "style": 36,
+      "name": "Heaven's Tracker"
+    },
+    {
+      "$id": 225,
+      "style": 36,
+      "name": "Heartbreaker"
+    },
+    {
+      "$id": 226,
+      "style": 36,
+      "name": "Hardware Acceleration"
+    },
+    {
+      "$id": 227,
+      "style": 36,
+      "name": "Hyperaffinity Circuit"
+    },
+    {
+      "$id": 228,
+      "style": 36,
+      "name": "Reconstitute"
+    },
+    {
+      "$id": 229,
+      "style": 36,
+      "name": "Vision"
+    },
+    {
+      "$id": 230,
+      "style": 36,
+      "name": "Monado Enchant"
+    },
+    {
+      "$id": 231,
+      "style": 36,
+      "name": "Monado Speed"
+    },
+    {
+      "$id": 232,
+      "style": 36,
+      "name": "Warrior Valkyrie"
+    },
+    {
+      "$id": 233,
+      "style": 36,
+      "name": "Explosion of Energy"
+    },
+    {
+      "$id": 234,
+      "style": 36,
+      "name": "Unwavering Courage"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Ensis Lucis"
+    },
+    {
+      "$id": 236,
+      "style": 36,
+      "name": "Alae Custodiae"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Ictus"
+    },
+    {
+      "$id": 238,
+      "style": 36,
+      "name": "Pyrotechnics"
+    },
+    {
+      "$id": 239,
+      "style": 36,
+      "name": "Gathering Sparks"
+    },
+    {
+      "$id": 240,
+      "style": 36,
+      "name": "Alchemy Adept"
+    },
+    {
+      "$id": 241,
+      "style": 36,
+      "name": "Transmigration"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "Full Resonance"
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Mind's Eye"
+    },
+    {
+      "$id": 244,
+      "style": 36,
+      "name": "Headwind"
+    },
+    {
+      "$id": 245,
+      "style": 36,
+      "name": "Tailwind"
+    },
+    {
+      "$id": 246,
+      "style": 36,
+      "name": "Summer Breeze"
+    },
+    {
+      "$id": 247,
+      "style": 36,
+      "name": "Santo"
+    },
+    {
+      "$id": 248,
+      "style": 36,
+      "name": "Medio"
+    },
+    {
+      "$id": 249,
+      "style": 36,
+      "name": "Limpio"
+    },
+    {
+      "$id": 250,
+      "style": 36,
+      "name": "Overdrive"
+    },
+    {
+      "$id": 251,
+      "style": 36,
+      "name": "Crisis Catalyst"
+    },
+    {
+      "$id": 252,
+      "style": 36,
+      "name": "Background Noise"
+    }
+  ]
+}

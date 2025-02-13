@@ -1,0 +1,209 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 153,
+      "name": "Conditions not met."
+    },
+    {
+      "$id": 2,
+      "style": 153,
+      "name": "Insufficient materials."
+    },
+    {
+      "$id": 3,
+      "style": 153,
+      "name": "Insufficient funds."
+    },
+    {
+      "$id": 4,
+      "style": 153,
+      "name": "Insufficient points."
+    },
+    {
+      "$id": 5,
+      "style": 153,
+      "name": "Already at maximum."
+    },
+    {
+      "$id": 6,
+      "style": 153,
+      "name": "Item cannot be sold."
+    },
+    {
+      "$id": 7,
+      "style": 153,
+      "name": "Cannot be strengthened any further."
+    },
+    {
+      "$id": 8,
+      "style": 153,
+      "name": "Level too low to unlock."
+    },
+    {
+      "$id": 9,
+      "style": 153,
+      "name": "Already at maximum unlock level."
+    },
+    {
+      "$id": 10,
+      "style": 153,
+      "name": "Cannot carry any more."
+    },
+    {
+      "$id": 11,
+      "style": 153,
+      "name": "This cannot be equipped by this character."
+    },
+    {
+      "$id": 12,
+      "style": 153,
+      "name": "Equipped by another Driver."
+    },
+    {
+      "$id": 13,
+      "style": 153,
+      "name": "This item is already equipped."
+    },
+    {
+      "$id": 14,
+      "style": 153,
+      "name": "No items that can be set."
+    },
+    {
+      "$id": 15,
+      "style": 153,
+      "name": "Cannot set identical item."
+    },
+    {
+      "$id": 16,
+      "style": 153,
+      "name": "Main Blade cannot be removed."
+    },
+    {
+      "$id": 17,
+      "style": 153,
+      "name": "Insufficient WP to strengthen."
+    },
+    {
+      "$id": 18,
+      "style": 153,
+      "name": "Insufficient SP to learn."
+    },
+    {
+      "$id": 19,
+      "style": 153,
+      "name": "The lock is not yet released."
+    },
+    {
+      "$id": 20,
+      "style": 153,
+      "name": "Skills must be acquired in order."
+    },
+    {
+      "$id": 21,
+      "style": 153,
+      "name": "This weapon is already in use."
+    },
+    {
+      "$id": 22,
+      "style": 153,
+      "name": "Cannot set item with same effect."
+    },
+    {
+      "$id": 23,
+      "style": 153,
+      "name": "No Drivers can level up right now."
+    },
+    {
+      "$id": 24,
+      "style": 153,
+      "name": "You cannot set the same Pouch item twice."
+    },
+    {
+      "$id": 25,
+      "style": 153,
+      "name": "You cannot increase energy capacity any further."
+    },
+    {
+      "$id": 26,
+      "style": 153,
+      "name": "Not enough ether crystals."
+    },
+    {
+      "$id": 27,
+      "style": 153,
+      "name": "You need a technical manual to make this."
+    },
+    {
+      "$id": 28,
+      "style": 153,
+      "name": "This cannot be made."
+    },
+    {
+      "$id": 29,
+      "style": 153,
+      "name": "This Blade cannot be released."
+    },
+    {
+      "$id": 30,
+      "style": 153,
+      "name": "Not enough energy."
+    },
+    {
+      "$id": 31,
+      "style": 153,
+      "name": "You cannot carry more items."
+    },
+    {
+      "$id": 32,
+      "style": 153,
+      "name": "This cannot be set because you do\nnot have the necessary expansion."
+    },
+    {
+      "$id": 33,
+      "style": 153,
+      "name": "This part cannot be removed."
+    },
+    {
+      "$id": 34,
+      "style": 153,
+      "name": "This is already set."
+    },
+    {
+      "$id": 35,
+      "style": 153,
+      "name": "You do not have a Pouch Expansion Kit."
+    },
+    {
+      "$id": 36,
+      "style": 153,
+      "name": "You cannot add any further pouches."
+    },
+    {
+      "$id": 37,
+      "style": 153,
+      "name": "You do not have any Pouch items."
+    },
+    {
+      "$id": 38,
+      "style": 153,
+      "name": "You cannot set it in this mode."
+    },
+    {
+      "$id": 39,
+      "style": 153,
+      "name": "You cannot equip unrefined Aux Cores."
+    }
+  ]
+}

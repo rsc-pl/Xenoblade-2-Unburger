@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200141_02_msg0001",
+      "style": 84,
+      "name": "There are lotsa kids like me who lost\ntheir homes in the war here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200141_02_msg0002",
+      "style": 84,
+      "name": "Not just kids from Cordell Village\neither. So many sad things are\nhappening all over the world..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200141_02_msg0003",
+      "style": 84,
+      "name": "Dad says the Hræsvelgr Mercs are here\nto stop the sad things happening."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200141_02_msg0004",
+      "style": 84,
+      "name": "Is that really true...?"
+    }
+  ]
+}

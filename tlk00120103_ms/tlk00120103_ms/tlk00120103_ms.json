@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001201_03_msg0001",
+      "style": 84,
+      "name": "The evacuation of the civilians\nis proceeding steadily."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001201_03_msg0002",
+      "style": 84,
+      "name": "But I ask that you repair the Sanctus Chain, if possible."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001201_03_msg0003",
+      "style": 84,
+      "name": "Save Genbu...save Luxuria."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001201_03_msg0004",
+      "style": 84,
+      "name": "You are now the only ones on\nwhom we can rely... Do you think\nyou can do this for us?"
+    }
+  ]
+}

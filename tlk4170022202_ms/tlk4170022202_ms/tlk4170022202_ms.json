@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700222_01_msg0001",
+      "style": 84,
+      "name": "Listen, there's no such thing as\na Driver who travels alone."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700222_01_msg0002",
+      "style": 84,
+      "name": "Every Driver has Blades around to\nhelp out with their unique knowledge\nand skills, see?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700222_01_msg0003",
+      "style": 84,
+      "name": "Some Blades can track footprints with\namazing precision, others can smash\nhuge rocks or burn up fallen trees."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700222_01_msg0004",
+      "style": 84,
+      "name": "When you choose which Blades to bring\nwith you, you gotta consider those kind\nof skills, not just who's best in a fight."
+    }
+  ]
+}

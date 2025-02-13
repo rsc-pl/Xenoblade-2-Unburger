@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_05_msg0001",
+      "style": 84,
+      "name": "According to rumor, Queen Lagert\nate the Fire Dragons' cooking at the\nsummit in Acedia..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_05_msg0002",
+      "style": 84,
+      "name": "What's worse, she supposedly called it\n\"very fine\"..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_03_msg0003",
+      "style": 84,
+      "name": "Man, I wonder what kind of meal the\nFire Dragons could have made...\nWhat I wouldn't give to try it..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_05_msg0004",
+      "style": 84,
+      "name": "After all, I need to know what I'm up\nagainst before I can come up with a\ndish to outshine them all!"
+    }
+  ]
+}

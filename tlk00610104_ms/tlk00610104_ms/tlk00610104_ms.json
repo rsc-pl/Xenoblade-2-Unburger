@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006101_04_msg0001",
+      "style": 84,
+      "name": "I'm spending the whole day\nhelping out at the docks as\npart of my salvager training."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006101_04_msg0002",
+      "style": 84,
+      "name": "You have to run back and forth all over\nthe place. It's pretty exhausting..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006101_04_msg0003",
+      "style": 84,
+      "name": "Isn't salvaging all about diving, though?\nI'm not really seeing the point of this..."
+    }
+  ]
+}

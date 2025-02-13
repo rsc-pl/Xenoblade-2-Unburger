@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10150100_0010",
+      "style": 82,
+      "name": "I... I'm sorry..."
+    },
+    {
+      "$id": 2,
+      "label": "bf10150100_0020",
+      "style": 82,
+      "name": "Answer me, Rex!\nWhy did you lie to us?!"
+    },
+    {
+      "$id": 3,
+      "label": "bf10150100_0030",
+      "style": 82,
+      "name": "How could you betray our trust?!"
+    },
+    {
+      "$id": 4,
+      "label": "bf10150100_0040",
+      "style": 82,
+      "name": "Aa- Aaaaagh!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310148_02_msg0001",
+      "style": 84,
+      "name": "Which flamin' mongrel bust open the\nHoly Gate of Fontana?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310148_02_msg0002",
+      "style": 84,
+      "name": "They built these massive gates so\nthey'd even stand up to full-frontal\nassaults from Blades."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310148_02_msg0003",
+      "style": 84,
+      "name": "It had to be pretty tough. It's to\nstop the Cloud Sea flooding in when\nthe Divine Beast makes a dive, y'see."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310148_02_msg0004",
+      "style": 84,
+      "name": "Whoever smashed it open must have\nhad some pretty awesome power at\ntheir command, I tell you."
+    }
+  ]
+}

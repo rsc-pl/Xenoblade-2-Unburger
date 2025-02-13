@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104225_msg0001",
+      "style": 84,
+      "name": "Bzzzzzt!\nA question for Mr. Rex!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104225_msg0002",
+      "style": 84,
+      "name": "Can you find all kinds of cool treasure\nin the Cloud Sea really easily?!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104225_msg0021",
+      "style": 84,
+      "name": "I sure can! I've salvaged so much,\nI could probably find treasure with\nmy eyes closed at this point."
+    },
+    {
+      "$id": 4,
+      "label": "qst104225_msg0022",
+      "style": 84,
+      "name": "Wow! I wanna see you salvaging\nsometime, Mr. Rex!"
+    },
+    {
+      "$id": 5,
+      "label": "qst104225_msg0041",
+      "style": 84,
+      "name": "Well, it wouldn't be that easy.\nI'd probably have to salvage quite a lot\nof times to find the really good stuff."
+    },
+    {
+      "$id": 6,
+      "label": "qst104225_msg0042",
+      "style": 84,
+      "name": "Oh, I see.\nI always thought you just dive in and\nbring up amazing treasure every time!"
+    },
+    {
+      "$id": 7,
+      "label": "qst104225_msg0043",
+      "style": 84,
+      "name": "I've never seen you actually salvaging!\nYou should show me sometime!"
+    },
+    {
+      "$id": 8,
+      "label": "qst104225_msg0101",
+      "style": 84,
+      "name": "You're not the teacher.\nRex is the teacher."
+    },
+    {
+      "$id": 9,
+      "label": "qst104225_msg0201",
+      "style": 84,
+      "name": "Go answer Mark's question, OK?"
+    },
+    {
+      "$id": 10,
+      "label": "qst104225_msg0202",
+      "style": 84,
+      "name": "Go answer Kazuna's question, OK?"
+    }
+  ]
+}

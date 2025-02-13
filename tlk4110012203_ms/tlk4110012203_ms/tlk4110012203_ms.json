@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100122_03_msg0001",
+      "style": 84,
+      "name": "Oh, you're the ones who helped\nout my big bro! Hey, guess what?\nHe sent us a present!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100122_03_msg0002",
+      "style": 84,
+      "name": "There was a letter with it too.\nYou and big bro solved the mystery\ntogether, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100122_03_msg0003",
+      "style": 84,
+      "name": "I'm so proud of him. He's like some\nkind of genius detective!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100122_03_msg0004",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100122_03_msg0005",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100122_03_msg0006",
+      "style": 62,
+      "name": ""
+    }
+  ]
+}

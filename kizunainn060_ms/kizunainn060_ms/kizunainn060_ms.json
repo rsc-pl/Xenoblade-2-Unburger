@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn060_msg0001",
+      "style": 84,
+      "name": "Harken to me, Driver!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn060_msg0002",
+      "style": 84,
+      "name": "I am told that we may behold a\nbeautiful vista from the Orl Cloudway\nexit in the Liberalitan archipelago."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn060_msg0003",
+      "style": 84,
+      "name": "Perhaps it will be a sight\nfit for our royal eyes."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn060_msg0004",
+      "style": 84,
+      "name": "I command you to transport me there.\nDo not tarry with the preparations!"
+    }
+  ]
+}

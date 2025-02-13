@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "44890101",
+      "style": 82,
+      "name": "I'm known as...Azami."
+    },
+    {
+      "$id": 2,
+      "label": "44890102",
+      "style": 82,
+      "name": "I am your captive. Keep me by your side, won't you? Ahaha..."
+    }
+  ]
+}

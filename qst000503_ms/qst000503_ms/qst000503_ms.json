@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000503_msg0001",
+      "style": 84,
+      "name": "First, could you gather some\nShepherd's Purses and Dawn\nHydrangeas?"
+    },
+    {
+      "$id": 2,
+      "label": "qst000503_msg0002",
+      "style": 84,
+      "name": "If you give them to Nils, an\napothecary in Trigo, he'll make us\na medicine..."
+    },
+    {
+      "$id": 3,
+      "label": "qst000503_msg0003",
+      "style": 84,
+      "name": "I'll try to keep Norman stable,\nbut please, hurry!"
+    },
+    {
+      "$id": 4,
+      "label": "qst000503_msg0101",
+      "style": 84,
+      "name": "Have you found the Shepherd's Purses\nand Dawn Hydrangeas yet?"
+    },
+    {
+      "$id": 5,
+      "label": "qst000503_msg0102",
+      "style": 84,
+      "name": "If you give them to Nils, an\napothecary in Trigo, he'll make us\na medicine..."
+    },
+    {
+      "$id": 6,
+      "label": "qst000503_msg0201",
+      "style": 84,
+      "name": "Is the medicine not ready yet?"
+    },
+    {
+      "$id": 7,
+      "label": "qst000503_msg0202",
+      "style": 84,
+      "name": "Brother... Please hurry..."
+    }
+  ]
+}

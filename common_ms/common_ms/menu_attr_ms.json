@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 30,
+      "name": "None"
+    },
+    {
+      "$id": 2,
+      "style": 30,
+      "name": "Fire"
+    },
+    {
+      "$id": 3,
+      "style": 30,
+      "name": "Water"
+    },
+    {
+      "$id": 4,
+      "style": 30,
+      "name": "Wind"
+    },
+    {
+      "$id": 5,
+      "style": 30,
+      "name": "Earth"
+    },
+    {
+      "$id": 6,
+      "style": 30,
+      "name": "Electric"
+    },
+    {
+      "$id": 7,
+      "style": 30,
+      "name": "Ice"
+    },
+    {
+      "$id": 8,
+      "style": 30,
+      "name": "Light"
+    },
+    {
+      "$id": 9,
+      "style": 30,
+      "name": "Dark"
+    }
+  ]
+}

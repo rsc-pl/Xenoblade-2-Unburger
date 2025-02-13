@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104203_msg0001",
+      "style": 84,
+      "name": "It's time for Mr. Rex's teaching debut!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104203_msg0002",
+      "style": 84,
+      "name": "This may be just a practice lesson for\nthe kids, but it's also a chance to see\nhow much Rex has grown."
+    },
+    {
+      "$id": 3,
+      "label": "qst104203_msg0003",
+      "style": 84,
+      "name": "I still remember when he was just\na babe... Perhaps I should have called\nCorrel over to see this, too."
+    }
+  ]
+}

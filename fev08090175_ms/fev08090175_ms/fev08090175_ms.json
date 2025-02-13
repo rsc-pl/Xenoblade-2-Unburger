@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev08_090_175_msg0001",
+      "style": 84,
+      "name": "Time to take break?"
+    },
+    {
+      "$id": 2,
+      "label": "fev08_090_175_msg0002",
+      "style": 84,
+      "name": "I think it might be."
+    },
+    {
+      "$id": 3,
+      "label": "fev08_090_175_msg0003",
+      "style": 84,
+      "name": "Much as I would like to find Lady\nMeleph without a moment's delay,\nit's not wise to overexert ourselves."
+    },
+    {
+      "$id": 4,
+      "label": "fev08_090_175_msg0004",
+      "style": 84,
+      "name": "Rex in particular is only Driver\nwe have right now, so would be\ndangerous for Rex to tire self out."
+    },
+    {
+      "$id": 5,
+      "label": "fev08_090_175_msg0005",
+      "style": 84,
+      "name": "I wouldn't say I'm worn out just yet..."
+    },
+    {
+      "$id": 6,
+      "label": "fev08_090_175_msg0006",
+      "style": 84,
+      "name": "But you're probably right.\nBetter to be safe than sorry."
+    },
+    {
+      "$id": 7,
+      "label": "fev08_090_175_msg0007",
+      "style": 84,
+      "name": "Shin... Do you think this area\nseems safe enough?"
+    },
+    {
+      "$id": 8,
+      "label": "fev08_090_175_msg0008",
+      "style": 84,
+      "name": "Yes. I don't sense any hostile presence."
+    },
+    {
+      "$id": 9,
+      "label": "fev08_090_175_msg0009",
+      "style": 84,
+      "name": "Then breaktime it is!"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005604_msg001",
+      "style": 84,
+      "name": "Hi, I'd like to take out an ancient tome\nabout ancient floating tablets."
+    },
+    {
+      "$id": 2,
+      "label": "qst005604_msg002",
+      "style": 84,
+      "name": "Floating tablets?"
+    },
+    {
+      "$id": 3,
+      "label": "qst005604_msg003",
+      "style": 84,
+      "name": "Yeah, there's this weird thin tablet\nthat floats in the air. We need to\nknow more about it."
+    },
+    {
+      "$id": 4,
+      "label": "qst005604_msg004",
+      "style": 84,
+      "name": "Well, we do have one book that\nmight be relevant to your needs..."
+    },
+    {
+      "$id": 5,
+      "label": "qst005604_msg005",
+      "style": 84,
+      "name": "The only thing is, nobody has ever\nbeen able to read it."
+    },
+    {
+      "$id": 6,
+      "label": "qst005604_msg006",
+      "style": 84,
+      "name": "Don't worry! I should be\nable to handle that!"
+    },
+    {
+      "$id": 7,
+      "label": "qst005604_msg007",
+      "style": 84,
+      "name": "So? What'd it say?"
+    },
+    {
+      "$id": 8,
+      "label": "qst005604_msg008",
+      "style": 84,
+      "name": "Well...if I'm honest, it was pretty\ndifficult. I could only decipher\nbits and pieces."
+    },
+    {
+      "$id": 9,
+      "label": "qst005604_msg009",
+      "style": 84,
+      "name": "But I managed to get a string of\ncharacters that seemed relevant!\nIt said \"19A3\"."
+    },
+    {
+      "$id": 10,
+      "label": "qst005604_msg010",
+      "style": 84,
+      "name": "I'm sure this has to be part of the\n12-character code we're looking for."
+    },
+    {
+      "$id": 11,
+      "label": "qst005604_msg011",
+      "style": 84,
+      "name": "If you found out that much,\nthat's all that matters."
+    },
+    {
+      "$id": 12,
+      "label": "qst005604_msg012",
+      "style": 84,
+      "name": "Yep. We're getting closer to the day\nwhen we unlock that tablet's secrets!"
+    }
+  ]
+}

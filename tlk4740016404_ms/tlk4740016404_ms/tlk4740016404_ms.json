@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47400164_04_msg0001",
+      "style": 84,
+      "name": "I might just be imagining things...\nbut I could have sworn I heard odd\nnoises out on the Lud Cloudway."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47400164_04_msg0002",
+      "style": 84,
+      "name": "They say the sounds are just a\nmonster's call, but I'm not so sure\nmyself."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47400164_04_msg0003",
+      "style": 84,
+      "name": "I mean, it's not like anyone's heard\nthese kinds of sounds before!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47400164_04_msg0004",
+      "style": 84,
+      "name": "It's getting to the point where I\ncan't sleep for thinking about it."
+    },
+    {
+      "$id": 5,
+      "label": "tlk47400164_04_msg0005",
+      "style": 84,
+      "name": "Really? You'll set up watch\nand investigate for me?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk47400164_04_msg0006",
+      "style": 84,
+      "name": "I offer you my thanks."
+    },
+    {
+      "$id": 7,
+      "label": "tlk47400164_04_msg0007",
+      "style": 84,
+      "name": "The noise goes right through you, so\nyou might need to grit your teeth."
+    }
+  ]
+}

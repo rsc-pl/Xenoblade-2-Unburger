@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300184_03_msg0001",
+      "style": 84,
+      "name": "Damn it all to hell...\nWhy now... Why now...?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300184_03_msg0002",
+      "style": 84,
+      "name": "I used to have a shop here, but\nthen it closed down for a while."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300184_03_msg0003",
+      "style": 84,
+      "name": "Now some Nopon from Avaritia\ncame and asked me to open up anew,\nand I was just making preparations."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300184_03_msg0004",
+      "style": 84,
+      "name": "And now, these damn Divine Beasts fighting...\nBut I won't give up! I'll open the shop,\nif it's the last thing I do!"
+    }
+  ]
+}

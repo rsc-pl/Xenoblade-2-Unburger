@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000003_msg0001",
+      "style": 84,
+      "name": "Hey, look who's here!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000003_msg0002",
+      "style": 84,
+      "name": "Food's on the table. Don't you\nworry about the cost. Eat as much\nas you like!"
+    }
+  ]
+}

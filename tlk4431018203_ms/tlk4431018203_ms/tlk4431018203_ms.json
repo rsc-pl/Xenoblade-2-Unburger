@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310182_03_msg0001",
+      "style": 84,
+      "name": "I can't even imagine the coming war..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310182_03_msg0002",
+      "style": 84,
+      "name": "We've only got spears to guard the\ncitizens with, on the king's orders..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310182_03_msg0003",
+      "style": 84,
+      "name": "...Our future is in your hands.\nMay Adel's blessing be upon ye."
+    }
+  ]
+}

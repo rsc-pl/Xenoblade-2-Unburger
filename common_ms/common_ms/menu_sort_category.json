@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 6,
+      "name": "By Category"
+    },
+    {
+      "$id": 2,
+      "style": 6,
+      "name": "By Rarity"
+    },
+    {
+      "$id": 3,
+      "style": 6,
+      "name": "By sale value"
+    },
+    {
+      "$id": 4,
+      "style": 6,
+      "name": "By no. held"
+    },
+    {
+      "$id": 5,
+      "style": 6,
+      "name": "Alphabetical"
+    },
+    {
+      "$id": 6,
+      "style": 6,
+      "name": "Chronological"
+    },
+    {
+      "$id": 7,
+      "style": 6,
+      "name": "By Element"
+    },
+    {
+      "$id": 8,
+      "style": 6,
+      "name": "By Weapon Class"
+    },
+    {
+      "$id": 9,
+      "style": 6,
+      "name": "By Duration"
+    },
+    {
+      "$id": 10,
+      "style": 6,
+      "name": "By Bonded Driver"
+    },
+    {
+      "$id": 11,
+      "style": 6,
+      "name": "By Weapon Rank"
+    },
+    {
+      "$id": 12,
+      "style": 6,
+      "name": "By Gender"
+    },
+    {
+      "$id": 13,
+      "style": 6,
+      "name": "Location Obtained"
+    },
+    {
+      "$id": 14,
+      "style": 6,
+      "name": "Improves Attack"
+    },
+    {
+      "$id": 15,
+      "style": 6,
+      "name": "Improves Defense"
+    },
+    {
+      "$id": 16,
+      "style": 6,
+      "name": "Improves Accuracy"
+    },
+    {
+      "$id": 17,
+      "style": 6,
+      "name": "Improves Block"
+    },
+    {
+      "$id": 18,
+      "style": 6,
+      "name": "Improves Evasion"
+    },
+    {
+      "$id": 19,
+      "style": 6,
+      "name": "Improves Healing"
+    },
+    {
+      "$id": 20,
+      "style": 6,
+      "name": "Special Healing"
+    },
+    {
+      "$id": 21,
+      "style": 6,
+      "name": "Improves Resistance"
+    },
+    {
+      "$id": 22,
+      "style": 6,
+      "name": "Increases HP"
+    },
+    {
+      "$id": 23,
+      "style": 6,
+      "name": "Improves Stats"
+    },
+    {
+      "$id": 24,
+      "style": 6,
+      "name": "Improves Critical"
+    },
+    {
+      "$id": 25,
+      "style": 6,
+      "name": "Aggro Up"
+    },
+    {
+      "$id": 26,
+      "style": 6,
+      "name": "Aggro Down"
+    },
+    {
+      "$id": 27,
+      "style": 6,
+      "name": "Strengthens Combos"
+    },
+    {
+      "$id": 28,
+      "style": 6,
+      "name": "Special Driver Combos"
+    },
+    {
+      "$id": 29,
+      "style": 6,
+      "name": "Improves Chain Attack"
+    },
+    {
+      "$id": 30,
+      "style": 6,
+      "name": "Increases Party Gauge"
+    },
+    {
+      "$id": 31,
+      "style": 6,
+      "name": "Effective vs. Enemy"
+    },
+    {
+      "$id": 32,
+      "style": 6,
+      "name": "Improves Blade"
+    },
+    {
+      "$id": 33,
+      "style": 6,
+      "name": "Improves Weapon"
+    },
+    {
+      "$id": 34,
+      "style": 6,
+      "name": "Improves Affinity"
+    },
+    {
+      "$id": 35,
+      "style": 6,
+      "name": "Increases Rewards"
+    },
+    {
+      "$id": 36,
+      "style": 6,
+      "name": "Other"
+    },
+    {
+      "$id": 37,
+      "style": 6,
+      "name": "Critical Up"
+    },
+    {
+      "$id": 38,
+      "style": 6,
+      "name": "Accuracy Up"
+    },
+    {
+      "$id": 39,
+      "style": 6,
+      "name": "Arts Plus"
+    },
+    {
+      "$id": 40,
+      "style": 6,
+      "name": "Recharge Boost"
+    },
+    {
+      "$id": 41,
+      "style": 6,
+      "name": "Absorb Damage"
+    },
+    {
+      "$id": 42,
+      "style": 6,
+      "name": "Nullify Reaction"
+    },
+    {
+      "$id": 43,
+      "style": 6,
+      "name": "Debuff Cancel"
+    },
+    {
+      "$id": 44,
+      "style": 6,
+      "name": "Back Attack Up"
+    },
+    {
+      "$id": 45,
+      "style": 6,
+      "name": "Draw Aggro"
+    },
+    {
+      "$id": 46,
+      "style": 6,
+      "name": "TNK"
+    },
+    {
+      "$id": 47,
+      "style": 6,
+      "name": "ATK"
+    },
+    {
+      "$id": 48,
+      "style": 6,
+      "name": "HLR"
+    },
+    {
+      "$id": 49,
+      "style": 6,
+      "name": "Favorites First"
+    },
+    {
+      "$id": 50,
+      "style": 6,
+      "name": "Favorites Last"
+    },
+    {
+      "$id": 51,
+      "style": 6,
+      "name": "Highest Trust"
+    },
+    {
+      "$id": 52,
+      "style": 6,
+      "name": "Lowest Trust"
+    }
+  ]
+}

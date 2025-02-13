@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn002_msg0001",
+      "style": 84,
+      "name": "Hey, Kagutsuchi! If you're free,\nwhy don't we go visit some of\nthe shops in Goldmund?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn002_msg0002",
+      "style": 84,
+      "name": "Sure! Sounds delightful!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn002_msg0003",
+      "style": 84,
+      "name": "Meleph, would you like to come too?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn002_msg0004",
+      "style": 84,
+      "name": "Yes! Why not!"
+    }
+  ]
+}

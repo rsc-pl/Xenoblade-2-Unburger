@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300148_01_msg0001",
+      "style": 84,
+      "name": "The Whelzaman Cookie strategy\nseems to have gone swimmingly."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300148_01_msg0002",
+      "style": 84,
+      "name": "Not just the kids, but also their\nparents are grateful to you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300148_01_msg0003",
+      "style": 84,
+      "name": "With this, I don't think there's anyone\nleft in Fons Maim who'd be afraid\nof the Blades with eyepatches!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300148_01_msg0004",
+      "style": 84,
+      "name": "Looks like Seori and Mikumari finally\nhave a Driver who's a good sort."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300148_01_msg0005",
+      "style": 84,
+      "name": "Keep up the good work!"
+    }
+  ]
+}

@@ -1,0 +1,3954 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 84,
+      "name": "Is something wrong?"
+    },
+    {
+      "$id": 2,
+      "style": 84,
+      "name": "Have you heard anything\ninteresting lately?"
+    },
+    {
+      "$id": 3,
+      "style": 84,
+      "name": "Hi there!"
+    },
+    {
+      "$id": 4,
+      "style": 84,
+      "name": "Let's hear the details."
+    },
+    {
+      "$id": 5,
+      "style": 84,
+      "name": "Leave it to me!"
+    },
+    {
+      "$id": 6,
+      "style": 84,
+      "name": "I'll do what I can."
+    },
+    {
+      "$id": 7,
+      "style": 84,
+      "name": "Looks like everything worked out."
+    },
+    {
+      "$id": 8,
+      "style": 84,
+      "name": "Everything should be fine now!"
+    },
+    {
+      "$id": 9,
+      "style": 84,
+      "name": "That's not good..."
+    },
+    {
+      "$id": 10,
+      "style": 84,
+      "name": "Hmmmmm... This is awkward...\nWhat should we do?"
+    },
+    {
+      "$id": 11,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  What should we do? I need to\nthink about this one carefully..."
+    },
+    {
+      "$id": 12,
+      "style": 84,
+      "name": "I'd like to help, if that's OK."
+    },
+    {
+      "$id": 13,
+      "style": 84,
+      "name": "Leave it to us!\nWe'll sort everything out."
+    },
+    {
+      "$id": 14,
+      "style": 84,
+      "name": "Well, someone's got to take care of\nthis. We'll see what we can organize!"
+    },
+    {
+      "$id": 15,
+      "style": 84,
+      "name": "Oh, I see..."
+    },
+    {
+      "$id": 16,
+      "style": 84,
+      "name": "Roger!"
+    },
+    {
+      "$id": 17,
+      "style": 84,
+      "name": "Really?"
+    },
+    {
+      "$id": 18,
+      "style": 84,
+      "name": "Thanks!"
+    },
+    {
+      "$id": 19,
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 20,
+      "style": 84,
+      "name": "Uh-huh..."
+    },
+    {
+      "$id": 21,
+      "style": 84,
+      "name": "Are you OK?!"
+    },
+    {
+      "$id": 22,
+      "style": 84,
+      "name": "Are you all right?"
+    },
+    {
+      "$id": 23,
+      "style": 84,
+      "name": "It's no problem at all."
+    },
+    {
+      "$id": 24,
+      "style": 84,
+      "name": "Yeah."
+    },
+    {
+      "$id": 25,
+      "style": 84,
+      "name": "Er, no."
+    },
+    {
+      "$id": 26,
+      "style": 84,
+      "name": "I'm sorry."
+    },
+    {
+      "$id": 27,
+      "style": 84,
+      "name": "Here, have a Whelzaman Cookie!\nSeori and Mikumari made them."
+    },
+    {
+      "$id": 28,
+      "style": 84,
+      "name": "Sorry, but no."
+    },
+    {
+      "$id": 29,
+      "style": 84,
+      "name": "I'm back!"
+    },
+    {
+      "$id": 30,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Anger   ]  !"
+    },
+    {
+      "$id": 31,
+      "style": 84,
+      "name": "Huh?!"
+    },
+    {
+      "$id": 32,
+      "style": 84,
+      "name": "No worries."
+    },
+    {
+      "$id": 33,
+      "style": 84,
+      "name": "Heheh. Pretty impressive, right?"
+    },
+    {
+      "$id": 34,
+      "style": 84,
+      "name": "Here you go."
+    },
+    {
+      "$id": 35,
+      "style": 84,
+      "name": "So, the thing is..."
+    },
+    {
+      "$id": 36,
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 37,
+      "style": 84,
+      "name": "This is..."
+    },
+    {
+      "$id": 38,
+      "style": 84,
+      "name": "What...?"
+    },
+    {
+      "$id": 39,
+      "style": 84,
+      "name": "Wow...pretty impressive!"
+    },
+    {
+      "$id": 40,
+      "style": 84,
+      "name": "OK!"
+    },
+    {
+      "$id": 41,
+      "style": 84,
+      "name": "Hey, could I ask you about something?"
+    },
+    {
+      "$id": 42,
+      "style": 84,
+      "name": "Have you heard anything about a girl\ncalled Nia, who was captured by the\nSuperbians recently?"
+    },
+    {
+      "$id": 43,
+      "style": 84,
+      "name": "Did you see a Gulan boy come\nrunning this way from the port?"
+    },
+    {
+      "$id": 44,
+      "style": 84,
+      "name": "Have you heard about anything\nuntoward going on at the Invidia-\nSuperbian summit?"
+    },
+    {
+      "$id": 45,
+      "style": 84,
+      "name": "Something wrong?"
+    },
+    {
+      "$id": 46,
+      "style": 84,
+      "name": "Got any interesting info?"
+    },
+    {
+      "$id": 47,
+      "style": 84,
+      "name": "Hey."
+    },
+    {
+      "$id": 48,
+      "style": 84,
+      "name": "Now this I have to hear."
+    },
+    {
+      "$id": 49,
+      "style": 84,
+      "name": "We'll take care of it!"
+    },
+    {
+      "$id": 50,
+      "style": 84,
+      "name": "We'll give it our best shot!"
+    },
+    {
+      "$id": 51,
+      "style": 84,
+      "name": "And that's another problem\nall sorted out!"
+    },
+    {
+      "$id": 52,
+      "style": 84,
+      "name": "A job well done, I reckon."
+    },
+    {
+      "$id": 53,
+      "style": 84,
+      "name": "Wow, that sucks..."
+    },
+    {
+      "$id": 54,
+      "style": 84,
+      "name": "...Talk about a tricky situation..."
+    },
+    {
+      "$id": 55,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Which should I choose...?"
+    },
+    {
+      "$id": 56,
+      "style": 84,
+      "name": "We'll help you out.\nShouldn't be too much trouble."
+    },
+    {
+      "$id": 57,
+      "style": 84,
+      "name": "Can't just leave you in the lurch here.\nWe'll sort it out!"
+    },
+    {
+      "$id": 58,
+      "style": 84,
+      "name": "We can help you out, if you've a mind\nto let us handle it."
+    },
+    {
+      "$id": 59,
+      "style": 84,
+      "name": "Oh, right."
+    },
+    {
+      "$id": 60,
+      "style": 84,
+      "name": "Got it."
+    },
+    {
+      "$id": 61,
+      "style": 84,
+      "name": "Is that right?"
+    },
+    {
+      "$id": 62,
+      "style": 84,
+      "name": "Thanks."
+    },
+    {
+      "$id": 63,
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 64,
+      "style": 84,
+      "name": "Riiiiight."
+    },
+    {
+      "$id": 65,
+      "style": 84,
+      "name": "You OK there?!"
+    },
+    {
+      "$id": 66,
+      "style": 84,
+      "name": "You OK?"
+    },
+    {
+      "$id": 67,
+      "style": 84,
+      "name": "That's totally fine."
+    },
+    {
+      "$id": 68,
+      "style": 84,
+      "name": "Yup."
+    },
+    {
+      "$id": 69,
+      "style": 84,
+      "name": "Nah."
+    },
+    {
+      "$id": 70,
+      "style": 84,
+      "name": "Sorry."
+    },
+    {
+      "$id": 71,
+      "style": 84,
+      "name": "Want a Whelzaman Cookie?\nI think they're pretty decent."
+    },
+    {
+      "$id": 72,
+      "style": 84,
+      "name": "I don't think so."
+    },
+    {
+      "$id": 73,
+      "style": 84,
+      "name": "We're back!"
+    },
+    {
+      "$id": 74,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Anger   ]  !"
+    },
+    {
+      "$id": 75,
+      "style": 84,
+      "name": "Huh?!"
+    },
+    {
+      "$id": 76,
+      "style": 84,
+      "name": "No worries."
+    },
+    {
+      "$id": 77,
+      "style": 84,
+      "name": "All in a day's work!"
+    },
+    {
+      "$id": 78,
+      "style": 84,
+      "name": "Here you go."
+    },
+    {
+      "$id": 79,
+      "style": 84,
+      "name": "So here's the thing..."
+    },
+    {
+      "$id": 80,
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 81,
+      "style": 84,
+      "name": "Ahh, this is..."
+    },
+    {
+      "$id": 82,
+      "style": 84,
+      "name": "Huh...?"
+    },
+    {
+      "$id": 83,
+      "style": 84,
+      "name": "That's pretty neat."
+    },
+    {
+      "$id": 84,
+      "style": 84,
+      "name": "Yeah!"
+    },
+    {
+      "$id": 85,
+      "style": 84,
+      "name": "Hey, can I ask you something?"
+    },
+    {
+      "$id": 86,
+      "style": 84,
+      "name": "Hey, did you see a Gulan boy round\nhere? He was stealing stuff."
+    },
+    {
+      "$id": 87,
+      "style": 84,
+      "name": "Hey, you heard about anything\nsuspicious going down at the\nInvidia-Superbian summit?"
+    },
+    {
+      "$id": 88,
+      "style": 84,
+      "name": "Something bothering friend?"
+    },
+    {
+      "$id": 89,
+      "style": 84,
+      "name": "Tora want to hear gossip!"
+    },
+    {
+      "$id": 90,
+      "style": 84,
+      "name": "Hello friend!"
+    },
+    {
+      "$id": 91,
+      "style": 84,
+      "name": "Tora want more info!"
+    },
+    {
+      "$id": 92,
+      "style": 84,
+      "name": "Tora and friends handle it!"
+    },
+    {
+      "$id": 93,
+      "style": 84,
+      "name": "Tora will do best effort.\nBut can't make promise!"
+    },
+    {
+      "$id": 94,
+      "style": 84,
+      "name": "Everything OK now!"
+    },
+    {
+      "$id": 95,
+      "style": 84,
+      "name": "No more need for worry.\nEverything sorted out."
+    },
+    {
+      "$id": 96,
+      "style": 84,
+      "name": "That sound bad. Very bad."
+    },
+    {
+      "$id": 97,
+      "style": 84,
+      "name": "Meh-meh-meh!\nThis tricky-tricky situation..."
+    },
+    {
+      "$id": 98,
+      "style": 84,
+      "name": "Ohh... Tora not good at hard decisions..."
+    },
+    {
+      "$id": 99,
+      "style": 84,
+      "name": "Tora want to help out.\nShould be easy for Tora and friends!"
+    },
+    {
+      "$id": 100,
+      "style": 84,
+      "name": "With Tora on the job,\nproblem solved in no time!"
+    },
+    {
+      "$id": 101,
+      "style": 84,
+      "name": "Leave it to Tora...uh, to Rex-Rex and\nfriends! They handle it somehow."
+    },
+    {
+      "$id": 102,
+      "style": 84,
+      "name": "That make sense."
+    },
+    {
+      "$id": 103,
+      "style": 84,
+      "name": "Tora get it!"
+    },
+    {
+      "$id": 104,
+      "style": 84,
+      "name": "Really-truly?"
+    },
+    {
+      "$id": 105,
+      "style": 84,
+      "name": "Much thanks!"
+    },
+    {
+      "$id": 106,
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 107,
+      "style": 84,
+      "name": "Meh-meh..."
+    },
+    {
+      "$id": 108,
+      "style": 84,
+      "name": "Have no fear! Mighty Tora is here!"
+    },
+    {
+      "$id": 109,
+      "style": 84,
+      "name": "Friend is OK?"
+    },
+    {
+      "$id": 110,
+      "style": 84,
+      "name": "No problem for Tora!"
+    },
+    {
+      "$id": 111,
+      "style": 84,
+      "name": "Yes-yes."
+    },
+    {
+      "$id": 112,
+      "style": 84,
+      "name": "No, meh."
+    },
+    {
+      "$id": 113,
+      "style": 84,
+      "name": "Tora sorry..."
+    },
+    {
+      "$id": 114,
+      "style": 84,
+      "name": "Whelzaman Cookie for you?\nIf do not want, that OK,\nTora eat instead!"
+    },
+    {
+      "$id": 115,
+      "style": 84,
+      "name": "Tora think no."
+    },
+    {
+      "$id": 116,
+      "style": 84,
+      "name": "Tora back!"
+    },
+    {
+      "$id": 117,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Anger   ]  !"
+    },
+    {
+      "$id": 118,
+      "style": 84,
+      "name": "Meh-meh?!"
+    },
+    {
+      "$id": 119,
+      "style": 84,
+      "name": "No problems."
+    },
+    {
+      "$id": 120,
+      "style": 84,
+      "name": "Meh-heh-heh!"
+    },
+    {
+      "$id": 121,
+      "style": 84,
+      "name": "Here, friend take!"
+    },
+    {
+      "$id": 122,
+      "style": 84,
+      "name": "Let Tora explain..."
+    },
+    {
+      "$id": 123,
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 124,
+      "style": 84,
+      "name": "Meh-meh...!"
+    },
+    {
+      "$id": 125,
+      "style": 84,
+      "name": "Meh-meh...?"
+    },
+    {
+      "$id": 126,
+      "style": 84,
+      "name": "Meh-meh! Amazing!"
+    },
+    {
+      "$id": 127,
+      "style": 84,
+      "name": "Mehmeh!"
+    },
+    {
+      "$id": 128,
+      "style": 84,
+      "name": "Please answer question of Tora!"
+    },
+    {
+      "$id": 129,
+      "style": 84,
+      "name": "Did friend see Gulan boy who took\nimportant thing from Rex-Rex?"
+    },
+    {
+      "$id": 130,
+      "style": 84,
+      "name": "Soon will be big summit talk thing, yes?\nFriend know anything about suspicious\nthings happening there?"
+    },
+    {
+      "$id": 131,
+      "style": 84,
+      "name": "Tell me, what's the word on the street?"
+    },
+    {
+      "$id": 132,
+      "style": 84,
+      "name": "Hey there."
+    },
+    {
+      "$id": 133,
+      "style": 84,
+      "name": "We got this."
+    },
+    {
+      "$id": 134,
+      "style": 84,
+      "name": "Seems everything's fine and dandy now."
+    },
+    {
+      "$id": 135,
+      "style": 84,
+      "name": "That's rough, that is..."
+    },
+    {
+      "$id": 136,
+      "style": 84,
+      "name": "We'll help you out."
+    },
+    {
+      "$id": 137,
+      "style": 84,
+      "name": "Ahh, I get ya."
+    },
+    {
+      "$id": 138,
+      "style": 84,
+      "name": "Gotcha."
+    },
+    {
+      "$id": 139,
+      "style": 84,
+      "name": "Thanks a bunch!"
+    },
+    {
+      "$id": 140,
+      "style": 84,
+      "name": "You still breathin'?"
+    },
+    {
+      "$id": 141,
+      "style": 84,
+      "name": "Is something the matter?"
+    },
+    {
+      "$id": 142,
+      "style": 84,
+      "name": "We need information.\nAnything would be helpful."
+    },
+    {
+      "$id": 143,
+      "style": 84,
+      "name": "Greetings."
+    },
+    {
+      "$id": 144,
+      "style": 84,
+      "name": "I would be interested to hear the details."
+    },
+    {
+      "$id": 145,
+      "style": 84,
+      "name": "We will handle this task without fail."
+    },
+    {
+      "$id": 146,
+      "style": 84,
+      "name": "We will do everything in our power."
+    },
+    {
+      "$id": 147,
+      "style": 84,
+      "name": "A satisfactory conclusion."
+    },
+    {
+      "$id": 148,
+      "style": 84,
+      "name": "Worry not. The situation has\nbeen taken care of."
+    },
+    {
+      "$id": 149,
+      "style": 84,
+      "name": "How unfortunate."
+    },
+    {
+      "$id": 150,
+      "style": 84,
+      "name": "Well, this is a tricky conundrum..."
+    },
+    {
+      "$id": 151,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I must choose wisely..."
+    },
+    {
+      "$id": 152,
+      "style": 84,
+      "name": "Allow us to assist."
+    },
+    {
+      "$id": 153,
+      "style": 84,
+      "name": "How could we turn our backs on\nthose in need? We will do all we can."
+    },
+    {
+      "$id": 154,
+      "style": 84,
+      "name": "Will you permit us to take care of it?\nWe know just the people."
+    },
+    {
+      "$id": 155,
+      "style": 84,
+      "name": "I see."
+    },
+    {
+      "$id": 156,
+      "style": 84,
+      "name": "Understood."
+    },
+    {
+      "$id": 157,
+      "style": 84,
+      "name": "Is that so?"
+    },
+    {
+      "$id": 158,
+      "style": 84,
+      "name": "I thank you."
+    },
+    {
+      "$id": 159,
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 160,
+      "style": 84,
+      "name": "I...see."
+    },
+    {
+      "$id": 161,
+      "style": 84,
+      "name": "Are you safe?"
+    },
+    {
+      "$id": 162,
+      "style": 84,
+      "name": "Are you quite all right?"
+    },
+    {
+      "$id": 163,
+      "style": 84,
+      "name": "That is quite all right."
+    },
+    {
+      "$id": 164,
+      "style": 84,
+      "name": "Indeed."
+    },
+    {
+      "$id": 165,
+      "style": 84,
+      "name": "Hmm...no."
+    },
+    {
+      "$id": 166,
+      "style": 84,
+      "name": "My apologies."
+    },
+    {
+      "$id": 167,
+      "style": 84,
+      "name": "Here, have this.\nIt's a Whelzaman Cookie."
+    },
+    {
+      "$id": 168,
+      "style": 84,
+      "name": "I think not."
+    },
+    {
+      "$id": 169,
+      "style": 84,
+      "name": "We have returned."
+    },
+    {
+      "$id": 170,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Anger   ]  !"
+    },
+    {
+      "$id": 171,
+      "style": 84,
+      "name": "Wha-?!"
+    },
+    {
+      "$id": 172,
+      "style": 84,
+      "name": "Worry not."
+    },
+    {
+      "$id": 173,
+      "style": 84,
+      "name": "Such trifling matters are no\ntrouble at all."
+    },
+    {
+      "$id": 174,
+      "style": 84,
+      "name": "Here - this is for you."
+    },
+    {
+      "$id": 175,
+      "style": 84,
+      "name": "Allow me to explain..."
+    },
+    {
+      "$id": 176,
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 177,
+      "style": 84,
+      "name": "Hmm, this is..."
+    },
+    {
+      "$id": 178,
+      "style": 84,
+      "name": "What...?"
+    },
+    {
+      "$id": 179,
+      "style": 84,
+      "name": "How remarkable."
+    },
+    {
+      "$id": 180,
+      "style": 84,
+      "name": "Very good."
+    },
+    {
+      "$id": 181,
+      "style": 84,
+      "name": "May we ask you about something?"
+    },
+    {
+      "$id": 182,
+      "style": 84,
+      "name": "Something wrong?"
+    },
+    {
+      "$id": 183,
+      "style": 84,
+      "name": "Hey, hit me with the hottest\ninfo you've got."
+    },
+    {
+      "$id": 184,
+      "style": 84,
+      "name": "Wassup?"
+    },
+    {
+      "$id": 185,
+      "style": 84,
+      "name": "Let's hear the juicy details."
+    },
+    {
+      "$id": 186,
+      "style": 84,
+      "name": "Leave it to the Zekenator!"
+    },
+    {
+      "$id": 187,
+      "style": 84,
+      "name": "Hahah! I hope you don't think this is\na job the Zekenator can't handle!"
+    },
+    {
+      "$id": 188,
+      "style": 84,
+      "name": "And that's that, I reckon!"
+    },
+    {
+      "$id": 189,
+      "style": 84,
+      "name": "With the Zekenator on the case,\nthis job was almost too easy."
+    },
+    {
+      "$id": 190,
+      "style": 84,
+      "name": "Damn, that ain't good."
+    },
+    {
+      "$id": 191,
+      "style": 84,
+      "name": "Well... This is a toughie."
+    },
+    {
+      "$id": 192,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I better think this one through..."
+    },
+    {
+      "$id": 193,
+      "style": 84,
+      "name": "You need some help?\nGood thing I'm here, then!"
+    },
+    {
+      "$id": 194,
+      "style": 84,
+      "name": "We'll take care of this in\nno time flat."
+    },
+    {
+      "$id": 195,
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries will\ntake on this job!"
+    },
+    {
+      "$id": 196,
+      "style": 84,
+      "name": "Makes sense."
+    },
+    {
+      "$id": 197,
+      "style": 84,
+      "name": "Roger that!"
+    },
+    {
+      "$id": 198,
+      "style": 84,
+      "name": "For reals?"
+    },
+    {
+      "$id": 199,
+      "style": 84,
+      "name": "Cheers."
+    },
+    {
+      "$id": 200,
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 201,
+      "style": 84,
+      "name": "Right, sure..."
+    },
+    {
+      "$id": 202,
+      "style": 84,
+      "name": "The Zekenator is on the scene!"
+    },
+    {
+      "$id": 203,
+      "style": 84,
+      "name": "You all right?"
+    },
+    {
+      "$id": 204,
+      "style": 84,
+      "name": "No probs."
+    },
+    {
+      "$id": 205,
+      "style": 84,
+      "name": "Yeah."
+    },
+    {
+      "$id": 206,
+      "style": 84,
+      "name": "Nuh-uh."
+    },
+    {
+      "$id": 207,
+      "style": 84,
+      "name": "Sorry."
+    },
+    {
+      "$id": 208,
+      "style": 84,
+      "name": "Here, have a Whelzaman Cookie.\nNo promises 'bout the taste though!"
+    },
+    {
+      "$id": 209,
+      "style": 84,
+      "name": "Sorry, not happening."
+    },
+    {
+      "$id": 210,
+      "style": 84,
+      "name": "We're back!"
+    },
+    {
+      "$id": 211,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Anger   ]  !"
+    },
+    {
+      "$id": 212,
+      "style": 84,
+      "name": "What the...?!"
+    },
+    {
+      "$id": 213,
+      "style": 84,
+      "name": "No worries."
+    },
+    {
+      "$id": 214,
+      "style": 84,
+      "name": "Did you expect any less from\nthe Zekenator?"
+    },
+    {
+      "$id": 215,
+      "style": 84,
+      "name": "Here you go."
+    },
+    {
+      "$id": 216,
+      "style": 84,
+      "name": "So here's the thing, yeah...?"
+    },
+    {
+      "$id": 217,
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 218,
+      "style": 84,
+      "name": "Ah, this is..."
+    },
+    {
+      "$id": 219,
+      "style": 84,
+      "name": "Eh...?"
+    },
+    {
+      "$id": 220,
+      "style": 84,
+      "name": "Pretty classy stuff."
+    },
+    {
+      "$id": 221,
+      "style": 84,
+      "name": "Awesome."
+    },
+    {
+      "$id": 222,
+      "style": 84,
+      "name": "Hey there. Got a question for you."
+    },
+    {
+      "$id": 223,
+      "style": 84,
+      "name": "Know anything about a black-market\nmerchant who's been up to no good\nhere in Acedia?"
+    },
+    {
+      "$id": 224,
+      "style": 84,
+      "name": "I'd like to hear the details.\nRex, what about you?"
+    },
+    {
+      "$id": 225,
+      "style": 84,
+      "name": "Yeah, same here! Can you fill us in?"
+    },
+    {
+      "$id": 226,
+      "style": 84,
+      "name": "Rex, shall we get to work on\nthis right away?"
+    },
+    {
+      "$id": 227,
+      "style": 84,
+      "name": "With you by my side, Homura,\nI'm up to any challenge!"
+    },
+    {
+      "$id": 228,
+      "style": 84,
+      "name": "I guess that's that solved then."
+    },
+    {
+      "$id": 229,
+      "style": 84,
+      "name": "All thanks to your hard work, Nia!"
+    },
+    {
+      "$id": 230,
+      "style": 84,
+      "name": "Zeke-san...we have to do something\nabout this, right?"
+    },
+    {
+      "$id": 231,
+      "style": 84,
+      "name": "Things don't sound good, that's\nfor sure. It's a bad situation."
+    },
+    {
+      "$id": 232,
+      "style": 84,
+      "name": "What a difficult situation..."
+    },
+    {
+      "$id": 233,
+      "style": 84,
+      "name": "If Tora and Homura-chan use brains, can\nmaybe find answer to problem!"
+    },
+    {
+      "$id": 234,
+      "style": 84,
+      "name": "Meleph-san...\nThis is a difficult decision, I know..."
+    },
+    {
+      "$id": 235,
+      "style": 84,
+      "name": "Yes... I must consider carefully and\nchoose the option I believe to be best."
+    },
+    {
+      "$id": 236,
+      "style": 84,
+      "name": "We're going to help, right, Rex?"
+    },
+    {
+      "$id": 237,
+      "style": 84,
+      "name": "Of course!\nLet's do everything we can!"
+    },
+    {
+      "$id": 238,
+      "style": 84,
+      "name": "Thank you so much!"
+    },
+    {
+      "$id": 239,
+      "style": 84,
+      "name": "You're not hurt, are you?"
+    },
+    {
+      "$id": 240,
+      "style": 84,
+      "name": "Now Hana and friends here,\nnothing to worry about!"
+    },
+    {
+      "$id": 241,
+      "style": 84,
+      "name": "Are you OK?"
+    },
+    {
+      "$id": 242,
+      "style": 84,
+      "name": "I'm sure everything's fine.\nYou're such a worrywart, Homura."
+    },
+    {
+      "$id": 243,
+      "style": 84,
+      "name": "It's no problem at all, really."
+    },
+    {
+      "$id": 244,
+      "style": 84,
+      "name": "I see the Aegis has excellent manners,\nas well as awesome powers."
+    },
+    {
+      "$id": 245,
+      "style": 84,
+      "name": "Sorry to keep you waiting!"
+    },
+    {
+      "$id": 246,
+      "style": 84,
+      "name": "We have returned from our task."
+    },
+    {
+      "$id": 247,
+      "style": 84,
+      "name": "Here you go!"
+    },
+    {
+      "$id": 248,
+      "style": 84,
+      "name": "We went through a lot to get this."
+    },
+    {
+      "$id": 249,
+      "style": 84,
+      "name": "Is this all right?"
+    },
+    {
+      "$id": 250,
+      "style": 84,
+      "name": "I reckon so!"
+    },
+    {
+      "$id": 251,
+      "style": 84,
+      "name": "Hey, Byakko. I think this person\nmight have information for us."
+    },
+    {
+      "$id": 252,
+      "style": 84,
+      "name": "In such cases, I find the best course\nof action is to listen to what they\nhave to say."
+    },
+    {
+      "$id": 253,
+      "style": 84,
+      "name": "I think we need to hear the details."
+    },
+    {
+      "$id": 254,
+      "style": 84,
+      "name": "Hikari the sort who stick her\nnose into anything!"
+    },
+    {
+      "$id": 255,
+      "style": 84,
+      "name": "Leave it to us!\nI know we can do it!"
+    },
+    {
+      "$id": 256,
+      "style": 84,
+      "name": "Just as long as you don't OVERdo it..."
+    },
+    {
+      "$id": 257,
+      "style": 84,
+      "name": "Rex. I really worked hard on this.\nI'd say I'm due a reward of some kind."
+    },
+    {
+      "$id": 258,
+      "style": 84,
+      "name": "Huh?!\nUhm... Let me think about it."
+    },
+    {
+      "$id": 259,
+      "style": 84,
+      "name": "Everything's fine now.\nWith me and Kagutsuchi on the case,\nhow could it not be?"
+    },
+    {
+      "$id": 260,
+      "style": 84,
+      "name": "It was the only possible outcome."
+    },
+    {
+      "$id": 261,
+      "style": 84,
+      "name": "Ooh, this is tricky.\nWhat do you think, Hikari?"
+    },
+    {
+      "$id": 262,
+      "style": 84,
+      "name": "All I know is, worrying never\nfixes anything!"
+    },
+    {
+      "$id": 263,
+      "style": 84,
+      "name": "We'll take care of this!\nRight, Hikari?"
+    },
+    {
+      "$id": 264,
+      "style": 84,
+      "name": "If that's what you want to do,\nI guess I can't exactly say no."
+    },
+    {
+      "$id": 265,
+      "style": 84,
+      "name": "Really, it no problem for Hana!"
+    },
+    {
+      "$id": 266,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Ah, Hana's really growing up.\nShe's so gracious."
+    },
+    {
+      "$id": 267,
+      "style": 84,
+      "name": "Hi again!"
+    },
+    {
+      "$id": 268,
+      "style": 84,
+      "name": "We have just returned."
+    },
+    {
+      "$id": 269,
+      "style": 84,
+      "name": "Lovely."
+    },
+    {
+      "$id": 270,
+      "style": 84,
+      "name": "I guess this works."
+    },
+    {
+      "$id": 271,
+      "style": 84,
+      "name": "Wassup?"
+    },
+    {
+      "$id": 272,
+      "style": 84,
+      "name": "What my companion meant by\nthat was, \"Salutations!\""
+    },
+    {
+      "$id": 273,
+      "style": 84,
+      "name": "Tora can handle this without even\nmaking fur of Tora sweaty!"
+    },
+    {
+      "$id": 274,
+      "style": 84,
+      "name": "I do not doubt it, my furry friend."
+    },
+    {
+      "$id": 275,
+      "style": 84,
+      "name": "We made light work of this one!\nAren't we just the best?"
+    },
+    {
+      "$id": 276,
+      "style": 84,
+      "name": "My lady... Sometimes modesty is\nthe cardinal virtue."
+    },
+    {
+      "$id": 277,
+      "style": 84,
+      "name": "Wow...that's about as bad as\nwhen you're salvaging and a\nGrebb comes out..."
+    },
+    {
+      "$id": 278,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I had no idea being a salvager\nwas such a terrifying ordeal..."
+    },
+    {
+      "$id": 279,
+      "style": 84,
+      "name": "My Lady... I respectfully counsel you\nto use your best discretion here."
+    },
+    {
+      "$id": 280,
+      "style": 84,
+      "name": "Yeah, I know. Better not make a\ndecision I'm going to regret."
+    },
+    {
+      "$id": 281,
+      "style": 84,
+      "name": "We must solve this predicament.\nByakko, will you assist too?"
+    },
+    {
+      "$id": 282,
+      "style": 84,
+      "name": "But of course. I live to serve!"
+    },
+    {
+      "$id": 283,
+      "style": 84,
+      "name": "Thank you so much!"
+    },
+    {
+      "$id": 284,
+      "style": 84,
+      "name": "You have my gratitude also."
+    },
+    {
+      "$id": 285,
+      "style": 84,
+      "name": "Are you all right?"
+    },
+    {
+      "$id": 286,
+      "style": 84,
+      "name": "Have no fear."
+    },
+    {
+      "$id": 287,
+      "style": 84,
+      "name": "Is friend OK?"
+    },
+    {
+      "$id": 288,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Perhaps I should let Hana handle\nthis one herself..."
+    },
+    {
+      "$id": 289,
+      "style": 84,
+      "name": "That works."
+    },
+    {
+      "$id": 290,
+      "style": 84,
+      "name": "Yes, quite. I could hardly have\nput it better myself."
+    },
+    {
+      "$id": 291,
+      "style": 84,
+      "name": "It sounds like something's up."
+    },
+    {
+      "$id": 292,
+      "style": 84,
+      "name": "Hana want more detail!"
+    },
+    {
+      "$id": 293,
+      "style": 84,
+      "name": "Hana! Ask this person if they\nhave helpful information!"
+    },
+    {
+      "$id": 294,
+      "style": 84,
+      "name": "Is Masterpon being lazy and\nmaking Hana do all work?"
+    },
+    {
+      "$id": 295,
+      "style": 84,
+      "name": "Nia, Hana very interested to\nhear details of this."
+    },
+    {
+      "$id": 296,
+      "style": 84,
+      "name": "Yeah, me too.\nCan you give us the lowdown?"
+    },
+    {
+      "$id": 297,
+      "style": 84,
+      "name": "Leave it to us! Hey Hana, have you\ngot a special feature to take care of\nthis in two seconds flat?"
+    },
+    {
+      "$id": 298,
+      "style": 84,
+      "name": "Hana have many features,\nbut none quite that specialized.\nWill take at least three seconds."
+    },
+    {
+      "$id": 299,
+      "style": 84,
+      "name": "Everything is OK now?\nAll worry is over?"
+    },
+    {
+      "$id": 300,
+      "style": 84,
+      "name": "Masterpon... Hana think\nyou worry too hard."
+    },
+    {
+      "$id": 301,
+      "style": 84,
+      "name": "Rex... What is best course\nof action in this situation?"
+    },
+    {
+      "$id": 302,
+      "style": 84,
+      "name": "I'm not sure myself... But if we\nwork together, I'm sure we can\ncome up with something!"
+    },
+    {
+      "$id": 303,
+      "style": 84,
+      "name": "Tora can not bear to abandon people\nwho need help. Leave it to Tora!"
+    },
+    {
+      "$id": 304,
+      "style": 84,
+      "name": "Masterpon...!\nSuch kindness! Such Heroponity!"
+    },
+    {
+      "$id": 305,
+      "style": 84,
+      "name": "Are you all right?"
+    },
+    {
+      "$id": 306,
+      "style": 84,
+      "name": "Meleph sort out any problems!"
+    },
+    {
+      "$id": 307,
+      "style": 84,
+      "name": "Is no need to make big fuss over, really."
+    },
+    {
+      "$id": 308,
+      "style": 84,
+      "name": "Masterpon showing good manners?\nThis seem like improbable occurrence.\nMaybe Armus fly next."
+    },
+    {
+      "$id": 309,
+      "style": 84,
+      "name": "Hana and friends back now!"
+    },
+    {
+      "$id": 310,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  How is she always so cute...?"
+    },
+    {
+      "$id": 311,
+      "style": 84,
+      "name": "Hey, could Hana talk with friend a bit?"
+    },
+    {
+      "$id": 312,
+      "style": 84,
+      "name": "We'd like to hear any interesting\nnews you might have heard."
+    },
+    {
+      "$id": 313,
+      "style": 84,
+      "name": "We could do with some details, I feel."
+    },
+    {
+      "$id": 314,
+      "style": 84,
+      "name": "Yes please. More info very helpful!"
+    },
+    {
+      "$id": 315,
+      "style": 84,
+      "name": "Surely Meleph can take care of this?"
+    },
+    {
+      "$id": 316,
+      "style": 84,
+      "name": "Perhaps, but not without your\nsterling support, Hana."
+    },
+    {
+      "$id": 317,
+      "style": 84,
+      "name": "All problem over now.\nTime for sigh of relief."
+    },
+    {
+      "$id": 318,
+      "style": 84,
+      "name": "Well spoken, Hana."
+    },
+    {
+      "$id": 319,
+      "style": 84,
+      "name": "Masterpon... This not sound good."
+    },
+    {
+      "$id": 320,
+      "style": 84,
+      "name": "Yes. Very not good.\nAs bad as time when Tora\ntouch Core Crystal..."
+    },
+    {
+      "$id": 321,
+      "style": 84,
+      "name": "Homura. What is right course of action\nin situation like this?"
+    },
+    {
+      "$id": 322,
+      "style": 84,
+      "name": "Honestly... I'm not sure if there is a\nright or wrong answer here, Hana.\nIt's a judgment call."
+    },
+    {
+      "$id": 323,
+      "style": 84,
+      "name": "The Zekenator is here to help!"
+    },
+    {
+      "$id": 324,
+      "style": 84,
+      "name": "Hana help too!"
+    },
+    {
+      "$id": 325,
+      "style": 84,
+      "name": "Please, no worrying!\nEverything fine now!"
+    },
+    {
+      "$id": 326,
+      "style": 84,
+      "name": "With you in that form, it really does\nfeel like we can handle anything..."
+    },
+    {
+      "$id": 327,
+      "style": 84,
+      "name": "We're back. Not too late, are we?"
+    },
+    {
+      "$id": 328,
+      "style": 84,
+      "name": "Looks like friend has waited\nvery patiently for us to get back!"
+    },
+    {
+      "$id": 329,
+      "style": 84,
+      "name": "Mehmeh!"
+    },
+    {
+      "$id": 330,
+      "style": 84,
+      "name": "Very eloquently put, Masterpon!"
+    },
+    {
+      "$id": 331,
+      "style": 84,
+      "name": "Hello friend!"
+    },
+    {
+      "$id": 332,
+      "style": 84,
+      "name": "May we converse with you a little?"
+    },
+    {
+      "$id": 333,
+      "style": 84,
+      "name": "Hana take care of it.\nNo need for worry."
+    },
+    {
+      "$id": 334,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  My, Hana is really growing up."
+    },
+    {
+      "$id": 335,
+      "style": 84,
+      "name": "There's no problem we can't solve\nwhen we work together - right, Hana?"
+    },
+    {
+      "$id": 336,
+      "style": 84,
+      "name": "Meh-meh! Hana and Hikari\ngreat combination!"
+    },
+    {
+      "$id": 337,
+      "style": 84,
+      "name": "Mehmeh! Such horrible situation...\nAlmost bad as Tasty Sausage supply\nrun dry..."
+    },
+    {
+      "$id": 338,
+      "style": 84,
+      "name": "Masterpon... Hana think situation\nslightly more serious than sausages."
+    },
+    {
+      "$id": 339,
+      "style": 84,
+      "name": "This seems kind of complicated.\nWhat to do...?"
+    },
+    {
+      "$id": 340,
+      "style": 84,
+      "name": "Rex! We can solve all\nproblem by work together!"
+    },
+    {
+      "$id": 341,
+      "style": 84,
+      "name": "Hana! What is best choice to\nmake in this situation?"
+    },
+    {
+      "$id": 342,
+      "style": 84,
+      "name": "Hana not know answer.\nWill leave decision to wise Masterpon."
+    },
+    {
+      "$id": 343,
+      "style": 84,
+      "name": "Masterpon! If we get help of Blade\nfriends, we can solve problem."
+    },
+    {
+      "$id": 344,
+      "style": 84,
+      "name": "Mehmeh!\nHana is right!"
+    },
+    {
+      "$id": 345,
+      "style": 84,
+      "name": "Are you...OK?"
+    },
+    {
+      "$id": 346,
+      "style": 84,
+      "name": "Hana a little worried too..."
+    },
+    {
+      "$id": 347,
+      "style": 84,
+      "name": "Hana and friends return\nfrom long journey!"
+    },
+    {
+      "$id": 348,
+      "style": 84,
+      "name": "Yeah. And I'm knackered!"
+    },
+    {
+      "$id": 349,
+      "style": 84,
+      "name": "Hana, hand over the goods!"
+    },
+    {
+      "$id": 350,
+      "style": 84,
+      "name": "Goods...?\nOh, Hana know what Zeke mean.\nHere you go, friend."
+    },
+    {
+      "$id": 351,
+      "style": 84,
+      "name": "Tell me! What's today's hot topic?"
+    },
+    {
+      "$id": 352,
+      "style": 84,
+      "name": "Yes yes! Give Tora gossip!"
+    },
+    {
+      "$id": 353,
+      "style": 84,
+      "name": "Yo! Isn't today just the greatest day?\nIt is, right?!"
+    },
+    {
+      "$id": 354,
+      "style": 84,
+      "name": "Suzaku... I don't think small talk is your\nstrong suit. Let's just see what our\nfriend here has to say, shall we?"
+    },
+    {
+      "$id": 355,
+      "style": 84,
+      "name": "Rex...are you up for this task?\nIt doesn't sound easy."
+    },
+    {
+      "$id": 356,
+      "style": 84,
+      "name": "Agreed. But if we keep our wits\nabout us, we can handle it!"
+    },
+    {
+      "$id": 357,
+      "style": 84,
+      "name": "Warrk! Warrk!"
+    },
+    {
+      "$id": 358,
+      "style": 84,
+      "name": "Whoa, don't surprise me like that, Suzaku!\nWas that your victory cry or something?"
+    },
+    {
+      "$id": 359,
+      "style": 84,
+      "name": "Hmmm... This does not sound like\na pleasant situation."
+    },
+    {
+      "$id": 360,
+      "style": 84,
+      "name": "Indeed...but it is not a\nhopeless one, either!"
+    },
+    {
+      "$id": 361,
+      "style": 84,
+      "name": "We'll resolve this matter!\nRight, Nia?"
+    },
+    {
+      "$id": 362,
+      "style": 84,
+      "name": "I mean, sure. I was going to say\nthat if you didn't."
+    },
+    {
+      "$id": 363,
+      "style": 84,
+      "name": "Maybe this something Suzaku can\nhelp with?"
+    },
+    {
+      "$id": 364,
+      "style": 84,
+      "name": "I wouldn't mind...but I think we\nhave plenty of other mercs who\ncan lend a hand."
+    },
+    {
+      "$id": 365,
+      "style": 84,
+      "name": "No need to worry yourself!\nSquar-ha-ha-ha-hark!"
+    },
+    {
+      "$id": 366,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Suzaku not too good at being polite..."
+    },
+    {
+      "$id": 367,
+      "style": 84,
+      "name": "The item you desire is either in\nmy left pouch or my right pouch...\nCan you guess which one?"
+    },
+    {
+      "$id": 368,
+      "style": 84,
+      "name": "Suzaku... I think we can skip this.\nJust hand it over."
+    },
+    {
+      "$id": 369,
+      "style": 84,
+      "name": "All right!"
+    },
+    {
+      "$id": 370,
+      "style": 84,
+      "name": "Very good."
+    },
+    {
+      "$id": 371,
+      "style": 84,
+      "name": "Hello friend!\nOh, Kagutsuchi, do special greeting from\npalace you tell me about before!"
+    },
+    {
+      "$id": 372,
+      "style": 84,
+      "name": "Ah...the Superbian ceremonial curtsey\nis reserved for certain formal situations.\nLet's just talk normally for now."
+    },
+    {
+      "$id": 373,
+      "style": 84,
+      "name": "We will take care of it. Kagutsuchi,\nI hope you will lend me your aid."
+    },
+    {
+      "$id": 374,
+      "style": 84,
+      "name": "But of course, Meleph-sama.\nI hope I can satisfy your expectations."
+    },
+    {
+      "$id": 375,
+      "style": 84,
+      "name": "Hahah! Haaaaahahah! Hahaha!\nHahahaha! HAH!"
+    },
+    {
+      "$id": 376,
+      "style": 84,
+      "name": "I think what he means to say is that the\njob presented few difficulties for him."
+    },
+    {
+      "$id": 377,
+      "style": 84,
+      "name": "This big difficult...\nWhat Kagutsuchi think we should do?"
+    },
+    {
+      "$id": 378,
+      "style": 84,
+      "name": "Hana, you still have so much to learn.\nWhen you get more experience, you'll\nknow what to do in times like these."
+    },
+    {
+      "$id": 379,
+      "style": 84,
+      "name": "Meleph-sama, if I may..."
+    },
+    {
+      "$id": 380,
+      "style": 84,
+      "name": "It's fine, Kagutsuchi, you don't have to\nsay it. Let's resolve this situation."
+    },
+    {
+      "$id": 381,
+      "style": 84,
+      "name": "Meh! Thank you! Mehmeh!\nMehmeh! Thank you! Meh!"
+    },
+    {
+      "$id": 382,
+      "style": 84,
+      "name": "More is not always better, Tora.\nDon't you think a single thank you\nwould suffice?"
+    },
+    {
+      "$id": 383,
+      "style": 84,
+      "name": "Are you all right?!"
+    },
+    {
+      "$id": 384,
+      "style": 84,
+      "name": "Now that we're here, there is\nno need to worry."
+    },
+    {
+      "$id": 385,
+      "style": 84,
+      "name": "Are you all right...?"
+    },
+    {
+      "$id": 386,
+      "style": 84,
+      "name": "Nothing too bad, I hope."
+    },
+    {
+      "$id": 387,
+      "style": 84,
+      "name": "Really, it is no problem."
+    },
+    {
+      "$id": 388,
+      "style": 84,
+      "name": "Hey, no problem."
+    },
+    {
+      "$id": 389,
+      "style": 84,
+      "name": "Does this seem acceptable?"
+    },
+    {
+      "$id": 390,
+      "style": 84,
+      "name": "I would say so, yes."
+    },
+    {
+      "$id": 391,
+      "style": 84,
+      "name": "Sounds like something's wrong.\nWhat do you think, Saika?"
+    },
+    {
+      "$id": 392,
+      "style": 84,
+      "name": "Yeah, we should find out more."
+    },
+    {
+      "$id": 393,
+      "style": 84,
+      "name": "Hana think we should subject\nthis person to interrogation."
+    },
+    {
+      "$id": 394,
+      "style": 84,
+      "name": "Erm... Or we could just have\na normal conversation..."
+    },
+    {
+      "$id": 395,
+      "style": 84,
+      "name": "Hey. Why don't you tell me something\nfunny? Like, something side-splitting."
+    },
+    {
+      "$id": 396,
+      "style": 84,
+      "name": "Oh, Hikari... If you put the pressure on\nlike that, it's impossible to be funny."
+    },
+    {
+      "$id": 397,
+      "style": 84,
+      "name": "I reckon we ought to find out more.\nWhat d'you think, Saika?"
+    },
+    {
+      "$id": 398,
+      "style": 84,
+      "name": "With you on that one, Princey.\nLet's hear the details."
+    },
+    {
+      "$id": 399,
+      "style": 84,
+      "name": "Saika...This won't be easy!\nI hope you're prepared!"
+    },
+    {
+      "$id": 400,
+      "style": 84,
+      "name": "It'll be fine as long as Zeke looks out\nfor us with his Eye of Shining Justice."
+    },
+    {
+      "$id": 401,
+      "style": 84,
+      "name": "Your problems are now nothing\nmore than dust on the Purple\nLightning Dreamsmasher!"
+    },
+    {
+      "$id": 402,
+      "style": 84,
+      "name": "That's my Prince for you..."
+    },
+    {
+      "$id": 403,
+      "style": 84,
+      "name": "Saika... Hana not think this\nsound very good."
+    },
+    {
+      "$id": 404,
+      "style": 84,
+      "name": "I'm with you on that one, Hana."
+    },
+    {
+      "$id": 405,
+      "style": 84,
+      "name": "We're here to offer a helping hand."
+    },
+    {
+      "$id": 406,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Wow, she really knows how to project\nconfidence. I wish my Prince knew\nhow to do that...quietly."
+    },
+    {
+      "$id": 407,
+      "style": 84,
+      "name": "You all right there?!"
+    },
+    {
+      "$id": 408,
+      "style": 84,
+      "name": "Once my Prince busts in there with\nhis Ultimate Lightning Fury Slash,\nyour worries will be over. Probably."
+    },
+    {
+      "$id": 409,
+      "style": 84,
+      "name": "Hey, are you sure you're OK?"
+    },
+    {
+      "$id": 410,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I wish Zeke could show concern for\npeople like Rex does..."
+    },
+    {
+      "$id": 411,
+      "style": 84,
+      "name": "Something wrong maybe?"
+    },
+    {
+      "$id": 412,
+      "style": 84,
+      "name": "Something troublesome, I'll wager."
+    },
+    {
+      "$id": 413,
+      "style": 84,
+      "name": "Wadatsumi, I think we might have\nfound someone who can give us\nuseful information!"
+    },
+    {
+      "$id": 414,
+      "style": 84,
+      "name": "I can only hope you are correct."
+    },
+    {
+      "$id": 415,
+      "style": 84,
+      "name": "Worry not. Kagutsuchi and I will\nhandle this task without fail!"
+    },
+    {
+      "$id": 416,
+      "style": 84,
+      "name": "Well said. We will not disappoint."
+    },
+    {
+      "$id": 417,
+      "style": 84,
+      "name": "I feel our task has come to an end."
+    },
+    {
+      "$id": 418,
+      "style": 84,
+      "name": "Your efforts are much appreciated,\nWadatsumi."
+    },
+    {
+      "$id": 419,
+      "style": 84,
+      "name": "This is a really tough decision."
+    },
+    {
+      "$id": 420,
+      "style": 84,
+      "name": "Many and manifold are the\nburdens of leadership!"
+    },
+    {
+      "$id": 421,
+      "style": 84,
+      "name": "Wadatsumi, if it were your call,\nwhat would you do?"
+    },
+    {
+      "$id": 422,
+      "style": 84,
+      "name": "Can there be any doubt?\nWe must help those in need!"
+    },
+    {
+      "$id": 423,
+      "style": 84,
+      "name": "Just in the nick of time!"
+    },
+    {
+      "$id": 424,
+      "style": 84,
+      "name": "It's all right now. I will protect you."
+    },
+    {
+      "$id": 425,
+      "style": 84,
+      "name": "Please, do not concern yourself.\nIt is no problem at all."
+    },
+    {
+      "$id": 426,
+      "style": 84,
+      "name": "Such humility... You are more like\nNefer than you know, Wadatsumi."
+    },
+    {
+      "$id": 427,
+      "style": 84,
+      "name": "We have returned."
+    },
+    {
+      "$id": 428,
+      "style": 84,
+      "name": "Apologies for making you wait."
+    },
+    {
+      "$id": 429,
+      "style": 84,
+      "name": "Is this acceptable?"
+    },
+    {
+      "$id": 430,
+      "style": 84,
+      "name": "I should think so, Wadatsumi."
+    },
+    {
+      "$id": 431,
+      "style": 84,
+      "name": "With this, peace is restored to\nthe world once more!"
+    },
+    {
+      "$id": 432,
+      "style": 84,
+      "name": "Tora not sure it quite such a big deal..."
+    },
+    {
+      "$id": 433,
+      "style": 84,
+      "name": "I hear it! The cosmos calling out\nfor an ally of justice!"
+    },
+    {
+      "$id": 434,
+      "style": 84,
+      "name": "I don't hear any cosmic voices,\nmyself... Though the situation\ndoes sound unfortunate."
+    },
+    {
+      "$id": 435,
+      "style": 84,
+      "name": "This is a job for heroes like us.\nRight, Glen?"
+    },
+    {
+      "$id": 436,
+      "style": 84,
+      "name": "Yes! Leave it to us!\nJustice is certain to prevail!"
+    },
+    {
+      "$id": 437,
+      "style": 84,
+      "name": "Looks like we made it just in time..."
+    },
+    {
+      "$id": 438,
+      "style": 84,
+      "name": "Have no fear!\nThe upholders of justice are here!"
+    },
+    {
+      "$id": 439,
+      "style": 84,
+      "name": "On the wings of justice, we've\nreturned from our mission!"
+    },
+    {
+      "$id": 440,
+      "style": 84,
+      "name": "Simmer down a bit, will you, Glen?"
+    },
+    {
+      "$id": 441,
+      "style": 84,
+      "name": "Wooargh!!! Tell us useful info!!!"
+    },
+    {
+      "$id": 442,
+      "style": 84,
+      "name": "Well, you heard the scary guy.\nYou should probably spill whatever\ninfo you've got, quick."
+    },
+    {
+      "$id": 443,
+      "style": 84,
+      "name": "Wooorgh!\nHow are you?!"
+    },
+    {
+      "$id": 444,
+      "style": 84,
+      "name": "Don't be scared... He's just\ntrying to say hello."
+    },
+    {
+      "$id": 445,
+      "style": 84,
+      "name": "No need for worry.\nJikarao take care of this easy!"
+    },
+    {
+      "$id": 446,
+      "style": 84,
+      "name": "Woooargh!!!\nLet me at it!!!"
+    },
+    {
+      "$id": 447,
+      "style": 84,
+      "name": "Woorgh! Raargh!\nEverything's fine now!!!"
+    },
+    {
+      "$id": 448,
+      "style": 84,
+      "name": "Heheheh... That's right, Jikarao.\nEverything's taken care of."
+    },
+    {
+      "$id": 449,
+      "style": 84,
+      "name": "I will help you! Understand?!\nMe!!! Help you!!!"
+    },
+    {
+      "$id": 450,
+      "style": 84,
+      "name": "I'm right behind you there, Jikarao.\nLet's help out!"
+    },
+    {
+      "$id": 451,
+      "style": 84,
+      "name": "It'll be tough, but we gotta do this.\nVasara... Remember what I said\nabout teamwork this time."
+    },
+    {
+      "$id": 452,
+      "style": 84,
+      "name": "It's inscribed on my heart, my liege."
+    },
+    {
+      "$id": 453,
+      "style": 84,
+      "name": "Our task is done."
+    },
+    {
+      "$id": 454,
+      "style": 84,
+      "name": "And with a minimum of effort, thanks\nto your sterling support, Vasara."
+    },
+    {
+      "$id": 455,
+      "style": 84,
+      "name": "Yo, Vasara. What do you think\nwe should do?"
+    },
+    {
+      "$id": 456,
+      "style": 84,
+      "name": "I trust your judgment."
+    },
+    {
+      "$id": 457,
+      "style": 84,
+      "name": "Vasara... Maybe you and the guys\ncould look into this?"
+    },
+    {
+      "$id": 458,
+      "style": 84,
+      "name": "Yes, my liege!"
+    },
+    {
+      "$id": 459,
+      "style": 84,
+      "name": "My furry companion may\nhave something for you."
+    },
+    {
+      "$id": 460,
+      "style": 84,
+      "name": "Mehmeh!\nWhere did Tora put it..."
+    },
+    {
+      "$id": 461,
+      "style": 84,
+      "name": "Something up...?"
+    },
+    {
+      "$id": 462,
+      "style": 84,
+      "name": "It sounds more serious than\nyour everyday chit-chat.\nLet's hear the details."
+    },
+    {
+      "$id": 463,
+      "style": 84,
+      "name": "Meleph, this topic has caught my interest."
+    },
+    {
+      "$id": 464,
+      "style": 84,
+      "name": "Yes... We must hear more."
+    },
+    {
+      "$id": 465,
+      "style": 84,
+      "name": "Yuou'll make light work of this.\nHe's a guy to count on."
+    },
+    {
+      "$id": 466,
+      "style": 84,
+      "name": "Ha! Well, I couldn't do it without you,\nZeke. But I won't let you down!"
+    },
+    {
+      "$id": 467,
+      "style": 84,
+      "name": "Yuou, what do you think?"
+    },
+    {
+      "$id": 468,
+      "style": 84,
+      "name": "We have to help. I'd say we're\nthe only ones who can!"
+    },
+    {
+      "$id": 469,
+      "style": 84,
+      "name": "Are you sure you're all right?"
+    },
+    {
+      "$id": 470,
+      "style": 84,
+      "name": "Tell Yuou if you have problem!\nMaybe he help!"
+    },
+    {
+      "$id": 471,
+      "style": 84,
+      "name": "Greetings, commoner. I wish to be\namused with some diverting stories of\nlife as a member of the common herd."
+    },
+    {
+      "$id": 472,
+      "style": 84,
+      "name": "Erm... He means, \"Hi\"."
+    },
+    {
+      "$id": 473,
+      "style": 84,
+      "name": "It seems rather beneath my station\nto handle such a menial task..."
+    },
+    {
+      "$id": 474,
+      "style": 84,
+      "name": "Come now, Kubira... Is it not the duty\nof a ruler to solve the problems of the\npeople? We will take care of it."
+    },
+    {
+      "$id": 475,
+      "style": 84,
+      "name": "Honestly, it wasn't even all that difficult."
+    },
+    {
+      "$id": 476,
+      "style": 84,
+      "name": "Thanks to my regal grace, no doubt!\nBe grateful, commoners."
+    },
+    {
+      "$id": 477,
+      "style": 84,
+      "name": "Meh-meh! What should Tora do?\nThinking making head hurt!"
+    },
+    {
+      "$id": 478,
+      "style": 84,
+      "name": "Commoner, do you not know there\nis no baser folly than indecision?"
+    },
+    {
+      "$id": 479,
+      "style": 84,
+      "name": "This task seems beneath me.\nLet the common Blades handle it."
+    },
+    {
+      "$id": 480,
+      "style": 84,
+      "name": "Sure, sure... We'll accept it for now,\nand figure out who to assign later.\nNot ruling you out yet, Kubira!"
+    },
+    {
+      "$id": 481,
+      "style": 84,
+      "name": "Heard any juicy rumors lately?"
+    },
+    {
+      "$id": 482,
+      "style": 84,
+      "name": "A juicy rumor? Where? I'd eat\nthat in a baguette, with loads of\nketchup!"
+    },
+    {
+      "$id": 483,
+      "style": 84,
+      "name": "This is the kind of job I could\njust swallow whole!"
+    },
+    {
+      "$id": 484,
+      "style": 84,
+      "name": "I'm sure you can handle it, Idaten.\nBut let's try and keep the snack breaks\nin check this time, yeah?"
+    },
+    {
+      "$id": 485,
+      "style": 84,
+      "name": "Man, what a bitter situation."
+    },
+    {
+      "$id": 486,
+      "style": 84,
+      "name": "Bitter situations? I don't like 'em!\nBut I'll still eat 'em!"
+    },
+    {
+      "$id": 487,
+      "style": 84,
+      "name": "We can handle this.\nIsn't that right, Idaten?"
+    },
+    {
+      "$id": 488,
+      "style": 84,
+      "name": "I'll do anything for a tasty treat!"
+    },
+    {
+      "$id": 489,
+      "style": 84,
+      "name": "Much thanks! Tora want to give ten\nTasty Sausages to show gratitude!"
+    },
+    {
+      "$id": 490,
+      "style": 84,
+      "name": "That's the kind of display of gratitude\nthat I like!"
+    },
+    {
+      "$id": 491,
+      "style": 84,
+      "name": "Is there something troubling you?\nMaybe you've fallen head-over-heels\nin love with me? If so, I'm sorry, but..."
+    },
+    {
+      "$id": 492,
+      "style": 84,
+      "name": "I don't think that's quite what's\ngoing on here. Something is\nbothering you though, yeah?"
+    },
+    {
+      "$id": 493,
+      "style": 84,
+      "name": "Hi there! I'm feeling pretty great today.\nYou can tell by how cute I look, see?"
+    },
+    {
+      "$id": 494,
+      "style": 84,
+      "name": "Tora feeling extra good too!\nLike eaten 100 Tasty Sausages!\n...But maybe we should let friend talk."
+    },
+    {
+      "$id": 495,
+      "style": 84,
+      "name": "A problem safely resolved...\nall thanks to Hotaru here!"
+    },
+    {
+      "$id": 496,
+      "style": 84,
+      "name": "Teehee... You're making me blush."
+    },
+    {
+      "$id": 497,
+      "style": 84,
+      "name": "Ah, this is a real mess.\nHotaru, what do you reckon?"
+    },
+    {
+      "$id": 498,
+      "style": 84,
+      "name": "Um, I'm not too sure myself.\nBut I trust your judgment, Nia."
+    },
+    {
+      "$id": 499,
+      "style": 84,
+      "name": "You can leave this to us!\nRight, Hotaru?"
+    },
+    {
+      "$id": 500,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Oh, Rex. Do you ever see a\ntroublesome situation and NOT\nget us all mixed up in it...?"
+    },
+    {
+      "$id": 501,
+      "style": 84,
+      "name": "We need you to fill our ears with the\nlatest gossip! Oh, that reminds me.\nTora...where do Nopon keep their ears?"
+    },
+    {
+      "$id": 502,
+      "style": 84,
+      "name": "This wing-thing actually have ear\nfunction! But right now should be\nlistening to gossip, not to Tora!"
+    },
+    {
+      "$id": 503,
+      "style": 84,
+      "name": "Come on, let's take care of it, Rex!\nOh, but we should buy a lucky charm\nfirst. Can never be too careful!"
+    },
+    {
+      "$id": 504,
+      "style": 84,
+      "name": "Erm...I'd rather skip the lucky charm bit\nand get started now, if it's all the same."
+    },
+    {
+      "$id": 505,
+      "style": 84,
+      "name": "Why, that's terrible!\nWe should try to alleviate the\nsituation with some lucky charms!"
+    },
+    {
+      "$id": 506,
+      "style": 84,
+      "name": "Kasane... I'm not sure that will get to\nthe root of the problem..."
+    },
+    {
+      "$id": 507,
+      "style": 84,
+      "name": "We're here to help!\nYou're down with that, right, Meleph?"
+    },
+    {
+      "$id": 508,
+      "style": 84,
+      "name": "Indeed. The kindness in your heart,\nat least, will not lead us astray."
+    },
+    {
+      "$id": 509,
+      "style": 84,
+      "name": "Zeke... We've got to do something\nto help!"
+    },
+    {
+      "$id": 510,
+      "style": 84,
+      "name": "Sure thing.\nWe've got the manpower for it."
+    },
+    {
+      "$id": 511,
+      "style": 84,
+      "name": "Mikumari, you look like you're about\nto explode with curiosity."
+    },
+    {
+      "$id": 512,
+      "style": 84,
+      "name": "I can't deny it!\nI want to hear all the details!"
+    },
+    {
+      "$id": 513,
+      "style": 84,
+      "name": "This doesn't sound like an easy task..."
+    },
+    {
+      "$id": 514,
+      "style": 84,
+      "name": "Really? I think it'll be a breeze if\nthe two of us work together!"
+    },
+    {
+      "$id": 515,
+      "style": 84,
+      "name": "Hardly the toughest job we've\never faced, was it, Rex?"
+    },
+    {
+      "$id": 516,
+      "style": 84,
+      "name": "Thanks to you, it was a cinch!\nI mean, and to everyone else too..."
+    },
+    {
+      "$id": 517,
+      "style": 84,
+      "name": "This is right up our street!\nMy whole body's itching to get\nstuck in and sort everything out!"
+    },
+    {
+      "$id": 518,
+      "style": 84,
+      "name": "Yeah, I can feel my Eye of Shining\nJustice tingling with anticipation too."
+    },
+    {
+      "$id": 519,
+      "style": 84,
+      "name": "You are safe now! Leave this to us!"
+    },
+    {
+      "$id": 520,
+      "style": 84,
+      "name": "And that's the Flamebringer talking,\nso you know she means it!"
+    },
+    {
+      "$id": 521,
+      "style": 84,
+      "name": "Hmmm...? Is something up?"
+    },
+    {
+      "$id": 522,
+      "style": 84,
+      "name": "Go on, Rex.\nFind out what this is about."
+    },
+    {
+      "$id": 523,
+      "style": 84,
+      "name": "We've got this one covered!\nWe'll sort everything out in a jif.\nRight, Seori?"
+    },
+    {
+      "$id": 524,
+      "style": 84,
+      "name": "Yes. We'll give it our all."
+    },
+    {
+      "$id": 525,
+      "style": 84,
+      "name": "This is a difficult problem..."
+    },
+    {
+      "$id": 526,
+      "style": 84,
+      "name": "Indeed. But that is precisely why\nwe must remain calm and consider\nit carefully."
+    },
+    {
+      "$id": 527,
+      "style": 84,
+      "name": "Seori... I think we should help,\ndon't you?"
+    },
+    {
+      "$id": 528,
+      "style": 84,
+      "name": "I agree..."
+    },
+    {
+      "$id": 529,
+      "style": 84,
+      "name": "Hmmm... What d'you think, Seori?"
+    },
+    {
+      "$id": 530,
+      "style": 84,
+      "name": "I'm a little concerned.\nAre you all right?"
+    },
+    {
+      "$id": 531,
+      "style": 84,
+      "name": "It is precisely in times of difficulty\nthat we must work together.\nOnward!"
+    },
+    {
+      "$id": 532,
+      "style": 84,
+      "name": "Well said, Tokiha!\nI know you can do this!\nNo...WE can do this!"
+    },
+    {
+      "$id": 533,
+      "style": 84,
+      "name": "I guess we can rest easy now.\nRight, Tokiha?"
+    },
+    {
+      "$id": 534,
+      "style": 84,
+      "name": "I'm just glad we could be of some use!"
+    },
+    {
+      "$id": 535,
+      "style": 84,
+      "name": "Tokiha. The time for us to help\nthose in need is at hand."
+    },
+    {
+      "$id": 536,
+      "style": 84,
+      "name": "Indeed. I'll give it my all, body and soul!"
+    },
+    {
+      "$id": 537,
+      "style": 84,
+      "name": "Hahah! You really think that would\nbe a problem for the Zekenator?!"
+    },
+    {
+      "$id": 538,
+      "style": 84,
+      "name": "Zeke, maybe it's not my place to say,\nbut you could try to show just a little\nbit of humility sometimes?"
+    },
+    {
+      "$id": 539,
+      "style": 84,
+      "name": "Here is what you seek.\nWe offer it humbly."
+    },
+    {
+      "$id": 540,
+      "style": 84,
+      "name": "Tokiha very sophisticated sometimes...\nTora should model this behavior in\nnew subroutine for Hana..."
+    },
+    {
+      "$id": 541,
+      "style": 84,
+      "name": "Ooh, it sounds like there's something\nbothering you? Tell us everything!\nFrom the lowdown to the wild rumors!"
+    },
+    {
+      "$id": 542,
+      "style": 84,
+      "name": "We can probably skip the wild rumors..."
+    },
+    {
+      "$id": 543,
+      "style": 84,
+      "name": "I'm Zakuro! And I want all your gossip!\nAnd right after, you get all mine!"
+    },
+    {
+      "$id": 544,
+      "style": 84,
+      "name": "Zakuro... You might have to tell them\nabout your new haircut some other\ntime."
+    },
+    {
+      "$id": 545,
+      "style": 84,
+      "name": "Hey, how have you been, stranger?\nDoing good? Yeah, I bet.\nWell, as for me, I've been..."
+    },
+    {
+      "$id": 546,
+      "style": 84,
+      "name": "Zakuro! They don't need your\nlife story! We want to hear\nwhat they have to say..."
+    },
+    {
+      "$id": 547,
+      "style": 84,
+      "name": "Can you give us the relevant details?"
+    },
+    {
+      "$id": 548,
+      "style": 84,
+      "name": "Yeah, just the relevant details!\nNo unnecessary gossip at all!\nThough if you reeeeally want to..."
+    },
+    {
+      "$id": 549,
+      "style": 84,
+      "name": "Tora and friends handle this easy!\nWith Zakuro and Hana on job too,\nthere no way we can fail!"
+    },
+    {
+      "$id": 550,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  The little bag of fluff isn't filling me full\nof confidence for some reason..."
+    },
+    {
+      "$id": 551,
+      "style": 84,
+      "name": "Hey, Hikari, just a heads-up...\nI'm going to take care of this one\nso well, it'll make you look bad!"
+    },
+    {
+      "$id": 552,
+      "style": 84,
+      "name": "Hoping to show your Driver what\nyou can do? Well, so am I.\nHow about we both give it our all?"
+    },
+    {
+      "$id": 553,
+      "style": 84,
+      "name": "Well, that's that!"
+    },
+    {
+      "$id": 554,
+      "style": 84,
+      "name": "I for one will be sleeping a\nwhole lot better tonight!"
+    },
+    {
+      "$id": 555,
+      "style": 84,
+      "name": "At the hands of the Flamebringer,\nall troubles are swiftly reduced to ash!\nHeheheh..."
+    },
+    {
+      "$id": 556,
+      "style": 84,
+      "name": "Oh, she exaggerates..."
+    },
+    {
+      "$id": 557,
+      "style": 84,
+      "name": "Well, this does not sound like a whole\nbunch of fun, huh, Rex?"
+    },
+    {
+      "$id": 558,
+      "style": 84,
+      "name": "Yeah, it sounds pretty bad..."
+    },
+    {
+      "$id": 559,
+      "style": 84,
+      "name": "Hana... You're a big girl now.\nMaybe you know how to handle\nthis kind of thing?"
+    },
+    {
+      "$id": 560,
+      "style": 84,
+      "name": "As mature person, Hana know\nthat problem best solved by\nall discuss together."
+    },
+    {
+      "$id": 561,
+      "style": 84,
+      "name": "Ah, this is tough..."
+    },
+    {
+      "$id": 562,
+      "style": 84,
+      "name": "Rex, I just want to say, we're all 100%\nbehind you, because we like, trust you."
+    },
+    {
+      "$id": 563,
+      "style": 84,
+      "name": "Hey, Zeke. I bet your Eye of Shining\nJustice would take care of this in a\njiffy. Am I right?"
+    },
+    {
+      "$id": 564,
+      "style": 84,
+      "name": "Well...yeah...but because I'm so\nawesome, I can do this without even\nbusting out that forbidden power!"
+    },
+    {
+      "$id": 565,
+      "style": 84,
+      "name": "We'll have this right as rain\nin a jiffy! With a party like this,\nanything's possible!"
+    },
+    {
+      "$id": 566,
+      "style": 84,
+      "name": "Zakuro right! Tora and Zakuro and friends\ncan take care of this!"
+    },
+    {
+      "$id": 567,
+      "style": 84,
+      "name": "Zakuro, we can fix this if we work\ntogether, right?"
+    },
+    {
+      "$id": 568,
+      "style": 84,
+      "name": "Don't doubt it, girl! It'll be a great\nchance for catch-up and a gossip, too."
+    },
+    {
+      "$id": 569,
+      "style": 84,
+      "name": "Thank you most kindly."
+    },
+    {
+      "$id": 570,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I wish I could be as classy\nas Kagutsuchi..."
+    },
+    {
+      "$id": 571,
+      "style": 84,
+      "name": "Are you OK? Zeke's here to\nZekify you or whatever."
+    },
+    {
+      "$id": 572,
+      "style": 84,
+      "name": "Hahahah!\nSeriously though. Here to help."
+    },
+    {
+      "$id": 573,
+      "style": 84,
+      "name": "Is friend OK?"
+    },
+    {
+      "$id": 574,
+      "style": 84,
+      "name": " [ ML:Feeling kind=Think  ] Hana-chan's so kind and thoughtful... I hope\nshe stays that way as she grows up."
+    },
+    {
+      "$id": 575,
+      "style": 84,
+      "name": "It's no problem really."
+    },
+    {
+      "$id": 576,
+      "style": 84,
+      "name": "Oh, Rex! You're so charming\nwhen you act humble!"
+    },
+    {
+      "$id": 577,
+      "style": 84,
+      "name": "We're back! That wait must've been\npretty boring for you, huh?\nNice work toughing it out!"
+    },
+    {
+      "$id": 578,
+      "style": 84,
+      "name": "Not everyone finds inactivity quite\nas intolerable as you do, Zakuro."
+    },
+    {
+      "$id": 579,
+      "style": 84,
+      "name": "Here you go! You want this, right?\nNot going to be using it for\nanything mischievous, I hope?"
+    },
+    {
+      "$id": 580,
+      "style": 84,
+      "name": "I know you love gossip, Zakuro,\nbut you're reaching there."
+    },
+    {
+      "$id": 581,
+      "style": 84,
+      "name": "Yeah! Hey Hana, isn't this the kind of\nsituation where you'd say \"Meh-meh!\"\nor something?"
+    },
+    {
+      "$id": 582,
+      "style": 84,
+      "name": "Meaning of \"meh\" change with\ntonal variation. Zakuro just say\nsomething very rude."
+    },
+    {
+      "$id": 583,
+      "style": 84,
+      "name": "Hey, you got any info for us?\nActually, Azami, maybe you could use\nyour Clairvoyant Eye to find out..."
+    },
+    {
+      "$id": 584,
+      "style": 84,
+      "name": "No, thank you. I mostly try to save\nthat power for spying on my Driver's\ninnermost thoughts..."
+    },
+    {
+      "$id": 585,
+      "style": 84,
+      "name": "Tell us all the details. Everything.\nIf you leave anything out, I'll peer into\nyour very soul and find out for myself."
+    },
+    {
+      "$id": 586,
+      "style": 84,
+      "name": "You should watch out.\nI think she might actually be serious."
+    },
+    {
+      "$id": 587,
+      "style": 84,
+      "name": "My beloved Driver spent valuable\ntime fixing this mess for you. I think\na little gratitude is in order!"
+    },
+    {
+      "$id": 588,
+      "style": 84,
+      "name": "C'mon, Azami. You got to spend time\nwith your...beloved Driver...too,\nso it's all good, right?"
+    },
+    {
+      "$id": 589,
+      "style": 84,
+      "name": "Heheheh... It's somehow thrilling to\nsee my Driver look so perturbed."
+    },
+    {
+      "$id": 590,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I need to clear this up as soon\nas possible and save face..."
+    },
+    {
+      "$id": 591,
+      "style": 84,
+      "name": "Azami... You OK to help out, right?\nMaking very scary face..."
+    },
+    {
+      "$id": 592,
+      "style": 84,
+      "name": "If my beloved Driver desires it,\nI will of course assist."
+    },
+    {
+      "$id": 593,
+      "style": 84,
+      "name": "I think we need to hear some details.\nYou with me, Nanakoori?"
+    },
+    {
+      "$id": 594,
+      "style": 84,
+      "name": "Y-yes, I think so too."
+    },
+    {
+      "$id": 595,
+      "style": 84,
+      "name": "Nanakoori and Beary solve everything!\nIn battle, they like giants playing\nping-pong with enemy as ball!"
+    },
+    {
+      "$id": 596,
+      "style": 84,
+      "name": "We didn't really...do anything special..."
+    },
+    {
+      "$id": 597,
+      "style": 84,
+      "name": "...Rex?"
+    },
+    {
+      "$id": 598,
+      "style": 84,
+      "name": "Yeah... I know what you're about to say,\nNanakoori. Of course we'll take the job on."
+    },
+    {
+      "$id": 599,
+      "style": 84,
+      "name": "Um, um... Th-thank you."
+    },
+    {
+      "$id": 600,
+      "style": 84,
+      "name": "Sterling work, Nanakoori.\nIt's good to show gratitude."
+    },
+    {
+      "$id": 601,
+      "style": 84,
+      "name": "Are you...OK?"
+    },
+    {
+      "$id": 602,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Nanakoori gets shy in this kind of\nsituation...but she confronts it bravely."
+    },
+    {
+      "$id": 603,
+      "style": 84,
+      "name": "Hi there. Good to see you."
+    },
+    {
+      "$id": 604,
+      "style": 84,
+      "name": "Tora happy to see Newt too!\n...Wait, Newt not talking to Tora.\nNow Tora embarrassed."
+    },
+    {
+      "$id": 605,
+      "style": 84,
+      "name": "Hmm, this is a tough situation.\nI say we just get out there, and\npound this problem to a pulp!"
+    },
+    {
+      "$id": 606,
+      "style": 84,
+      "name": "Well, that's...one way of handling it."
+    },
+    {
+      "$id": 607,
+      "style": 84,
+      "name": "Are you OK? I'll lend you\nmy arms if you like..."
+    },
+    {
+      "$id": 608,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Hang on, are those things\ndetachable?"
+    },
+    {
+      "$id": 609,
+      "style": 84,
+      "name": "That is quite all right, I assure you.\nI am sure my companions would\nsay the same."
+    },
+    {
+      "$id": 610,
+      "style": 84,
+      "name": "Meleph has such great manners...\nI should try to follow her example."
+    },
+    {
+      "$id": 611,
+      "style": 84,
+      "name": "That'll do it!"
+    },
+    {
+      "$id": 612,
+      "style": 84,
+      "name": "Yup. Let's get going!"
+    },
+    {
+      "$id": 613,
+      "style": 84,
+      "name": "Meleph-san... This person smells like they're\nripe with useful info!"
+    },
+    {
+      "$id": 614,
+      "style": 84,
+      "name": "Really? Then we should hear them out."
+    },
+    {
+      "$id": 615,
+      "style": 84,
+      "name": "We can take care of this easily!\nSee, even Kit and Sunny are up for it!"
+    },
+    {
+      "$id": 616,
+      "style": 84,
+      "name": "Well, that's good to hear.\nLet's do it together!"
+    },
+    {
+      "$id": 617,
+      "style": 84,
+      "name": "Ah, what a mess.\nUka, what do you think?"
+    },
+    {
+      "$id": 618,
+      "style": 84,
+      "name": "Kit's saying one thing, Sunny's saying\nsomething else... So I have no idea!"
+    },
+    {
+      "$id": 619,
+      "style": 84,
+      "name": "We've got to help.\nI feel it in my bones!"
+    },
+    {
+      "$id": 620,
+      "style": 84,
+      "name": "Tora trust Uka's instincts!\nLet's do job!"
+    },
+    {
+      "$id": 621,
+      "style": 84,
+      "name": "Hey, thanks for waiting.\nAs you can see, we're back."
+    },
+    {
+      "$id": 622,
+      "style": 84,
+      "name": "You make it sound so easy, Uka.\nIt was actually pretty hard work!"
+    },
+    {
+      "$id": 623,
+      "style": 84,
+      "name": "I wonder if this person's got any\nuseful info for us..."
+    },
+    {
+      "$id": 624,
+      "style": 84,
+      "name": "Useful information pleases us.\nBut only that which is provided for free.\nWe do not approve of extortion."
+    },
+    {
+      "$id": 625,
+      "style": 84,
+      "name": "A detailed explanation may be in order."
+    },
+    {
+      "$id": 626,
+      "style": 84,
+      "name": "Are you certain? Once we hear the\ndetails, there's no going back..."
+    },
+    {
+      "$id": 627,
+      "style": 84,
+      "name": "A happy conclusion. Now, for our\nreward - will it be mountains of riches?\nOr a lovely maiden's hand in marriage?"
+    },
+    {
+      "$id": 628,
+      "style": 84,
+      "name": "Linne... Shut it!"
+    },
+    {
+      "$id": 629,
+      "style": 84,
+      "name": "We shall offer our assistance,\nfor the price of 200 thousand G."
+    },
+    {
+      "$id": 630,
+      "style": 84,
+      "name": "Linne... Be serious.\nDon't worry, we're here to help,\nnot to empty your wallet."
+    },
+    {
+      "$id": 631,
+      "style": 84,
+      "name": "A little compensation in hard cash\nwould not go amiss."
+    },
+    {
+      "$id": 632,
+      "style": 84,
+      "name": "Mehmeh! Linne never stop\nthinking of money..."
+    },
+    {
+      "$id": 633,
+      "style": 84,
+      "name": "Hello there!\nWhy don't we have a chat\nover a few tasty dumplings?"
+    },
+    {
+      "$id": 634,
+      "style": 84,
+      "name": "Musubi... You really should check\nif people are hungry before you\noffer them food."
+    },
+    {
+      "$id": 635,
+      "style": 84,
+      "name": "Everything went so smoothly\nthanks to Meleph-san here.\nI hardly had to do a thing."
+    },
+    {
+      "$id": 636,
+      "style": 84,
+      "name": "I'm sorry if I stole your thunder,\nMusubi. I'll be sure to put you on\nthe front lines next time!"
+    },
+    {
+      "$id": 637,
+      "style": 84,
+      "name": "This might be a bit of a challenge.\nBut you'll give it your all, right, Tora?"
+    },
+    {
+      "$id": 638,
+      "style": 84,
+      "name": "Meh-meh-meh?! What about Musubi?\nMusubi need to help out too!"
+    },
+    {
+      "$id": 639,
+      "style": 84,
+      "name": "Cheers and stuff."
+    },
+    {
+      "$id": 640,
+      "style": 84,
+      "name": "Nia... Can't you say thank-you\nproperly?"
+    },
+    {
+      "$id": 641,
+      "style": 84,
+      "name": "Here you go!\nA tasty dumpling, just for you!"
+    },
+    {
+      "$id": 642,
+      "style": 84,
+      "name": "Erm...Musubi? That's not what we're\nmeant to be handing over. ...Here,\nthis is what she meant to give you."
+    },
+    {
+      "$id": 643,
+      "style": 84,
+      "name": "Rex! My scientific curiosity is tingling!\nI need you to extract all the details,\nright now!"
+    },
+    {
+      "$id": 644,
+      "style": 84,
+      "name": "Y-yeah, OK. Let's hear it.\nJust...try to maybe tone down\nthe excitement a little, Shiki."
+    },
+    {
+      "$id": 645,
+      "style": 84,
+      "name": "Well...I suppose that's another job\nover and done with. *sigh*"
+    },
+    {
+      "$id": 646,
+      "style": 84,
+      "name": "Shiki...you could act a little more\npleased that the problem is solved."
+    },
+    {
+      "$id": 647,
+      "style": 84,
+      "name": "Ooh...! That sounds really intriguing!\nI mean, really terrible!"
+    },
+    {
+      "$id": 648,
+      "style": 84,
+      "name": "Shiki... You have literally\nno tact, do you? I guess that's\nkind of your schtick..."
+    },
+    {
+      "$id": 649,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Heheheh... Helping out here will\nsurely yield results of priceless\nscientific value!"
+    },
+    {
+      "$id": 650,
+      "style": 84,
+      "name": "...Please ignore creepy smile\nof Shiki. We help out."
+    },
+    {
+      "$id": 651,
+      "style": 84,
+      "name": "Are you OK? Tell me what the\nproblem is. If it's interesting enough,\nI might make it an object of study."
+    },
+    {
+      "$id": 652,
+      "style": 84,
+      "name": "Honestly, Shiki, I'm starting\nto worry about you too.\n...Seriously though, you all right?"
+    },
+    {
+      "$id": 653,
+      "style": 84,
+      "name": "You got a minute to talk?"
+    },
+    {
+      "$id": 654,
+      "style": 84,
+      "name": "We want to hear any gossip\nyou might have."
+    },
+    {
+      "$id": 655,
+      "style": 84,
+      "name": "Raiko... I may require your\nassistance with this task."
+    },
+    {
+      "$id": 656,
+      "style": 84,
+      "name": "Anything I can do to help, Meleph-san!"
+    },
+    {
+      "$id": 657,
+      "style": 84,
+      "name": "There's not a problem in the world\nthat can't be fixed with a good stare\nfrom the Eye of Shining Justice!"
+    },
+    {
+      "$id": 658,
+      "style": 84,
+      "name": "Great! You can handle the next\njob all by yourself then, Zeke!"
+    },
+    {
+      "$id": 659,
+      "style": 84,
+      "name": "We can't just stand by and do\nnothing. Let's take care of this.\nRaiko, are you with me?"
+    },
+    {
+      "$id": 660,
+      "style": 84,
+      "name": "I'll do everything in my power!\nMind you don't get zapped by\nmy lightning, Rex!"
+    },
+    {
+      "$id": 661,
+      "style": 84,
+      "name": "Ah... Are you OK?"
+    },
+    {
+      "$id": 662,
+      "style": 84,
+      "name": "Meh-meh... Worry-worry..."
+    },
+    {
+      "$id": 663,
+      "style": 84,
+      "name": "I want to hear any gossip you have.\nBut keep it as brief as you can.\nMy attention span's not up to much!"
+    },
+    {
+      "$id": 664,
+      "style": 84,
+      "name": "No, please take your time.\nDetails are important."
+    },
+    {
+      "$id": 665,
+      "style": 84,
+      "name": "Well, we sorted that one out\ngood and proper!"
+    },
+    {
+      "$id": 666,
+      "style": 84,
+      "name": "Yeah! Can we do a mission with\nmore terrifying enemies to fight\nnext time, though?"
+    },
+    {
+      "$id": 667,
+      "style": 84,
+      "name": "Turned out to be pretty easy.\nEspecially with Yaegiri's help."
+    },
+    {
+      "$id": 668,
+      "style": 84,
+      "name": "Easy is right! I nearly passed\nout from the boredom..."
+    },
+    {
+      "$id": 669,
+      "style": 84,
+      "name": "This sounds like a pretty boring job...\nI know! I'll get the other Blades to do it!"
+    },
+    {
+      "$id": 670,
+      "style": 84,
+      "name": "At least pretend to have a little\ntact, would you? Don't worry,\nwe'll take the job."
+    },
+    {
+      "$id": 671,
+      "style": 84,
+      "name": "Hey! Are you OK?!\nI'll clear those nasties out in a jiffy!"
+    },
+    {
+      "$id": 672,
+      "style": 84,
+      "name": "Yaegiri very strong so no need\nfor worrying!"
+    },
+    {
+      "$id": 673,
+      "style": 84,
+      "name": "Oh hey, you're...uhm...Doddi Blodson...\nNo, Diddi Bladsod...Denni Blimstaff...\nWell, good to see you!"
+    },
+    {
+      "$id": 674,
+      "style": 84,
+      "name": "Friend not worry. Ibuki always get\nname of everyone wrong. Anyway,\nwas something bothering friend?"
+    },
+    {
+      "$id": 675,
+      "style": 84,
+      "name": "I think we need to hear some\ndetails, don't we, Ibuki?"
+    },
+    {
+      "$id": 676,
+      "style": 84,
+      "name": "Yep! Of course, I'll have forgotten\neverything in about five minutes,\nbut I still wanna hear."
+    },
+    {
+      "$id": 677,
+      "style": 84,
+      "name": "You and me got this one covered,\ndon't we, Nina?"
+    },
+    {
+      "$id": 678,
+      "style": 84,
+      "name": "Sure, Ibuki. We can handle it\nif we work together!\nJust one thing...my name's Nia."
+    },
+    {
+      "$id": 679,
+      "style": 84,
+      "name": "Morodge! Sounds like something fun's\ngoing down!"
+    },
+    {
+      "$id": 680,
+      "style": 84,
+      "name": "I don't know about fun...but I do\nbelieve we can help. And for the\nlast time, my name is Meleph!"
+    },
+    {
+      "$id": 681,
+      "style": 84,
+      "name": "Hahahah! A problem like this is\nnothing for the Finchinator!\n...How's my impression of you, Zeke?"
+    },
+    {
+      "$id": 682,
+      "style": 84,
+      "name": "Really. That's not how I talk.\nI'm about 500% more bombastic\nthan that!"
+    },
+    {
+      "$id": 683,
+      "style": 84,
+      "name": "Nothing's too difficult with you\naround, KOS-MOS RE: Re:! Right?"
+    },
+    {
+      "$id": 684,
+      "style": 84,
+      "name": "Affirmative. I will function to\nthe extent of my abilities."
+    },
+    {
+      "$id": 685,
+      "style": 84,
+      "name": "Every job seems easy with\nKOS-MOS RE: Re: helping out."
+    },
+    {
+      "$id": 686,
+      "style": 84,
+      "name": "Affirmative. Performance evaluation\nreveals a high level of efficiency."
+    },
+    {
+      "$id": 687,
+      "style": 84,
+      "name": "That sounds quite unfortunate...\nKOS-MOS RE: Re:, what do you think?"
+    },
+    {
+      "$id": 688,
+      "style": 84,
+      "name": "I concur."
+    },
+    {
+      "$id": 689,
+      "style": 84,
+      "name": "Don't worry, we'll handle this.\nWith a success rate of 500%!"
+    },
+    {
+      "$id": 690,
+      "style": 84,
+      "name": "I calculate the actual likelihood\nof Zeke being successful to be\napproximately 54.678034%."
+    },
+    {
+      "$id": 691,
+      "style": 84,
+      "name": "Tora and friends all back!"
+    },
+    {
+      "$id": 692,
+      "style": 84,
+      "name": "Reporting in. Task accomplished."
+    },
+    {
+      "$id": 693,
+      "style": 84,
+      "name": "Hey, Ten'i. Time to turn the charm on.\nGo on, give 'em your best smile!"
+    },
+    {
+      "$id": 694,
+      "style": 84,
+      "name": "...Greetings."
+    },
+    {
+      "$id": 695,
+      "style": 84,
+      "name": "With Ten'i in tow, we'll have this\nZekenated in no time."
+    },
+    {
+      "$id": 696,
+      "style": 84,
+      "name": "Agreed. Let's not overdo it, though..."
+    },
+    {
+      "$id": 697,
+      "style": 84,
+      "name": "Ten'i... Give me your counsel.\nThis task is within our power, I hope?"
+    },
+    {
+      "$id": 698,
+      "style": 84,
+      "name": "Indeed, my Lady.\nI will not let you down."
+    },
+    {
+      "$id": 699,
+      "style": 84,
+      "name": "Ten'i want to help out?"
+    },
+    {
+      "$id": 700,
+      "style": 84,
+      "name": "I have no particular desire to take this\nmission, but I will do as I am ordered."
+    },
+    {
+      "$id": 701,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I want to offer emotional support,\nbut people are usually scared of me...\nI'd better leave it to Rex."
+    },
+    {
+      "$id": 702,
+      "style": 84,
+      "name": "Are you all right?"
+    },
+    {
+      "$id": 703,
+      "style": 84,
+      "name": "Somethin' wrong, hon?\nAnything we can help you out with?"
+    },
+    {
+      "$id": 704,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Tsuki is extraordinarily\nempathic at times..."
+    },
+    {
+      "$id": 705,
+      "style": 84,
+      "name": "Could you fill us in on the\ndetails, darlin'?"
+    },
+    {
+      "$id": 706,
+      "style": 84,
+      "name": "Tora want to hear too!"
+    },
+    {
+      "$id": 707,
+      "style": 84,
+      "name": "Ah...I gotta make the right call here."
+    },
+    {
+      "$id": 708,
+      "style": 84,
+      "name": "Aw, hon, don't get too worked\nup over it. I'm sure whatever you\ndecide'll be dandy."
+    },
+    {
+      "$id": 709,
+      "style": 84,
+      "name": "Shucks, one o' us lot can take care\no' that, don't you worry, hon."
+    },
+    {
+      "$id": 710,
+      "style": 84,
+      "name": "Tsuki, you're my kind of gal."
+    },
+    {
+      "$id": 711,
+      "style": 84,
+      "name": "Why, thank ya kindly!\n...Did I say it right, Tsuki?"
+    },
+    {
+      "$id": 712,
+      "style": 84,
+      "name": "You're a real fast learner, hon."
+    },
+    {
+      "$id": 713,
+      "style": 84,
+      "name": "If you know anything useful,\nspit it out. And on the double!"
+    },
+    {
+      "$id": 714,
+      "style": 84,
+      "name": "Mei... You're overdoing\nthe menace a bit there..."
+    },
+    {
+      "$id": 715,
+      "style": 84,
+      "name": "You want my honest opinion?\nI've had more exciting jobs."
+    },
+    {
+      "$id": 716,
+      "style": 84,
+      "name": "Every job just too easy for\nTora and friends!"
+    },
+    {
+      "$id": 717,
+      "style": 84,
+      "name": "Hahah...\nAn amusing twist of fate."
+    },
+    {
+      "$id": 718,
+      "style": 84,
+      "name": "I don't think that's a very\nappropriate comment, Mei..."
+    },
+    {
+      "$id": 719,
+      "style": 84,
+      "name": "If you beg for assistance,\nwe might be willing to help..."
+    },
+    {
+      "$id": 720,
+      "style": 84,
+      "name": "Mei... C'mon.\nLet's just...help out."
+    },
+    {
+      "$id": 721,
+      "style": 84,
+      "name": "Hah... As if I care."
+    },
+    {
+      "$id": 722,
+      "style": 84,
+      "name": "You never do like to show weakness,\ndo you, Mei?"
+    },
+    {
+      "$id": 723,
+      "style": 84,
+      "name": "I'm pretty intrigued right now.\nZeke, don't you want to hear\nthe details?"
+    },
+    {
+      "$id": 724,
+      "style": 84,
+      "name": "Yeah. The Zekenator's ears\nare like...hungry mouths.\nUh, metaphorically speaking."
+    },
+    {
+      "$id": 725,
+      "style": 84,
+      "name": "Meno just the kind of skilled\nBlade can pull this off!"
+    },
+    {
+      "$id": 726,
+      "style": 84,
+      "name": "Yeah! Let's do it! Oh...but if we come\nacross any creepy-crawlies, I'll let you\nhandle that, Tora."
+    },
+    {
+      "$id": 727,
+      "style": 84,
+      "name": "I'd like to help, but I dunno..."
+    },
+    {
+      "$id": 728,
+      "style": 84,
+      "name": "It's OK! If we all pitch in, we can do it!"
+    },
+    {
+      "$id": 729,
+      "style": 84,
+      "name": "We managed to get this thanks\nto everyone's efforts!"
+    },
+    {
+      "$id": 730,
+      "style": 84,
+      "name": "Indeed. Here, you may have the spoils."
+    },
+    {
+      "$id": 731,
+      "style": 84,
+      "name": "Yeah!"
+    },
+    {
+      "$id": 732,
+      "style": 84,
+      "name": "Very good."
+    },
+    {
+      "$id": 733,
+      "style": 84,
+      "name": "Graagh! Give it up!"
+    },
+    {
+      "$id": 734,
+      "style": 84,
+      "name": "What he means to say is, we would\nappreciate it if you could share any\nuseful information you may have."
+    },
+    {
+      "$id": 735,
+      "style": 84,
+      "name": "Heheheh...\nI can't wait to strike this problem\ndown with deadly force."
+    },
+    {
+      "$id": 736,
+      "style": 84,
+      "name": "That's great and all, but do you have\nto make it sound so...dastardly?"
+    },
+    {
+      "$id": 737,
+      "style": 84,
+      "name": "Here. Take it quick,\nbefore I eat it!"
+    },
+    {
+      "$id": 738,
+      "style": 84,
+      "name": "Zantetsu...you wouldn't actually eat\nit after all the trouble we went to\nto get it, would you?"
+    },
+    {
+      "$id": 739,
+      "style": 84,
+      "name": "All right! That's that, then!"
+    },
+    {
+      "$id": 740,
+      "style": 84,
+      "name": "I tire of these minor tasks..."
+    },
+    {
+      "$id": 741,
+      "style": 84,
+      "name": "Tell me your woes, your hopes\nand dreams. Drama is the muse\non which my writing depends!"
+    },
+    {
+      "$id": 742,
+      "style": 84,
+      "name": "Can you not just ask \"Is something\nwrong?\" like a normal person...?"
+    },
+    {
+      "$id": 743,
+      "style": 84,
+      "name": "I trust you are well? Me and my\nstrange companion here would\nlike to converse with you."
+    },
+    {
+      "$id": 744,
+      "style": 84,
+      "name": "Watch who you're calling strange!\nBut yeah, we were wondering if you\nhad anything fun to talk about."
+    },
+    {
+      "$id": 745,
+      "style": 84,
+      "name": "I'd love to help! I was thinking of\nwriting a scene just like this, so\nthis will be the perfect inspiration!"
+    },
+    {
+      "$id": 746,
+      "style": 84,
+      "name": "Your motives might not be pure,\nbut I suppose if the job gets done..."
+    },
+    {
+      "$id": 747,
+      "style": 84,
+      "name": "We're back!"
+    },
+    {
+      "$id": 748,
+      "style": 84,
+      "name": "Ah, a dramatic reunion."
+    },
+    {
+      "$id": 749,
+      "style": 84,
+      "name": "Well, that's that taken care of!\nThanks for helping out with that,\nBenkei!"
+    },
+    {
+      "$id": 750,
+      "style": 84,
+      "name": "Yeah, whatever."
+    },
+    {
+      "$id": 751,
+      "style": 84,
+      "name": "Meleph. You take care of this."
+    },
+    {
+      "$id": 752,
+      "style": 84,
+      "name": "Excuse me?! This hardly seems a job\nfor me alone... But I feel certain we\nhave people who can handle it."
+    },
+    {
+      "$id": 753,
+      "style": 84,
+      "name": "Go on now, Benkei.\nSay thank you."
+    },
+    {
+      "$id": 754,
+      "style": 84,
+      "name": "Hmph... How about you say it yourself?"
+    },
+    {
+      "$id": 755,
+      "style": 84,
+      "name": "You OK there?!"
+    },
+    {
+      "$id": 756,
+      "style": 84,
+      "name": "No need to get so worried."
+    },
+    {
+      "$id": 757,
+      "style": 84,
+      "name": "What's up? Something the matter?\nYou can tell Mik."
+    },
+    {
+      "$id": 758,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  He can be a little overfamiliar at times..."
+    },
+    {
+      "$id": 759,
+      "style": 84,
+      "name": "Mik, this is just the kind of task that\na pair of wild-eyed riders of the storm\nlike us eat for breakfast, right?"
+    },
+    {
+      "$id": 760,
+      "style": 84,
+      "name": "Zeke, with you as my wingman,\nanything is possible!"
+    },
+    {
+      "$id": 761,
+      "style": 84,
+      "name": "Meleph... Has anyone ever told you\nthat you look hot when you're\nstruggling to decide something?"
+    },
+    {
+      "$id": 762,
+      "style": 84,
+      "name": "This is not the time for jokes."
+    },
+    {
+      "$id": 763,
+      "style": 84,
+      "name": "Eheheh... Thanks for the sentiment.\nReally though, it's no problem."
+    },
+    {
+      "$id": 764,
+      "style": 84,
+      "name": "Nia, you're pretty charming\nwhen you get flustered."
+    },
+    {
+      "$id": 765,
+      "style": 84,
+      "name": "We can do this!\nWe can do this!\nC'mon, Nia! Join in with the chant!"
+    },
+    {
+      "$id": 766,
+      "style": 84,
+      "name": "What?! I'm up for doing this,\nbut I'm not chanting anything!"
+    },
+    {
+      "$id": 767,
+      "style": 84,
+      "name": "Even the most tragic of circumstances\ncan be sweetened with a bowl of that\ngood Luxurian Porridge!"
+    },
+    {
+      "$id": 768,
+      "style": 84,
+      "name": "Kamui... Not the time!"
+    },
+    {
+      "$id": 769,
+      "style": 84,
+      "name": "Call my name and I appear!\nIt's Kamui!"
+    },
+    {
+      "$id": 770,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  I don't recall anyone calling her...\nBut perhaps it's easier not to\nsay anything."
+    },
+    {
+      "$id": 771,
+      "style": 84,
+      "name": "Hah! You think that's a problem\nfor us? It's, like, nothing!"
+    },
+    {
+      "$id": 772,
+      "style": 84,
+      "name": "Erm... Kamui, that's not\nthe way to be humble..."
+    },
+    {
+      "$id": 773,
+      "style": 84,
+      "name": "Hi there.\nAnything you want to talk about?"
+    },
+    {
+      "$id": 774,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Rex is so skilled at naturally\nbreaking the ice...\nLike a finely-honed sword!"
+    },
+    {
+      "$id": 775,
+      "style": 84,
+      "name": "Let's hear the details."
+    },
+    {
+      "$id": 776,
+      "style": 84,
+      "name": "Agreed."
+    },
+    {
+      "$id": 777,
+      "style": 84,
+      "name": "C'mon, we can't leave 'em like this.\nYou'll help, right, Rago?"
+    },
+    {
+      "$id": 778,
+      "style": 84,
+      "name": "As you wish."
+    },
+    {
+      "$id": 779,
+      "style": 84,
+      "name": "You all right there?"
+    },
+    {
+      "$id": 780,
+      "style": 84,
+      "name": "I hope so."
+    },
+    {
+      "$id": 781,
+      "style": 84,
+      "name": "Hey, Zeke. I think something's\nbothering this little one here."
+    },
+    {
+      "$id": 782,
+      "style": 84,
+      "name": "Looks like it. Let's hear the details."
+    },
+    {
+      "$id": 783,
+      "style": 84,
+      "name": "Hey, let's talk!\nI'll give you my autograph if you want!"
+    },
+    {
+      "$id": 784,
+      "style": 84,
+      "name": "  [  ML:Feeling kind=Think   ]  Not such a tempting offer..."
+    },
+    {
+      "$id": 785,
+      "style": 84,
+      "name": "The mighty Ootsuchi will make\nlight work of this!"
+    },
+    {
+      "$id": 786,
+      "style": 84,
+      "name": "Well, if you say so, Ootsuchi.\nWe'll take the job!"
+    },
+    {
+      "$id": 787,
+      "style": 84,
+      "name": "Here, I think this may be what\nyou are after."
+    },
+    {
+      "$id": 788,
+      "style": 84,
+      "name": "You better take it quickly,\nor I might crush it by accident!"
+    }
+  ]
+}

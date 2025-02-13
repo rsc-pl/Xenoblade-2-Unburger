@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf11550150_0010",
+      "style": 82,
+      "name": "陛下　あれは[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "bf11550150_0020",
+      "style": 82,
+      "name": "ガーゴイル　メツの[System:Ruby rt=デバイス ]僕[/System:Ruby]よ"
+    },
+    {
+      "$id": 3,
+      "label": "bf11550150_0030",
+      "style": 82,
+      "name": "行くぞ　ヒカリ"
+    },
+    {
+      "$id": 4,
+      "label": "bf11550150_0040",
+      "style": 82,
+      "name": "ええ"
+    },
+    {
+      "$id": 5,
+      "label": "bf11550150_0050",
+      "style": 82,
+      "name": "あなた達はここで待ってて"
+    }
+  ]
+}

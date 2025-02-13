@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44100184_02_msg0001",
+      "style": 84,
+      "name": "Outlanders! Hey listen, apparently\nwhen I'm older I'll be allowed to\nleave Luxuria too!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44100184_02_msg0002",
+      "style": 84,
+      "name": "I really love plants. I read all about\nthem in an encyclopedia in the library.\nI want to go out and find them all!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44100184_02_msg0003",
+      "style": 84,
+      "name": "But in the meantime, I need to go and\nexplore Luxuria and find all the plants\nthat haven't been discovered yet!"
+    }
+  ]
+}

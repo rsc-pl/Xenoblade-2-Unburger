@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350114_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Lemour Inn!\nRest-place of all traders!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350114_01_msg0005",
+      "style": 84,
+      "name": "I don't think I should be napping\nright now..."
+    }
+  ]
+}

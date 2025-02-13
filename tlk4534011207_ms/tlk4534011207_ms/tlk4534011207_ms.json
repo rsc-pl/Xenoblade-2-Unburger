@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45340112_07_msg0001",
+      "style": 84,
+      "name": "Apparently the Maelstrom's all reserved\nfor some kind of important meeting\nright now. Nobody's allowed in."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45340112_07_msg0002",
+      "style": 84,
+      "name": "You trying to get inside anyway?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45340112_07_msg0003",
+      "style": 84,
+      "name": "Well, as you can see, the entrance\nis all blocked off. And I doubt you\ncould get in from the Cloud Sea."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45340112_07_msg0004",
+      "style": 84,
+      "name": "I guess that just leaves...\nentry from above?"
+    }
+  ]
+}

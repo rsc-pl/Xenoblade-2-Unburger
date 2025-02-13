@@ -1,0 +1,5464 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "ニアの情報"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Perfect Range Sensor"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Ether Cylinder"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Diamond Oak"
+    },
+    {
+      "$id": 5,
+      "style": 61,
+      "name": "スペルビア帝国に囚われたニアに関する情報"
+    },
+    {
+      "$id": 6,
+      "style": 61,
+      "name": "One of the parts needed to complete\nTora's artificial Blade."
+    },
+    {
+      "$id": 7,
+      "style": 61,
+      "name": "Filled with ether energy, this looks like\nthe energy source for something."
+    },
+    {
+      "$id": 8,
+      "style": 61,
+      "name": "Rare wood that's strength makes it\nexcellent for building ship bows."
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Buoyweed"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Nils's Medicine"
+    },
+    {
+      "$id": 11,
+      "style": 61,
+      "name": "An extremely buoyant kind of grass.\nCan use this to float on water."
+    },
+    {
+      "$id": 12,
+      "style": 61,
+      "name": "Medicine prepared by Rhiannon's\nbrother, Nils. Needed to heal Norman."
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Carved Stone Turtle"
+    },
+    {
+      "$id": 14,
+      "style": 61,
+      "name": "The cherished charm that Lucarion is\nsearching for. A paternal gift."
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Note Fragment"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Broken Knife"
+    },
+    {
+      "$id": 17,
+      "style": 61,
+      "name": "This says \"Cleansing Spring\" which is\nmarked on the map, along with a note."
+    },
+    {
+      "$id": 18,
+      "style": 61,
+      "name": "Text engraved on the hilt: \"Wealth and\nfortune to Erebos, dearest grandson.\""
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Snow-White Rhino"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "巨大カエルの炙り焼き"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "門の鍵　削除予定"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "ホムラレシピ"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Red Collar"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Jellyfish Balsam Bunch"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Platinum Music Box"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Black Steel Circler"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Serenade"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Promotional Leaflets"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Key-Shaped Lever"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Ether Bottle"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Filament Globe"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Pile of Letters"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Nopon Doubloon"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Healing Herb"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Gulan Walnut"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Nopopon's Journal"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Delivery for Feyla"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Benoît Nut"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "センネンウリン"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Mysterious Part A"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Mysterious Part B"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Mysterious Part C"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Mysterious Part D"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Mysterious Part E"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "グレン鉱石"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "セイラン鉱石"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Wraithwood Root"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Gloomwood Root"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Cloud Sea Halite"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "True Dragon Incense"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Special Blade Medicine"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "ヒューズバルブ"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "バルブの部品"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "ボイラーの部品"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "ちぎれたメモ1"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "ちぎれたメモ2"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "ちぎれたメモ3"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "宝のメモ"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Ancient Nopon Key"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Jac's Family Gifts"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Hideout Key"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "回収備品"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "秘伝のレシピA"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "秘伝のレシピB"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "カオスダケ"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "大工のノコギリ"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Colla Carrot"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "古文字の石版"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "フォトニクスコンピュータ"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "傷薬"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "ゴミ"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Metal Brooch"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "絵画セット"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "モルスの断崖の絵(晴れ)"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "差し入れ"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "鍵"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Flowers of Ice"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Storied Band"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "開かずの間の鍵"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "狩人秘伝の家庭の味レシピ"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "託された手紙"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Orbital Skyreader"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Golden Sunstone"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Hammershead"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Calamity Puzzle"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "四角い鍵"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Mysterious Part F"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "良質な木材"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "上質な貫頭衣"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "小型エーテル原子炉"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Jeweled Signet"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Pollen Orb"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "やってほしいことメモ"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "幻覚剤"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Alban's Painting"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Brief History of Alst"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "History of Gula"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Lost People's Tablet"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Rigiderian Tablet"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "エネミーの卵"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "ネフェルの下着"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "干からびたキノコ"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Favored Hammer"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Book of Knowledge"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "ホタルが盗んだアイテムC"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "ホタルが盗んだアイテムD"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "ホタルが盗んだアイテムE"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Silver Pendant"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "ホタルが盗んだアイテムG"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Fungicide"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Antidesiccant"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Tree Brace"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "花束"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "幸せのノポン様"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "木材A"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "ノポンの荷物"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Note on Lance"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Thunder Crystal"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Note on Lance 2"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Note on Lance 3"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Kiara's Torigonda"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Gulan Firewood"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Left Golden Bracer"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Right Golden Bracer"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Tome of Mors #1"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Tome of Mors #2"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Tome of Mors #3"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Tome of Mors #4"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "古文書E"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "盗まれたお金1"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "古文書F"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "ゴムルの樹液"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "※削除予定"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "※削除予定"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "※削除予定"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "※削除予定"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "※削除予定"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Nopon Trade Guild ID"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "コアチップの部品"
+    },
+    {
+      "$id": 148,
+      "style": 61,
+      "name": "A variant type of beetle from Gula\nwith a beautiful, shiny body."
+    },
+    {
+      "$id": 149,
+      "style": 61,
+      "name": "兵士の宿舎に配達する料理 カエルを\n使っているからか 少生臭い気がする"
+    },
+    {
+      "$id": 150,
+      "style": 61,
+      "name": "高レベルエネミーエリアの門を開くための鍵"
+    },
+    {
+      "$id": 151,
+      "style": 61,
+      "name": "ホムラのレシピ。"
+    },
+    {
+      "$id": 152,
+      "style": 61,
+      "name": "Memento recovered from a monster.\nLike an old-style collar."
+    },
+    {
+      "$id": 153,
+      "style": 61,
+      "name": "A small bundle of elegant flowers\nreceived from Dragand."
+    },
+    {
+      "$id": 154,
+      "style": 61,
+      "name": "Received from Mololo,\nbut belonging to Malusio."
+    },
+    {
+      "$id": 155,
+      "style": 61,
+      "name": "Remnants of weapons used in an\nancient war."
+    },
+    {
+      "$id": 156,
+      "style": 61,
+      "name": "A marvelous medicine said to impart\na beautiful singing voice."
+    },
+    {
+      "$id": 157,
+      "style": 61,
+      "name": "Leaflets, printed with the words 'Come\ntry new menupon!'"
+    },
+    {
+      "$id": 158,
+      "style": 61,
+      "name": "A part required for opening Bahn's\nchest. Painted gold."
+    },
+    {
+      "$id": 159,
+      "style": 61,
+      "name": "A part required for opening Bahn's\nchest. A cylinder containing liquid."
+    },
+    {
+      "$id": 160,
+      "style": 61,
+      "name": "A part required for opening Bahn's\nchest. Glows with warm light."
+    },
+    {
+      "$id": 161,
+      "style": 61,
+      "name": "Pile of letters from Bahn's chest."
+    },
+    {
+      "$id": 162,
+      "style": 61,
+      "name": "Coin featuring a picture of a Nopon.\nActs a key for opening a treasure trove."
+    },
+    {
+      "$id": 163,
+      "style": 61,
+      "name": "A medicinal herb growing only in a\nregion of Gula. A formidable tonic."
+    },
+    {
+      "$id": 164,
+      "style": 61,
+      "name": "Fine, Divine Beast-protected timber.\nNow rare and costly."
+    },
+    {
+      "$id": 165,
+      "style": 61,
+      "name": "A journal written by the\nlegendary Captain Nopopon."
+    },
+    {
+      "$id": 166,
+      "style": 61,
+      "name": "Delivering on behalf of Mopopo. Has\n\"Handle with Care\" written on it."
+    },
+    {
+      "$id": 167,
+      "style": 61,
+      "name": "300 times concentrated alcohol.\nGuaranteed to knock out any beast."
+    },
+    {
+      "$id": 168,
+      "style": 61,
+      "name": "耐水、耐雲に優れ、加工も容易で優秀な木材\n"
+    },
+    {
+      "$id": 169,
+      "style": 61,
+      "name": "Flat Rounded Piece"
+    },
+    {
+      "$id": 170,
+      "style": 61,
+      "name": "Flat Rounded Piece"
+    },
+    {
+      "$id": 171,
+      "style": 61,
+      "name": "Flat Triangular Piece"
+    },
+    {
+      "$id": 172,
+      "style": 61,
+      "name": "Flat Triangular Piece"
+    },
+    {
+      "$id": 173,
+      "style": 61,
+      "name": "Flat Rounded Piece"
+    },
+    {
+      "$id": 174,
+      "style": 61,
+      "name": "炎のように美しい赤色をした鉱石。"
+    },
+    {
+      "$id": 175,
+      "style": 61,
+      "name": "水のように透き通った青色をした鉱石。"
+    },
+    {
+      "$id": 176,
+      "style": 61,
+      "name": "Being gathered for medical research."
+    },
+    {
+      "$id": 177,
+      "style": 61,
+      "name": "Ingredient to make the medicine to\ncure Cole's illness."
+    },
+    {
+      "$id": 178,
+      "style": 61,
+      "name": "Ingredient to make the medicine to\ncure Cole's illness."
+    },
+    {
+      "$id": 179,
+      "style": 61,
+      "name": "Ingredient to make the medicine to\ncure Cole's illness."
+    },
+    {
+      "$id": 180,
+      "style": 61,
+      "name": "Extremely bitter medicine to help stop\nthe progress of Cole's illness."
+    },
+    {
+      "$id": 181,
+      "style": 61,
+      "name": "Cさんが欲しがっている部品。修理で使う。"
+    },
+    {
+      "$id": 182,
+      "style": 61,
+      "name": "修理に使用するバルブの部品"
+    },
+    {
+      "$id": 183,
+      "style": 61,
+      "name": "修理に使用するボイラーの部品"
+    },
+    {
+      "$id": 184,
+      "style": 61,
+      "name": "お宝の隠し場所のヒントが書かれたメモ"
+    },
+    {
+      "$id": 185,
+      "style": 61,
+      "name": "お宝の隠し場所のヒントが書かれたメモ"
+    },
+    {
+      "$id": 186,
+      "style": 61,
+      "name": "お宝の隠し場所のヒントが書かれたメモ"
+    },
+    {
+      "$id": 187,
+      "style": 61,
+      "name": "宝箱の中に入っていたメモ。\n「大切なのはお金ではない」と書かれている。"
+    },
+    {
+      "$id": 188,
+      "style": 61,
+      "name": "A relic left behind by ancient Nopon.\nRequired to open a certain door."
+    },
+    {
+      "$id": 189,
+      "style": 61,
+      "name": "A gift from Jac to his\nsiblings in Gula."
+    },
+    {
+      "$id": 190,
+      "style": 61,
+      "name": "Key to the hideout of an anti-imperial\nmovement in Superbia."
+    },
+    {
+      "$id": 191,
+      "style": 61,
+      "name": "警備中に回収しなければいけない備品"
+    },
+    {
+      "$id": 192,
+      "style": 61,
+      "name": "ターキンの秘伝のレシピA"
+    },
+    {
+      "$id": 193,
+      "style": 61,
+      "name": "ターキンの秘伝のレシピB"
+    },
+    {
+      "$id": 194,
+      "style": 61,
+      "name": "エルピス霊洞にしか生えない珍しいキノコ"
+    },
+    {
+      "$id": 195,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 196,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 197,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 198,
+      "style": 61,
+      "name": "A rare root vegetable that grows\nonly in Spirit Crucible Elpys."
+    },
+    {
+      "$id": 199,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 200,
+      "style": 61,
+      "name": "貧乏な難民が拾ったアイテム\n（サルベージ品）"
+    },
+    {
+      "$id": 201,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 202,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 203,
+      "style": 61,
+      "name": "Treasure spoken of by Superbian troops.\nDoesn't look like it's worth much."
+    },
+    {
+      "$id": 204,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 205,
+      "style": 61,
+      "name": "晴れの日に描いたモルスの断崖のイラスト。\nあんまり上手くない。"
+    },
+    {
+      "$id": 206,
+      "style": 61,
+      "name": "グーラの子達からスペルビアの子達への\n差し入れ。食べ物がたくさん入っている。"
+    },
+    {
+      "$id": 207,
+      "style": 61,
+      "name": "スペルビアの子達からグーラの子達への\n贈り物。差し入れをしてくれたお礼。"
+    },
+    {
+      "$id": 208,
+      "style": 61,
+      "name": "Flowers from Luxuria.\nEach petal is as clear as the purest ice."
+    },
+    {
+      "$id": 209,
+      "style": 61,
+      "name": "A legendary ring requested by Mesulia.\nFor something legendary, it's cheap."
+    },
+    {
+      "$id": 210,
+      "style": 61,
+      "name": "ルクスリアの開かずの間の鍵"
+    },
+    {
+      "$id": 211,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 212,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 213,
+      "style": 61,
+      "name": "ボードショップの店員から託されたもの\nシンプルな白い封筒に入っている"
+    },
+    {
+      "$id": 214,
+      "style": 61,
+      "name": "A legendary salvaged treasure\nobtained in Spirit Crucible Elpys."
+    },
+    {
+      "$id": 215,
+      "style": 61,
+      "name": "A legendary salvaged treasure\nobtained in the Land of Mors."
+    },
+    {
+      "$id": 216,
+      "style": 61,
+      "name": "A legendary salvaged treasure\nobtained in Temperantia."
+    },
+    {
+      "$id": 217,
+      "style": 61,
+      "name": "A legendary salvaged treasure\nobtained in Avaritia."
+    },
+    {
+      "$id": 218,
+      "style": 61,
+      "name": "モルスの地で入手。扉を開けるための鍵。独特なかたちをしている。"
+    },
+    {
+      "$id": 219,
+      "style": 61,
+      "name": "Flat Triangular Piece"
+    },
+    {
+      "$id": 220,
+      "style": 61,
+      "name": "交換で使用する貴重品"
+    },
+    {
+      "$id": 221,
+      "style": 61,
+      "name": "交換で使用する貴重品"
+    },
+    {
+      "$id": 222,
+      "style": 61,
+      "name": "交換で使用する貴重品"
+    },
+    {
+      "$id": 223,
+      "style": 61,
+      "name": "A ring handed down the generations of\nSelosia, one of Invidia's 6 noble houses."
+    },
+    {
+      "$id": 224,
+      "style": 61,
+      "name": "ご禁制の栄養剤（麻薬）"
+    },
+    {
+      "$id": 225,
+      "style": 61,
+      "name": "困った事が書かれているメモ　削除予定"
+    },
+    {
+      "$id": 226,
+      "style": 61,
+      "name": "花粉玉と材料Dで作られる麻薬"
+    },
+    {
+      "$id": 227,
+      "style": 61,
+      "name": "Painting left on board a grounded ship.\nNot a well-drawn portrait."
+    },
+    {
+      "$id": 228,
+      "style": 61,
+      "name": "Says that a kingdom once existed on\nLiberalitas's Isle of Sleeping Remains."
+    },
+    {
+      "$id": 229,
+      "style": 61,
+      "name": "Says that Gula was once a\nsuccessful republic..."
+    },
+    {
+      "$id": 230,
+      "style": 61,
+      "name": "Says that the Luxurian once built\ntheir homes in Genbu Drifts."
+    },
+    {
+      "$id": 231,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 232,
+      "style": 61,
+      "name": "Says that the country of Rigideria\nwas destroyed by an evil monster."
+    },
+    {
+      "$id": 233,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 234,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 235,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 236,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 237,
+      "style": 61,
+      "name": "TEST"
+    },
+    {
+      "$id": 238,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 239,
+      "style": 61,
+      "name": "Received from Tonadon. Old, but\napparently was his favorite hammer."
+    },
+    {
+      "$id": 240,
+      "style": 61,
+      "name": "Received from Ciamran. Known as a\nphantom book due to its extreme rarity."
+    },
+    {
+      "$id": 241,
+      "style": 61,
+      "name": "インヴィディアでもらったもの"
+    },
+    {
+      "$id": 242,
+      "style": 61,
+      "name": "インヴィディアでもらったもの"
+    },
+    {
+      "$id": 243,
+      "style": 61,
+      "name": "ルクスリアでもらったもの"
+    },
+    {
+      "$id": 244,
+      "style": 61,
+      "name": "Received from Gheena. A minute\ncrest is engraved on its surface."
+    },
+    {
+      "$id": 245,
+      "style": 61,
+      "name": "イヤサキ村でもらったもの"
+    },
+    {
+      "$id": 246,
+      "style": 61,
+      "name": "Medicine to heal injury to the Saffronia\ntree. Can heal any plant ailments."
+    },
+    {
+      "$id": 247,
+      "style": 61,
+      "name": "Medicine to heal injury to the Saffronia\ntree. Protects plants from withering."
+    },
+    {
+      "$id": 248,
+      "style": 61,
+      "name": "A tree brace crafted in Gula\nto strengthen the Saffronia tree."
+    },
+    {
+      "$id": 249,
+      "style": 61,
+      "name": "少女からもらった感謝の花束"
+    },
+    {
+      "$id": 250,
+      "style": 61,
+      "name": "テスト"
+    },
+    {
+      "$id": 251,
+      "style": 61,
+      "name": "親方からもらう修理用の木材"
+    },
+    {
+      "$id": 252,
+      "style": 61,
+      "name": "ターキンに奪われた荷物"
+    },
+    {
+      "$id": 253,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 254,
+      "style": 61,
+      "name": "Says to search out the Thunder Crystal\nand return it to Trigo."
+    },
+    {
+      "$id": 255,
+      "style": 61,
+      "name": "Crystal that shines a gold color. Very\nprecious so rarely appears for sale."
+    },
+    {
+      "$id": 256,
+      "style": 61,
+      "name": "Says to defeat monsters in each area\nand come to the capital, Alba Margen."
+    },
+    {
+      "$id": 257,
+      "style": 61,
+      "name": "Says to come to the ancient city of\nJudicium in Temperantia."
+    },
+    {
+      "$id": 258,
+      "style": 61,
+      "name": "Kiara's Torigonda,\nborrowed by Nanakoori."
+    },
+    {
+      "$id": 259,
+      "style": 61,
+      "name": "Kindling used by ordinary families in\nTrigo. Made by Saets Lumber Co."
+    },
+    {
+      "$id": 260,
+      "style": 61,
+      "name": "Gold bracer hidden decades ago by\nMabon. It looks pretty pricey."
+    },
+    {
+      "$id": 261,
+      "style": 61,
+      "name": "Gold bracer hidden decades ago by\nMabon. It looks pretty pricey."
+    },
+    {
+      "$id": 262,
+      "style": 61,
+      "name": "An ancient text on the land of Mors.\nGiven to you by Krezzi in Luxuria."
+    },
+    {
+      "$id": 263,
+      "style": 61,
+      "name": "An ancient text on the land of Mors.\nShiki would give up a limb to get it."
+    },
+    {
+      "$id": 264,
+      "style": 61,
+      "name": "An ancient text on the land of Mors.\nIt came from Shiki's friend Tevissa."
+    },
+    {
+      "$id": 265,
+      "style": 61,
+      "name": "An ancient text on the land of Mors.\nSo chunky it could serve as an anchor."
+    },
+    {
+      "$id": 266,
+      "style": 61,
+      "name": "アヴァリティアの競売で手に入れる"
+    },
+    {
+      "$id": 267,
+      "style": 61,
+      "name": "黒毛ノポンに騙し取られたお金"
+    },
+    {
+      "$id": 268,
+      "style": 61,
+      "name": "タブレットの説明書"
+    },
+    {
+      "$id": 269,
+      "style": 61,
+      "name": "ゴム手袋を作る材料"
+    },
+    {
+      "$id": 270,
+      "style": 61,
+      "name": "魔物を封印した場所が書かれた伝記"
+    },
+    {
+      "$id": 271,
+      "style": 61,
+      "name": "魔物の封印を解くための鍵"
+    },
+    {
+      "$id": 272,
+      "style": 61,
+      "name": "魔物の封印を解くための鍵"
+    },
+    {
+      "$id": 273,
+      "style": 61,
+      "name": "魔物の封印を解くための鍵"
+    },
+    {
+      "$id": 274,
+      "style": 61,
+      "name": "魔物の封印を解くための鍵"
+    },
+    {
+      "$id": 275,
+      "style": 61,
+      "name": "Nopon Trade Guild member certificate.\nThe paperwork to get one is terrible..."
+    },
+    {
+      "$id": 276,
+      "style": 61,
+      "name": "世界樹にあるコアチップの部品"
+    },
+    {
+      "$id": 277,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 278,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 279,
+      "style": 36,
+      "name": "50 Volt Battery"
+    },
+    {
+      "$id": 280,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 281,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 282,
+      "style": 61,
+      "name": "Long-lasting battery useable\nafter putting it into a charging device."
+    },
+    {
+      "$id": 283,
+      "style": 36,
+      "name": "Dead Man's Message"
+    },
+    {
+      "$id": 284,
+      "style": 36,
+      "name": "Salvager's Diary"
+    },
+    {
+      "$id": 285,
+      "style": 61,
+      "name": "I've buried all my belongings in Litharia\nSnowfield in Luxuria, in the narrow area."
+    },
+    {
+      "$id": 286,
+      "style": 61,
+      "name": "I so long to talk with my old friend\nwho is in Elmos Square in Luxuria."
+    },
+    {
+      "$id": 287,
+      "style": 36,
+      "name": "Mokmo Onion"
+    },
+    {
+      "$id": 288,
+      "style": 61,
+      "name": "A rare, high-quality ingredient that the\ngirl at the grocery store recommended."
+    },
+    {
+      "$id": 289,
+      "style": 36,
+      "name": "ウマのタテガミ(仮)"
+    },
+    {
+      "$id": 290,
+      "style": 61,
+      "name": "試験対象のモンスターを倒した証"
+    },
+    {
+      "$id": 291,
+      "style": 36,
+      "name": "Keepsake Necklace"
+    },
+    {
+      "$id": 292,
+      "style": 61,
+      "name": "A pendant that Limuli cherishes.\nA gift from his mother."
+    },
+    {
+      "$id": 293,
+      "style": 36,
+      "name": "Thick Notepad"
+    },
+    {
+      "$id": 294,
+      "style": 61,
+      "name": "Note written by Moui about Trigo.\nSeems it has lots of problems."
+    },
+    {
+      "$id": 295,
+      "style": 36,
+      "name": "Serenade?"
+    },
+    {
+      "$id": 296,
+      "style": 61,
+      "name": "A marvelous medicine which imparts\na beautiful singing voice...probably."
+    },
+    {
+      "$id": 297,
+      "style": 36,
+      "name": "少女達の絵"
+    },
+    {
+      "$id": 298,
+      "style": 61,
+      "name": "二人の少女が描かれた絵"
+    },
+    {
+      "$id": 299,
+      "style": 36,
+      "name": "Rusted Old Watch"
+    },
+    {
+      "$id": 300,
+      "style": 61,
+      "name": "An old watch. I wonder who\nit used to belong to?"
+    },
+    {
+      "$id": 301,
+      "style": 36,
+      "name": "修理箇所のメモ"
+    },
+    {
+      "$id": 302,
+      "style": 61,
+      "name": "ボイラーの調子が悪いので\n修理をして欲しいという内容のメモ"
+    },
+    {
+      "$id": 303,
+      "style": 36,
+      "name": "Sensitive Documents"
+    },
+    {
+      "$id": 304,
+      "style": 61,
+      "name": "Secret documents removed from\nSuperbia by a spy."
+    },
+    {
+      "$id": 305,
+      "style": 36,
+      "name": "Shining Stalactite"
+    },
+    {
+      "$id": 306,
+      "style": 61,
+      "name": "A stalactite that shines for some reason.\nGoes for high prices among the rich."
+    },
+    {
+      "$id": 307,
+      "style": 36,
+      "name": "モルスの断崖の絵(悪天候)"
+    },
+    {
+      "$id": 308,
+      "style": 61,
+      "name": "天気の悪いときに描いた\nモルスの断崖の絵。あまり見栄えがよくない"
+    },
+    {
+      "$id": 309,
+      "style": 36,
+      "name": "Key to Something"
+    },
+    {
+      "$id": 310,
+      "style": 61,
+      "name": "A key found where the wall painting\nsaid it would be. No idea what it's for."
+    },
+    {
+      "$id": 311,
+      "style": 36,
+      "name": "ゴミ"
+    },
+    {
+      "$id": 312,
+      "style": 61,
+      "name": "「はずれ」と書いてある紙"
+    },
+    {
+      "$id": 313,
+      "style": 36,
+      "name": "ジゾーの大切な何か（仮）"
+    },
+    {
+      "$id": 314,
+      "style": 61,
+      "name": "ジゾーの大切な何か（仮）"
+    },
+    {
+      "$id": 315,
+      "style": 36,
+      "name": "モルスの断崖の絵(アタリ)"
+    },
+    {
+      "$id": 316,
+      "style": 61,
+      "name": "晴れの日に描いたモルスの断崖のイラスト。\nとても上手い。"
+    },
+    {
+      "$id": 317,
+      "style": 36,
+      "name": "Cloud Sea Compass EX"
+    },
+    {
+      "$id": 318,
+      "style": 61,
+      "name": "強化された雲海羅針盤(仮)"
+    },
+    {
+      "$id": 319,
+      "style": 36,
+      "name": "500年前の記録書"
+    },
+    {
+      "$id": 320,
+      "style": 61,
+      "name": "ルクスリアの秘密が書かれた、500年前の\n重要な書籍。"
+    },
+    {
+      "$id": 321,
+      "style": 36,
+      "name": "思い出のボードゲーム"
+    },
+    {
+      "$id": 322,
+      "style": 61,
+      "name": "依頼人が失くした\n思い入れのあるボードゲーム。"
+    },
+    {
+      "$id": 323,
+      "style": 36,
+      "name": "Saffran's Key"
+    },
+    {
+      "$id": 324,
+      "style": 61,
+      "name": "A key that opens the door to the\nDivine Beast battleship in Trigo Relay Base."
+    },
+    {
+      "$id": 325,
+      "style": 36,
+      "name": "修理用木材(仮)"
+    },
+    {
+      "$id": 326,
+      "style": 61,
+      "name": "トゥーリベーカリーを修理するための木材"
+    },
+    {
+      "$id": 327,
+      "style": 36,
+      "name": "Stolen Parcel"
+    },
+    {
+      "$id": 328,
+      "style": 61,
+      "name": "Parcel stolen by Tirkin. Belongs to\nKupon; to be delivered to Tilly Bakery."
+    },
+    {
+      "$id": 329,
+      "style": 36,
+      "name": "Pretty Seashell"
+    },
+    {
+      "$id": 330,
+      "style": 61,
+      "name": "A pretty seashell\nsalvaged in Avaritia."
+    },
+    {
+      "$id": 331,
+      "style": 36,
+      "name": "パスワードのヒント"
+    },
+    {
+      "$id": 332,
+      "style": 61,
+      "name": "パスワードの場所が書かれている ルクスリア\n インヴィディア アヴァリティア"
+    },
+    {
+      "$id": 333,
+      "style": 36,
+      "name": "Glowing Tablet"
+    },
+    {
+      "$id": 334,
+      "style": 61,
+      "name": "A projector that depicts something.\nThree passwords are required to use it."
+    },
+    {
+      "$id": 335,
+      "style": 36,
+      "name": "Great Ancient Tome"
+    },
+    {
+      "$id": 336,
+      "style": 61,
+      "name": "A book bought at a shop in Invidia.\nSome sort of password is written in it."
+    },
+    {
+      "$id": 337,
+      "style": 36,
+      "name": "Splendid Ancient Tome"
+    },
+    {
+      "$id": 338,
+      "style": 61,
+      "name": "A book received from a historian in\nAvaritia. A password is written in it."
+    },
+    {
+      "$id": 339,
+      "style": 36,
+      "name": "Grand Ancient Tome"
+    },
+    {
+      "$id": 340,
+      "style": 61,
+      "name": "A book received from a librarian in\nLuxuria. A password is written in it."
+    },
+    {
+      "$id": 341,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 342,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 343,
+      "style": 36,
+      "name": "Vocals Stamp"
+    },
+    {
+      "$id": 344,
+      "style": 61,
+      "name": "Certificate proving Nanakoori finished the\nvocals lesson. Keep studying!"
+    },
+    {
+      "$id": 345,
+      "style": 36,
+      "name": "Looks Stamp"
+    },
+    {
+      "$id": 346,
+      "style": 61,
+      "name": "Certificate proving Nanakoori finished the\nlooks lesson. Keep studying!"
+    },
+    {
+      "$id": 347,
+      "style": 36,
+      "name": "Soul Stamp"
+    },
+    {
+      "$id": 348,
+      "style": 61,
+      "name": "Certificate proving Nanakoori finished the\nsoul lesson. Keep studying!"
+    },
+    {
+      "$id": 349,
+      "style": 36,
+      "name": "Sharp Tablet Piece"
+    },
+    {
+      "$id": 350,
+      "style": 36,
+      "name": "Square Tablet Piece"
+    },
+    {
+      "$id": 351,
+      "style": 36,
+      "name": "Diamond Tablet Piece"
+    },
+    {
+      "$id": 352,
+      "style": 36,
+      "name": "Ticket to Superbia"
+    },
+    {
+      "$id": 353,
+      "style": 61,
+      "name": "Fragment of a tablet recording Luxuria's\nhistory."
+    },
+    {
+      "$id": 354,
+      "style": 61,
+      "name": "Fragment of a tablet recording Luxuria's\nhistory."
+    },
+    {
+      "$id": 355,
+      "style": 61,
+      "name": "Fragment of a tablet recording Luxuria's\nhistory."
+    },
+    {
+      "$id": 356,
+      "style": 61,
+      "name": "Grants passage by Divine Beast ship to Superbia. Redeemable anytime."
+    },
+    {
+      "$id": 357,
+      "style": 36,
+      "name": "Healing Teak"
+    },
+    {
+      "$id": 358,
+      "style": 61,
+      "name": "Tree that can heal plants. Often used\nas a support for other plants."
+    },
+    {
+      "$id": 359,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 360,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 361,
+      "style": 36,
+      "name": "Himahistone"
+    },
+    {
+      "$id": 362,
+      "style": 36,
+      "name": "Greenmarine"
+    },
+    {
+      "$id": 363,
+      "style": 36,
+      "name": "Lightocyte"
+    },
+    {
+      "$id": 364,
+      "style": 36,
+      "name": "Trollenite"
+    },
+    {
+      "$id": 365,
+      "style": 36,
+      "name": "Stormstone"
+    },
+    {
+      "$id": 366,
+      "style": 36,
+      "name": "Crystal Dome"
+    },
+    {
+      "$id": 367,
+      "style": 36,
+      "name": "Verdi Crystal"
+    },
+    {
+      "$id": 368,
+      "style": 36,
+      "name": "Lightning Pearl"
+    },
+    {
+      "$id": 369,
+      "style": 36,
+      "name": "Yawn Lazuli"
+    },
+    {
+      "$id": 370,
+      "style": 36,
+      "name": "Darkcyte"
+    },
+    {
+      "$id": 371,
+      "style": 36,
+      "name": "Absorp Quartz"
+    },
+    {
+      "$id": 372,
+      "style": 36,
+      "name": "Gong Crystal"
+    },
+    {
+      "$id": 373,
+      "style": 36,
+      "name": "Dusky Pearl"
+    },
+    {
+      "$id": 374,
+      "style": 36,
+      "name": "Meno"
+    },
+    {
+      "$id": 375,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 376,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 377,
+      "style": 61,
+      "name": "Digidigi named this stone after his\ngirlfriend."
+    },
+    {
+      "$id": 378,
+      "style": 61,
+      "name": "Jewel representing Gula. Reveals a\nleaf pattern when soaked in water."
+    },
+    {
+      "$id": 379,
+      "style": 61,
+      "name": "With exquisite light patterns, they say\nthis is the most beautiful of all jewels."
+    },
+    {
+      "$id": 380,
+      "style": 61,
+      "name": "Jewel in the shape of a troll.\nNot very pretty to look at."
+    },
+    {
+      "$id": 381,
+      "style": 61,
+      "name": "This jewel produces small whirlwinds.\nMakes bath times fun!"
+    },
+    {
+      "$id": 382,
+      "style": 61,
+      "name": "Tiny crystals are suspended in water.\nShake it to create a crystal snow storm."
+    },
+    {
+      "$id": 383,
+      "style": 61,
+      "name": "Also known as the \"forest jewel\".\nA lump of bright, green crystals."
+    },
+    {
+      "$id": 384,
+      "style": 61,
+      "name": "Created when lightning strikes certain\nDivine Beasts. Produces sparks for a few days."
+    },
+    {
+      "$id": 385,
+      "style": 61,
+      "name": "Jewel that smells of sunshine.\nOften given to babies in Iyasaki."
+    },
+    {
+      "$id": 386,
+      "style": 61,
+      "name": "Rare jewel that glows faintly in the\ndark. Popular as a protection charm."
+    },
+    {
+      "$id": 387,
+      "style": 61,
+      "name": "Jewel that absorbs light. Expensive and\nrare, but known for bringing bad luck."
+    },
+    {
+      "$id": 388,
+      "style": 61,
+      "name": "Crystal that sometimes makes a sound.\nThe sounds are echoes from long ago."
+    },
+    {
+      "$id": 389,
+      "style": 61,
+      "name": "Color changes based on how clean the\nland is. Temperantia is always black."
+    },
+    {
+      "$id": 390,
+      "style": 61,
+      "name": "Meno named this flaming red jewel."
+    },
+    {
+      "$id": 391,
+      "style": 36,
+      "name": "The Mystery Continent"
+    },
+    {
+      "$id": 392,
+      "style": 61,
+      "name": "Says that records of a mystery land are\ncarved on Dalnes Stone in Temperantia."
+    },
+    {
+      "$id": 393,
+      "style": 36,
+      "name": "Solemn Statue"
+    },
+    {
+      "$id": 394,
+      "style": 61,
+      "name": "A half-finished carving. Uses some\nexpressions peculiar to Acedia."
+    },
+    {
+      "$id": 395,
+      "style": 36,
+      "name": "Bloomshroom"
+    },
+    {
+      "$id": 396,
+      "style": 61,
+      "name": "A 100-year-old mysterious mushroom.\nThe Ignas worship these like treasure."
+    },
+    {
+      "$id": 397,
+      "style": 36,
+      "name": "Strange Mineral"
+    },
+    {
+      "$id": 398,
+      "style": 61,
+      "name": "It's not clear what type of jewel this is,\nso get it appraised by an expert."
+    },
+    {
+      "$id": 399,
+      "style": 36,
+      "name": "盗まれたお金2"
+    },
+    {
+      "$id": 400,
+      "style": 61,
+      "name": "黒毛ノポンに盗まれたお金。\nしかし10万Ｇしか入っていない。"
+    },
+    {
+      "$id": 401,
+      "style": 36,
+      "name": "盗まれたお金3"
+    },
+    {
+      "$id": 402,
+      "style": 61,
+      "name": "黒毛ノポンに盗まれたお金。\nしかし10万Ｇしか入っていない。"
+    },
+    {
+      "$id": 403,
+      "style": 36,
+      "name": "盗まれたお金4"
+    },
+    {
+      "$id": 404,
+      "style": 61,
+      "name": "黒毛ノポンに盗まれたお金。\nしかし10万Ｇしか入っていない。"
+    },
+    {
+      "$id": 405,
+      "style": 36,
+      "name": "Shimmering Feather"
+    },
+    {
+      "$id": 406,
+      "style": 61,
+      "name": "A special feather that can only be got\nfrom a Shika Rhogul when hatching."
+    },
+    {
+      "$id": 407,
+      "style": 36,
+      "name": "Nefer's Underwear"
+    },
+    {
+      "$id": 408,
+      "style": 61,
+      "name": "Emperor Nefer's underwear of simple\ndesign, but expensive materials."
+    },
+    {
+      "$id": 409,
+      "style": 36,
+      "name": "Jammie's Mud Balls"
+    },
+    {
+      "$id": 410,
+      "style": 61,
+      "name": "Jammie's treasure stolen by Jankie.\nVery spherical for mud balls..."
+    },
+    {
+      "$id": 411,
+      "style": 36,
+      "name": "Whelzaman Cookie"
+    },
+    {
+      "$id": 412,
+      "style": 61,
+      "name": "Children love the strong and handsome\nface of Whelzaman on this cookie."
+    },
+    {
+      "$id": 413,
+      "style": 36,
+      "name": "頼まれた荷物"
+    },
+    {
+      "$id": 414,
+      "style": 61,
+      "name": "船員に運ぶように頼まれた荷物"
+    },
+    {
+      "$id": 415,
+      "style": 36,
+      "name": "Sunshine Pie Recipe"
+    },
+    {
+      "$id": 416,
+      "style": 61,
+      "name": "Recipe received from Twaina\nthe pie maker in Trigo."
+    },
+    {
+      "$id": 417,
+      "style": 36,
+      "name": "Salvager Rank E Cert."
+    },
+    {
+      "$id": 418,
+      "style": 61,
+      "name": "Proves you're a Baby-Level Salvager.\nYou've only just started."
+    },
+    {
+      "$id": 419,
+      "style": 36,
+      "name": "Salvager Rank D Cert."
+    },
+    {
+      "$id": 420,
+      "style": 61,
+      "name": "Proves you're a Bahn-Level Salvager.\nThis is about the average skill level."
+    },
+    {
+      "$id": 421,
+      "style": 36,
+      "name": "Salvager Rank C Cert."
+    },
+    {
+      "$id": 422,
+      "style": 61,
+      "name": "Proves you're a Mushroom-Feast\nSalvager, the envy of all Nopon."
+    },
+    {
+      "$id": 423,
+      "style": 36,
+      "name": "Salvager Rank B Cert."
+    },
+    {
+      "$id": 424,
+      "style": 61,
+      "name": "Proves you're a Legendary Salvager.\nOnly the third one Mochichi has met."
+    },
+    {
+      "$id": 425,
+      "style": 36,
+      "name": "Salvager Rank A Cert."
+    },
+    {
+      "$id": 426,
+      "style": 61,
+      "name": "Proves you are a Divine Salvager.\nSo skillful you have a holy aura."
+    },
+    {
+      "$id": 427,
+      "style": 36,
+      "name": "Heart Cookies"
+    },
+    {
+      "$id": 428,
+      "style": 61,
+      "name": "Cookies made by an Acedian refugee\nchild. Your money was well spent."
+    },
+    {
+      "$id": 429,
+      "style": 36,
+      "name": "Nimble Nopon Get Girls"
+    },
+    {
+      "$id": 430,
+      "style": 36,
+      "name": "Artificial Blade Report"
+    },
+    {
+      "$id": 431,
+      "style": 36,
+      "name": "Ether R&D Revolution"
+    },
+    {
+      "$id": 432,
+      "style": 36,
+      "name": "Robolab Club Quarterly"
+    },
+    {
+      "$id": 433,
+      "style": 36,
+      "name": "Hypertech Made Easy"
+    },
+    {
+      "$id": 434,
+      "style": 61,
+      "name": "But how would Cancan know...? In any\ncase, this unlocks new parts for Hana."
+    },
+    {
+      "$id": 435,
+      "style": 61,
+      "name": "Despite sloppy handwriting only family\ncan read, this unlocks new Hana parts."
+    },
+    {
+      "$id": 436,
+      "style": 61,
+      "name": "The author bet all his money on it.\nThanks! Unlocks new Hana parts."
+    },
+    {
+      "$id": 437,
+      "style": 61,
+      "name": "Started out weekly, but that didn't last.\nIt unlocks new Hana parts regardless."
+    },
+    {
+      "$id": 438,
+      "style": 61,
+      "name": "Understand it? You're not a dummy,\nthen. Great! Unlocks new Hana parts."
+    },
+    {
+      "$id": 439,
+      "style": 36,
+      "name": "ゲテモノレシピ"
+    },
+    {
+      "$id": 440,
+      "style": 61,
+      "name": "レストランのオーナーから\nもらったレシピ"
+    },
+    {
+      "$id": 441,
+      "style": 36,
+      "name": "Level 1 Access Key"
+    },
+    {
+      "$id": 442,
+      "style": 61,
+      "name": "Key that opens the Divine Beast Battleship's\narmory and cell doors."
+    },
+    {
+      "$id": 443,
+      "style": 36,
+      "name": "Level 2 Access Key"
+    },
+    {
+      "$id": 444,
+      "style": 61,
+      "name": "Key that opens the Divine Beast Battleship's\ndefense doors."
+    },
+    {
+      "$id": 445,
+      "style": 36,
+      "name": "Senior Officer's Key"
+    },
+    {
+      "$id": 446,
+      "style": 61,
+      "name": "Key that opens the Divine Beast Battleship's\ncell doors, operates bridges, etc."
+    },
+    {
+      "$id": 447,
+      "style": 36,
+      "name": "Ether Tank Key"
+    },
+    {
+      "$id": 448,
+      "style": 61,
+      "name": "Key for the giant ether tank in the\nold factory in Superbia."
+    },
+    {
+      "$id": 449,
+      "style": 36,
+      "name": "Hangar Division Key"
+    },
+    {
+      "$id": 450,
+      "style": 61,
+      "name": "Key for the hangar division in the\nold factory in Superbia."
+    },
+    {
+      "$id": 451,
+      "style": 36,
+      "name": "Keycode"
+    },
+    {
+      "$id": 452,
+      "style": 61,
+      "name": "Keycode for activating the elevator\nto the Sky Bridge/World Tree."
+    },
+    {
+      "$id": 453,
+      "style": 36,
+      "name": "Proof of Akatsuki's Fall"
+    },
+    {
+      "$id": 454,
+      "style": 61,
+      "name": "The Core Crystal of Akatsuki, leader\nof the anti-imperialist Brionac rebels."
+    },
+    {
+      "$id": 455,
+      "style": 36,
+      "name": "謎の合体パーツ(仮)"
+    },
+    {
+      "$id": 456,
+      "style": 61,
+      "name": "謎のパーツが結合したパーツ(仮)"
+    },
+    {
+      "$id": 457,
+      "style": 36,
+      "name": "Basement Key"
+    },
+    {
+      "$id": 458,
+      "style": 61,
+      "name": "Key for opening the basement at Island\nBase Lindwurm, Liberalitan Archipelago."
+    },
+    {
+      "$id": 459,
+      "style": 36,
+      "name": "Green Pollen Orb"
+    },
+    {
+      "$id": 460,
+      "style": 61,
+      "name": "Food for taming Divine Beasts. Feed them this,\nand they'll gladly serve as your vessel."
+    },
+    {
+      "$id": 461,
+      "style": 36,
+      "name": "Anangham Gate Key"
+    },
+    {
+      "$id": 462,
+      "style": 61,
+      "name": "Key for gate in Port Anangham in Superbia. Dropped by a careless soldier."
+    },
+    {
+      "$id": 463,
+      "style": 36,
+      "name": "Smùide Plant Key"
+    },
+    {
+      "$id": 464,
+      "style": 61,
+      "name": "Key for the door to Smùide Plant in\nAlba Margen."
+    },
+    {
+      "$id": 465,
+      "style": 36,
+      "name": "Control Room Key"
+    },
+    {
+      "$id": 466,
+      "style": 61,
+      "name": "Key to the control room in Superbia's\nold industrial district."
+    },
+    {
+      "$id": 467,
+      "style": 36,
+      "name": "Old Town Gate Key"
+    },
+    {
+      "$id": 468,
+      "style": 61,
+      "name": "Key that opens the Old Town gate in\nSuperbia's old industrial district."
+    },
+    {
+      "$id": 469,
+      "style": 36,
+      "name": "Trial Neon Cookies"
+    },
+    {
+      "$id": 470,
+      "style": 61,
+      "name": "Experimental cookies thought up by\nYuou. They combine a variety of flavors."
+    },
+    {
+      "$id": 471,
+      "style": 36,
+      "name": "Trial Hot Cookies"
+    },
+    {
+      "$id": 472,
+      "style": 61,
+      "name": "Experimental cookies thought up by\nYuou. Eating one overheats the body."
+    },
+    {
+      "$id": 473,
+      "style": 36,
+      "name": "Trial Blood Cookies"
+    },
+    {
+      "$id": 474,
+      "style": 61,
+      "name": "Experimental cookies thought up by\nYuou. Great flavor, but odd smell."
+    },
+    {
+      "$id": 475,
+      "style": 36,
+      "name": "Trial Snipe Flan"
+    },
+    {
+      "$id": 476,
+      "style": 61,
+      "name": "An experimental flan thought up by\nYuou. Clears the head with each bite."
+    },
+    {
+      "$id": 477,
+      "style": 36,
+      "name": "Trial Laughcaf Flan"
+    },
+    {
+      "$id": 478,
+      "style": 61,
+      "name": "An experimental flan thought up\nby Yuou. Too boring to sell."
+    },
+    {
+      "$id": 479,
+      "style": 36,
+      "name": "Trial Romello Flan"
+    },
+    {
+      "$id": 480,
+      "style": 61,
+      "name": "An experimental flan thought up by\nYuou. A poor imitation of true love."
+    },
+    {
+      "$id": 481,
+      "style": 36,
+      "name": "Trial Flumbleflan"
+    },
+    {
+      "$id": 482,
+      "style": 61,
+      "name": "An experimental flan thought up by\nYuou. Truly depresses the eater."
+    },
+    {
+      "$id": 483,
+      "style": 36,
+      "name": "Trial Lovemerry Cake"
+    },
+    {
+      "$id": 484,
+      "style": 61,
+      "name": "An experimental cake thought up by\nYuou. Best cake in Alst, apparently."
+    },
+    {
+      "$id": 485,
+      "style": 36,
+      "name": "Trial Starlit Tart"
+    },
+    {
+      "$id": 486,
+      "style": 61,
+      "name": "An experimental cake thought up by\nYuou. Looks great, tastes meh..."
+    },
+    {
+      "$id": 487,
+      "style": 36,
+      "name": "Trial Starry Waffle"
+    },
+    {
+      "$id": 488,
+      "style": 61,
+      "name": "An experimental cake thought up by\nYuou. Should have brought luck..."
+    },
+    {
+      "$id": 489,
+      "style": 36,
+      "name": "Trial Glitterspud Cake"
+    },
+    {
+      "$id": 490,
+      "style": 61,
+      "name": "An experimental cake thought up by\nYuou. Includes two bags of sugar."
+    },
+    {
+      "$id": 491,
+      "style": 36,
+      "name": "Rumbletum Deeds"
+    },
+    {
+      "$id": 492,
+      "style": 36,
+      "name": "Fishy Fishy Deeds"
+    },
+    {
+      "$id": 493,
+      "style": 36,
+      "name": "Honeycomb Deeds"
+    },
+    {
+      "$id": 494,
+      "style": 36,
+      "name": "Brothersisterpon Deeds"
+    },
+    {
+      "$id": 495,
+      "style": 36,
+      "name": "Strummer Deeds"
+    },
+    {
+      "$id": 496,
+      "style": 36,
+      "name": "Reedirait Deeds"
+    },
+    {
+      "$id": 497,
+      "style": 36,
+      "name": "Nopox Deeds"
+    },
+    {
+      "$id": 498,
+      "style": 36,
+      "name": "Cleo Deeds"
+    },
+    {
+      "$id": 499,
+      "style": 36,
+      "name": "Tilly Deeds"
+    },
+    {
+      "$id": 500,
+      "style": 36,
+      "name": "Llysiau Deeds"
+    },
+    {
+      "$id": 501,
+      "style": 36,
+      "name": "Gryff Deeds"
+    },
+    {
+      "$id": 502,
+      "style": 36,
+      "name": "Tomi Deeds"
+    },
+    {
+      "$id": 503,
+      "style": 36,
+      "name": "Savvy Deeds"
+    },
+    {
+      "$id": 504,
+      "style": 36,
+      "name": "Soniarus Deeds"
+    },
+    {
+      "$id": 505,
+      "style": 36,
+      "name": "Cmalaf Deeds"
+    },
+    {
+      "$id": 506,
+      "style": 36,
+      "name": "Cosmetipolitan Deeds"
+    },
+    {
+      "$id": 507,
+      "style": 36,
+      "name": "Neuromin Deeds"
+    },
+    {
+      "$id": 508,
+      "style": 36,
+      "name": "Brad Deeds"
+    },
+    {
+      "$id": 509,
+      "style": 36,
+      "name": "Volty Deeds"
+    },
+    {
+      "$id": 510,
+      "style": 36,
+      "name": "Ikthus Deeds"
+    },
+    {
+      "$id": 511,
+      "style": 36,
+      "name": "Sprintsy Deeds"
+    },
+    {
+      "$id": 512,
+      "style": 36,
+      "name": "Maluria Deeds"
+    },
+    {
+      "$id": 513,
+      "style": 36,
+      "name": "Aldomar Deeds"
+    },
+    {
+      "$id": 514,
+      "style": 36,
+      "name": "Knick-Knacks Deeds"
+    },
+    {
+      "$id": 515,
+      "style": 36,
+      "name": "Aquaneze Deeds"
+    },
+    {
+      "$id": 516,
+      "style": 36,
+      "name": "Sadecott Deeds"
+    },
+    {
+      "$id": 517,
+      "style": 36,
+      "name": "Vargel Deeds"
+    },
+    {
+      "$id": 518,
+      "style": 36,
+      "name": "Vibrattio Deeds"
+    },
+    {
+      "$id": 519,
+      "style": 36,
+      "name": "Fallone Deeds"
+    },
+    {
+      "$id": 520,
+      "style": 36,
+      "name": "Griogair Deeds"
+    },
+    {
+      "$id": 521,
+      "style": 36,
+      "name": "Bassani Deeds"
+    },
+    {
+      "$id": 522,
+      "style": 36,
+      "name": "Hanoon Deeds"
+    },
+    {
+      "$id": 523,
+      "style": 36,
+      "name": "Salter Deeds"
+    },
+    {
+      "$id": 524,
+      "style": 36,
+      "name": "Adelno Deeds"
+    },
+    {
+      "$id": 525,
+      "style": 36,
+      "name": "Yafush Deeds"
+    },
+    {
+      "$id": 526,
+      "style": 36,
+      "name": "Haskefell Deeds"
+    },
+    {
+      "$id": 527,
+      "style": 36,
+      "name": "Elgeschel Deeds"
+    },
+    {
+      "$id": 528,
+      "style": 36,
+      "name": "Platini Deeds"
+    },
+    {
+      "$id": 529,
+      "style": 36,
+      "name": "Lectica Deeds"
+    },
+    {
+      "$id": 530,
+      "style": 36,
+      "name": "Tatraty Deeds"
+    },
+    {
+      "$id": 531,
+      "style": 36,
+      "name": "Placks Deeds"
+    },
+    {
+      "$id": 532,
+      "style": 36,
+      "name": "Memoria Deeds"
+    },
+    {
+      "$id": 533,
+      "style": 36,
+      "name": "Paulio Deeds"
+    },
+    {
+      "$id": 534,
+      "style": 36,
+      "name": "Trappers Deeds"
+    },
+    {
+      "$id": 535,
+      "style": 36,
+      "name": "Praximo Deeds"
+    },
+    {
+      "$id": 536,
+      "style": 36,
+      "name": "Boldarde Deeds"
+    },
+    {
+      "$id": 537,
+      "style": 36,
+      "name": "Corcaja Deeds"
+    },
+    {
+      "$id": 538,
+      "style": 36,
+      "name": "Speck Deeds"
+    },
+    {
+      "$id": 539,
+      "style": 36,
+      "name": "Coral Leaf Deeds"
+    },
+    {
+      "$id": 540,
+      "style": 36,
+      "name": "Talmye Deeds"
+    },
+    {
+      "$id": 541,
+      "style": 36,
+      "name": "Future Deeds"
+    },
+    {
+      "$id": 542,
+      "style": 36,
+      "name": "Lutino Deeds"
+    },
+    {
+      "$id": 543,
+      "style": 61,
+      "name": "Proof of ownership of an\ngrocery store in Avaritia."
+    },
+    {
+      "$id": 544,
+      "style": 61,
+      "name": "Proof of ownership of a\nfishmongers in Avaritia."
+    },
+    {
+      "$id": 545,
+      "style": 61,
+      "name": "Proof of ownership of a\nconfectionery in Avaritia."
+    },
+    {
+      "$id": 546,
+      "style": 61,
+      "name": "Proof of ownership of a\nbeverage store in Avaritia."
+    },
+    {
+      "$id": 547,
+      "style": 61,
+      "name": "Proof of ownership of a\nmusical instrument store in Avaritia."
+    },
+    {
+      "$id": 548,
+      "style": 61,
+      "name": "Proof of ownership of a\nbookstore in Avaritia."
+    },
+    {
+      "$id": 549,
+      "style": 61,
+      "name": "Proof of ownership of a\nboard game store in Avaritia."
+    },
+    {
+      "$id": 550,
+      "style": 61,
+      "name": "Proof of ownership of a\ncosmetic store in Avaritia."
+    },
+    {
+      "$id": 551,
+      "style": 61,
+      "name": "Proof of ownership of a\ngrocery store in Gula."
+    },
+    {
+      "$id": 552,
+      "style": 61,
+      "name": "Proof of ownership of a\ngreengrocers in Gula."
+    },
+    {
+      "$id": 553,
+      "style": 61,
+      "name": "Proof of ownership of a\nbutchers in Gula."
+    },
+    {
+      "$id": 554,
+      "style": 61,
+      "name": "Proof of ownership of a\nfishmongers in Gula."
+    },
+    {
+      "$id": 555,
+      "style": 61,
+      "name": "Proof of ownership of a\nbeverage store in Gula."
+    },
+    {
+      "$id": 556,
+      "style": 61,
+      "name": "Proof of ownership of a\nmusical instrument store in Gula."
+    },
+    {
+      "$id": 557,
+      "style": 61,
+      "name": "Proof of ownership of an\nart gallery in Gula."
+    },
+    {
+      "$id": 558,
+      "style": 61,
+      "name": "Proof of ownership of a\ncosmetic store in Gula."
+    },
+    {
+      "$id": 559,
+      "style": 61,
+      "name": "Proof of ownership of a\ntextile store in Gula."
+    },
+    {
+      "$id": 560,
+      "style": 61,
+      "name": "Proof of ownership of a\ngrocery store in Invidia."
+    },
+    {
+      "$id": 561,
+      "style": 61,
+      "name": "Proof of ownership of a\nbutchers in Invidia."
+    },
+    {
+      "$id": 562,
+      "style": 61,
+      "name": "Proof of ownership of a\nfishmongers in Invidia."
+    },
+    {
+      "$id": 563,
+      "style": 61,
+      "name": "Proof of ownership of a\nconfectionery in Invidia."
+    },
+    {
+      "$id": 564,
+      "style": 61,
+      "name": "Proof of ownership of an\nart gallery in Invidia."
+    },
+    {
+      "$id": 565,
+      "style": 61,
+      "name": "Proof of ownership of a\nbookstore in Invidia."
+    },
+    {
+      "$id": 566,
+      "style": 61,
+      "name": "Proof of ownership of a\nboard game store in Invidia."
+    },
+    {
+      "$id": 567,
+      "style": 61,
+      "name": "Proof of ownership of a\ncosmetic store in Invidia."
+    },
+    {
+      "$id": 568,
+      "style": 61,
+      "name": "Proof of ownership of a\ngreengrocers in Invidia."
+    },
+    {
+      "$id": 569,
+      "style": 61,
+      "name": "Proof of ownership of a\nbeverage store in Invidia."
+    },
+    {
+      "$id": 570,
+      "style": 61,
+      "name": "Proof of ownership of a\nmusical instrument store in Invidia."
+    },
+    {
+      "$id": 571,
+      "style": 61,
+      "name": "Proof of ownership of a\ntextile store in Invidia."
+    },
+    {
+      "$id": 572,
+      "style": 61,
+      "name": "Proof of ownership of a\ngreengrocers in Superbia."
+    },
+    {
+      "$id": 573,
+      "style": 61,
+      "name": "Proof of ownership of a\nbutchers in Superbia."
+    },
+    {
+      "$id": 574,
+      "style": 61,
+      "name": "Proof of ownership of a\nfishmongers in Superbia."
+    },
+    {
+      "$id": 575,
+      "style": 61,
+      "name": "Proof of ownership of a\nconfectionery in Superbia."
+    },
+    {
+      "$id": 576,
+      "style": 61,
+      "name": "Proof of ownership of a\nmusical instrument store in Superbia."
+    },
+    {
+      "$id": 577,
+      "style": 61,
+      "name": "Proof of ownership of an\nart gallery in Superbia."
+    },
+    {
+      "$id": 578,
+      "style": 61,
+      "name": "Proof of ownership of a\nbookstore in Superbia."
+    },
+    {
+      "$id": 579,
+      "style": 61,
+      "name": "Proof of ownership of a\nboard game store in Superbia."
+    },
+    {
+      "$id": 580,
+      "style": 61,
+      "name": "Proof of ownership of a\ngrocery store in Luxuria."
+    },
+    {
+      "$id": 581,
+      "style": 61,
+      "name": "Proof of ownership of a\ngreengrocers in Luxuria."
+    },
+    {
+      "$id": 582,
+      "style": 61,
+      "name": "Proof of ownership of a\nfishmongers in Luxuria."
+    },
+    {
+      "$id": 583,
+      "style": 61,
+      "name": "Proof of ownership of a\nconfectionery in Luxuria."
+    },
+    {
+      "$id": 584,
+      "style": 61,
+      "name": "Proof of ownership of an\nart gallery in Luxuria."
+    },
+    {
+      "$id": 585,
+      "style": 61,
+      "name": "Proof of ownership of a\nbookstore in Luxuria."
+    },
+    {
+      "$id": 586,
+      "style": 61,
+      "name": "Proof of ownership of a\nboard game store in Luxuria."
+    },
+    {
+      "$id": 587,
+      "style": 61,
+      "name": "Proof of ownership of a\ncosmetic store in Luxuria."
+    },
+    {
+      "$id": 588,
+      "style": 61,
+      "name": "Proof of ownership of a\ntextile store in Luxuria."
+    },
+    {
+      "$id": 589,
+      "style": 61,
+      "name": "Proof of ownership of a\ngreengrocers in Liberalitas."
+    },
+    {
+      "$id": 590,
+      "style": 61,
+      "name": "Proof of ownership of a\nbutchers in Liberalitas."
+    },
+    {
+      "$id": 591,
+      "style": 61,
+      "name": "Proof of ownership of a\nfishmongers in Liberalitas."
+    },
+    {
+      "$id": 592,
+      "style": 61,
+      "name": "Proof of ownership of an\nart gallery in Liberalitas."
+    },
+    {
+      "$id": 593,
+      "style": 61,
+      "name": "Proof of ownership of a\ntextile store in Liberalitas."
+    },
+    {
+      "$id": 594,
+      "style": 61,
+      "name": "Proof of ownership of a\nbeverage store in Liberalitas."
+    },
+    {
+      "$id": 595,
+      "style": 36,
+      "name": "Control Room Key"
+    },
+    {
+      "$id": 596,
+      "style": 61,
+      "name": "Key to the control room of the\nold factory in Superbia."
+    },
+    {
+      "$id": 597,
+      "style": 36,
+      "name": "???"
+    },
+    {
+      "$id": 598,
+      "style": 61,
+      "name": "Not clear what type of jewel, so get\nit appraised by an expert jeweler."
+    },
+    {
+      "$id": 599,
+      "style": 36,
+      "name": "Letter to Melvin"
+    },
+    {
+      "$id": 600,
+      "style": 61,
+      "name": "From the blood-soaked letter: \"To my\nbrother, Autumn-Shower, tonight...\""
+    },
+    {
+      "$id": 601,
+      "style": 36,
+      "name": "Graduation Certificate"
+    },
+    {
+      "$id": 602,
+      "style": 61,
+      "name": "Proof of Hana's education at\nBluesky Nopon University."
+    },
+    {
+      "$id": 603,
+      "style": 61,
+      "name": "Increases running speed by 5%."
+    },
+    {
+      "$id": 604,
+      "style": 61,
+      "name": "Reduces terrain damage by 10%."
+    },
+    {
+      "$id": 605,
+      "style": 61,
+      "name": "Increases capacity for\nlifestyle items by ten."
+    },
+    {
+      "$id": 606,
+      "style": 61,
+      "name": "Increases Idea Point gains by one."
+    },
+    {
+      "$id": 607,
+      "style": 61,
+      "name": "Increases Dev Point gains by one."
+    },
+    {
+      "$id": 608,
+      "style": 61,
+      "name": "Increases battle experience by 10%."
+    },
+    {
+      "$id": 609,
+      "style": 61,
+      "name": "Increases gold earned in battle by 10%."
+    },
+    {
+      "$id": 610,
+      "style": 61,
+      "name": "Increases item discovery rate by 10%."
+    },
+    {
+      "$id": 611,
+      "style": 61,
+      "name": "Decreases enemy detection\nrange by 5%."
+    },
+    {
+      "$id": 612,
+      "style": 61,
+      "name": "Increases item drop collection\nrange by 50cm."
+    },
+    {
+      "$id": 613,
+      "style": 61,
+      "name": "Increases lure range by 2m."
+    },
+    {
+      "$id": 614,
+      "style": 61,
+      "name": "Decreases out-of-battle Party Gauge\ndrain rate by 25%."
+    },
+    {
+      "$id": 615,
+      "style": 36,
+      "name": "Pouch Expansion Kit"
+    },
+    {
+      "$id": 616,
+      "style": 61,
+      "name": "Allows you to increase pouch capacity.\nUse in the Pouch Setup menu."
+    },
+    {
+      "$id": 617,
+      "style": 36,
+      "name": "Bright Contract"
+    },
+    {
+      "$id": 618,
+      "style": 36,
+      "name": "Tasty Contract"
+    },
+    {
+      "$id": 619,
+      "style": 36,
+      "name": "Marine Contract"
+    },
+    {
+      "$id": 620,
+      "style": 36,
+      "name": "Fruity Rice Contract"
+    },
+    {
+      "$id": 621,
+      "style": 36,
+      "name": "Narcipear Contract"
+    },
+    {
+      "$id": 622,
+      "style": 36,
+      "name": "Silent Contract"
+    },
+    {
+      "$id": 623,
+      "style": 36,
+      "name": "Clicky-Clacks Contract"
+    },
+    {
+      "$id": 624,
+      "style": 36,
+      "name": "Adventures Contract"
+    },
+    {
+      "$id": 625,
+      "style": 36,
+      "name": "Littlepon Contract"
+    },
+    {
+      "$id": 626,
+      "style": 36,
+      "name": "Coral Contract"
+    },
+    {
+      "$id": 627,
+      "style": 36,
+      "name": "Liberalitas Contract"
+    },
+    {
+      "$id": 628,
+      "style": 36,
+      "name": "Bubbly Contract"
+    },
+    {
+      "$id": 629,
+      "style": 36,
+      "name": "Full Moon Contract"
+    },
+    {
+      "$id": 630,
+      "style": 36,
+      "name": "Ruska Noodle Contract"
+    },
+    {
+      "$id": 631,
+      "style": 36,
+      "name": "Beat Paste Contract"
+    },
+    {
+      "$id": 632,
+      "style": 36,
+      "name": "Puri Leaf Contract"
+    },
+    {
+      "$id": 633,
+      "style": 36,
+      "name": "Snowy Dudleya Contract"
+    },
+    {
+      "$id": 634,
+      "style": 36,
+      "name": "Lentil Contract"
+    },
+    {
+      "$id": 635,
+      "style": 36,
+      "name": "Mustard Contract"
+    },
+    {
+      "$id": 636,
+      "style": 36,
+      "name": "Bipedal Crab Contract"
+    },
+    {
+      "$id": 637,
+      "style": 36,
+      "name": "Passion Fruit Contract"
+    },
+    {
+      "$id": 638,
+      "style": 36,
+      "name": "Victory Contract"
+    },
+    {
+      "$id": 639,
+      "style": 36,
+      "name": "Woodboard Contract"
+    },
+    {
+      "$id": 640,
+      "style": 36,
+      "name": "Coralline Contract"
+    },
+    {
+      "$id": 641,
+      "style": 36,
+      "name": "Bahn Etching Contract"
+    },
+    {
+      "$id": 642,
+      "style": 36,
+      "name": "Wood-Carving Contract"
+    },
+    {
+      "$id": 643,
+      "style": 36,
+      "name": "Conch Contract"
+    },
+    {
+      "$id": 644,
+      "style": 36,
+      "name": "Sparkly Snow Contract"
+    },
+    {
+      "$id": 645,
+      "style": 36,
+      "name": "Leaf-Weave Contract"
+    },
+    {
+      "$id": 646,
+      "style": 36,
+      "name": "Snowflake Contract"
+    },
+    {
+      "$id": 647,
+      "style": 36,
+      "name": "Glitterspud Contract"
+    },
+    {
+      "$id": 648,
+      "style": 36,
+      "name": "Hearty Contract"
+    },
+    {
+      "$id": 649,
+      "style": 36,
+      "name": "Hyacinth Contract"
+    },
+    {
+      "$id": 650,
+      "style": 36,
+      "name": "Pickling Contract"
+    },
+    {
+      "$id": 651,
+      "style": 36,
+      "name": "Hotplate Contract"
+    },
+    {
+      "$id": 652,
+      "style": 36,
+      "name": "Char-Grilling Contract"
+    },
+    {
+      "$id": 653,
+      "style": 36,
+      "name": "Bluegill Contract"
+    },
+    {
+      "$id": 654,
+      "style": 36,
+      "name": "Seed-Grill Contract"
+    },
+    {
+      "$id": 655,
+      "style": 36,
+      "name": "Jelly Contract"
+    },
+    {
+      "$id": 656,
+      "style": 36,
+      "name": "Fizz Contract"
+    },
+    {
+      "$id": 657,
+      "style": 36,
+      "name": "Milkshake Contract"
+    },
+    {
+      "$id": 658,
+      "style": 36,
+      "name": "Rumble Contract"
+    },
+    {
+      "$id": 659,
+      "style": 36,
+      "name": "Cloudsnail Contract"
+    },
+    {
+      "$id": 660,
+      "style": 36,
+      "name": "Maiden Statue Contract"
+    },
+    {
+      "$id": 661,
+      "style": 36,
+      "name": "Skywards Contract"
+    },
+    {
+      "$id": 662,
+      "style": 36,
+      "name": "Masterpiece Contract"
+    },
+    {
+      "$id": 663,
+      "style": 36,
+      "name": "Love and War Contract"
+    },
+    {
+      "$id": 664,
+      "style": 36,
+      "name": "Nopopomouli Contract"
+    },
+    {
+      "$id": 665,
+      "style": 36,
+      "name": "Coral Casino Contract"
+    },
+    {
+      "$id": 666,
+      "style": 36,
+      "name": "Beautiful Contract"
+    },
+    {
+      "$id": 667,
+      "style": 36,
+      "name": "Iyasaki-Rouge Contract"
+    },
+    {
+      "$id": 668,
+      "style": 36,
+      "name": "Woodwing Contract"
+    },
+    {
+      "$id": 669,
+      "style": 36,
+      "name": "Sanar-Knit Contract"
+    },
+    {
+      "$id": 670,
+      "style": 36,
+      "name": "Crispy Veg Contract"
+    },
+    {
+      "$id": 671,
+      "style": 36,
+      "name": "Steamflake Contract"
+    },
+    {
+      "$id": 672,
+      "style": 36,
+      "name": "Estral Contract"
+    },
+    {
+      "$id": 673,
+      "style": 36,
+      "name": "Armu Meat Contract"
+    },
+    {
+      "$id": 674,
+      "style": 36,
+      "name": "Ceviche Contract"
+    },
+    {
+      "$id": 675,
+      "style": 36,
+      "name": "Fish Contract"
+    },
+    {
+      "$id": 676,
+      "style": 36,
+      "name": "Gelée Tart Contract"
+    },
+    {
+      "$id": 677,
+      "style": 36,
+      "name": "Hot Ruby Contract"
+    },
+    {
+      "$id": 678,
+      "style": 36,
+      "name": "Xylophone Contract"
+    },
+    {
+      "$id": 679,
+      "style": 36,
+      "name": "Icicle Contract"
+    },
+    {
+      "$id": 680,
+      "style": 36,
+      "name": "Felmeri Contract"
+    },
+    {
+      "$id": 681,
+      "style": 36,
+      "name": "Music Box Contract"
+    },
+    {
+      "$id": 682,
+      "style": 36,
+      "name": "Profiteering Contract"
+    },
+    {
+      "$id": 683,
+      "style": 36,
+      "name": "Cloud Love Contract"
+    },
+    {
+      "$id": 684,
+      "style": 36,
+      "name": "Kingdom Contract"
+    },
+    {
+      "$id": 685,
+      "style": 36,
+      "name": "Plumber Contract"
+    },
+    {
+      "$id": 686,
+      "style": 36,
+      "name": "Veg Contract"
+    },
+    {
+      "$id": 687,
+      "style": 36,
+      "name": "Snowbaby Contract"
+    },
+    {
+      "$id": 688,
+      "style": 36,
+      "name": "Stralu Contract"
+    },
+    {
+      "$id": 689,
+      "style": 36,
+      "name": "Glarna Contract"
+    },
+    {
+      "$id": 690,
+      "style": 36,
+      "name": "Killifish Contract"
+    },
+    {
+      "$id": 691,
+      "style": 36,
+      "name": "Searing Contract"
+    },
+    {
+      "$id": 692,
+      "style": 36,
+      "name": "Pipestraw Contract"
+    },
+    {
+      "$id": 693,
+      "style": 36,
+      "name": "Armu Milk Contract"
+    },
+    {
+      "$id": 694,
+      "style": 36,
+      "name": "Steel Pipe Contract"
+    },
+    {
+      "$id": 695,
+      "style": 36,
+      "name": "Moonbeam Contract"
+    },
+    {
+      "$id": 696,
+      "style": 36,
+      "name": "Noponcho Contract"
+    },
+    {
+      "$id": 697,
+      "style": 36,
+      "name": "Prismatic Contract"
+    },
+    {
+      "$id": 698,
+      "style": 36,
+      "name": "Samod Contract"
+    },
+    {
+      "$id": 699,
+      "style": 36,
+      "name": "Grumbird Contract"
+    },
+    {
+      "$id": 700,
+      "style": 36,
+      "name": "Ice Cabbage Contract"
+    },
+    {
+      "$id": 701,
+      "style": 36,
+      "name": "Prickly Contract"
+    },
+    {
+      "$id": 702,
+      "style": 36,
+      "name": "Bagna Contract"
+    },
+    {
+      "$id": 703,
+      "style": 36,
+      "name": "Whitebait Contract"
+    },
+    {
+      "$id": 704,
+      "style": 36,
+      "name": "Odifa Punch Contract"
+    },
+    {
+      "$id": 705,
+      "style": 36,
+      "name": "Dumplings Contract"
+    },
+    {
+      "$id": 706,
+      "style": 36,
+      "name": "Blizzard Contract"
+    },
+    {
+      "$id": 707,
+      "style": 36,
+      "name": "Astrology Contract"
+    },
+    {
+      "$id": 708,
+      "style": 36,
+      "name": "Nopon Contract"
+    },
+    {
+      "$id": 709,
+      "style": 36,
+      "name": "Billiard Contract"
+    },
+    {
+      "$id": 710,
+      "style": 36,
+      "name": "Noponic Contract"
+    },
+    {
+      "$id": 711,
+      "style": 36,
+      "name": "Steam Contract"
+    },
+    {
+      "$id": 712,
+      "style": 36,
+      "name": "Musical Contract"
+    },
+    {
+      "$id": 713,
+      "style": 36,
+      "name": "Trigo Contract"
+    },
+    {
+      "$id": 714,
+      "style": 36,
+      "name": "Ophion's Data Terminal"
+    },
+    {
+      "$id": 715,
+      "style": 36,
+      "name": "Weaponry for Noobs"
+    },
+    {
+      "$id": 716,
+      "style": 36,
+      "name": "Intermediate Weaponry"
+    },
+    {
+      "$id": 717,
+      "style": 36,
+      "name": "Ultimate Weaponry"
+    },
+    {
+      "$id": 718,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Rumbletum Canteen, Avaritia."
+    },
+    {
+      "$id": 719,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Rumbletum Canteen, Avaritia."
+    },
+    {
+      "$id": 720,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Fishy Fishy, Avaritia."
+    },
+    {
+      "$id": 721,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Honeycomb Sweets, Avaritia."
+    },
+    {
+      "$id": 722,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Honeycomb Sweets, Avaritia."
+    },
+    {
+      "$id": 723,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Strummer Instruments, Avaritia."
+    },
+    {
+      "$id": 724,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Strummer Instruments, Avaritia."
+    },
+    {
+      "$id": 725,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Reedirait Bookstore, Avaritia."
+    },
+    {
+      "$id": 726,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Reedirait Bookstore, Avaritia."
+    },
+    {
+      "$id": 727,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Nopox Hobby Store, Avaritia."
+    },
+    {
+      "$id": 728,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Nopox Hobby Store, Avaritia."
+    },
+    {
+      "$id": 729,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Cleo's Cosmetics, Avaritia."
+    },
+    {
+      "$id": 730,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Cleo's Cosmetics, Avaritia."
+    },
+    {
+      "$id": 731,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Tilly Bakery, Gula."
+    },
+    {
+      "$id": 732,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Tilly Bakery, Gula."
+    },
+    {
+      "$id": 733,
+      "style": 61,
+      "name": "Brings new Acedian fusion products\nto Llysiau Greens, Gula."
+    },
+    {
+      "$id": 734,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Llysiau Greens, Gula."
+    },
+    {
+      "$id": 735,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Gryff Butchers, Gula."
+    },
+    {
+      "$id": 736,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Gryff Butchers, Gula."
+    },
+    {
+      "$id": 737,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Tomi Fishmongers, Gula."
+    },
+    {
+      "$id": 738,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Café Savvy, Gula."
+    },
+    {
+      "$id": 739,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Café Savvy, Gula."
+    },
+    {
+      "$id": 740,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Soniarus Music, Gula."
+    },
+    {
+      "$id": 741,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Soniarus Music, Gula."
+    },
+    {
+      "$id": 742,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Cmalaf Artwork, Gula."
+    },
+    {
+      "$id": 743,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Cmalaf Artwork, Gula."
+    },
+    {
+      "$id": 744,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Cosmetipolitan, Gula."
+    },
+    {
+      "$id": 745,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Cosmetipolitan, Gula."
+    },
+    {
+      "$id": 746,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Neuromin Textiles, Gula."
+    },
+    {
+      "$id": 747,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Neuromin Textiles, Gula."
+    },
+    {
+      "$id": 748,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Brad Flatforms, Invidia."
+    },
+    {
+      "$id": 749,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Brad Flatforms, Invidia."
+    },
+    {
+      "$id": 750,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Sadecott Groceries, Invidia."
+    },
+    {
+      "$id": 751,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Sadecott Groceries, Invidia."
+    },
+    {
+      "$id": 752,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Volty Butchers, Invidia."
+    },
+    {
+      "$id": 753,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Volty Butchers, Invidia."
+    },
+    {
+      "$id": 754,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Ikthus Fishmongers, Invidia."
+    },
+    {
+      "$id": 755,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Ikthus Fishmongers, Invidia."
+    },
+    {
+      "$id": 756,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Sprintsy Sweets, Invidia."
+    },
+    {
+      "$id": 757,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Vargel Tavern, Invidia."
+    },
+    {
+      "$id": 758,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Vargel Tavern, Invidia."
+    },
+    {
+      "$id": 759,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Vibrattio Instruments, Invidia."
+    },
+    {
+      "$id": 760,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Vibrattio Instruments, Invidia."
+    },
+    {
+      "$id": 761,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Maluria Antiques, Invidia."
+    },
+    {
+      "$id": 762,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Maluria Antiques, Invidia."
+    },
+    {
+      "$id": 763,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Aldomar Books, Invidia."
+    },
+    {
+      "$id": 764,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Aldomar Books, Invidia."
+    },
+    {
+      "$id": 765,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Hobby Knick-Knacks, Invidia."
+    },
+    {
+      "$id": 766,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Hobby Knick-Knacks, Invidia."
+    },
+    {
+      "$id": 767,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Aquaneze Cosmetics, Invidia."
+    },
+    {
+      "$id": 768,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Aquaneze Cosmetics, Invidia."
+    },
+    {
+      "$id": 769,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Fallone Crafts, Invidia."
+    },
+    {
+      "$id": 770,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Fallone Crafts, Invidia."
+    },
+    {
+      "$id": 771,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Griogair's Greens, Superbia."
+    },
+    {
+      "$id": 772,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Griogair's Greens, Superbia."
+    },
+    {
+      "$id": 773,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Bassani Butchers, Superbia."
+    },
+    {
+      "$id": 774,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Bassani Butchers, Superbia."
+    },
+    {
+      "$id": 775,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Hanoon Fishmongers, Superbia."
+    },
+    {
+      "$id": 776,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Hanoon Fishmongers, Superbia."
+    },
+    {
+      "$id": 777,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Salter Sweets, Superbia."
+    },
+    {
+      "$id": 778,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Salter Sweets, Superbia."
+    },
+    {
+      "$id": 779,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Adelno Music, Superbia."
+    },
+    {
+      "$id": 780,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Adelno Music, Superbia."
+    },
+    {
+      "$id": 781,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Yafush Antiques, Superbia."
+    },
+    {
+      "$id": 782,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Yafush Antiques, Superbia."
+    },
+    {
+      "$id": 783,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Haskefell Books, Superbia."
+    },
+    {
+      "$id": 784,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Haskefell Books, Superbia."
+    },
+    {
+      "$id": 785,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Elgeschel Hobby Store, Superbia."
+    },
+    {
+      "$id": 786,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Elgeschel Hobby Store, Superbia."
+    },
+    {
+      "$id": 787,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Corcaja Greengrocers, Liberalitas."
+    },
+    {
+      "$id": 788,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Corcaja Greengrocers, Liberalitas."
+    },
+    {
+      "$id": 789,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Speck Butchers, Liberalitas."
+    },
+    {
+      "$id": 790,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Speck Butchers, Liberalitas."
+    },
+    {
+      "$id": 791,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Coral Leaf Fresh Fish, Liberalitas."
+    },
+    {
+      "$id": 792,
+      "style": 61,
+      "name": "Brings new Luxurian fusion products\nto Coral Leaf Fresh Fish, Liberalitas."
+    },
+    {
+      "$id": 793,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Cafe Lutino."
+    },
+    {
+      "$id": 794,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Cafe Lutino."
+    },
+    {
+      "$id": 795,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Talmye Antiques, Liberalitas."
+    },
+    {
+      "$id": 796,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Talmye Antiques, Liberalitas."
+    },
+    {
+      "$id": 797,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Future Crafts, Liberalitas."
+    },
+    {
+      "$id": 798,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Future Crafts, Liberalitas."
+    },
+    {
+      "$id": 799,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Platini Deli, Luxuria."
+    },
+    {
+      "$id": 800,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Platini Deli, Luxuria."
+    },
+    {
+      "$id": 801,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Lectica Vegetables, Luxuria."
+    },
+    {
+      "$id": 802,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Lectica Vegetables, Luxuria."
+    },
+    {
+      "$id": 803,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Tatraty Fish, Luxuria."
+    },
+    {
+      "$id": 804,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Tatraty Fish, Luxuria."
+    },
+    {
+      "$id": 805,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Placks Patisserie, Luxuria."
+    },
+    {
+      "$id": 806,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Placks Patisserie, Luxuria."
+    },
+    {
+      "$id": 807,
+      "style": 61,
+      "name": "Brings new Liberalitan fusion products\nto Biblio Paulio, Luxuria."
+    },
+    {
+      "$id": 808,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Biblio Paulio, Luxuria."
+    },
+    {
+      "$id": 809,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Hobby Trappers, Luxuria."
+    },
+    {
+      "$id": 810,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Hobby Trappers, Luxuria."
+    },
+    {
+      "$id": 811,
+      "style": 61,
+      "name": "Brings new Avaritia fusion products\nto Praximo Cosmetics, Luxuria."
+    },
+    {
+      "$id": 812,
+      "style": 61,
+      "name": "Brings new Superbian fusion products\nto Praximo Cosmetics, Luxuria."
+    },
+    {
+      "$id": 813,
+      "style": 61,
+      "name": "Brings new Invidian fusion products\nto Boldarde Textiles, Luxuria."
+    },
+    {
+      "$id": 814,
+      "style": 61,
+      "name": "Brings new Gulan fusion products\nto Boldarde Textiles, Luxuria."
+    },
+    {
+      "$id": 815,
+      "style": 61,
+      "name": "Device holding Ophion's memory.\nOpens the World Tree bulkhead."
+    },
+    {
+      "$id": 816,
+      "style": 61,
+      "name": "Raises WP a little. Select a weapon\nclass in the Enhance Arts menu to use."
+    },
+    {
+      "$id": 817,
+      "style": 61,
+      "name": "Raises WP. Select a weapon\nclass in the Enhance Arts menu to use."
+    },
+    {
+      "$id": 818,
+      "style": 61,
+      "name": "Raises WP a lot. Select a weapon\nclass in the Enhance Arts menu to use."
+    },
+    {
+      "$id": 819,
+      "style": 36,
+      "name": "Nopon Thank-You Note"
+    },
+    {
+      "$id": 820,
+      "style": 61,
+      "name": "\"You findy-found 12 Brothersisterpon!\nAll of them!\" Written in a cute hand."
+    },
+    {
+      "$id": 821,
+      "style": 61,
+      "name": "Max Booster items raised by ten."
+    },
+    {
+      "$id": 822,
+      "style": 36,
+      "name": "Overdrive Protocol"
+    },
+    {
+      "$id": 823,
+      "style": 61,
+      "name": "Transfer Blades bonded with the Driver\nfrom the \"Manage Blades\" sub-menu."
+    },
+    {
+      "$id": 824,
+      "style": 36,
+      "name": "Ladder Key"
+    },
+    {
+      "$id": 825,
+      "style": 61,
+      "name": "Key for using the inspection ladder at\nthe abandoned factory."
+    },
+    {
+      "$id": 826,
+      "style": 36,
+      "name": "Passion of the Artisan"
+    },
+    {
+      "$id": 827,
+      "style": 36,
+      "name": "M.I.A. Nopon"
+    },
+    {
+      "$id": 828,
+      "style": 36,
+      "name": "Industrial Sort of Tour"
+    },
+    {
+      "$id": 829,
+      "style": 36,
+      "name": "Midnight Feasting"
+    },
+    {
+      "$id": 830,
+      "style": 36,
+      "name": "The Lone Watchman"
+    },
+    {
+      "$id": 831,
+      "style": 36,
+      "name": "Nopon of Good Tastes"
+    },
+    {
+      "$id": 832,
+      "style": 36,
+      "name": "Cleared of All Charges"
+    },
+    {
+      "$id": 833,
+      "style": 36,
+      "name": "Beneath the Aurora"
+    },
+    {
+      "$id": 834,
+      "style": 36,
+      "name": "Upgrades and Tinkering"
+    },
+    {
+      "$id": 835,
+      "style": 36,
+      "name": "Most Awful News?!"
+    },
+    {
+      "$id": 836,
+      "style": 36,
+      "name": "A Smith's Pastime"
+    },
+    {
+      "$id": 837,
+      "style": 36,
+      "name": "A Hat Fit for a Lady"
+    },
+    {
+      "$id": 838,
+      "style": 36,
+      "name": "Making Love Source"
+    },
+    {
+      "$id": 839,
+      "style": 36,
+      "name": "A Mercenary's Honor"
+    },
+    {
+      "$id": 840,
+      "style": 36,
+      "name": "Merclibay's Mightiest"
+    },
+    {
+      "$id": 841,
+      "style": 36,
+      "name": "Sunken Boosters"
+    },
+    {
+      "$id": 842,
+      "style": 36,
+      "name": "The Trendy Patissier"
+    },
+    {
+      "$id": 843,
+      "style": 36,
+      "name": "Artisanal Accessories"
+    },
+    {
+      "$id": 844,
+      "style": 36,
+      "name": "Hot Spring Bonanza"
+    },
+    {
+      "$id": 845,
+      "style": 36,
+      "name": "Mystery Launch Codes"
+    },
+    {
+      "$id": 846,
+      "style": 61,
+      "name": "Talk to Tucker in Trigo, Gula."
+    },
+    {
+      "$id": 847,
+      "style": 61,
+      "name": "Talk to Konakona at Drillbore Bridge\nin Invidia."
+    },
+    {
+      "$id": 848,
+      "style": 61,
+      "name": "Talk to Toutour in Port Anangham in\nSuperbia. (From Chapter 5)"
+    },
+    {
+      "$id": 849,
+      "style": 61,
+      "name": "Talk to Mughtal at Nharil Central Plaza\nin Superbia. (From Chapter 7)"
+    },
+    {
+      "$id": 850,
+      "style": 61,
+      "name": "Talk to Maddock at Hadashal \nDock, Lv. 2 in Superbia. (Chapter 10)"
+    },
+    {
+      "$id": 851,
+      "style": 61,
+      "name": "Talk to Bipopo near Galad Residential\nZone in Gula. (After adding Hana)"
+    },
+    {
+      "$id": 852,
+      "style": 61,
+      "name": "Talk to Strath in Iyasaki, Liberalitas.\n(Req. Tokiha, Glen & Vasara)"
+    },
+    {
+      "$id": 853,
+      "style": 61,
+      "name": "Talk to Len at Rigitte Harbor in \nLiberalitas. (From Chapter 6)"
+    },
+    {
+      "$id": 854,
+      "style": 61,
+      "name": "Examine the table in Tora's house.\n(Req. Tora, from Chapter 8)"
+    },
+    {
+      "$id": 855,
+      "style": 61,
+      "name": "Stay at the inn in Luxuria. (Req. Ibuki's\nBirdbrain Lv.3 & Zeke, Chapter 10)"
+    },
+    {
+      "$id": 856,
+      "style": 61,
+      "name": "Talk to Chulev at Hræsvelgr Village,\nInvidia."
+    },
+    {
+      "$id": 857,
+      "style": 61,
+      "name": "Talk to Beemer at Fons Maim Port, \nInvidia. (From Chapter 5)"
+    },
+    {
+      "$id": 858,
+      "style": 61,
+      "name": "Stay at the inn in Avaritia.\n(Req. Hana JK, from Chapter 7)"
+    },
+    {
+      "$id": 859,
+      "style": 61,
+      "name": "Go to Royal Guard Barracks. (Finish\n\"Beneath the Aurora\", from Chapter 10)"
+    },
+    {
+      "$id": 860,
+      "style": 61,
+      "name": "Find Caephon at Rig. Harbor, Liberalitas.\n(Req. Raiko&Yaegiri&Ten'i, Ch. 10)"
+    },
+    {
+      "$id": 861,
+      "style": 61,
+      "name": "Talk to Borella at Gwendle Repair Dock\nin Invidia."
+    },
+    {
+      "$id": 862,
+      "style": 61,
+      "name": "Finish \"Follow Your Passion\", visit shop \nwith Yuou & Idaten from Chapter 8 on."
+    },
+    {
+      "$id": 863,
+      "style": 61,
+      "name": "Talk to Barhanen near the Soprac\nOld Market, Luxuria. (From Chapter 7)"
+    },
+    {
+      "$id": 864,
+      "style": 61,
+      "name": "Talk to Gachagacha at G. Flight Deck.\n(Req. Linne&Zakuro&Kasane, Ch. 10)"
+    },
+    {
+      "$id": 865,
+      "style": 61,
+      "name": "Take Shiki & KOS-MOS RE: Re: to Wall\nPower Ctrl. Room, Mors. (Ch. 10)"
+    },
+    {
+      "$id": 866,
+      "style": 36,
+      "name": "Tirkin Crab"
+    },
+    {
+      "$id": 867,
+      "style": 36,
+      "name": "Bizarre Soup"
+    },
+    {
+      "$id": 868,
+      "style": 36,
+      "name": "Trident Fish"
+    },
+    {
+      "$id": 869,
+      "style": 36,
+      "name": "Beautiful Bowl"
+    },
+    {
+      "$id": 870,
+      "style": 36,
+      "name": "Arbitrary Fish"
+    },
+    {
+      "$id": 871,
+      "style": 36,
+      "name": "Exotic Chips"
+    },
+    {
+      "$id": 872,
+      "style": 36,
+      "name": "Tirkin Sushi"
+    },
+    {
+      "$id": 873,
+      "style": 36,
+      "name": "Baked Redfish"
+    },
+    {
+      "$id": 874,
+      "style": 36,
+      "name": "Seafood Chowder"
+    },
+    {
+      "$id": 875,
+      "style": 36,
+      "name": "Haphazard Pie"
+    },
+    {
+      "$id": 876,
+      "style": 36,
+      "name": "Tirkin Curry"
+    },
+    {
+      "$id": 877,
+      "style": 36,
+      "name": "Buzzing Bouillabaisse"
+    },
+    {
+      "$id": 878,
+      "style": 61,
+      "name": "Cooking ingredients prepared by\nmembers of the Fire Dragons."
+    },
+    {
+      "$id": 879,
+      "style": 61,
+      "name": "Cooking ingredients prepared by\nmembers of the Fire Dragons."
+    },
+    {
+      "$id": 880,
+      "style": 61,
+      "name": "Cooking ingredients prepared by\nmembers of the Fire Dragons."
+    },
+    {
+      "$id": 881,
+      "style": 61,
+      "name": "Cooking ingredients prepared by\nmembers of the Fire Dragons."
+    },
+    {
+      "$id": 882,
+      "style": 61,
+      "name": "Cooking ingredients prepared by\nmembers of the Fire Dragons."
+    },
+    {
+      "$id": 883,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 884,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 885,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 886,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 887,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 888,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 889,
+      "style": 61,
+      "name": "A sample dish made by the Fire \nDragons for the Head Fire Dragon."
+    },
+    {
+      "$id": 890,
+      "style": 36,
+      "name": "Elaborate Carving"
+    },
+    {
+      "$id": 891,
+      "style": 36,
+      "name": "Posystone"
+    },
+    {
+      "$id": 892,
+      "style": 36,
+      "name": "Luxurian Records"
+    },
+    {
+      "$id": 893,
+      "style": 36,
+      "name": "Volff Fang"
+    },
+    {
+      "$id": 894,
+      "style": 36,
+      "name": "Flutterheart Grass"
+    },
+    {
+      "$id": 895,
+      "style": 36,
+      "name": "Ellook Horn"
+    },
+    {
+      "$id": 896,
+      "style": 36,
+      "name": "Fused Valve"
+    },
+    {
+      "$id": 897,
+      "style": 36,
+      "name": "Nopon Summons"
+    },
+    {
+      "$id": 898,
+      "style": 61,
+      "name": "An elaborate carving made by Tirkin."
+    },
+    {
+      "$id": 899,
+      "style": 61,
+      "name": "A brilliant, pure-white gemstone."
+    },
+    {
+      "$id": 900,
+      "style": 61,
+      "name": "Records written at the founding of\nLuxuria 500 years ago."
+    },
+    {
+      "$id": 901,
+      "style": 61,
+      "name": "The fang of a Rip Volff, prized as a\ncomponent in making accessories."
+    },
+    {
+      "$id": 902,
+      "style": 61,
+      "name": "A plant used to craft love potions."
+    },
+    {
+      "$id": 903,
+      "style": 61,
+      "name": "The horn of a Ripbik Ellook, prized\nas a component in accessory-making."
+    },
+    {
+      "$id": 904,
+      "style": 61,
+      "name": "A valve used in to repair machines in \nthe Geothermal Mining Plant."
+    },
+    {
+      "$id": 905,
+      "style": 61,
+      "name": "Found in Karam Ruins. (Req. Homura&\nNia&Tora&Hana JS&Byakko, Ch.4)"
+    },
+    {
+      "$id": 906,
+      "style": 36,
+      "name": "Accessory Expander Kit"
+    },
+    {
+      "$id": 907,
+      "style": 61,
+      "name": "Expend to gain an extra accessory slot.\nUse in the Accessories menu."
+    },
+    {
+      "$id": 908,
+      "style": 36,
+      "name": "Access Code 1"
+    },
+    {
+      "$id": 909,
+      "style": 36,
+      "name": "Access Code 2"
+    },
+    {
+      "$id": 910,
+      "style": 61,
+      "name": "Access code protected by a \nStopper Sovereign."
+    },
+    {
+      "$id": 911,
+      "style": 61,
+      "name": "Access code protected by a \nStopper Sovereign."
+    },
+    {
+      "$id": 912,
+      "style": 36,
+      "name": "Fabulously Fierce Hat"
+    },
+    {
+      "$id": 913,
+      "style": 61,
+      "name": "A hat that Hatatat made."
+    },
+    {
+      "$id": 914,
+      "style": 36,
+      "name": "Tarres's Notes"
+    },
+    {
+      "$id": 915,
+      "style": 36,
+      "name": "Glassmaker's Tome"
+    },
+    {
+      "$id": 916,
+      "style": 61,
+      "name": "It reads \"Nox Promontory\"."
+    },
+    {
+      "$id": 917,
+      "style": 61,
+      "name": "Records knowledge and processes to\ndo with the glassmaking process."
+    },
+    {
+      "$id": 918,
+      "style": 36,
+      "name": "Red Pollen Orbs"
+    },
+    {
+      "$id": 919,
+      "style": 36,
+      "name": "Panacellin"
+    },
+    {
+      "$id": 920,
+      "style": 61,
+      "name": "A herb used to make antiseptic healing\ncream. It smells quite nice, too."
+    },
+    {
+      "$id": 921,
+      "style": 36,
+      "name": "Purestone"
+    },
+    {
+      "$id": 922,
+      "style": 36,
+      "name": "Sweet Nothings"
+    },
+    {
+      "$id": 923,
+      "style": 61,
+      "name": "Hidden among common rock strata,\nits light glow is only visible at night."
+    },
+    {
+      "$id": 924,
+      "style": 61,
+      "name": "An accessory that, when given to one's\nsweetheart, makes the love come true."
+    },
+    {
+      "$id": 925,
+      "style": 36,
+      "name": "Vault Key"
+    },
+    {
+      "$id": 926,
+      "style": 36,
+      "name": "Armu Carcass"
+    },
+    {
+      "$id": 927,
+      "style": 61,
+      "name": "The key to a vault located underneath\nAdel's manor."
+    },
+    {
+      "$id": 928,
+      "style": 61,
+      "name": "Can be used as a lure to draw away\nGrafton Feris."
+    },
+    {
+      "$id": 929,
+      "style": 36,
+      "name": "Bug Catcher Turbotron"
+    },
+    {
+      "$id": 930,
+      "style": 61,
+      "name": "An invention Marcus made. It's meant\nto lure in and capture insects."
+    },
+    {
+      "$id": 931,
+      "style": 36,
+      "name": "Pestronella"
+    },
+    {
+      "$id": 932,
+      "style": 61,
+      "name": "A plant from the Verdant Fairylands.\nTizza Parisax can't stand its smell."
+    },
+    {
+      "$id": 933,
+      "style": 36,
+      "name": "Reinforced Glass"
+    },
+    {
+      "$id": 934,
+      "style": 61,
+      "name": "A heavy-duty impact-resistant material\nnecessary for Divine Beast ship construction."
+    },
+    {
+      "$id": 935,
+      "style": 36,
+      "name": "Gravitonic Clutch"
+    },
+    {
+      "$id": 936,
+      "style": 61,
+      "name": "Found by Dudan in a fished-up chest.\nFormed of two flat discs stuck together."
+    },
+    {
+      "$id": 937,
+      "style": 36,
+      "name": "Rainbow Blossom"
+    },
+    {
+      "$id": 938,
+      "style": 61,
+      "name": "A rare flower said to bring everlasting\nlove when given to one's sweetheart."
+    },
+    {
+      "$id": 939,
+      "style": 36,
+      "name": "Shiny New Power"
+    },
+    {
+      "$id": 940,
+      "style": 61,
+      "name": "Tora got a letter. Go to Tora's House!\n(Req. Hana & Nia & Meleph, Chapter 5)"
+    },
+    {
+      "$id": 941,
+      "style": 36,
+      "name": "Not-safe-for-work Folio"
+    },
+    {
+      "$id": 942,
+      "style": 61,
+      "name": "A mysterious book that Senzo hid.\nIts contents are not exactly wholesome."
+    },
+    {
+      "$id": 943,
+      "style": 36,
+      "name": "Subjugation Report"
+    },
+    {
+      "$id": 944,
+      "style": 61,
+      "name": "A battle auditor has arrived in Hræsvelgr\nto track Unique Monster kill times, etc."
+    },
+    {
+      "$id": 945,
+      "style": 36,
+      "name": "Knit Hat with Cute Trim"
+    },
+    {
+      "$id": 946,
+      "style": 36,
+      "name": "Cap with Casual Trim"
+    },
+    {
+      "$id": 947,
+      "style": 61,
+      "name": "A cute hat that's all the rage in\nthe Voltis Trade Guild."
+    },
+    {
+      "$id": 948,
+      "style": 61,
+      "name": "A casual hat that's all the rage in\nthe Voltis Trade Guild."
+    },
+    {
+      "$id": 949,
+      "style": 36,
+      "name": "Alst Linkring"
+    },
+    {
+      "$id": 950,
+      "style": 61,
+      "name": "A mystical band that enables Shulk\nand Fiorung to visit Alst in spirit form."
+    },
+    {
+      "$id": 951,
+      "style": 36,
+      "name": "Golden Sand Cocoon"
+    },
+    {
+      "$id": 952,
+      "style": 61,
+      "name": "Dusted with Streamsand Corridor gold.\nCan be spun into pretty golden thread."
+    },
+    {
+      "$id": 953,
+      "style": 36,
+      "name": "Gideon Goldamatron"
+    },
+    {
+      "$id": 954,
+      "style": 61,
+      "name": "A machine that Gideon built for finding\ngold in the Dannagh Desert."
+    },
+    {
+      "$id": 955,
+      "style": 36,
+      "name": "Golden Scorpion"
+    },
+    {
+      "$id": 956,
+      "style": 61,
+      "name": "A machine that Marcus built for finding\ngold in the Dannagh Desert."
+    },
+    {
+      "$id": 957,
+      "style": 36,
+      "name": "Hugo's Gold Detector"
+    },
+    {
+      "$id": 958,
+      "style": 61,
+      "name": "A machine that Hugo built for finding\ngold in the Dannagh Desert."
+    },
+    {
+      "$id": 959,
+      "style": 36,
+      "name": "Dragon Incense"
+    },
+    {
+      "$id": 960,
+      "style": 36,
+      "name": "True Dragon Incense"
+    },
+    {
+      "$id": 961,
+      "style": 61,
+      "name": "A precious rock from deepest Invidia.\nSaid to cure many an illness."
+    },
+    {
+      "$id": 962,
+      "style": 61,
+      "name": "An incredibly rare rock from deepest\nInvidia. Said to cure any and all illness."
+    },
+    {
+      "$id": 963,
+      "style": 36,
+      "name": "Indigo Slate Piece"
+    },
+    {
+      "$id": 964,
+      "style": 36,
+      "name": "Dawning Slate Piece"
+    },
+    {
+      "$id": 965,
+      "style": 36,
+      "name": "Crimson Slate Piece"
+    },
+    {
+      "$id": 966,
+      "style": 36,
+      "name": "Rusty Slate Piece"
+    },
+    {
+      "$id": 967,
+      "style": 36,
+      "name": "Purple Slate Piece"
+    },
+    {
+      "$id": 968,
+      "style": 36,
+      "name": "Chestnut Slate Piece"
+    },
+    {
+      "$id": 969,
+      "style": 36,
+      "name": "Cinnabar Slate Piece"
+    },
+    {
+      "$id": 970,
+      "style": 36,
+      "name": "Scarlet Slate Piece"
+    },
+    {
+      "$id": 971,
+      "style": 36,
+      "name": "Navy-Blue Slate Piece"
+    },
+    {
+      "$id": 972,
+      "style": 36,
+      "name": "Inky Slate Piece"
+    },
+    {
+      "$id": 973,
+      "style": 36,
+      "name": "Cherry Slate Piece"
+    },
+    {
+      "$id": 974,
+      "style": 36,
+      "name": "Peach Slate Piece"
+    },
+    {
+      "$id": 975,
+      "style": 36,
+      "name": "Dark-Gray Slate Piece"
+    },
+    {
+      "$id": 976,
+      "style": 36,
+      "name": "Leaden Slate Piece"
+    },
+    {
+      "$id": 977,
+      "style": 36,
+      "name": "Moss-Green Slate Piece"
+    },
+    {
+      "$id": 978,
+      "style": 36,
+      "name": "Hollyhock Slate Piece"
+    },
+    {
+      "$id": 979,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 980,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 981,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 982,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 983,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 984,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 985,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 986,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 987,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 988,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 989,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 990,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 991,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 992,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 993,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 994,
+      "style": 61,
+      "name": "A fragment of a mysterious slate. Once\nassembled, the object may be of use."
+    },
+    {
+      "$id": 995,
+      "style": 36,
+      "name": "Extra Game Options"
+    },
+    {
+      "$id": 996,
+      "style": 36,
+      "name": "New Difficulty Levels"
+    },
+    {
+      "$id": 997,
+      "style": 61,
+      "name": "Three new options have been added\nto the Game Settings menu."
+    },
+    {
+      "$id": 998,
+      "style": 61,
+      "name": "Two difficulty levels, \"Bringer of Chaos\"\nand \"Custom\", have been added."
+    },
+    {
+      "$id": 999,
+      "style": 36,
+      "name": "Glutton's Mask"
+    },
+    {
+      "$id": 1000,
+      "style": 36,
+      "name": "Firmament Ring"
+    },
+    {
+      "$id": 1001,
+      "style": 36,
+      "name": "Mirror of Vanishing"
+    },
+    {
+      "$id": 1002,
+      "style": 36,
+      "name": "Critic's Fan"
+    },
+    {
+      "$id": 1003,
+      "style": 36,
+      "name": "Box of Legions"
+    },
+    {
+      "$id": 1004,
+      "style": 36,
+      "name": "Comb of Prosperity"
+    },
+    {
+      "$id": 1005,
+      "style": 36,
+      "name": "Chain of Many Hues"
+    },
+    {
+      "$id": 1006,
+      "style": 36,
+      "name": "Lightning-Speed Flag"
+    },
+    {
+      "$id": 1007,
+      "style": 36,
+      "name": "Koto of Self-Interest"
+    },
+    {
+      "$id": 1008,
+      "style": 36,
+      "name": "Bell of Idyll"
+    },
+    {
+      "$id": 1009,
+      "style": 36,
+      "name": "Astronomer's Pot"
+    },
+    {
+      "$id": 1010,
+      "style": 36,
+      "name": "Telepathic Bell"
+    },
+    {
+      "$id": 1011,
+      "style": 36,
+      "name": "Blinding-Fast Wing"
+    },
+    {
+      "$id": 1012,
+      "style": 36,
+      "name": "Tiger-Winged Helmet"
+    },
+    {
+      "$id": 1013,
+      "style": 36,
+      "name": "Silver Seeker"
+    },
+    {
+      "$id": 1014,
+      "style": 36,
+      "name": "Golden Seeker"
+    },
+    {
+      "$id": 1015,
+      "style": 36,
+      "name": "Prism Pickaxe"
+    },
+    {
+      "$id": 1016,
+      "style": 36,
+      "name": "Fragrantine"
+    },
+    {
+      "$id": 1017,
+      "style": 36,
+      "name": "Rock-Hard Plaster"
+    },
+    {
+      "$id": 1018,
+      "style": 36,
+      "name": "Electricite"
+    },
+    {
+      "$id": 1019,
+      "style": 36,
+      "name": "Droppicium"
+    },
+    {
+      "$id": 1020,
+      "style": 36,
+      "name": "Heart Compass"
+    },
+    {
+      "$id": 1021,
+      "style": 36,
+      "name": "Wing Booster"
+    },
+    {
+      "$id": 1022,
+      "style": 36,
+      "name": "Perpetual Music Box"
+    },
+    {
+      "$id": 1023,
+      "style": 36,
+      "name": "Jamming Megaphone"
+    },
+    {
+      "$id": 1024,
+      "style": 36,
+      "name": "Armored Rucksack"
+    },
+    {
+      "$id": 1025,
+      "style": 36,
+      "name": "Golden Mug"
+    },
+    {
+      "$id": 1026,
+      "style": 36,
+      "name": "Scarlet Rocket"
+    },
+    {
+      "$id": 1027,
+      "style": 61,
+      "name": "Increases item drop collection\nrange by 50cm."
+    },
+    {
+      "$id": 1028,
+      "style": 61,
+      "name": "Increases lure range by 2m."
+    },
+    {
+      "$id": 1029,
+      "style": 61,
+      "name": "Decreases enemy detection\nrange by 5%."
+    },
+    {
+      "$id": 1030,
+      "style": 61,
+      "name": "Increases lure range by 2m."
+    },
+    {
+      "$id": 1031,
+      "style": 61,
+      "name": "Max Pouch items raised by ten."
+    },
+    {
+      "$id": 1032,
+      "style": 61,
+      "name": "Increases gold earned in battle by 10%."
+    },
+    {
+      "$id": 1033,
+      "style": 61,
+      "name": "Increases item discovery rate by 10%."
+    },
+    {
+      "$id": 1034,
+      "style": 61,
+      "name": "Increases running speed by 5%."
+    },
+    {
+      "$id": 1035,
+      "style": 61,
+      "name": "Increases item drop collection\nrange by 50cm."
+    },
+    {
+      "$id": 1036,
+      "style": 61,
+      "name": "Decreases enemy detection\nrange by 5%."
+    },
+    {
+      "$id": 1037,
+      "style": 61,
+      "name": "Increases item discovery rate by 10%."
+    },
+    {
+      "$id": 1038,
+      "style": 61,
+      "name": "When gaining Trust in battle,\nincreases Trust gain by 50."
+    },
+    {
+      "$id": 1039,
+      "style": 61,
+      "name": "Increases running speed by 5%."
+    },
+    {
+      "$id": 1040,
+      "style": 61,
+      "name": "Increases battle experience by 10%."
+    },
+    {
+      "$id": 1041,
+      "style": 61,
+      "name": "Enables item collection from\nsilver machines."
+    },
+    {
+      "$id": 1042,
+      "style": 61,
+      "name": "Enables item collection from\ngold machines."
+    },
+    {
+      "$id": 1043,
+      "style": 61,
+      "name": "Increases item discovery rate by 10%."
+    },
+    {
+      "$id": 1044,
+      "style": 61,
+      "name": "Decreases out-of-battle Party Gauge\ndrain rate by 25%."
+    },
+    {
+      "$id": 1045,
+      "style": 61,
+      "name": "Increases battle experience by 10%."
+    },
+    {
+      "$id": 1046,
+      "style": 61,
+      "name": "Increases lure range by 2m."
+    },
+    {
+      "$id": 1047,
+      "style": 61,
+      "name": "Increases item drop collection\nrange by 50cm."
+    },
+    {
+      "$id": 1048,
+      "style": 61,
+      "name": "When gaining Trust in battle,\nincreases Trust gain by 50."
+    },
+    {
+      "$id": 1049,
+      "style": 61,
+      "name": "Increases running speed by 5%."
+    },
+    {
+      "$id": 1050,
+      "style": 61,
+      "name": "Decreases out-of-battle Party Gauge\ndrain rate by 25%."
+    },
+    {
+      "$id": 1051,
+      "style": 61,
+      "name": "Decreases enemy detection\nrange by 5%."
+    },
+    {
+      "$id": 1052,
+      "style": 61,
+      "name": "Max Pouch items raised by ten."
+    },
+    {
+      "$id": 1053,
+      "style": 61,
+      "name": "Increases gold earned in battle by 10%."
+    },
+    {
+      "$id": 1054,
+      "style": 61,
+      "name": "Increases running speed by 5%."
+    },
+    {
+      "$id": 1055,
+      "style": 36,
+      "name": "Energy Pickles"
+    },
+    {
+      "$id": 1056,
+      "style": 61,
+      "name": "A jar of nourishing pickled aubergines.\nHands off! They're for Adel's wife."
+    },
+    {
+      "$id": 1057,
+      "style": 36,
+      "name": "Mireille's Clay Bell"
+    },
+    {
+      "$id": 1058,
+      "style": 61,
+      "name": "A handmade item you got from Mireille.\nIncreases battle experience by 10%."
+    },
+    {
+      "$id": 1059,
+      "style": 36,
+      "name": "Secret Flag Blueprint"
+    },
+    {
+      "$id": 1060,
+      "style": 36,
+      "name": "Secret Bell Blueprint"
+    },
+    {
+      "$id": 1061,
+      "style": 36,
+      "name": "Secret Pot Blueprint"
+    },
+    {
+      "$id": 1062,
+      "style": 36,
+      "name": "Secret Wing Blueprint"
+    },
+    {
+      "$id": 1063,
+      "style": 61,
+      "name": "A recipe for the Lightning-Speed Flag,\na Iiran relic that Adel can craft."
+    },
+    {
+      "$id": 1064,
+      "style": 61,
+      "name": "A recipe for the Bell of Idyll,\na Iiran relic that Adel can craft."
+    },
+    {
+      "$id": 1065,
+      "style": 61,
+      "name": "A recipe for the Astronomer's Pot,\na Iiran relic that Adel can craft."
+    },
+    {
+      "$id": 1066,
+      "style": 61,
+      "name": "A recipe for the Blinding-Fast Wing,\na Iiran relic that Adel can craft."
+    },
+    {
+      "$id": 1067,
+      "style": 36,
+      "name": "Desert Medicine"
+    },
+    {
+      "$id": 1068,
+      "style": 61,
+      "name": "A tonic concocted by Mungo that\nwards against desert fever."
+    },
+    {
+      "$id": 1069,
+      "style": 36,
+      "name": "Nopon Summons, Pt. 2"
+    },
+    {
+      "$id": 1070,
+      "style": 61,
+      "name": "Head to Karam Ruins again\nand face a new challenge."
+    },
+    {
+      "$id": 1071,
+      "style": 36,
+      "name": "A Boy of Two Swords"
+    },
+    {
+      "$id": 1072,
+      "style": 61,
+      "name": "Receive Sorinosori's delivery in\nAvaritia's Goldmund Return Port."
+    },
+    {
+      "$id": 1073,
+      "style": 36,
+      "name": "A Firecracker of a Gal"
+    },
+    {
+      "$id": 1074,
+      "style": 61,
+      "name": "Receive Hurryscurry's delivery in\nAvaritia's Bower Lounge."
+    },
+    {
+      "$id": 1075,
+      "style": 36,
+      "name": "Eternity Loam"
+    },
+    {
+      "$id": 1076,
+      "style": 61,
+      "name": "A precious soil from the Loftin Nature\nPreserve, especially valued by potters."
+    },
+    {
+      "$id": 1077,
+      "style": 36,
+      "name": "NoponGro: Bravery"
+    },
+    {
+      "$id": 1078,
+      "style": 36,
+      "name": "NoponGro: Truth"
+    },
+    {
+      "$id": 1079,
+      "style": 36,
+      "name": "NoponGro: Compassion"
+    },
+    {
+      "$id": 1080,
+      "style": 36,
+      "name": "NoponGro: Justice"
+    },
+    {
+      "$id": 1081,
+      "style": 61,
+      "name": "Raises a Nopon's Bravery Idea.\nUse on Tora on the Characters screen."
+    },
+    {
+      "$id": 1082,
+      "style": 61,
+      "name": "Raises a Nopon's Truth Idea.\nUse on Tora on the Characters screen."
+    },
+    {
+      "$id": 1083,
+      "style": 61,
+      "name": "Raises a Nopon's Compassion Idea.\nUse on Tora on the Characters screen."
+    },
+    {
+      "$id": 1084,
+      "style": 61,
+      "name": "Raises a Nopon's Justice Idea.\nUse on Tora on the Characters screen."
+    },
+    {
+      "$id": 1085,
+      "style": 36,
+      "name": "Alst Link Relay"
+    },
+    {
+      "$id": 1086,
+      "style": 61,
+      "name": "A mystical apparatus granted to Elma.\nAllows her to visit Alst in spirit form."
+    },
+    {
+      "$id": 1087,
+      "style": 36,
+      "name": "Nopon Invitation"
+    },
+    {
+      "$id": 1088,
+      "style": 61,
+      "name": "A notice from the Archsage's Orderly\nsaying he's got new treasure to trade."
+    },
+    {
+      "$id": 1089,
+      "style": 36,
+      "name": "Nopon Invitation, Pt. 2"
+    },
+    {
+      "$id": 1090,
+      "style": 61,
+      "name": "A second notice from the Archsage's\nOrderly about even more new treasure."
+    }
+  ]
+}

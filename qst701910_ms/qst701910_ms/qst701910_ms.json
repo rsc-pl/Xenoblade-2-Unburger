@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701910_msg0001",
+      "style": 84,
+      "name": "この前　アルマに乗って避難する案を\n思いついてさ　試してみたんだ"
+    },
+    {
+      "$id": 2,
+      "label": "qst701910_msg0002",
+      "style": 84,
+      "name": "そしたら[ML:Dash ]\nフリアには掴まる力がなくて\n落下しちゃったんだよな[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst701910_msg0003",
+      "style": 84,
+      "name": "フリアのこと\n何とか助けたいんだけど[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst701910_msg0004",
+      "style": 84,
+      "name": "マルコでもダメなら\nどうすればいいんだろ[ML:Dash ]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001901_05_msg0001",
+      "style": 84,
+      "name": "You're back from Acedia, aren't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001901_05_msg0002",
+      "style": 84,
+      "name": "What was it like there? I hope they\ntreat children well, if nothing else!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001901_05_msg0003",
+      "style": 84,
+      "name": "The boys're dead set on going to the\nAcademy, but we don't know what to\nexpect, so it worries me a little..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001901_05_msg0004",
+      "style": 84,
+      "name": "I just hope they manage to fit in with\nthe other kids, really."
+    }
+  ]
+}

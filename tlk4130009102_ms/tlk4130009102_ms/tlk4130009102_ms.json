@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4130009102_msg0001",
+      "style": 84,
+      "name": "Hey, thanks for visiting!\nAnd thanks as well for telling us\nabout Rhiannon's family."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4130009102_msg0002",
+      "style": 84,
+      "name": "Rhiannon's da wasn't willing to talk\nto me before, but her ma managed to\npersuade him."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4130009102_msg0003",
+      "style": 84,
+      "name": "She said if the two of us can be happy,\nthen maybe that'll pave the way for\nour countries to live in harmony too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4130009102_msg0004",
+      "style": 84,
+      "name": "After that, I told them all about our\nplans and they approved of us getting\nmarried! You've helped us so much..."
+    }
+  ]
+}

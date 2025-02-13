@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101404_msg001",
+      "style": 62,
+      "name": "コアクリスタルは彼らのものだろうな(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101404_msg0001",
+      "style": 84,
+      "name": "Core Crystals...\nI guess nobody made it..."
+    },
+    {
+      "$id": 3,
+      "label": "qst101404_msg0002",
+      "style": 84,
+      "name": "Core Crystals...\nDid they get everybody...?"
+    },
+    {
+      "$id": 4,
+      "label": "qst101404_msg0003",
+      "style": 84,
+      "name": "Core Crystals...\nHas everyone been killed?"
+    },
+    {
+      "$id": 5,
+      "label": "qst101404_msg0004",
+      "style": 84,
+      "name": "These Core Crystals...\nSo nobody make it...?"
+    },
+    {
+      "$id": 6,
+      "label": "qst101404_msg0005",
+      "style": 84,
+      "name": "Core Crystals...\nHave the soldiers been wiped out...?"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103106_msg001",
+      "style": 62,
+      "name": "調査ありがとう。\nどうやら天候によって内容が変わるようだ\nすべての天候の時の壁画を調べてくれ（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst103106_msg002",
+      "style": 62,
+      "name": "どうやら天候によって内容が変わるようだ\nすべての天候の時の壁画を調べてくれ（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst103106_msg0001",
+      "style": 84,
+      "name": "Tell me, did you manage to read\nwhat was written on the murals?"
+    },
+    {
+      "$id": 4,
+      "label": "qst103106_msg0002",
+      "style": 84,
+      "name": "What's that you say? The writing\nwas different during the day and night?"
+    },
+    {
+      "$id": 5,
+      "label": "qst103106_msg0003",
+      "style": 84,
+      "name": "Hmm...\nThese clues seem positively pregnant\nwith meaning - but what, I can't say."
+    },
+    {
+      "$id": 6,
+      "label": "qst103106_msg0004",
+      "style": 84,
+      "name": "In particular, this use of \"daylight stars\"\ncatches my eye..."
+    },
+    {
+      "$id": 7,
+      "label": "qst103106_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Eureka!\nI have it!\n...Uerghh..."
+    },
+    {
+      "$id": 8,
+      "label": "qst103106_msg0006",
+      "style": 84,
+      "name": "Sorry about that...\nI got carried away for a moment."
+    },
+    {
+      "$id": 9,
+      "label": "qst103106_msg0007",
+      "style": 84,
+      "name": "You see, the ancient Nopon were\nvoyagers, sailing from place to place."
+    },
+    {
+      "$id": 10,
+      "label": "qst103106_msg0008",
+      "style": 84,
+      "name": "They read the stars to find\ntheir way. It let them navigate\nwith extraordinary accuracy."
+    },
+    {
+      "$id": 11,
+      "label": "qst103106_msg0009",
+      "style": 84,
+      "name": "So, the \"daylight stars\" here must\nrepresent some kind of path or\nguide. Which means..."
+    },
+    {
+      "$id": 12,
+      "label": "qst103106_msg0010",
+      "style": 84,
+      "name": "The mural locations\nall had names, didn't they?"
+    },
+    {
+      "$id": 13,
+      "label": "qst103106_msg0011",
+      "style": 84,
+      "name": "\"The Shrine of Journeys\"...\n\"The Shrine of Light\"...\n\"The Shrine of Offering\"..."
+    },
+    {
+      "$id": 14,
+      "label": "qst103106_msg0012",
+      "style": 84,
+      "name": "\"Offer Light On The Journey\"...\nWhy, this is a key to the reading order!"
+    },
+    {
+      "$id": 15,
+      "label": "qst103106_msg0013",
+      "style": 84,
+      "name": "In which case... That means the\nfull nighttime message would be..."
+    },
+    {
+      "$id": 16,
+      "label": "qst103106_msg0014",
+      "style": 84,
+      "name": "\"Three Daylight Stars\n Offer Light On The Journey\n To Hero's Treasure\""
+    },
+    {
+      "$id": 17,
+      "label": "qst103106_msg0015",
+      "style": 84,
+      "name": "And the daytime message is..."
+    },
+    {
+      "$id": 18,
+      "label": "qst103106_msg0016",
+      "style": 84,
+      "name": "\"Farlaine Waters\n The Youthful Elder\n In Whose Embrace I Sleep\""
+    },
+    {
+      "$id": 19,
+      "label": "qst103106_msg0017",
+      "style": 84,
+      "name": "So the nighttime message is a key\nto the daytime one... And the daytime\nmessage...seems to indicate a location?"
+    },
+    {
+      "$id": 20,
+      "label": "qst103106_msg0018",
+      "style": 84,
+      "name": "I'm very sorry, but I\nam no expert on\nInvidian geography."
+    },
+    {
+      "$id": 21,
+      "label": "qst103106_msg0019",
+      "style": 84,
+      "name": "Might I persuade you to\ninvestigate the place indicated?"
+    },
+    {
+      "$id": 22,
+      "label": "qst103106_msg0020",
+      "style": 84,
+      "name": "I have done all in my power to unravel\nthis riddle. The rest is up to you."
+    },
+    {
+      "$id": 23,
+      "label": "qst103106_msg0101",
+      "style": 84,
+      "name": "\"Farlaine Waters\n The Youthful Elder\n In Whose Embrace I Sleep\""
+    },
+    {
+      "$id": 24,
+      "label": "qst103106_msg0102",
+      "style": 84,
+      "name": "Please seek out the place\nindicated by this verse!"
+    }
+  ]
+}

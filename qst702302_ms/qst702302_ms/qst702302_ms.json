@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702302_msg0001",
+      "style": 84,
+      "name": "待て"
+    },
+    {
+      "$id": 2,
+      "label": "qst702302_msg0002",
+      "style": 84,
+      "name": "どうかしたの？"
+    },
+    {
+      "$id": 3,
+      "label": "qst702302_msg0003",
+      "style": 84,
+      "name": "[ML:Dash ]そこにいるだろう\n隠れていないで出てきたらどうだ"
+    },
+    {
+      "$id": 4,
+      "label": "qst702302_msg0004",
+      "style": 84,
+      "name": "スペルビアの兵？"
+    },
+    {
+      "$id": 5,
+      "label": "qst702302_msg0005",
+      "style": 84,
+      "name": "ここで何をしているのです"
+    },
+    {
+      "$id": 6,
+      "label": "qst702302_msg0006",
+      "style": 84,
+      "name": "申しわけありません！\n実は道に迷ってしまって[ML:Dash ]\nイーラへ来るのは初めてなので"
+    },
+    {
+      "$id": 7,
+      "label": "qst702302_msg0007",
+      "style": 84,
+      "name": "迷子のスペルビア兵[ML:Dash ]\nどこかで聞いたような"
+    },
+    {
+      "$id": 8,
+      "label": "qst702302_msg0008",
+      "style": 84,
+      "name": "もしかして　あなたがメクネスでは？\nイーリスの部下の[ML:Dash ]"
+    },
+    {
+      "$id": 9,
+      "label": "qst702302_msg0009",
+      "style": 84,
+      "name": "そうだ　思い出した！\nイーリスさんすっごく心配してたよ"
+    },
+    {
+      "$id": 10,
+      "label": "qst702302_msg0010",
+      "style": 84,
+      "name": "……"
+    },
+    {
+      "$id": 11,
+      "label": "qst702302_msg0011",
+      "style": 84,
+      "name": "メクネスさん？"
+    },
+    {
+      "$id": 12,
+      "label": "qst702302_msg0012",
+      "style": 84,
+      "name": "やっぱ誤魔化しきれないか[ML:Dash ]"
+    },
+    {
+      "$id": 13,
+      "label": "qst702302_msg0013",
+      "style": 84,
+      "name": "なら　あんた達を殺して\n逃げ切ってやる[ML:Dash ]！"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk401006_msg0001",
+      "style": 84,
+      "name": "There's certainly something\nnot quite right going on."
+    },
+    {
+      "$id": 2,
+      "label": "tlk401006_msg0002",
+      "style": 84,
+      "name": "I saw a very large wooden box being\ntransported on to the Divine Beast battleship."
+    },
+    {
+      "$id": 3,
+      "label": "tlk401006_msg0003",
+      "style": 84,
+      "name": "It was accounted for on the\ninventory list, so most of my\ncolleagues think it's no problem."
+    },
+    {
+      "$id": 4,
+      "label": "tlk401006_msg0004",
+      "style": 84,
+      "name": "But I honestly can't imagine what\nthey would want such a huge box for.\nI'm worried about what might be inside."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320151_01_msg0001",
+      "style": 84,
+      "name": "We'll stay here and guard the Divine Beast\nship. You head for the top of the cliff."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320151_01_msg0002",
+      "style": 84,
+      "name": "And please put a stop to our army's\nDivine Beast weapon!"
+    }
+  ]
+}

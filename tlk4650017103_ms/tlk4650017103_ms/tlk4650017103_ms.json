@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500171_03_msg0001",
+      "style": 84,
+      "name": "I still have trouble believing that\nFan-sama is no longer with us..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500171_03_msg0002",
+      "style": 84,
+      "name": "I was hoping to break out of my slump\ntoday and get back to carving my\nsculpture, but my spirit is still dashed..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500171_03_msg0003",
+      "style": 84,
+      "name": "When I'm feeling down, the only\nthing that can lift my spirits is a\nswig of sweet Odifa."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46500171_03_msg0004",
+      "style": 84,
+      "name": "You should have some too.\nIt'll help, I promise."
+    }
+  ]
+}

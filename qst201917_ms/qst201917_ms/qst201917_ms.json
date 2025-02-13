@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201917_msg0001",
+      "style": 84,
+      "name": "Alala and friends only buried barrels.\nWas special request from Saisai."
+    },
+    {
+      "$id": 2,
+      "label": "qst201917_msg0002",
+      "style": 84,
+      "name": "Alala buried one barrel near\nSauros's Bed in Gula."
+    },
+    {
+      "$id": 3,
+      "label": "qst201917_msg0003",
+      "style": 84,
+      "name": "No can tell any other specific\nlocation though!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201917_msg0004",
+      "style": 84,
+      "name": "N-not because me forgot or anything!"
+    }
+  ]
+}

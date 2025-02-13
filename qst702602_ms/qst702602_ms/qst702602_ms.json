@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702602_msg0001",
+      "style": 84,
+      "name": "ううぅ[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst702602_msg0002",
+      "style": 84,
+      "name": "み[ML:Dash ]　ず[ML:Dash ]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47600162_01_msg0001",
+      "style": 84,
+      "name": "The veg from my fields are bursting\nwith nutrition, fresh as can be! Go on,\nyou know you want some!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47600162_01_msg0004",
+      "style": 84,
+      "name": "Boss! Well this is unexpected!\nBut I'm happy to see you've taken\na shine to our local produce!"
+    }
+  ]
+}

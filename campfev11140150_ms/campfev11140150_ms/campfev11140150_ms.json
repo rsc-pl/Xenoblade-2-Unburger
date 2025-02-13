@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_140_150_msg0001",
+      "style": 84,
+      "name": "ラウラ様\nお母様は今　トリゴ村というところに\n落ち着かれています"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_140_150_msg0002",
+      "style": 84,
+      "name": "グーラの辺境だね"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_140_150_msg0003",
+      "style": 84,
+      "name": "はい\nヤジカの港から定期船が出ています"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_140_150_msg0004",
+      "style": 84,
+      "name": "さあさあ道草してないで\nグーラへ向かおうじゃないか"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_140_150_msg0005",
+      "style": 84,
+      "name": "本当に一緒に行くの？"
+    },
+    {
+      "$id": 6,
+      "label": "campfev11_140_150_msg0006",
+      "style": 84,
+      "name": "男に二言はないよ"
+    },
+    {
+      "$id": 7,
+      "label": "campfev11_140_150_msg0007",
+      "style": 84,
+      "name": "母さんのことは心配だけど\nこれでいいのかな？"
+    }
+  ]
+}

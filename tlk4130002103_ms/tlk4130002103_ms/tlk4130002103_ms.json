@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300021_03_msg0001",
+      "style": 84,
+      "name": "I hear Superbia almost started\nanother war."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300021_03_msg0002",
+      "style": 84,
+      "name": "But it turned out Iira was behind\neverything. I'm just glad the conflict\nwas stopped before it was too late."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300021_03_msg0003",
+      "style": 84,
+      "name": "If war were to really break out,\nI don't doubt Invidia would make\nGula a target."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300021_03_msg0004",
+      "style": 84,
+      "name": "And this city, with its large military\nbase, could easily become a battlefield."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300021_03_msg0005",
+      "style": 84,
+      "name": "I would hate to see Trigo razed\nto the ground like the White Chair,\ncity of my ancestors."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41300021_03_msg0006",
+      "style": 84,
+      "name": "A ceasefire is the best outcome\nwe Gulan can hope for."
+    }
+  ]
+}

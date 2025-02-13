@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500184_01_msg0001",
+      "style": 84,
+      "name": "My goodness... Outlanders!\nOutlanders are here! I've got to\ntell everyone at once!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500184_01_msg0002",
+      "style": 84,
+      "name": "From where do you hail?\nHow fare the other countries?\nYou must tell me the latest trends..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500184_01_msg0003",
+      "style": 84,
+      "name": "Oh...dreadfully sorry. It's just that\nI haven't seen an outlander in so\nlong... It's such a rare event."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500184_01_msg0004",
+      "style": 84,
+      "name": "I thought I was going to kick the bucket\nwithout ever seeing another stranger's\nface again..."
+    }
+  ]
+}

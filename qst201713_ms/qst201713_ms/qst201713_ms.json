@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201713_msg0010",
+      "style": 84,
+      "name": "Put this here...\nTwist that..."
+    },
+    {
+      "$id": 2,
+      "label": "qst201713_msg0011",
+      "style": 84,
+      "name": "All fixed!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201713_msg0012",
+      "style": 84,
+      "name": "Well done, Newt!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201713_msg0013",
+      "style": 84,
+      "name": "It wasn't all me. I couldn't have\ndone it without your help, Rex!"
+    },
+    {
+      "$id": 5,
+      "label": "qst201713_msg0014",
+      "style": 84,
+      "name": "Thank you so much!"
+    },
+    {
+      "$id": 6,
+      "label": "qst201713_msg0015",
+      "style": 84,
+      "name": "Oh, give over. When your friends need\nhelp, you help them. That's just how\nit goes, you know?"
+    },
+    {
+      "$id": 7,
+      "label": "qst201713_msg0016",
+      "style": 84,
+      "name": "Anyway, now that you've finished\nwe should go and report to the\nGrand Marshal."
+    },
+    {
+      "$id": 8,
+      "label": "qst201713_msg0017",
+      "style": 84,
+      "name": "You're right!\nLet's go find the Grand Marshal!"
+    }
+  ]
+}

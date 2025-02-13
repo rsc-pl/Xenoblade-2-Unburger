@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4430008501_msg0001",
+      "style": 84,
+      "name": "You're outlanders. Have you ever been\nto Superbia?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4430008501_msg0002",
+      "style": 84,
+      "name": "I was a salvager there way back when."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4430008501_msg0003",
+      "style": 84,
+      "name": "A lot happened, and, well, now I'm\nliving in Luxuria."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4430008501_msg0004",
+      "style": 84,
+      "name": "So how was Superbia? The Divine Beast's\nstill alive, right?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk4430008501_msg0005",
+      "style": 84,
+      "name": "That so...\nSo he's still got a place to go home to...\nAh, sorry. Just thinking to myself."
+    }
+  ]
+}

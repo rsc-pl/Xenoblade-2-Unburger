@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310182_04_msg0001",
+      "style": 84,
+      "name": "Well, this isn't good..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310182_04_msg0002",
+      "style": 84,
+      "name": "A small platoon headed up the Norb\nMountains for marching practice."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310182_04_msg0003",
+      "style": 84,
+      "name": "But they took a wrong turn and ended\nup in Volff hunting grounds. Looks like\nthey took a bit of battering..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310182_04_msg0004",
+      "style": 84,
+      "name": "We're in the middle of assembling\na rescue squad, but we're a little\nunderstaffed right now..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk44310182_04_msg0005",
+      "style": 84,
+      "name": "Hmm? You'll lend us some of your\nmercs?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk44310182_04_msg0006",
+      "style": 84,
+      "name": "...Sorry to have dragged you into this.\nWe won't forget your help."
+    }
+  ]
+}

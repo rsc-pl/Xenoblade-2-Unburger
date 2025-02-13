@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_180_100_msg0001",
+      "style": 84,
+      "name": "[ML:Dash ]はぁ"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_180_100_msg0002",
+      "style": 84,
+      "name": "ラウラ様[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_180_100_msg0003",
+      "style": 84,
+      "name": "今　ラウラを救えるのは言葉じゃない[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_180_100_msg0004",
+      "style": 84,
+      "name": "トリゴ村を探索して\n何か手がかりを掴めれば[ML:Dash ]"
+    }
+  ]
+}

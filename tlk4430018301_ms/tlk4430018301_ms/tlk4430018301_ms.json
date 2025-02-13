@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300183_01_msg0001",
+      "style": 84,
+      "name": "My, my. You've come from the outside,\nhaven't you? Well then, you must find\nour city quite cold?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300183_01_msg0002",
+      "style": 84,
+      "name": "Here, we use the power of Ether\nfor warmth... But yes, it is cold.\nRather."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300183_01_msg0003",
+      "style": 84,
+      "name": "To fight the cold we eat Stralu and\nAdel's Embercakes. And drink... Oh,\nminors are present? Never mind, then."
+    }
+  ]
+}

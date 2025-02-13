@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev07_140_125_msg0001",
+      "style": 84,
+      "name": "Come on, Rex. For the moment,\nlet's return to Iyasaki Village."
+    },
+    {
+      "$id": 2,
+      "label": "fev07_140_125_msg0002",
+      "style": 84,
+      "name": "Back to the village?"
+    },
+    {
+      "$id": 3,
+      "label": "fev07_140_125_msg0003",
+      "style": 84,
+      "name": "I'll explain everything in detail\nonce we get there. Just head\nto Iyasaki for now."
+    },
+    {
+      "$id": 4,
+      "label": "fev07_140_125_msg0004",
+      "style": 84,
+      "name": "All right..."
+    }
+  ]
+}

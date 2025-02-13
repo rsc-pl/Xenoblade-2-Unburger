@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701605_msg0001",
+      "style": 84,
+      "name": "まさかこんなご時世に\n料理コンテストが開かれるとはな[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst701605_msg0002",
+      "style": 84,
+      "name": "だが　ありがたい[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst701605_msg0003",
+      "style": 84,
+      "name": "コゼルが真剣に作った名物料理を\n食べられるかもしれないからな[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst701605_msg0010",
+      "style": 84,
+      "name": "コンテスト開催直前"
+    },
+    {
+      "$id": 5,
+      "label": "qst701605_msg0101",
+      "style": 84,
+      "name": "いよいよアデル杯　料理コンテストだな"
+    },
+    {
+      "$id": 6,
+      "label": "qst701605_msg0102",
+      "style": 84,
+      "name": "ついにコゼルが真剣に作った\n名物料理が食べられるのか[ML:Dash ]"
+    },
+    {
+      "$id": 7,
+      "label": "qst701605_msg0103",
+      "style": 84,
+      "name": "それに他の料理も楽しみだ[ML:Dash ]"
+    },
+    {
+      "$id": 8,
+      "label": "qst701605_msg0104",
+      "style": 84,
+      "name": "必ずやうまい料理の秘訣を\nスペルビアに持ち帰るぞ[ML:Dash ]"
+    }
+  ]
+}

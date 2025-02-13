@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300011_05_msg0001",
+      "style": 84,
+      "name": "Could I ask a favor of you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300011_05_msg0002",
+      "style": 84,
+      "name": "Thing is, we just received a huge\ndelivery from Superbia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300011_05_msg0003",
+      "style": 84,
+      "name": "It's much bigger than usual, so we're\nbehind schedule handling it all."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300011_05_msg0004",
+      "style": 84,
+      "name": "That's why I need your help."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300011_05_msg0005",
+      "style": 84,
+      "name": "If any of those Blades you've got thinks\nthey're strong enough, could they help\nout with lugging the stuff?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300011_05_msg0006",
+      "style": 84,
+      "name": "Thanks for the help."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45300011_05_msg0007",
+      "style": 84,
+      "name": "Might even be able to make up\nfor lost time if things go well."
+    }
+  ]
+}

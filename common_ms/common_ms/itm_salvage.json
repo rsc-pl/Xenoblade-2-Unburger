@@ -1,0 +1,89 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Normal Cylinder"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Silver Cylinder"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Golden Cylinder"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Premium Cylinder"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Special Cylinder (Prov.)"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Special Cylinder (Prov.)"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Special Cylinder (Prov.)"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Special Cylinder (Prov.)"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Special Cylinder (Prov.)"
+    },
+    {
+      "$id": 10,
+      "style": 41,
+      "name": "An ordinary cylinder for general use.\nDifficult to salvage valuable items."
+    },
+    {
+      "$id": 11,
+      "style": 41,
+      "name": "A good cylinder for budding salvagers.\nValuable items appear more often."
+    },
+    {
+      "$id": 12,
+      "style": 41,
+      "name": "A top-spec cylinder for important jobs.\nHigh chance of yielding excellent items."
+    },
+    {
+      "$id": 13,
+      "style": 41,
+      "name": "The ultimate cylinder - a real rarity.\nProduces only the very best results."
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Booster Cylinder"
+    },
+    {
+      "$id": 15,
+      "style": 41,
+      "name": "A special cylinder crafted by Seesaw.\nAllows you to salvage boosters."
+    }
+  ]
+}

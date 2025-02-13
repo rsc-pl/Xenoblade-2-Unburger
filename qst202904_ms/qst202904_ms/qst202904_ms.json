@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202904_msg0001",
+      "style": 84,
+      "name": "Oh, you want to know where\nKastina went?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202904_msg0002",
+      "style": 84,
+      "name": "Um...I remember!\nShe was talking about it earlier!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202904_msg0003",
+      "style": 84,
+      "name": "She said she was going to find\nMoondrops in the forest behind\nOld Gelgemos Gate!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202904_msg0004",
+      "style": 84,
+      "name": "Kastina's so amazing. I'd be way\ntoo scared to go on my own!"
+    }
+  ]
+}

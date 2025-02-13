@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300054_01_msg0001",
+      "style": 84,
+      "name": "The majority of Superbia's buildings\nare built from salvaged machinery and\nprocessed ores and minerals."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300054_01_msg0002",
+      "style": 84,
+      "name": "We also make extensive use of\ngeothermally-powered steam engines."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300054_01_msg0003",
+      "style": 84,
+      "name": "It's no exaggeration to say that this is\nthe most technologically advanced city\nin all of Alst."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300054_01_msg0004",
+      "style": 84,
+      "name": "As a mechanic in such an advanced\ncity, I often have to climb onto the\nroofs to maintain all that machinery."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300054_01_msg0005",
+      "style": 84,
+      "name": "Sometimes I worry what would happen\nif I fell off."
+    }
+  ]
+}

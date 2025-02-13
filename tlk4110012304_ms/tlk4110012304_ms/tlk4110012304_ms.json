@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100123_05_msg0001",
+      "style": 84,
+      "name": "Hey, have you ever tried\nBeat Paste Paratha?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100123_05_msg0002",
+      "style": 84,
+      "name": "Paratha is a staple food in Gula,\nbut if you mix in some mashed\nBeat Shrimp, it's extra delicious!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100123_05_msg0003",
+      "style": 84,
+      "name": "It's like, a food revolution!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100123_05_msg0004",
+      "style": 84,
+      "name": "I don't know where this Liberalitas\nplace is, but it must be a great place\nif people come up with stuff like this!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100123_05_msg0005",
+      "style": 84,
+      "name": "I want to go there with Siàn someday\nand try some fresh Beat Shrimp\ncooked by the pros!"
+    }
+  ]
+}

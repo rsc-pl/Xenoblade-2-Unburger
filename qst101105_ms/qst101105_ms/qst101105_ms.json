@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101104_msg001",
+      "style": 62,
+      "name": "ありがとうトーク(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101104_msg0001",
+      "style": 84,
+      "name": "You got 'em?\nAwesome, thanks!"
+    },
+    {
+      "$id": 3,
+      "label": "qst101104_msg0002",
+      "style": 84,
+      "name": "One, two...\nYep, all here!"
+    },
+    {
+      "$id": 4,
+      "label": "qst101104_msg0003",
+      "style": 84,
+      "name": "Da must be worried sick...\nI'm going back to town!"
+    },
+    {
+      "$id": 5,
+      "label": "qst101104_msg0004",
+      "style": 84,
+      "name": "Oh, I'll be fine. I wrapped some\ncloth around my ankle, see?"
+    },
+    {
+      "$id": 6,
+      "label": "qst101104_msg0005",
+      "style": 84,
+      "name": "I'm sure Da will want to reward your\nkindness, so make sure to stop by\nwhen you're in town!"
+    },
+    {
+      "$id": 7,
+      "label": "qst101104_msg0006",
+      "style": 84,
+      "name": "All right, later!"
+    },
+    {
+      "$id": 8,
+      "label": "qst101104_msg0101",
+      "style": 84,
+      "name": "Yowww...\nOh! It's the Confusion Ivy guys!"
+    },
+    {
+      "$id": 9,
+      "label": "qst101104_msg0102",
+      "style": 84,
+      "name": "I, uh...I ran before I could walk, so\nmy ankle's all messed up again..."
+    },
+    {
+      "$id": 10,
+      "label": "qst101104_msg0201",
+      "style": 84,
+      "name": "Sorry for making you do my job..."
+    },
+    {
+      "$id": 11,
+      "label": "qst101104_msg0202",
+      "style": 84,
+      "name": "I'll have to toughen up, huh..."
+    },
+    {
+      "$id": 12,
+      "label": "qst101104_msg0301",
+      "style": 84,
+      "name": "You brought some Gulan Walnut!\nThank you so much!"
+    },
+    {
+      "$id": 13,
+      "label": "qst101104_msg0302",
+      "style": 84,
+      "name": "And just when my ankle\ngot better, too..."
+    }
+  ]
+}

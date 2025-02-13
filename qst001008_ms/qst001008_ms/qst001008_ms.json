@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001008_msg001",
+      "style": 84,
+      "name": "I got told off for worrying Mr. Geross."
+    },
+    {
+      "$id": 2,
+      "label": "qst001008_msg002",
+      "style": 84,
+      "name": "Gotta be more careful next time."
+    },
+    {
+      "$id": 3,
+      "label": "qst001008_msg003",
+      "style": 84,
+      "name": "But if Jelved was a Driver,\nnobody'd have to worry..."
+    }
+  ]
+}

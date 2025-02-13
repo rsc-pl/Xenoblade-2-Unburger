@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501902_msg0001",
+      "style": 165,
+      "name": "How much will you throw?"
+    },
+    {
+      "$id": 2,
+      "label": "qst501902_msg0008",
+      "style": 165,
+      "name": "Throw 10G."
+    },
+    {
+      "$id": 3,
+      "label": "qst501902_msg0009",
+      "style": 165,
+      "name": "Throw 100G."
+    },
+    {
+      "$id": 4,
+      "label": "qst501902_msg0010",
+      "style": 165,
+      "name": "Throw 500G."
+    },
+    {
+      "$id": 5,
+      "label": "qst501902_msg0011",
+      "style": 165,
+      "name": "Don't throw anything."
+    },
+    {
+      "$id": 6,
+      "label": "qst501902_msg0002",
+      "style": 165,
+      "name": "How hard will you throw it?"
+    },
+    {
+      "$id": 7,
+      "label": "qst501902_msg0003",
+      "style": 165,
+      "name": "Gently"
+    },
+    {
+      "$id": 8,
+      "label": "qst501902_msg0004",
+      "style": 165,
+      "name": "Forcefully"
+    },
+    {
+      "$id": 9,
+      "label": "qst501902_msg0005",
+      "style": 165,
+      "name": "All-out!"
+    },
+    {
+      "$id": 10,
+      "label": "qst501902_msg0006",
+      "style": 84,
+      "name": "コインは雲海へと消えていった"
+    },
+    {
+      "$id": 11,
+      "label": "qst501902_msg0007",
+      "style": 84,
+      "name": "コインはあまり飛ばずに落下した"
+    }
+  ]
+}

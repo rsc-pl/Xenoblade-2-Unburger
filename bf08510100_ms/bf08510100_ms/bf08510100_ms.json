@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf08510100_0010",
+      "style": 82,
+      "name": "Urgh!"
+    },
+    {
+      "$id": 2,
+      "label": "bf08510100_0020",
+      "style": 82,
+      "name": "I can...move..."
+    },
+    {
+      "$id": 3,
+      "label": "bf08510100_0025",
+      "style": 82,
+      "name": "[ML:undisp ]*pant* *pant*"
+    },
+    {
+      "$id": 4,
+      "label": "bf08510100_0030",
+      "style": 82,
+      "name": "Rex!"
+    },
+    {
+      "$id": 5,
+      "label": "bf08510100_0040",
+      "style": 82,
+      "name": "I'm OK..."
+    },
+    {
+      "$id": 6,
+      "label": "bf08510100_0050",
+      "style": 82,
+      "name": "I...I won't let him get away with this any more."
+    },
+    {
+      "$id": 7,
+      "label": "bf08510100_0060",
+      "style": 82,
+      "name": "He's just manipulating humans and Blades alike.\nThat's not God's will at all!"
+    },
+    {
+      "$id": 8,
+      "label": "bf08510100_0070",
+      "style": 82,
+      "name": "Give it up, Marveni!"
+    },
+    {
+      "$id": 9,
+      "label": "bf08510100_0072",
+      "style": 82,
+      "name": "You can leave Shin and the rest to us!"
+    }
+  ]
+}

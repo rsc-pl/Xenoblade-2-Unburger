@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200126_04_msg0001",
+      "style": 84,
+      "name": "Ahh, I wish I could hear Nanakoori's song\nagain..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200126_04_msg0002",
+      "style": 84,
+      "name": "Her voice was so pretty! And she was\nso good at playing the Torigonda!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200126_04_msg0003",
+      "style": 84,
+      "name": "And she genuinely looked like she\nwas having fun."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200126_04_msg0004",
+      "style": 84,
+      "name": "That's the sort of level I'm hoping to\nreach someday..."
+    }
+  ]
+}

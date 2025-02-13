@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00340104_msg0001",
+      "style": 84,
+      "name": "I knew Boss had an aversion to desk\nwork, but I didn't think it was quite\nthis bad..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00340104_msg0002",
+      "style": 84,
+      "name": "Boss left us with so much paperwork,\nwe're kinda swamped right now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00340104_msg0003",
+      "style": 84,
+      "name": "Is that why he was always so keen to\nget out of here? Because he didn't\nwant to deal with it?"
+    }
+  ]
+}

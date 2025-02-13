@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103301_msg001",
+      "style": 62,
+      "name": "おぼえてますか？(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst103301_msg002",
+      "style": 62,
+      "name": "弟たちにこれ届けて(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst103301_msg101",
+      "style": 62,
+      "name": "届けてくれた？(仮)"
+    },
+    {
+      "$id": 4,
+      "label": "qst103301_msg0001",
+      "style": 84,
+      "name": "What do you want?\n...Hmm? Hang on..."
+    },
+    {
+      "$id": 5,
+      "label": "qst103301_msg0002",
+      "style": 84,
+      "name": "You lot look awfully familiar."
+    },
+    {
+      "$id": 6,
+      "label": "qst103301_msg0003",
+      "style": 84,
+      "name": "Oh, that's it!\nNow I remember!"
+    },
+    {
+      "$id": 7,
+      "label": "qst103301_msg0004",
+      "style": 84,
+      "name": "The town square in Trigo?\nThe Driver recruitment? I'm Jac!\nYou were there when I got recruited!"
+    },
+    {
+      "$id": 8,
+      "label": "qst103301_msg0005",
+      "style": 165,
+      "name": "Do we remember him?"
+    },
+    {
+      "$id": 9,
+      "label": "qst103301_msg0006",
+      "style": 165,
+      "name": "Of course!"
+    },
+    {
+      "$id": 10,
+      "label": "qst103301_msg0007",
+      "style": 165,
+      "name": "Nope"
+    },
+    {
+      "$id": 11,
+      "label": "qst103301_msg0021",
+      "style": 84,
+      "name": "Oh, brilliant!\nIt's nice to be remembered."
+    },
+    {
+      "$id": 12,
+      "label": "qst103301_msg0041",
+      "style": 84,
+      "name": "Oh, really?\nWell I remember you."
+    },
+    {
+      "$id": 13,
+      "label": "qst103301_msg0042",
+      "style": 84,
+      "name": "Everything about the moment I\nresonated with that Core Crystal\nis etched into my memory."
+    },
+    {
+      "$id": 14,
+      "label": "qst103301_msg0043",
+      "style": 84,
+      "name": "Including the faces of everyone\nwho was watching!"
+    },
+    {
+      "$id": 15,
+      "label": "qst103301_msg0101",
+      "style": 84,
+      "name": "After that, they brought me\nhere to Alba Margen for\nbasic training..."
+    },
+    {
+      "$id": 16,
+      "label": "qst103301_msg0102",
+      "style": 84,
+      "name": "And now I finally made it! I'm an\nofficial Driver of the Imperial Army!"
+    },
+    {
+      "$id": 17,
+      "label": "qst103301_msg0103",
+      "style": 84,
+      "name": "My position in the army lets\nme send back money to my\nbrothers and sister, which is nice."
+    },
+    {
+      "$id": 18,
+      "label": "qst103301_msg0104",
+      "style": 84,
+      "name": "I'm glad they're getting support now,\nbut I can't help feeling bad for leaving.\nFirst Ma and Da, and now me..."
+    },
+    {
+      "$id": 19,
+      "label": "qst103301_msg0105",
+      "style": 84,
+      "name": "Our parents weren't really fans of the\nSuperbian army. I wonder if they'd be\ndisappointed if they could see me now."
+    },
+    {
+      "$id": 20,
+      "label": "qst103301_msg0106",
+      "style": 84,
+      "name": "Ah well. No use worrying\nover spilled milk."
+    },
+    {
+      "$id": 21,
+      "label": "qst103301_msg0107",
+      "style": 84,
+      "name": "Anyway, I've got other problems."
+    },
+    {
+      "$id": 22,
+      "label": "qst103301_msg0108",
+      "style": 84,
+      "name": "I want to send some Superbian sweets\nand toys to my family back home.\nI bet they'd get a real kick out of them."
+    },
+    {
+      "$id": 23,
+      "label": "qst103301_msg0109",
+      "style": 84,
+      "name": "But as a new recruit I don't get\nmuch time off, and getting back to\nTrigo isn't really on the cards."
+    },
+    {
+      "$id": 24,
+      "label": "qst103301_msg0110",
+      "style": 84,
+      "name": "I already bought the sweets, but at\nthis rate they'll go off before I can\ngive them to my brothers and sister."
+    },
+    {
+      "$id": 25,
+      "label": "qst103301_msg0111",
+      "style": 84,
+      "name": "You'll help me out?\nThank you so much!"
+    },
+    {
+      "$id": 26,
+      "label": "qst103301_msg0112",
+      "style": 84,
+      "name": "I'll run and fetch the stuff right away!"
+    },
+    {
+      "$id": 27,
+      "label": "qst103301_msg0113",
+      "style": 84,
+      "name": "Oof, it's a little heavy. Guess I went\na bit overboard...\nThank you for agreeing to this!"
+    },
+    {
+      "$id": 28,
+      "label": "qst103301_msg0114",
+      "style": 84,
+      "name": "You'll find my siblings in the\nGalad Residential Zone in Trigo."
+    },
+    {
+      "$id": 29,
+      "label": "qst103301_msg0115",
+      "style": 84,
+      "name": "Their names are Neel, Zelen and Morca!\nDon't get it wrong, yeah?"
+    },
+    {
+      "$id": 30,
+      "label": "qst103301_msg0116",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qst103301_msg0117",
+      "style": 84,
+      "name": "I just wish I could have given my ma\na taste of that Sky-Jewel Tarte too..."
+    },
+    {
+      "$id": 32,
+      "label": "qst103301_msg0118",
+      "style": 84,
+      "name": "There's nothing too breakable in\nthere, but if you could deliver it\nASAP I'd be really grateful!"
+    }
+  ]
+}

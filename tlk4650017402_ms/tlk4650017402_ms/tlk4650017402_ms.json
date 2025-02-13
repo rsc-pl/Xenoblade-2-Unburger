@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500174_02_msg0001",
+      "style": 84,
+      "name": "Oh, the tragedy of it all..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500174_02_msg0002",
+      "style": 84,
+      "name": "To think the day would come when I\nwould have to enter the date of Lady\nFan's death into the annals of Acedia..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500174_02_msg0003",
+      "style": 84,
+      "name": "The children loved her so.\nI don't think they really understand\nyet that she is gone forever..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46500174_02_msg0004",
+      "style": 84,
+      "name": "And we will never again hear her\nbeautiful voice ring out in song..."
+    }
+  ]
+}

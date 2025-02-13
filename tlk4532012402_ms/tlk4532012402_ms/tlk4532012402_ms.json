@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320124_02_msg0001",
+      "style": 84,
+      "name": "We've managed to avoid war with\nInvidia, but that doesn't mean we\ncan slack off with our training."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320124_02_msg0002",
+      "style": 84,
+      "name": "In Temperantia for example, the\nGulan army didn't move, but that\ndoesn't mean they won't next time."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320124_02_msg0003",
+      "style": 84,
+      "name": "Superbians and Gulan have to train\nevery day in order to protect this city.\nTrain till we spit blood if needs be..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320124_02_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

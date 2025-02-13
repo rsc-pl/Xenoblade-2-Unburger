@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100607_msg0001",
+      "style": 84,
+      "name": "Did you get necessary items?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100607_msg0002",
+      "style": 84,
+      "name": "Wonderful!\nChest will soon be open!"
+    },
+    {
+      "$id": 3,
+      "label": "qst100607_msg0003",
+      "style": 84,
+      "name": "Like this...and that...\nThis go here...That go there..."
+    },
+    {
+      "$id": 4,
+      "label": "qst100607_msg0004",
+      "style": 84,
+      "name": "Meh meh?\nWhat-?"
+    },
+    {
+      "$id": 5,
+      "label": "qst100607_msg0005",
+      "style": 84,
+      "name": "Another one!\nAnd this one locked too!"
+    },
+    {
+      "$id": 6,
+      "label": "qst100607_msg0006",
+      "style": 84,
+      "name": "Friends can open it?\nIf so, please do!"
+    },
+    {
+      "$id": 7,
+      "label": "qst100607_msg0007",
+      "style": 84,
+      "name": "It definitely contain secret\nshady assets of Bahn!"
+    }
+  ]
+}

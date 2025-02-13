@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202010_msg001",
+      "style": 84,
+      "name": "Ohh, what a treat! This is exactly\nthe choclit I was after. Thank you\nkindly!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202010_msg002",
+      "style": 84,
+      "name": "Could you deliver the rice ball\nto Musubi for me? Ta."
+    },
+    {
+      "$id": 3,
+      "label": "qst202010_msg003",
+      "style": 84,
+      "name": "I'm sure she'll be pleased with it."
+    },
+    {
+      "$id": 4,
+      "label": "qst202010_msg101",
+      "style": 62,
+      "name": "ムスビは家の周りにおるはずじゃ\nおはぎを渡してやってくれ"
+    },
+    {
+      "$id": 5,
+      "label": "qst202010_msg102",
+      "style": 62,
+      "name": "もぐもぐ"
+    },
+    {
+      "$id": 6,
+      "label": "qst202010_msg201",
+      "style": 62,
+      "name": "スペルビアのどこかに隠したと\n思ったんじゃがな"
+    },
+    {
+      "$id": 7,
+      "label": "qst202010_msg202",
+      "style": 62,
+      "name": "確か、引き潮のときにしか\nいけない場所だったような"
+    },
+    {
+      "$id": 8,
+      "label": "qst202010_msg301",
+      "style": 62,
+      "name": "息子はスペルビアに\n娘はインヴィディアにおるんじゃ"
+    },
+    {
+      "$id": 9,
+      "label": "qst202010_msg302",
+      "style": 62,
+      "name": "おぉそうじゃ\nインヴィディアに寄ったときには\nまたチョコ買ってきてくれんか？"
+    }
+  ]
+}

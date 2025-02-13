@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000006_msg0001",
+      "style": 84,
+      "name": "This ship bound for Goldmund,\nAvaritia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000006_msg0005",
+      "style": 84,
+      "name": "Salvagers ride for free."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000006_msg0002",
+      "style": 165,
+      "name": "Board the ship?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000006_msg0003",
+      "style": 165,
+      "name": "Yes"
+    },
+    {
+      "$id": 5,
+      "label": "tlk000006_msg0004",
+      "style": 165,
+      "name": "Not yet"
+    },
+    {
+      "$id": 6,
+      "label": "tlk000006_msg0006",
+      "style": 84,
+      "name": "OK, we set out now."
+    },
+    {
+      "$id": 7,
+      "label": "tlk000006_msg0007",
+      "style": 84,
+      "name": "You have things to do?"
+    },
+    {
+      "$id": 8,
+      "label": "tlk000006_msg0008",
+      "style": 84,
+      "name": "Me thoughtful captain. Speak up when\nyou ready to board."
+    }
+  ]
+}

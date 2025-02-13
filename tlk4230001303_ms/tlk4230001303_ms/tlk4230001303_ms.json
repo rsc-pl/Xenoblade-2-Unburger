@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300013_03_msg0001",
+      "style": 84,
+      "name": "So, it seems you are preparing\nfor the final battle."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300013_03_msg0002",
+      "style": 84,
+      "name": "You, who unraveled the mysteries of\nCaptain Nopopon, surely cannot fail."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300013_03_msg0003",
+      "style": 84,
+      "name": "That is what I believe."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300013_03_msg0004",
+      "style": 84,
+      "name": "The future of Alst is in your hands!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300013_03_msg0005",
+      "style": 84,
+      "name": "Wahey! Rododo manage to say\nwhole thing in ancient Nopon style!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42300013_03_msg0006",
+      "style": 84,
+      "name": "Urk?! Rododo just slip back into\nmodern Nopon style again..."
+    }
+  ]
+}

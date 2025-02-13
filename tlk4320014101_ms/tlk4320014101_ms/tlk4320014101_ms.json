@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200141_01_msg0001",
+      "style": 84,
+      "name": "I love Mymoma Playhouse, me. It's my\nfavorite theater."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200141_01_msg0002",
+      "style": 84,
+      "name": "I go every single day! Until my money\nruns out, I mean."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200141_01_msg0003",
+      "style": 84,
+      "name": "I hope I'll get to walk out on that\nstage someday as a leading lady!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200141_01_msg0004",
+      "style": 84,
+      "name": "I'd bring Cole's scripts to life! I'd make\nthem laugh! Make them cry!"
+    }
+  ]
+}

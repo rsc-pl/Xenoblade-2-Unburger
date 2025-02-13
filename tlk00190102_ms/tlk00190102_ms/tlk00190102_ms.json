@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001901_02_msg0001",
+      "style": 84,
+      "name": "Going to the usual spot, I take it?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001901_02_msg0002",
+      "style": 84,
+      "name": "You know, the one on the other side of\nthe village, with the stunning view."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001901_02_msg0003",
+      "style": 84,
+      "name": "You go and do your thing, then.\nI'll have a nice, hearty meal waiting\nfor you when you get back!"
+    }
+  ]
+}

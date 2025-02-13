@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45450112_03_msg0001",
+      "style": 84,
+      "name": "When we don't have work to do for\nBahn, Krujah and I talk about dancing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45450112_03_msg0002",
+      "style": 84,
+      "name": "We could never have made a living\nas dancers back in our hometowns, so\nwe made the right choice coming here!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45450112_03_msg0003",
+      "style": 84,
+      "name": "It's lovely to be able to work together\nwith someone who shares my passion\nfor dancing. And the pay's great too!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf04210100_0010",
+      "style": 82,
+      "name": "She's gone..."
+    },
+    {
+      "$id": 2,
+      "label": "bf04210100_0020",
+      "style": 82,
+      "name": "Ether furnace reading lost...\nIt seem she has escaped."
+    },
+    {
+      "$id": 3,
+      "label": "bf04210100_0030",
+      "style": 82,
+      "name": "Kiku..."
+    }
+  ]
+}

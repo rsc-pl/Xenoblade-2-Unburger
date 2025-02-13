@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102409_msg001",
+      "style": 62,
+      "name": "団長到着FEV"
+    },
+    {
+      "$id": 2,
+      "label": "qst102409_msg002",
+      "style": 62,
+      "name": "卑怯な手を使うんじゃない（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst102409_msg003",
+      "style": 62,
+      "name": "今度は俺と正々堂々勝負だ（仮）"
+    }
+  ]
+}

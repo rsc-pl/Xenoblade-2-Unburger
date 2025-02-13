@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "37890101",
+      "style": 82,
+      "name": "Oh ho ho ho!"
+    },
+    {
+      "$id": 2,
+      "label": "37890102",
+      "style": 82,
+      "name": "Idaten, at your service!"
+    },
+    {
+      "$id": 3,
+      "label": "37890103",
+      "style": 82,
+      "name": "I bet you can't keep up with me!"
+    },
+    {
+      "$id": 4,
+      "label": "37890104",
+      "style": 82,
+      "name": "Going fast sure makes me super hungry..."
+    },
+    {
+      "$id": 5,
+      "label": "37890105",
+      "style": 82,
+      "name": "I will eat everything that Alst has to offer!"
+    }
+  ]
+}

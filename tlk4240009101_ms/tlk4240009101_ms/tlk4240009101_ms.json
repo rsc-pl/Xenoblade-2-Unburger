@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240009101_msg0001",
+      "style": 84,
+      "name": "Mamapon tell me lots of stories."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240009101_msg0002",
+      "style": 84,
+      "name": "Actually is kind of relief. Now Mimin\nknow Mamapon sometimes struggle\nwith life just as much as Mimin."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240009101_msg0003",
+      "style": 84,
+      "name": "Never needed Harbingers of Eschapon\nin first place. Much thanks to friends\nfor helping Mimin realize that."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_01_msg0001",
+      "style": 84,
+      "name": "Grampypon of Magomago\nalways so busy lately!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_01_msg0002",
+      "style": 84,
+      "name": "In other places, all kinds of people\nbring things for selling. But here is\ndifferent! Very unhelpful!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_01_msg0003",
+      "style": 84,
+      "name": "Grampypon not allowed to bring nice\nthings to sell without get permission\nfrom high-up people. It make no sense!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100181_01_msg0004",
+      "style": 84,
+      "name": "Still not nighttime yet? Meh-meh!\nHurry up! Grampypon need his rest!"
+    }
+  ]
+}

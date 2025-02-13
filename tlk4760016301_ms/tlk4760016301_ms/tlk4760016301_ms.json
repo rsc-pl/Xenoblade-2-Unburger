@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47600163_01_msg0001",
+      "style": 84,
+      "name": "Visitors? What a pleasant surprise.\nPlease, browse to your hearts' content!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47600163_01_msg0002",
+      "style": 84,
+      "name": "Our textiles are woven in the traditional\nIyasaki way, passed down through\ngenerations."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47600163_01_msg0005",
+      "style": 84,
+      "name": "Glad to see you back. I'd be delighted\nif you could buy something from us."
+    }
+  ]
+}

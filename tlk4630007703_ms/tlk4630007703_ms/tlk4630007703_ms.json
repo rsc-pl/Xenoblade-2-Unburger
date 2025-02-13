@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300077_03_msg0001",
+      "style": 84,
+      "name": "Welcome to Acedia!\nWhether it's sightseeing or shopping\nyou're after, Acedia has it all."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300077_03_msg0002",
+      "style": 84,
+      "name": "Superbia and Invidia have\nbrokered a ceasefire...\nBut the refugees remain."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300077_03_msg0003",
+      "style": 84,
+      "name": "The war's not over until these\npeople get to return home."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46300077_03_msg0004",
+      "style": 84,
+      "name": "But who knows when that'll happen.\nOr even if it ever will."
+    },
+    {
+      "$id": 5,
+      "label": "tlk46300077_03_msg0005",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

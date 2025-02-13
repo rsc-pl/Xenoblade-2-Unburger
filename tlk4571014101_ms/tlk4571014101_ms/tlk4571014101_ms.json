@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4571014101_msg0001",
+      "style": 84,
+      "name": "I heard all about Damida.\nAnd how I was under suspicion."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4571014101_msg0002",
+      "style": 84,
+      "name": "Don't worry, I'm not blaming you.\nYou did the rational thing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4571014101_msg0003",
+      "style": 84,
+      "name": "Communicating isn't my strong point.\nI'm used to people getting the wrong\nend of the stick."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4571014101_msg0004",
+      "style": 84,
+      "name": "All I can do is prove my reliability\nby doing good work out in the field.\nA mercenary is judged by his skills."
+    }
+  ]
+}

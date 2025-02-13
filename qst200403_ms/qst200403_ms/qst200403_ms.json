@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200403_msg0001",
+      "style": 84,
+      "name": "A loan shark?\nHuh... No clue."
+    },
+    {
+      "$id": 2,
+      "label": "qst200403_msg0002",
+      "style": 84,
+      "name": "But there's definitely dudes here that\nyou shouldn't tangle with."
+    },
+    {
+      "$id": 3,
+      "label": "qst200403_msg0003",
+      "style": 84,
+      "name": "They've been going around town lately,\npretend-hurting themselves to extort\nmoney from hardworking people."
+    },
+    {
+      "$id": 4,
+      "label": "qst200403_msg0004",
+      "style": 84,
+      "name": "What's worse though is that there's a\ndoctor working with them, \"charging\"\nthe \"injured\" stupidly high fees."
+    },
+    {
+      "$id": 5,
+      "label": "qst200403_msg0005",
+      "style": 84,
+      "name": "You'd do well to steer well clear of\nthat kind of noise, fellas!"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701506_msg0001",
+      "style": 84,
+      "name": "おじいさん！？　しっかりして"
+    },
+    {
+      "$id": 2,
+      "label": "qst701506_msg0002",
+      "style": 84,
+      "name": "ゼェゼェ[ML:Dash ]\nううっ　息が[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst701506_msg0003",
+      "style": 84,
+      "name": "見せてください"
+    },
+    {
+      "$id": 4,
+      "label": "qst701506_msg0004",
+      "style": 84,
+      "name": "呼吸音が変です[ML:Dash ]\n気道に異常があるのかもしれません"
+    },
+    {
+      "$id": 5,
+      "label": "qst701506_msg0005",
+      "style": 84,
+      "name": "どうしよう　何かの発作だったら"
+    },
+    {
+      "$id": 6,
+      "label": "qst701506_msg0006",
+      "style": 84,
+      "name": "医者を呼びに参りましょうか"
+    },
+    {
+      "$id": 7,
+      "label": "qst701506_msg0007",
+      "style": 84,
+      "name": "いえ　ここからでは\n間に合わないかもしれません"
+    },
+    {
+      "$id": 8,
+      "label": "qst701506_msg0008",
+      "style": 84,
+      "name": "俺達で応急処置をしよう"
+    },
+    {
+      "$id": 9,
+      "label": "qst701506_msg0009",
+      "style": 84,
+      "name": "カスミ　何があればいい？"
+    },
+    {
+      "$id": 10,
+      "label": "qst701506_msg0010",
+      "style": 84,
+      "name": "喉を鎮めるものがあると助かります\nとにかく呼吸を楽にしないと[ML:Dash ]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200212_msg0101",
+      "style": 165,
+      "name": "How shall we convince him?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200212_msg0102",
+      "style": 165,
+      "name": "With a passionate soul"
+    },
+    {
+      "$id": 3,
+      "label": "qst200212_msg0103",
+      "style": 165,
+      "name": "With a soul of justice"
+    },
+    {
+      "$id": 4,
+      "label": "qst200212_msg0104",
+      "style": 165,
+      "name": "With a kind soul"
+    },
+    {
+      "$id": 5,
+      "label": "qst200212_msg0105",
+      "style": 84,
+      "name": "Meh-meh-meh!\nJaruru know nothing!\nNothing at all!"
+    }
+  ]
+}

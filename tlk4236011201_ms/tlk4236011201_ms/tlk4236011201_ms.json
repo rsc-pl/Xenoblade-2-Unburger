@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360112_01_msg0001",
+      "style": 84,
+      "name": "Right all clear! Left all clear!\nFront all clear! All all clear!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360112_01_msg0002",
+      "style": 84,
+      "name": "Lomlom checking place from top to\nbottom to make sure Goldmund\nrunning like clockwork!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360112_01_msg0003",
+      "style": 84,
+      "name": "Slightest sight of damage or danger\nand Lomlom run to fix it on the spot!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42360112_01_msg0004",
+      "style": 84,
+      "name": "Lomlom devoting self to maintenance\nis for safety of all Goldmund, so\nalways determined to give best effort!"
+    }
+  ]
+}

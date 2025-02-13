@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4550019101_msg0001",
+      "style": 84,
+      "name": "How's the patient?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4550019101_msg0002",
+      "style": 84,
+      "name": "Thanks for the info.\nSo my medicine works on Flesh Eaters.\nGood to know."
+    }
+  ]
+}

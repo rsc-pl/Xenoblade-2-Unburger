@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47200161_02_msg0001",
+      "style": 84,
+      "name": "Whew! I'm taking a break from\nfetching water."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47200161_02_msg0002",
+      "style": 84,
+      "name": "I was carrying so much water\nI was starting to overheat there.\nWish I could just dive straight in!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47200161_02_msg0003",
+      "style": 84,
+      "name": "But you're not supposed to muddy\nthe water here and the lake at\nGodsford Isle's full of monsters..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47200161_02_msg0004",
+      "style": 84,
+      "name": "There's plenty of water in Invidia, right?\nWish I was there now. Then I could just\nswim all day..."
+    }
+  ]
+}

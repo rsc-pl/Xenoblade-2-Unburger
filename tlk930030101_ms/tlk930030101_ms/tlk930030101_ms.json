@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300301_01_msg0001",
+      "style": 84,
+      "name": "You have no need of my power?\nWell, tell me whenever you change\nyour mind..."
+    }
+  ]
+}

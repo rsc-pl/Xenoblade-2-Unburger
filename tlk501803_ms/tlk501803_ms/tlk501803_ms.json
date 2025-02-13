@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501803_msg0001",
+      "style": 84,
+      "name": "How terrible... That precious tome...\nI must apologize to my client..."
+    },
+    {
+      "$id": 2,
+      "label": "qst501803_msg0002",
+      "style": 84,
+      "name": "Oh, hello there. Who are you?\nAre you acquainted with a Blade\nnamed Shiki, by any chance?"
+    },
+    {
+      "$id": 3,
+      "label": "qst501803_msg0003",
+      "style": 84,
+      "name": "There's something I need to tell her,\nso if you could bring her to me,\nI would be most grateful."
+    },
+    {
+      "$id": 4,
+      "label": "qst501803_msg0011",
+      "style": 84,
+      "name": "The ship which was supposed to be\ndelivering a Tome of Mors was\nsunk in the waters near Gula."
+    },
+    {
+      "$id": 5,
+      "label": "qst501803_msg0012",
+      "style": 84,
+      "name": "You might be able to salvage it near\nUmon's Shipyard. There's no guarantee\nthough."
+    }
+  ]
+}

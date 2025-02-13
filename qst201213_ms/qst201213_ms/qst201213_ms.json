@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201213_msg0001",
+      "style": 84,
+      "name": "You'll gimme a Whelzaman Cookie?\nScore!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201213_msg1001",
+      "style": 84,
+      "name": "Deeelish!\nWhelzaman is the best!"
+    }
+  ]
+}

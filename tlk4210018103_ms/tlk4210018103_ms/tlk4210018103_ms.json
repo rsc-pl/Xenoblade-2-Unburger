@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_03_msg0001",
+      "style": 84,
+      "name": "Hoo-ooh-ooh!\nGrampypon! Grampypon!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_03_msg0002",
+      "style": 84,
+      "name": "It nighttime now. That mean Magomago\nget to play with Grampypon! Magomago\nsleepy-sleepy, but also happy-happy!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_03_msg0003",
+      "style": 84,
+      "name": "Guess what? Grampypon make friends\nwith high-up people! That mean he\nallowed to bring things to sell!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100181_03_msg0004",
+      "style": 84,
+      "name": "Ahehem! From this day forth,\nMagomago aspire to become merchant\njust like Grampypon!"
+    }
+  ]
+}

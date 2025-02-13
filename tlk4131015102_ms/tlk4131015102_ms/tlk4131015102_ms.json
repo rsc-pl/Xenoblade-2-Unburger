@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310151_02_msg0001",
+      "style": 84,
+      "name": "Hey, there!\nYou've done so much for me recently,\nI can't thank you enough."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310151_02_msg0002",
+      "style": 84,
+      "name": "So in the end, Da went back to\nTrigo. He's living together with\nmy siblings now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310151_02_msg0003",
+      "style": 84,
+      "name": "I heard he's started making an honest\nliving. I think Ma would be proud..."
+    }
+  ]
+}

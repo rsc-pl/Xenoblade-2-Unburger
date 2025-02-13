@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700149_02_msg0001",
+      "style": 84,
+      "name": "Ah, a fellow compatriot."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700149_02_msg0002",
+      "style": 84,
+      "name": "You probably already know\nthis, but different classes give\ndifferent benefits."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700149_02_msg0003",
+      "style": 84,
+      "name": "It can affect your attack, defense...\neven your recovery abilities."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700149_02_msg0004",
+      "style": 84,
+      "name": "Make sure to bring plenty of Blades\nalong with you and find the class that\nsuits you best."
+    }
+  ]
+}

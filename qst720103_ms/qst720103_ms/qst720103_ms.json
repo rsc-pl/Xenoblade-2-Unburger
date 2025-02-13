@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720103_msg0001",
+      "style": 84,
+      "name": "こ　今度こそ　終わったかな"
+    },
+    {
+      "$id": 2,
+      "label": "qst720103_msg0002",
+      "style": 84,
+      "name": "ああ　新しい気配はない"
+    },
+    {
+      "$id": 3,
+      "label": "qst720103_msg0003",
+      "style": 84,
+      "name": "カスミ　頼むよ"
+    },
+    {
+      "$id": 4,
+      "label": "qst720103_msg0004",
+      "style": 84,
+      "name": "承知いたしました"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700151_02_msg0001",
+      "style": 84,
+      "name": "I used to think this was a fine place\nto live as long as you're used to it..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700151_02_msg0002",
+      "style": 84,
+      "name": "But then I found out the anti-imperial\norganization Brionac had a hideout\nright below here!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700151_02_msg0003",
+      "style": 84,
+      "name": "I mean, no wonder the Superbians\naren't keen on this area with a nasty\nlot like them hanging around..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700151_02_msg0004",
+      "style": 84,
+      "name": "I didn't know much about Brionac\nup until just recently..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700151_02_msg0005",
+      "style": 84,
+      "name": "But I guess if I'm going to live here in\nSuperbia, I should be more sensitive\nto those kinds of issues."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4330014501_msg0001",
+      "style": 84,
+      "name": "Hey again! My curiosity got the better\nof me, so I went over to the Great\nStairway myself to see what was up."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4330014501_msg0002",
+      "style": 84,
+      "name": "I found that Superbian, but he\nwas all beat up on the ground!\nSo I took him to a doctor."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4330014501_msg0003",
+      "style": 84,
+      "name": "No need to thank me. I wouldn't leave\nanyone high and dry like that, not even\nan Superbian."
+    }
+  ]
+}

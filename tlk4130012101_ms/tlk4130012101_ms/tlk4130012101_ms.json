@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4130012101_msg0001",
+      "style": 84,
+      "name": "Well look who it is! You really saved\nus a lot of work back there. Thanks\nfor helping out with the repairs!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4130012101_msg0002",
+      "style": 84,
+      "name": "Oh yeah, about those Tirkin.\nThey're helping out with guard\nduty over on Rahim's tower."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4130012101_msg0003",
+      "style": 84,
+      "name": "You really taught them a lesson, but I\nfelt a bit sorry for them, so I offered\nthem the job. They're good birds."
+    }
+  ]
+}

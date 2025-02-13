@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170042103_msg0001",
+      "style": 84,
+      "name": "Nebulous cloudy peaks...\nFor whom do you tower, looking\ndown from your lofty heights?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170042103_msg0002",
+      "style": 84,
+      "name": "I'm trying to encapsulate my idea of\nthe Cloud Sea ridge through poetry,\nbut it's proving very difficult..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170042103_msg0003",
+      "style": 84,
+      "name": "Ah, I do enjoy searching for new ways\nto express myself. Thank you so very\nmuch for having invited me here."
+    }
+  ]
+}

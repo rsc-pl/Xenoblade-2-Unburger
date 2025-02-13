@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100902_msg0001",
+      "style": 84,
+      "name": "Therida! Therida!"
+    },
+    {
+      "$id": 2,
+      "label": "qst100902_msg0002",
+      "style": 84,
+      "name": "Therida's alive! Alive, I tell you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst100902_msg0003",
+      "style": 84,
+      "name": "Come on, Therida. Get up.\nPlease, Therida!\nOh, what am I going to..."
+    },
+    {
+      "$id": 4,
+      "label": "qst100902_msg0004",
+      "style": 84,
+      "name": "Thanks...\nHang on though...what was\nmeant to be the herb for...?"
+    },
+    {
+      "$id": 5,
+      "label": "qst100902_msg0005",
+      "style": 84,
+      "name": "That's it! Amethyst Vanilla!"
+    },
+    {
+      "$id": 6,
+      "label": "qst100902_msg0006",
+      "style": 84,
+      "name": "I think Therida once told me\nyou could use Amethyst Vanilla\nto bring someone round!"
+    },
+    {
+      "$id": 7,
+      "label": "qst100902_msg0007",
+      "style": 84,
+      "name": "Maybe if you brought me some\nAmethyst Vanilla..."
+    },
+    {
+      "$id": 8,
+      "label": "qst100902_msg0008",
+      "style": 84,
+      "name": "Please stay with us, Therida!"
+    }
+  ]
+}

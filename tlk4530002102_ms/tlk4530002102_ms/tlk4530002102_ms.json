@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300021_02_msg0001",
+      "style": 84,
+      "name": "My brother is a member of the\nSuperbian Military Engineer Corps."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300021_02_msg0002",
+      "style": 84,
+      "name": "It's a dangerous job that mostly\ninvolves transporting Core Crystals."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300021_02_msg0003",
+      "style": 84,
+      "name": "It's only thanks to my brother's\ninfluence that I was even able to move\nall the way out here to Trigo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300021_02_msg0004",
+      "style": 84,
+      "name": "But now this Iira lot have shown up\nin Trigo... Apparently they even got\naway from Special Inquisitor Meleph."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300021_02_msg0005",
+      "style": 84,
+      "name": "Maybe we would've been better off\nliving a quiet life back in Superbia\nafter all..."
+    }
+  ]
+}

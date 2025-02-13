@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700222_01_msg0001",
+      "style": 84,
+      "name": "Since I spend all my time chopping\ndown trees, I'm not exactly sensitive\nto the ways of the wider world."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700222_01_msg0002",
+      "style": 84,
+      "name": "But I know the craftsmen in Trigo\nturn the trees I fell into gorgeous pieces\nof furniture or musical instruments."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700222_01_msg0003",
+      "style": 84,
+      "name": "And the things they craft go on to\nmake all sorts of customers happy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700222_01_msg0004",
+      "style": 84,
+      "name": "Isn't that enough, when it comes\nright down to it?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700222_01_msg0005",
+      "style": 84,
+      "name": "That's why no matter what happens,\nI'm just gonna stay right here, chopping\ndown these here trees."
+    }
+  ]
+}

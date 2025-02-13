@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "34890101",
+      "style": 82,
+      "name": "My name is Vasara!"
+    },
+    {
+      "$id": 2,
+      "label": "34890102",
+      "style": 82,
+      "name": "None can stand against me!"
+    }
+  ]
+}

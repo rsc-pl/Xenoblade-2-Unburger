@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200917_msg001",
+      "style": 84,
+      "name": "Mr. Kupon! We got your cargo back!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200917_msg002",
+      "style": 84,
+      "name": "Meh-meh?! You...you really got back?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200917_msg003",
+      "style": 84,
+      "name": "Yup! And as I expected, it was a piece\nof cake for us as we are right now!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200917_msg004",
+      "style": 84,
+      "name": "Probably about time we head to\nTilly Bakery now?"
+    },
+    {
+      "$id": 5,
+      "label": "qst200917_msg005",
+      "style": 84,
+      "name": "No! Not going with Kasane, not even\nif Cloud Sea freeze over! Kupon go on\nahead!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200917_msg006",
+      "style": 84,
+      "name": "Oh, well there he goes."
+    },
+    {
+      "$id": 7,
+      "label": "qst200917_msg007",
+      "style": 84,
+      "name": "I wonder why he was in such a hurry?"
+    },
+    {
+      "$id": 8,
+      "label": "qst200917_msg008",
+      "style": 84,
+      "name": "Hey, if I were in his position,\nI'd probably do the same."
+    },
+    {
+      "$id": 9,
+      "label": "qst200917_msg009",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 10,
+      "label": "qst200917_msg010",
+      "style": 84,
+      "name": "In any case, we should head back to\nTrigo now."
+    },
+    {
+      "$id": 11,
+      "label": "qst200917_msg011",
+      "style": 84,
+      "name": "Oh, yeah. Right!"
+    }
+  ]
+}

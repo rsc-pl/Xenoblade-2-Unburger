@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn028_msg0001",
+      "style": 84,
+      "name": "Tora have little matter to check."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn028_msg0002",
+      "style": 84,
+      "name": "If boss have time, then please bring\nself to Central Control Room in old\nfactory."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn028_msg0003",
+      "style": 84,
+      "name": "Sure thing!"
+    }
+  ]
+}

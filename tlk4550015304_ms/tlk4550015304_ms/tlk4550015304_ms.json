@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500153_04_msg0001",
+      "style": 84,
+      "name": "Here's a bit of gossip I heard\nat the baths."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500153_04_msg0002",
+      "style": 84,
+      "name": "Apparently Senator Roderich\nwas excavating some terrible\nthing in Temperantia!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500153_04_msg0003",
+      "style": 84,
+      "name": "I swear, those war hawks in the Senate\nare always up to no good..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500153_04_msg0004",
+      "style": 84,
+      "name": "But what I'd like to know is - who\nactually benefited the most from\nthis whole debacle?"
+    }
+  ]
+}

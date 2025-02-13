@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00350108_msg0001",
+      "style": 84,
+      "name": "Now that was a real battle!\nHaven't fought like that for yonks!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00350108_msg0002",
+      "style": 84,
+      "name": "I've clearly lost my edge with all the\noffice work I've been busy with."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00350108_msg0003",
+      "style": 84,
+      "name": "I'm gonna make time to train between\nshifts, so let's have a bit of rough an'\ntumble some time, yeah?"
+    }
+  ]
+}

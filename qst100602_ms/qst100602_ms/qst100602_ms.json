@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100602_msg0001",
+      "style": 165,
+      "name": "How should we open it?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100602_msg0002",
+      "style": 165,
+      "name": "Prize it open"
+    },
+    {
+      "$id": 3,
+      "label": "qst100602_msg0003",
+      "style": 165,
+      "name": "Smash it up"
+    },
+    {
+      "$id": 4,
+      "label": "qst100602_msg0004",
+      "style": 165,
+      "name": "Burn it"
+    }
+  ]
+}

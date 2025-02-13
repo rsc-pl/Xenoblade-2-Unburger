@@ -1,0 +1,546 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk080_msg0001",
+      "style": 84,
+      "name": "Hey, Mei! Is something up?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk080_msg0002",
+      "style": 84,
+      "name": "You're not sick are you?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk080_msg0003",
+      "style": 84,
+      "name": "Hey, Mei! What's up?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk080_msg0004",
+      "style": 84,
+      "name": "You'd better not be sick!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk080_msg0005",
+      "style": 84,
+      "name": "Mei. Still fighting fit, I hope."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk080_msg0006",
+      "style": 84,
+      "name": "Yo! Mei!\nWhat's going down?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk080_msg0007",
+      "style": 84,
+      "name": "Are you sick? By which I mean, \"ill\"."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk080_msg0008",
+      "style": 84,
+      "name": "Mei! Sun already up!"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk080_msg0009",
+      "style": 84,
+      "name": "Wakey-wakey!"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk080_msg0010",
+      "style": 84,
+      "name": "Is something wrong?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk080_msg0011",
+      "style": 84,
+      "name": "Mei not wakey-wake."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk080_msg0012",
+      "style": 84,
+      "name": "Maybe..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk080_msg0013",
+      "style": 84,
+      "name": "I mean, I do remember her saying she\nwasn't much of a morning person.\nMaybe she's still sleeping."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk080_msg0014",
+      "style": 84,
+      "name": "Should I go and wake her up?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk080_msg0015",
+      "style": 84,
+      "name": "Yeah, OK."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk080_msg0016",
+      "style": 84,
+      "name": "Yeah. Do it."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk080_msg0017",
+      "style": 84,
+      "name": "Yes. Please do."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk080_msg0018",
+      "style": 84,
+      "name": "Yeah, get that sleepyhead out of bed!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk080_msg0019",
+      "style": 84,
+      "name": "Uh... W-what's...happening...?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk080_msg0020",
+      "style": 84,
+      "name": "Well, she's conscious, but she doesn't\nexactly look...awake..."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk080_msg0021",
+      "style": 84,
+      "name": "Ughhh... Can you stop making such\na racket when I'm trying to sleep?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk080_msg0022",
+      "style": 84,
+      "name": "How long were you planning to keep\ndozing? C'mon, it's morning already!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk080_msg0023",
+      "style": 84,
+      "name": "We need to get ready to go."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk080_msg0024",
+      "style": 84,
+      "name": "C'mon, sleeping beauty. Wake up and\nsmell the coffee."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk080_msg0025",
+      "style": 84,
+      "name": "And get your arse in gear!"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk080_msg0026",
+      "style": 84,
+      "name": "Plenty of time to sleep when you're\ndead."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk080_msg0027",
+      "style": 84,
+      "name": "The sun's up. Time to get ready to\nmove out."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk080_msg0028",
+      "style": 84,
+      "name": "How long are you going to sleep for,\nkiddo?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk080_msg0029",
+      "style": 84,
+      "name": "C'mon. Out of bed. Embrace the day."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk080_msg0030",
+      "style": 84,
+      "name": "Huh? Morning?\nSeriously?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk080_msg0031",
+      "style": 84,
+      "name": "Nah. I'm going to sleep for a bit longer,\nthanks."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk080_msg0032",
+      "style": 84,
+      "name": "Hey! Don't go back to sleep!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk080_msg0033",
+      "style": 84,
+      "name": "Oh no you don't! Come on, up you get!"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk080_msg0034",
+      "style": 84,
+      "name": "Mei. It's time to get up, I said."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk080_msg0035",
+      "style": 84,
+      "name": "Hey! What's wrong with you!\nNaptime's over!"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk080_msg0036",
+      "style": 84,
+      "name": "It's morning? So what. There's a new\none every single day, y'know."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk080_msg0037",
+      "style": 84,
+      "name": "I didn't get to sleep till the sun came\nup. Leave me to it, will you."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk080_msg0038",
+      "style": 165,
+      "name": "What should I ask her...?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk080_msg0039",
+      "style": 164,
+      "name": "Mei, why are you so terrible at getting\nup?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk080_msg0040",
+      "style": 164,
+      "name": "Why didn't you get to sleep until\nmorning?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk080_msg0041",
+      "style": 165,
+      "name": "What should I ask her...?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk080_msg0042",
+      "style": 164,
+      "name": "Mei, what is it with you and mornings?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk080_msg0043",
+      "style": 164,
+      "name": "What kept you up so late?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk080_msg0044",
+      "style": 165,
+      "name": "What should I ask her...?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk080_msg0045",
+      "style": 164,
+      "name": "How come you're such a weakling\nwhen it comes to mornings?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk080_msg0046",
+      "style": 164,
+      "name": "Why were you so late to bed?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk080_msg0047",
+      "style": 165,
+      "name": "What should I ask her...?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk080_msg0048",
+      "style": 164,
+      "name": "How come you're such a lazybones in\nthe morning?"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk080_msg0049",
+      "style": 164,
+      "name": "What kept you up so late?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk080_msg0050",
+      "style": 84,
+      "name": "Uh?"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk080_msg0051",
+      "style": 84,
+      "name": "Well, thing is, I'm actually a...\na nightstalker."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk080_msg0052",
+      "style": 84,
+      "name": "?!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk080_msg0053",
+      "style": 84,
+      "name": "Wow! A nightstalker!\nTora amazed!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk080_msg0054",
+      "style": 84,
+      "name": "So does Mei have special reaction to\nsunlight?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk080_msg0055",
+      "style": 84,
+      "name": "Yup. Sunlight has this strange effect on\nme. I lose power. I disappear."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk080_msg0056",
+      "style": 84,
+      "name": "Wow! Awesome!"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk080_msg0057",
+      "style": 84,
+      "name": "Yes! Awesome!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk080_msg0058",
+      "style": 84,
+      "name": "That's the deal. So you'd better let me\nget some sleep."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk080_msg0059",
+      "style": 84,
+      "name": "Thing is, there's this thing inside me.\nThe Geist Chevalier."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk080_msg0060",
+      "style": 84,
+      "name": "You'd better be careful. It can run riot."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk080_msg0061",
+      "style": 84,
+      "name": "Geist Chevalier?"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk080_msg0062",
+      "style": 84,
+      "name": "Run riot?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk080_msg0063",
+      "style": 84,
+      "name": "That's right. If I don't get enough rest,\nthen I can't control it. So if you don't\nwant it to go crazy..."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk080_msg0064",
+      "style": 84,
+      "name": "...it's naptime."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk080_msg0065",
+      "style": 84,
+      "name": "Hey! That won't wash! It's time to go!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk080_msg0066",
+      "style": 84,
+      "name": "Hey! That nonsense won't work.\nC'mon!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk080_msg0067",
+      "style": 84,
+      "name": "Very funny. Time to go!"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk080_msg0068",
+      "style": 84,
+      "name": "Mei, if you don't get your butt in gear,\nwe're leaving without you."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk080_msg0069",
+      "style": 84,
+      "name": "Hmph... Worth a try."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk080_msg0070",
+      "style": 84,
+      "name": "I had this kind of secret meeting thing\nin the night."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk080_msg0071",
+      "style": 84,
+      "name": "Secret meeting, huh?"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk080_msg0072",
+      "style": 84,
+      "name": "Yep. I met up with some buddies. We\ngot into some pretty dark magical\nsummoning stuff."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk080_msg0073",
+      "style": 84,
+      "name": "Ah, now I get it. You met up with your\ngirlfriends and spent the night chatting?"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk080_msg0074",
+      "style": 84,
+      "name": "N-no! It was a really important magic\nthing."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk080_msg0075",
+      "style": 84,
+      "name": "That's not what Hikari-chan told me."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk080_msg0076",
+      "style": 84,
+      "name": "She said you were having a little\nchat-fest with everyone."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk080_msg0077",
+      "style": 84,
+      "name": "Ah! Hikari! Why'd you snitch on me?!\nBig mouth..."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk080_msg0078",
+      "style": 84,
+      "name": "...What kind of stuff friends\ntalk about, anyway?"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk080_msg0079",
+      "style": 84,
+      "name": "Uh...never mind."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk080_msg0080",
+      "style": 62,
+      "name": "※削除"
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk080_msg0081",
+      "style": 84,
+      "name": "Let me see... You were just talking\nabout what your favorite dessert was,\nright?"
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk080_msg0082",
+      "style": 84,
+      "name": "Hikari! Argh! Why I'm gonna..."
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk080_msg0083",
+      "style": 84,
+      "name": "Hikari? Are you in there?\nOr is it just Homura?"
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk080_msg0084",
+      "style": 84,
+      "name": "Well, whatever! Both of you are on\npretty thin ice right now!"
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk080_msg0085",
+      "style": 84,
+      "name": "Mei, if you don't come along now,\nI'm going to tell them the rest..."
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk080_msg0086",
+      "style": 84,
+      "name": "That's from Hikari-chan."
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk080_msg0087",
+      "style": 84,
+      "name": "Urgh... Wait! Wait. I got it. I'm coming!\nI'm coming, OK?!"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk080_msg0088",
+      "style": 84,
+      "name": "Just don't say anything else..."
+    }
+  ]
+}

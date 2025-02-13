@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700321_05_msg0001",
+      "style": 84,
+      "name": "After talking to the town elders,\nwe've decided to erect a memorial\nstatue for the people of Cordell."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700321_05_msg0002",
+      "style": 84,
+      "name": "To honor those who lost their lives in\nthe sudden attack, and to grant 'em\nhappiness in the next life."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700321_05_msg0003",
+      "style": 84,
+      "name": "The bandits have already been\nshipped back to Superbia and\nlocked up, I hear."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700321_05_msg0004",
+      "style": 84,
+      "name": "On that note, we've also been\ndiscussing the matter of enforcing\nsecurity measures on Gula."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700321_05_msg0005",
+      "style": 84,
+      "name": "Though my wish would be that no\nDriver of ill intent ever sets foot here\nagain..."
+    }
+  ]
+}

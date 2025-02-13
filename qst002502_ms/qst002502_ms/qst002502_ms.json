@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002502_msg0001",
+      "style": 84,
+      "name": "Humhum fell into the Tamie Pillars\nsomewhere."
+    },
+    {
+      "$id": 2,
+      "label": "qst002502_msg0002",
+      "style": 84,
+      "name": "Nopon bodies are pretty springy, so I\ndon't think the fall will have hurt him..."
+    },
+    {
+      "$id": 3,
+      "label": "qst002502_msg0003",
+      "style": 84,
+      "name": "But please, you have to help\nmy partner!"
+    }
+  ]
+}

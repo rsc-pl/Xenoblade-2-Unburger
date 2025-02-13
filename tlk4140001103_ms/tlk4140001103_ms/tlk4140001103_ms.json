@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400011_03_msg0001",
+      "style": 84,
+      "name": "Nopon love Samod a bit too much,\nif you ask me. It's like Juicy Samod\nis all anyone eats around here!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400011_03_msg0002",
+      "style": 84,
+      "name": "I mean, it's not bad, but you start\nto get sick of it after a while."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400011_03_msg0003",
+      "style": 84,
+      "name": "The good news is, though, I know\na way to solve this problem!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400011_03_msg0004",
+      "style": 84,
+      "name": "Making this city's economy thrive!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41400011_03_msg0005",
+      "style": 84,
+      "name": "The more the city thrives, the more\nit'll start trading with other cities."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41400011_03_msg0006",
+      "style": 84,
+      "name": "And that means more options for us\ncustomers to buy in the shops!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41400011_03_msg0007",
+      "style": 84,
+      "name": "Though of course, you can't have trade\nwithout securing trade routes. We might\nneed mercenary help on that front..."
+    }
+  ]
+}

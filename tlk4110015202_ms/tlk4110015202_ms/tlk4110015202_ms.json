@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100152_02_msg0001",
+      "style": 84,
+      "name": "I hope my big bro's OK. Really\nhope he's not feeling lonely\nor homesick or anything..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100152_02_msg0002",
+      "style": 84,
+      "name": "It's been like this ever since Da\nwent away."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100152_02_msg0003",
+      "style": 84,
+      "name": "It's kind of sad, but it means I have\nto look after Morca now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100152_02_msg0004",
+      "style": 84,
+      "name": "I'll follow in my brother's footsteps\nand study to become a Driver!"
+    }
+  ]
+}

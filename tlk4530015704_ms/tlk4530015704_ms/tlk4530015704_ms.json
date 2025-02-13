@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300157_04_msg0001",
+      "style": 84,
+      "name": "The temperature of the Superbia\nDivine Beast suddenly jumped upwards."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300157_04_msg0002",
+      "style": 84,
+      "name": "Frankly, we're lucky this facility wasn't\ncompletely blasted away. It's starting to\nstabilize again now, thankfully."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300157_04_msg0003",
+      "style": 84,
+      "name": "We may have the technology to make\nuse of the energy the Divine Beast creates, but\nthat doesn't mean we can control it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300157_04_msg0004",
+      "style": 84,
+      "name": "In the end, we're at the mercy of\nthe Divine Beast's biology..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300157_04_msg0005",
+      "style": 84,
+      "name": "All we can do is pray that the Divine Beast\nholds out a bit longer."
+    }
+  ]
+}

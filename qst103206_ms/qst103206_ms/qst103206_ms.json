@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103206_msg001",
+      "style": 62,
+      "name": "見回りご苦労"
+    },
+    {
+      "$id": 2,
+      "label": "qst103206_msg002",
+      "style": 62,
+      "name": "また何かあったら報告をしてくれ"
+    },
+    {
+      "$id": 3,
+      "label": "qst103206_msg003",
+      "style": 62,
+      "name": "撃ちもらしたエネミーを倒してきてくれ"
+    },
+    {
+      "$id": 4,
+      "label": "qst103206_msg004",
+      "style": 62,
+      "name": "こちらでも襲われている市民を確認した\n早く工場まで行ってくれ"
+    }
+  ]
+}

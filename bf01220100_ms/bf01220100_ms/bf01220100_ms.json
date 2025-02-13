@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf01220100_0010",
+      "style": 82,
+      "name": "They make short work of monster..."
+    },
+    {
+      "$id": 2,
+      "label": "bf01220100_0020",
+      "style": 82,
+      "name": "These no ordinary fighters."
+    },
+    {
+      "$id": 3,
+      "label": "bf01220100_0030",
+      "style": 82,
+      "name": "Big job in Superbia going well too...\nThere much money to be made from these people!"
+    },
+    {
+      "$id": 4,
+      "label": "bf01220100_0040",
+      "style": 82,
+      "name": "Oho-ho-ho-ho!"
+    }
+  ]
+}

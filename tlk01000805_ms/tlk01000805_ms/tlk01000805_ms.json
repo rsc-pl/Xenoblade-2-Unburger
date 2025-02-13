@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000805_msg0001",
+      "style": 84,
+      "name": "Everyone's saying that Miss Smaia\ncan make you better no matter how\nill you are! Isn't that amazing?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000805_msg0002",
+      "style": 84,
+      "name": "I wonder if I can become a doctor\nif I study hard enough..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000805_msg0101",
+      "style": 84,
+      "name": "Miss Quiqui's kind of adorable."
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000805_msg0102",
+      "style": 84,
+      "name": "One of her experiments blew up in\nher face and now her fur's all singed.\nI hope she's OK..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000805_msg0103",
+      "style": 84,
+      "name": "Huh...? Classes? O-of course I'm paying\nattention to them!"
+    }
+  ]
+}

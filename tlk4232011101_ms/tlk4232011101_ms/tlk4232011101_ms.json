@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42320111_01_msg0001",
+      "style": 84,
+      "name": "Panpan in training for unrestricted\ntravel license."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42320111_01_msg0002",
+      "style": 84,
+      "name": "It dream of Panpan to travel Alst\nin search of exotic, tasty yum-yums!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42320111_01_msg0003",
+      "style": 84,
+      "name": "Much thanks for encouragement!\nTraining very grueling, but will try\nPanpan's best!"
+    }
+  ]
+}

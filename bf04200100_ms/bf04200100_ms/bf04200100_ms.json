@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf04200100_0010",
+      "style": 82,
+      "name": "Probability of success falling.\nSwitching to strategic retreat mode."
+    },
+    {
+      "$id": 2,
+      "label": "bf04200100_0020",
+      "style": 82,
+      "name": "Kiku, wait!"
+    }
+  ]
+}

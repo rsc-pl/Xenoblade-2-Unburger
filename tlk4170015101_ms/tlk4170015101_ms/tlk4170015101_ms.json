@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700151_01_msg0001",
+      "style": 84,
+      "name": "Have you ever ventured down to the\nlevels below Alba Margen?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700151_01_msg0002",
+      "style": 84,
+      "name": "You can only get down there when\nthe Cloud Sea is low."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700151_01_msg0003",
+      "style": 84,
+      "name": "Nations like Gula and Superbia\nthat are built on the surface of Divine Beasts\nare at the mercy of the Cloud Sea level."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700151_01_msg0004",
+      "style": 84,
+      "name": "That's why we tend to build our cities\non high ground, where the Cloud Sea\nlevel doesn't have so much effect."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700151_01_msg0005",
+      "style": 84,
+      "name": "Sometimes I envy nations like Avaritia\nthat float on the Cloud Sea, and Invidia\nwhere they live inside the Divine Beast itself."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst10206_msg001",
+      "style": 62,
+      "name": "またどうぞ仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst10206_msg002",
+      "style": 62,
+      "name": "ゆっくりおやすみください(仮)"
+    }
+  ]
+}

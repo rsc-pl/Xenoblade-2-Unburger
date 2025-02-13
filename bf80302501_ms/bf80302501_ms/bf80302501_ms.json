@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "54890101",
+      "style": 82,
+      "name": "Kosmos Obey Strategical Multiple Operation Systems."
+    },
+    {
+      "$id": 2,
+      "label": "54890102",
+      "style": 82,
+      "name": "All systems operational."
+    },
+    {
+      "$id": 3,
+      "label": "54890103",
+      "style": 82,
+      "name": "Are you my master?"
+    }
+  ]
+}

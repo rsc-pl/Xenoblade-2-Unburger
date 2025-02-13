@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400012_07_msg0001",
+      "style": 84,
+      "name": "If you'd told me Bahn's father was\npuppeteering the whole affair, I'd\nnever have believed it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400012_07_msg0002",
+      "style": 84,
+      "name": "He was supposed to have retired long\nago. And yet he had built up an entire\nsyndicate in secret..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400012_07_msg0003",
+      "style": 84,
+      "name": "We didn't have the slightest inkling,\nand I doubt Superbia did either."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400012_07_msg0004",
+      "style": 84,
+      "name": "If it hadn't been for your decisive\nactions, we'd never have been able\nto pin the Don down."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400012_07_msg0005",
+      "style": 84,
+      "name": "You ought to be awarded special\nmerit for that!"
+    }
+  ]
+}

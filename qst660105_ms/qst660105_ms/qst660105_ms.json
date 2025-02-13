@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660105_msg0001",
+      "style": 84,
+      "name": "Return to Alst?"
+    },
+    {
+      "$id": 2,
+      "label": "qst660105_msg0002",
+      "style": 84,
+      "name": "Return"
+    },
+    {
+      "$id": 3,
+      "label": "qst660105_msg0003",
+      "style": 84,
+      "name": "Don't return"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00040104_msg0001",
+      "style": 84,
+      "name": "Punin, what are you doing sneaking\nabout the place?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00040104_msg0002",
+      "style": 84,
+      "name": "Meh meh?!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00040104_msg0003",
+      "style": 84,
+      "name": "Never Rex mind about Punin!\nWhat happen to salvaging?\nChairman expect results!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00040104_msg0004",
+      "style": 84,
+      "name": "Oh don't you worry, I'll be working\nvery hard. Especially when there's\na 100,000G reward on the line!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk00040104_msg0005",
+      "style": 84,
+      "name": "That the spirit! Now quick-quick!\nHurry down stairs and head to\nrendezvous point!"
+    }
+  ]
+}

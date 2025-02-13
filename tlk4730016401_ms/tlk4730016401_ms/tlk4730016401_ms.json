@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300164_01_msg0001",
+      "style": 84,
+      "name": "*yaaaawn* Another peaceful day...\nOh! Outsiders! This is a surprise!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300164_01_msg0002",
+      "style": 84,
+      "name": "We split up the work between us here\nin the village. I do the nightly rounds."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300164_01_msg0003",
+      "style": 84,
+      "name": "There's your odd Bunnit that creeps\nin, but aside from that, it's not very\neventful. All the better, really."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300164_01_msg0101",
+      "style": 84,
+      "name": "Rex? Is that you?! You've grown\nsince I last saw you!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk47300164_01_msg0104",
+      "style": 84,
+      "name": "Haha... I suppose I have, yeah!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk47300164_01_msg0102",
+      "style": 84,
+      "name": "Correl's been worrying her head off\nabout you. Whether you're eating OK,\nhoping you didn't get swindled..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk47300164_01_msg0103",
+      "style": 84,
+      "name": "But I can see you're perfectly fine! And\nyou made a nice circle of friends too,\nso that should put her mind at ease!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42410111_03_msg0001",
+      "style": 84,
+      "name": "Please to listen!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42410111_03_msg0002",
+      "style": 84,
+      "name": "Other day, Tiwitiwi use Premium\nCylinder for salvage..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42410111_03_msg0003",
+      "style": 84,
+      "name": "And manage to haul up incredible\ntreasure! Tiwitiwi rolling in gold!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42410111_03_msg0005",
+      "style": 84,
+      "name": "Maybe Tiwitiwi start to like\nsalvaging a bit now."
+    }
+  ]
+}

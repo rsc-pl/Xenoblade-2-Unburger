@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501708_msg0001",
+      "style": 84,
+      "name": "If you live your life valuing highly\nyour relationships with other beings...\nYou come to hear a lot of stuff."
+    },
+    {
+      "$id": 2,
+      "label": "qst501708_msg0002",
+      "style": 84,
+      "name": "Anything I might interest you in?"
+    }
+  ]
+}

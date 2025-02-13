@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45700111_04_msg0001",
+      "style": 84,
+      "name": "I heard it's possible to salvage\neven from the World Tree itself!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45700111_04_msg0002",
+      "style": 84,
+      "name": "Diving into the Cloud Sea from all\nthe way up there... Sounds scary!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45700111_04_msg0003",
+      "style": 84,
+      "name": "But as a salvager, I'd sure like to\ntry it for myself someday."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45700111_04_msg0004",
+      "style": 84,
+      "name": "Who knows what kind of rare\ntreasures you might be able to\nhaul up around those parts?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45700111_04_msg0005",
+      "style": 84,
+      "name": "Stuff from the Land of Mors...?\nHahah...I guess that's in bad taste."
+    }
+  ]
+}

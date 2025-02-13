@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk56010202_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Kaa! Ka-kaa!\nKook again! Kook all again!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk56010202_msg0002",
+      "style": 84,
+      "name": "Kan't move wings since you\nbeat up! Kan't kook! Kaa!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200217_msg0001",
+      "style": 84,
+      "name": "Looks like Harghal was planning to\nuse Luxuria as a base to smuggle\nPollen Orbs out all around the world."
+    },
+    {
+      "$id": 2,
+      "label": "qst200217_msg0003",
+      "style": 84,
+      "name": "Luxuria has only recently opened up\nto contact with other nations, after all."
+    },
+    {
+      "$id": 3,
+      "label": "qst200217_msg0004",
+      "style": 84,
+      "name": "Trading procedures are not yet well\nestablished, so suspicious substances\nwould be difficult to trace."
+    },
+    {
+      "$id": 4,
+      "label": "qst200217_msg0005",
+      "style": 84,
+      "name": "Trying to conduct shady business\nin my homeland, eh? I'll be having\nnone of that!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200217_msg0006",
+      "style": 84,
+      "name": "This Harghal girl should be showing\nup in Genbu Port to collect the goods,\nso we'll catch her in the act!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200217_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Haaaahhhhhhh!\nI will pass judgment on every last\nvillain involved in this crooked affair!"
+    }
+  ]
+}

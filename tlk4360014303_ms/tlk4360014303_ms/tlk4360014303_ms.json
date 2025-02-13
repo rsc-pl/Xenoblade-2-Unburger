@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43600143_03_msg0001",
+      "style": 84,
+      "name": "Don't you think that goods have gotten\na lot cheaper in Fons Maim lately?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43600143_03_msg0002",
+      "style": 84,
+      "name": "I for one am glad for that!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43600143_03_msg0003",
+      "style": 84,
+      "name": "What? There's a movement to\nincrease foreign trade and get more\nproducts on the market?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43600143_03_msg0004",
+      "style": 84,
+      "name": "My son told me trade would improve\nas the mercenaries in Gar-something\nor other completed missions."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43600143_03_msg0005",
+      "style": 84,
+      "name": "Well, good luck to them!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100011_02_msg0001",
+      "style": 84,
+      "name": "You're looking for a Phonex\ncalled Pex?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100011_02_msg0002",
+      "style": 84,
+      "name": "Sorry, couldn't tell you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100011_02_msg0003",
+      "style": 84,
+      "name": "A Phonex who left their homeland...\nFancy that!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100011_02_msg0004",
+      "style": 84,
+      "name": "Must be a brave soul!"
+    }
+  ]
+}

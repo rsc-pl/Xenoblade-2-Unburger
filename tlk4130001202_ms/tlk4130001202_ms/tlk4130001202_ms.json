@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300012_02_msg0001",
+      "style": 84,
+      "name": "So I hear someone seriously vandalized\nthe water tower in Trigo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300012_02_msg0002",
+      "style": 84,
+      "name": "Naturally, I felt I should do something\nto chip in. Any respectable Gulan\nwould do the same."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300012_02_msg0003",
+      "style": 84,
+      "name": "I already sent them over some iron,\nso here's hoping they'll be able to\nrestore it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300012_02_msg0004",
+      "style": 84,
+      "name": "But who'd do a thing like that\nanyway? Was it that Iira bunch\nthat everyone's been talking about?"
+    }
+  ]
+}

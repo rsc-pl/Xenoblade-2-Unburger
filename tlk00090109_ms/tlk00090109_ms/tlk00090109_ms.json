@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000901_09_msg0001",
+      "style": 84,
+      "name": "To reach Eden, we must first\nstop Serpent, the beast that carved\nthe Great Void."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000901_09_msg0002",
+      "style": 84,
+      "name": "And Serpent's directive was issued\nfrom Luxuria, Zeke's homeland..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000901_09_msg0003",
+      "style": 84,
+      "name": "I've prepared envoy documents\nfor you so that you may enter as\nrepresentatives of Acedia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000901_09_msg0004",
+      "style": 84,
+      "name": "I entreat you to reach Eden before\nMetsu. Do it as a favor for a once-\nfoolish old man."
+    }
+  ]
+}

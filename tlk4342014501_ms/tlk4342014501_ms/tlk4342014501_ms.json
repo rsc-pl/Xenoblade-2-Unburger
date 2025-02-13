@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420145_01_msg0001",
+      "style": 84,
+      "name": "Such a great play...\nSo sad...but uplifting too."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420145_01_msg0002",
+      "style": 84,
+      "name": "They've been performing the Heroic\nAdventures of Adel ever since I was\na child, you know."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420145_01_msg0003",
+      "style": 84,
+      "name": "It's amazing that we keep a tale from\n500 years ago going like we do."
+    }
+  ]
+}

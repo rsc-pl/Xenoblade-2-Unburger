@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300023_04_msg0001",
+      "style": 84,
+      "name": "Finally, is new menu at Twelve\nBrothersisterpon!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300023_04_msg0002",
+      "style": 84,
+      "name": "Sappan Veg Juice especially is super\nyum-yum drink!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300023_04_msg0003",
+      "style": 84,
+      "name": "Twinklejuice sound a bit modern,\nprobably not to personal taste, but\nSappan Veg Juice hit the spot!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300023_04_msg0004",
+      "style": 84,
+      "name": "Razzlydazzly drink so much other day,\ntummy was in big pain, it that tasty!"
+    }
+  ]
+}

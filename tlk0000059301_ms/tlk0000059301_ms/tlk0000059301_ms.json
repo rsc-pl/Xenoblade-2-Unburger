@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00000593_01_msg0001",
+      "style": 84,
+      "name": "Is this where the people who lived in\nEden would come to play?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00000593_01_msg0002",
+      "style": 84,
+      "name": "I don't really get how to use\nany of these..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00000593_01_msg0101",
+      "style": 84,
+      "name": "How do you use these things?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00000593_01_msg0102",
+      "style": 84,
+      "name": "Are they like, training equipment\nor something?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk00000593_01_msg0201",
+      "style": 84,
+      "name": "Meh-meh-meh? What this place for?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk00000593_01_msg0202",
+      "style": 84,
+      "name": "Training ground for Drivers maybe?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk00000593_01_msg0301",
+      "style": 84,
+      "name": "Was this...some kind of park, perhaps?"
+    },
+    {
+      "$id": 8,
+      "label": "tlk00000593_01_msg0302",
+      "style": 84,
+      "name": "I have never seen anything like these\nstructures in the records of Alst..."
+    },
+    {
+      "$id": 9,
+      "label": "tlk00000593_01_msg0401",
+      "style": 84,
+      "name": "I guess this is like, a park."
+    },
+    {
+      "$id": 10,
+      "label": "tlk00000593_01_msg0402",
+      "style": 84,
+      "name": "But everything here's super sturdy.\nNot made out of wood, that's for sure."
+    }
+  ]
+}

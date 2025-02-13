@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400025_01_msg0001",
+      "style": 84,
+      "name": "Here at Llysiau Greens, we cook\nusing only the finest hand-picked\nGulan veggies!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400025_01_msg0002",
+      "style": 84,
+      "name": "Try our local specialties, seasoned\nwith ten-flavor spice! I guarantee\nyou'll love it!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400025_01_msg0005",
+      "style": 84,
+      "name": "Good to see you, owner.\nCan't get enough of our fresh\nvegetable specialties, eh?"
+    }
+  ]
+}

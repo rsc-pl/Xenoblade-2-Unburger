@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000802_msg0001",
+      "style": 84,
+      "name": "Welcome back, bro!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000802_msg0002",
+      "style": 84,
+      "name": "I'm helping Correl around the house!\nSee? I'm no lazybones!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000802_msg0003",
+      "style": 84,
+      "name": "Good man! Promise you'll keep that\nup, for my sake!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000802_msg0004",
+      "style": 84,
+      "name": "Yeah, I will! You keep at the salvaging\ntoo, bro!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000802_msg0101",
+      "style": 84,
+      "name": "Hiya, Rex's friends!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk01000802_msg0102",
+      "style": 84,
+      "name": "I wanna hear all about your\nadventures!"
+    }
+  ]
+}

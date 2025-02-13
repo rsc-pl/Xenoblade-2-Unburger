@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300302_msg001",
+      "style": 62,
+      "name": "面接開始！"
+    },
+    {
+      "$id": 2,
+      "label": "qst300302_msg002",
+      "style": 62,
+      "name": "面接後"
+    },
+    {
+      "$id": 3,
+      "label": "qst300302_msg003",
+      "style": 62,
+      "name": "答え合わせ・両方当たり"
+    },
+    {
+      "$id": 4,
+      "label": "qst300302_msg004",
+      "style": 62,
+      "name": "答え合わせ・片方当たり"
+    },
+    {
+      "$id": 5,
+      "label": "qst300302_msg005",
+      "style": 62,
+      "name": "答え合わせ・全部ハズレ"
+    },
+    {
+      "$id": 6,
+      "label": "qst300302_msg006",
+      "style": 62,
+      "name": "クエスト完了"
+    },
+    {
+      "$id": 7,
+      "label": "qst300302_msg0001",
+      "style": 84,
+      "name": "Right then, then let's start the\ninterviews, shall we? All set?"
+    },
+    {
+      "$id": 8,
+      "label": "qst300302_msg0011",
+      "style": 165,
+      "name": "Start interviewing?"
+    },
+    {
+      "$id": 9,
+      "label": "qst300302_msg0012",
+      "style": 165,
+      "name": "I'm ready!"
+    },
+    {
+      "$id": 10,
+      "label": "qst300302_msg0013",
+      "style": 165,
+      "name": "Give me a second..."
+    },
+    {
+      "$id": 11,
+      "label": "qst300302_msg0014",
+      "style": 84,
+      "name": "OK, I'm calling in candidate number\none."
+    },
+    {
+      "$id": 12,
+      "label": "qst300302_msg0015",
+      "style": 84,
+      "name": "All right. Just don't take too long."
+    },
+    {
+      "$id": 13,
+      "label": "qst300302_msg0051",
+      "style": 84,
+      "name": "I'd like to have Rex handle the\ninterviews, if possible.\nCould you bring him, perhaps?"
+    },
+    {
+      "$id": 14,
+      "label": "qst300302_msg0101",
+      "style": 84,
+      "name": "All right, you've heard their appeals.\nWho do you think's best for the job?"
+    },
+    {
+      "$id": 15,
+      "label": "qst300302_msg0102",
+      "style": 84,
+      "name": "First, there's Alicia. She's sure to bring\nsomething new and fresh to the mercs."
+    },
+    {
+      "$id": 16,
+      "label": "qst300302_msg0103",
+      "style": 84,
+      "name": "Then there's Popoh, the Nopon. She\nstruck me as cool and level-headed."
+    },
+    {
+      "$id": 17,
+      "label": "qst300302_msg0104",
+      "style": 84,
+      "name": "And lastly, Zengrid, the former noble.\nHe seems perfectly respectable."
+    },
+    {
+      "$id": 18,
+      "label": "qst300302_msg0121",
+      "style": 165,
+      "name": "Who should I choose?"
+    },
+    {
+      "$id": 19,
+      "label": "qst300302_msg0122",
+      "style": 165,
+      "name": "Alicia"
+    },
+    {
+      "$id": 20,
+      "label": "qst300302_msg0123",
+      "style": 165,
+      "name": "Popoh"
+    },
+    {
+      "$id": 21,
+      "label": "qst300302_msg0124",
+      "style": 165,
+      "name": "Zengrid"
+    },
+    {
+      "$id": 22,
+      "label": "qst300302_msg0151",
+      "style": 84,
+      "name": "Then it's settled."
+    },
+    {
+      "$id": 23,
+      "label": "qst300302_msg0152",
+      "style": 84,
+      "name": "Having a capable woman on board's\nsure to raise the crew's morale."
+    },
+    {
+      "$id": 24,
+      "label": "qst300302_msg0153",
+      "style": 84,
+      "name": "We all get a bit tetchy after a long\nday of battle. She's sure to calm the\ncrew down."
+    },
+    {
+      "$id": 25,
+      "label": "qst300302_msg0154",
+      "style": 84,
+      "name": "He's a bit of an oddball, but I'd be\nmore than welcome to let him handle\nour financial matters."
+    },
+    {
+      "$id": 26,
+      "label": "qst300302_msg0171",
+      "style": 84,
+      "name": "Yep, I think we're onto a winner here!"
+    },
+    {
+      "$id": 27,
+      "label": "qst300302_msg0172",
+      "style": 84,
+      "name": "Y'know, sometimes you get a look in\nyour eye that reminds me of Vandham.\nYou're really taking to being in charge."
+    },
+    {
+      "$id": 28,
+      "label": "qst300302_msg0173",
+      "style": 84,
+      "name": "If only the Big Man could see you now."
+    },
+    {
+      "$id": 29,
+      "label": "qst300302_msg0174",
+      "style": 84,
+      "name": "Here's to the Hræsvelgr Mercs and\nto the bright future ahead of us!"
+    },
+    {
+      "$id": 30,
+      "label": "qst300302_msg0175",
+      "style": 84,
+      "name": "Someday we'll be the best damn\nmercs in Invidia... No, in the whole\nof Alst!"
+    },
+    {
+      "$id": 31,
+      "label": "qst300302_msg0176",
+      "style": 84,
+      "name": "Remember to stop by when you're\npassing through!"
+    }
+  ]
+}

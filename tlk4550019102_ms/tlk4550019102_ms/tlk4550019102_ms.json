@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4550019102_msg0001",
+      "style": 84,
+      "name": "Listen here!\nCuriosity's the key to science."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4550019102_msg0002",
+      "style": 84,
+      "name": "For a start, you can show a bit of\ncuriosity towards the ordinary things\naround you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4550019102_msg0003",
+      "style": 84,
+      "name": "What's a chair made from?\nHow do trees grow?\nWhat do they need to thrive?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4550019102_msg0004",
+      "style": 84,
+      "name": "Kids absorb these things quickly.\nWish my old assistant had been\nsuch a quick learner."
+    }
+  ]
+}

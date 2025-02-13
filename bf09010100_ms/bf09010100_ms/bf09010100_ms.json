@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09010100_0005",
+      "style": 82,
+      "name": "[ML:undisp ]DIES"
+    },
+    {
+      "$id": 2,
+      "label": "bf09010100_0010",
+      "style": 154,
+      "name": "Is this the world\ntYou wished for?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210019101_msg0001",
+      "style": 84,
+      "name": "Blade of Alulu is incredible!\nBonono so jelly-jelly..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210019101_msg0002",
+      "style": 84,
+      "name": "Bonono hear that if you fail bond\nwith Blade, blood spurt out of nose\nwith big whooosh!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210019101_msg0003",
+      "style": 84,
+      "name": "Meeeeeh... Is scary thought...\nBonono just glad that Alulu OK..."
+    }
+  ]
+}

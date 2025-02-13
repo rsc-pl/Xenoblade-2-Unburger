@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst630404_msg0001",
+      "style": 84,
+      "name": "The grave of an Invidian mercenary..."
+    },
+    {
+      "$id": 2,
+      "label": "qst630404_msg0002",
+      "style": 84,
+      "name": "Maybe it's one of Bonard's squad."
+    },
+    {
+      "$id": 3,
+      "label": "qst630404_msg0003",
+      "style": 84,
+      "name": "The others must still be around here\nsomewhere."
+    },
+    {
+      "$id": 4,
+      "label": "qst630404_msg0101",
+      "style": 84,
+      "name": "This is the grave of an Invidian\nmercenary, isn't it?"
+    },
+    {
+      "$id": 5,
+      "label": "qst630404_msg0102",
+      "style": 84,
+      "name": "D'you reckon it might be one of the\nsquad we're looking for?"
+    },
+    {
+      "$id": 6,
+      "label": "qst630404_msg0103",
+      "style": 84,
+      "name": "We'd better find the others. They\ncan't have gone far from here."
+    },
+    {
+      "$id": 7,
+      "label": "qst630404_msg0201",
+      "style": 84,
+      "name": "Meh-meh?!\nLook like burying place for\nInvidian mercenary..."
+    },
+    {
+      "$id": 8,
+      "label": "qst630404_msg0202",
+      "style": 84,
+      "name": "Maybe something happen to squad\nof Bonard."
+    },
+    {
+      "$id": 9,
+      "label": "qst630404_msg0203",
+      "style": 84,
+      "name": "Must find soon. If lucky, squad still\nsomewhere nearby!"
+    },
+    {
+      "$id": 10,
+      "label": "qst630404_msg0301",
+      "style": 84,
+      "name": "So we find ourselves at\nthe grave of an Invidian mercenary."
+    },
+    {
+      "$id": 11,
+      "label": "qst630404_msg0302",
+      "style": 84,
+      "name": "Perhaps it belongs to one of the squad\nthat we seek."
+    },
+    {
+      "$id": 12,
+      "label": "qst630404_msg0303",
+      "style": 84,
+      "name": "We mustn't let this dampen our spirit.\nThe others may yet be found."
+    },
+    {
+      "$id": 13,
+      "label": "qst630404_msg0401",
+      "style": 84,
+      "name": "What is this, now? An Invidian \nmercenary's final resting place..."
+    },
+    {
+      "$id": 14,
+      "label": "qst630404_msg0402",
+      "style": 84,
+      "name": "One of Bonard's squad, perhaps?\n"
+    },
+    {
+      "$id": 15,
+      "label": "qst630404_msg0403",
+      "style": 84,
+      "name": "But our task isn't over yet! The others\nmay still be nearby!"
+    }
+  ]
+}

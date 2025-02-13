@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_01_msg0001",
+      "style": 84,
+      "name": "Hey. I'm a prep cook."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_01_msg0002",
+      "style": 84,
+      "name": "That means I wash dishes,\npeel vegetables, that sorta thing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_01_msg0003",
+      "style": 84,
+      "name": "Yeah, yeah. I know, OK?\nI'm only just starting out."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_01_msg0004",
+      "style": 84,
+      "name": "I was a mercenary till right recently."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300046_01_msg0005",
+      "style": 84,
+      "name": "I'd always launch the enemy in the air,\nthen smash them into the ground for\nmassive damage. I loved that combo."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43300046_01_msg0006",
+      "style": 84,
+      "name": "...Ah, but now, my biggest dream is\nto become a cook at the court."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43300046_01_msg0007",
+      "style": 84,
+      "name": "I like to imagine Queen Lagert\none day eating the food that I made!\nBut for now I gotta keep peeling."
+    }
+  ]
+}

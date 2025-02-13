@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "56890101",
+      "style": 82,
+      "name": "Who dares call upon Mei?"
+    },
+    {
+      "$id": 2,
+      "label": "56890102",
+      "style": 82,
+      "name": "You'll rue the day!"
+    },
+    {
+      "$id": 3,
+      "label": "56890103",
+      "style": 82,
+      "name": "Wraaaaaaagh!"
+    },
+    {
+      "$id": 4,
+      "label": "56890104",
+      "style": 82,
+      "name": "Take this! And that! And another!"
+    },
+    {
+      "$id": 5,
+      "label": "56890105",
+      "style": 82,
+      "name": "Hraaaaaagh!"
+    },
+    {
+      "$id": 6,
+      "label": "56890106",
+      "style": 82,
+      "name": "Haaah!"
+    },
+    {
+      "$id": 7,
+      "label": "56890107",
+      "style": 82,
+      "name": "...Anyway, I'm Mei. Pleased to meetcha."
+    }
+  ]
+}

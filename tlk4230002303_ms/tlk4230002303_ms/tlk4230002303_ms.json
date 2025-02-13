@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300023_03_msg0001",
+      "style": 84,
+      "name": "No matter how much Avaritia\ndevelop, Twelve Brothersisterpon\nnever get better selection of products!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300023_03_msg0002",
+      "style": 84,
+      "name": "Motata say that not happen until other\n11 brothersisterpon come back from\nresource-finding mission!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300023_03_msg0003",
+      "style": 84,
+      "name": "Heard on grape-melonvine that they\nwent to Invidia, Mor Superbian and some\nother place never heard of in life."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300023_03_msg0004",
+      "style": 84,
+      "name": "But Motata also say they probably not\never come back unless someone go to\nfetch them..."
+    }
+  ]
+}

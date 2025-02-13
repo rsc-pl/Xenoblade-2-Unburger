@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400011_04_msg0001",
+      "style": 84,
+      "name": "Erm... Not sure if friends know, but..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400011_04_msg0002",
+      "style": 84,
+      "name": "Is no longer possible to go to Acedia!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400011_04_msg0003",
+      "style": 84,
+      "name": "Very worried about what happen to\npeople there..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400011_04_msg0004",
+      "style": 84,
+      "name": "That what boyfriend of Etoto say,\nanyway!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42400011_04_msg0005",
+      "style": 84,
+      "name": "Etoto should point out that boyfriend\nis coolest, cutest, and smartest in all\nof Avaritia!"
+    }
+  ]
+}

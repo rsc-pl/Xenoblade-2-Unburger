@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01001002_msg0001",
+      "style": 84,
+      "name": "I'm gonna start studying to be the\nAcedian Academy's star pupil!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01001002_msg0002",
+      "style": 84,
+      "name": "I'd never have got in if it weren't\nfor your donation money, Rex.\nI owe it to you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01001002_msg0003",
+      "style": 84,
+      "name": "And I reckon getting good marks is\nthe only way I can really repay you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk01001002_msg0004",
+      "style": 84,
+      "name": "Ahh, I wonder what it'll be like?\nI can hardly wait!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk01001002_msg0101",
+      "style": 84,
+      "name": "I'm gonna start studying to be the\nAcedian Academy's star pupil!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk01001002_msg0102",
+      "style": 84,
+      "name": "I'd never have got in if it weren't\nfor Rex donating me that money."
+    },
+    {
+      "$id": 7,
+      "label": "tlk01001002_msg0103",
+      "style": 84,
+      "name": "The only way I can make good on a\ndebt like that is by studying as hard as I\ncan getting the best marks!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk01001002_msg0104",
+      "style": 84,
+      "name": "Ahh, I wonder what it'll be like?\nI can hardly wait!"
+    }
+  ]
+}

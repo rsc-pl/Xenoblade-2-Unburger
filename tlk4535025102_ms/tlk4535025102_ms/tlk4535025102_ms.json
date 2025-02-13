@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350251_02_msg0001",
+      "style": 84,
+      "name": "A terrible thing happened recently...\nThe budget for our agricultural\nresearch was reduced!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350251_02_msg0002",
+      "style": 84,
+      "name": "You may already know this, but\nSuperbia's most valuable business\nby far is the salvaging trade."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350251_02_msg0003",
+      "style": 84,
+      "name": "We use salvaged metals and machinery\nto drive our military, and we refine\nthem for export to other nations."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350251_02_msg0004",
+      "style": 84,
+      "name": "The downside of this is that when\nthe salvaging trade suffers, so does\nour national economy."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45350251_02_msg0005",
+      "style": 84,
+      "name": "And I hear pickings were awfully slim\nduring the last fiscal year."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45350251_02_msg0006",
+      "style": 84,
+      "name": "Even so...I wish they wouldn't choose\nour budget to slash. This research may\nbe exactly what Superbia needs!"
+    }
+  ]
+}

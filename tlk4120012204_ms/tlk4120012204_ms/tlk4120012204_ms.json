@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200122_04_msg0001",
+      "style": 84,
+      "name": "Armoo look totally different in\nother countries! It's 'cos of the\nclimate and...and the eco-sumstem!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200122_04_msg0002",
+      "style": 84,
+      "name": "It's true! You can tell what a country's\nlike just by looking at its Armoo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200122_04_msg0003",
+      "style": 84,
+      "name": "Like, Armoo're really angry in Mor'dain\nan' super-duper fluffy in Luxuria!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200122_04_msg0004",
+      "style": 84,
+      "name": "Aww, I wish I could go traveling.\nI wanna go around the world petting\nall the Armoo I can find!"
+    }
+  ]
+}

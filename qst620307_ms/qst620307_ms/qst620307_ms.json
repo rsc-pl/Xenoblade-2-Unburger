@@ -1,0 +1,600 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620307_msg0001",
+      "style": 84,
+      "name": "Thanks for that!"
+    },
+    {
+      "$id": 2,
+      "label": "qst620307_msg0002",
+      "style": 84,
+      "name": "I think everything's ready now."
+    },
+    {
+      "$id": 3,
+      "label": "qst620307_msg0003",
+      "style": 84,
+      "name": "There's no way this can fail. With\nthe aurora shining bright, and the \nPosystone ring to give her..."
+    },
+    {
+      "$id": 4,
+      "label": "qst620307_msg0004",
+      "style": 84,
+      "name": "Yeah, it's perfect. I guess all I\nneed now is to actually...do it."
+    },
+    {
+      "$id": 5,
+      "label": "qst620307_msg0005",
+      "style": 84,
+      "name": "OK! Then I better go get my\nbeautiful girl!"
+    },
+    {
+      "$id": 6,
+      "label": "qst620307_msg0006",
+      "style": 84,
+      "name": "You guys have been so helpful.\nI'll never forget this."
+    },
+    {
+      "$id": 7,
+      "label": "qst620307_msg0007",
+      "style": 84,
+      "name": "Thank the Architect I've met you!"
+    },
+    {
+      "$id": 8,
+      "label": "qst620307_msg0008",
+      "style": 84,
+      "name": "Yeah, yeah. Just go get her!"
+    },
+    {
+      "$id": 9,
+      "label": "qst620307_msg0101",
+      "style": 84,
+      "name": "Hope it goes well for the guy!"
+    },
+    {
+      "$id": 10,
+      "label": "qst620307_msg0102",
+      "style": 84,
+      "name": "Fingers crossed indeed."
+    },
+    {
+      "$id": 11,
+      "label": "qst620307_msg0103",
+      "style": 84,
+      "name": "Even if proposal fail, at least Hana and\nfriends here. Can pick up pieces."
+    },
+    {
+      "$id": 12,
+      "label": "qst620307_msg0104",
+      "style": 84,
+      "name": "C'mon now Hana, don't jinx it..."
+    },
+    {
+      "$id": 13,
+      "label": "qst620307_msg0105",
+      "style": 84,
+      "name": "Either way it's bound to be a sight.\nWho's up for watching it happen?"
+    },
+    {
+      "$id": 14,
+      "label": "qst620307_msg0106",
+      "style": 84,
+      "name": "Are you for real?"
+    },
+    {
+      "$id": 15,
+      "label": "qst620307_msg0107",
+      "style": 84,
+      "name": "Oh, like you're not even the tiniest bit\ncurious? Give me a break."
+    },
+    {
+      "$id": 16,
+      "label": "qst620307_msg0108",
+      "style": 84,
+      "name": "OK, maybe I am... Just the tiniest bit!"
+    },
+    {
+      "$id": 17,
+      "label": "qst620307_msg0109",
+      "style": 84,
+      "name": "I'm not gonna lie, I'm a massive bit\ncurious, personally!"
+    },
+    {
+      "$id": 18,
+      "label": "qst620307_msg0110",
+      "style": 84,
+      "name": "If we all just stand there, he's bound to\nlose his nerve though..."
+    },
+    {
+      "$id": 19,
+      "label": "qst620307_msg0111",
+      "style": 84,
+      "name": "You've got a point..."
+    },
+    {
+      "$id": 20,
+      "label": "qst620307_msg0112",
+      "style": 84,
+      "name": "All right. Rex, we'll let you choose\nwho gets to stay and watch."
+    },
+    {
+      "$id": 21,
+      "label": "qst620307_msg0113",
+      "style": 84,
+      "name": "What's this now?!"
+    },
+    {
+      "$id": 22,
+      "label": "qst620307_msg0114",
+      "style": 84,
+      "name": "I, uh, that's... (Divine Beast's foot...)"
+    },
+    {
+      "$id": 23,
+      "label": "qst620307_msg0115",
+      "style": 84,
+      "name": "Who will get to watch?"
+    },
+    {
+      "$id": 24,
+      "label": "qst620307_msg0116",
+      "style": 84,
+      "name": "Homura"
+    },
+    {
+      "$id": 25,
+      "label": "qst620307_msg0117",
+      "style": 84,
+      "name": "Hikari"
+    },
+    {
+      "$id": 26,
+      "label": "qst620307_msg0118",
+      "style": 84,
+      "name": "Someone else"
+    },
+    {
+      "$id": 27,
+      "label": "qst620307_msg0119",
+      "style": 84,
+      "name": "Nia"
+    },
+    {
+      "$id": 28,
+      "label": "qst620307_msg0120",
+      "style": 84,
+      "name": "Hana"
+    },
+    {
+      "$id": 29,
+      "label": "qst620307_msg0121",
+      "style": 84,
+      "name": "Kagutsuchi"
+    },
+    {
+      "$id": 30,
+      "label": "qst620307_msg0122",
+      "style": 84,
+      "name": "Saika"
+    },
+    {
+      "$id": 31,
+      "label": "qst620307_msg0123",
+      "style": 84,
+      "name": "Meleph"
+    },
+    {
+      "$id": 32,
+      "label": "qst620307_msg0201",
+      "style": 84,
+      "name": "I'm so glad everything worked out\nfor those two."
+    },
+    {
+      "$id": 33,
+      "label": "qst620307_msg0202",
+      "style": 84,
+      "name": "Yeah, and to think it's all thanks to\nour hard work that they got their\nhappily ever after."
+    },
+    {
+      "$id": 34,
+      "label": "qst620307_msg0203",
+      "style": 84,
+      "name": "That makes us kinda awesome, eh?"
+    },
+    {
+      "$id": 35,
+      "label": "qst620307_msg0204",
+      "style": 84,
+      "name": "I really think it does."
+    },
+    {
+      "$id": 36,
+      "label": "qst620307_msg0205",
+      "style": 84,
+      "name": "Yet another thing Drivers and Blades\ncan achieve together."
+    },
+    {
+      "$id": 37,
+      "label": "qst620307_msg0206",
+      "style": 84,
+      "name": "We'll have to keep up the good work."
+    },
+    {
+      "$id": 38,
+      "label": "qst620307_msg0207",
+      "style": 84,
+      "name": "For sure!"
+    },
+    {
+      "$id": 39,
+      "label": "qst620307_msg0301",
+      "style": 84,
+      "name": "Aw, isn't that nice? Looks like he\nbrought it home after all. All on his\nown, too."
+    },
+    {
+      "$id": 40,
+      "label": "qst620307_msg0302",
+      "style": 84,
+      "name": "Good on them!"
+    },
+    {
+      "$id": 41,
+      "label": "qst620307_msg0303",
+      "style": 84,
+      "name": "So how about you, Rex?\nWhen are you gonna get around to it?"
+    },
+    {
+      "$id": 42,
+      "label": "qst620307_msg0304",
+      "style": 84,
+      "name": "Get around to it? ...To what?"
+    },
+    {
+      "$id": 43,
+      "label": "qst620307_msg0305",
+      "style": 84,
+      "name": "You know what I'm talking about!"
+    },
+    {
+      "$id": 44,
+      "label": "qst620307_msg0306",
+      "style": 84,
+      "name": "I...really don't...?"
+    },
+    {
+      "$id": 45,
+      "label": "qst620307_msg0307",
+      "style": 84,
+      "name": "You know! Posystone rings and\nauroras and all that!"
+    },
+    {
+      "$id": 46,
+      "label": "qst620307_msg0308",
+      "style": 84,
+      "name": "Oh... That..."
+    },
+    {
+      "$id": 47,
+      "label": "qst620307_msg0309",
+      "style": 84,
+      "name": "Uhm... Maybe in a little while...?"
+    },
+    {
+      "$id": 48,
+      "label": "qst620307_msg0310",
+      "style": 84,
+      "name": "Or, maybe more like, a good long while..."
+    },
+    {
+      "$id": 49,
+      "label": "qst620307_msg0311",
+      "style": 84,
+      "name": "Rex, you're hopeless..."
+    },
+    {
+      "$id": 50,
+      "label": "qst620307_msg0401",
+      "style": 84,
+      "name": "Looks like it's all turned up roses."
+    },
+    {
+      "$id": 51,
+      "label": "qst620307_msg0402",
+      "style": 84,
+      "name": "No kidding!\nIt feels like a load off my chest..."
+    },
+    {
+      "$id": 52,
+      "label": "qst620307_msg0403",
+      "style": 84,
+      "name": "Wasn't quite sure he'd pull it off\non his own, but he sealed the deal."
+    },
+    {
+      "$id": 53,
+      "label": "qst620307_msg0404",
+      "style": 84,
+      "name": "Good on him..."
+    },
+    {
+      "$id": 54,
+      "label": "qst620307_msg0405",
+      "style": 84,
+      "name": "Anyway, you and me, we're the\nindependent type. It's not like us to \ndepend on others to do things for us."
+    },
+    {
+      "$id": 55,
+      "label": "qst620307_msg0406",
+      "style": 84,
+      "name": "You could say that again."
+    },
+    {
+      "$id": 56,
+      "label": "qst620307_msg0407",
+      "style": 84,
+      "name": "I don't really see that changing\nanytime soon..."
+    },
+    {
+      "$id": 57,
+      "label": "qst620307_msg0408",
+      "style": 84,
+      "name": "No, I don't imagine it will..."
+    },
+    {
+      "$id": 58,
+      "label": "qst620307_msg0501",
+      "style": 84,
+      "name": "I'm glad everything went well."
+    },
+    {
+      "$id": 59,
+      "label": "qst620307_msg0502",
+      "style": 84,
+      "name": "Hana a little disappointed.\nWas hoping for pieces to pick up..."
+    },
+    {
+      "$id": 60,
+      "label": "qst620307_msg0503",
+      "style": 84,
+      "name": "Cut it out, Hana..."
+    },
+    {
+      "$id": 61,
+      "label": "qst620307_msg0504",
+      "style": 84,
+      "name": "Rex, why ask Hana to watch?"
+    },
+    {
+      "$id": 62,
+      "label": "qst620307_msg0505",
+      "style": 84,
+      "name": "Is maybe feeling envious of Masterpon?"
+    },
+    {
+      "$id": 63,
+      "label": "qst620307_msg0506",
+      "style": 84,
+      "name": "Nononono, nothing like that!"
+    },
+    {
+      "$id": 64,
+      "label": "qst620307_msg0507",
+      "style": 84,
+      "name": "It was more like... You've not been alive\nthat long, right? So I thought you might\nlike to experience something like this."
+    },
+    {
+      "$id": 65,
+      "label": "qst620307_msg0508",
+      "style": 84,
+      "name": "Ah... So Rex is concern after correct\ndevelopment of Hana. Even Masterpon\nsometimes neglect that. Thank you!"
+    },
+    {
+      "$id": 66,
+      "label": "qst620307_msg0509",
+      "style": 84,
+      "name": "...You're welcome, I guess."
+    },
+    {
+      "$id": 67,
+      "label": "qst620307_msg0510",
+      "style": 84,
+      "name": "Rex... Hana must acknowledge\ngood deed of Rex. From today, please\naccept title of Vice-Masterpon."
+    },
+    {
+      "$id": 68,
+      "label": "qst620307_msg0511",
+      "style": 84,
+      "name": "Vice-Masterpon?!"
+    },
+    {
+      "$id": 69,
+      "label": "qst620307_msg0512",
+      "style": 84,
+      "name": "No, ah, that's all right, really.\nLet's just...keep things as they were,\nOK? I think that's better for everyone..."
+    },
+    {
+      "$id": 70,
+      "label": "qst620307_msg0513",
+      "style": 0,
+      "name": "If Vi-... If Rex say so."
+    },
+    {
+      "$id": 71,
+      "label": "qst620307_msg0601",
+      "style": 84,
+      "name": "How nice....\nIt went exactly as I expected.\n"
+    },
+    {
+      "$id": 72,
+      "label": "qst620307_msg0602",
+      "style": 84,
+      "name": "You knew she'd say yes, Kagutsuchi?"
+    },
+    {
+      "$id": 73,
+      "label": "qst620307_msg0603",
+      "style": 84,
+      "name": "Of course."
+    },
+    {
+      "$id": 74,
+      "label": "qst620307_msg0604",
+      "style": 84,
+      "name": "You saw how she was at the harbor,\ndidn't you?"
+    },
+    {
+      "$id": 75,
+      "label": "qst620307_msg0605",
+      "style": 84,
+      "name": "I may not have spoken with her myself,\nbut what I heard told me all I needed to\nknow."
+    },
+    {
+      "$id": 76,
+      "label": "qst620307_msg0606",
+      "style": 84,
+      "name": "And while Len is a little peculiar,\nhis love for her is true and pure."
+    },
+    {
+      "$id": 77,
+      "label": "qst620307_msg0607",
+      "style": 84,
+      "name": "Anyone with eyes to see can tell a\ncouple like that is a sure thing."
+    },
+    {
+      "$id": 78,
+      "label": "qst620307_msg0608",
+      "style": 84,
+      "name": "Wow..."
+    },
+    {
+      "$id": 79,
+      "label": "qst620307_msg0609",
+      "style": 84,
+      "name": "If Meleph ever gets into a relationship,\nshe'll be safe as houses with you\naround, Kagutsuchi!"
+    },
+    {
+      "$id": 80,
+      "label": "qst620307_msg0610",
+      "style": 84,
+      "name": "...Hm."
+    },
+    {
+      "$id": 81,
+      "label": "qst620307_msg0701",
+      "style": 84,
+      "name": "Aww, I love a happy ending!"
+    },
+    {
+      "$id": 82,
+      "label": "qst620307_msg0702",
+      "style": 84,
+      "name": "Yeah, I'm real happy it worked out!"
+    },
+    {
+      "$id": 83,
+      "label": "qst620307_msg0703",
+      "style": 84,
+      "name": "Hang on there, you shouldn't act like\nit's all done and dusted now!"
+    },
+    {
+      "$id": 84,
+      "label": "qst620307_msg0704",
+      "style": 84,
+      "name": "Huh? What do you mean?"
+    },
+    {
+      "$id": 85,
+      "label": "qst620307_msg0705",
+      "style": 84,
+      "name": "Well, you know! Being married is a lot\nlike the relationship between a Driver\nand their Blade, right?"
+    },
+    {
+      "$id": 86,
+      "label": "qst620307_msg0706",
+      "style": 84,
+      "name": "From now on, Len's gonna be left with\nno defenses against Aurelia! She'll have\nhim around her finger in no time flat!"
+    },
+    {
+      "$id": 87,
+      "label": "qst620307_msg0707",
+      "style": 84,
+      "name": "I...didn't think of that."
+    },
+    {
+      "$id": 88,
+      "label": "qst620307_msg0708",
+      "style": 84,
+      "name": "I guess I should be thankful I've ended\nup with Homura and Hikari, huh? At least\nthey're both nice..."
+    },
+    {
+      "$id": 89,
+      "label": "qst620307_msg0709",
+      "style": 84,
+      "name": "Rex...\nYou might have the toughest lot of any\nDriver on Alst, actually..."
+    },
+    {
+      "$id": 90,
+      "label": "qst620307_msg0801",
+      "style": 84,
+      "name": "I'd call that a success, wouldn't you?"
+    },
+    {
+      "$id": 91,
+      "label": "qst620307_msg0802",
+      "style": 84,
+      "name": "Indeed.\nA job well done."
+    },
+    {
+      "$id": 92,
+      "label": "qst620307_msg0803",
+      "style": 84,
+      "name": "What did you think of the happy\ncouple, Meleph?"
+    },
+    {
+      "$id": 93,
+      "label": "qst620307_msg0804",
+      "style": 84,
+      "name": "Upon reflection, I see here two more\nsouls for whose sake we mustn't\nfalter. My resolve is strengthened."
+    },
+    {
+      "$id": 94,
+      "label": "qst620307_msg0805",
+      "style": 84,
+      "name": "Hah, I should've know you'd say\nsomething like that."
+    },
+    {
+      "$id": 95,
+      "label": "qst620307_msg0806",
+      "style": 84,
+      "name": "I always try to remember that our daily\nstruggle is so that people like them may\nyet have a future."
+    },
+    {
+      "$id": 96,
+      "label": "qst620307_msg0807",
+      "style": 84,
+      "name": "Be they Superbian or Invidian..."
+    },
+    {
+      "$id": 97,
+      "label": "qst620307_msg0808",
+      "style": 84,
+      "name": "You're right...\nI won't forget that either."
+    }
+  ]
+}

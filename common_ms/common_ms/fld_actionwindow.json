@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 33,
+      "name": "Talk"
+    },
+    {
+      "$id": 2,
+      "style": 33,
+      "name": "Salvage"
+    },
+    {
+      "$id": 3,
+      "style": 33,
+      "name": "Open"
+    },
+    {
+      "$id": 4,
+      "style": 33,
+      "name": "Check"
+    },
+    {
+      "$id": 5,
+      "style": 33,
+      "name": "Help up"
+    }
+  ]
+}

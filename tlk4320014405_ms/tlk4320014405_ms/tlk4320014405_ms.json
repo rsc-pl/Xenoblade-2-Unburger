@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200144_05_msg0001",
+      "style": 84,
+      "name": "I heard Queen Lagert's faaavorite\ngarden is down those stairs that start\non Sevind Palace Plaza."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200144_05_msg0002",
+      "style": 84,
+      "name": "I bet it's suuuuper pretty!\nOh, how I'd like to go one day!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200144_05_msg0003",
+      "style": 84,
+      "name": "But I can't picture Her Majesty jumping\nto get to the Ruins of Fountain Park...\nHow in the world does she get there?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200144_05_msg0004",
+      "style": 84,
+      "name": "Oh! Maybe there's a secret passage\nthat only the six noble houses can use!"
+    }
+  ]
+}

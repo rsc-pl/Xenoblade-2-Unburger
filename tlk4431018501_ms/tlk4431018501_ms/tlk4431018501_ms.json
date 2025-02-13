@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310185_01_msg0001",
+      "style": 84,
+      "name": "This is Teos Aure, the capital of Luxuria."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310185_01_msg0002",
+      "style": 84,
+      "name": "It's not often that a traveler comes\nhere. Mind you conduct yourself quietly\nand respectfully!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310185_01_msg0003",
+      "style": 84,
+      "name": "Prince Sigurd!\nPlease, by all means, pass through!\n... Long may Teos Aure thrive!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310185_01_msg0004",
+      "style": 84,
+      "name": "...Ah, but, if at all possible, would you\nmind avoiding any flamboyant displays,\nso as not to alarm the citizenry...?"
+    }
+  ]
+}

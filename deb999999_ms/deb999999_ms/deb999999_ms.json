@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "deb999999_0001",
+      "style": 2,
+      "name": "Test of post-combination\nevent."
+    },
+    {
+      "$id": 2,
+      "label": "deb999999_0002",
+      "style": 2,
+      "name": "...they were able to eat the\ngiant peach."
+    },
+    {
+      "$id": 3,
+      "label": "deb999999_0003",
+      "style": 2,
+      "name": "And they lived happily ever\nafter."
+    },
+    {
+      "$id": 4,
+      "label": "deb999999_0004",
+      "style": 2,
+      "name": "The end."
+    }
+  ]
+}

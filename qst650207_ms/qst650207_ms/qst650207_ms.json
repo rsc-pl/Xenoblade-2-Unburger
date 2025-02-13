@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650207_msg0001",
+      "style": 84,
+      "name": "Search in roots of Saffronia tree in\nGwenith Paddies, near Invidian\ncapital Fons Maim."
+    },
+    {
+      "$id": 2,
+      "label": "qst650207_msg0002",
+      "style": 84,
+      "name": "What you dig up there will prove\nthat I telling the truth."
+    },
+    {
+      "$id": 3,
+      "label": "qst650207_msg0101",
+      "style": 84,
+      "name": "Time for Hanabuster test drive!"
+    },
+    {
+      "$id": 4,
+      "label": "qst650207_msg0102",
+      "style": 84,
+      "name": "For test purposes, go to Superbia\nand defeat Maxos Arachno."
+    }
+  ]
+}

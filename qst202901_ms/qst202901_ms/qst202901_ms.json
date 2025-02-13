@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202901_0010",
+      "style": 82,
+      "name": "Wait!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202901_0020",
+      "style": 82,
+      "name": "[ML:undisp ]Hmm?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202901_0030",
+      "style": 82,
+      "name": "You talking to us?"
+    },
+    {
+      "$id": 4,
+      "label": "qst202901_0040",
+      "style": 82,
+      "name": "I wanted to talk to the pretty lady..."
+    },
+    {
+      "$id": 5,
+      "label": "qst202901_0050",
+      "style": 82,
+      "name": "Oh, it's Tsuki you're after."
+    },
+    {
+      "$id": 6,
+      "label": "qst202901_0060",
+      "style": 82,
+      "name": "What's up, hon? You wanna ask me somethin'?"
+    },
+    {
+      "$id": 7,
+      "label": "qst202901_0070",
+      "style": 82,
+      "name": "Um, can I...touch you?"
+    },
+    {
+      "$id": 8,
+      "label": "qst202901_0080",
+      "style": 82,
+      "name": "Touch me? Well, sure, if you like..."
+    },
+    {
+      "$id": 9,
+      "label": "qst202901_0090",
+      "style": 82,
+      "name": "Wow...so shiny! It's beautiful!"
+    },
+    {
+      "$id": 10,
+      "label": "qst202901_0100",
+      "style": 82,
+      "name": "I wish I could wear something like this!"
+    },
+    {
+      "$id": 11,
+      "label": "qst202901_0110",
+      "style": 82,
+      "name": "Thanks, hon."
+    },
+    {
+      "$id": 12,
+      "label": "qst202901_0120",
+      "style": 82,
+      "name": "And the way you talk is, is so lovely, too!"
+    },
+    {
+      "$id": 13,
+      "label": "qst202901_0130",
+      "style": 82,
+      "name": "It sounds so much more refined than\nthat guy over there!"
+    },
+    {
+      "$id": 14,
+      "label": "qst202901_0140",
+      "style": 82,
+      "name": "Hey, why're you bringing me into this?!"
+    },
+    {
+      "$id": 15,
+      "label": "qst202901_0150",
+      "style": 82,
+      "name": "Well, that is mighty kind of you.\nYou're pretty cute yourself."
+    },
+    {
+      "$id": 16,
+      "label": "qst202901_0160",
+      "style": 82,
+      "name": "Hey, are you, like, a rabbit lady?!"
+    },
+    {
+      "$id": 17,
+      "label": "qst202901_0170",
+      "style": 82,
+      "name": "Not quite, peaches. I'm a Blade, see?"
+    },
+    {
+      "$id": 18,
+      "label": "qst202901_0180",
+      "style": 82,
+      "name": "Oh wow, a Blade! That's amazing!"
+    },
+    {
+      "$id": 19,
+      "label": "qst202901_0190",
+      "style": 82,
+      "name": "Name's Tsuki.\nPleasure to meet you."
+    },
+    {
+      "$id": 20,
+      "label": "qst202901_0200",
+      "style": 82,
+      "name": "Tsuki?"
+    },
+    {
+      "$id": 21,
+      "label": "qst202901_0210",
+      "style": 82,
+      "name": "That's the one. Don't forget it, OK?"
+    },
+    {
+      "$id": 22,
+      "label": "qst202901_0220",
+      "style": 82,
+      "name": "OK!"
+    },
+    {
+      "$id": 23,
+      "label": "qst202901_0230",
+      "style": 82,
+      "name": "So...hey, Tsuki!"
+    },
+    {
+      "$id": 24,
+      "label": "qst202901_0240",
+      "style": 82,
+      "name": "Why d'you look like that?\nAll shiny and pretty?"
+    },
+    {
+      "$id": 25,
+      "label": "qst202901_0250",
+      "style": 82,
+      "name": "Why? I'm not sure I can give you\na clean-cut answer there."
+    },
+    {
+      "$id": 26,
+      "label": "qst202901_0260",
+      "style": 82,
+      "name": "Are all Blades shiny and sparkly?!"
+    },
+    {
+      "$id": 27,
+      "label": "qst202901_0270",
+      "style": 82,
+      "name": "Well, no, I suppose not."
+    },
+    {
+      "$id": 28,
+      "label": "qst202901_0280",
+      "style": 82,
+      "name": "Hey, Tsuki! Where'd you learn to talk like that?"
+    },
+    {
+      "$id": 29,
+      "label": "qst202901_0290",
+      "style": 82,
+      "name": "It sounds way cooler than that guy over there!"
+    },
+    {
+      "$id": 30,
+      "label": "qst202901_0300",
+      "style": 82,
+      "name": "Hey, can you please stop taking digs at me?!"
+    },
+    {
+      "$id": 31,
+      "label": "qst202901_0310",
+      "style": 82,
+      "name": "I've talked like this all my life."
+    },
+    {
+      "$id": 32,
+      "label": "qst202901_0320",
+      "style": 82,
+      "name": "Hey hey, Tsuki!"
+    },
+    {
+      "$id": 33,
+      "label": "qst202901_0330",
+      "style": 82,
+      "name": "How'd you get to be born so beautiful?\nAnd where'd you buy those shiny clothes?"
+    },
+    {
+      "$id": 34,
+      "label": "qst202901_0340",
+      "style": 82,
+      "name": "Now, hold your horses!"
+    },
+    {
+      "$id": 35,
+      "label": "qst202901_0350",
+      "style": 82,
+      "name": "One question at a time, if you please?"
+    },
+    {
+      "$id": 36,
+      "label": "qst202901_0360",
+      "style": 82,
+      "name": "That kid really seems to have taken a shine to her."
+    },
+    {
+      "$id": 37,
+      "label": "qst202901_0370",
+      "style": 82,
+      "name": "Hey \"pretty lady\"! Keep it up!"
+    },
+    {
+      "$id": 38,
+      "label": "qst202901_0380",
+      "style": 82,
+      "name": "Ooh, they make me so mad sometimes...\nY'all are treadin' on thin ice!"
+    },
+    {
+      "$id": 39,
+      "label": "qst202901_0390",
+      "style": 82,
+      "name": "Hey, Tsuki! What's your favoritest\nthing in the whole world?"
+    },
+    {
+      "$id": 40,
+      "label": "qst202901_0400",
+      "style": 82,
+      "name": "My \"favoritest\" thing?"
+    },
+    {
+      "$id": 41,
+      "label": "qst202901_0410",
+      "style": 82,
+      "name": "Yeah!"
+    },
+    {
+      "$id": 42,
+      "label": "qst202901_0420",
+      "style": 82,
+      "name": "Well, let's see now..."
+    },
+    {
+      "$id": 43,
+      "label": "qst202901_0430",
+      "style": 82,
+      "name": "I am pretty crazy about flowers."
+    },
+    {
+      "$id": 44,
+      "label": "qst202901_0440",
+      "style": 82,
+      "name": "Flowers?"
+    },
+    {
+      "$id": 45,
+      "label": "qst202901_0450",
+      "style": 82,
+      "name": "Uh-huh. There's these flowers that only\nbloom at night - they're called Moondrops."
+    },
+    {
+      "$id": 46,
+      "label": "qst202901_0460",
+      "style": 82,
+      "name": "Tiny li'l things, but they've got\nbeautiful white blossoms."
+    },
+    {
+      "$id": 47,
+      "label": "qst202901_0470",
+      "style": 82,
+      "name": "Huh..."
+    },
+    {
+      "$id": 48,
+      "label": "qst202901_0480",
+      "style": 82,
+      "name": "Hey hey hey, Tsuki!"
+    },
+    {
+      "$id": 49,
+      "label": "qst202901_0490",
+      "style": 82,
+      "name": "Listen, I wanna grow up to be just like you!"
+    },
+    {
+      "$id": 50,
+      "label": "qst202901_0500",
+      "style": 82,
+      "name": "How can I be like you?"
+    },
+    {
+      "$id": 51,
+      "label": "qst202901_0510",
+      "style": 82,
+      "name": "Be like me?"
+    },
+    {
+      "$id": 52,
+      "label": "qst202901_0520",
+      "style": 82,
+      "name": "Uh-huh!"
+    },
+    {
+      "$id": 53,
+      "label": "qst202901_0530",
+      "style": 82,
+      "name": "Hmmm... Well, I'm not sure 'bout that."
+    },
+    {
+      "$id": 54,
+      "label": "qst202901_0540",
+      "style": 82,
+      "name": "Maybe you should try playin' around outside."
+    },
+    {
+      "$id": 55,
+      "label": "qst202901_0550",
+      "style": 82,
+      "name": "Outside?"
+    },
+    {
+      "$id": 56,
+      "label": "qst202901_0560",
+      "style": 82,
+      "name": "That's right, hon. You've gotta\nplay hard, and eat well..."
+    },
+    {
+      "$id": 57,
+      "label": "qst202901_0570",
+      "style": 82,
+      "name": "Oh, and a little studying\nwouldn't hurt either."
+    },
+    {
+      "$id": 58,
+      "label": "qst202901_0580",
+      "style": 82,
+      "name": "Whaaaa?! I've got to study?"
+    },
+    {
+      "$id": 59,
+      "label": "qst202901_0590",
+      "style": 82,
+      "name": "Yup. Studying's pretty important, ya know."
+    },
+    {
+      "$id": 60,
+      "label": "qst202901_0600",
+      "style": 82,
+      "name": "Wow... Being really pretty takes\na lot of work, huh."
+    },
+    {
+      "$id": 61,
+      "label": "qst202901_0610",
+      "style": 82,
+      "name": "Whaddaya say, kid?\nGot what you wanted?"
+    },
+    {
+      "$id": 62,
+      "label": "qst202901_0620",
+      "style": 82,
+      "name": "Yeah!"
+    },
+    {
+      "$id": 63,
+      "label": "qst202901_0630",
+      "style": 82,
+      "name": "D'you think I can be as pretty as Tsuki\nif I work hard enough?"
+    },
+    {
+      "$id": 64,
+      "label": "qst202901_0640",
+      "style": 82,
+      "name": "Sure! 'Y'all gotta work hard to talk\n\"cool\" like li'l old Tsuki!'"
+    },
+    {
+      "$id": 65,
+      "label": "qst202901_0650",
+      "style": 82,
+      "name": "Zeke! That's not very..."
+    },
+    {
+      "$id": 66,
+      "label": "qst202901_0660",
+      "style": 82,
+      "name": "Wow!\nThanks, pretty lady Tsuki!"
+    },
+    {
+      "$id": 67,
+      "label": "qst202901_0670",
+      "style": 82,
+      "name": "Next time we meet, I'm gonna\nbe super pretty too!"
+    },
+    {
+      "$id": 68,
+      "label": "qst202901_0680",
+      "style": 82,
+      "name": "Bye-bye!"
+    },
+    {
+      "$id": 69,
+      "label": "qst202901_0690",
+      "style": 82,
+      "name": "Bye, hon!\nYou work hard now!"
+    },
+    {
+      "$id": 70,
+      "label": "qst202901_0700",
+      "style": 82,
+      "name": "That is one happy customer."
+    },
+    {
+      "$id": 71,
+      "label": "qst202901_0710",
+      "style": 82,
+      "name": "Yeah, Tsuki, I never knew you\nwere so good with kids!"
+    },
+    {
+      "$id": 72,
+      "label": "qst202901_0720",
+      "style": 82,
+      "name": "Oh, I'm nothin' special.\nThat was just a fluke, is all."
+    },
+    {
+      "$id": 73,
+      "label": "qst202901_0730",
+      "style": 82,
+      "name": "And as for you, Zeke...!\nI don't like your cheek!"
+    },
+    {
+      "$id": 74,
+      "label": "qst202901_0740",
+      "style": 82,
+      "name": "Hahaha!"
+    },
+    {
+      "$id": 75,
+      "label": "qst202901_0750",
+      "style": 82,
+      "name": "That's what happens when you make fun\nof the great and awful Zekenator!"
+    },
+    {
+      "$id": 76,
+      "label": "qst202901_0760",
+      "style": 82,
+      "name": "What are we gonna do with you...?"
+    },
+    {
+      "$id": 77,
+      "label": "qst202901_0770",
+      "style": 82,
+      "name": "I must say, I'm looking forward to the\nnext time we run into that young lady."
+    },
+    {
+      "$id": 78,
+      "label": "qst202901_0780",
+      "style": 82,
+      "name": "And how!\nI just hope she doesn't push herself TOO hard..."
+    }
+  ]
+}

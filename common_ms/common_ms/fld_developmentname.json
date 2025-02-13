@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Avaritia"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Gula"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Invidia"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Superbia"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Liberalitas"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Acedia"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Luxuria"
+    }
+  ]
+}

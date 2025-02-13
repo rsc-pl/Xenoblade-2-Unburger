@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006401_02_msg0001",
+      "style": 84,
+      "name": "We've got Rhys and his pals helping\nout at the docks to put some muscle\non them."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006401_02_msg0002",
+      "style": 84,
+      "name": "Lifting crates, checking cargo, mooring\nDivine Beasts... That kind of thing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006401_02_msg0003",
+      "style": 84,
+      "name": "Being a salvager's all about stamina\nand focus, so this is pretty much the\nperfect training for them."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006401_02_msg0004",
+      "style": 84,
+      "name": "Now to find out how long they can\nkeep this up for..."
+    }
+  ]
+}

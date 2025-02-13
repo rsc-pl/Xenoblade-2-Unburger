@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400011_01_msg0001",
+      "style": 84,
+      "name": "There's a look about you...\nthe look of someone who buys\na lot of things at shops!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400011_01_msg0002",
+      "style": 84,
+      "name": "I'm an up-and-coming economist,\nand I'm trying to encourage people\nto up their consumer activity."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400011_01_msg0003",
+      "style": 84,
+      "name": "Whether buying or selling, what matters\nis that money changes hands. That's\nwhat keeps the economy flowing!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400011_01_msg0004",
+      "style": 84,
+      "name": "And if the economy thrives,\nso will this city!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41400011_01_msg0005",
+      "style": 84,
+      "name": "What's that mean for you,\nI hear you ask?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41400011_01_msg0006",
+      "style": 84,
+      "name": "Well, it means you'll be able to\nbuy things cheaper!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41400011_01_msg0007",
+      "style": 84,
+      "name": "Isn't economics wonderful?"
+    }
+  ]
+}

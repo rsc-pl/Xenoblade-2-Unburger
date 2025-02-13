@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200141_05_msg0001",
+      "style": 84,
+      "name": "Everyone's talking about scary things\na lot right now, but sometimes we get\ngood news."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200141_05_msg0002",
+      "style": 84,
+      "name": "Like, I found out Rhys and the others\nare safe in Avaritia!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200141_05_msg0003",
+      "style": 84,
+      "name": "Dad says he'll take me to see them\nonce all the fighting settles down."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200141_05_msg0004",
+      "style": 84,
+      "name": "I never thought I'd get to see my\nfriends again... Ahh, I can't wait!"
+    }
+  ]
+}

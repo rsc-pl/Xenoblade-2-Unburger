@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200216_msg0001",
+      "style": 84,
+      "name": "All right, that should do nicely!\nRight in time for me to set sail."
+    },
+    {
+      "$id": 2,
+      "label": "qst200216_msg0002",
+      "style": 84,
+      "name": "Wouldn't want to keep the\nclient waiting."
+    },
+    {
+      "$id": 3,
+      "label": "qst200216_msg0003",
+      "style": 84,
+      "name": "Where are you taking this\ncargo exactly?"
+    },
+    {
+      "$id": 4,
+      "label": "qst200216_msg0004",
+      "style": 84,
+      "name": "Genbu Port in Luxuria."
+    },
+    {
+      "$id": 5,
+      "label": "qst200216_msg0005",
+      "style": 84,
+      "name": "Do you know the client personally?"
+    },
+    {
+      "$id": 6,
+      "label": "qst200216_msg0006",
+      "style": 84,
+      "name": "Ships like mine transport all sorts of\ndifferent goods from a bunch of clients."
+    },
+    {
+      "$id": 7,
+      "label": "qst200216_msg0007",
+      "style": 84,
+      "name": "So I'm afraid I don't really know much\nabout the people I'm working for."
+    },
+    {
+      "$id": 8,
+      "label": "qst200216_msg0008",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 9,
+      "label": "qst200216_msg0009",
+      "style": 84,
+      "name": "Where are you handing over this\ncargo, then?"
+    },
+    {
+      "$id": 10,
+      "label": "qst200216_msg0010",
+      "style": 84,
+      "name": "All I do is unload them at the port.\nNone of my business what happens\nafterwards. Why d'you want to know?"
+    },
+    {
+      "$id": 11,
+      "label": "qst200216_msg0011",
+      "style": 84,
+      "name": "No, don't worry about it."
+    },
+    {
+      "$id": 12,
+      "label": "qst200216_msg0012",
+      "style": 84,
+      "name": "Well then, I'd better get going.\nThanks for your help!"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502008_msg0001",
+      "style": 84,
+      "name": "Hey, that weird machine is pretty\nunusual, right?"
+    },
+    {
+      "$id": 2,
+      "label": "qst502008_msg0002",
+      "style": 84,
+      "name": "It was hauled up by a salvager,\nbut nobody knows what it's for."
+    },
+    {
+      "$id": 3,
+      "label": "qst502008_msg0003",
+      "style": 84,
+      "name": "My dad reckons it's not broken or\nanything, but he can't figure out\nwhat to do with it."
+    },
+    {
+      "$id": 4,
+      "label": "qst502008_msg0004",
+      "style": 84,
+      "name": "Apparently a lot of these salvaged\nmachines start working when you\ngive them lightning energy."
+    },
+    {
+      "$id": 5,
+      "label": "qst502008_msg0005",
+      "style": 84,
+      "name": "But nobody in Avaritia has enough\nlightning energy to make this one work."
+    },
+    {
+      "$id": 6,
+      "label": "qst502008_msg0006",
+      "style": 84,
+      "name": "If you think you can do better,\nwhy not give it a try?"
+    },
+    {
+      "$id": 7,
+      "label": "qst502008_msg0101",
+      "style": 84,
+      "name": "I wonder what that weird machine\nwould do if it started working?"
+    },
+    {
+      "$id": 8,
+      "label": "qst502008_msg0102",
+      "style": 84,
+      "name": "My dad reckons it's not broken or\nanything, but he's at a loss as to\nwhat it's actually for."
+    },
+    {
+      "$id": 9,
+      "label": "qst502008_msg0103",
+      "style": 84,
+      "name": "You guys can make it work using\nlightning energy, right?"
+    },
+    {
+      "$id": 10,
+      "label": "qst502008_msg0104",
+      "style": 84,
+      "name": "It should make for an exciting evening!"
+    }
+  ]
+}

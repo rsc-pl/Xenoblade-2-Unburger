@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300072_03_msg0001",
+      "style": 84,
+      "name": "Us refugees are never given any\nconcrete information."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300072_03_msg0002",
+      "style": 84,
+      "name": "Like what's the deal with the\nSuperbian-Invidian war? Is it over?\nAre they still fighting?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300072_03_msg0003",
+      "style": 84,
+      "name": "We're all kept in the dark. But there\nis one thing I'm sure of..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300072_03_msg0004",
+      "style": 84,
+      "name": "As long as Acedia is left in control of its\nBlades, the fighting's not going to end."
+    }
+  ]
+}

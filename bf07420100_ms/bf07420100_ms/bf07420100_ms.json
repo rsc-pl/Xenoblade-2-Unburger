@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07420100_0010",
+      "style": 82,
+      "name": "So these are the Cliffs of Mors."
+    },
+    {
+      "$id": 2,
+      "label": "bf07420100_0020",
+      "style": 82,
+      "name": "A rotting Divine Beast, drifting aimlessly until death takes it."
+    },
+    {
+      "$id": 3,
+      "label": "bf07420100_0030",
+      "style": 82,
+      "name": "I just remembered - Metsu mentioned this place once."
+    },
+    {
+      "$id": 4,
+      "label": "bf07420100_0040",
+      "style": 82,
+      "name": "It's a shortcut to the World Tree."
+    },
+    {
+      "$id": 5,
+      "label": "bf07420100_0050",
+      "style": 82,
+      "name": "Makes sense."
+    },
+    {
+      "$id": 6,
+      "label": "bf07420100_0060",
+      "style": 82,
+      "name": "Let's push on. Homura is definitely somewhere ahead!"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102103_msg0001",
+      "style": 84,
+      "name": "Man, this blows.\nEspecially now you're talking to me."
+    },
+    {
+      "$id": 2,
+      "label": "qst102103_msg0002",
+      "style": 84,
+      "name": "(What should I ask?)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102103_msg0003",
+      "style": 165,
+      "name": "How was the subjugation mission?"
+    },
+    {
+      "$id": 4,
+      "label": "qst102103_msg0004",
+      "style": 165,
+      "name": "How do you like the merc life?"
+    },
+    {
+      "$id": 5,
+      "label": "qst102103_msg0101",
+      "style": 84,
+      "name": "I shoulda passed on this."
+    },
+    {
+      "$id": 6,
+      "label": "qst102103_msg0102",
+      "style": 84,
+      "name": "I just wanna go home.\nWhat the heck is that\nSuperbian idiot doing...?"
+    },
+    {
+      "$id": 7,
+      "label": "qst102103_msg0201",
+      "style": 84,
+      "name": "Hate it."
+    },
+    {
+      "$id": 8,
+      "label": "qst102103_msg0202",
+      "style": 84,
+      "name": "All these random foreigners..."
+    },
+    {
+      "$id": 9,
+      "label": "qst102103_msg0203",
+      "style": 84,
+      "name": "Why are there so many?\nWhat brings them here?"
+    },
+    {
+      "$id": 10,
+      "label": "qst102103_msg0204",
+      "style": 84,
+      "name": "And to make it worse, they all wanna\n\"hang out,\" like you. Blehh!"
+    }
+  ]
+}

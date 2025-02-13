@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09350100_0010",
+      "style": 82,
+      "name": "Join me."
+    },
+    {
+      "$id": 2,
+      "label": "bf09350100_0020",
+      "style": 82,
+      "name": "[ML:undisp ]Huh?"
+    },
+    {
+      "$id": 3,
+      "label": "bf09350100_0030",
+      "style": 82,
+      "name": "My name is Shin.\nI am...just like you."
+    }
+  ]
+}

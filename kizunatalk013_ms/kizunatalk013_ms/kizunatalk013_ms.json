@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk013_msg0001",
+      "style": 84,
+      "name": "Outstanding!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk013_msg0002",
+      "style": 84,
+      "name": "It thanks to Tora becoming Driver that\nTora come to this place!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk013_msg0003",
+      "style": 84,
+      "name": "Blades and Drivers most best ever!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk013_msg0004",
+      "style": 84,
+      "name": "That remind Tora!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk013_msg0005",
+      "style": 84,
+      "name": "Bro, Nia!\nTora need little consultation."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk013_msg0006",
+      "style": 84,
+      "name": "Uh, a consultation? With us?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk013_msg0007",
+      "style": 84,
+      "name": "Tora have big problem right now."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk013_msg0008",
+      "style": 84,
+      "name": "Recently...Tora finally realized."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk013_msg0009",
+      "style": 84,
+      "name": "Tora is..."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk013_msg0010",
+      "style": 84,
+      "name": "Tora is...?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk013_msg0011",
+      "style": 84,
+      "name": "Tora is not very useful in battle!"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk013_msg0012",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk013_msg0013",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk013_msg0014",
+      "style": 84,
+      "name": "Why friends silent?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk013_msg0015",
+      "style": 84,
+      "name": "Oh, uh... We're just a bit surprised."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk013_msg0016",
+      "style": 84,
+      "name": "I mean, I just never really took you for\nthe self-assessing type."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk013_msg0017",
+      "style": 84,
+      "name": "Too cruel!"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk013_msg0018",
+      "style": 84,
+      "name": "Nah, I mean, you fight just fine, Tora."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk013_msg0019",
+      "style": 84,
+      "name": "...Hana deserve all the credit."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk013_msg0020",
+      "style": 84,
+      "name": "She pass weapon and do all the things\nso Tora can fight like real Driver."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk013_msg0021",
+      "style": 84,
+      "name": "Tora sometimes think, if he remove\nprogram of Hana, Hana fighting\nalone would be most efficient..."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk013_msg0022",
+      "style": 84,
+      "name": "Seriously...?\nWow, you go girl."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk013_msg0023",
+      "style": 84,
+      "name": "That why Tora just feel like\nsmall furry ball and chain!"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk013_msg0024",
+      "style": 84,
+      "name": "Well, er...I wouldn't go that far..."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk013_msg0025",
+      "style": 84,
+      "name": "Anyway, Tora wonder if there any\npoint to Tora still being Driver..."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk013_msg0026",
+      "style": 84,
+      "name": "Maybe it better for everyone if Tora\nretire and assume supervisor duty\non sideline...?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk013_msg0027",
+      "style": 84,
+      "name": "Oh, Tora..."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk013_msg0028",
+      "style": 84,
+      "name": "Nia, what do you think?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk013_msg0029",
+      "style": 165,
+      "name": "What shall I ask Tora?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk013_msg0030",
+      "style": 164,
+      "name": "Why did you want to be a Driver?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk013_msg0031",
+      "style": 164,
+      "name": "What's the most important thing,\nfor a Driver?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk013_msg0101",
+      "style": 84,
+      "name": "It not clear to Tora anymore..."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk013_msg0102",
+      "style": 84,
+      "name": "Starting with Grampypon, dearest\nwish of family was to successfully\ncreate artificial Blade."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk013_msg0103",
+      "style": 84,
+      "name": "So it natural that Tora start to wish\nit too."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk013_msg0104",
+      "style": 84,
+      "name": "Well, do you know why your grandad\nwanted to make an artificial Blade?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk013_msg0105",
+      "style": 84,
+      "name": "Surely it because..."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk013_msg0106",
+      "style": 84,
+      "name": "He want to be famous!"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk013_msg0107",
+      "style": 84,
+      "name": "That sounds like a lame reason..."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk013_msg0108",
+      "style": 84,
+      "name": "But Nopon Driver is rare thing!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk013_msg0109",
+      "style": 84,
+      "name": "Nopon who become Driver\nalmost sure to become celebrity!"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk013_msg0110",
+      "style": 84,
+      "name": "Was that your motivation as well then?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk013_msg0111",
+      "style": 84,
+      "name": "Mmmehhhh...\nNot exactly."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk013_msg0112",
+      "style": 84,
+      "name": "Tora want to be like bro!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk013_msg0113",
+      "style": 84,
+      "name": "Like me?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk013_msg0114",
+      "style": 84,
+      "name": "At first, Tora simply yearn to be Driver,\nnot think too much about it."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk013_msg0115",
+      "style": 84,
+      "name": "But after me travel with bro and\nfriends, he start to think different!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk013_msg0116",
+      "style": 84,
+      "name": "Saving persons in need,\nfacing all challenges..."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk013_msg0117",
+      "style": 84,
+      "name": "Bro is Tora's idea of perfect\nDriver!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk013_msg0118",
+      "style": 84,
+      "name": "It...feels kinda strange when you say\nthat to my face..."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk013_msg0119",
+      "style": 84,
+      "name": "Rex, a perfect Driver? I'm not\nconvinced. But it looks like you've\ngot a clear goal in mind, Tora."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk013_msg0120",
+      "style": 84,
+      "name": "Hey, hold on..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk013_msg0121",
+      "style": 84,
+      "name": "Honestly, that's all you need! Tora,\nyou should keep being a Driver."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk013_msg0122",
+      "style": 84,
+      "name": "As long as you have goals to achieve,\nthere's no reason for you to stop."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk013_msg0123",
+      "style": 84,
+      "name": "And your Blade will help you in that."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk013_msg0124",
+      "style": 84,
+      "name": "Hana shouldn't have to fight alone.\nYou need to be right there with her."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk013_msg0125",
+      "style": 84,
+      "name": "It fair point..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk013_msg0126",
+      "style": 84,
+      "name": "Thank you, bro!\nThank you, Nia!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk013_msg0127",
+      "style": 84,
+      "name": "Tora promise he will strive to be best\nDriver ever!"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk013_msg0201",
+      "style": 84,
+      "name": "Tora been thinking about that a lot..."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk013_msg0202",
+      "style": 84,
+      "name": "Love towards Blade is important!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk013_msg0203",
+      "style": 84,
+      "name": "...L-love?"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk013_msg0204",
+      "style": 84,
+      "name": "Not an answer I was expecting..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk013_msg0205",
+      "style": 84,
+      "name": "Tora observe and Tora analyze..."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk013_msg0206",
+      "style": 84,
+      "name": "And Tora note, all Drivers have\nlove for their Blades!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk013_msg0207",
+      "style": 84,
+      "name": "Example! Bro love Homura,\nand Nia love Byakko!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk013_msg0208",
+      "style": 84,
+      "name": "I love Homura?!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk013_msg0209",
+      "style": 84,
+      "name": "R-Rex and Homura...?!"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk013_msg0210",
+      "style": 84,
+      "name": "Love that Tora feel for Hana is also\nunsurpassed thing."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk013_msg0211",
+      "style": 84,
+      "name": "But just because Tora have love,\nnot mean Tora can necessarily be\nDriver..."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk013_msg0212",
+      "style": 84,
+      "name": "Yeah, but still..."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk013_msg0213",
+      "style": 84,
+      "name": "H-hang on, Rex."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk013_msg0214",
+      "style": 84,
+      "name": "We're getting bogged down here.\nCan we just straight up ask Hana\nand be done with this?"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk013_msg0215",
+      "style": 84,
+      "name": "That's a great idea.\nLet's get Hana here."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk013_msg0216",
+      "style": 84,
+      "name": "Hey, Hana.\nWhat would you do if Tora said\nhe wanted to quit being a Driver?"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk013_msg0217",
+      "style": 84,
+      "name": "Hana probably break down in tears,\nis what!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk013_msg0218",
+      "style": 84,
+      "name": "Meh-meh-meh-meh!\nTora work to be best Driver he can!"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk013_msg0220",
+      "style": 84,
+      "name": "Well that was pretty easy..."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk013_msg0221",
+      "style": 84,
+      "name": "O-oh, yeah...not bad, not bad. *sigh*\n(Rex and Homura...)"
+    }
+  ]
+}

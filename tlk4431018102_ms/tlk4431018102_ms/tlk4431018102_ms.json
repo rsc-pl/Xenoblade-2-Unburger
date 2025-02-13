@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310181_02_msg0001",
+      "style": 84,
+      "name": "Mgh, you've...come from the outside."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310181_02_msg0002",
+      "style": 84,
+      "name": "Welcome to Teos Aure,\nthe Luxurian capital!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310181_02_msg0003",
+      "style": 84,
+      "name": "Before, there were strict limits on\nentering the country, but now those\nrules are being relaxed."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310181_02_msg0004",
+      "style": 84,
+      "name": "And even board games, which used to\nbe contraband until recently, are being\nsold in the open! You should see it!"
+    }
+  ]
+}

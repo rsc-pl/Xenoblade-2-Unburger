@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002304_msg0001",
+      "style": 84,
+      "name": "It's so tough round here lately. With the\nanti-Blade protests gaining momentum,\nus guards don't have a moment's rest."
+    },
+    {
+      "$id": 2,
+      "label": "qst002304_msg0002",
+      "style": 84,
+      "name": "Don't the idiots see that getting rid of\nBlades isn't going to stop wars from\nhappening?"
+    },
+    {
+      "$id": 3,
+      "label": "qst002304_msg0003",
+      "style": 84,
+      "name": "Oh, um...I guess I shouldn't say that,\nthough. Not exactly professional of me."
+    },
+    {
+      "$id": 4,
+      "label": "qst002304_msg0004",
+      "style": 84,
+      "name": "Good luck with your research, though!"
+    }
+  ]
+}

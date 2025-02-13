@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104004_msg001",
+      "style": 62,
+      "name": "その子を放すんだ！"
+    },
+    {
+      "$id": 2,
+      "label": "qst104004_msg002",
+      "style": 62,
+      "name": "その子を放しな！"
+    },
+    {
+      "$id": 3,
+      "label": "qst104004_msg003",
+      "style": 62,
+      "name": "彼女を解放しろ！"
+    },
+    {
+      "$id": 4,
+      "label": "qst104004_msg004",
+      "style": 62,
+      "name": "その子を放すんや！"
+    },
+    {
+      "$id": 5,
+      "label": "qst104004_msg005",
+      "style": 62,
+      "name": "ラヴィーナを放すも！"
+    },
+    {
+      "$id": 6,
+      "label": "qst104004_msg006",
+      "style": 62,
+      "name": "断る！　こいつは大事な人質だからな！"
+    },
+    {
+      "$id": 7,
+      "label": "qst104004_msg007",
+      "style": 62,
+      "name": "貴様らなぞ返り討ちにしてくれる！"
+    }
+  ]
+}

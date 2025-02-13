@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400542_02_msg0001",
+      "style": 84,
+      "name": "There's something I never knew."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400542_02_msg0002",
+      "style": 84,
+      "name": "If a Core Crystal remains intact, you\ncan bond with it again."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400542_02_msg0003",
+      "style": 84,
+      "name": "Apparently, the Blade loses its\nmemories, but looks exactly the same."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400542_02_msg0004",
+      "style": 84,
+      "name": "But you can't do it straight away."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400542_02_msg0005",
+      "style": 84,
+      "name": "You have to wait until the crystal's\nreturned to its normal color."
+    }
+  ]
+}

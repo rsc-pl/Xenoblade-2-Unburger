@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350146_03_msg0001",
+      "style": 84,
+      "name": "Friends hear the news?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350146_03_msg0002",
+      "style": 84,
+      "name": "Mr. Vandham no longer with us..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350146_03_msg0003",
+      "style": 84,
+      "name": "Hototo know. It big shock to Hototo\ntoo. Hototo almost put back out!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350146_03_msg0004",
+      "style": 84,
+      "name": "Meh-meh-meh?!\nHototo one of last to find out?! He pass\naway long time ago now?!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42350146_03_msg0005",
+      "style": 84,
+      "name": "Hototo always holed up in cave, so it\ndifficult to learn about these things..."
+    }
+  ]
+}

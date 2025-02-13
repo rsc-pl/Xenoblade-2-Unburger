@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240008102_msg0001",
+      "style": 84,
+      "name": "Let's see... Smash, mash and toast\nconcoction of Belloat Grass and\nLemon Stone..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240008102_msg0002",
+      "style": 84,
+      "name": "Well, it make nice smell, but this not\neven close to gold..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240008102_msg0003",
+      "style": 84,
+      "name": "Meh? Classes?\nAh! Of course! Quiqui teacher now!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4240008102_msg0004",
+      "style": 84,
+      "name": "Quiqui so distracted with ingredients\nfor experiment, it completely slip\nmind. Quiqui teach properly now..."
+    }
+  ]
+}

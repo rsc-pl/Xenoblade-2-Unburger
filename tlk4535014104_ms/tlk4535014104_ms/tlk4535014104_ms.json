@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_04_msg0001",
+      "style": 84,
+      "name": "Ah, it's you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_04_msg0002",
+      "style": 84,
+      "name": "It seems the Hræsvelgr Mercenaries\nhave grown under your leadership!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_04_msg0003",
+      "style": 84,
+      "name": "I suppose even without Vandham,\nthe life of this band goes on."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_04_msg0004",
+      "style": 84,
+      "name": "Now, would you care to take a\nlook at the new jobs available?"
+    }
+  ]
+}

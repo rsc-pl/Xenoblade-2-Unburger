@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_550_190_msg0001",
+      "style": 84,
+      "name": "これはキリがないな[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "fev11_550_190_msg0002",
+      "style": 84,
+      "name": "見てください！"
+    },
+    {
+      "$id": 3,
+      "label": "fev11_550_190_msg0003",
+      "style": 84,
+      "name": "庭園の方にガーゴイルが集まってる[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_550_190_msg0004",
+      "style": 84,
+      "name": "急ぐわよ！"
+    }
+  ]
+}

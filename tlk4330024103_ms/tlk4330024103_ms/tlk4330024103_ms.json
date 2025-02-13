@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300241_03_msg0001",
+      "style": 84,
+      "name": "The state of the world keeps changing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300241_03_msg0002",
+      "style": 84,
+      "name": "Seeing the lives of the commoners from\nhere, and painting the scenes I see,\nI think I can understand it clearly."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300241_03_msg0003",
+      "style": 84,
+      "name": "Unlike my father, who's involved in the\ngovernment, or the other nobles..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300241_03_msg0004",
+      "style": 84,
+      "name": "Oh, they can talk about the Superbian\ntreaty, or the reparations, for days..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300241_03_msg0005",
+      "style": 84,
+      "name": "But they don't hear the word on\nthe street like I do."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300011_03_msg0001",
+      "style": 84,
+      "name": "I've been up to my eyeballs in work\nlately. Haven't been giving my girl\nthe attention she deserves."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300011_03_msg0002",
+      "style": 84,
+      "name": "She almost flipped her lid at me\nthe other day. I've never seen her\ndo that before."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300011_03_msg0003",
+      "style": 84,
+      "name": "I thought I might buy her some Samod\non the way home. She loves Samod."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300011_03_msg0004",
+      "style": 84,
+      "name": "It's got to be something different\nfrom the norm, though. She's a\nbit avant-garde in that respect."
+    }
+  ]
+}

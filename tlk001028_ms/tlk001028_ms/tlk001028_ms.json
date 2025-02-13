@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001028_msg0001",
+      "style": 84,
+      "name": "Rex, this not right way to\nplace of meetup."
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001028_msg0002",
+      "style": 84,
+      "name": "Rex should go to floor below.\nIf not hurry, boss maybe get mad."
+    }
+  ]
+}

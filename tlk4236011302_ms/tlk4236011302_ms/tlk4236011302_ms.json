@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360113_02_msg0001",
+      "style": 84,
+      "name": "Me switched with Limuli for guard\nduty, but can not help keeping eye\nopen for suspicious characters!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360113_02_msg0002",
+      "style": 84,
+      "name": "Please report suspicious individuals\nto Gegebi at any time. Even while\non break!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105101_msg001",
+      "style": 62,
+      "name": "受注トーク"
+    },
+    {
+      "$id": 2,
+      "label": "qst105101_msg002",
+      "style": 62,
+      "name": "お願いね"
+    },
+    {
+      "$id": 3,
+      "label": "qst105101_msg003",
+      "style": 62,
+      "name": "ありがとう"
+    }
+  ]
+}

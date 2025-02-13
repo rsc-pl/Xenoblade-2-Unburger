@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105609_msg001",
+      "style": 62,
+      "name": "本当に証拠を見せてもらえるのか"
+    },
+    {
+      "$id": 2,
+      "label": "qst105609_msg0001",
+      "style": 84,
+      "name": "Rumors stir among the populace..."
+    },
+    {
+      "$id": 3,
+      "label": "qst105609_msg0002",
+      "style": 84,
+      "name": "I do not believe them myself. Or rather,\nI do not want to believe them..."
+    }
+  ]
+}

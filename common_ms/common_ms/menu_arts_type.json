@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 20,
+      "name": "Physical"
+    },
+    {
+      "$id": 2,
+      "style": 20,
+      "name": "Ether"
+    },
+    {
+      "$id": 3,
+      "style": 20,
+      "name": "Recovery"
+    },
+    {
+      "$id": 4,
+      "style": 20,
+      "name": "Defensive"
+    },
+    {
+      "$id": 5,
+      "style": 20,
+      "name": "Buff"
+    }
+  ]
+}

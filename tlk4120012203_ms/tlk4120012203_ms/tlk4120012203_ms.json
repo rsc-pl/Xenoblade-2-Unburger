@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200122_03_msg0001",
+      "style": 84,
+      "name": "Whee, it's time to feed the Armoo!\nTheir food's got a healthy balance\nof nutrition!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200122_03_msg0002",
+      "style": 84,
+      "name": "Armoo're herbivores, but they don't\njust eat grass all day, nope!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200122_03_msg0003",
+      "style": 84,
+      "name": "They need to trim their teeth down\non Ruby Mangosteens and they\nneed vitamins from Deadly Kiwis!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200122_03_msg0004",
+      "style": 84,
+      "name": "Does it sound like hard work?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200122_03_msg0005",
+      "style": 84,
+      "name": "Mmm, I don't mind. 'Cos I wuv my\nwittle Armoo, yes I do!"
+    }
+  ]
+}

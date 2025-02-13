@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf04090100_0010",
+      "style": 82,
+      "name": "Right, so it looks like\nwe're heading out tomorrow."
+    },
+    {
+      "$id": 2,
+      "label": "bf04090100_0020",
+      "style": 82,
+      "name": "Everyone, make sure\nyou're ready by then!"
+    },
+    {
+      "$id": 3,
+      "label": "bf04090100_0030",
+      "style": 82,
+      "name": "Understood."
+    },
+    {
+      "$id": 4,
+      "label": "bf04090100_0040",
+      "style": 82,
+      "name": "Affirmative!"
+    },
+    {
+      "$id": 5,
+      "label": "bf04090100_0050",
+      "style": 82,
+      "name": "The tea here is lovely."
+    },
+    {
+      "$id": 6,
+      "label": "bf04090100_0060",
+      "style": 82,
+      "name": "You can find quality goods here from\nall around Alst. You like the place?"
+    },
+    {
+      "$id": 7,
+      "label": "bf04090100_0070",
+      "style": 82,
+      "name": "Yes. If there's time before we leave,\nI think I'll have another cup later."
+    },
+    {
+      "$id": 8,
+      "label": "bf04090100_0080",
+      "style": 82,
+      "name": "Mmmm, feels so good to rest in a\nproper inn after a long voyage!"
+    },
+    {
+      "$id": 9,
+      "label": "bf04090100_0090",
+      "style": 82,
+      "name": "Yeah. It's good to be on familiar shores again."
+    }
+  ]
+}

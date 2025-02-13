@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320152_02_msg0001",
+      "style": 84,
+      "name": "I heard about some kind of artificial\nBlade causing chaos in the capital."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320152_02_msg0002",
+      "style": 84,
+      "name": "The gate over there was closed the\nwhole time, so I imagine the Blade\nmust have gone across Midorl Bridge."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320152_02_msg0003",
+      "style": 84,
+      "name": "Honestly, what were the people\nguarding the main gate playing at,\nletting a thing like that get through?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320152_02_msg0004",
+      "style": 84,
+      "name": "...Not that I can talk, after I managed\nto lose the key to the other gate, haha..."
+    }
+  ]
+}

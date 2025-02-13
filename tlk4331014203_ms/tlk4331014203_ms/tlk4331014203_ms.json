@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310142_03_msg0001",
+      "style": 84,
+      "name": "It's a shame we didn't get to wipe out\nthose damn Superbians."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310142_03_msg0002",
+      "style": 84,
+      "name": "Our armor is made from the hardened\nexcretions of the Invidian Divine Beast, referred\nto in common parlance as \"coral\"."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310142_03_msg0003",
+      "style": 84,
+      "name": "It's strong enough to withstand even\na blast from Superbia's most\npowerful weapon, Archelon."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310142_03_msg0004",
+      "style": 84,
+      "name": "I would have relished the chance to\nprove once and for all that our soldiers\nare categorically superior to theirs."
+    }
+  ]
+}

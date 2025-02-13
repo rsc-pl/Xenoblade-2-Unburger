@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf01170100_0010",
+      "style": 82,
+      "name": "Your target is located inside a\nshipwreck 450 peds straight down."
+    },
+    {
+      "$id": 2,
+      "label": "bf01170100_0020",
+      "style": 82,
+      "name": "Searching the wreck while submerged is\ntoo high-risk for our tastes, so..."
+    },
+    {
+      "$id": 3,
+      "label": "bf01170100_0030",
+      "style": 82,
+      "name": "we'll be using flotation devices and\ncranes to lift the hull first."
+    },
+    {
+      "$id": 4,
+      "label": "bf01170100_0040",
+      "style": 82,
+      "name": "Next, you'll split into teams and explore the interior.\nOnce the target is found, retrieval can commence."
+    },
+    {
+      "$id": 5,
+      "label": "bf01170100_0050",
+      "style": 82,
+      "name": "If that's clear, let's begin with attaching\nthe floats. Get into position!"
+    },
+    {
+      "$id": 6,
+      "label": "bf01170100_0060",
+      "style": 82,
+      "name": "We're paying you a lot,\nso don't screw it up!"
+    },
+    {
+      "$id": 7,
+      "label": "bf01170100_0070",
+      "style": 82,
+      "name": "You smug so-and-so..."
+    },
+    {
+      "$id": 8,
+      "label": "bf01170100_0080",
+      "style": 82,
+      "name": "And submerge!"
+    }
+  ]
+}

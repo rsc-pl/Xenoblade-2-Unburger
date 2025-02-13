@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100072_02_msg0001",
+      "style": 84,
+      "name": "I can sense the destinies of individual\npeople, but not Acedia as a whole."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100072_02_msg0002",
+      "style": 84,
+      "name": "I wonder what part Acedia has to play\nin the great tapestry of life?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100072_02_msg0003",
+      "style": 84,
+      "name": "Phonexes love hearing stories, so I'm\nvery curious to learn Acedia's story!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100072_02_msg0004",
+      "style": 84,
+      "name": "I can picture it now...a fur-tingling tale\nof a destiny unlike no other! Ooh, I'm\nitching to hear it already!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300061_02_msg0001",
+      "style": 84,
+      "name": "I hear that a boy from Iyasaki has\nestablished a direct trade route\nto Avaritia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300061_02_msg0002",
+      "style": 84,
+      "name": "That's great news for us! Just great!\nIt means we'll finally be able to get\nback home to Invidia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300061_02_msg0003",
+      "style": 84,
+      "name": "...On the other hand, my wife's made\nsome friends here in Iyasaki, and she's\nbeen learning local cooking, too..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300061_02_msg0004",
+      "style": 84,
+      "name": "Said she won't go back till she knows\nthem all, so I've just been watching the\nboats go by... At least she's having fun."
+    }
+  ]
+}

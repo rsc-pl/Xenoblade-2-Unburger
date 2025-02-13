@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201805_msg0001",
+      "style": 84,
+      "name": "Everyone, look!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201805_msg0002",
+      "style": 84,
+      "name": "That's the Invidian Phonex village!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201805_msg0003",
+      "style": 84,
+      "name": "Quick, let's go talk to them!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201805_msg0004",
+      "style": 84,
+      "name": "Hey, hey, back up there.\nIf we go empty-handed, won't they just\ntell us to get lost, like last time?"
+    },
+    {
+      "$id": 5,
+      "label": "qst201805_msg0005",
+      "style": 84,
+      "name": "Ah, you're right!\nWe need to get ready with gifts!"
+    },
+    {
+      "$id": 6,
+      "label": "qst201805_msg0006",
+      "style": 84,
+      "name": "...OK then, we'll look for whatever\nthese Phonexes like."
+    },
+    {
+      "$id": 7,
+      "label": "qst201805_msg0007",
+      "style": 84,
+      "name": "You can't get Pinfins around here,\nso it'll have to be something else..."
+    }
+  ]
+}

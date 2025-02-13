@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104406_msg001",
+      "style": 62,
+      "name": "ありがとうございます。\n次は配給所の手伝いをしてきてください。"
+    },
+    {
+      "$id": 2,
+      "label": "qst104406_msg002",
+      "style": 62,
+      "name": "配給所の手伝いをしてきてください(仮)"
+    }
+  ]
+}

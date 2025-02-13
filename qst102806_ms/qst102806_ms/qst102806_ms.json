@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102806_msg001",
+      "style": 62,
+      "name": "ありがとう\n修理パーツは俺から渡しておくよ"
+    },
+    {
+      "$id": 2,
+      "label": "qst102806_msg002",
+      "style": 62,
+      "name": "おや、修理箇所はバルブだったかな？"
+    },
+    {
+      "$id": 3,
+      "label": "qst102806_msg003",
+      "style": 62,
+      "name": "ちゃんとボイラーのパーツを\n持ってきてくれたね"
+    }
+  ]
+}

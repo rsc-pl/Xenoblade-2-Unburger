@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200406_msg0001",
+      "style": 84,
+      "name": "Friends want know about loan shark?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200406_msg0002",
+      "style": 84,
+      "name": "Sorry, but Gagachi not know anything.\nKeep asking around though.\nMaybe someone else know."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100703_msg0202",
+      "style": 84,
+      "name": "Already collected one million G?\nWill friend pay whole balance now?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100703_msg0301",
+      "style": 84,
+      "name": "OK. Me study trading methods\nof accursed Bahn while me wait."
+    },
+    {
+      "$id": 3,
+      "label": "qst100703_msg0302",
+      "style": 165,
+      "name": "Pay 1,000,000G?"
+    },
+    {
+      "$id": 4,
+      "label": "qst100703_msg0303",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 5,
+      "label": "qst100703_msg0304",
+      "style": 165,
+      "name": "Don't pay"
+    }
+  ]
+}

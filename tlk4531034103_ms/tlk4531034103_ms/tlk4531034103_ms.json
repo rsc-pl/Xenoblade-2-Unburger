@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310341_03_msg0001",
+      "style": 84,
+      "name": "You're starting to get the look of\na veteran mercenary about you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310341_03_msg0002",
+      "style": 84,
+      "name": "Hahah, I'm just kidding.\nYou're not that rugged yet."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310341_03_msg0003",
+      "style": 84,
+      "name": "But you are doing a fine job of\nleading the Hræsvelgr Mercenaries.\nVandham would be proud."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310341_03_msg0004",
+      "style": 84,
+      "name": "The bigger our mercenary band\ngets, the more Blades you can\nmanage at once."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310341_03_msg0005",
+      "style": 84,
+      "name": "'Course, you can still only take three\nper Driver around with you at a time,\nbut it's good to have plenty in reserve!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45310341_03_msg0006",
+      "style": 84,
+      "name": "So if I were you, I'd try to build\nthe Hræsvelgr Mercenaries up to be\nas big as you can."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45310341_03_msg0007",
+      "style": 84,
+      "name": "As big as old Vandham's body, even!\nHahahah!"
+    }
+  ]
+}

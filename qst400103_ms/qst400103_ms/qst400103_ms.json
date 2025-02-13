@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400103_msg0001",
+      "style": 84,
+      "name": "Hey, Max!\nI'd like to transfer some money."
+    },
+    {
+      "$id": 2,
+      "label": "qst400103_msg0002",
+      "style": 84,
+      "name": "Why, if it isn't Rex. Pretty rare for a\nclient to drop cash off in person."
+    },
+    {
+      "$id": 3,
+      "label": "qst400103_msg0003",
+      "style": 84,
+      "name": "It's a big sum this time, so Melolo\nsaid I should bring it straight to you."
+    },
+    {
+      "$id": 4,
+      "label": "qst400103_msg0004",
+      "style": 84,
+      "name": "You're quite the guy, you know.\nNot many people send all this money\nback to their folks every single month."
+    },
+    {
+      "$id": 5,
+      "label": "qst400103_msg0005",
+      "style": 84,
+      "name": "Haha... It's not that big a deal."
+    },
+    {
+      "$id": 6,
+      "label": "qst400103_msg0006",
+      "style": 84,
+      "name": "So, how much are we talking?"
+    },
+    {
+      "$id": 7,
+      "label": "qst400103_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]I don't want to completely empty\nmy pockets... So after leaving a bit\nfor myself, let's say..."
+    },
+    {
+      "$id": 8,
+      "label": "qst400103_msg0008",
+      "style": 84,
+      "name": "[ML:Feeling ]Can you deliver 90,000G to\nCorrel of Iyasaki Village, please?"
+    },
+    {
+      "$id": 9,
+      "label": "qst400103_msg0009",
+      "style": 84,
+      "name": "Whew, that's quite the healthy sum.\nDid you haul up some huge treasure?"
+    },
+    {
+      "$id": 10,
+      "label": "qst400103_msg0010",
+      "style": 84,
+      "name": "Something like that.\nI took on a big job from the Chairman."
+    },
+    {
+      "$id": 11,
+      "label": "qst400103_msg0011",
+      "style": 84,
+      "name": "Now that sure sounds like a pie\nI'd like a piece of."
+    },
+    {
+      "$id": 12,
+      "label": "qst400103_msg0012",
+      "style": 84,
+      "name": "Oh yeah, I got a delivery for you too.\nGood thing you dropped by, else I'd've\nhad to track you down!"
+    },
+    {
+      "$id": 13,
+      "label": "qst400103_msg0013",
+      "style": 84,
+      "name": "It's from that same Auntie Correl\nof yours, actually."
+    },
+    {
+      "$id": 14,
+      "label": "qst400103_msg0014",
+      "style": 84,
+      "name": "Ohhh, it's Braised Cloud Sea Shark!"
+    },
+    {
+      "$id": 15,
+      "label": "qst400103_msg0015",
+      "style": 84,
+      "name": "Mmmm, it looks delicious...\nI'll have to dig in to that later."
+    },
+    {
+      "$id": 16,
+      "label": "qst400103_msg0016",
+      "style": 84,
+      "name": "Thanks, Max.\nTake care of that transfer for me, OK?"
+    },
+    {
+      "$id": 17,
+      "label": "qst400103_msg0017",
+      "style": 84,
+      "name": "You can count on me!"
+    },
+    {
+      "$id": 18,
+      "label": "qst400103_msg0018",
+      "style": 165,
+      "name": "How much shall I send?"
+    },
+    {
+      "$id": 19,
+      "label": "qst400103_msg0019",
+      "style": 165,
+      "name": "Send 90,000G"
+    },
+    {
+      "$id": 20,
+      "label": "qst400103_msg0020",
+      "style": 165,
+      "name": "Don't send anything yet."
+    }
+  ]
+}

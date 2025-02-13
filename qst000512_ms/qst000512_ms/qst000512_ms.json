@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000512_msg0001",
+      "style": 84,
+      "name": "私たち　交際を認めてもらえたの！"
+    },
+    {
+      "$id": 2,
+      "label": "qst000512_msg0002",
+      "style": 84,
+      "name": "これもあなた達のおかげね！\nありがとう！"
+    }
+  ]
+}

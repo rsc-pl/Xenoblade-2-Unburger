@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006001_02_msg0001",
+      "style": 84,
+      "name": "It not matter how much you visit,\nRex. Melolo still not giving you any\nspecial treatment!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk006001_02_msg0002",
+      "style": 84,
+      "name": "Rex should go spend little sum of\n200G on tasty treat like Samod.\nThat sure to cheer you up!"
+    }
+  ]
+}

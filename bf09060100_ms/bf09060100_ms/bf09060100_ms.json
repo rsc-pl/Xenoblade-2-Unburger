@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09060100_0010",
+      "style": 82,
+      "name": "Whoa!"
+    },
+    {
+      "$id": 2,
+      "label": "bf09060100_0020",
+      "style": 82,
+      "name": "Urgh-!"
+    },
+    {
+      "$id": 3,
+      "label": "bf09060100_0030",
+      "style": 82,
+      "name": "Urgh...!\nNow he summons even Divine Beasts?!"
+    },
+    {
+      "$id": 4,
+      "label": "bf09060100_0040",
+      "style": 82,
+      "name": "Yoshitsune, over there!"
+    },
+    {
+      "$id": 5,
+      "label": "bf09060100_0050",
+      "style": 82,
+      "name": "What?! Invidia?!"
+    },
+    {
+      "$id": 6,
+      "label": "bf09060100_0060",
+      "style": 82,
+      "name": "Curse that Marveni...\nIs every Divine Beast under his control?"
+    }
+  ]
+}

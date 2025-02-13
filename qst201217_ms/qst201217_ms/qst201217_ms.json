@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201217_msg0001",
+      "style": 84,
+      "name": "You're giving me a Whelzaman Cookie?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201217_msg0002",
+      "style": 84,
+      "name": "Mmm, smells nice!\nThanks!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201217_msg1001",
+      "style": 84,
+      "name": "Let's have a taste...\nOh wow! This is groundbreaking!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320159_01_msg0001",
+      "style": 84,
+      "name": "Not much to see past here.\nIt's all wasteland and power plants."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320159_01_msg0002",
+      "style": 84,
+      "name": "You'll want to watch out for\nmonsters, though."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320159_01_msg0003",
+      "style": 84,
+      "name": "We fend off the monsters out there\nto stop them getting into the city.\nThey're no walk in the park."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320159_01_msg0004",
+      "style": 84,
+      "name": "Even with our advanced Superbian\nsteam rifles, they don't go down easily."
+    }
+  ]
+}

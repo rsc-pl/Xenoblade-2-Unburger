@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4510012201_msg0001",
+      "style": 84,
+      "name": "Lunana Smoothies are so delicious..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4510012201_msg0002",
+      "style": 84,
+      "name": "I love playing games with Petir!\nThough that might be because\nI always win, haha!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4510012201_msg0003",
+      "style": 84,
+      "name": "My dad's going to Invidia soon, so I'm\ngonna ask him to buy us a new game\nthere! Bet you're jealous, huh?"
+    }
+  ]
+}

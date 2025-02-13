@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100152_03_msg0001",
+      "style": 84,
+      "name": "You helped our big brother out a lot,\ndidn't you? We're so grateful!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100152_03_msg0002",
+      "style": 84,
+      "name": "Thanks so much for helping us!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100152_03_msg0003",
+      "style": 84,
+      "name": "I don't think we'd have been\nreunited if it weren't for you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100152_03_msg0004",
+      "style": 84,
+      "name": "Oh, it's such a relief that Da\ncame back..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100152_03_msg0005",
+      "style": 84,
+      "name": "We've been playing this game that\nour big bro sent us together and it's\nsuper fun!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100152_03_msg0006",
+      "style": 84,
+      "name": "Ahh, when's Da going to be back?\nI really want us all to play the game\nthat our big bro sent us!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41100152_03_msg0007",
+      "style": 84,
+      "name": "I know my brother said my da did\nsome bad things, and that he won't\nbe back for a long time..."
+    },
+    {
+      "$id": 8,
+      "label": "tlk41100152_03_msg0008",
+      "style": 84,
+      "name": "But even if it takes years, or\neven decades, I still hope it'll\nall work out..."
+    }
+  ]
+}

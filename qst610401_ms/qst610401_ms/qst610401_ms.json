@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst610401_msg0001",
+      "style": 84,
+      "name": "You look like brave souls."
+    },
+    {
+      "$id": 2,
+      "label": "qst610401_msg0002",
+      "style": 84,
+      "name": "Here, let me tell you a rumor that's on\neverybody's lips in the Imperial Capital."
+    },
+    {
+      "$id": 3,
+      "label": "qst610401_msg0003",
+      "style": 84,
+      "name": "At the Bellyful Canteen down in the Old\nIndustrial District, ghosts are partying\nand keeping everyone up!"
+    },
+    {
+      "$id": 4,
+      "label": "qst610401_msg0004",
+      "style": 84,
+      "name": "I know, I know.\nYou don't believe me."
+    },
+    {
+      "$id": 5,
+      "label": "qst610401_msg0005",
+      "style": 84,
+      "name": "But I swear it's true."
+    },
+    {
+      "$id": 6,
+      "label": "qst610401_msg0006",
+      "style": 84,
+      "name": "It's not just one or two people who've\nheard these ghosts, you see."
+    },
+    {
+      "$id": 7,
+      "label": "qst610401_msg0007",
+      "style": 84,
+      "name": "My coworker plucked up his courage\nthe other night and headed on over.\nBut then he came running home..."
+    },
+    {
+      "$id": 8,
+      "label": "qst610401_msg0008",
+      "style": 84,
+      "name": "He kept going on about feeling terrible,\nlike something was going to burst out\nof his chest."
+    },
+    {
+      "$id": 9,
+      "label": "qst610401_msg0009",
+      "style": 84,
+      "name": "You're looking at me like I'm crazy.\nListen, get over there and check it out\nfor yourself. You'll see."
+    }
+  ]
+}

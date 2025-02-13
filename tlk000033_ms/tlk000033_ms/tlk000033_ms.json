@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000033_msg0001",
+      "style": 84,
+      "name": "So this is your hometown, is it, boy?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000033_msg0002",
+      "style": 84,
+      "name": "It reminds me somewhat of the place\nmy brother and I spent our childhood."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000033_msg0003",
+      "style": 84,
+      "name": "But do not bother yourself with me.\nPlease, relax and enjoy yourself."
+    }
+  ]
+}

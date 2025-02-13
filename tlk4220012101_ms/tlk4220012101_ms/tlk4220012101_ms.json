@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200121_01_msg0001",
+      "style": 84,
+      "name": "Hanahana come to this city on vacation!\nIs very nice and lively place!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200121_01_msg0002",
+      "style": 84,
+      "name": "Hanahana also see beautiful\nscene on way to here!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200121_01_msg0003",
+      "style": 84,
+      "name": "Driver was lending hand to\nother Driver who fell down,\ngetting them back on feet!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200121_01_msg0004",
+      "style": 84,
+      "name": "If comrade fall in battle, lend\nhelping hand to help recover..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42200121_01_msg0005",
+      "style": 84,
+      "name": "Such beautiful bond of friendship!\nMore pretty-pretty than prettiest\narty pictures!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103304_msg001",
+      "style": 62,
+      "name": "ごくろうさん(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst103304_msg101",
+      "style": 62,
+      "name": "兄ちゃんに元気だって伝えて(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst103304_msg0001",
+      "style": 84,
+      "name": "No Da, no Ma, no big bro..."
+    },
+    {
+      "$id": 4,
+      "label": "qst103304_msg0002",
+      "style": 84,
+      "name": "But with Zelen and Morca\naround, I don't feel so alone."
+    }
+  ]
+}

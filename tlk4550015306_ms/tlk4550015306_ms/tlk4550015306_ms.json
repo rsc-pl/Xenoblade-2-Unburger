@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500153_06_msg0001",
+      "style": 84,
+      "name": "Here's a bit of gossip I heard\nat the baths."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500153_06_msg0002",
+      "style": 84,
+      "name": "Apparently the Luxurian Divine Beast has\nshown its face in the Cloud Sea for the\nfirst time in forever!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500153_06_msg0003",
+      "style": 84,
+      "name": "Nobody had a clue where it was lurking\nfor years and years... I wonder what\nprompted this sudden development."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500153_06_msg0004",
+      "style": 84,
+      "name": "Rumor has it that something very\nsinister might be afoot."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45500153_06_msg0005",
+      "style": 84,
+      "name": "Though we seem to have a decent\nrelationship with them, so I suppose\nit could be a good thing for trade!"
+    }
+  ]
+}

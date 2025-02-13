@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701303_msg0001",
+      "style": 84,
+      "name": "ねえ　あれって！"
+    },
+    {
+      "$id": 2,
+      "label": "qst701303_msg0002",
+      "style": 84,
+      "name": "最悪ね"
+    },
+    {
+      "$id": 3,
+      "label": "qst701303_msg0003",
+      "style": 84,
+      "name": "その判断は[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst701303_msg0004",
+      "style": 84,
+      "name": "[ML:Dash ]動いてからでも遅くない！\nそうでしょ！？"
+    }
+  ]
+}

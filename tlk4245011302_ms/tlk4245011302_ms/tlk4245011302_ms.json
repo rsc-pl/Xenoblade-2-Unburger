@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450113_02_msg0001",
+      "style": 84,
+      "name": "Welcome to Lemour Inn!\nRest-place of all traders!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450113_02_msg0002",
+      "style": 84,
+      "name": "I'd like to rest up a bit."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450113_02_msg0003",
+      "style": 84,
+      "name": "Thank very much for custom!\nWe has rooms free!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42450113_02_msg0101",
+      "style": 84,
+      "name": "Was sleep pleasant?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42450113_02_msg0102",
+      "style": 84,
+      "name": "Yep, slept like a log."
+    },
+    {
+      "$id": 6,
+      "label": "tlk42450113_02_msg0103",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]Resting at an inn is so different from\nsleeping in that hut on Gramps' back..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk42450113_02_msg0104",
+      "style": 84,
+      "name": "I even feel like I've got a little stronger."
+    },
+    {
+      "$id": 8,
+      "label": "tlk42450113_02_msg0105",
+      "style": 84,
+      "name": "Right, time to head to the\nmeeting point!"
+    },
+    {
+      "$id": 9,
+      "label": "tlk42450113_02_msg0106",
+      "style": 84,
+      "name": "It was at Goldmund Exit Dock, right?"
+    },
+    {
+      "$id": 10,
+      "label": "tlk42450113_02_msg0107",
+      "style": 84,
+      "name": "[ML:Feeling ]Please taking care!"
+    },
+    {
+      "$id": 11,
+      "label": "tlk42450113_02_msg0201",
+      "style": 84,
+      "name": "Actually, I think I'll wait a bit\nlonger before resting up."
+    },
+    {
+      "$id": 12,
+      "label": "tlk42450113_02_msg0202",
+      "style": 84,
+      "name": "Very well! We always waiting!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104902_msg0001",
+      "style": 84,
+      "name": "Ohh, that face! Such eminent beauty!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104902_msg0002",
+      "style": 84,
+      "name": "I would like you to pick some of the\nelegant ice flowers that bloom near\nhere."
+    },
+    {
+      "$id": 3,
+      "label": "qst104902_msg0003",
+      "style": 84,
+      "name": "Just picturing your dazzling form\npicking those gorgeous flowers...\nOhh, fetch the smelling salts..."
+    },
+    {
+      "$id": 4,
+      "label": "qst104902_msg0101",
+      "style": 84,
+      "name": "So you choose not to grace me with\nyour beguiling companions? I see..."
+    },
+    {
+      "$id": 5,
+      "label": "qst104902_msg0102",
+      "style": 84,
+      "name": "Well, I'd like you to pick some ice\nflowers that bloom near here."
+    },
+    {
+      "$id": 6,
+      "label": "qst104902_msg0103",
+      "style": 84,
+      "name": "Don't bother me. I'm picturing the\nmoment where smoldering beauty\nmeets ice-cold flowers..."
+    }
+  ]
+}

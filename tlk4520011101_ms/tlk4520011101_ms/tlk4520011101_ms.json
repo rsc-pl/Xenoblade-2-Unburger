@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200111_01_msg0001",
+      "style": 84,
+      "name": "Hey, aren't Blades the coolest thing\neverrrr?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200111_01_msg0002",
+      "style": 84,
+      "name": "They're all like kapooow and use all\nthose flashy weapons, and they fight\nwith the power of friendship!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200111_01_msg0003",
+      "style": 84,
+      "name": "When I grow up, I wanna be a Driver\ntoo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200111_01_msg0004",
+      "style": 84,
+      "name": "Then I can get my own Blade and\nwe can be a team and it'll be the\nbest thing everrrr!!!"
+    }
+  ]
+}

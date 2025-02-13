@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200215_msg0001",
+      "style": 84,
+      "name": "We're missing two Divine Beastic Craniums\nand five Ancient Chalices."
+    },
+    {
+      "$id": 2,
+      "label": "qst200215_msg0002",
+      "style": 84,
+      "name": "Bring them here quick, all right?"
+    }
+  ]
+}

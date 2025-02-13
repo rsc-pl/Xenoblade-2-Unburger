@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000031_msg0001",
+      "style": 84,
+      "name": "Well, there sure is a whole lot of\nnothing out here. I'm seeing clouds,\nclouds, and...more clouds."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000031_msg0002",
+      "style": 84,
+      "name": "I guess I can see why you\nbecame a salvager, Rex."
+    }
+  ]
+}

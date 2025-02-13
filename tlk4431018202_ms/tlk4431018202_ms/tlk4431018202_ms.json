@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310182_02_msg0001",
+      "style": 84,
+      "name": "You guys are the worst...\nDoctors say it'll take me ten days\nto recover from your attacks."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310182_02_msg0002",
+      "style": 84,
+      "name": "Kidding, kidding! There's no hard\nfeelings, really. I should've been\nmade of stronger stuff."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310182_02_msg0003",
+      "style": 84,
+      "name": "Yeah, I'm actually rather embarrassed\nfor myself, so confident that you could\nnever take me on..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310182_02_msg0004",
+      "style": 84,
+      "name": "But at least now I know my weakness,\nso I can adjust my training regimen to\ncompensate, like a good soldier!"
+    }
+  ]
+}

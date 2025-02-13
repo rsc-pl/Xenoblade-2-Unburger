@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101805_msg001",
+      "style": 62,
+      "name": "LIST_QST101805仮実装"
+    },
+    {
+      "$id": 2,
+      "label": "qst101805_msg002",
+      "style": 62,
+      "name": "ブレイドを見せれば納得してくれるはずも"
+    },
+    {
+      "$id": 3,
+      "label": "qst101805_msg003",
+      "style": 62,
+      "name": "フォンス・マイムに居るかもしれないも"
+    },
+    {
+      "$id": 4,
+      "label": "qst101805_msg0001",
+      "style": 84,
+      "name": "Taadaa! 5,000G!"
+    },
+    {
+      "$id": 5,
+      "label": "qst101805_msg0002",
+      "style": 84,
+      "name": "This probably enough to pay off\nVahsah's debts."
+    },
+    {
+      "$id": 6,
+      "label": "qst101805_msg0003",
+      "style": 84,
+      "name": "Then Budada, Vahsah and friends can\nall go back to mercenary village."
+    }
+  ]
+}

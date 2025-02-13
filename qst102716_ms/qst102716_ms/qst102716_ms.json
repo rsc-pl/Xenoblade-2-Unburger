@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102716_msg001",
+      "style": 62,
+      "name": "イオンと幸せに暮らしてます(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst102716_msg0001",
+      "style": 84,
+      "name": "Ahhhhh...\nLately, even just sitting around\nputs a strain on my old bones."
+    },
+    {
+      "$id": 3,
+      "label": "qst102716_msg0002",
+      "style": 84,
+      "name": "I hope I at least manage to finish\nwriting this story..."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Elemental Core: Fire"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Elemental Core: Water"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Elemental Core: Wind"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Elemental Core: Earth"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Elemental Core: Electric"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Elemental Core: Ice"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Elemental Core: Light"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Elemental Core: Dark"
+    },
+    {
+      "$id": 9,
+      "style": 41,
+      "name": "Hana's element: Fire"
+    },
+    {
+      "$id": 10,
+      "style": 41,
+      "name": "Hana's element: Water"
+    },
+    {
+      "$id": 11,
+      "style": 41,
+      "name": "Hana's element: Wind"
+    },
+    {
+      "$id": 12,
+      "style": 41,
+      "name": "Hana's element: Earth"
+    },
+    {
+      "$id": 13,
+      "style": 41,
+      "name": "Hana's element: Electric"
+    },
+    {
+      "$id": 14,
+      "style": 41,
+      "name": "Hana's element: Ice"
+    },
+    {
+      "$id": 15,
+      "style": 41,
+      "name": "Hana's element: Light"
+    },
+    {
+      "$id": 16,
+      "style": 41,
+      "name": "Hana's element: Dark"
+    }
+  ]
+}

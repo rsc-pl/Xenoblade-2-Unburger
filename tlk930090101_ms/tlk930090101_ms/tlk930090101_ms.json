@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9300901_01_msg0001",
+      "style": 84,
+      "name": "I have the strangest feeling that\nsomeone is trying to keep me away\nfrom the village..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9300901_01_msg0002",
+      "style": 84,
+      "name": "I'm sure I'm just imagining things,\nthough...right?"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk401007_msg0001",
+      "style": 84,
+      "name": "Problems at the summit?\nA ridiculous notion!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk401007_msg0002",
+      "style": 84,
+      "name": "The summit will be held aboard this\nDivine Beast battleship, so we have no need\nto fear attacks from the outside."
+    },
+    {
+      "$id": 3,
+      "label": "tlk401007_msg0003",
+      "style": 84,
+      "name": "This door is the only entrance, and it\nwill not be opened until just before the\nsummit, to admit Queen Lagert."
+    },
+    {
+      "$id": 4,
+      "label": "tlk401007_msg0004",
+      "style": 84,
+      "name": "We have not allowed a single suspicious\nindividual to pass this point."
+    },
+    {
+      "$id": 5,
+      "label": "tlk401007_msg0005",
+      "style": 84,
+      "name": "As such, there is no need to fear\nattack from within, either!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf08530100_0010",
+      "style": 82,
+      "name": "I won't let..."
+    },
+    {
+      "$id": 2,
+      "label": "bf08530100_0015",
+      "style": 82,
+      "name": "Anyone near God!"
+    }
+  ]
+}

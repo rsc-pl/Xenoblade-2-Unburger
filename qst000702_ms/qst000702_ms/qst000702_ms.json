@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000703_msg001",
+      "style": 84,
+      "name": "どぉだすげぇだろ"
+    },
+    {
+      "$id": 2,
+      "label": "qst000703_msg002",
+      "style": 84,
+      "name": "マジかよ"
+    },
+    {
+      "$id": 3,
+      "label": "qst000703_msg003",
+      "style": 84,
+      "name": "先越された"
+    },
+    {
+      "$id": 4,
+      "label": "qst000703_msg004",
+      "style": 84,
+      "name": "良かったね"
+    },
+    {
+      "$id": 5,
+      "label": "qst000703_msg005",
+      "style": 84,
+      "name": "ありがと"
+    },
+    {
+      "$id": 6,
+      "label": "qst000702_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]A Snow-White Rhino!!!"
+    },
+    {
+      "$id": 7,
+      "label": "qst000702_msg0002",
+      "style": 84,
+      "name": "[ML:Feeling ]Amazing! So awesome!\nYou really went and got one!"
+    },
+    {
+      "$id": 8,
+      "label": "qst000702_msg0003",
+      "style": 84,
+      "name": "Man, is there anything Drivers can't do?"
+    },
+    {
+      "$id": 9,
+      "label": "qst000702_msg0004",
+      "style": 84,
+      "name": "I gotta go show Leif right away!"
+    },
+    {
+      "$id": 10,
+      "label": "qst000702_msg0005",
+      "style": 84,
+      "name": "C'mon, let's go to Garagorm's Arch!\nLeif's always loafing there!"
+    }
+  ]
+}

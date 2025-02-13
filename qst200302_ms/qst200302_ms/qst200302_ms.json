@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200302_msg0001",
+      "style": 84,
+      "name": "The rockfall's happened at Zalmor's\nCrevice, near the Genbu Drifts."
+    },
+    {
+      "$id": 2,
+      "label": "qst200302_msg0002",
+      "style": 84,
+      "name": "Please! Go save my friends!\nThey'll be doomed without you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200302_msg0101",
+      "style": 84,
+      "name": "To think the rockfall was caused\nby a Gogol... I can hardly believe it."
+    },
+    {
+      "$id": 4,
+      "label": "qst200302_msg0102",
+      "style": 84,
+      "name": "We just had a Gogol show up\nright here in Teos Aure, you see.\nWent on a proper rampage."
+    },
+    {
+      "$id": 5,
+      "label": "qst200302_msg0103",
+      "style": 84,
+      "name": "I'm afraid I don't know where\nit's got to now, though..."
+    },
+    {
+      "$id": 6,
+      "label": "qst200302_msg0104",
+      "style": 84,
+      "name": "You could try asking around the city?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200302_msg0201",
+      "style": 84,
+      "name": "It looks like the Gogol fled the city."
+    },
+    {
+      "$id": 8,
+      "label": "qst200302_msg0202",
+      "style": 84,
+      "name": "Maybe you could try tracking\nit down by its footprints?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200302_msg0203",
+      "style": 84,
+      "name": "If it's the same Gogol that's been\ncausing rockfalls and attacking cities,\nwe can't just leave it running loose."
+    },
+    {
+      "$id": 10,
+      "label": "qst200302_msg0204",
+      "style": 84,
+      "name": "You have to defeat that Gogol\nso we can live in safety again!"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst560210_msg0001",
+      "style": 84,
+      "name": "I am bard, traveling together with\nthree sisterpon."
+    },
+    {
+      "$id": 2,
+      "label": "qst560210_msg0002",
+      "style": 84,
+      "name": "Must be some kind of fate to meet here."
+    },
+    {
+      "$id": 3,
+      "label": "qst560210_msg0003",
+      "style": 84,
+      "name": "In recognition of occasion, will friends\nmaybe tell us story of adventures?"
+    },
+    {
+      "$id": 4,
+      "label": "qst560210_msg0004",
+      "style": 84,
+      "name": "Tell tales for Master Ether Mod?"
+    },
+    {
+      "$id": 5,
+      "label": "qst560210_msg0005",
+      "style": 84,
+      "name": "Tell 500,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst560210_msg0006",
+      "style": 84,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst560210_msg0101",
+      "style": 84,
+      "name": "Ah, is most riveting tale!"
+    },
+    {
+      "$id": 8,
+      "label": "qst560210_msg0102",
+      "style": 84,
+      "name": "I so glad I sneak onboard boat of\nsisterpon!"
+    },
+    {
+      "$id": 9,
+      "label": "qst560210_msg0103",
+      "style": 84,
+      "name": "...Ah, no, please pretend friends not\nhear that. Dibidi might give scolding\nif find out."
+    },
+    {
+      "$id": 10,
+      "label": "qst560210_msg0201",
+      "style": 84,
+      "name": "Not want to commemorate meeting?\nFiddlestickers..."
+    },
+    {
+      "$id": 11,
+      "label": "qst560210_msg0202",
+      "style": 84,
+      "name": "I traveling bard, piggybacking on\ntraveling sisterpon... Meaning I not free\nto choose own destination."
+    },
+    {
+      "$id": 12,
+      "label": "qst560210_msg0203",
+      "style": 84,
+      "name": "While am here, would like to at least\nhear some good stories..."
+    }
+  ]
+}

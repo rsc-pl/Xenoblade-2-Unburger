@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100161_04_msg0001",
+      "style": 84,
+      "name": "Um, excuse me!\nCould I bother you for a bit of help?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100161_04_msg0002",
+      "style": 84,
+      "name": "Been trying a bit of salvaging, and I\nmanaged to pull up a treasure trove!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100161_04_msg0003",
+      "style": 84,
+      "name": "But no matter what we do, we just\ncan't seem to open it. It really is a\npuzzler."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100161_04_msg0004",
+      "style": 84,
+      "name": "Um, don't suppose you know how?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk47100161_04_msg0005",
+      "style": 84,
+      "name": "Oh! You'll have a go?!\nYay! Great!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk47100161_04_msg0006",
+      "style": 84,
+      "name": "I'm counting on you!"
+    }
+  ]
+}

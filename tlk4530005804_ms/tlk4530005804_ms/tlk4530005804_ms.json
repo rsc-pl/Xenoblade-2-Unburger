@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4530005804_msg0001",
+      "style": 84,
+      "name": "I wonder what's going to happen to\nSuperbia from now on..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4530005804_msg0002",
+      "style": 84,
+      "name": "There's no telling what might happen,\nreally. Maybe we should make sure our\nmedicine stocks are fully replenished."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4530005804_msg0003",
+      "style": 84,
+      "name": "That might take a while, though,\ngiven how the Doctor goes about\ncollecting ingredients..."
+    }
+  ]
+}

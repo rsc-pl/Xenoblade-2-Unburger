@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_730_100_msg0001",
+      "style": 84,
+      "name": "目指すはメツが待つ\nイーラのコアだな"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_730_100_msg0002",
+      "style": 84,
+      "name": "そうだ"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_730_100_msg0003",
+      "style": 84,
+      "name": "ダナ砂漠を越えた先にある\nアルタナ大聖門を抜ければ\nイーラのコアへ進む道が開けるはずだ"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_730_100_msg0004",
+      "style": 84,
+      "name": "イーラ王国にとって\n重要な場所だから\n幾重にも封印があるんだが[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_730_100_msg0005",
+      "style": 84,
+      "name": "イーラの封印を持ち去ったメツは\n全て解除しただろうな[ML:Dash ]"
+    },
+    {
+      "$id": 6,
+      "label": "campfev11_730_100_msg0006",
+      "style": 84,
+      "name": "急いだ方がいいわね"
+    },
+    {
+      "$id": 7,
+      "label": "campfev11_730_100_msg0007",
+      "style": 84,
+      "name": "ああ"
+    },
+    {
+      "$id": 8,
+      "label": "campfev11_730_100_msg0008",
+      "style": 84,
+      "name": "イーラの巨神獣の本当の姿が\n晒されてしまった"
+    },
+    {
+      "$id": 9,
+      "label": "campfev11_730_100_msg0009",
+      "style": 84,
+      "name": "残された時間は少ない[ML:Dash ]"
+    }
+  ]
+}

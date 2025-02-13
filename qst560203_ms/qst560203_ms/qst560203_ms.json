@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660203_msg0001",
+      "style": 84,
+      "name": "I've been waiting for you!"
+    },
+    {
+      "$id": 2,
+      "label": "qst660203_msg0002",
+      "style": 84,
+      "name": "Yes, you. Your tales, your adventures...\nTell me of them, now, friend."
+    },
+    {
+      "$id": 3,
+      "label": "qst660203_msg0003",
+      "style": 84,
+      "name": "Put to sweet music, your deeds shall\nlive on in infamy throughout the ages!\nI'll throw in a little extra, too..."
+    },
+    {
+      "$id": 4,
+      "label": "qst660203_msg0004",
+      "style": 165,
+      "name": "Tell tales for an Overdrive Protocol?"
+    },
+    {
+      "$id": 5,
+      "label": "qst660203_msg0005",
+      "style": 165,
+      "name": "Tell 1,000,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst660203_msg0006",
+      "style": 165,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst660201_msg0021",
+      "style": 84,
+      "name": "Tell Stories"
+    },
+    {
+      "$id": 8,
+      "label": "qst660203_msg0101",
+      "style": 84,
+      "name": "Wonderful! Marvelous! \nWhat magnificent exploits!"
+    },
+    {
+      "$id": 9,
+      "label": "qst660203_msg0102",
+      "style": 84,
+      "name": "Your deeds will go down in history, \nthat's for sure."
+    },
+    {
+      "$id": 10,
+      "label": "qst660203_msg0103",
+      "style": 84,
+      "name": "Ah, but in sooth, I am not sated!\nWill this desire for tales of adventure\nand derring-do ever abate?"
+    },
+    {
+      "$id": 11,
+      "label": "qst660201_msg0026",
+      "style": 84,
+      "name": "Don't tell"
+    },
+    {
+      "$id": 12,
+      "label": "qst660203_msg0201",
+      "style": 84,
+      "name": "Too busy for telling stories, eh? \nI understand. The river of experience\ne'er flows, and waits for none."
+    },
+    {
+      "$id": 13,
+      "label": "qst660203_msg0202",
+      "style": 84,
+      "name": "But you will come back and speak with\nme when you have time, yes?"
+    },
+    {
+      "$id": 14,
+      "label": "qst660203_msg0203",
+      "style": 84,
+      "name": "Don't forget now!"
+    }
+  ]
+}

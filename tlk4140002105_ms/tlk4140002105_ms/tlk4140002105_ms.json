@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400021_05_msg0001",
+      "style": 84,
+      "name": "Thank goodness we managed to\navoid all-out war! That would've\nbeen a disaster, wouldn't it?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400021_05_msg0002",
+      "style": 84,
+      "name": "With nations at each other's throats,\ntrade would be awful, and nobody\nwould buy my woodcrafts!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400021_05_msg0003",
+      "style": 84,
+      "name": "I want to share the wonders of\nGulan woodcraft with people\nall across Alst!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400021_05_msg0004",
+      "style": 84,
+      "name": "War getting in the way of my dreams\nwould've been a real tragedy!"
+    }
+  ]
+}

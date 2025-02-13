@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400021_06_msg0001",
+      "style": 84,
+      "name": "Tons of refugees from Acedia have\narrived here in Trigo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400021_06_msg0002",
+      "style": 84,
+      "name": "This is the chance of a lifetime!\nI'm going to teach them all about the\nwonders of Gulan woodcrafts!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400021_06_msg0003",
+      "style": 84,
+      "name": "One look at my beautiful woodcrafts,\nand I'm sure they'll forget all about\ntheir woes!"
+    }
+  ]
+}

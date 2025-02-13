@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45450111_04_msg0001",
+      "style": 84,
+      "name": "I'm always trying to find time to\npractice my dancing with Harghal."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45450111_04_msg0002",
+      "style": 84,
+      "name": "She's really good, you know."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45450111_04_msg0003",
+      "style": 84,
+      "name": "I try to work hard to keep up with her,\nbut I don't feel like I'll ever be as good."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45450111_04_msg0004",
+      "style": 84,
+      "name": "It's like a dream to be able to do\nwhat I love for a living, so I have to\nmake sure my skills are up to scratch!"
+    }
+  ]
+}

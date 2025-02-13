@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400443_02_msg0001",
+      "style": 84,
+      "name": "War with Superbia's been avoided."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400443_02_msg0002",
+      "style": 84,
+      "name": "So why is the Invidian Army still\nhoarding food?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400443_02_msg0003",
+      "style": 84,
+      "name": "Are they still planning on war with\nSuperbia?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400443_02_msg0005",
+      "style": 84,
+      "name": "Will we have to survive on rations\nfor ever?"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420171_02_msg0001",
+      "style": 84,
+      "name": "Sure is a good thing my Blade's\nso powerful!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420171_02_msg0002",
+      "style": 84,
+      "name": "The other day my Blade found a poor\nsod who'd fallen onto Acedia's back."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420171_02_msg0003",
+      "style": 84,
+      "name": "She was from the refugee camp,\nsaid she didn't want any help from\na Blade. Got quite angry..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420171_02_msg0004",
+      "style": 84,
+      "name": "But we couldn't just leave her there\nlike that, so we had to manhandle\nher out of there!"
+    }
+  ]
+}

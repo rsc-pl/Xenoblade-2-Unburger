@@ -1,0 +1,3759 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "アイテム交換テスト"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Tricolor Ice Floe"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Sparkling Snowglobe"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Rainbow Scope"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Luxuria Icecube"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Divine Beast Illuminations"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Dried Rainbow Slug"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Dried Glitterspud"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Chikra Jam"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Dried Fusty Fungus"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Spark Pickles"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Dried Bipedal Crab"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Pickled Tuna"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Smoked Sand Salmon"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Dried Scented Salmon"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Hand over Chain of Keys."
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Muscle Branch"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Anchortail"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Tree Crab"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Sunflower Rogue"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Deer Wood"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Vinegar Leaf"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Wet Rat"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Clarity Moss"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Hexafly"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Snipe Pea"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Neon Grape"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Oil Branch"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Hill Firefly"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Horsecrab"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Millewire Pine"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Frozen Flan"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Bonito Sailfish"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Beelze Mosquito"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Ancient Star Compass"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Lucky Telefactor"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Stratospheric Hoop"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Linka Honey"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Trigo Marinade"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Campfire Skewers"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Adel's Embercakes"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Snowy Dudleya Gelée"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Steamflake Tabbouleh"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Prickly Snowpickle"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Hot Moonbeam Salad"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Adel's Supercakes"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Tasty Sausage"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Grumbird Casserole"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Albacon Frystack"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Mustard Kordeth"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Armu & Bean Stew"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Glarna Stir-Fry"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Roast Meat Tagliata"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Sunshine Pie"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Grilled Anchortail"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Grass-Smoked Salmon"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Aromalocaris Sauté"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Marine Stir-Fry"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Seared Whitebait"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Whitebait-Samod Hotpot"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Fish and Herb Broth"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Acqua Pearl Pazza"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Confusion Ivy"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Silent Wood"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "Wraithwood"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Twinkle Leaf"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Groove Wood"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Gypsum Branch"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Binding Roots"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Vermilion Bark"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Zero Bark"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Deer Wood"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Charcoal Leg"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Curse Branch"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Elima Leaf"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Hide 'n' Creeper"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Foolin' Ivy"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Muscle Branch"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Forrestone"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Black Ash"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Abyss Metal"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Deep Fellstone"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Nail Stone"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Mossy Panel"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Border Sapphire"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Dilemma Rock"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Glutinous Sand"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Rainbow Crystal"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Ripple Stone"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Shell Rock"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Dicy Stone"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Dragon Incense"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Slime Rock"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Platinatriumarine"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Sun-Dappled Curtains"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Trigo-Weave Mat"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Steamwork Organ"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Whispercorder"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "How Wars Profit Nopon"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Salvaging Made Easy"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Masterpieces of Alst"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "The Armu Who Loved"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Patron King's Carving"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Felmeri Fairy Statue"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "The Alrestogony"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "The Annals of Adel"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "Astrology Made Simple"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "Casta-Mutes"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Woodboard"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Clicky-Clacks"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Serenade"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Mix Recipe 1"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Mix Recipe 2"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Mix Recipe 3"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Mix Recipe 4"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Mix Recipe 5"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Round Dent"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Square Dent"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Release Parts"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Musubi’s Dumplings"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Rainbow Dumplings"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Gromrice Dumplings"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Puri Leaf Dumplings"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Choclit Dumplings"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Grilled Anchortail"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Estral Steak"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Grass-Smoked Salmon"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Wrapped Glarna Bake"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Armu T-Bone Steak"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Hotplate Fry-Up"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Steamed Bluegill"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Whitebait With Seeds"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Dolphin Carrot Sliders"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Meat & Lentil Skewer"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Grilled Salmon in Herbs"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Pastel Camill"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Albacon Frystack"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Sautéed Beat Shrimps"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Braised Cloud Sea Shark"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Melodious Melon Parfait"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Cinnopon Roll"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Sparklesugar"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Rainbow Parfait"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Blossom Custard"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Champ's Churros"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Fruity Rice Ball"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Plumage Peach Jelly"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Odifa Gelée Tart"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Steam-Gel Ice Cream"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Narcipear Jelly"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Sky-Jewel Tart"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Airy Snowflake Sherbet"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Thawing Mille-Feuille"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Baked Narcipear"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Sno-Bake Cheesecake"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Trigo Marinade"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "Steamed Veg Stralu"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Crispy Sauté"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Stuffed Meaty Carrot"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Puri Leaf Salad"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Snowy Dudleya Gelée"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Tasty Sausage"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Crispy Vegetable Salad"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Steamflake Tabbouleh"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "Lybarian Chowder"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "Green Cheese Salad"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "Vegetable Mille-Feuille"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "Veg & Oyster Aspic"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "Snowbaby Potato Salad"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "Sour-Spark-on-a-Stick"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Chunky Juice"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Fizz Juice"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Passion Fruit Shake"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Victory Smoothie"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Fizzy Lassi"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Crispy Blendshake"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "Juicy Samod"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Lightly Fried Rice"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Avaritia Noodle Soup"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "Massive Mushroom Pie"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "Bright Samod"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Tasty Kordeth Samod"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "Melodious Melon Parfait"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Cinnopon Roll"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Sparklesugar"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Fruity Rice Ball"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Narcipear Jelly"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Glitterbake"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Hot Moonbeam Salad"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Meatball Pot-au-Feu"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Fondant Rice Cake"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Luxurian Porridge"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Three-Cheese Puran"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Ruska Dumplings"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Ruska Noodle Goulash"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Abyssturgeon Medallion"
+    },
+    {
+      "$id": 197,
+      "style": 36,
+      "name": "Airy Snowflake Sherbet"
+    },
+    {
+      "$id": 198,
+      "style": 36,
+      "name": "Thawing Mille-Feuille"
+    },
+    {
+      "$id": 199,
+      "style": 36,
+      "name": "Baked Narcipear"
+    },
+    {
+      "$id": 200,
+      "style": 36,
+      "name": "Sno-Bake Cheesecake"
+    },
+    {
+      "$id": 201,
+      "style": 36,
+      "name": "Ardun Food 1"
+    },
+    {
+      "$id": 202,
+      "style": 36,
+      "name": "Ardun Food 2"
+    },
+    {
+      "$id": 203,
+      "style": 36,
+      "name": "Ardun Food 3"
+    },
+    {
+      "$id": 204,
+      "style": 36,
+      "name": "Ardun Food 4"
+    },
+    {
+      "$id": 205,
+      "style": 36,
+      "name": "Ardun Food 5"
+    },
+    {
+      "$id": 206,
+      "style": 36,
+      "name": "Juicy Ray Fin"
+    },
+    {
+      "$id": 207,
+      "style": 36,
+      "name": "Benign Cricket"
+    },
+    {
+      "$id": 208,
+      "style": 36,
+      "name": "Soft Sea Cucumber"
+    },
+    {
+      "$id": 209,
+      "style": 36,
+      "name": "Medicine Ingredients"
+    },
+    {
+      "$id": 210,
+      "style": 36,
+      "name": "Hezodron Petra"
+    },
+    {
+      "$id": 211,
+      "style": 36,
+      "name": "Rising Dragon Rock"
+    },
+    {
+      "$id": 212,
+      "style": 36,
+      "name": "Ripple Stone"
+    },
+    {
+      "$id": 213,
+      "style": 36,
+      "name": "Heroic Starsand"
+    },
+    {
+      "$id": 214,
+      "style": 36,
+      "name": "Acid Tomato"
+    },
+    {
+      "$id": 215,
+      "style": 36,
+      "name": "Death Mushroom"
+    },
+    {
+      "$id": 216,
+      "style": 36,
+      "name": "Walnut Grape"
+    },
+    {
+      "$id": 217,
+      "style": 36,
+      "name": "Hedron Stonefish"
+    },
+    {
+      "$id": 218,
+      "style": 36,
+      "name": "Poison Flash"
+    },
+    {
+      "$id": 219,
+      "style": 36,
+      "name": "Trippy Catfish"
+    },
+    {
+      "$id": 220,
+      "style": 36,
+      "name": "Glory Angler"
+    },
+    {
+      "$id": 221,
+      "style": 36,
+      "name": "Stained Pipe"
+    },
+    {
+      "$id": 222,
+      "style": 36,
+      "name": "Insect Chip"
+    },
+    {
+      "$id": 223,
+      "style": 36,
+      "name": "Grape Spring"
+    },
+    {
+      "$id": 224,
+      "style": 36,
+      "name": "Golden Cog"
+    },
+    {
+      "$id": 225,
+      "style": 36,
+      "name": "Modern Blue Gear"
+    },
+    {
+      "$id": 226,
+      "style": 36,
+      "name": "Mineral Appraisal"
+    },
+    {
+      "$id": 227,
+      "style": 36,
+      "name": "Trial Neon Cookies"
+    },
+    {
+      "$id": 228,
+      "style": 36,
+      "name": "Trial Hot Cookies"
+    },
+    {
+      "$id": 229,
+      "style": 36,
+      "name": "Trial Blood Cookies"
+    },
+    {
+      "$id": 230,
+      "style": 36,
+      "name": "Trial Snipe Flan"
+    },
+    {
+      "$id": 231,
+      "style": 36,
+      "name": "Trial Laughcaf Flan"
+    },
+    {
+      "$id": 232,
+      "style": 36,
+      "name": "Trial Romello Flan"
+    },
+    {
+      "$id": 233,
+      "style": 36,
+      "name": "Trial Flumbleflan"
+    },
+    {
+      "$id": 234,
+      "style": 36,
+      "name": "Trial Lovemerry Cake"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Trial Starlit Tart"
+    },
+    {
+      "$id": 236,
+      "style": 36,
+      "name": "Trial Starry Waffle"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Trial Glitterspud Cake"
+    },
+    {
+      "$id": 238,
+      "style": 36,
+      "name": "Whelzaman Cookie"
+    },
+    {
+      "$id": 239,
+      "style": 36,
+      "name": "Neon Cookies"
+    },
+    {
+      "$id": 240,
+      "style": 36,
+      "name": "Snipe Flan"
+    },
+    {
+      "$id": 241,
+      "style": 36,
+      "name": "Lovemerry Cake"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "50 Volt Battery"
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Dynamo Turbine"
+    },
+    {
+      "$id": 244,
+      "style": 36,
+      "name": "Screw Coil"
+    },
+    {
+      "$id": 245,
+      "style": 36,
+      "name": "Gold Condenser"
+    },
+    {
+      "$id": 246,
+      "style": 36,
+      "name": "Digital Filament"
+    },
+    {
+      "$id": 247,
+      "style": 36,
+      "name": "Fancy Rumble Spring"
+    },
+    {
+      "$id": 248,
+      "style": 36,
+      "name": "Mystery Cross"
+    },
+    {
+      "$id": 249,
+      "style": 36,
+      "name": "Butterfly Blackring"
+    },
+    {
+      "$id": 250,
+      "style": 36,
+      "name": "Photon Lens"
+    },
+    {
+      "$id": 251,
+      "style": 36,
+      "name": "Butterfly Board"
+    },
+    {
+      "$id": 252,
+      "style": 36,
+      "name": "Good View Set"
+    },
+    {
+      "$id": 253,
+      "style": 36,
+      "name": "Fighter's Style"
+    },
+    {
+      "$id": 254,
+      "style": 36,
+      "name": "Precious Quartz"
+    },
+    {
+      "$id": 255,
+      "style": 36,
+      "name": "Flame Flower"
+    },
+    {
+      "$id": 256,
+      "style": 36,
+      "name": "Mysterious Circles"
+    },
+    {
+      "$id": 257,
+      "style": 36,
+      "name": "Butterfly Coil Board"
+    },
+    {
+      "$id": 258,
+      "style": 36,
+      "name": "Luminous Art Set"
+    },
+    {
+      "$id": 259,
+      "style": 36,
+      "name": "Unknown Parts"
+    },
+    {
+      "$id": 260,
+      "style": 36,
+      "name": "Ancient Training Set"
+    },
+    {
+      "$id": 261,
+      "style": 36,
+      "name": "Zigzag Quartz"
+    },
+    {
+      "$id": 262,
+      "style": 36,
+      "name": "Cinq Set"
+    },
+    {
+      "$id": 263,
+      "style": 36,
+      "name": "Strong Snow Spring"
+    },
+    {
+      "$id": 264,
+      "style": 36,
+      "name": "Spiral Art"
+    },
+    {
+      "$id": 265,
+      "style": 36,
+      "name": "Gula Chain"
+    },
+    {
+      "$id": 266,
+      "style": 36,
+      "name": "Gula Plate"
+    },
+    {
+      "$id": 267,
+      "style": 36,
+      "name": "Gula Connector"
+    },
+    {
+      "$id": 268,
+      "style": 36,
+      "name": "Gula Mirror"
+    },
+    {
+      "$id": 269,
+      "style": 36,
+      "name": "Prison Break Game"
+    },
+    {
+      "$id": 270,
+      "style": 36,
+      "name": "Ancient Majesty"
+    },
+    {
+      "$id": 271,
+      "style": 36,
+      "name": "Helix Jungle Gear"
+    },
+    {
+      "$id": 272,
+      "style": 36,
+      "name": "Ancient Relics"
+    },
+    {
+      "$id": 273,
+      "style": 36,
+      "name": "Bion Head Chain"
+    },
+    {
+      "$id": 274,
+      "style": 36,
+      "name": "Trick Key Head"
+    },
+    {
+      "$id": 275,
+      "style": 36,
+      "name": "Helix Prison"
+    },
+    {
+      "$id": 276,
+      "style": 36,
+      "name": "Helix Orb"
+    },
+    {
+      "$id": 277,
+      "style": 36,
+      "name": "Art Set...?"
+    },
+    {
+      "$id": 278,
+      "style": 36,
+      "name": "Fünf Set"
+    },
+    {
+      "$id": 279,
+      "style": 36,
+      "name": "Triple Ring"
+    },
+    {
+      "$id": 280,
+      "style": 36,
+      "name": "Red Rotation"
+    },
+    {
+      "$id": 281,
+      "style": 36,
+      "name": "Lonely Fight"
+    },
+    {
+      "$id": 282,
+      "style": 36,
+      "name": "Giant Planet Chain"
+    },
+    {
+      "$id": 283,
+      "style": 36,
+      "name": "Dimensional Art"
+    },
+    {
+      "$id": 284,
+      "style": 36,
+      "name": "Butterfly Head Keyring"
+    },
+    {
+      "$id": 285,
+      "style": 36,
+      "name": "Plateboard Coilnector"
+    },
+    {
+      "$id": 286,
+      "style": 36,
+      "name": "FloFla Mirrorball"
+    },
+    {
+      "$id": 287,
+      "style": 36,
+      "name": "Digi-Quartz"
+    },
+    {
+      "$id": 288,
+      "style": 36,
+      "name": "Silver Angel"
+    },
+    {
+      "$id": 289,
+      "style": 36,
+      "name": "Thunder Bullet Shield"
+    },
+    {
+      "$id": 290,
+      "style": 36,
+      "name": "Vier Set"
+    },
+    {
+      "$id": 291,
+      "style": 36,
+      "name": "Crazy Components"
+    },
+    {
+      "$id": 292,
+      "style": 36,
+      "name": "Zigzag Winding Frame"
+    },
+    {
+      "$id": 293,
+      "style": 36,
+      "name": "Morph Vessel"
+    },
+    {
+      "$id": 294,
+      "style": 36,
+      "name": "Trick Photon Head"
+    },
+    {
+      "$id": 295,
+      "style": 36,
+      "name": "Cross Spiral"
+    },
+    {
+      "$id": 296,
+      "style": 36,
+      "name": "Butterfly Head Keyring"
+    },
+    {
+      "$id": 297,
+      "style": 36,
+      "name": "Plateboard Coilnector"
+    },
+    {
+      "$id": 298,
+      "style": 36,
+      "name": "Werewolf"
+    },
+    {
+      "$id": 299,
+      "style": 36,
+      "name": "Stained Fossil"
+    },
+    {
+      "$id": 300,
+      "style": 36,
+      "name": "Fine Art Connoisseur"
+    },
+    {
+      "$id": 301,
+      "style": 36,
+      "name": "Divine Beast Travel Map"
+    },
+    {
+      "$id": 302,
+      "style": 36,
+      "name": "Quatre Set"
+    },
+    {
+      "$id": 303,
+      "style": 36,
+      "name": "Iron Rabbitsnake"
+    },
+    {
+      "$id": 304,
+      "style": 36,
+      "name": "Spark of Lightning"
+    },
+    {
+      "$id": 305,
+      "style": 36,
+      "name": "Flash Army"
+    },
+    {
+      "$id": 306,
+      "style": 36,
+      "name": "Float Monitor"
+    },
+    {
+      "$id": 307,
+      "style": 36,
+      "name": "Gravity Army"
+    },
+    {
+      "$id": 308,
+      "style": 36,
+      "name": "Floating Dwarf"
+    },
+    {
+      "$id": 309,
+      "style": 36,
+      "name": "Ancient Canvas"
+    },
+    {
+      "$id": 310,
+      "style": 36,
+      "name": "Mermaid Tears"
+    },
+    {
+      "$id": 311,
+      "style": 36,
+      "name": "Gold Thunder Disc"
+    },
+    {
+      "$id": 312,
+      "style": 36,
+      "name": "Soldier's Equipment"
+    },
+    {
+      "$id": 313,
+      "style": 36,
+      "name": "FloFla Gravity"
+    },
+    {
+      "$id": 314,
+      "style": 36,
+      "name": "Dwarf's Army Dagger"
+    },
+    {
+      "$id": 315,
+      "style": 36,
+      "name": "Thunder Chalice"
+    },
+    {
+      "$id": 316,
+      "style": 36,
+      "name": "Magic Compass"
+    },
+    {
+      "$id": 317,
+      "style": 36,
+      "name": "Thunder & Moon Drops"
+    },
+    {
+      "$id": 318,
+      "style": 36,
+      "name": "Penta Set"
+    },
+    {
+      "$id": 319,
+      "style": 36,
+      "name": "Blue Grape Pipe"
+    },
+    {
+      "$id": 320,
+      "style": 36,
+      "name": "Bug Collector"
+    },
+    {
+      "$id": 321,
+      "style": 36,
+      "name": "Dress-Up Set"
+    },
+    {
+      "$id": 322,
+      "style": 36,
+      "name": "Moon Indicator"
+    },
+    {
+      "$id": 323,
+      "style": 36,
+      "name": "Moon Clock"
+    },
+    {
+      "$id": 324,
+      "style": 36,
+      "name": "Mirror Fleet"
+    },
+    {
+      "$id": 325,
+      "style": 36,
+      "name": "Shield Bullet"
+    },
+    {
+      "$id": 326,
+      "style": 36,
+      "name": "Ancient King"
+    },
+    {
+      "$id": 327,
+      "style": 36,
+      "name": "Insect Gear"
+    },
+    {
+      "$id": 328,
+      "style": 36,
+      "name": "Moon Ear Box"
+    },
+    {
+      "$id": 329,
+      "style": 36,
+      "name": "Moon Ear Clock"
+    },
+    {
+      "$id": 330,
+      "style": 36,
+      "name": "Bottle Ether Motor"
+    },
+    {
+      "$id": 331,
+      "style": 36,
+      "name": "Gold Knight"
+    },
+    {
+      "$id": 332,
+      "style": 36,
+      "name": "Pipe Grape Gear Case"
+    },
+    {
+      "$id": 333,
+      "style": 36,
+      "name": "Momentary Brilliance"
+    },
+    {
+      "$id": 334,
+      "style": 36,
+      "name": "Quinque Set"
+    },
+    {
+      "$id": 335,
+      "style": 36,
+      "name": "Otherworldly Sights"
+    },
+    {
+      "$id": 336,
+      "style": 36,
+      "name": "Magical Circle"
+    },
+    {
+      "$id": 337,
+      "style": 36,
+      "name": "Clock Devil Banner"
+    },
+    {
+      "$id": 338,
+      "style": 36,
+      "name": "Ancient Events"
+    },
+    {
+      "$id": 339,
+      "style": 36,
+      "name": "Shiny Things"
+    },
+    {
+      "$id": 340,
+      "style": 36,
+      "name": "Odd Things"
+    },
+    {
+      "$id": 341,
+      "style": 36,
+      "name": "Useful Things"
+    },
+    {
+      "$id": 342,
+      "style": 36,
+      "name": "Mysterious Things"
+    },
+    {
+      "$id": 343,
+      "style": 36,
+      "name": "Shield Barrel Scope"
+    },
+    {
+      "$id": 344,
+      "style": 36,
+      "name": "Ready to Ride"
+    },
+    {
+      "$id": 345,
+      "style": 36,
+      "name": "Mighty Yet Fallen"
+    },
+    {
+      "$id": 346,
+      "style": 36,
+      "name": "Exquisite Opulence"
+    },
+    {
+      "$id": 347,
+      "style": 36,
+      "name": "Handle With Care"
+    },
+    {
+      "$id": 348,
+      "style": 36,
+      "name": "Use As Instructed"
+    },
+    {
+      "$id": 349,
+      "style": 36,
+      "name": "Since Ancient Times"
+    },
+    {
+      "$id": 350,
+      "style": 36,
+      "name": "Lucky Charms"
+    },
+    {
+      "$id": 351,
+      "style": 36,
+      "name": "Chronicle"
+    },
+    {
+      "$id": 352,
+      "style": 36,
+      "name": "Jewel Set"
+    },
+    {
+      "$id": 353,
+      "style": 36,
+      "name": "Quattro Set"
+    },
+    {
+      "$id": 354,
+      "style": 36,
+      "name": "Tetra Set"
+    },
+    {
+      "$id": 355,
+      "style": 36,
+      "name": "Mirrorlens Keydagger"
+    },
+    {
+      "$id": 356,
+      "style": 36,
+      "name": "Glyph Monit-ear Ring"
+    },
+    {
+      "$id": 357,
+      "style": 36,
+      "name": "Arc Photogravion"
+    },
+    {
+      "$id": 358,
+      "style": 36,
+      "name": "Trick Clock"
+    },
+    {
+      "$id": 359,
+      "style": 36,
+      "name": "Fleating Planeterror"
+    },
+    {
+      "$id": 360,
+      "style": 36,
+      "name": "Harmottfly Bone"
+    },
+    {
+      "$id": 361,
+      "style": 36,
+      "name": "Magical Scope"
+    },
+    {
+      "$id": 362,
+      "style": 36,
+      "name": "Past Glories"
+    },
+    {
+      "$id": 363,
+      "style": 36,
+      "name": "Ancient Vehicle"
+    },
+    {
+      "$id": 364,
+      "style": 36,
+      "name": "Ancient Fanaticism"
+    },
+    {
+      "$id": 365,
+      "style": 36,
+      "name": "Magic Map"
+    },
+    {
+      "$id": 366,
+      "style": 36,
+      "name": "Jet-Black Scope"
+    },
+    {
+      "$id": 367,
+      "style": 36,
+      "name": "Astronomer"
+    },
+    {
+      "$id": 368,
+      "style": 36,
+      "name": "Mecha-Morph Shield"
+    },
+    {
+      "$id": 369,
+      "style": 36,
+      "name": "Sun-Bullet Barrel"
+    },
+    {
+      "$id": 370,
+      "style": 36,
+      "name": "Quad Set"
+    },
+    {
+      "$id": 371,
+      "style": 36,
+      "name": "Sweet Dreams"
+    },
+    {
+      "$id": 372,
+      "style": 36,
+      "name": "Heart Prism Cover"
+    },
+    {
+      "$id": 373,
+      "style": 36,
+      "name": "Clock Plate Lantern"
+    },
+    {
+      "$id": 374,
+      "style": 36,
+      "name": "Angel Claw"
+    },
+    {
+      "$id": 375,
+      "style": 36,
+      "name": "Ancient Memories"
+    },
+    {
+      "$id": 376,
+      "style": 36,
+      "name": "Heart Hook Media"
+    },
+    {
+      "$id": 377,
+      "style": 36,
+      "name": "Cloud Sea Mysteries"
+    },
+    {
+      "$id": 378,
+      "style": 36,
+      "name": "Claw Coffin"
+    },
+    {
+      "$id": 379,
+      "style": 36,
+      "name": "Amber Wing"
+    },
+    {
+      "$id": 380,
+      "style": 36,
+      "name": "Sunlight Angel"
+    },
+    {
+      "$id": 381,
+      "style": 36,
+      "name": "Fleeting Glimmers"
+    },
+    {
+      "$id": 382,
+      "style": 36,
+      "name": "Triple Set"
+    },
+    {
+      "$id": 383,
+      "style": 36,
+      "name": "Cyber Tail"
+    },
+    {
+      "$id": 384,
+      "style": 36,
+      "name": "Ancient Gears"
+    },
+    {
+      "$id": 385,
+      "style": 36,
+      "name": "Mechanical Parts"
+    },
+    {
+      "$id": 386,
+      "style": 36,
+      "name": "Bird Nut"
+    },
+    {
+      "$id": 387,
+      "style": 36,
+      "name": "Illusion"
+    },
+    {
+      "$id": 388,
+      "style": 36,
+      "name": "Perpetual Gleam"
+    },
+    {
+      "$id": 389,
+      "style": 36,
+      "name": "Do Not Touch"
+    },
+    {
+      "$id": 390,
+      "style": 36,
+      "name": "Clockwork Art"
+    },
+    {
+      "$id": 391,
+      "style": 36,
+      "name": "Ancient Records"
+    },
+    {
+      "$id": 392,
+      "style": 36,
+      "name": "Heavy Bullet"
+    },
+    {
+      "$id": 393,
+      "style": 36,
+      "name": "Coil Set"
+    },
+    {
+      "$id": 394,
+      "style": 36,
+      "name": "All That Glitters"
+    },
+    {
+      "$id": 395,
+      "style": 36,
+      "name": "Hollow Modern Panel"
+    },
+    {
+      "$id": 396,
+      "style": 36,
+      "name": "For Good Luck"
+    },
+    {
+      "$id": 397,
+      "style": 36,
+      "name": "Sea of Stars"
+    },
+    {
+      "$id": 398,
+      "style": 36,
+      "name": "Salvager Spirit"
+    },
+    {
+      "$id": 399,
+      "style": 36,
+      "name": "Tricolor Bowl"
+    },
+    {
+      "$id": 400,
+      "style": 36,
+      "name": "Adel's Supercakes"
+    },
+    {
+      "$id": 401,
+      "style": 36,
+      "name": "Pan-Fried Tartari"
+    },
+    {
+      "$id": 402,
+      "style": 36,
+      "name": "Roast Meat Tagliata"
+    },
+    {
+      "$id": 403,
+      "style": 36,
+      "name": "Sunshine Pie"
+    },
+    {
+      "$id": 404,
+      "style": 36,
+      "name": "Acqua Pearl Pazza"
+    },
+    {
+      "$id": 405,
+      "style": 36,
+      "name": "Salted Brog Sauté"
+    },
+    {
+      "$id": 406,
+      "style": 36,
+      "name": "Black Pomegranate"
+    },
+    {
+      "$id": 407,
+      "style": 36,
+      "name": "Blood Walnut"
+    },
+    {
+      "$id": 408,
+      "style": 36,
+      "name": "Sore Worm"
+    },
+    {
+      "$id": 409,
+      "style": 36,
+      "name": "Pound Viper"
+    },
+    {
+      "$id": 410,
+      "style": 36,
+      "name": "Dark Sprout"
+    },
+    {
+      "$id": 411,
+      "style": 36,
+      "name": "Frozen Odifa"
+    },
+    {
+      "$id": 412,
+      "style": 36,
+      "name": "Pipestraw Smoothie"
+    },
+    {
+      "$id": 413,
+      "style": 36,
+      "name": "Sphere Dolphin Oyster"
+    },
+    {
+      "$id": 414,
+      "style": 36,
+      "name": "Dwarf Snow Crawfish"
+    },
+    {
+      "$id": 415,
+      "style": 36,
+      "name": "Cute Fluffy Ears"
+    },
+    {
+      "$id": 416,
+      "style": 36,
+      "name": "Bottle Shrimp Fortuna"
+    },
+    {
+      "$id": 417,
+      "style": 36,
+      "name": "Bone-Pearl Lizard"
+    },
+    {
+      "$id": 418,
+      "style": 36,
+      "name": "Big Shiny Beetle"
+    },
+    {
+      "$id": 419,
+      "style": 36,
+      "name": "Black Urchin Reptile"
+    },
+    {
+      "$id": 420,
+      "style": 36,
+      "name": "Sunset Hero Dagger"
+    },
+    {
+      "$id": 421,
+      "style": 36,
+      "name": "Rizzente Mantle"
+    },
+    {
+      "$id": 422,
+      "style": 36,
+      "name": "Felt Cushioning"
+    },
+    {
+      "$id": 423,
+      "style": 36,
+      "name": "Brut Silk"
+    },
+    {
+      "$id": 424,
+      "style": 36,
+      "name": "Shelton Broadcloth"
+    },
+    {
+      "$id": 425,
+      "style": 36,
+      "name": "Crinkly Wool"
+    },
+    {
+      "$id": 426,
+      "style": 36,
+      "name": "Cherry Cheese Mousse"
+    },
+    {
+      "$id": 427,
+      "style": 36,
+      "name": "Neon Grape Flan"
+    },
+    {
+      "$id": 428,
+      "style": 36,
+      "name": "Lazy Crayfish"
+    },
+    {
+      "$id": 429,
+      "style": 36,
+      "name": "Juicy Samod"
+    },
+    {
+      "$id": 430,
+      "style": 36,
+      "name": "Lightly Fried Rice"
+    },
+    {
+      "$id": 431,
+      "style": 36,
+      "name": "Avaritia Noodle Soup"
+    },
+    {
+      "$id": 432,
+      "style": 36,
+      "name": "Massive Mushroom Pie"
+    },
+    {
+      "$id": 433,
+      "style": 36,
+      "name": "Grilled Anchortail"
+    },
+    {
+      "$id": 434,
+      "style": 36,
+      "name": "Oyster Stir-Fry"
+    },
+    {
+      "$id": 435,
+      "style": 36,
+      "name": "Melodious Melon Parfait"
+    },
+    {
+      "$id": 436,
+      "style": 36,
+      "name": "Cinnopon Roll"
+    },
+    {
+      "$id": 437,
+      "style": 36,
+      "name": "Sparklesugar"
+    },
+    {
+      "$id": 438,
+      "style": 36,
+      "name": "Twinklejuice"
+    },
+    {
+      "$id": 439,
+      "style": 36,
+      "name": "Fizz Juice"
+    },
+    {
+      "$id": 440,
+      "style": 36,
+      "name": "Chunky Juice"
+    },
+    {
+      "$id": 441,
+      "style": 36,
+      "name": "Pomegranate Soup"
+    },
+    {
+      "$id": 442,
+      "style": 36,
+      "name": "Sour-Spark-on-a-Stick"
+    },
+    {
+      "$id": 443,
+      "style": 36,
+      "name": "Black Roast Coffee"
+    },
+    {
+      "$id": 444,
+      "style": 36,
+      "name": "Jenerossi Tea"
+    },
+    {
+      "$id": 445,
+      "style": 36,
+      "name": "Tirkin Crab"
+    },
+    {
+      "$id": 446,
+      "style": 36,
+      "name": "Bizarre Soup"
+    },
+    {
+      "$id": 447,
+      "style": 36,
+      "name": "Trident Fish"
+    },
+    {
+      "$id": 448,
+      "style": 36,
+      "name": "Beautiful Bowl"
+    },
+    {
+      "$id": 449,
+      "style": 36,
+      "name": "Arbitrary Fish"
+    },
+    {
+      "$id": 450,
+      "style": 36,
+      "name": "Exotic Chips"
+    },
+    {
+      "$id": 451,
+      "style": 36,
+      "name": "Tirkin Sushi"
+    },
+    {
+      "$id": 452,
+      "style": 36,
+      "name": "Baked Redfish"
+    },
+    {
+      "$id": 453,
+      "style": 36,
+      "name": "Seafood Chowder"
+    },
+    {
+      "$id": 454,
+      "style": 36,
+      "name": "Haphazard Pie"
+    },
+    {
+      "$id": 455,
+      "style": 36,
+      "name": "Tirkin Curry"
+    },
+    {
+      "$id": 456,
+      "style": 36,
+      "name": "Buzzing Bouillabaisse"
+    },
+    {
+      "$id": 457,
+      "style": 36,
+      "name": "Premium Cylinder"
+    },
+    {
+      "$id": 458,
+      "style": 36,
+      "name": "Homura's Baked Redfish"
+    },
+    {
+      "$id": 459,
+      "style": 36,
+      "name": "Chrome Scarf"
+    },
+    {
+      "$id": 460,
+      "style": 36,
+      "name": "Gauntlet"
+    },
+    {
+      "$id": 461,
+      "style": 36,
+      "name": "Skeleton Hood"
+    },
+    {
+      "$id": 462,
+      "style": 36,
+      "name": "Fabulously Fierce Hat"
+    },
+    {
+      "$id": 463,
+      "style": 36,
+      "name": "Love Source"
+    },
+    {
+      "$id": 464,
+      "style": 36,
+      "name": "Booster Cylinder"
+    },
+    {
+      "$id": 465,
+      "style": 36,
+      "name": "Ellook Horn"
+    },
+    {
+      "$id": 466,
+      "style": 36,
+      "name": "Bio Gauntlet"
+    },
+    {
+      "$id": 467,
+      "style": 36,
+      "name": "Rebirth Amulet"
+    },
+    {
+      "$id": 468,
+      "style": 36,
+      "name": "Hero Vambraces"
+    },
+    {
+      "$id": 469,
+      "style": 36,
+      "name": "Holy Necklace"
+    },
+    {
+      "$id": 470,
+      "style": 36,
+      "name": "Tyrant Ring"
+    },
+    {
+      "$id": 471,
+      "style": 36,
+      "name": "Deviled Baguette"
+    },
+    {
+      "$id": 472,
+      "style": 36,
+      "name": "Survivalist's Sandwich"
+    },
+    {
+      "$id": 473,
+      "style": 36,
+      "name": "Spicy Scorpion Cookie"
+    },
+    {
+      "$id": 474,
+      "style": 36,
+      "name": "White-Hot Eggy Curry"
+    },
+    {
+      "$id": 475,
+      "style": 36,
+      "name": "Lily of the Sunny Valley"
+    },
+    {
+      "$id": 476,
+      "style": 36,
+      "name": "Glossy Chamomile"
+    },
+    {
+      "$id": 477,
+      "style": 36,
+      "name": "Sumpkin"
+    },
+    {
+      "$id": 478,
+      "style": 36,
+      "name": "Knit Hat with Cute Trim"
+    },
+    {
+      "$id": 479,
+      "style": 36,
+      "name": "Cap with Casual Trim"
+    },
+    {
+      "$id": 480,
+      "style": 36,
+      "name": "Support set"
+    },
+    {
+      "$id": 481,
+      "style": 36,
+      "name": "Lumber set"
+    },
+    {
+      "$id": 482,
+      "style": 36,
+      "name": "Walling set"
+    },
+    {
+      "$id": 483,
+      "style": 36,
+      "name": "Sour Avocado"
+    },
+    {
+      "$id": 484,
+      "style": 36,
+      "name": "Hustle Hyacinth"
+    },
+    {
+      "$id": 485,
+      "style": 36,
+      "name": "Lactonut"
+    },
+    {
+      "$id": 486,
+      "style": 36,
+      "name": "Ruby Pineapple"
+    },
+    {
+      "$id": 487,
+      "style": 36,
+      "name": "Berryhopper"
+    },
+    {
+      "$id": 488,
+      "style": 36,
+      "name": "Speckled Monarch"
+    },
+    {
+      "$id": 489,
+      "style": 36,
+      "name": "Sand Upa"
+    },
+    {
+      "$id": 490,
+      "style": 36,
+      "name": "Dharma Cricket"
+    },
+    {
+      "$id": 491,
+      "style": 36,
+      "name": "Munchygrub"
+    },
+    {
+      "$id": 492,
+      "style": 36,
+      "name": "Everyman Cicada"
+    },
+    {
+      "$id": 493,
+      "style": 36,
+      "name": "Sticky Stick Insect"
+    },
+    {
+      "$id": 494,
+      "style": 36,
+      "name": "Gregarious Scorpion"
+    },
+    {
+      "$id": 495,
+      "style": 36,
+      "name": "Lazure Swallowtail"
+    },
+    {
+      "$id": 496,
+      "style": 36,
+      "name": "Motley Cobra"
+    },
+    {
+      "$id": 497,
+      "style": 36,
+      "name": "Iiran Trout"
+    },
+    {
+      "$id": 498,
+      "style": 36,
+      "name": "Horned Sculpin"
+    },
+    {
+      "$id": 499,
+      "style": 36,
+      "name": "Tree Crab"
+    },
+    {
+      "$id": 500,
+      "style": 36,
+      "name": "Mint Fish"
+    },
+    {
+      "$id": 501,
+      "style": 36,
+      "name": "Amber Sweetfish"
+    },
+    {
+      "$id": 502,
+      "style": 36,
+      "name": "Grimdark Crab"
+    },
+    {
+      "$id": 503,
+      "style": 36,
+      "name": "Steel Salmon"
+    },
+    {
+      "$id": 504,
+      "style": 36,
+      "name": "Windyfish"
+    },
+    {
+      "$id": 505,
+      "style": 36,
+      "name": "Burred Clam"
+    },
+    {
+      "$id": 506,
+      "style": 36,
+      "name": "Bonytongue Shark"
+    },
+    {
+      "$id": 507,
+      "style": 36,
+      "name": "Inverse Bearing"
+    },
+    {
+      "$id": 508,
+      "style": 36,
+      "name": "Sunset Bracket"
+    },
+    {
+      "$id": 509,
+      "style": 36,
+      "name": "Hi-vis Wire"
+    },
+    {
+      "$id": 510,
+      "style": 36,
+      "name": "Suncog"
+    },
+    {
+      "$id": 511,
+      "style": 36,
+      "name": "Charged Shaft"
+    },
+    {
+      "$id": 512,
+      "style": 36,
+      "name": "Bat Hinge"
+    },
+    {
+      "$id": 513,
+      "style": 36,
+      "name": "Apple Lamp"
+    },
+    {
+      "$id": 514,
+      "style": 36,
+      "name": "Alloy Sheeting"
+    },
+    {
+      "$id": 515,
+      "style": 36,
+      "name": "Scarlet Coil"
+    },
+    {
+      "$id": 516,
+      "style": 36,
+      "name": "Ripple Lens"
+    },
+    {
+      "$id": 517,
+      "style": 36,
+      "name": "Geometric Gear"
+    },
+    {
+      "$id": 518,
+      "style": 36,
+      "name": "Deviled Baguette"
+    },
+    {
+      "$id": 519,
+      "style": 36,
+      "name": "Survivalist's Sandwich"
+    },
+    {
+      "$id": 520,
+      "style": 36,
+      "name": "Lucky Colorful Salad"
+    },
+    {
+      "$id": 521,
+      "style": 36,
+      "name": "Feris Quotelettas"
+    },
+    {
+      "$id": 522,
+      "style": 36,
+      "name": "White-Hot Eggy Curry"
+    },
+    {
+      "$id": 523,
+      "style": 36,
+      "name": "Ruby-Stew Buloofo"
+    },
+    {
+      "$id": 524,
+      "style": 36,
+      "name": "Trout Stralu"
+    },
+    {
+      "$id": 525,
+      "style": 36,
+      "name": "Ruska Dumpling Soup"
+    },
+    {
+      "$id": 526,
+      "style": 36,
+      "name": "Pickled Purses"
+    },
+    {
+      "$id": 527,
+      "style": 36,
+      "name": "Sweet-Stewed Sculpin"
+    },
+    {
+      "$id": 528,
+      "style": 36,
+      "name": "Plain Boiled Crab"
+    },
+    {
+      "$id": 529,
+      "style": 36,
+      "name": "Deep-Fried Iiran Fish"
+    },
+    {
+      "$id": 530,
+      "style": 36,
+      "name": "Whole Upa in a Bun"
+    },
+    {
+      "$id": 531,
+      "style": 36,
+      "name": "Sweet Feris Dumplings"
+    },
+    {
+      "$id": 532,
+      "style": 36,
+      "name": "Chaos Stralu"
+    },
+    {
+      "$id": 533,
+      "style": 36,
+      "name": "Rich Platinum Bonbon"
+    },
+    {
+      "$id": 534,
+      "style": 36,
+      "name": "Puréed Sculpin Parfait"
+    },
+    {
+      "$id": 535,
+      "style": 36,
+      "name": "Spicy Scorpion Cookie"
+    },
+    {
+      "$id": 536,
+      "style": 36,
+      "name": "Inconceivable Pudding"
+    },
+    {
+      "$id": 537,
+      "style": 36,
+      "name": "Grisly Mille-Feuille"
+    },
+    {
+      "$id": 538,
+      "style": 36,
+      "name": "Ascension Waffles"
+    },
+    {
+      "$id": 539,
+      "style": 36,
+      "name": "Miracle Parfait"
+    },
+    {
+      "$id": 540,
+      "style": 36,
+      "name": "Curious Rotting Leaves"
+    },
+    {
+      "$id": 541,
+      "style": 36,
+      "name": "Shepherd's Coronet"
+    },
+    {
+      "$id": 542,
+      "style": 36,
+      "name": "Platinum Shroom"
+    },
+    {
+      "$id": 543,
+      "style": 36,
+      "name": "Ocean Eye"
+    },
+    {
+      "$id": 544,
+      "style": 36,
+      "name": "Feris Beastmeat"
+    },
+    {
+      "$id": 545,
+      "style": 36,
+      "name": "Buloofo Beastmeat"
+    },
+    {
+      "$id": 546,
+      "style": 36,
+      "name": "Rhogul Birdmeat"
+    },
+    {
+      "$id": 547,
+      "style": 36,
+      "name": "Bunnit Bunnymeat"
+    },
+    {
+      "$id": 548,
+      "style": 36,
+      "name": "Melosian Honey"
+    },
+    {
+      "$id": 549,
+      "style": 36,
+      "name": "Dicy Stone"
+    },
+    {
+      "$id": 550,
+      "style": 36,
+      "name": "Dilemma Rock"
+    },
+    {
+      "$id": 551,
+      "style": 36,
+      "name": "Planetary Crystal"
+    },
+    {
+      "$id": 552,
+      "style": 36,
+      "name": "Murakmor's Flashstone"
+    },
+    {
+      "$id": 553,
+      "style": 36,
+      "name": "Vibrant Flamii Wing"
+    },
+    {
+      "$id": 554,
+      "style": 36,
+      "name": "Broken Tirkin Spear"
+    },
+    {
+      "$id": 555,
+      "style": 36,
+      "name": "Moramora Pearl"
+    },
+    {
+      "$id": 556,
+      "style": 36,
+      "name": "Indigo Slate Piece"
+    },
+    {
+      "$id": 557,
+      "style": 36,
+      "name": "Dawning Slate Piece"
+    },
+    {
+      "$id": 558,
+      "style": 36,
+      "name": "Crimson Slate Piece"
+    },
+    {
+      "$id": 559,
+      "style": 36,
+      "name": "Rusty Slate Piece"
+    },
+    {
+      "$id": 560,
+      "style": 36,
+      "name": "Purple Slate Piece"
+    },
+    {
+      "$id": 561,
+      "style": 36,
+      "name": "Chestnut Slate Piece"
+    },
+    {
+      "$id": 562,
+      "style": 36,
+      "name": "Cinnabar Slate Piece"
+    },
+    {
+      "$id": 563,
+      "style": 36,
+      "name": "Scarlet Slate Piece"
+    },
+    {
+      "$id": 564,
+      "style": 36,
+      "name": "Navy-Blue Slate Piece"
+    },
+    {
+      "$id": 565,
+      "style": 36,
+      "name": "Inky Slate Piece"
+    },
+    {
+      "$id": 566,
+      "style": 36,
+      "name": "Cherry Slate Piece"
+    },
+    {
+      "$id": 567,
+      "style": 36,
+      "name": "Peach Slate Piece"
+    },
+    {
+      "$id": 568,
+      "style": 36,
+      "name": "Dark-Gray Slate Piece"
+    },
+    {
+      "$id": 569,
+      "style": 36,
+      "name": "Leaden Slate Piece"
+    },
+    {
+      "$id": 570,
+      "style": 36,
+      "name": "Moss-Green Slate Piece"
+    },
+    {
+      "$id": 571,
+      "style": 36,
+      "name": "Hollyhock Slate Piece"
+    },
+    {
+      "$id": 572,
+      "style": 36,
+      "name": "Cotton Charm"
+    },
+    {
+      "$id": 573,
+      "style": 36,
+      "name": "Organic Charm"
+    },
+    {
+      "$id": 574,
+      "style": 36,
+      "name": "Traveler's Charm"
+    },
+    {
+      "$id": 575,
+      "style": 36,
+      "name": "Batwing Charm"
+    },
+    {
+      "$id": 576,
+      "style": 36,
+      "name": "Burly Charm"
+    },
+    {
+      "$id": 577,
+      "style": 36,
+      "name": "Sword Charm"
+    },
+    {
+      "$id": 578,
+      "style": 36,
+      "name": "Mechanical Charm"
+    },
+    {
+      "$id": 579,
+      "style": 36,
+      "name": "Rynea's Charm"
+    },
+    {
+      "$id": 580,
+      "style": 36,
+      "name": "Hollow Charm"
+    },
+    {
+      "$id": 581,
+      "style": 36,
+      "name": "Galaxy Charm"
+    },
+    {
+      "$id": 582,
+      "style": 36,
+      "name": "Sweet Nothings"
+    },
+    {
+      "$id": 583,
+      "style": 36,
+      "name": "Glutton's Mask"
+    },
+    {
+      "$id": 584,
+      "style": 36,
+      "name": "Firmament Ring"
+    },
+    {
+      "$id": 585,
+      "style": 36,
+      "name": "Mirror of Vanishing"
+    },
+    {
+      "$id": 586,
+      "style": 36,
+      "name": "Critic's Fan"
+    },
+    {
+      "$id": 587,
+      "style": 36,
+      "name": "Box of Legions"
+    },
+    {
+      "$id": 588,
+      "style": 36,
+      "name": "Comb of Prosperity"
+    },
+    {
+      "$id": 589,
+      "style": 36,
+      "name": "Chain of Many Hues"
+    },
+    {
+      "$id": 590,
+      "style": 36,
+      "name": "Lightning-Speed Flag"
+    },
+    {
+      "$id": 591,
+      "style": 36,
+      "name": "Koto of Self-Interest"
+    },
+    {
+      "$id": 592,
+      "style": 36,
+      "name": "Bell of Idyll"
+    },
+    {
+      "$id": 593,
+      "style": 36,
+      "name": "Astronomer's Pot"
+    },
+    {
+      "$id": 594,
+      "style": 36,
+      "name": "Telepathic Bell"
+    },
+    {
+      "$id": 595,
+      "style": 36,
+      "name": "Blinding-Fast Wing"
+    },
+    {
+      "$id": 596,
+      "style": 36,
+      "name": "Tiger-Winged Helmet"
+    },
+    {
+      "$id": 597,
+      "style": 36,
+      "name": "Addamcraft 15 (prov)"
+    },
+    {
+      "$id": 598,
+      "style": 36,
+      "name": "Silver Seeker"
+    },
+    {
+      "$id": 599,
+      "style": 36,
+      "name": "Golden Seeker"
+    },
+    {
+      "$id": 600,
+      "style": 36,
+      "name": "Prism Pickaxe"
+    },
+    {
+      "$id": 601,
+      "style": 36,
+      "name": "Fragrantine"
+    },
+    {
+      "$id": 602,
+      "style": 36,
+      "name": "Rock-Hard Plaster"
+    },
+    {
+      "$id": 603,
+      "style": 36,
+      "name": "Electricite"
+    },
+    {
+      "$id": 604,
+      "style": 36,
+      "name": "Droppicium"
+    },
+    {
+      "$id": 605,
+      "style": 36,
+      "name": "Heart Compass"
+    },
+    {
+      "$id": 606,
+      "style": 36,
+      "name": "Wing Booster"
+    },
+    {
+      "$id": 607,
+      "style": 36,
+      "name": "Perpetual Music Box"
+    },
+    {
+      "$id": 608,
+      "style": 36,
+      "name": "Jamming Megaphone"
+    },
+    {
+      "$id": 609,
+      "style": 36,
+      "name": "Armored Rucksack"
+    },
+    {
+      "$id": 610,
+      "style": 36,
+      "name": "Golden Mug"
+    },
+    {
+      "$id": 611,
+      "style": 36,
+      "name": "Scarlet Rocket"
+    },
+    {
+      "$id": 612,
+      "style": 36,
+      "name": "Hugo's Gold Detector"
+    },
+    {
+      "$id": 613,
+      "style": 36,
+      "name": "Deviled Baguette"
+    },
+    {
+      "$id": 614,
+      "style": 36,
+      "name": "Survivalist's Sandwich"
+    },
+    {
+      "$id": 615,
+      "style": 36,
+      "name": "Lucky Colorful Salad"
+    },
+    {
+      "$id": 616,
+      "style": 36,
+      "name": "Feris Quotelettas"
+    },
+    {
+      "$id": 617,
+      "style": 36,
+      "name": "White-Hot Eggy Curry"
+    },
+    {
+      "$id": 618,
+      "style": 36,
+      "name": "Ruby-Stew Buloofo"
+    },
+    {
+      "$id": 619,
+      "style": 36,
+      "name": "Trout Stralu"
+    },
+    {
+      "$id": 620,
+      "style": 36,
+      "name": "Rich Platinum Bonbon"
+    },
+    {
+      "$id": 621,
+      "style": 36,
+      "name": "Energy Stir-Fry"
+    },
+    {
+      "$id": 622,
+      "style": 36,
+      "name": "Wildflower Salad"
+    },
+    {
+      "$id": 623,
+      "style": 36,
+      "name": "XL Magma Sauté"
+    },
+    {
+      "$id": 624,
+      "style": 36,
+      "name": "Bunnit-Stuffed Peppers"
+    },
+    {
+      "$id": 625,
+      "style": 36,
+      "name": "Fried Tartari à la Shin"
+    },
+    {
+      "$id": 626,
+      "style": 36,
+      "name": "Chilsainian Kascha"
+    },
+    {
+      "$id": 627,
+      "style": 36,
+      "name": "Wingberry Cake"
+    },
+    {
+      "$id": 628,
+      "style": 36,
+      "name": "Soothing Talisman"
+    },
+    {
+      "$id": 629,
+      "style": 36,
+      "name": "Bright Talisman"
+    },
+    {
+      "$id": 630,
+      "style": 36,
+      "name": "Unforgettable Talisman"
+    },
+    {
+      "$id": 631,
+      "style": 36,
+      "name": "Mystery Talisman"
+    },
+    {
+      "$id": 632,
+      "style": 36,
+      "name": "Exorcising Talisman"
+    },
+    {
+      "$id": 633,
+      "style": 36,
+      "name": "Fierce Talisman"
+    },
+    {
+      "$id": 634,
+      "style": 36,
+      "name": "Farsighted Talisman"
+    },
+    {
+      "$id": 635,
+      "style": 36,
+      "name": "Swordstrike Talisman"
+    },
+    {
+      "$id": 636,
+      "style": 36,
+      "name": "Unbreakable Talisman"
+    },
+    {
+      "$id": 637,
+      "style": 36,
+      "name": "Golden Land Talisman"
+    },
+    {
+      "$id": 638,
+      "style": 36,
+      "name": "Whole Upa in a Bun"
+    },
+    {
+      "$id": 639,
+      "style": 36,
+      "name": "Sweet Feris Dumplings"
+    },
+    {
+      "$id": 640,
+      "style": 36,
+      "name": "Chaos Stralu"
+    },
+    {
+      "$id": 641,
+      "style": 36,
+      "name": "Puréed Sculpin Parfait"
+    },
+    {
+      "$id": 642,
+      "style": 36,
+      "name": "Spicy Scorpion Cookie"
+    },
+    {
+      "$id": 643,
+      "style": 36,
+      "name": "Inconceivable Pudding"
+    },
+    {
+      "$id": 644,
+      "style": 36,
+      "name": "Grisly Mille-Feuille"
+    },
+    {
+      "$id": 645,
+      "style": 36,
+      "name": "Moisturizing Bagel"
+    },
+    {
+      "$id": 646,
+      "style": 36,
+      "name": "Chilsainian Kascha DX"
+    },
+    {
+      "$id": 647,
+      "style": 36,
+      "name": "Ruby-Stew Buloofo DX"
+    },
+    {
+      "$id": 648,
+      "style": 36,
+      "name": "Love-Hate Sausage"
+    },
+    {
+      "$id": 649,
+      "style": 36,
+      "name": "Caramelized Seafood"
+    },
+    {
+      "$id": 650,
+      "style": 36,
+      "name": "Ascension Waffles"
+    },
+    {
+      "$id": 651,
+      "style": 36,
+      "name": "Literally Killer Tart"
+    },
+    {
+      "$id": 652,
+      "style": 36,
+      "name": "Miracle Parfait"
+    },
+    {
+      "$id": 653,
+      "style": 36,
+      "name": "A Happy Encounter"
+    },
+    {
+      "$id": 654,
+      "style": 36,
+      "name": "Beyond Endless Dunes"
+    },
+    {
+      "$id": 655,
+      "style": 36,
+      "name": "The Quaestor"
+    },
+    {
+      "$id": 656,
+      "style": 36,
+      "name": "The Capital Under Fire"
+    },
+    {
+      "$id": 657,
+      "style": 36,
+      "name": "The Knight of Iira"
+    },
+    {
+      "$id": 658,
+      "style": 36,
+      "name": "Preparing for the Worst"
+    },
+    {
+      "$id": 659,
+      "style": 36,
+      "name": "What You Must Protect"
+    },
+    {
+      "$id": 660,
+      "style": 36,
+      "name": "The Aegis"
+    },
+    {
+      "$id": 661,
+      "style": 36,
+      "name": "Community Spirit"
+    },
+    {
+      "$id": 662,
+      "style": 36,
+      "name": "Winterwind Perfume"
+    },
+    {
+      "$id": 663,
+      "style": 36,
+      "name": "Spring Revival Perfume"
+    },
+    {
+      "$id": 664,
+      "style": 36,
+      "name": "Dignified Perfume"
+    },
+    {
+      "$id": 665,
+      "style": 36,
+      "name": "Evilbane Perfume"
+    },
+    {
+      "$id": 666,
+      "style": 36,
+      "name": "Hopeful Perfume"
+    },
+    {
+      "$id": 667,
+      "style": 36,
+      "name": "Resurrection Perfume"
+    },
+    {
+      "$id": 668,
+      "style": 36,
+      "name": "Serenity Perfume"
+    },
+    {
+      "$id": 669,
+      "style": 36,
+      "name": "Exquisite Perfume"
+    },
+    {
+      "$id": 670,
+      "style": 36,
+      "name": "Pestronella Oil"
+    },
+    {
+      "$id": 671,
+      "style": 36,
+      "name": "Eternity Perfume"
+    },
+    {
+      "$id": 672,
+      "style": 36,
+      "name": "Ruska Dumpling Soup"
+    },
+    {
+      "$id": 673,
+      "style": 36,
+      "name": "Ruska Veggie Hot-Pot"
+    },
+    {
+      "$id": 674,
+      "style": 36,
+      "name": "Pickled Purses"
+    },
+    {
+      "$id": 675,
+      "style": 36,
+      "name": "Rhogul à la Ardainaise"
+    },
+    {
+      "$id": 676,
+      "style": 36,
+      "name": "Sweet-Stewed Sculpin"
+    },
+    {
+      "$id": 677,
+      "style": 36,
+      "name": "Gulan Sashimi Plate"
+    },
+    {
+      "$id": 678,
+      "style": 36,
+      "name": "Deep-Fried Iiran Fish"
+    },
+    {
+      "$id": 679,
+      "style": 36,
+      "name": "Plain Boiled Crab"
+    },
+    {
+      "$id": 680,
+      "style": 36,
+      "name": "Coeian-Style Fry-Up"
+    },
+    {
+      "$id": 681,
+      "style": 36,
+      "name": "Sumpkin Griddle Cakes"
+    },
+    {
+      "$id": 682,
+      "style": 36,
+      "name": "Hyber Meatball Stew"
+    },
+    {
+      "$id": 683,
+      "style": 36,
+      "name": "Hustle Marinade"
+    },
+    {
+      "$id": 684,
+      "style": 36,
+      "name": "Bonytongue Casserole"
+    },
+    {
+      "$id": 685,
+      "style": 36,
+      "name": "Steel Salmon Tempura"
+    },
+    {
+      "$id": 686,
+      "style": 36,
+      "name": "Fisherman's Feast"
+    },
+    {
+      "$id": 687,
+      "style": 36,
+      "name": "XL Magma Sauté"
+    },
+    {
+      "$id": 688,
+      "style": 36,
+      "name": "Bunnit-Stuffed Peppers"
+    },
+    {
+      "$id": 689,
+      "style": 36,
+      "name": "Disguised Homura"
+    },
+    {
+      "$id": 690,
+      "style": 36,
+      "name": "Hana's Skill RAM 1"
+    },
+    {
+      "$id": 691,
+      "style": 36,
+      "name": "Hana's Skill RAM 2"
+    },
+    {
+      "$id": 692,
+      "style": 36,
+      "name": "Hana's Skill RAM 3"
+    },
+    {
+      "$id": 693,
+      "style": 36,
+      "name": "Hana's Skill RAM 4"
+    },
+    {
+      "$id": 694,
+      "style": 36,
+      "name": "Molten Salsa"
+    },
+    {
+      "$id": 695,
+      "style": 36,
+      "name": "Blazing Quoteletta"
+    },
+    {
+      "$id": 696,
+      "style": 36,
+      "name": "Brimstone Tartari"
+    },
+    {
+      "$id": 697,
+      "style": 36,
+      "name": "White-Hot Eggy Curry"
+    },
+    {
+      "$id": 698,
+      "style": 36,
+      "name": "Homura's Acqua Pazza"
+    },
+    {
+      "$id": 699,
+      "style": 36,
+      "name": "Hana's Skill RAM 5"
+    },
+    {
+      "$id": 700,
+      "style": 36,
+      "name": "Hana's Skill RAM 6"
+    },
+    {
+      "$id": 701,
+      "style": 36,
+      "name": "Hana's Skill RAM 7"
+    },
+    {
+      "$id": 702,
+      "style": 36,
+      "name": "Hana's Skill RAM 8"
+    },
+    {
+      "$id": 703,
+      "style": 36,
+      "name": "Hana's Skill RAM 9"
+    },
+    {
+      "$id": 704,
+      "style": 36,
+      "name": "Hana's Skill RAM 10"
+    },
+    {
+      "$id": 705,
+      "style": 36,
+      "name": "Prototype Suit Rex"
+    },
+    {
+      "$id": 706,
+      "style": 36,
+      "name": "Candy Stripe Nia"
+    },
+    {
+      "$id": 707,
+      "style": 36,
+      "name": "Buster-Mode Tora"
+    },
+    {
+      "$id": 708,
+      "style": 36,
+      "name": "Dress Uniform Meleph"
+    },
+    {
+      "$id": 709,
+      "style": 36,
+      "name": "Embercake Zeke"
+    },
+    {
+      "$id": 710,
+      "style": 36,
+      "name": "Hikari-chan-like Homura"
+    },
+    {
+      "$id": 711,
+      "style": 36,
+      "name": "Homura-Style Hikari"
+    },
+    {
+      "$id": 712,
+      "style": 36,
+      "name": "Savage Byakko"
+    },
+    {
+      "$id": 713,
+      "style": 36,
+      "name": "Crimson Orchid Kagutsuchi"
+    },
+    {
+      "$id": 714,
+      "style": 36,
+      "name": "Mermaid-Blue Saika"
+    },
+    {
+      "$id": 715,
+      "style": 36,
+      "name": "Trout Stralu"
+    },
+    {
+      "$id": 716,
+      "style": 36,
+      "name": "Tora Idea Boost: Brav."
+    },
+    {
+      "$id": 717,
+      "style": 36,
+      "name": "Tora Idea Boost: Truth"
+    },
+    {
+      "$id": 718,
+      "style": 36,
+      "name": "Tora Idea Boost: Comp."
+    },
+    {
+      "$id": 719,
+      "style": 36,
+      "name": "Tora Idea Boost: Just."
+    },
+    {
+      "$id": 720,
+      "style": 36,
+      "name": "Cloud Sea King Rex"
+    },
+    {
+      "$id": 721,
+      "style": 36,
+      "name": "Blood Witch Nia"
+    },
+    {
+      "$id": 722,
+      "style": 36,
+      "name": "Scarlet Inquisitor Meleph"
+    },
+    {
+      "$id": 723,
+      "style": 36,
+      "name": "Blue Sky Homura"
+    },
+    {
+      "$id": 724,
+      "style": 36,
+      "name": "Carbon Hikari"
+    },
+    {
+      "$id": 725,
+      "style": 36,
+      "name": "Obsidian Byakko"
+    },
+    {
+      "$id": 726,
+      "style": 36,
+      "name": "Jade Orchid Kagutsuchi"
+    },
+    {
+      "$id": 727,
+      "style": 36,
+      "name": "Magical Pink Saika"
+    },
+    {
+      "$id": 728,
+      "style": 36,
+      "name": "Cloud Sea Shark Rex"
+    },
+    {
+      "$id": 729,
+      "style": 36,
+      "name": "Fancy Sundress Nia"
+    },
+    {
+      "$id": 730,
+      "style": 36,
+      "name": "Best Girl Fan Tora"
+    },
+    {
+      "$id": 731,
+      "style": 36,
+      "name": "Obligatory Leave Meleph"
+    },
+    {
+      "$id": 732,
+      "style": 36,
+      "name": "Surfinator Zeke"
+    },
+    {
+      "$id": 733,
+      "style": 36,
+      "name": "Pro Swimmer Homura"
+    },
+    {
+      "$id": 734,
+      "style": 36,
+      "name": "Radiant Beach Hikari"
+    },
+    {
+      "$id": 735,
+      "style": 36,
+      "name": "Water Lily Kagutsuchi"
+    },
+    {
+      "$id": 736,
+      "style": 36,
+      "name": "Beach Date Saika"
+    },
+    {
+      "$id": 737,
+      "style": 36,
+      "name": "Swim Lesson Hana JS"
+    },
+    {
+      "$id": 738,
+      "style": 36,
+      "name": "Skullface Punk Tora"
+    },
+    {
+      "$id": 739,
+      "style": 36,
+      "name": "Shining Justice Zeke"
+    },
+    {
+      "$id": 740,
+      "style": 36,
+      "name": "Cornflower Hana JS"
+    },
+    {
+      "$id": 741,
+      "style": 36,
+      "name": "Antique Princess QT"
+    },
+    {
+      "$id": 742,
+      "style": 36,
+      "name": "Nano Orange QTπ"
+    },
+    {
+      "$id": 743,
+      "style": 36,
+      "name": "Swap Noponstone x1"
+    },
+    {
+      "$id": 744,
+      "style": 36,
+      "name": "Loyal Bellflower Nia"
+    },
+    {
+      "$id": 745,
+      "style": 36,
+      "name": "Sincere Primrose Nia"
+    },
+    {
+      "$id": 746,
+      "style": 36,
+      "name": "Devoted Marigold Nia"
+    },
+    {
+      "$id": 747,
+      "style": 36,
+      "name": "Swap Noponstone x5"
+    },
+    {
+      "$id": 748,
+      "style": 36,
+      "name": "Swap Noponstone x10"
+    },
+    {
+      "$id": 749,
+      "style": 36,
+      "name": "Swap Noponstone x20"
+    }
+  ]
+}

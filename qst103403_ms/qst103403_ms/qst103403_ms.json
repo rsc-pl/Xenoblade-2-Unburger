@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103403_msg0001",
+      "style": 84,
+      "name": "Believe me, you haven't won yet."
+    },
+    {
+      "$id": 2,
+      "label": "qst103403_msg0002",
+      "style": 84,
+      "name": "Let's see how much more of this\nyou can handle!"
+    }
+  ]
+}

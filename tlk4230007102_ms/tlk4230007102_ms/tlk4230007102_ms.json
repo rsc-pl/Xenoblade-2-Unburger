@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300071_02msg0001",
+      "style": 84,
+      "name": "Lulu feeling a bit miserable after\nfuneral. Is no fun..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300071_02msg0002",
+      "style": 84,
+      "name": "Came to pray for safety of family,\nbut this not place for loud praying..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300071_02msg0003",
+      "style": 84,
+      "name": "And daughter not able to keep quiet\nfor long period of time, which make it\ndifficult..."
+    }
+  ]
+}

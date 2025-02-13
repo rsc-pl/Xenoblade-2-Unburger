@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502004_msg0001",
+      "style": 84,
+      "name": "Well, this is quite a pickle..."
+    },
+    {
+      "$id": 2,
+      "label": "qst502004_msg0002",
+      "style": 84,
+      "name": "Maybe if I had the help of someone\nwho could use lightning energy...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst502004_msg0003",
+      "style": 84,
+      "name": "I don't know... It might work..."
+    }
+  ]
+}

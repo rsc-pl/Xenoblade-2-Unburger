@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200806_msg0001",
+      "style": 84,
+      "name": "Oh, hello.\nNeed something?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200806_msg0002",
+      "style": 84,
+      "name": "Ah, well, I'm sorry.\nI don't think I'll be able to help."
+    },
+    {
+      "$id": 3,
+      "label": "qst200806_msg0003",
+      "style": 84,
+      "name": "My research has just started producing\nsome really exciting results, so I can't\nreally tear myself away."
+    },
+    {
+      "$id": 4,
+      "label": "qst200806_msg0004",
+      "style": 84,
+      "name": "I think I should have some free time\nin two months or so..."
+    },
+    {
+      "$id": 5,
+      "label": "qst200806_msg0005",
+      "style": 84,
+      "name": "Mind if I ask you to wait till then?"
+    }
+  ]
+}

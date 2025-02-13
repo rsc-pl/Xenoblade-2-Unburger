@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "52890101",
+      "style": 82,
+      "name": "Hahahaha!"
+    },
+    {
+      "$id": 2,
+      "label": "52890102",
+      "style": 82,
+      "name": "I am Yaegiri!"
+    },
+    {
+      "$id": 3,
+      "label": "52890103",
+      "style": 82,
+      "name": "I'll take on the strongest comers!"
+    }
+  ]
+}

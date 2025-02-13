@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360113_01_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Left all clear! Right all clear!\nFront all clear! Goldmund A-OK!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360113_01_msg0002",
+      "style": 84,
+      "name": "Avaritia biggest trading port in whole\nof Alst, so we very strict on security!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360113_01_msg0003",
+      "style": 84,
+      "name": "But it get very tiring lately.\nMe start to give up hope that Limuli\ncome back to relieve me of shift..."
+    }
+  ]
+}

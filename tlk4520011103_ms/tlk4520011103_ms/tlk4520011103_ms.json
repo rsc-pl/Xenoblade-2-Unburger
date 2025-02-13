@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200111_03_msg0001",
+      "style": 84,
+      "name": "Whoaaa!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200111_03_msg0002",
+      "style": 84,
+      "name": "You're friends with so many Blades!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200111_03_msg0003",
+      "style": 84,
+      "name": "I heard something super interesting\nwhen me and my mum went along\nto Rumbletum Canteen..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200111_03_msg0004",
+      "style": 84,
+      "name": "There's a very bad person somewhere\naround here. I think they called him\na \"cork wristel hunter\"?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45200111_03_msg0005",
+      "style": 84,
+      "name": "I was kinda far away, so I couldn't\nhear so well."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45200111_03_msg0006",
+      "style": 84,
+      "name": "I dunno the details exactly, but it\nsounds pretty exciting! You should go\nto Rumbletum Canteen and find out!"
+    }
+  ]
+}

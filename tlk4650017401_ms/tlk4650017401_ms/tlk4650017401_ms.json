@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500174_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Seoris Plaza."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500174_01_msg0002",
+      "style": 84,
+      "name": "This is a place of rest and recreation\nfor the public. We also teach children\nabout Acedia's lore and traditions here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500174_01_msg0003",
+      "style": 84,
+      "name": "If you're headed for the cathedral,\nhead straight across to the other side\nof the Plaza. It's always worth a visit."
+    }
+  ]
+}

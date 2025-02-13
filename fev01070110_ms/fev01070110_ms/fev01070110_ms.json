@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev01_070_110_msg0001",
+      "style": 84,
+      "name": "Hey there, Rex.\nThat ship caught your eye?"
+    },
+    {
+      "$id": 2,
+      "label": "fev01_070_110_msg0002",
+      "style": 84,
+      "name": "Well, of course!"
+    },
+    {
+      "$id": 3,
+      "label": "fev01_070_110_msg0003",
+      "style": 84,
+      "name": "Yeah, I guess it's not easy to miss."
+    },
+    {
+      "$id": 4,
+      "label": "fev01_070_110_msg0004",
+      "style": 84,
+      "name": "Never knew they made ships this big\nwithout a Divine Beast at the core."
+    },
+    {
+      "$id": 5,
+      "label": "fev01_070_110_msg0005",
+      "style": 84,
+      "name": "I can't even begin to imagine\nhow the whole thing works."
+    },
+    {
+      "$id": 6,
+      "label": "fev01_070_110_msg0006",
+      "style": 84,
+      "name": "Indeed."
+    },
+    {
+      "$id": 7,
+      "label": "fev01_070_110_msg0007",
+      "style": 84,
+      "name": "Do you know whose ship it is?"
+    },
+    {
+      "$id": 8,
+      "label": "fev01_070_110_msg0008",
+      "style": 84,
+      "name": "Some clients of the Chairman, I think.\nDon't know the details."
+    },
+    {
+      "$id": 9,
+      "label": "fev01_070_110_msg0009",
+      "style": 84,
+      "name": "Huh, I see..."
+    },
+    {
+      "$id": 10,
+      "label": "fev01_070_110_msg0010",
+      "style": 84,
+      "name": "I know you're curious, but don't go\nclimbing on board or anything, OK?"
+    },
+    {
+      "$id": 11,
+      "label": "fev01_070_110_msg0011",
+      "style": 84,
+      "name": "I'm not that crazy..."
+    },
+    {
+      "$id": 12,
+      "label": "fev01_070_110_msg0012",
+      "style": 84,
+      "name": "Anyway, I've gotta get back to work."
+    },
+    {
+      "$id": 13,
+      "label": "fev01_070_110_msg0013",
+      "style": 84,
+      "name": "All right, then.\nSee you round, Garram!"
+    }
+  ]
+}

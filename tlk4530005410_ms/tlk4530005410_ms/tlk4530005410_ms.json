@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300054_10_msg0001",
+      "style": 84,
+      "name": "Well... My life is officially over."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300054_10_msg0002",
+      "style": 84,
+      "name": "I keep telling him that I can't deal\nwith heights, but the foreman gives\nme these ridiculous jobs anyway."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300054_10_msg0003",
+      "style": 84,
+      "name": "He's only told me to take care of\nthe gondola maintenance inspection!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300054_10_msg0004",
+      "style": 84,
+      "name": "How am I meant to carry out repairs\nall the way up there?! I'd pass out\nfrom the sheer terror of it!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300054_10_msg0005",
+      "style": 84,
+      "name": "Really? You'd do this for me?\nYou must be the kindest people\nI've ever met!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300054_10_msg0006",
+      "style": 84,
+      "name": "Thank you so much!\nYou're lifesavers, you really are!"
+    }
+  ]
+}

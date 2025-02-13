@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400287_02_msg0001",
+      "style": 84,
+      "name": "Yes, I believe I can entrust you with\nthat information..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400287_02_msg0002",
+      "style": 84,
+      "name": "The ancient science of Luxuria, passed\ndown through generations...remains\nunchanged to this day."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400287_02_msg0003",
+      "style": 84,
+      "name": "That's right. We have in fact not\nadvanced one jot technologically. We\nhave not evolved as has Superbia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400287_02_msg0004",
+      "style": 84,
+      "name": "If by chance something unprecedented,\nnot chronicled by our ancestors, were\nto happen..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk44400287_02_msg0005",
+      "style": 84,
+      "name": "Then we would fall like a house of\ncards. Just like Theospiti Temple..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320159_04_msg0001",
+      "style": 84,
+      "name": "I think the most important military\ninnovation Superbia has produced\nto date is the steam rifle."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320159_04_msg0002",
+      "style": 84,
+      "name": "Apparently they were inspired by,\nand to an extent based upon, certain\nlong-range weapons used by Blades."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320159_04_msg0003",
+      "style": 84,
+      "name": "But whatever their origins, they allow\nalmost anyone to hold their own in\ncombat, even if they're not a Driver."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320159_04_msg0004",
+      "style": 84,
+      "name": "The ability to attack from a distance is\nhugely helpful, too. It helps us avoid the\nrisks of getting too close to monsters."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400104_msg0001",
+      "style": 84,
+      "name": "Hello there, friend Rex!\nRurui, proprietor of Whiteside\nSalvaging, at your service!"
+    },
+    {
+      "$id": 2,
+      "label": "qst400104_msg0002",
+      "style": 84,
+      "name": "No need for introductions with me,\nRurui. I was thinking of going to check\nout some cylinders in a bit."
+    },
+    {
+      "$id": 3,
+      "label": "qst400104_msg0003",
+      "style": 84,
+      "name": "Well, that perfect timing! Rurui just\nget in brand-new cylinder type.\nIf having time, friend want to test out?"
+    },
+    {
+      "$id": 4,
+      "label": "qst400104_msg0004",
+      "style": 84,
+      "name": "Really? You'd let me?"
+    },
+    {
+      "$id": 5,
+      "label": "qst400104_msg0005",
+      "style": 84,
+      "name": "Rex is up-and-coming star of salvager\nworld. If Rex approve of quality, easier\nfor Rurui to sell!"
+    },
+    {
+      "$id": 6,
+      "label": "qst400104_msg0006",
+      "style": 84,
+      "name": "It's not every day you get the chance\nto test out a brand-new product.\nI'd be glad to help!"
+    },
+    {
+      "$id": 7,
+      "label": "qst400104_msg0007",
+      "style": 84,
+      "name": "Then it settled!\nCome see Rurui on rear deck shortly\nthen. Rurui will make preparation!"
+    },
+    {
+      "$id": 8,
+      "label": "qst400104_msg0008",
+      "style": 84,
+      "name": "Gotcha!"
+    }
+  ]
+}

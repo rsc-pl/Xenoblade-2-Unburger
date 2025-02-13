@@ -1,0 +1,149 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 42,
+      "name": "You can't go any further."
+    },
+    {
+      "$id": 2,
+      "style": 42,
+      "name": "It's locked from the other side."
+    },
+    {
+      "$id": 3,
+      "style": 42,
+      "name": "It is not wise to venture\nany further out than this."
+    },
+    {
+      "$id": 4,
+      "style": 42,
+      "name": "There seems to be no power going to it."
+    },
+    {
+      "$id": 5,
+      "style": 42,
+      "name": "It is locked."
+    },
+    {
+      "$id": 6,
+      "style": 42,
+      "name": "It would probably work with a key."
+    },
+    {
+      "$id": 7,
+      "style": 42,
+      "name": "Defeat Metsu."
+    },
+    {
+      "$id": 8,
+      "style": 42,
+      "name": "The keycode is missing."
+    },
+    {
+      "$id": 9,
+      "style": 42,
+      "name": "It would probably work with fuel."
+    },
+    {
+      "$id": 10,
+      "style": 42,
+      "name": "We'll be spotted if we go this way.\nBetter find another way."
+    },
+    {
+      "$id": 11,
+      "style": 42,
+      "name": "There appears to be no response."
+    },
+    {
+      "$id": 12,
+      "style": 42,
+      "name": "PLEASE ENTER PASSWORD."
+    },
+    {
+      "$id": 13,
+      "style": 42,
+      "name": "There's something that looks like\na keyhole on the tree trunk."
+    },
+    {
+      "$id": 14,
+      "style": 42,
+      "name": "We'll need to make some food\nbefore heading out."
+    },
+    {
+      "$id": 15,
+      "style": 42,
+      "name": "Head to the palace first!"
+    },
+    {
+      "$id": 16,
+      "style": 42,
+      "name": "You need to rescue Homura!"
+    },
+    {
+      "$id": 17,
+      "style": 42,
+      "name": "Seems to be some kind of slot..."
+    },
+    {
+      "$id": 18,
+      "style": 42,
+      "name": "There's too many enemies this way...\nLet's try searching elsewhere first."
+    },
+    {
+      "$id": 19,
+      "style": 42,
+      "name": "We have no business going there now."
+    },
+    {
+      "$id": 20,
+      "style": 42,
+      "name": "Right now, we should talk to Adel."
+    },
+    {
+      "$id": 21,
+      "style": 42,
+      "name": "We'll need to stock up on medicine\nbefore we can tackle the desert."
+    },
+    {
+      "$id": 22,
+      "style": 42,
+      "name": "Let's collect the ingredients and then\nget cooking."
+    },
+    {
+      "$id": 23,
+      "style": 42,
+      "name": "Let's wander around the village first."
+    },
+    {
+      "$id": 24,
+      "style": 42,
+      "name": "We should defeat the enemy\nbefore we move on."
+    },
+    {
+      "$id": 25,
+      "style": 42,
+      "name": "There is no response."
+    },
+    {
+      "$id": 26,
+      "style": 42,
+      "name": "The mechanism looks ancient...\nThere's nothing here for us now."
+    },
+    {
+      "$id": 27,
+      "style": 42,
+      "name": "First, let's clear out the Aura Garlus\non the way to the Genbu Crown, Luxuria."
+    }
+  ]
+}

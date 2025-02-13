@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_04_msg0001",
+      "style": 84,
+      "name": "Hey, you guys look like you're\ngreat at catching bugs!\nI'm right, aren't I?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_04_msg0002",
+      "style": 84,
+      "name": "Listen, I'm making a specimen\ncollection!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_04_msg0003",
+      "style": 84,
+      "name": "I'm so close to finishing, but there's\nthis one insect I can't find anywhere!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100171_04_msg0004",
+      "style": 84,
+      "name": "I've searched high and low for it too...\nMaybe it's just the wrong kind of\nenvironment for it..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100171_04_msg0005",
+      "style": 84,
+      "name": "Argh! If I knew someone who was\ninto bug-catching, I'd've totally\ncaught it by now!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100171_04_msg0006",
+      "style": 84,
+      "name": "Wha-?! You're really gonna help me?!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41100171_04_msg0007",
+      "style": 84,
+      "name": "Oh, wow! Awesome! Thanks so much!"
+    }
+  ]
+}

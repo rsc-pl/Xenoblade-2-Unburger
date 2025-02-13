@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_06_msg0001",
+      "style": 84,
+      "name": "About a decade ago, the leadership of\na town ruled by one of Gula's seven\nmain clans changed hands."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_06_msg0002",
+      "style": 84,
+      "name": "The old leader had two daughters,\nbut one of them was really sickly."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_06_msg0003",
+      "style": 84,
+      "name": "He was spending crazy amounts of\nmoney on medical care for her."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_06_msg0004",
+      "style": 84,
+      "name": "Including money from his\npeople's taxes."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700121_06_msg0005",
+      "style": 84,
+      "name": "It's not like I can't empathize.\nAny father would want to do whatever\nhe could to save his precious daughter."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41700121_06_msg0006",
+      "style": 84,
+      "name": "But when you're leader of a whole clan,\na whole town...you have responsibilities."
+    },
+    {
+      "$id": 7,
+      "label": "tlk41700121_06_msg0007",
+      "style": 84,
+      "name": "Not like Consul Morph was any\nbetter, mind. I hope we get a half-\ndecent consul next time..."
+    }
+  ]
+}

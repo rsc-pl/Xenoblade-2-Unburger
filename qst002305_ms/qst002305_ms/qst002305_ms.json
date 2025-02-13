@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002305_msg0001",
+      "style": 84,
+      "name": "Sorry, can't really talk now.\nMaybe when my guard shift's over..."
+    },
+    {
+      "$id": 2,
+      "label": "qst002305_msg0002",
+      "style": 84,
+      "name": "Acedia may be safer than most nations,\nbut we can't wipe out crime entirely."
+    },
+    {
+      "$id": 3,
+      "label": "qst002305_msg0003",
+      "style": 84,
+      "name": "And that, my friend, is why men like\nme have to keep careful watch every\nhour of the day!"
+    },
+    {
+      "$id": 4,
+      "label": "qst002305_msg0004",
+      "style": 84,
+      "name": "So...yeah. Don't distract me, OK?"
+    }
+  ]
+}

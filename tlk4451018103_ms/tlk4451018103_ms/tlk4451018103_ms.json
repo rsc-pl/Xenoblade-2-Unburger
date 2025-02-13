@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510181_03_msg0001",
+      "style": 84,
+      "name": "Only the Prince's Blade can control\nGenbu's course and bearing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510181_03_msg0002",
+      "style": 84,
+      "name": "It was meant to stay submerged for\nas long as was safe, but..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510181_03_msg0003",
+      "style": 84,
+      "name": "I have to wonder if something's\nhappened to the Sanctus Chain..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510181_03_msg0004",
+      "style": 84,
+      "name": "Ah, but listen to me blab!\nWe shouldn't be here dithering while\nthe evacuation is underway."
+    }
+  ]
+}

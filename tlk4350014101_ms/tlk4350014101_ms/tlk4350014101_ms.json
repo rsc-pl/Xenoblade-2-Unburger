@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500141_01_msg0001",
+      "style": 84,
+      "name": "Welcome, friend. Fons Maim is\nsometimes known as the City of Art.\nDoes any of our artwork entice you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500141_01_msg0004",
+      "style": 84,
+      "name": "Why, if it isn't our esteemed owner!\nYou're always more than welcome\nat this establishment."
+    }
+  ]
+}

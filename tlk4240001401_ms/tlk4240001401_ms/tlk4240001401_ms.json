@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400014_01_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Uwaawawawaaah... ♪\nHararawwaaaaah... ♪"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400014_01_msg0002",
+      "style": 84,
+      "name": "What? No, me not in pain!\nMe was singing!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400014_01_msg0003",
+      "style": 84,
+      "name": "Meh... Need to get better at singing,\nme know. But how...?"
+    }
+  ]
+}

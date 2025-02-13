@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300012_01_msg0001",
+      "style": 84,
+      "name": "I can't get over the fact that you're\nproviding for your village at such a\nyoung age, Rex. It's really admirable."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300012_01_msg0002",
+      "style": 84,
+      "name": "You're probably heading out for\na bit of salvaging after this, aren't you?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300012_01_msg0003",
+      "style": 84,
+      "name": "Well, be careful how you go."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300012_01_msg0004",
+      "style": 84,
+      "name": "Come to me whenever you need to\nsend some cash back to Iyasaki."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300012_01_msg0005",
+      "style": 84,
+      "name": "I'll be right here."
+    }
+  ]
+}

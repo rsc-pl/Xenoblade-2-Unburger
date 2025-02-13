@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100062_01_msg0001",
+      "style": 84,
+      "name": "Well, I went back to the village, but\nMix really wanted me to come over\nfor a bite of grass."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100062_01_msg0002",
+      "style": 84,
+      "name": "The Demon King is no more, so it's\nsafe for us to travel back and forth\nin peace now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100062_01_msg0003",
+      "style": 84,
+      "name": "If it weren't for the true hero, we'd\nhave been eating mediocre grass for the\nrest of our lives. Thank you so much!"
+    }
+  ]
+}

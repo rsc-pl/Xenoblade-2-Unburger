@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501703_msg0001",
+      "style": 84,
+      "name": "I'm the best information broker\nin Hræsvelgr."
+    },
+    {
+      "$id": 2,
+      "label": "qst501703_msg0002",
+      "style": 84,
+      "name": "Ask me anything!\nAh, but every morsel of information\ncomes with a tiny little price tag..."
+    }
+  ]
+}

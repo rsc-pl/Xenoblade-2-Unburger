@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101106_msg001",
+      "style": 62,
+      "name": "催促トーク(仮)\n"
+    },
+    {
+      "$id": 2,
+      "label": "qst101106_msg0001",
+      "style": 84,
+      "name": "Thanks for your help!"
+    },
+    {
+      "$id": 3,
+      "label": "qst101106_msg0002",
+      "style": 84,
+      "name": "Da uses the Confusion Ivy to\ndecorate the furniture he makes!\nYou'll find some on a tree, no bother!"
+    }
+  ]
+}

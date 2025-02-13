@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9302001_01_msg0001",
+      "style": 84,
+      "name": "I'm all out of books to read... Maybe\nyou could take me on an adventure\nin search of fresh knowledge?"
+    }
+  ]
+}

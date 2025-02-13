@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev07_410_165_msg0001",
+      "style": 84,
+      "name": "Meleph-sama!\nWe have been expecting you."
+    },
+    {
+      "$id": 2,
+      "label": "fev07_410_165_msg0002",
+      "style": 84,
+      "name": "You have heard my business here,\nI presume? We require passage to\nthe Cliffs of Mors."
+    },
+    {
+      "$id": 3,
+      "label": "fev07_410_165_msg0003",
+      "style": 84,
+      "name": "Yes, ma'am!\nThe preparations are all complete."
+    },
+    {
+      "$id": 4,
+      "label": "fev07_410_165_msg0004",
+      "style": 84,
+      "name": "I doubt this will be an easy voyage...\nAre you sure you're up to it?"
+    },
+    {
+      "$id": 5,
+      "label": "fev07_410_165_msg0005",
+      "style": 84,
+      "name": "Absolutely, ma'am!"
+    },
+    {
+      "$id": 6,
+      "label": "fev07_410_165_msg0006",
+      "style": 84,
+      "name": "By order of His Majesty the Emperor,\nonly the finest of sailors have been\ngathered for this assignment!"
+    },
+    {
+      "$id": 7,
+      "label": "fev07_410_165_msg0007",
+      "style": 84,
+      "name": "I'll have to thank him for that later..."
+    },
+    {
+      "$id": 8,
+      "label": "fev07_410_165_msg0008",
+      "style": 84,
+      "name": "Well then, shall we depart?"
+    },
+    {
+      "$id": 9,
+      "label": "fev07_410_165_msg0009",
+      "style": 84,
+      "name": "As you wish!"
+    }
+  ]
+}

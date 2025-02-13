@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200407_msg0001",
+      "style": 84,
+      "name": "Mmhm... No, I'm sorry, but I don't\nthink I know anything about that."
+    },
+    {
+      "$id": 2,
+      "label": "qst200407_msg0002",
+      "style": 84,
+      "name": "But, yet, however!\nI do have the good fortune of being\nthe owner of a very lucky vase."
+    },
+    {
+      "$id": 3,
+      "label": "qst200407_msg0101",
+      "style": 84,
+      "name": "Wanna come and look?"
+    }
+  ]
+}

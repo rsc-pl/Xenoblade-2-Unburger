@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100141_01_msg0001",
+      "style": 84,
+      "name": "I can't thank the mercenaries here\nenough. Thanks to them, me and my\ndad can live in peace!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100141_01_msg0002",
+      "style": 84,
+      "name": "My dad's a scientist. He was being\nchased by Invidian soldiers - they\nwanted him to help develop weapons."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45100141_01_msg0004",
+      "style": 84,
+      "name": "They almost caught us, but the\nmercenaries from here showed up\nand saved us!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45100141_01_msg0005",
+      "style": 84,
+      "name": "They even gave us a place to live and\nfood to eat...they're such great people!"
+    }
+  ]
+}

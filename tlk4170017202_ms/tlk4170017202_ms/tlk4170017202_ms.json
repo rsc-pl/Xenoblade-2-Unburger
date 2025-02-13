@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700172_02_msg0001",
+      "style": 84,
+      "name": "This is getting beyond a joke. Are they\ntrying to start a war here?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700172_02_msg0002",
+      "style": 84,
+      "name": "Both the Invidian and Superbian armies\nare here. In Acedia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700172_02_msg0003",
+      "style": 84,
+      "name": "You people have Blades. You know\nsomething about this, don't you?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700172_02_msg0004",
+      "style": 84,
+      "name": "Oh, I see how it is. Can't let the\nrefugees in on the news? Whose fault\nis it that this all happened, eh?"
+    }
+  ]
+}

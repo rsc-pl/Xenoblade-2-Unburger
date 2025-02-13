@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200404_msg0001",
+      "style": 84,
+      "name": "The loan shark?\nNah man, I wouldn't borrow money\nfrom him even if you paid me."
+    },
+    {
+      "$id": 2,
+      "label": "qst200404_msg0002",
+      "style": 84,
+      "name": "Why? For one, I hear he's in cahoots\nwith that quack Celian."
+    },
+    {
+      "$id": 3,
+      "label": "qst200404_msg0003",
+      "style": 84,
+      "name": "I understand medical fees, but charging\nan arm and two legs, sending people to\na moneylender if they can't afford it...?"
+    },
+    {
+      "$id": 4,
+      "label": "qst200404_msg0004",
+      "style": 84,
+      "name": "That's some evil scary stuff right there."
+    },
+    {
+      "$id": 5,
+      "label": "qst200404_msg0005",
+      "style": 84,
+      "name": "If you need a doctor, whatever you do,\nmake sure you don't go to Celian!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200404_msg0101",
+      "style": 84,
+      "name": "Watch out for that quack Celian!"
+    }
+  ]
+}

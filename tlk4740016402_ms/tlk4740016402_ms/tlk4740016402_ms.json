@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47400164_02_msg0001",
+      "style": 84,
+      "name": "Sometimes you can see the aurora\nfrom here. It's pretty, for sure..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47400164_02_msg0002",
+      "style": 84,
+      "name": "But there are monsters that only come\nout when the aurora's around."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47400164_02_msg0003",
+      "style": 84,
+      "name": "Like Drac Lexos and Selmo Gradys..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47400164_02_msg0004",
+      "style": 84,
+      "name": "I wonder why they only come out\nwhen there's an aurora, though?\nFunny creatures."
+    }
+  ]
+}

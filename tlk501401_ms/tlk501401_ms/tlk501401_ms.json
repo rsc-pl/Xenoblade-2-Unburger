@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501401_msg0001",
+      "style": 84,
+      "name": "These are boxes for stashing food that\nI prepared at mach speed, just for me!"
+    },
+    {
+      "$id": 2,
+      "label": "qst501401_msg0002",
+      "style": 84,
+      "name": "The plan is to fill them up with\nall kinds of food I like!"
+    },
+    {
+      "$id": 3,
+      "label": "qst501401_msg0003",
+      "style": 84,
+      "name": "The more food I have handy,\nthe better I can concentrate\non battling!"
+    },
+    {
+      "$id": 4,
+      "label": "qst501401_msg0004",
+      "style": 84,
+      "name": "First up, let's collect some\ncooked foods!"
+    }
+  ]
+}

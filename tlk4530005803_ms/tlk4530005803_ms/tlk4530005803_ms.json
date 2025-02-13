@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4530005803_msg0001",
+      "style": 84,
+      "name": "Doctor Smaia suddenly declared she's\nleaving the clinic to me, then went\nrushing off without another word."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4530005803_msg0002",
+      "style": 84,
+      "name": "I mean, I'm sure I can handle things\non my own. I've watched the Doctor\nat work for many years."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4530005803_msg0003",
+      "style": 84,
+      "name": "But a lot of our regular patients\nare saying they're going to miss\nDoctor Smaia's brusque attitude."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4530005803_msg0004",
+      "style": 84,
+      "name": "Perhaps I should mimic her way\nof talking? Do you think?"
+    }
+  ]
+}

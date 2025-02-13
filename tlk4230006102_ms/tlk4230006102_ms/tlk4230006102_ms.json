@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300061_02_msg0001",
+      "style": 84,
+      "name": "Good news, friends! Direct shipping\nroute from Ysheva Harbor now open!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300061_02_msg0002",
+      "style": 84,
+      "name": "Now it many times faster to deliver\nletters and tasty cooking!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300061_02_msg0003",
+      "style": 84,
+      "name": "Kulakula hear that Rex responsible\nfor opening of new route!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300061_02_msg0004",
+      "style": 84,
+      "name": "First sending allowances, now opening\nshipping routes... Rex shining example\nof wonderful human being!"
+    }
+  ]
+}

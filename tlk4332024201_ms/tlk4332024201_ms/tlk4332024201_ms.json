@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320242_01_msg0001",
+      "style": 84,
+      "name": "Hey. I heard it from the big man.\nYou're a rookie Driver, aincha?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320242_01_msg0002",
+      "style": 84,
+      "name": "Anyone can see you're a rookie. But\nyou're still a leader, kid. That means\neveryone's depending on you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320242_01_msg0003",
+      "style": 84,
+      "name": "I got a piece of advice for you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320242_01_msg0004",
+      "style": 84,
+      "name": "Party leader's the one who gets to\ncall the shots with the Blade Combos."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320242_01_msg0005",
+      "style": 84,
+      "name": "And if you chain up those combos,\nyou'll get a little boost of power each\ntime."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43320242_01_msg0006",
+      "style": 84,
+      "name": "When you're the leader, the buck stops\nwith you. So make sure you're giving\nthe right orders."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43320242_01_msg0101",
+      "style": 84,
+      "name": "I doubt I've got much to teach you."
+    },
+    {
+      "$id": 8,
+      "label": "tlk43320242_01_msg0102",
+      "style": 84,
+      "name": "You should just get out there and do\nyour best to be good example to all\nthe greenhorns out there."
+    }
+  ]
+}

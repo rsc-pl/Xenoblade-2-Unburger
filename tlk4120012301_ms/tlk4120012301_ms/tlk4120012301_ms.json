@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200123_01_msg0001",
+      "style": 84,
+      "name": "I'm gonna be a Driver when I'm older!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200123_01_msg0002",
+      "style": 84,
+      "name": "Mum doesn't like the idea. Or Dad.\nOr anyone! But I don't care!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200123_01_msg0003",
+      "style": 84,
+      "name": "A Driver in the army's already been\ntraining me, and I've learned loads\nof tips already!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200123_01_msg0004",
+      "style": 84,
+      "name": "Like, he has Blades with different\ntypes of weapon, from Ether Cannons\nto Shield Hammers to Megalances!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200123_01_msg0005",
+      "style": 84,
+      "name": "And they each have their different\nuses, so he needs to change the way\nhe fights to match each Blade!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41200123_01_msg0006",
+      "style": 84,
+      "name": "Like, when he uses a Shield Hammer,\nhe tries to get lots of aggro from\nenemies to focus their attacks on him."
+    },
+    {
+      "$id": 7,
+      "label": "tlk41200123_01_msg0007",
+      "style": 84,
+      "name": "Being a Driver's a lot more work than\nyou'd expect!"
+    }
+  ]
+}

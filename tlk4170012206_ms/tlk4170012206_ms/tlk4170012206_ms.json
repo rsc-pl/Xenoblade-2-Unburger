@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700122_06_msg0001",
+      "style": 84,
+      "name": "A bunch of refugees from Acedia have\nwound up in Trigo, but never fear.\nKloom Farm can provide for them all!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700122_06_msg0002",
+      "style": 84,
+      "name": "Be it a hundred people or a thousand,\nwe'll feed 'em all on our tasty veg!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700122_06_msg0003",
+      "style": 84,
+      "name": "Each one of our vegetables is packed\nto bursting with nutrients, so there's\nno chance they'll go hungry."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700122_06_msg0004",
+      "style": 84,
+      "name": "Hahaha! This is all thanks to the\nhard work my family's put in over\nthe generations."
+    }
+  ]
+}

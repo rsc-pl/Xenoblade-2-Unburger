@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201615_msg0001",
+      "style": 84,
+      "name": "We bring Champ's Churros!\nPlenty for Nanakoori and Beary to chomp!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201615_msg0002",
+      "style": 84,
+      "name": "Thank you..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201615_msg0003",
+      "style": 84,
+      "name": "Well?\nFeeling a bit calmer?"
+    },
+    {
+      "$id": 4,
+      "label": "qst201615_msg0004",
+      "style": 84,
+      "name": "...Yes, thank you. They were delicious.\nBeary appreciated it, too."
+    },
+    {
+      "$id": 5,
+      "label": "qst201615_msg0005",
+      "style": 84,
+      "name": "OK...\nYeah, I'm better now."
+    },
+    {
+      "$id": 6,
+      "label": "qst201615_msg0006",
+      "style": 84,
+      "name": "Good-good-good!\nSo Nanakoori will sing?"
+    },
+    {
+      "$id": 7,
+      "label": "qst201615_msg0007",
+      "style": 84,
+      "name": "Yes. I'll be fine..."
+    },
+    {
+      "$id": 8,
+      "label": "qst201615_msg0008",
+      "style": 84,
+      "name": "In that case, time for concert to begin!\nTeetapz great at rambling, but can only\nkeep audience excited for so long..."
+    }
+  ]
+}

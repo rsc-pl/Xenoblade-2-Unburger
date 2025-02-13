@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200144_02_msg0001",
+      "style": 84,
+      "name": "Look, look!\nThe Holy Gate of Fontana's open!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200144_02_msg0002",
+      "style": 84,
+      "name": "I've never seen that before!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200144_02_msg0003",
+      "style": 84,
+      "name": "They say that Karam Ruins\nare somewhere on the other side..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200144_02_msg0004",
+      "style": 84,
+      "name": "but the stairs look soooo long!\nI don't think I'd be able to get\nto the top..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200144_02_msg0005",
+      "style": 84,
+      "name": "If you were gonna go,\nI hope you don't run outta steam!"
+    }
+  ]
+}

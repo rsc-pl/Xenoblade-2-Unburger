@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000902_msg0001",
+      "style": 84,
+      "name": "Welcome back, big bro!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000902_msg0002",
+      "style": 84,
+      "name": "Auntie Correl's over the moon that\nyou brought back your bride-to-be!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000902_msg0003",
+      "style": 84,
+      "name": "She's so pretty... Ahh, I'm so jelly!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000902_msg0004",
+      "style": 84,
+      "name": "What are you...hold on, she's not my\nbride-to-be! You've got the wrong\nend of the stick, Kazuna!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000902_msg0101",
+      "style": 84,
+      "name": "Mark's so diligent. It's no surprise he\nmade it into the Academy."
+    },
+    {
+      "$id": 6,
+      "label": "tlk01000902_msg0102",
+      "style": 84,
+      "name": "Kind of sad that Kirk and me won't\nbe able to play with him any more,\nthough."
+    },
+    {
+      "$id": 7,
+      "label": "tlk01000902_msg0103",
+      "style": 84,
+      "name": "I'm sitting right across from him now\nso we can hang out for as long as we\ncan. And I can peek at his notes!"
+    }
+  ]
+}

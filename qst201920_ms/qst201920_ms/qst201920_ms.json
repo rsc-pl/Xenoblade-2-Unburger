@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201920_msg0001",
+      "style": 84,
+      "name": "Samomo love eating Samod!\nCan eat 20 Samod in one day."
+    },
+    {
+      "$id": 2,
+      "label": "qst201920_msg0002",
+      "style": 84,
+      "name": "But, um...friends want to talk about\nmore serious things, yes?"
+    },
+    {
+      "$id": 3,
+      "label": "qst201920_msg0003",
+      "style": 84,
+      "name": "Samomo buried barrel near Balquors\nRuins, in Cliffs of Mors."
+    },
+    {
+      "$id": 4,
+      "label": "qst201920_msg0004",
+      "style": 84,
+      "name": "Saw Nopon called Bidibi while Samomo\nwas there. Was very cute!"
+    }
+  ]
+}

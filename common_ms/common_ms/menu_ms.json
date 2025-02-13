@@ -1,0 +1,10134 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 0,
+      "name": "キャラクター名称１２文字"
+    },
+    {
+      "$id": 2,
+      "style": 0,
+      "name": "トーク本文テスト用"
+    },
+    {
+      "$id": 3,
+      "style": 1,
+      "name": "2行テスト用メッセージ\nトーク本文あああああああああああ"
+    },
+    {
+      "$id": 4,
+      "style": 2,
+      "name": "3行テスト用メッセージ\nトーク本文あああああああああああ\nトーク本文あああああああああああ"
+    },
+    {
+      "$id": 5,
+      "style": 38,
+      "name": "テスト用：操作インフォ表示予定領域"
+    },
+    {
+      "$id": 6,
+      "style": 62,
+      "name": "トピック本文　3行設定可能\n一行最大20文字あああああああああああああ\nテスト"
+    },
+    {
+      "$id": 7,
+      "style": 84,
+      "name": "吹き出し本文　3行設定可能\n一行最大20文字あああああああああああああ\nテスト"
+    },
+    {
+      "$id": 8,
+      "style": 60,
+      "name": "吹き出し選択肢主題最大二十文字あああああ"
+    },
+    {
+      "$id": 9,
+      "style": 58,
+      "name": "吹き出し選択肢最大十五文字ああ"
+    },
+    {
+      "$id": 10,
+      "style": 54,
+      "name": "[ML:number digit=9 ]G"
+    },
+    {
+      "$id": 11,
+      "style": 54,
+      "name": "Cancel"
+    },
+    {
+      "$id": 12,
+      "style": 57,
+      "name": "選択テキスト"
+    },
+    {
+      "$id": 13,
+      "style": 54,
+      "name": "オブジェクト名あああ"
+    },
+    {
+      "$id": 14,
+      "style": 6,
+      "name": "オブジェクト名１２文字あ"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "オブジェクト名１２文字あ"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "オブジェクト名１２文字あ"
+    },
+    {
+      "$id": 17,
+      "style": 57,
+      "name": "オブジェクト名１２文字あ"
+    },
+    {
+      "$id": 18,
+      "style": 70,
+      "name": "オブジェクト名１２文字あ"
+    },
+    {
+      "$id": 19,
+      "style": 80,
+      "name": "オブジェクト名１２文字あ"
+    },
+    {
+      "$id": 20,
+      "style": 46,
+      "name": "スキル名１２文字ああああ"
+    },
+    {
+      "$id": 21,
+      "style": 57,
+      "name": "スキル名１２文字ああああ"
+    },
+    {
+      "$id": 22,
+      "style": 57,
+      "name": "スキル名１２文字ああああ"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "バフ名"
+    },
+    {
+      "$id": 24,
+      "style": 16,
+      "name": "アイテム効果説明最大20文字あああああああ"
+    },
+    {
+      "$id": 25,
+      "style": 46,
+      "name": "オーナーボーナス１２文字"
+    },
+    {
+      "$id": 26,
+      "style": 70,
+      "name": "クエストネーム１２文字あ"
+    },
+    {
+      "$id": 27,
+      "style": 61,
+      "name": "クエストタスク内容最大20文字ああああああ\n2行設定"
+    },
+    {
+      "$id": 28,
+      "style": 63,
+      "name": "クエスト概要一行最大十八文字ああああ\n最大四行設定可能\nテスト\nあああああああああああああ"
+    },
+    {
+      "$id": 29,
+      "style": 63,
+      "name": "クエスト結末一行最大十八文字ああああ\n最大四行設定可能\nテスト\nあああああああああああああ"
+    },
+    {
+      "$id": 30,
+      "style": 59,
+      "name": "報酬内容最大十六文字ああああああ"
+    },
+    {
+      "$id": 31,
+      "style": 65,
+      "name": "一行十五文字あああああああああ\nあああああああああああああああ\nあああああああああああああああ\nあああああああああああああああ\nあああああああああああああああ\nあああああああああ最大九十文字"
+    },
+    {
+      "$id": 32,
+      "style": 82,
+      "name": "字幕用テキスト一行二十一文字あああああああ\n最大二行"
+    },
+    {
+      "$id": 33,
+      "style": 154,
+      "name": "字幕用テキスト一行二十一文字あああああああ\n最大二行"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "A スキップ + キャンセル"
+    },
+    {
+      "$id": 35,
+      "style": 64,
+      "name": "汎用メニュー：テキストウィンドウ\n最大二十文字ああああああああああああああ\n四行設定可能\nテスト"
+    },
+    {
+      "$id": 36,
+      "style": 37,
+      "name": "＊＊＊タイトル＊＊＊"
+    },
+    {
+      "$id": 37,
+      "style": 56,
+      "name": "汎用リスト項目"
+    },
+    {
+      "$id": 38,
+      "style": 14,
+      "name": "汎用リスト項目"
+    },
+    {
+      "$id": 39,
+      "style": 29,
+      "name": "属性Ａ"
+    },
+    {
+      "$id": 40,
+      "style": 48,
+      "name": "-"
+    },
+    {
+      "$id": 41,
+      "style": 8,
+      "name": "/"
+    },
+    {
+      "$id": 42,
+      "style": 26,
+      "name": "/"
+    },
+    {
+      "$id": 43,
+      "style": 48,
+      "name": "/"
+    },
+    {
+      "$id": 44,
+      "style": 49,
+      "name": "-"
+    },
+    {
+      "$id": 45,
+      "style": 26,
+      "name": "Lv"
+    },
+    {
+      "$id": 46,
+      "style": 44,
+      "name": "Lv"
+    },
+    {
+      "$id": 47,
+      "style": 49,
+      "name": "Lv"
+    },
+    {
+      "$id": 48,
+      "style": 130,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 49,
+      "style": 135,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 50,
+      "style": 140,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 51,
+      "style": 145,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 52,
+      "style": 26,
+      "name": "HP"
+    },
+    {
+      "$id": 53,
+      "style": 49,
+      "name": "HP"
+    },
+    {
+      "$id": 54,
+      "style": 29,
+      "name": "HpMax"
+    },
+    {
+      "$id": 55,
+      "style": 30,
+      "name": "ダメージ"
+    },
+    {
+      "$id": 56,
+      "style": 30,
+      "name": "物理防御"
+    },
+    {
+      "$id": 57,
+      "style": 33,
+      "name": "エーテル防御"
+    },
+    {
+      "$id": 58,
+      "style": 30,
+      "name": "ガード率"
+    },
+    {
+      "$id": 59,
+      "style": 33,
+      "name": "クリティカル率"
+    },
+    {
+      "$id": 60,
+      "style": 27,
+      "name": "Exp"
+    },
+    {
+      "$id": 61,
+      "style": 28,
+      "name": "Next"
+    },
+    {
+      "$id": 62,
+      "style": 26,
+      "name": "SP"
+    },
+    {
+      "$id": 63,
+      "style": 26,
+      "name": "WP"
+    },
+    {
+      "$id": 64,
+      "style": 54,
+      "name": "プレイ時間"
+    },
+    {
+      "$id": 65,
+      "style": 53,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 66,
+      "style": 10,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 67,
+      "style": 51,
+      "name": "所持金"
+    },
+    {
+      "$id": 68,
+      "style": 33,
+      "name": "アイテムリスト"
+    },
+    {
+      "$id": 69,
+      "style": 10,
+      "name": "所持数"
+    },
+    {
+      "$id": 70,
+      "style": 29,
+      "name": "所持数"
+    },
+    {
+      "$id": 71,
+      "style": 10,
+      "name": "アーツ"
+    },
+    {
+      "$id": 72,
+      "style": 29,
+      "name": "アーツ"
+    },
+    {
+      "$id": 73,
+      "style": 30,
+      "name": "Specials"
+    },
+    {
+      "$id": 74,
+      "style": 10,
+      "name": "スキル"
+    },
+    {
+      "$id": 75,
+      "style": 10,
+      "name": "好み"
+    },
+    {
+      "$id": 76,
+      "style": 34,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 77,
+      "style": 33,
+      "name": "ブレイドスキル"
+    },
+    {
+      "$id": 78,
+      "style": 31,
+      "name": "お気に入り"
+    },
+    {
+      "$id": 79,
+      "style": 28,
+      "name": "趣味"
+    },
+    {
+      "$id": 80,
+      "style": 11,
+      "name": "ソート："
+    },
+    {
+      "$id": 81,
+      "style": 48,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 82,
+      "style": 26,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 83,
+      "style": 44,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 84,
+      "style": 49,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 85,
+      "style": 11,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 86,
+      "style": 28,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 87,
+      "style": 50,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 88,
+      "style": 51,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 89,
+      "style": 55,
+      "name": "[ML:number digit=6 ]"
+    },
+    {
+      "$id": 90,
+      "style": 31,
+      "name": "[ML:number digit=10 ]"
+    },
+    {
+      "$id": 91,
+      "style": 54,
+      "name": "[ML:number digit=10 ]"
+    },
+    {
+      "$id": 92,
+      "style": 29,
+      "name": "%3.1d"
+    },
+    {
+      "$id": 93,
+      "style": 50,
+      "name": "Check"
+    },
+    {
+      "$id": 94,
+      "style": 54,
+      "name": "OK"
+    },
+    {
+      "$id": 95,
+      "style": 54,
+      "name": "Cancel"
+    },
+    {
+      "$id": 96,
+      "style": 0,
+      "name": "Character Customization"
+    },
+    {
+      "$id": 97,
+      "style": 31,
+      "name": "Success"
+    },
+    {
+      "$id": 98,
+      "style": 31,
+      "name": "Failure"
+    },
+    {
+      "$id": 99,
+      "style": 0,
+      "name": "Owned Items"
+    },
+    {
+      "$id": 100,
+      "style": 0,
+      "name": "Lifestyle Items"
+    },
+    {
+      "$id": 101,
+      "style": 0,
+      "name": "Create Blade"
+    },
+    {
+      "$id": 102,
+      "style": 0,
+      "name": "Deploy Merc"
+    },
+    {
+      "$id": 103,
+      "style": 0,
+      "name": "PT Composition"
+    },
+    {
+      "$id": 104,
+      "style": 0,
+      "name": "Orb Training"
+    },
+    {
+      "$id": 105,
+      "style": 0,
+      "name": "Alst Guide"
+    },
+    {
+      "$id": 106,
+      "style": 0,
+      "name": "Change Time"
+    },
+    {
+      "$id": 107,
+      "style": 0,
+      "name": "Story Log"
+    },
+    {
+      "$id": 108,
+      "style": 0,
+      "name": "Options"
+    },
+    {
+      "$id": 109,
+      "style": 0,
+      "name": "Save"
+    },
+    {
+      "$id": 110,
+      "style": 0,
+      "name": "Topic"
+    },
+    {
+      "$id": 111,
+      "style": 0,
+      "name": "Party"
+    },
+    {
+      "$id": 112,
+      "style": 0,
+      "name": "Lifestyle-related"
+    },
+    {
+      "$id": 113,
+      "style": 0,
+      "name": "Field Skill"
+    },
+    {
+      "$id": 114,
+      "style": 34,
+      "name": "Save"
+    },
+    {
+      "$id": 115,
+      "style": 34,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 116,
+      "style": 29,
+      "name": "Pouch"
+    },
+    {
+      "$id": 117,
+      "style": 11,
+      "name": "Duration"
+    },
+    {
+      "$id": 118,
+      "style": 52,
+      "name": "[ML:number digit=3 padding=space ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 119,
+      "style": 14,
+      "name": "Set Item"
+    },
+    {
+      "$id": 120,
+      "style": 34,
+      "name": "Owner Bonus"
+    },
+    {
+      "$id": 121,
+      "style": 45,
+      "name": "+[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 122,
+      "style": 33,
+      "name": "Talk"
+    },
+    {
+      "$id": 123,
+      "style": 33,
+      "name": "Investigate"
+    },
+    {
+      "$id": 124,
+      "style": 33,
+      "name": "Collect"
+    },
+    {
+      "$id": 125,
+      "style": 33,
+      "name": "Salvage"
+    },
+    {
+      "$id": 126,
+      "style": 33,
+      "name": "Help up"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Press any button"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "New Game"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Continue"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Options"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Events Theater"
+    },
+    {
+      "$id": 132,
+      "style": 166,
+      "name": "© 2017 Nintendo / MONOLITHSOFT"
+    },
+    {
+      "$id": 133,
+      "style": 29,
+      "name": "関係者"
+    },
+    {
+      "$id": 134,
+      "style": 35,
+      "name": "推奨スキル"
+    },
+    {
+      "$id": 135,
+      "style": 28,
+      "name": "目的"
+    },
+    {
+      "$id": 136,
+      "style": 56,
+      "name": "すべての達成"
+    },
+    {
+      "$id": 137,
+      "style": 56,
+      "name": "いずれかの達成"
+    },
+    {
+      "$id": 138,
+      "style": 28,
+      "name": "概要"
+    },
+    {
+      "$id": 139,
+      "style": 28,
+      "name": "結末"
+    },
+    {
+      "$id": 140,
+      "style": 28,
+      "name": "報酬"
+    },
+    {
+      "$id": 141,
+      "style": 11,
+      "name": "DAYTIME"
+    },
+    {
+      "$id": 142,
+      "style": 12,
+      "name": "NIGHTTIME"
+    },
+    {
+      "$id": 143,
+      "style": 55,
+      "name": "Miss"
+    },
+    {
+      "$id": 144,
+      "style": 55,
+      "name": "Resist"
+    },
+    {
+      "$id": 145,
+      "style": 71,
+      "name": "[System:Color name=link]ウルス[/System:Color][ML:link kind=ene id=34]を選択してください"
+    },
+    {
+      "$id": 146,
+      "style": 72,
+      "name": "コアクリスタルを選択してください"
+    },
+    {
+      "$id": 147,
+      "style": 73,
+      "name": "このイデアグラムでブレイドを産み出します"
+    },
+    {
+      "$id": 148,
+      "style": 33,
+      "name": "コアクリスタル"
+    },
+    {
+      "$id": 149,
+      "style": 55,
+      "name": "Chain Attack"
+    },
+    {
+      "$id": 150,
+      "style": 7,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 151,
+      "style": 70,
+      "name": "メインメニュー"
+    },
+    {
+      "$id": 152,
+      "style": 14,
+      "name": "Current Driver"
+    },
+    {
+      "$id": 153,
+      "style": 75,
+      "name": "アイテム"
+    },
+    {
+      "$id": 154,
+      "style": 75,
+      "name": "アルストガイド"
+    },
+    {
+      "$id": 155,
+      "style": 75,
+      "name": "オーブ"
+    },
+    {
+      "$id": 156,
+      "style": 75,
+      "name": "オプション"
+    },
+    {
+      "$id": 157,
+      "style": 75,
+      "name": "キャラメイク"
+    },
+    {
+      "$id": 158,
+      "style": 75,
+      "name": "スキップタイム"
+    },
+    {
+      "$id": 159,
+      "style": 75,
+      "name": "ストーリー"
+    },
+    {
+      "$id": 160,
+      "style": 75,
+      "name": "セーブ"
+    },
+    {
+      "$id": 161,
+      "style": 75,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 162,
+      "style": 75,
+      "name": "ブレイド生成"
+    },
+    {
+      "$id": 163,
+      "style": 75,
+      "name": "ブレイド派遣"
+    },
+    {
+      "$id": 164,
+      "style": 75,
+      "name": "ポーチ"
+    },
+    {
+      "$id": 165,
+      "style": 29,
+      "name": "[ML:ElementComboName ]"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "[ML:ElementComboName ]"
+    },
+    {
+      "$id": 167,
+      "style": 12,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 168,
+      "style": 8,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 169,
+      "style": 111,
+      "name": "Lv"
+    },
+    {
+      "$id": 170,
+      "style": 9,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 171,
+      "style": 9,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 172,
+      "style": 8,
+      "name": "/"
+    },
+    {
+      "$id": 173,
+      "style": 127,
+      "name": "[ML:OperationName ]"
+    },
+    {
+      "$id": 174,
+      "style": 168,
+      "name": "[ML:OperationGuide ]"
+    },
+    {
+      "$id": 175,
+      "style": 168,
+      "name": "[ML:OperationGuide ]"
+    },
+    {
+      "$id": 176,
+      "style": 34,
+      "name": "Enemy Index"
+    },
+    {
+      "$id": 177,
+      "style": 34,
+      "name": "Item List"
+    },
+    {
+      "$id": 178,
+      "style": 70,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 179,
+      "style": 70,
+      "name": "Change Battle Order"
+    },
+    {
+      "$id": 180,
+      "style": 52,
+      "name": "1ｓt"
+    },
+    {
+      "$id": 181,
+      "style": 52,
+      "name": "2nd"
+    },
+    {
+      "$id": 182,
+      "style": 52,
+      "name": "3rd"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "戦闘パーティ ドライバー"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "ひかえ ドライバー"
+    },
+    {
+      "$id": 185,
+      "style": 51,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 186,
+      "style": 51,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 187,
+      "style": 50,
+      "name": "HP"
+    },
+    {
+      "$id": 188,
+      "style": 28,
+      "name": "Lv"
+    },
+    {
+      "$id": 189,
+      "style": 26,
+      "name": "/"
+    },
+    {
+      "$id": 190,
+      "style": 50,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 191,
+      "style": 14,
+      "name": "物理防御"
+    },
+    {
+      "$id": 192,
+      "style": 57,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 193,
+      "style": 57,
+      "name": "ドライバー詳細"
+    },
+    {
+      "$id": 194,
+      "style": 35,
+      "name": "攻撃ステータス"
+    },
+    {
+      "$id": 195,
+      "style": 35,
+      "name": "防御ステータス"
+    },
+    {
+      "$id": 196,
+      "style": 35,
+      "name": "確率ステータス"
+    },
+    {
+      "$id": 197,
+      "style": 35,
+      "name": "ベースステータス"
+    },
+    {
+      "$id": 198,
+      "style": 14,
+      "name": "Auto-Attack"
+    },
+    {
+      "$id": 199,
+      "style": 14,
+      "name": "物理攻撃"
+    },
+    {
+      "$id": 200,
+      "style": 14,
+      "name": "Ether Defense"
+    },
+    {
+      "$id": 201,
+      "style": 14,
+      "name": "クリティカル率"
+    },
+    {
+      "$id": 202,
+      "style": 14,
+      "name": "ガード"
+    },
+    {
+      "$id": 203,
+      "style": 14,
+      "name": "Strength"
+    },
+    {
+      "$id": 204,
+      "style": 14,
+      "name": "Ether"
+    },
+    {
+      "$id": 205,
+      "style": 14,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 206,
+      "style": 14,
+      "name": "Agility"
+    },
+    {
+      "$id": 207,
+      "style": 14,
+      "name": "Luck"
+    },
+    {
+      "$id": 208,
+      "style": 11,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 209,
+      "style": 11,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 210,
+      "style": 14,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 211,
+      "style": 30,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 212,
+      "style": 27,
+      "name": "HP"
+    },
+    {
+      "$id": 213,
+      "style": 27,
+      "name": "Lv"
+    },
+    {
+      "$id": 214,
+      "style": 27,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 215,
+      "style": 27,
+      "name": "/"
+    },
+    {
+      "$id": 216,
+      "style": 34,
+      "name": "ブレイド情報"
+    },
+    {
+      "$id": 217,
+      "style": 28,
+      "name": "ATK"
+    },
+    {
+      "$id": 218,
+      "style": 28,
+      "name": "HLR"
+    },
+    {
+      "$id": 219,
+      "style": 28,
+      "name": "TNK"
+    },
+    {
+      "$id": 220,
+      "style": 28,
+      "name": "BUF"
+    },
+    {
+      "$id": 221,
+      "style": 28,
+      "name": "ALR"
+    },
+    {
+      "$id": 222,
+      "style": 30,
+      "name": "CURRENT"
+    },
+    {
+      "$id": 223,
+      "style": 35,
+      "name": "ブレイドの組み合わせロール表示"
+    },
+    {
+      "$id": 224,
+      "style": 31,
+      "name": "アーツ情報"
+    },
+    {
+      "$id": 225,
+      "style": 35,
+      "name": "イデアグラム情報"
+    },
+    {
+      "$id": 226,
+      "style": 70,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 227,
+      "style": 37,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 228,
+      "style": 27,
+      "name": "Lv"
+    },
+    {
+      "$id": 229,
+      "style": 35,
+      "name": "インフォタイトル"
+    },
+    {
+      "$id": 230,
+      "style": 15,
+      "name": "インフォ内容"
+    },
+    {
+      "$id": 231,
+      "style": 76,
+      "name": "[ML:JogItemName ]"
+    },
+    {
+      "$id": 232,
+      "style": 35,
+      "name": "操作キャラ変更"
+    },
+    {
+      "$id": 233,
+      "style": 26,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 234,
+      "style": 26,
+      "name": "/"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Hræsvelgr Mercenaries"
+    },
+    {
+      "$id": 236,
+      "style": 70,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Dev Level"
+    },
+    {
+      "$id": 238,
+      "style": 57,
+      "name": "Merc Lv [ML:number ]"
+    },
+    {
+      "$id": 239,
+      "style": 122,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 240,
+      "style": 121,
+      "name": "/"
+    },
+    {
+      "$id": 241,
+      "style": 14,
+      "name": "Next"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "New mission(s) added."
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Squad Status"
+    },
+    {
+      "$id": 244,
+      "style": 132,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 245,
+      "style": 6,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 246,
+      "style": 36,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 247,
+      "style": 75,
+      "name": "Returning"
+    },
+    {
+      "$id": 248,
+      "style": 75,
+      "name": "Standing by"
+    },
+    {
+      "$id": 249,
+      "style": 13,
+      "name": "On mission"
+    },
+    {
+      "$id": 250,
+      "style": 75,
+      "name": "Can Dispatch"
+    },
+    {
+      "$id": 251,
+      "style": 36,
+      "name": "Notice"
+    },
+    {
+      "$id": 252,
+      "style": 25,
+      "name": "You can undertake a level-up mission\nand raise your Merc Group Rank!"
+    },
+    {
+      "$id": 253,
+      "style": 25,
+      "name": "A new mission is available!\nCheck it out on the mission list."
+    },
+    {
+      "$id": 254,
+      "style": 13,
+      "name": "NEW"
+    },
+    {
+      "$id": 255,
+      "style": 36,
+      "name": "Mission List"
+    },
+    {
+      "$id": 256,
+      "style": 36,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 257,
+      "style": 4,
+      "name": "Time Required"
+    },
+    {
+      "$id": 258,
+      "style": 4,
+      "name": "Mission Name"
+    },
+    {
+      "$id": 259,
+      "style": 15,
+      "name": "About [ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 260,
+      "style": 15,
+      "name": "Mission ends in:"
+    },
+    {
+      "$id": 261,
+      "style": 15,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 262,
+      "style": 32,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 263,
+      "style": 70,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 264,
+      "style": 36,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 265,
+      "style": 43,
+      "name": "任務詳細\n２０文字\n３行\n０１２３４５６７８９０１２３４５６７８９"
+    },
+    {
+      "$id": 266,
+      "style": 36,
+      "name": "Duration"
+    },
+    {
+      "$id": 267,
+      "style": 6,
+      "name": "Suggested Field Skill"
+    },
+    {
+      "$id": 268,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 269,
+      "style": 6,
+      "name": "Mission Requirements"
+    },
+    {
+      "$id": 270,
+      "style": 36,
+      "name": "任務条件１２文字"
+    },
+    {
+      "$id": 271,
+      "style": 34,
+      "name": "[ML:number digit=4 ]+"
+    },
+    {
+      "$id": 272,
+      "style": 34,
+      "name": "Lv [ML:number digit=2 ]+"
+    },
+    {
+      "$id": 273,
+      "style": 130,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 274,
+      "style": 28,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 275,
+      "style": 129,
+      "name": "/"
+    },
+    {
+      "$id": 276,
+      "style": 36,
+      "name": "Advancing Team"
+    },
+    {
+      "$id": 277,
+      "style": 22,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 278,
+      "style": 70,
+      "name": "Squad Composition"
+    },
+    {
+      "$id": 279,
+      "style": 70,
+      "name": "Cancel Mission"
+    },
+    {
+      "$id": 280,
+      "style": 22,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 281,
+      "style": 34,
+      "name": "Auto-Formation"
+    },
+    {
+      "$id": 282,
+      "style": 14,
+      "name": "Save"
+    },
+    {
+      "$id": 283,
+      "style": 14,
+      "name": "Load"
+    },
+    {
+      "$id": 284,
+      "style": 35,
+      "name": "Start Mission"
+    },
+    {
+      "$id": 285,
+      "style": 15,
+      "name": "Remove Blade"
+    },
+    {
+      "$id": 286,
+      "style": 36,
+      "name": "Current Squad Info"
+    },
+    {
+      "$id": 287,
+      "style": 36,
+      "name": "Conditions"
+    },
+    {
+      "$id": 288,
+      "style": 36,
+      "name": "Current Squad Info"
+    },
+    {
+      "$id": 289,
+      "style": 15,
+      "name": "Total Strength"
+    },
+    {
+      "$id": 290,
+      "style": 10,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 291,
+      "style": 15,
+      "name": "Arms Class"
+    },
+    {
+      "$id": 292,
+      "style": 15,
+      "name": "Class"
+    },
+    {
+      "$id": 293,
+      "style": 15,
+      "name": "Squad Field Skill"
+    },
+    {
+      "$id": 294,
+      "style": 8,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 295,
+      "style": 12,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 296,
+      "style": 8,
+      "name": "/"
+    },
+    {
+      "$id": 297,
+      "style": 36,
+      "name": "Blade List"
+    },
+    {
+      "$id": 298,
+      "style": 36,
+      "name": "Blades to Dispatch"
+    },
+    {
+      "$id": 299,
+      "style": 34,
+      "name": "Begin Mission"
+    },
+    {
+      "$id": 300,
+      "style": 70,
+      "name": "Activate Field Skill"
+    },
+    {
+      "$id": 301,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 302,
+      "style": 12,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 303,
+      "style": 35,
+      "name": "Time Required"
+    },
+    {
+      "$id": 304,
+      "style": 37,
+      "name": "About [ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 305,
+      "style": 70,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 306,
+      "style": 36,
+      "name": "Humanoid"
+    },
+    {
+      "$id": 307,
+      "style": 36,
+      "name": "Animal"
+    },
+    {
+      "$id": 308,
+      "style": 36,
+      "name": "Strength"
+    },
+    {
+      "$id": 309,
+      "style": 30,
+      "name": "Team[ML:Space ]"
+    },
+    {
+      "$id": 310,
+      "style": 36,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 311,
+      "style": 36,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 312,
+      "style": 6,
+      "name": "Region"
+    },
+    {
+      "$id": 313,
+      "style": 41,
+      "name": "Merc Mission Complete!"
+    },
+    {
+      "$id": 314,
+      "style": 36,
+      "name": "Preset"
+    },
+    {
+      "$id": 315,
+      "style": 144,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 316,
+      "style": 36,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 317,
+      "style": 36,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 318,
+      "style": 6,
+      "name": "Squad Name:"
+    },
+    {
+      "$id": 319,
+      "style": 70,
+      "name": "傭兵団"
+    },
+    {
+      "$id": 320,
+      "style": 70,
+      "name": "第一傭兵部隊"
+    },
+    {
+      "$id": 321,
+      "style": 70,
+      "name": "第二傭兵部隊"
+    },
+    {
+      "$id": 322,
+      "style": 70,
+      "name": "第三傭兵部隊"
+    },
+    {
+      "$id": 323,
+      "style": 49,
+      "name": "Lv"
+    },
+    {
+      "$id": 324,
+      "style": 49,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 325,
+      "style": 57,
+      "name": "フレースヴェルグ傭兵団"
+    },
+    {
+      "$id": 326,
+      "style": 53,
+      "name": "任務可能"
+    },
+    {
+      "$id": 327,
+      "style": 53,
+      "name": "任務中"
+    },
+    {
+      "$id": 328,
+      "style": 53,
+      "name": "任務完了"
+    },
+    {
+      "$id": 329,
+      "style": 35,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 330,
+      "style": 37,
+      "name": "任務名15文字"
+    },
+    {
+      "$id": 331,
+      "style": 54,
+      "name": "任務受付中"
+    },
+    {
+      "$id": 332,
+      "style": 37,
+      "name": "任務完了まで　あと　[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 333,
+      "style": 31,
+      "name": "つよさ"
+    },
+    {
+      "$id": 334,
+      "style": 27,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 335,
+      "style": 33,
+      "name": "性別（種別）"
+    },
+    {
+      "$id": 336,
+      "style": 26,
+      "name": "x[ML:number ]"
+    },
+    {
+      "$id": 337,
+      "style": 35,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 338,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 339,
+      "style": 28,
+      "name": "Lv[ML:number digit=2 ]"
+    },
+    {
+      "$id": 340,
+      "style": 26,
+      "name": "-"
+    },
+    {
+      "$id": 341,
+      "style": 36,
+      "name": "ブレイドのステータス詳細"
+    },
+    {
+      "$id": 342,
+      "style": 28,
+      "name": "名前"
+    },
+    {
+      "$id": 343,
+      "style": 28,
+      "name": "elemental"
+    },
+    {
+      "$id": 344,
+      "style": 28,
+      "name": "武器"
+    },
+    {
+      "$id": 345,
+      "style": 33,
+      "name": "性別（種別）"
+    },
+    {
+      "$id": 346,
+      "style": 29,
+      "name": "つよさ"
+    },
+    {
+      "$id": 347,
+      "style": 35,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 348,
+      "style": 35,
+      "name": "イデアグラム"
+    },
+    {
+      "$id": 349,
+      "style": 35,
+      "name": "現在のドライバー"
+    },
+    {
+      "$id": 350,
+      "style": 36,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 351,
+      "style": 36,
+      "name": "属性名（9種）"
+    },
+    {
+      "$id": 352,
+      "style": 36,
+      "name": "武器種１０文字"
+    },
+    {
+      "$id": 353,
+      "style": 29,
+      "name": "男性型"
+    },
+    {
+      "$id": 354,
+      "style": 29,
+      "name": "女性型"
+    },
+    {
+      "$id": 355,
+      "style": 29,
+      "name": "動物型"
+    },
+    {
+      "$id": 356,
+      "style": 27,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 357,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 358,
+      "style": 28,
+      "name": "Lv[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 359,
+      "style": 70,
+      "name": "任務地域選択"
+    },
+    {
+      "$id": 360,
+      "style": 70,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 361,
+      "style": 53,
+      "name": "任務中"
+    },
+    {
+      "$id": 362,
+      "style": 69,
+      "name": "任務完了"
+    },
+    {
+      "$id": 363,
+      "style": 69,
+      "name": "派兵状況"
+    },
+    {
+      "$id": 364,
+      "style": 69,
+      "name": "おしらせ"
+    },
+    {
+      "$id": 365,
+      "style": 39,
+      "name": "レベルアップ任務　受付可能\n傭兵団レベルを解放せよ！"
+    },
+    {
+      "$id": 366,
+      "style": 39,
+      "name": "新しい任務があります\n任務一覧で確認しましょう！"
+    },
+    {
+      "$id": 367,
+      "style": 70,
+      "name": "任務選択"
+    },
+    {
+      "$id": 368,
+      "style": 70,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 369,
+      "style": 36,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 370,
+      "style": 54,
+      "name": "任務中"
+    },
+    {
+      "$id": 371,
+      "style": 54,
+      "name": "任務完了"
+    },
+    {
+      "$id": 372,
+      "style": 54,
+      "name": "任務可能"
+    },
+    {
+      "$id": 373,
+      "style": 54,
+      "name": "任務受付中"
+    },
+    {
+      "$id": 374,
+      "style": 63,
+      "name": "現在、受けられる任務はありません"
+    },
+    {
+      "$id": 375,
+      "style": 37,
+      "name": "任務完了まで　あと　[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 376,
+      "style": 36,
+      "name": "所要時間　およそ　[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 377,
+      "style": 70,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 378,
+      "style": 70,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 379,
+      "style": 70,
+      "name": "を達成しました！"
+    },
+    {
+      "$id": 380,
+      "style": 67,
+      "name": "報酬"
+    },
+    {
+      "$id": 381,
+      "style": 55,
+      "name": "報酬額"
+    },
+    {
+      "$id": 382,
+      "style": 55,
+      "name": "EXP"
+    },
+    {
+      "$id": 383,
+      "style": 55,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 384,
+      "style": 55,
+      "name": "発展ポイント"
+    },
+    {
+      "$id": 385,
+      "style": 53,
+      "name": "アイテム"
+    },
+    {
+      "$id": 386,
+      "style": 55,
+      "name": "イデアグラムポイント"
+    },
+    {
+      "$id": 387,
+      "style": 28,
+      "name": "UP!"
+    },
+    {
+      "$id": 388,
+      "style": 29,
+      "name": "Lv UP!"
+    },
+    {
+      "$id": 389,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 390,
+      "style": 33,
+      "name": "[ML:number digit=9 ]P"
+    },
+    {
+      "$id": 391,
+      "style": 33,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 392,
+      "style": 29,
+      "name": "[ML:number digit=3 ]P"
+    },
+    {
+      "$id": 393,
+      "style": 28,
+      "name": "x[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 394,
+      "style": 26,
+      "name": "+"
+    },
+    {
+      "$id": 395,
+      "style": 30,
+      "name": "ボーナス"
+    },
+    {
+      "$id": 396,
+      "style": 70,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 397,
+      "style": 70,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 398,
+      "style": 56,
+      "name": "依頼内容"
+    },
+    {
+      "$id": 399,
+      "style": 56,
+      "name": "条件"
+    },
+    {
+      "$id": 400,
+      "style": 53,
+      "name": "報酬"
+    },
+    {
+      "$id": 401,
+      "style": 56,
+      "name": "期間"
+    },
+    {
+      "$id": 402,
+      "style": 57,
+      "name": "推奨フィールドスキル"
+    },
+    {
+      "$id": 403,
+      "style": 38,
+      "name": "[ML:QuestSummary ]"
+    },
+    {
+      "$id": 404,
+      "style": 38,
+      "name": "[ML:QuestTask ]"
+    },
+    {
+      "$id": 405,
+      "style": 31,
+      "name": "報酬額"
+    },
+    {
+      "$id": 406,
+      "style": 31,
+      "name": "経験値"
+    },
+    {
+      "$id": 407,
+      "style": 33,
+      "name": "発展ポイント"
+    },
+    {
+      "$id": 408,
+      "style": 31,
+      "name": "アイテム"
+    },
+    {
+      "$id": 409,
+      "style": 36,
+      "name": "イデアグラムポイントのUP"
+    },
+    {
+      "$id": 410,
+      "style": 31,
+      "name": "アイテム名"
+    },
+    {
+      "$id": 411,
+      "style": 31,
+      "name": "[ML:number digit=9 ]P"
+    },
+    {
+      "$id": 412,
+      "style": 31,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 413,
+      "style": 28,
+      "name": "[ML:number digit=3 ]P"
+    },
+    {
+      "$id": 414,
+      "style": 28,
+      "name": "X[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 415,
+      "style": 37,
+      "name": "任務完了まで　あと　[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 416,
+      "style": 36,
+      "name": "所要時間　およそ　[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 417,
+      "style": 75,
+      "name": "所要時間　およそ"
+    },
+    {
+      "$id": 418,
+      "style": 78,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 419,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 420,
+      "style": 80,
+      "name": "フィールドスキル発動！！"
+    },
+    {
+      "$id": 421,
+      "style": 70,
+      "name": "第一傭兵部隊"
+    },
+    {
+      "$id": 422,
+      "style": 70,
+      "name": "第二傭兵部隊"
+    },
+    {
+      "$id": 423,
+      "style": 70,
+      "name": "第三傭兵部隊"
+    },
+    {
+      "$id": 424,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 425,
+      "style": 27,
+      "name": "Lv[ML:number ]"
+    },
+    {
+      "$id": 426,
+      "style": 75,
+      "name": "Merc Missions"
+    },
+    {
+      "$id": 427,
+      "style": 33,
+      "name": "部隊編成"
+    },
+    {
+      "$id": 428,
+      "style": 70,
+      "name": "ブレイド リリース"
+    },
+    {
+      "$id": 429,
+      "style": 35,
+      "name": "第一傭兵部隊"
+    },
+    {
+      "$id": 430,
+      "style": 35,
+      "name": "第二傭兵部隊"
+    },
+    {
+      "$id": 431,
+      "style": 35,
+      "name": "第三傭兵部隊"
+    },
+    {
+      "$id": 432,
+      "style": 35,
+      "name": "第四傭兵部隊"
+    },
+    {
+      "$id": 433,
+      "style": 35,
+      "name": "第五傭兵部隊"
+    },
+    {
+      "$id": 434,
+      "style": 35,
+      "name": "第六傭兵部隊"
+    },
+    {
+      "$id": 435,
+      "style": 35,
+      "name": "第七傭兵部隊"
+    },
+    {
+      "$id": 436,
+      "style": 35,
+      "name": "第八傭兵部隊"
+    },
+    {
+      "$id": 437,
+      "style": 35,
+      "name": "第九傭兵部隊"
+    },
+    {
+      "$id": 438,
+      "style": 35,
+      "name": "第十傭兵部隊"
+    },
+    {
+      "$id": 439,
+      "style": 56,
+      "name": "任務完了!"
+    },
+    {
+      "$id": 440,
+      "style": 57,
+      "name": "吹き出し報告セリフ10文字"
+    },
+    {
+      "$id": 441,
+      "style": 29,
+      "name": "+[ML:number digit=3 ]"
+    },
+    {
+      "$id": 442,
+      "style": 70,
+      "name": "GOOD"
+    },
+    {
+      "$id": 443,
+      "style": 70,
+      "name": "COOL!"
+    },
+    {
+      "$id": 444,
+      "style": 70,
+      "name": "EXCELLENT!"
+    },
+    {
+      "$id": 445,
+      "style": 53,
+      "name": "NEW"
+    },
+    {
+      "$id": 446,
+      "style": 36,
+      "name": "Male"
+    },
+    {
+      "$id": 447,
+      "style": 36,
+      "name": "Female"
+    },
+    {
+      "$id": 448,
+      "style": 36,
+      "name": "Animal"
+    },
+    {
+      "$id": 449,
+      "style": 36,
+      "name": "人型"
+    },
+    {
+      "$id": 450,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 451,
+      "style": 27,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 452,
+      "style": 26,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 453,
+      "style": 27,
+      "name": "Lv[ML:number ]"
+    },
+    {
+      "$id": 454,
+      "style": 34,
+      "name": "つよさ"
+    },
+    {
+      "$id": 455,
+      "style": 34,
+      "name": "性別"
+    },
+    {
+      "$id": 456,
+      "style": 34,
+      "name": "種別"
+    },
+    {
+      "$id": 457,
+      "style": 34,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 458,
+      "style": 34,
+      "name": "武器"
+    },
+    {
+      "$id": 459,
+      "style": 34,
+      "name": "アーツ"
+    },
+    {
+      "$id": 460,
+      "style": 57,
+      "name": "Joint Combo Finish!"
+    },
+    {
+      "$id": 461,
+      "style": 54,
+      "name": "[ML:MissionStatus ]"
+    },
+    {
+      "$id": 462,
+      "style": 56,
+      "name": "ドライバー詳細"
+    },
+    {
+      "$id": 463,
+      "style": 34,
+      "name": "Driver"
+    },
+    {
+      "$id": 464,
+      "style": 47,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 465,
+      "style": 45,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 466,
+      "style": 44,
+      "name": "HP"
+    },
+    {
+      "$id": 467,
+      "style": 44,
+      "name": "/"
+    },
+    {
+      "$id": 468,
+      "style": 45,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 469,
+      "style": 36,
+      "name": "装備アクセサリー"
+    },
+    {
+      "$id": 470,
+      "style": 46,
+      "name": "装備アクセサリー名あああ"
+    },
+    {
+      "$id": 471,
+      "style": 36,
+      "name": "攻撃ステータス"
+    },
+    {
+      "$id": 472,
+      "style": 36,
+      "name": "防御ステータス"
+    },
+    {
+      "$id": 473,
+      "style": 36,
+      "name": "確率ステータス"
+    },
+    {
+      "$id": 474,
+      "style": 36,
+      "name": "ベースステータス"
+    },
+    {
+      "$id": 475,
+      "style": 47,
+      "name": "Auto-Attack"
+    },
+    {
+      "$id": 476,
+      "style": 47,
+      "name": "Physical Defense"
+    },
+    {
+      "$id": 477,
+      "style": 47,
+      "name": "Ether Defense"
+    },
+    {
+      "$id": 478,
+      "style": 47,
+      "name": "クリティカル率"
+    },
+    {
+      "$id": 479,
+      "style": 47,
+      "name": "ガード率"
+    },
+    {
+      "$id": 480,
+      "style": 47,
+      "name": "Strength"
+    },
+    {
+      "$id": 481,
+      "style": 47,
+      "name": "Ether"
+    },
+    {
+      "$id": 482,
+      "style": 47,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 483,
+      "style": 47,
+      "name": "Agility"
+    },
+    {
+      "$id": 484,
+      "style": 47,
+      "name": "Luck"
+    },
+    {
+      "$id": 485,
+      "style": 45,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 486,
+      "style": 45,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 487,
+      "style": 45,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 488,
+      "style": 36,
+      "name": "アーツ"
+    },
+    {
+      "$id": 489,
+      "style": 46,
+      "name": "アーツ名ああああああああ"
+    },
+    {
+      "$id": 490,
+      "style": 45,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 491,
+      "style": 8,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 492,
+      "style": 8,
+      "name": "/"
+    },
+    {
+      "$id": 493,
+      "style": 36,
+      "name": "キズナリング"
+    },
+    {
+      "$id": 494,
+      "style": 44,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 495,
+      "style": 36,
+      "name": "イデアグラム"
+    },
+    {
+      "$id": 496,
+      "style": 10,
+      "name": "idea1"
+    },
+    {
+      "$id": 497,
+      "style": 10,
+      "name": "idea2"
+    },
+    {
+      "$id": 498,
+      "style": 10,
+      "name": "idea3"
+    },
+    {
+      "$id": 499,
+      "style": 10,
+      "name": "idea4"
+    },
+    {
+      "$id": 500,
+      "style": 10,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 501,
+      "style": 12,
+      "name": "ドライバー"
+    },
+    {
+      "$id": 502,
+      "style": 12,
+      "name": "ブレイド"
+    },
+    {
+      "$id": 503,
+      "style": 36,
+      "name": "ブレイドとの相性"
+    },
+    {
+      "$id": 504,
+      "style": 8,
+      "name": "S"
+    },
+    {
+      "$id": 505,
+      "style": 8,
+      "name": "A"
+    },
+    {
+      "$id": 506,
+      "style": 8,
+      "name": "B"
+    },
+    {
+      "$id": 507,
+      "style": 8,
+      "name": "C"
+    },
+    {
+      "$id": 508,
+      "style": 8,
+      "name": "D"
+    },
+    {
+      "$id": 509,
+      "style": 8,
+      "name": "E"
+    },
+    {
+      "$id": 510,
+      "style": 10,
+      "name": "1st"
+    },
+    {
+      "$id": 511,
+      "style": 10,
+      "name": "2nd"
+    },
+    {
+      "$id": 512,
+      "style": 10,
+      "name": "3rd"
+    },
+    {
+      "$id": 513,
+      "style": 36,
+      "name": "経験値"
+    },
+    {
+      "$id": 514,
+      "style": 47,
+      "name": "Exp"
+    },
+    {
+      "$id": 515,
+      "style": 47,
+      "name": "NextExp"
+    },
+    {
+      "$id": 516,
+      "style": 47,
+      "name": "TotalExp"
+    },
+    {
+      "$id": 517,
+      "style": 47,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 518,
+      "style": 36,
+      "name": "ブレイド"
+    },
+    {
+      "$id": 519,
+      "style": 55,
+      "name": "ブレイド詳細"
+    },
+    {
+      "$id": 520,
+      "style": 36,
+      "name": "ブレイド"
+    },
+    {
+      "$id": 521,
+      "style": 47,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 522,
+      "style": 36,
+      "name": "elemental"
+    },
+    {
+      "$id": 523,
+      "style": 47,
+      "name": "属性名（9種）"
+    },
+    {
+      "$id": 524,
+      "style": 36,
+      "name": "性別"
+    },
+    {
+      "$id": 525,
+      "style": 36,
+      "name": "種別"
+    },
+    {
+      "$id": 526,
+      "style": 47,
+      "name": "男性型"
+    },
+    {
+      "$id": 527,
+      "style": 47,
+      "name": "女性型"
+    },
+    {
+      "$id": 528,
+      "style": 47,
+      "name": "人型"
+    },
+    {
+      "$id": 529,
+      "style": 47,
+      "name": "動物型"
+    },
+    {
+      "$id": 530,
+      "style": 36,
+      "name": "つよさ"
+    },
+    {
+      "$id": 531,
+      "style": 47,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 532,
+      "style": 36,
+      "name": "ロール"
+    },
+    {
+      "$id": 533,
+      "style": 47,
+      "name": "[ML:RoleName ]"
+    },
+    {
+      "$id": 534,
+      "style": 36,
+      "name": "フィールドスキル"
+    },
+    {
+      "$id": 535,
+      "style": 47,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 536,
+      "style": 47,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 537,
+      "style": 36,
+      "name": "武器種"
+    },
+    {
+      "$id": 538,
+      "style": 46,
+      "name": "武器種名ああああああああ"
+    },
+    {
+      "$id": 539,
+      "style": 36,
+      "name": "武器名"
+    },
+    {
+      "$id": 540,
+      "style": 46,
+      "name": "武器名あああああああああ"
+    },
+    {
+      "$id": 541,
+      "style": 36,
+      "name": "オーブスロット"
+    },
+    {
+      "$id": 542,
+      "style": 47,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 543,
+      "style": 36,
+      "name": "アーツ"
+    },
+    {
+      "$id": 544,
+      "style": 46,
+      "name": "アーツ名ああああああああ"
+    },
+    {
+      "$id": 545,
+      "style": 47,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 546,
+      "style": 36,
+      "name": "バトルスキル"
+    },
+    {
+      "$id": 547,
+      "style": 47,
+      "name": "必殺技"
+    },
+    {
+      "$id": 548,
+      "style": 47,
+      "name": "X[ML:number ]"
+    },
+    {
+      "$id": 549,
+      "style": 36,
+      "name": "クールタイム"
+    },
+    {
+      "$id": 550,
+      "style": 36,
+      "name": "補正値"
+    },
+    {
+      "$id": 551,
+      "style": 47,
+      "name": "ベースST名"
+    },
+    {
+      "$id": 552,
+      "style": 36,
+      "name": "好物"
+    },
+    {
+      "$id": 553,
+      "style": 46,
+      "name": "嗜好品名ああああああああ"
+    },
+    {
+      "$id": 554,
+      "style": 36,
+      "name": "現在のドライバー"
+    },
+    {
+      "$id": 555,
+      "style": 36,
+      "name": "生成ドライバー"
+    },
+    {
+      "$id": 556,
+      "style": 47,
+      "name": "なし"
+    },
+    {
+      "$id": 557,
+      "style": 36,
+      "name": "レアリティ"
+    },
+    {
+      "$id": 558,
+      "style": 68,
+      "name": "任務中"
+    },
+    {
+      "$id": 559,
+      "style": 81,
+      "name": "任務完了"
+    },
+    {
+      "$id": 560,
+      "style": 37,
+      "name": "SALVAGE RESULT"
+    },
+    {
+      "$id": 561,
+      "style": 35,
+      "name": "チェインアタック"
+    },
+    {
+      "$id": 562,
+      "style": 29,
+      "name": "開始"
+    },
+    {
+      "$id": 563,
+      "style": 44,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 564,
+      "style": 26,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 565,
+      "style": 51,
+      "name": "act"
+    },
+    {
+      "$id": 566,
+      "style": 55,
+      "name": "ダメージ"
+    },
+    {
+      "$id": 567,
+      "style": 28,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 568,
+      "style": 70,
+      "name": "Chain Start"
+    },
+    {
+      "$id": 569,
+      "style": 70,
+      "name": "Elemental Burst"
+    },
+    {
+      "$id": 570,
+      "style": 70,
+      "name": "Chance Time"
+    },
+    {
+      "$id": 571,
+      "style": 70,
+      "name": "Full Burst!!"
+    },
+    {
+      "$id": 572,
+      "style": 70,
+      "name": "Chain Finish"
+    },
+    {
+      "$id": 573,
+      "style": 70,
+      "name": "Total Damage [ML:number digit=7 ]"
+    },
+    {
+      "$id": 574,
+      "style": 70,
+      "name": "UniteCombo [ML:number digit=2 ]"
+    },
+    {
+      "$id": 575,
+      "style": 70,
+      "name": "Exp Bonus [ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 576,
+      "style": 57,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 577,
+      "style": 57,
+      "name": "Choose level-up"
+    },
+    {
+      "$id": 578,
+      "style": 35,
+      "name": "You can level up!"
+    },
+    {
+      "$id": 579,
+      "style": 54,
+      "name": "EXP"
+    },
+    {
+      "$id": 580,
+      "style": 54,
+      "name": "EXP to next"
+    },
+    {
+      "$id": 581,
+      "style": 54,
+      "name": "Total EXP"
+    },
+    {
+      "$id": 582,
+      "style": 31,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 583,
+      "style": 44,
+      "name": "HP"
+    },
+    {
+      "$id": 584,
+      "style": 45,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 585,
+      "style": 45,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 586,
+      "style": 44,
+      "name": "/"
+    },
+    {
+      "$id": 587,
+      "style": 69,
+      "name": "Auto-all"
+    },
+    {
+      "$id": 588,
+      "style": 69,
+      "name": "Manual"
+    },
+    {
+      "$id": 589,
+      "style": 69,
+      "name": "Back"
+    },
+    {
+      "$id": 590,
+      "style": 69,
+      "name": "Auto-select"
+    },
+    {
+      "$id": 591,
+      "style": 70,
+      "name": "Confirm level"
+    },
+    {
+      "$id": 592,
+      "style": 77,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 593,
+      "style": 34,
+      "name": "EXP to next"
+    },
+    {
+      "$id": 594,
+      "style": 34,
+      "name": "Current EXP"
+    },
+    {
+      "$id": 595,
+      "style": 34,
+      "name": "Total EXP"
+    },
+    {
+      "$id": 596,
+      "style": 13,
+      "name": "EXP to next"
+    },
+    {
+      "$id": 597,
+      "style": 13,
+      "name": "EXP"
+    },
+    {
+      "$id": 598,
+      "style": 13,
+      "name": "Total EXP"
+    },
+    {
+      "$id": 599,
+      "style": 69,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 600,
+      "style": 69,
+      "name": "Level Up!"
+    },
+    {
+      "$id": 601,
+      "style": 75,
+      "name": "傭兵部隊編成"
+    },
+    {
+      "$id": 602,
+      "style": 75,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 603,
+      "style": 29,
+      "name": "つよさ"
+    },
+    {
+      "$id": 604,
+      "style": 26,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 605,
+      "style": 55,
+      "name": "第一傭兵部隊"
+    },
+    {
+      "$id": 606,
+      "style": 55,
+      "name": "第二傭兵部隊"
+    },
+    {
+      "$id": 607,
+      "style": 55,
+      "name": "第三傭兵部隊"
+    },
+    {
+      "$id": 608,
+      "style": 56,
+      "name": "オート編成"
+    },
+    {
+      "$id": 609,
+      "style": 56,
+      "name": "プリセット登録"
+    },
+    {
+      "$id": 610,
+      "style": 57,
+      "name": "プリセット呼び出し"
+    },
+    {
+      "$id": 611,
+      "style": 53,
+      "name": "任務開始"
+    },
+    {
+      "$id": 612,
+      "style": 69,
+      "name": "任務条件"
+    },
+    {
+      "$id": 613,
+      "style": 69,
+      "name": "部隊詳細"
+    },
+    {
+      "$id": 614,
+      "style": 70,
+      "name": "推奨フィールドスキル"
+    },
+    {
+      "$id": 615,
+      "style": 43,
+      "name": "任務条件20文字あああああああああああああ"
+    },
+    {
+      "$id": 616,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 617,
+      "style": 26,
+      "name": "/"
+    },
+    {
+      "$id": 618,
+      "style": 26,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 619,
+      "style": 27,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 620,
+      "style": 30,
+      "name": "選択済み"
+    },
+    {
+      "$id": 621,
+      "style": 30,
+      "name": "任務中"
+    },
+    {
+      "$id": 622,
+      "style": 31,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 623,
+      "style": 47,
+      "name": "きりかえ"
+    },
+    {
+      "$id": 624,
+      "style": 49,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 625,
+      "style": 75,
+      "name": "ブレイドセット"
+    },
+    {
+      "$id": 626,
+      "style": 54,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 627,
+      "style": 50,
+      "name": "1st"
+    },
+    {
+      "$id": 628,
+      "style": 53,
+      "name": "完了"
+    },
+    {
+      "$id": 629,
+      "style": 51,
+      "name": "任務中"
+    },
+    {
+      "$id": 630,
+      "style": 75,
+      "name": "ブレイドリリース"
+    },
+    {
+      "$id": 631,
+      "style": 53,
+      "name": "リリース"
+    },
+    {
+      "$id": 632,
+      "style": 47,
+      "name": "ソート"
+    },
+    {
+      "$id": 633,
+      "style": 39,
+      "name": "ソート内容１５文字ああああああ"
+    },
+    {
+      "$id": 634,
+      "style": 56,
+      "name": "ステータス詳細"
+    },
+    {
+      "$id": 635,
+      "style": 56,
+      "name": "装備変更"
+    },
+    {
+      "$id": 636,
+      "style": 56,
+      "name": "キズナリング"
+    },
+    {
+      "$id": 637,
+      "style": 70,
+      "name": "[ML:ShopName ]"
+    },
+    {
+      "$id": 638,
+      "style": 35,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 639,
+      "style": 14,
+      "name": "発展レベル"
+    },
+    {
+      "$id": 640,
+      "style": 29,
+      "name": "買う"
+    },
+    {
+      "$id": 641,
+      "style": 29,
+      "name": "売る"
+    },
+    {
+      "$id": 642,
+      "style": 29,
+      "name": "宿泊"
+    },
+    {
+      "$id": 643,
+      "style": 30,
+      "name": "やめる"
+    },
+    {
+      "$id": 644,
+      "style": 31,
+      "name": "[ML:number_money digit=9 ]"
+    },
+    {
+      "$id": 645,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 646,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 647,
+      "style": 70,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 648,
+      "style": 12,
+      "name": "[ML:number_money digit=9 ]"
+    },
+    {
+      "$id": 649,
+      "style": 30,
+      "name": "錬成料"
+    },
+    {
+      "$id": 650,
+      "style": 9,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 651,
+      "style": 66,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 652,
+      "style": 36,
+      "name": "[ML:ShopChangeTaskName ]"
+    },
+    {
+      "$id": 653,
+      "style": 42,
+      "name": "１２３４５６７８９０１２３４５６７８９０\nあああああああああああああああ\nあああああああああああああああ"
+    },
+    {
+      "$id": 654,
+      "style": 12,
+      "name": "所持数"
+    },
+    {
+      "$id": 655,
+      "style": 12,
+      "name": "必要数"
+    },
+    {
+      "$id": 656,
+      "style": 53,
+      "name": "必要数"
+    },
+    {
+      "$id": 657,
+      "style": 32,
+      "name": "レアリティ"
+    },
+    {
+      "$id": 658,
+      "style": 55,
+      "name": "特殊効果"
+    },
+    {
+      "$id": 659,
+      "style": 41,
+      "name": "突発ボタンチャレンジでExecellent獲得時\nパーティゲージが30増加する"
+    },
+    {
+      "$id": 660,
+      "style": 34,
+      "name": "宿屋"
+    },
+    {
+      "$id": 661,
+      "style": 34,
+      "name": "オーブ錬成"
+    },
+    {
+      "$id": 662,
+      "style": 34,
+      "name": "アイテム交換"
+    },
+    {
+      "$id": 663,
+      "style": 34,
+      "name": "アクセサリー"
+    },
+    {
+      "$id": 664,
+      "style": 34,
+      "name": "武器チップ"
+    },
+    {
+      "$id": 665,
+      "style": 34,
+      "name": "主食"
+    },
+    {
+      "$id": 666,
+      "style": 34,
+      "name": "野菜"
+    },
+    {
+      "$id": 667,
+      "style": 34,
+      "name": "肉屋"
+    },
+    {
+      "$id": 668,
+      "style": 34,
+      "name": "魚屋"
+    },
+    {
+      "$id": 669,
+      "style": 34,
+      "name": "スイーツ"
+    },
+    {
+      "$id": 670,
+      "style": 34,
+      "name": "ドリンク"
+    },
+    {
+      "$id": 671,
+      "style": 34,
+      "name": "楽器"
+    },
+    {
+      "$id": 672,
+      "style": 34,
+      "name": "美術"
+    },
+    {
+      "$id": 673,
+      "style": 34,
+      "name": "書物"
+    },
+    {
+      "$id": 674,
+      "style": 34,
+      "name": "ボードゲーム"
+    },
+    {
+      "$id": 675,
+      "style": 34,
+      "name": "コスメ"
+    },
+    {
+      "$id": 676,
+      "style": 34,
+      "name": "織物"
+    },
+    {
+      "$id": 677,
+      "style": 32,
+      "name": "樹木"
+    },
+    {
+      "$id": 678,
+      "style": 32,
+      "name": "草花"
+    },
+    {
+      "$id": 679,
+      "style": 32,
+      "name": "野菜"
+    },
+    {
+      "$id": 680,
+      "style": 32,
+      "name": "虫"
+    },
+    {
+      "$id": 681,
+      "style": 32,
+      "name": "魚"
+    },
+    {
+      "$id": 682,
+      "style": 32,
+      "name": "鉱石"
+    },
+    {
+      "$id": 683,
+      "style": 32,
+      "name": "敵のドロップ"
+    },
+    {
+      "$id": 684,
+      "style": 32,
+      "name": "機械"
+    },
+    {
+      "$id": 685,
+      "style": 34,
+      "name": "シリンダ"
+    },
+    {
+      "$id": 686,
+      "style": 34,
+      "name": "情報"
+    },
+    {
+      "$id": 687,
+      "style": 31,
+      "name": "[ML:number_money digit=9 ]"
+    },
+    {
+      "$id": 688,
+      "style": 49,
+      "name": "[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 689,
+      "style": 30,
+      "name": "購入"
+    },
+    {
+      "$id": 690,
+      "style": 30,
+      "name": "錬成"
+    },
+    {
+      "$id": 691,
+      "style": 34,
+      "name": "レアリティ"
+    },
+    {
+      "$id": 692,
+      "style": 34,
+      "name": "カテゴリー"
+    },
+    {
+      "$id": 693,
+      "style": 69,
+      "name": "報酬"
+    },
+    {
+      "$id": 694,
+      "style": 69,
+      "name": "クエスト"
+    },
+    {
+      "$id": 695,
+      "style": 159,
+      "name": "クエストタスク詳細\n２０文字３行\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 696,
+      "style": 135,
+      "name": "+[ML:number digit=4 ]"
+    },
+    {
+      "$id": 697,
+      "style": 125,
+      "name": "個"
+    },
+    {
+      "$id": 698,
+      "style": 70,
+      "name": "アクセサリー装備変更"
+    },
+    {
+      "$id": 699,
+      "style": 57,
+      "name": "装備中のアクセサリー"
+    },
+    {
+      "$id": 700,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 701,
+      "style": 57,
+      "name": "エンハンス効果"
+    },
+    {
+      "$id": 702,
+      "style": 36,
+      "name": "エンハンス効果内容あああ"
+    },
+    {
+      "$id": 703,
+      "style": 47,
+      "name": "ソート"
+    },
+    {
+      "$id": 704,
+      "style": 39,
+      "name": "あああああああああああああああ"
+    },
+    {
+      "$id": 705,
+      "style": 57,
+      "name": "所持アクセサリー"
+    },
+    {
+      "$id": 706,
+      "style": 30,
+      "name": "所持数"
+    },
+    {
+      "$id": 707,
+      "style": 26,
+      "name": "[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 708,
+      "style": 26,
+      "name": "/"
+    },
+    {
+      "$id": 709,
+      "style": 30,
+      "name": "装備中"
+    },
+    {
+      "$id": 710,
+      "style": 37,
+      "name": "別のドライバーが装備中です"
+    },
+    {
+      "$id": 711,
+      "style": 31,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 712,
+      "style": 31,
+      "name": "変更"
+    },
+    {
+      "$id": 713,
+      "style": 31,
+      "name": "はずす"
+    },
+    {
+      "$id": 714,
+      "style": 70,
+      "name": "アクセサリー詳細"
+    },
+    {
+      "$id": 715,
+      "style": 56,
+      "name": "アクセサリー名"
+    },
+    {
+      "$id": 716,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 717,
+      "style": 43,
+      "name": "アクセサリー説明あああああああ\nあああああああああああああああ\nあああああああああああああああ\nあああああああああああああああ"
+    },
+    {
+      "$id": 718,
+      "style": 57,
+      "name": "エンハンス効果"
+    },
+    {
+      "$id": 719,
+      "style": 36,
+      "name": "エンハンス効果内容あああ"
+    },
+    {
+      "$id": 720,
+      "style": 55,
+      "name": "レアリティ"
+    },
+    {
+      "$id": 721,
+      "style": 36,
+      "name": "レアランク表示★★★"
+    },
+    {
+      "$id": 722,
+      "style": 54,
+      "name": "売却価格"
+    },
+    {
+      "$id": 723,
+      "style": 36,
+      "name": "[ML:number digit=9 ] G"
+    },
+    {
+      "$id": 724,
+      "style": 54,
+      "name": "販売情報"
+    },
+    {
+      "$id": 725,
+      "style": 36,
+      "name": "場所名10文字あああ"
+    },
+    {
+      "$id": 726,
+      "style": 36,
+      "name": "売却不可"
+    },
+    {
+      "$id": 727,
+      "style": 36,
+      "name": "販売しておりません"
+    },
+    {
+      "$id": 728,
+      "style": 70,
+      "name": "キャラカスタマイズ"
+    },
+    {
+      "$id": 729,
+      "style": 70,
+      "name": "ドライバーセットアップ"
+    },
+    {
+      "$id": 730,
+      "style": 70,
+      "name": "ブレイドセットアップ"
+    },
+    {
+      "$id": 731,
+      "style": 47,
+      "name": "ドライバー選択"
+    },
+    {
+      "$id": 732,
+      "style": 47,
+      "name": "ブレイド選択"
+    },
+    {
+      "$id": 733,
+      "style": 69,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 734,
+      "style": 47,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 735,
+      "style": 70,
+      "name": "Pouch"
+    },
+    {
+      "$id": 736,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 737,
+      "style": 27,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 738,
+      "style": 31,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 739,
+      "style": 70,
+      "name": "Item List"
+    },
+    {
+      "$id": 740,
+      "style": 22,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 741,
+      "style": 128,
+      "name": "[ML:number_money digit=9 ] G"
+    },
+    {
+      "$id": 742,
+      "style": 125,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 743,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 744,
+      "style": 4,
+      "name": "Description"
+    },
+    {
+      "$id": 745,
+      "style": 25,
+      "name": "性能内容ああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 746,
+      "style": 4,
+      "name": "Obtained"
+    },
+    {
+      "$id": 747,
+      "style": 22,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 748,
+      "style": 119,
+      "name": "Name"
+    },
+    {
+      "$id": 749,
+      "style": 119,
+      "name": "Rarity"
+    },
+    {
+      "$id": 750,
+      "style": 119,
+      "name": "Sale Price"
+    },
+    {
+      "$id": 751,
+      "style": 119,
+      "name": "Owned"
+    },
+    {
+      "$id": 752,
+      "style": 133,
+      "name": "Owned Item List"
+    },
+    {
+      "$id": 753,
+      "style": 118,
+      "name": "Category"
+    },
+    {
+      "$id": 754,
+      "style": 22,
+      "name": "フィルターカテゴリーああ"
+    },
+    {
+      "$id": 755,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 756,
+      "style": 36,
+      "name": "コアチップ"
+    },
+    {
+      "$id": 757,
+      "style": 36,
+      "name": "アクセサリー"
+    },
+    {
+      "$id": 758,
+      "style": 36,
+      "name": "装備オーブ"
+    },
+    {
+      "$id": 759,
+      "style": 36,
+      "name": "サルベージ"
+    },
+    {
+      "$id": 760,
+      "style": 36,
+      "name": "貴重品"
+    },
+    {
+      "$id": 761,
+      "style": 36,
+      "name": "コレクション"
+    },
+    {
+      "$id": 762,
+      "style": 36,
+      "name": "トレジャー"
+    },
+    {
+      "$id": 763,
+      "style": 36,
+      "name": "空オーブ"
+    },
+    {
+      "$id": 764,
+      "style": 36,
+      "name": "趣味"
+    },
+    {
+      "$id": 765,
+      "style": 36,
+      "name": "コアクリスタル"
+    },
+    {
+      "$id": 766,
+      "style": 36,
+      "name": "ブースター"
+    },
+    {
+      "$id": 767,
+      "style": 36,
+      "name": "Heal Pot"
+    },
+    {
+      "$id": 768,
+      "style": 36,
+      "name": "情報"
+    },
+    {
+      "$id": 769,
+      "style": 36,
+      "name": "イベント"
+    },
+    {
+      "$id": 770,
+      "style": 57,
+      "name": "アチーブメントタイトル"
+    },
+    {
+      "$id": 771,
+      "style": 32,
+      "name": "達成条件"
+    },
+    {
+      "$id": 772,
+      "style": 42,
+      "name": "アチーブメントタスク内容"
+    },
+    {
+      "$id": 773,
+      "style": 32,
+      "name": "達成報酬"
+    },
+    {
+      "$id": 774,
+      "style": 42,
+      "name": "アチーブメント報酬内容"
+    },
+    {
+      "$id": 775,
+      "style": 75,
+      "name": "武器タイプ名"
+    },
+    {
+      "$id": 776,
+      "style": 26,
+      "name": "WP"
+    },
+    {
+      "$id": 777,
+      "style": 30,
+      "name": "[ML:number digit=8 ]"
+    },
+    {
+      "$id": 778,
+      "style": 70,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 779,
+      "style": 67,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 780,
+      "style": 41,
+      "name": "アーツ説明"
+    },
+    {
+      "$id": 781,
+      "style": 35,
+      "name": "レベルアップコスト"
+    },
+    {
+      "$id": 782,
+      "style": 39,
+      "name": "未収得アーツ\n必要ドライバーレベル Lv[ML:number digit=2 ]"
+    },
+    {
+      "$id": 783,
+      "style": 35,
+      "name": "ドライバーレベル"
+    },
+    {
+      "$id": 784,
+      "style": 28,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 785,
+      "style": 30,
+      "name": "[ML:number digit=6 ]"
+    },
+    {
+      "$id": 786,
+      "style": 77,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 787,
+      "style": 30,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 788,
+      "style": 41,
+      "name": "Enhancement Description"
+    },
+    {
+      "$id": 789,
+      "style": 70,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 790,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 791,
+      "style": 26,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 792,
+      "style": 28,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 793,
+      "style": 67,
+      "name": "Attack"
+    },
+    {
+      "$id": 794,
+      "style": 32,
+      "name": "Block Rate"
+    },
+    {
+      "$id": 795,
+      "style": 32,
+      "name": "Critical"
+    },
+    {
+      "$id": 796,
+      "style": 32,
+      "name": "Safety"
+    },
+    {
+      "$id": 797,
+      "style": 55,
+      "name": "Special Effect"
+    },
+    {
+      "$id": 798,
+      "style": 70,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 799,
+      "style": 41,
+      "name": "エンハンス説明 20文字\n2行"
+    },
+    {
+      "$id": 800,
+      "style": 55,
+      "name": "Special Effect"
+    },
+    {
+      "$id": 801,
+      "style": 41,
+      "name": "エンハンス説明 20文字\n2行"
+    },
+    {
+      "$id": 802,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 803,
+      "style": 26,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 804,
+      "style": 70,
+      "name": "アーツセット"
+    },
+    {
+      "$id": 805,
+      "style": 47,
+      "name": "ドライバー名"
+    },
+    {
+      "$id": 806,
+      "style": 45,
+      "name": "Lv[ML:number digit=2 ]"
+    },
+    {
+      "$id": 807,
+      "style": 56,
+      "name": "武器種"
+    },
+    {
+      "$id": 808,
+      "style": 36,
+      "name": "武器種名あああああああ"
+    },
+    {
+      "$id": 809,
+      "style": 34,
+      "name": "所有WP"
+    },
+    {
+      "$id": 810,
+      "style": 31,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 811,
+      "style": 31,
+      "name": "セット"
+    },
+    {
+      "$id": 812,
+      "style": 31,
+      "name": "アーツ"
+    },
+    {
+      "$id": 813,
+      "style": 37,
+      "name": "次のアーツレベルまで必要なWP"
+    },
+    {
+      "$id": 814,
+      "style": 36,
+      "name": "アーツ名１２文字ああああ"
+    },
+    {
+      "$id": 815,
+      "style": 29,
+      "name": "Lv　Max"
+    },
+    {
+      "$id": 816,
+      "style": 35,
+      "name": "覚えていません"
+    },
+    {
+      "$id": 817,
+      "style": 34,
+      "name": "アーツ情報"
+    },
+    {
+      "$id": 818,
+      "style": 34,
+      "name": "アーツ概要"
+    },
+    {
+      "$id": 819,
+      "style": 34,
+      "name": "Unlock Level"
+    },
+    {
+      "$id": 820,
+      "style": 34,
+      "name": "アーツタイプ"
+    },
+    {
+      "$id": 821,
+      "style": 34,
+      "name": "範囲"
+    },
+    {
+      "$id": 822,
+      "style": 34,
+      "name": "リアクション"
+    },
+    {
+      "$id": 823,
+      "style": 34,
+      "name": "ダメージ倍率"
+    },
+    {
+      "$id": 824,
+      "style": 34,
+      "name": "リキャスト"
+    },
+    {
+      "$id": 825,
+      "style": 34,
+      "name": "特殊効果"
+    },
+    {
+      "$id": 826,
+      "style": 41,
+      "name": "アーツ概要２０文字２行あああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 827,
+      "style": 31,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 828,
+      "style": 36,
+      "name": "アーツタイプああああああ"
+    },
+    {
+      "$id": 829,
+      "style": 36,
+      "name": "範囲内容ああああああああ"
+    },
+    {
+      "$id": 830,
+      "style": 36,
+      "name": "リアクションああああああ"
+    },
+    {
+      "$id": 831,
+      "style": 31,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 832,
+      "style": 34,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 833,
+      "style": 41,
+      "name": "特殊効果内容２０文字２行ああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 834,
+      "style": 34,
+      "name": "アイコン説明"
+    },
+    {
+      "$id": 835,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 836,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 837,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 838,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 839,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 840,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 841,
+      "style": 41,
+      "name": "アイコン説明ああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 842,
+      "style": 36,
+      "name": "Item(s) Obtained"
+    },
+    {
+      "$id": 843,
+      "style": 57,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 844,
+      "style": 130,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 845,
+      "style": 30,
+      "name": "OK"
+    },
+    {
+      "$id": 846,
+      "style": 70,
+      "name": "キズナリンク"
+    },
+    {
+      "$id": 847,
+      "style": 32,
+      "name": "あああああ"
+    },
+    {
+      "$id": 848,
+      "style": 32,
+      "name": "スキル名"
+    },
+    {
+      "$id": 849,
+      "style": 37,
+      "name": "スキル名ああああああああああ"
+    },
+    {
+      "$id": 850,
+      "style": 31,
+      "name": "所有SP"
+    },
+    {
+      "$id": 851,
+      "style": 31,
+      "name": "999999999"
+    },
+    {
+      "$id": 852,
+      "style": 31,
+      "name": "必要SP"
+    },
+    {
+      "$id": 853,
+      "style": 31,
+      "name": "999999999"
+    },
+    {
+      "$id": 854,
+      "style": 31,
+      "name": "スキル数"
+    },
+    {
+      "$id": 855,
+      "style": 29,
+      "name": "[ML:number digit=2 ]/[ML:number digit=2 ]"
+    },
+    {
+      "$id": 856,
+      "style": 32,
+      "name": "ＲＯＵＮＤ１"
+    },
+    {
+      "$id": 857,
+      "style": 32,
+      "name": "ＲＯＵＮＤ２"
+    },
+    {
+      "$id": 858,
+      "style": 30,
+      "name": "ロール"
+    },
+    {
+      "$id": 859,
+      "style": 27,
+      "name": "ATK"
+    },
+    {
+      "$id": 860,
+      "style": 27,
+      "name": "HAL"
+    },
+    {
+      "$id": 861,
+      "style": 27,
+      "name": "TNK"
+    },
+    {
+      "$id": 862,
+      "style": 42,
+      "name": "スキル効果説明文20×3行ああああああああ\nああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 863,
+      "style": 35,
+      "name": "ああああああああ"
+    },
+    {
+      "$id": 864,
+      "style": 34,
+      "name": "アーツ・スキル名"
+    },
+    {
+      "$id": 865,
+      "style": 39,
+      "name": "アーツ・スキル名１５文字"
+    },
+    {
+      "$id": 866,
+      "style": 32,
+      "name": "イベント"
+    },
+    {
+      "$id": 867,
+      "style": 32,
+      "name": "フィールド"
+    },
+    {
+      "$id": 868,
+      "style": 32,
+      "name": "エネミー"
+    },
+    {
+      "$id": 869,
+      "style": 32,
+      "name": "ブレイド"
+    },
+    {
+      "$id": 870,
+      "style": 32,
+      "name": "スキル数"
+    },
+    {
+      "$id": 871,
+      "style": 29,
+      "name": "[ML:number digit=2 ]/[ML:number digit=2 ]"
+    },
+    {
+      "$id": 872,
+      "style": 31,
+      "name": "ARTS"
+    },
+    {
+      "$id": 873,
+      "style": 31,
+      "name": "SKILL"
+    },
+    {
+      "$id": 874,
+      "style": 31,
+      "name": "FIELDSKILL"
+    },
+    {
+      "$id": 875,
+      "style": 31,
+      "name": "タイトル"
+    },
+    {
+      "$id": 876,
+      "style": 31,
+      "name": "達成条件"
+    },
+    {
+      "$id": 877,
+      "style": 29,
+      "name": "[ML:number digit=2 ]/[ML:number digit=2 ]"
+    },
+    {
+      "$id": 878,
+      "style": 42,
+      "name": "20文字×３行あああああああああああああ\nああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 879,
+      "style": 42,
+      "name": "20文字×３行　条件クリア後\nああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 880,
+      "style": 15,
+      "name": "[ML:number_money digit=9 ]"
+    },
+    {
+      "$id": 881,
+      "style": 15,
+      "name": "+ [ML:number digit=4 ] HP"
+    },
+    {
+      "$id": 882,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 883,
+      "style": 15,
+      "name": "+ [ML:number digit=9 ] GOLD"
+    },
+    {
+      "$id": 884,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 885,
+      "style": 6,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 886,
+      "style": 173,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 887,
+      "style": 9,
+      "name": "Full"
+    },
+    {
+      "$id": 888,
+      "style": 13,
+      "name": "Party Gauge"
+    },
+    {
+      "$id": 889,
+      "style": 12,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 890,
+      "style": 101,
+      "name": "Lv"
+    },
+    {
+      "$id": 891,
+      "style": 121,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 892,
+      "style": 121,
+      "name": "HP"
+    },
+    {
+      "$id": 893,
+      "style": 122,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 894,
+      "style": 111,
+      "name": "/"
+    },
+    {
+      "$id": 895,
+      "style": 15,
+      "name": "バフデバフ名８文字"
+    },
+    {
+      "$id": 896,
+      "style": 35,
+      "name": "[ML:ElementComboName ]"
+    },
+    {
+      "$id": 897,
+      "style": 4,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 898,
+      "style": 36,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 899,
+      "style": 36,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 900,
+      "style": 111,
+      "name": "Lv"
+    },
+    {
+      "$id": 901,
+      "style": 129,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 902,
+      "style": 107,
+      "name": "Weak"
+    },
+    {
+      "$id": 903,
+      "style": 109,
+      "name": "Combo level"
+    },
+    {
+      "$id": 904,
+      "style": 15,
+      "name": "[ML:ElementComboName ]"
+    },
+    {
+      "$id": 905,
+      "style": 111,
+      "name": "Lv"
+    },
+    {
+      "$id": 906,
+      "style": 121,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 907,
+      "style": 20,
+      "name": "[ML:MainMenuTitle ]"
+    },
+    {
+      "$id": 908,
+      "style": 70,
+      "name": "[ML:MainMenuTitle ]"
+    },
+    {
+      "$id": 909,
+      "style": 36,
+      "name": "[ML:SubMenuTitle ]"
+    },
+    {
+      "$id": 910,
+      "style": 36,
+      "name": "[ML:SubMenuTitle ]"
+    },
+    {
+      "$id": 911,
+      "style": 119,
+      "name": "[ML:number_money digit=9 ] G"
+    },
+    {
+      "$id": 912,
+      "style": 7,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 913,
+      "style": 22,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 914,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 915,
+      "style": 18,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 916,
+      "style": 18,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 917,
+      "style": 6,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 918,
+      "style": 6,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 919,
+      "style": 56,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 920,
+      "style": 36,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 921,
+      "style": 56,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 922,
+      "style": 20,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 923,
+      "style": 34,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 924,
+      "style": 9,
+      "name": "Lv"
+    },
+    {
+      "$id": 925,
+      "style": 55,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 926,
+      "style": 31,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 927,
+      "style": 9,
+      "name": "HP"
+    },
+    {
+      "$id": 928,
+      "style": 10,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 929,
+      "style": 32,
+      "name": "[ML:number digit=4 ] HP"
+    },
+    {
+      "$id": 930,
+      "style": 11,
+      "name": "Weapon"
+    },
+    {
+      "$id": 931,
+      "style": 11,
+      "name": "Element"
+    },
+    {
+      "$id": 932,
+      "style": 34,
+      "name": "ステータス見出し"
+    },
+    {
+      "$id": 933,
+      "style": 119,
+      "name": "HP"
+    },
+    {
+      "$id": 934,
+      "style": 119,
+      "name": "Strength"
+    },
+    {
+      "$id": 935,
+      "style": 119,
+      "name": "Ether"
+    },
+    {
+      "$id": 936,
+      "style": 119,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 937,
+      "style": 119,
+      "name": "Agility"
+    },
+    {
+      "$id": 938,
+      "style": 119,
+      "name": "Luck"
+    },
+    {
+      "$id": 939,
+      "style": 119,
+      "name": "Total EXP"
+    },
+    {
+      "$id": 940,
+      "style": 119,
+      "name": "EXP to next"
+    },
+    {
+      "$id": 941,
+      "style": 6,
+      "name": "Current Blades"
+    },
+    {
+      "$id": 942,
+      "style": 119,
+      "name": "Trust"
+    },
+    {
+      "$id": 943,
+      "style": 119,
+      "name": "Role"
+    },
+    {
+      "$id": 944,
+      "style": 119,
+      "name": "Class"
+    },
+    {
+      "$id": 945,
+      "style": 119,
+      "name": "Weapon Class"
+    },
+    {
+      "$id": 946,
+      "style": 119,
+      "name": "Auto-Attack"
+    },
+    {
+      "$id": 947,
+      "style": 119,
+      "name": "Phys. Def."
+    },
+    {
+      "$id": 948,
+      "style": 119,
+      "name": "Ether Defense"
+    },
+    {
+      "$id": 949,
+      "style": 119,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 950,
+      "style": 119,
+      "name": "Block Rate"
+    },
+    {
+      "$id": 951,
+      "style": 149,
+      "name": "Strength"
+    },
+    {
+      "$id": 952,
+      "style": 18,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 953,
+      "style": 15,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 954,
+      "style": 28,
+      "name": "A"
+    },
+    {
+      "$id": 955,
+      "style": 19,
+      "name": "[ML:RoleName ]"
+    },
+    {
+      "$id": 956,
+      "style": 15,
+      "name": "クラス名"
+    },
+    {
+      "$id": 957,
+      "style": 18,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 958,
+      "style": 37,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 959,
+      "style": 37,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 960,
+      "style": 34,
+      "name": "Dev Level"
+    },
+    {
+      "$id": 961,
+      "style": 119,
+      "name": "Dev Points"
+    },
+    {
+      "$id": 962,
+      "style": 120,
+      "name": "[ML:number digit=9 ] P"
+    },
+    {
+      "$id": 963,
+      "style": 149,
+      "name": "Change Time"
+    },
+    {
+      "$id": 964,
+      "style": 150,
+      "name": "Time now"
+    },
+    {
+      "$id": 965,
+      "style": 13,
+      "name": "Time after"
+    },
+    {
+      "$id": 966,
+      "style": 20,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 967,
+      "style": 34,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 968,
+      "style": 19,
+      "name": "DAY"
+    },
+    {
+      "$id": 969,
+      "style": 19,
+      "name": "NIGHT"
+    },
+    {
+      "$id": 970,
+      "style": 11,
+      "name": "+1 hr."
+    },
+    {
+      "$id": 971,
+      "style": 11,
+      "name": "-1 hr."
+    },
+    {
+      "$id": 972,
+      "style": 32,
+      "name": "Change"
+    },
+    {
+      "$id": 973,
+      "style": 32,
+      "name": "Undo"
+    },
+    {
+      "$id": 974,
+      "style": 36,
+      "name": "Player location"
+    },
+    {
+      "$id": 975,
+      "style": 36,
+      "name": "Landmark"
+    },
+    {
+      "$id": 976,
+      "style": 36,
+      "name": "Location"
+    },
+    {
+      "$id": 977,
+      "style": 36,
+      "name": "Secret Area / Viewpoint"
+    },
+    {
+      "$id": 978,
+      "style": 37,
+      "name": "Enemy Spawn Point"
+    },
+    {
+      "$id": 979,
+      "style": 37,
+      "name": "Collection Point"
+    },
+    {
+      "$id": 980,
+      "style": 37,
+      "name": "Bonding Talk"
+    },
+    {
+      "$id": 981,
+      "style": 37,
+      "name": "Shops"
+    },
+    {
+      "$id": 982,
+      "style": 37,
+      "name": "Quest Start"
+    },
+    {
+      "$id": 983,
+      "style": 37,
+      "name": "Current Objective"
+    },
+    {
+      "$id": 984,
+      "style": 37,
+      "name": "Salvage Point"
+    },
+    {
+      "$id": 985,
+      "style": 37,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 986,
+      "style": 31,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 987,
+      "style": 75,
+      "name": "Active"
+    },
+    {
+      "$id": 988,
+      "style": 75,
+      "name": "Inactive"
+    },
+    {
+      "$id": 989,
+      "style": 9,
+      "name": "Lv"
+    },
+    {
+      "$id": 990,
+      "style": 9,
+      "name": "HP"
+    },
+    {
+      "$id": 991,
+      "style": 30,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 992,
+      "style": 30,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 993,
+      "style": 36,
+      "name": "Equipped"
+    },
+    {
+      "$id": 994,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 995,
+      "style": 25,
+      "name": "エンハンス効果内容ああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 996,
+      "style": 39,
+      "name": "ソート、フィルター項目あああああ"
+    },
+    {
+      "$id": 997,
+      "style": 36,
+      "name": "Accessories Owned"
+    },
+    {
+      "$id": 998,
+      "style": 18,
+      "name": "Owned:"
+    },
+    {
+      "$id": 999,
+      "style": 28,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1000,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 1001,
+      "style": 36,
+      "name": "Currently equipped"
+    },
+    {
+      "$id": 1002,
+      "style": 36,
+      "name": "Equipped by another"
+    },
+    {
+      "$id": 1003,
+      "style": 36,
+      "name": "Cannot equip"
+    },
+    {
+      "$id": 1004,
+      "style": 15,
+      "name": "Item info"
+    },
+    {
+      "$id": 1005,
+      "style": 15,
+      "name": "Name"
+    },
+    {
+      "$id": 1006,
+      "style": 21,
+      "name": "Rarity"
+    },
+    {
+      "$id": 1007,
+      "style": 15,
+      "name": "Sale value"
+    },
+    {
+      "$id": 1008,
+      "style": 20,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 1009,
+      "style": 21,
+      "name": "Cannot be sold"
+    },
+    {
+      "$id": 1010,
+      "style": 15,
+      "name": "Equippable by"
+    },
+    {
+      "$id": 1011,
+      "style": 132,
+      "name": "Remove"
+    },
+    {
+      "$id": 1012,
+      "style": 53,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1013,
+      "style": 57,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 1014,
+      "style": 152,
+      "name": "How many do you want to buy?"
+    },
+    {
+      "$id": 1015,
+      "style": 152,
+      "name": "How many do you want to sell?"
+    },
+    {
+      "$id": 1016,
+      "style": 41,
+      "name": "New goods have arrived!"
+    },
+    {
+      "$id": 1017,
+      "style": 41,
+      "name": "As the owner, you get a discount!"
+    },
+    {
+      "$id": 1018,
+      "style": 57,
+      "name": "Buy"
+    },
+    {
+      "$id": 1019,
+      "style": 57,
+      "name": "Sell"
+    },
+    {
+      "$id": 1020,
+      "style": 4,
+      "name": "Name"
+    },
+    {
+      "$id": 1021,
+      "style": 4,
+      "name": "Rarity"
+    },
+    {
+      "$id": 1022,
+      "style": 4,
+      "name": "Price"
+    },
+    {
+      "$id": 1023,
+      "style": 4,
+      "name": "Sell Price"
+    },
+    {
+      "$id": 1024,
+      "style": 4,
+      "name": "Owned"
+    },
+    {
+      "$id": 1025,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 1026,
+      "style": 125,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1027,
+      "style": 133,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 1028,
+      "style": 22,
+      "name": "[ML:ShopChangeTaskName ]"
+    },
+    {
+      "$id": 1029,
+      "style": 36,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1030,
+      "style": 57,
+      "name": "[ML:ShopName ]"
+    },
+    {
+      "$id": 1031,
+      "style": 35,
+      "name": "Dev Level"
+    },
+    {
+      "$id": 1032,
+      "style": 36,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 1033,
+      "style": 22,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1034,
+      "style": 25,
+      "name": "ああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1035,
+      "style": 36,
+      "name": "Item List"
+    },
+    {
+      "$id": 1036,
+      "style": 34,
+      "name": "Owned Item List"
+    },
+    {
+      "$id": 1037,
+      "style": 22,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1038,
+      "style": 25,
+      "name": "You can't hold any more."
+    },
+    {
+      "$id": 1039,
+      "style": 25,
+      "name": "Not enough materials."
+    },
+    {
+      "$id": 1040,
+      "style": 25,
+      "name": "Refine an Aux Core?"
+    },
+    {
+      "$id": 1041,
+      "style": 54,
+      "name": "Confirm"
+    },
+    {
+      "$id": 1042,
+      "style": 54,
+      "name": "Cancel"
+    },
+    {
+      "$id": 1043,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 1044,
+      "style": 125,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1045,
+      "style": 125,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1046,
+      "style": 22,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1047,
+      "style": 22,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1048,
+      "style": 10,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1049,
+      "style": 10,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1050,
+      "style": 10,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1051,
+      "style": 4,
+      "name": "Needed"
+    },
+    {
+      "$id": 1052,
+      "style": 7,
+      "name": "Available:"
+    },
+    {
+      "$id": 1053,
+      "style": 7,
+      "name": "Owned:"
+    },
+    {
+      "$id": 1054,
+      "style": 10,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1055,
+      "style": 129,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1056,
+      "style": 117,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1057,
+      "style": 36,
+      "name": "Aux Cores"
+    },
+    {
+      "$id": 1058,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1059,
+      "style": 127,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 1060,
+      "style": 127,
+      "name": "Sell Price"
+    },
+    {
+      "$id": 1061,
+      "style": 25,
+      "name": "ああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1062,
+      "style": 7,
+      "name": "Item"
+    },
+    {
+      "$id": 1063,
+      "style": 7,
+      "name": "Rarity"
+    },
+    {
+      "$id": 1064,
+      "style": 7,
+      "name": "Owned:"
+    },
+    {
+      "$id": 1065,
+      "style": 4,
+      "name": "Name"
+    },
+    {
+      "$id": 1066,
+      "style": 7,
+      "name": "Increase"
+    },
+    {
+      "$id": 1067,
+      "style": 119,
+      "name": "Category"
+    },
+    {
+      "$id": 1068,
+      "style": 119,
+      "name": "Rarity"
+    },
+    {
+      "$id": 1069,
+      "style": 113,
+      "name": "Conditions"
+    },
+    {
+      "$id": 1070,
+      "style": 116,
+      "name": "/"
+    },
+    {
+      "$id": 1071,
+      "style": 117,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1072,
+      "style": 117,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1073,
+      "style": 22,
+      "name": "ああああああああ"
+    },
+    {
+      "$id": 1074,
+      "style": 22,
+      "name": "ああああああああ"
+    },
+    {
+      "$id": 1075,
+      "style": 36,
+      "name": "Materials Needed"
+    },
+    {
+      "$id": 1076,
+      "style": 112,
+      "name": "[ML:QuestValUnit ]"
+    },
+    {
+      "$id": 1077,
+      "style": 20,
+      "name": "Reward"
+    },
+    {
+      "$id": 1078,
+      "style": 20,
+      "name": "Objective"
+    },
+    {
+      "$id": 1079,
+      "style": 4,
+      "name": "Gold"
+    },
+    {
+      "$id": 1080,
+      "style": 19,
+      "name": "[ML:number_money digit=9 ] G"
+    },
+    {
+      "$id": 1081,
+      "style": 4,
+      "name": "Items"
+    },
+    {
+      "$id": 1082,
+      "style": 18,
+      "name": "x[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1083,
+      "style": 25,
+      "name": "[ML:QuestTask ]"
+    },
+    {
+      "$id": 1084,
+      "style": 36,
+      "name": "Available Sets"
+    },
+    {
+      "$id": 1085,
+      "style": 162,
+      "name": "ウィンドウタイトル"
+    },
+    {
+      "$id": 1086,
+      "style": 43,
+      "name": "menu_cmnwindow.mstxtから参照"
+    },
+    {
+      "$id": 1087,
+      "style": 41,
+      "name": "menu_cmnwindow.mstxtから参照"
+    },
+    {
+      "$id": 1088,
+      "style": 55,
+      "name": "Confirm"
+    },
+    {
+      "$id": 1089,
+      "style": 55,
+      "name": "Cancel"
+    },
+    {
+      "$id": 1090,
+      "style": 153,
+      "name": "menu_error_info_ms.mstxtから参照"
+    },
+    {
+      "$id": 1091,
+      "style": 22,
+      "name": "menu_filter_category.mstxtから参照"
+    },
+    {
+      "$id": 1092,
+      "style": 20,
+      "name": "menu_sort_category.mstxtから参照"
+    },
+    {
+      "$id": 1093,
+      "style": 11,
+      "name": "Up"
+    },
+    {
+      "$id": 1094,
+      "style": 11,
+      "name": "Down"
+    },
+    {
+      "$id": 1095,
+      "style": 118,
+      "name": "Category"
+    },
+    {
+      "$id": 1096,
+      "style": 118,
+      "name": "Sort"
+    },
+    {
+      "$id": 1097,
+      "style": 15,
+      "name": "menu_enemy_reaction.mstxtから参照"
+    },
+    {
+      "$id": 1098,
+      "style": 30,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1099,
+      "style": 32,
+      "name": "Arms Class"
+    },
+    {
+      "$id": 1100,
+      "style": 36,
+      "name": "武器種名あああああああ"
+    },
+    {
+      "$id": 1101,
+      "style": 28,
+      "name": "WP:"
+    },
+    {
+      "$id": 1102,
+      "style": 10,
+      "name": "Lv"
+    },
+    {
+      "$id": 1103,
+      "style": 34,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1104,
+      "style": 32,
+      "name": "Arts List"
+    },
+    {
+      "$id": 1105,
+      "style": 36,
+      "name": "武器種名あああああああ"
+    },
+    {
+      "$id": 1106,
+      "style": 119,
+      "name": "Arts Info"
+    },
+    {
+      "$id": 1107,
+      "style": 34,
+      "name": "Unlock Lv"
+    },
+    {
+      "$id": 1108,
+      "style": 19,
+      "name": "Effects"
+    },
+    {
+      "$id": 1109,
+      "style": 36,
+      "name": "アーツ名１２文字ああああ"
+    },
+    {
+      "$id": 1110,
+      "style": 25,
+      "name": "Arts name description 20 chars 2 lines"
+    },
+    {
+      "$id": 1111,
+      "style": 169,
+      "name": "特殊効果説明文２０文字２行"
+    },
+    {
+      "$id": 1112,
+      "style": 114,
+      "name": "Type"
+    },
+    {
+      "$id": 1113,
+      "style": 114,
+      "name": "Range"
+    },
+    {
+      "$id": 1114,
+      "style": 114,
+      "name": "Reaction"
+    },
+    {
+      "$id": 1115,
+      "style": 114,
+      "name": "Dmg Ratio"
+    },
+    {
+      "$id": 1116,
+      "style": 114,
+      "name": "Recharge"
+    },
+    {
+      "$id": 1117,
+      "style": 119,
+      "name": "※参照"
+    },
+    {
+      "$id": 1118,
+      "style": 119,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1119,
+      "style": 11,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1120,
+      "style": 11,
+      "name": "MAX"
+    },
+    {
+      "$id": 1121,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 1122,
+      "style": 64,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 1123,
+      "style": 153,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 1124,
+      "style": 18,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1125,
+      "style": 70,
+      "name": "Art Level Up"
+    },
+    {
+      "$id": 1126,
+      "style": 30,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 1127,
+      "style": 10,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1128,
+      "style": 113,
+      "name": "Art Name"
+    },
+    {
+      "$id": 1129,
+      "style": 113,
+      "name": "Level"
+    },
+    {
+      "$id": 1130,
+      "style": 113,
+      "name": "WP Needed"
+    },
+    {
+      "$id": 1131,
+      "style": 34,
+      "name": "Round 1"
+    },
+    {
+      "$id": 1132,
+      "style": 34,
+      "name": "Round 2"
+    },
+    {
+      "$id": 1133,
+      "style": 130,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1134,
+      "style": 129,
+      "name": "/"
+    },
+    {
+      "$id": 1135,
+      "style": 32,
+      "name": "Growth"
+    },
+    {
+      "$id": 1136,
+      "style": 36,
+      "name": "Current skill points:"
+    },
+    {
+      "$id": 1137,
+      "style": 54,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1138,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 1139,
+      "style": 22,
+      "name": "Skill points needed:"
+    },
+    {
+      "$id": 1140,
+      "style": 54,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1141,
+      "style": 155,
+      "name": "スキル効果説明文あああああああああああ\nああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1142,
+      "style": 37,
+      "name": "[ML:number digit=2 ] more skills to unlock"
+    },
+    {
+      "$id": 1143,
+      "style": 57,
+      "name": "PAUSED"
+    },
+    {
+      "$id": 1144,
+      "style": 70,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 1145,
+      "style": 46,
+      "name": "Main Story Quest"
+    },
+    {
+      "$id": 1146,
+      "style": 46,
+      "name": "Quest"
+    },
+    {
+      "$id": 1147,
+      "style": 70,
+      "name": "Received!"
+    },
+    {
+      "$id": 1148,
+      "style": 70,
+      "name": "Complete!"
+    },
+    {
+      "$id": 1149,
+      "style": 70,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 1150,
+      "style": 159,
+      "name": "クエストテキスト\n２０文字\n４行\nクエストテキスト"
+    },
+    {
+      "$id": 1151,
+      "style": 149,
+      "name": "Name"
+    },
+    {
+      "$id": 1152,
+      "style": 149,
+      "name": "Element"
+    },
+    {
+      "$id": 1153,
+      "style": 6,
+      "name": "Driver"
+    },
+    {
+      "$id": 1154,
+      "style": 149,
+      "name": "Weapon Class"
+    },
+    {
+      "$id": 1155,
+      "style": 149,
+      "name": "Role"
+    },
+    {
+      "$id": 1156,
+      "style": 6,
+      "name": "Weapon"
+    },
+    {
+      "$id": 1157,
+      "style": 119,
+      "name": "Cooldown"
+    },
+    {
+      "$id": 1158,
+      "style": 149,
+      "name": "Strength"
+    },
+    {
+      "$id": 1159,
+      "style": 119,
+      "name": "Affinity Chart"
+    },
+    {
+      "$id": 1160,
+      "style": 149,
+      "name": "※menu_st_correctionvalue.mstxt　参照"
+    },
+    {
+      "$id": 1161,
+      "style": 119,
+      "name": "Trust"
+    },
+    {
+      "$id": 1162,
+      "style": 149,
+      "name": "Auto-Attack"
+    },
+    {
+      "$id": 1163,
+      "style": 149,
+      "name": "Phys. Def."
+    },
+    {
+      "$id": 1164,
+      "style": 149,
+      "name": "Ether Defense"
+    },
+    {
+      "$id": 1165,
+      "style": 149,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 1166,
+      "style": 149,
+      "name": "Block Rate"
+    },
+    {
+      "$id": 1167,
+      "style": 22,
+      "name": "Blade"
+    },
+    {
+      "$id": 1168,
+      "style": 22,
+      "name": "Element"
+    },
+    {
+      "$id": 1169,
+      "style": 22,
+      "name": "Driver"
+    },
+    {
+      "$id": 1170,
+      "style": 22,
+      "name": "Weapon Class"
+    },
+    {
+      "$id": 1171,
+      "style": 22,
+      "name": "※menu_role_name_ms.mstxt　参照"
+    },
+    {
+      "$id": 1172,
+      "style": 22,
+      "name": "Weapon"
+    },
+    {
+      "$id": 1173,
+      "style": 22,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1174,
+      "style": 124,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1175,
+      "style": 124,
+      "name": "/　"
+    },
+    {
+      "$id": 1176,
+      "style": 22,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1177,
+      "style": 119,
+      "name": "Driver Scaling"
+    },
+    {
+      "$id": 1178,
+      "style": 22,
+      "name": "※menu_st_congeniality.mstxt　参照"
+    },
+    {
+      "$id": 1179,
+      "style": 22,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1180,
+      "style": 22,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 1181,
+      "style": 18,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 1182,
+      "style": 15,
+      "name": "Blade Art"
+    },
+    {
+      "$id": 1183,
+      "style": 155,
+      "name": "Description"
+    },
+    {
+      "$id": 1184,
+      "style": 15,
+      "name": "Special"
+    },
+    {
+      "$id": 1185,
+      "style": 155,
+      "name": "Description"
+    },
+    {
+      "$id": 1186,
+      "style": 15,
+      "name": "Battle Skill"
+    },
+    {
+      "$id": 1187,
+      "style": 117,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 1188,
+      "style": 155,
+      "name": "Description"
+    },
+    {
+      "$id": 1189,
+      "style": 15,
+      "name": "Field Skill"
+    },
+    {
+      "$id": 1190,
+      "style": 117,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 1191,
+      "style": 155,
+      "name": "Description"
+    },
+    {
+      "$id": 1192,
+      "style": 15,
+      "name": "Aux Core"
+    },
+    {
+      "$id": 1193,
+      "style": 13,
+      "name": "※menu_assistcore_slot_ms.mstxt参照"
+    },
+    {
+      "$id": 1194,
+      "style": 155,
+      "name": "Description"
+    },
+    {
+      "$id": 1195,
+      "style": 155,
+      "name": "Cannot equip Aux Core."
+    },
+    {
+      "$id": 1196,
+      "style": 119,
+      "name": "イデアカテゴリ"
+    },
+    {
+      "$id": 1197,
+      "style": 11,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1198,
+      "style": 15,
+      "name": "Favorite Category 1"
+    },
+    {
+      "$id": 1199,
+      "style": 15,
+      "name": "Favorite Category 2"
+    },
+    {
+      "$id": 1200,
+      "style": 15,
+      "name": "Favorite Item 1"
+    },
+    {
+      "$id": 1201,
+      "style": 15,
+      "name": "Favorite Item 2"
+    },
+    {
+      "$id": 1202,
+      "style": 15,
+      "name": "Favorite category name"
+    },
+    {
+      "$id": 1203,
+      "style": 15,
+      "name": "Favorite item name"
+    },
+    {
+      "$id": 1204,
+      "style": 35,
+      "name": "Basic Stats 1"
+    },
+    {
+      "$id": 1205,
+      "style": 35,
+      "name": "Basic Stats 2"
+    },
+    {
+      "$id": 1206,
+      "style": 35,
+      "name": "Basic Stats 3"
+    },
+    {
+      "$id": 1207,
+      "style": 6,
+      "name": "Blade Arts"
+    },
+    {
+      "$id": 1208,
+      "style": 6,
+      "name": "Specials"
+    },
+    {
+      "$id": 1209,
+      "style": 6,
+      "name": "Battle Skills"
+    },
+    {
+      "$id": 1210,
+      "style": 6,
+      "name": "Field Skills"
+    },
+    {
+      "$id": 1211,
+      "style": 6,
+      "name": "Aux Cores"
+    },
+    {
+      "$id": 1212,
+      "style": 6,
+      "name": "Thought Cloud"
+    },
+    {
+      "$id": 1213,
+      "style": 35,
+      "name": "Favorite Items"
+    },
+    {
+      "$id": 1214,
+      "style": 155,
+      "name": "※menu_st_bl_title_description_ms.mstxt参照"
+    },
+    {
+      "$id": 1215,
+      "style": 116,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1216,
+      "style": 116,
+      "name": "/"
+    },
+    {
+      "$id": 1217,
+      "style": 155,
+      "name": "The Blade's basic stats."
+    },
+    {
+      "$id": 1218,
+      "style": 155,
+      "name": "The Blade's basic stats."
+    },
+    {
+      "$id": 1219,
+      "style": 155,
+      "name": "The Blade's basic stats."
+    },
+    {
+      "$id": 1220,
+      "style": 155,
+      "name": "The Blade's Arts."
+    },
+    {
+      "$id": 1221,
+      "style": 155,
+      "name": "The Blade's Specials."
+    },
+    {
+      "$id": 1222,
+      "style": 155,
+      "name": "The Blade's Battle Skills."
+    },
+    {
+      "$id": 1223,
+      "style": 155,
+      "name": "The Blade's Field Skills."
+    },
+    {
+      "$id": 1224,
+      "style": 155,
+      "name": "The Blade's currently equipped\nAux Cores."
+    },
+    {
+      "$id": 1225,
+      "style": 155,
+      "name": "The Blade's Thought Cloud."
+    },
+    {
+      "$id": 1226,
+      "style": 155,
+      "name": "The Blade's favorite items."
+    },
+    {
+      "$id": 1227,
+      "style": 36,
+      "name": "Current Objective"
+    },
+    {
+      "$id": 1228,
+      "style": 36,
+      "name": "Objective complete"
+    },
+    {
+      "$id": 1229,
+      "style": 15,
+      "name": "Details"
+    },
+    {
+      "$id": 1230,
+      "style": 17,
+      "name": "クエストタスクの内容\n３行\n２０文字"
+    },
+    {
+      "$id": 1231,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1232,
+      "style": 122,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1233,
+      "style": 122,
+      "name": "/"
+    },
+    {
+      "$id": 1234,
+      "style": 111,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 1235,
+      "style": 111,
+      "name": "/"
+    },
+    {
+      "$id": 1236,
+      "style": 70,
+      "name": "CLEAR"
+    },
+    {
+      "$id": 1237,
+      "style": 156,
+      "name": "見出し"
+    },
+    {
+      "$id": 1238,
+      "style": 157,
+      "name": "タイトル"
+    },
+    {
+      "$id": 1239,
+      "style": 20,
+      "name": "Remove Blade"
+    },
+    {
+      "$id": 1240,
+      "style": 36,
+      "name": "Blade List"
+    },
+    {
+      "$id": 1241,
+      "style": 149,
+      "name": "Strength"
+    },
+    {
+      "$id": 1242,
+      "style": 149,
+      "name": "Ether"
+    },
+    {
+      "$id": 1243,
+      "style": 149,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 1244,
+      "style": 149,
+      "name": "Agility"
+    },
+    {
+      "$id": 1245,
+      "style": 149,
+      "name": "Luck"
+    },
+    {
+      "$id": 1246,
+      "style": 149,
+      "name": "Driver"
+    },
+    {
+      "$id": 1247,
+      "style": 149,
+      "name": "Lv"
+    },
+    {
+      "$id": 1248,
+      "style": 149,
+      "name": "HP"
+    },
+    {
+      "$id": 1249,
+      "style": 149,
+      "name": "EXP"
+    },
+    {
+      "$id": 1250,
+      "style": 149,
+      "name": "EXP to next"
+    },
+    {
+      "$id": 1251,
+      "style": 149,
+      "name": "Total EXP"
+    },
+    {
+      "$id": 1252,
+      "style": 149,
+      "name": "Affinity Chart"
+    },
+    {
+      "$id": 1253,
+      "style": 21,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1254,
+      "style": 21,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1255,
+      "style": 18,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1256,
+      "style": 21,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1257,
+      "style": 117,
+      "name": "ロール　※menu_role_name_ms.mstxt　参照"
+    },
+    {
+      "$id": 1258,
+      "style": 117,
+      "name": "相性　※menu_st_congeniality.mstxt　参照"
+    },
+    {
+      "$id": 1259,
+      "style": 15,
+      "name": "Current Blades"
+    },
+    {
+      "$id": 1260,
+      "style": 11,
+      "name": "Role"
+    },
+    {
+      "$id": 1261,
+      "style": 11,
+      "name": "Compatibility"
+    },
+    {
+      "$id": 1262,
+      "style": 15,
+      "name": "Class"
+    },
+    {
+      "$id": 1263,
+      "style": 11,
+      "name": "[ML:number digit=2 ][ML:% ]%"
+    },
+    {
+      "$id": 1264,
+      "style": 15,
+      "name": "クラス（称号）効果あああああああああああ"
+    },
+    {
+      "$id": 1265,
+      "style": 15,
+      "name": "アーツ名ああああああああああ"
+    },
+    {
+      "$id": 1266,
+      "style": 16,
+      "name": "アーツ情報あああああああああああああああ"
+    },
+    {
+      "$id": 1267,
+      "style": 117,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 1268,
+      "style": 15,
+      "name": "アクセサリー名あああああ"
+    },
+    {
+      "$id": 1269,
+      "style": 16,
+      "name": "アクセサリー効果ああああああああああああ"
+    },
+    {
+      "$id": 1270,
+      "style": 7,
+      "name": "イデアカラー４色　※menu_ideacollar_ms.mstxt参照"
+    },
+    {
+      "$id": 1271,
+      "style": 35,
+      "name": "Basic Stats 1"
+    },
+    {
+      "$id": 1272,
+      "style": 35,
+      "name": "Basic Stats 2"
+    },
+    {
+      "$id": 1273,
+      "style": 35,
+      "name": "Blades"
+    },
+    {
+      "$id": 1274,
+      "style": 35,
+      "name": "Arts"
+    },
+    {
+      "$id": 1275,
+      "style": 35,
+      "name": "Accessories"
+    },
+    {
+      "$id": 1276,
+      "style": 6,
+      "name": "Thought Cloud"
+    },
+    {
+      "$id": 1277,
+      "style": 35,
+      "name": "Favorite Items"
+    },
+    {
+      "$id": 1278,
+      "style": 25,
+      "name": "The Driver's basic stats."
+    },
+    {
+      "$id": 1279,
+      "style": 25,
+      "name": "The Driver's basic stats."
+    },
+    {
+      "$id": 1280,
+      "style": 25,
+      "name": "The Driver's currently paired Blades."
+    },
+    {
+      "$id": 1281,
+      "style": 25,
+      "name": "The Driver's currently set Arts."
+    },
+    {
+      "$id": 1282,
+      "style": 25,
+      "name": "The Driver's currently equipped\naccessories."
+    },
+    {
+      "$id": 1283,
+      "style": 25,
+      "name": "The Driver's Thought Cloud."
+    },
+    {
+      "$id": 1284,
+      "style": 25,
+      "name": "The Driver's favorite items."
+    },
+    {
+      "$id": 1285,
+      "style": 34,
+      "name": "Weapon"
+    },
+    {
+      "$id": 1286,
+      "style": 36,
+      "name": "Core Chips Held"
+    },
+    {
+      "$id": 1287,
+      "style": 30,
+      "name": "Sort"
+    },
+    {
+      "$id": 1288,
+      "style": 34,
+      "name": "Sort by"
+    },
+    {
+      "$id": 1289,
+      "style": 22,
+      "name": "コアチップ名ああああああ"
+    },
+    {
+      "$id": 1290,
+      "style": 124,
+      "name": "x"
+    },
+    {
+      "$id": 1291,
+      "style": 10,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1292,
+      "style": 20,
+      "name": "Attack"
+    },
+    {
+      "$id": 1293,
+      "style": 20,
+      "name": "Stability"
+    },
+    {
+      "$id": 1294,
+      "style": 20,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 1295,
+      "style": 20,
+      "name": "Block Rate"
+    },
+    {
+      "$id": 1296,
+      "style": 18,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1297,
+      "style": 18,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 1298,
+      "style": 163,
+      "name": "武器名あああああああああ"
+    },
+    {
+      "$id": 1299,
+      "style": 15,
+      "name": "使用チップ名ああああああ"
+    },
+    {
+      "$id": 1300,
+      "style": 121,
+      "name": "＋"
+    },
+    {
+      "$id": 1301,
+      "style": 15,
+      "name": "武器種名あああああああ"
+    },
+    {
+      "$id": 1302,
+      "style": 155,
+      "name": "武器情報ああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1303,
+      "style": 124,
+      "name": "x"
+    },
+    {
+      "$id": 1304,
+      "style": 124,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1305,
+      "style": 22,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1306,
+      "style": 150,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 1307,
+      "style": 13,
+      "name": "Price"
+    },
+    {
+      "$id": 1308,
+      "style": 25,
+      "name": "アシストコア効果ああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1309,
+      "style": 34,
+      "name": "Sort by"
+    },
+    {
+      "$id": 1310,
+      "style": 30,
+      "name": "Sort"
+    },
+    {
+      "$id": 1311,
+      "style": 34,
+      "name": "Available Cores"
+    },
+    {
+      "$id": 1312,
+      "style": 25,
+      "name": "あああああああああああああああああああ\nあああああああああああああああああああ"
+    },
+    {
+      "$id": 1313,
+      "style": 36,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1314,
+      "style": 13,
+      "name": "menu_assistcore_slot_ms.mstxt参照"
+    },
+    {
+      "$id": 1315,
+      "style": 34,
+      "name": "Remove"
+    },
+    {
+      "$id": 1316,
+      "style": 36,
+      "name": "Equipped"
+    },
+    {
+      "$id": 1317,
+      "style": 22,
+      "name": "[ML:QuestCate ]"
+    },
+    {
+      "$id": 1318,
+      "style": 36,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 1319,
+      "style": 36,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 1320,
+      "style": 36,
+      "name": "View"
+    },
+    {
+      "$id": 1321,
+      "style": 36,
+      "name": "List"
+    },
+    {
+      "$id": 1322,
+      "style": 36,
+      "name": "Thumbnail"
+    },
+    {
+      "$id": 1323,
+      "style": 36,
+      "name": "Category"
+    },
+    {
+      "$id": 1324,
+      "style": 36,
+      "name": "[ML:QuestCate ]"
+    },
+    {
+      "$id": 1325,
+      "style": 36,
+      "name": "All"
+    },
+    {
+      "$id": 1326,
+      "style": 36,
+      "name": "By Status"
+    },
+    {
+      "$id": 1327,
+      "style": 36,
+      "name": "Accepted"
+    },
+    {
+      "$id": 1328,
+      "style": 36,
+      "name": "Complete"
+    },
+    {
+      "$id": 1329,
+      "style": 129,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1330,
+      "style": 129,
+      "name": "/"
+    },
+    {
+      "$id": 1331,
+      "style": 36,
+      "name": "Sort Quests"
+    },
+    {
+      "$id": 1332,
+      "style": 70,
+      "name": "[ML:QuestTitle ]"
+    },
+    {
+      "$id": 1333,
+      "style": 159,
+      "name": "クエストテキスト\n２０文字\n４行\nクエストテキスト"
+    },
+    {
+      "$id": 1334,
+      "style": 46,
+      "name": "Achievement Conditions"
+    },
+    {
+      "$id": 1335,
+      "style": 70,
+      "name": "Check Reward"
+    },
+    {
+      "$id": 1336,
+      "style": 22,
+      "name": "Environment"
+    },
+    {
+      "$id": 1337,
+      "style": 17,
+      "name": "タスク内容\n３行\n２０文字"
+    },
+    {
+      "$id": 1338,
+      "style": 57,
+      "name": "CLEAR!"
+    },
+    {
+      "$id": 1339,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1340,
+      "style": 122,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1341,
+      "style": 122,
+      "name": "/"
+    },
+    {
+      "$id": 1342,
+      "style": 46,
+      "name": "Reward"
+    },
+    {
+      "$id": 1343,
+      "style": 36,
+      "name": "Reward"
+    },
+    {
+      "$id": 1344,
+      "style": 22,
+      "name": "Items"
+    },
+    {
+      "$id": 1345,
+      "style": 36,
+      "name": "Gold"
+    },
+    {
+      "$id": 1346,
+      "style": 36,
+      "name": "EXP"
+    },
+    {
+      "$id": 1347,
+      "style": 36,
+      "name": "SP"
+    },
+    {
+      "$id": 1348,
+      "style": 36,
+      "name": "Coins"
+    },
+    {
+      "$id": 1349,
+      "style": 36,
+      "name": "Merc Points"
+    },
+    {
+      "$id": 1350,
+      "style": 36,
+      "name": "Trust"
+    },
+    {
+      "$id": 1351,
+      "style": 31,
+      "name": "[ML:number digit=6 ]"
+    },
+    {
+      "$id": 1352,
+      "style": 15,
+      "name": "地名など"
+    },
+    {
+      "$id": 1353,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1354,
+      "style": 9,
+      "name": "X"
+    },
+    {
+      "$id": 1355,
+      "style": 31,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1356,
+      "style": 119,
+      "name": "Step [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1357,
+      "style": 36,
+      "name": "Objective"
+    },
+    {
+      "$id": 1358,
+      "style": 32,
+      "name": "Contents"
+    },
+    {
+      "$id": 1359,
+      "style": 36,
+      "name": "Party Conditions"
+    },
+    {
+      "$id": 1360,
+      "style": 36,
+      "name": "COMPLETE!"
+    },
+    {
+      "$id": 1361,
+      "style": 34,
+      "name": "menu_ideacollar_ms.mstxt参照"
+    },
+    {
+      "$id": 1362,
+      "style": 4,
+      "name": "Idea"
+    },
+    {
+      "$id": 1363,
+      "style": 17,
+      "name": "ああああああああああああああああああああ\nああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1364,
+      "style": 19,
+      "name": "Earned:"
+    },
+    {
+      "$id": 1365,
+      "style": 17,
+      "name": "あああああああああああああああああああ\nあああああああああああああああああああ\nあああああああああああああああああああ"
+    },
+    {
+      "$id": 1366,
+      "style": 13,
+      "name": "Condition"
+    },
+    {
+      "$id": 1367,
+      "style": 13,
+      "name": "Achieved"
+    },
+    {
+      "$id": 1368,
+      "style": 160,
+      "name": "Tutorial"
+    },
+    {
+      "$id": 1369,
+      "style": 36,
+      "name": "Item List"
+    },
+    {
+      "$id": 1370,
+      "style": 36,
+      "name": "Set Pouch"
+    },
+    {
+      "$id": 1371,
+      "style": 36,
+      "name": "Cylinder List"
+    },
+    {
+      "$id": 1372,
+      "style": 20,
+      "name": "Cylinders"
+    },
+    {
+      "$id": 1373,
+      "style": 70,
+      "name": "Events Theater"
+    },
+    {
+      "$id": 1374,
+      "style": 151,
+      "name": "Name"
+    },
+    {
+      "$id": 1375,
+      "style": 163,
+      "name": "イベントタイトル１８文字"
+    },
+    {
+      "$id": 1376,
+      "style": 15,
+      "name": "Change Chapter"
+    },
+    {
+      "$id": 1377,
+      "style": 15,
+      "name": "Change"
+    },
+    {
+      "$id": 1378,
+      "style": 57,
+      "name": "Scenario Event"
+    },
+    {
+      "$id": 1379,
+      "style": 36,
+      "name": "Scenario Event"
+    },
+    {
+      "$id": 1380,
+      "style": 57,
+      "name": "Blade Quest"
+    },
+    {
+      "$id": 1381,
+      "style": 36,
+      "name": "Blade Quest"
+    },
+    {
+      "$id": 1382,
+      "style": 57,
+      "name": "Create Blade"
+    },
+    {
+      "$id": 1383,
+      "style": 36,
+      "name": "Create Blade"
+    },
+    {
+      "$id": 1384,
+      "style": 36,
+      "name": "Auto-all"
+    },
+    {
+      "$id": 1385,
+      "style": 36,
+      "name": "Auto-select"
+    },
+    {
+      "$id": 1386,
+      "style": 36,
+      "name": "Manual"
+    },
+    {
+      "$id": 1387,
+      "style": 36,
+      "name": "Don't use"
+    },
+    {
+      "$id": 1388,
+      "style": 46,
+      "name": "Use Bonus EXP"
+    },
+    {
+      "$id": 1389,
+      "style": 21,
+      "name": "Can level up"
+    },
+    {
+      "$id": 1390,
+      "style": 19,
+      "name": "Driver:"
+    },
+    {
+      "$id": 1391,
+      "style": 120,
+      "name": "To next level"
+    },
+    {
+      "$id": 1392,
+      "style": 120,
+      "name": "Current EXP"
+    },
+    {
+      "$id": 1393,
+      "style": 150,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1394,
+      "style": 120,
+      "name": "Bonus EXP"
+    },
+    {
+      "$id": 1395,
+      "style": 111,
+      "name": "Lv"
+    },
+    {
+      "$id": 1396,
+      "style": 130,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1397,
+      "style": 151,
+      "name": "Select a level."
+    },
+    {
+      "$id": 1398,
+      "style": 121,
+      "name": "Lv"
+    },
+    {
+      "$id": 1399,
+      "style": 121,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1400,
+      "style": 149,
+      "name": "HP"
+    },
+    {
+      "$id": 1401,
+      "style": 149,
+      "name": "Strength"
+    },
+    {
+      "$id": 1402,
+      "style": 149,
+      "name": "Ether"
+    },
+    {
+      "$id": 1403,
+      "style": 149,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 1404,
+      "style": 149,
+      "name": "Agility"
+    },
+    {
+      "$id": 1405,
+      "style": 149,
+      "name": "Luck"
+    },
+    {
+      "$id": 1406,
+      "style": 21,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1407,
+      "style": 18,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1408,
+      "style": 70,
+      "name": "Level Up"
+    },
+    {
+      "$id": 1409,
+      "style": 22,
+      "name": "Liked Type"
+    },
+    {
+      "$id": 1410,
+      "style": 22,
+      "name": "Liked Item"
+    },
+    {
+      "$id": 1411,
+      "style": 15,
+      "name": "※menu_favorite_category.mstxttから参照"
+    },
+    {
+      "$id": 1412,
+      "style": 15,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1413,
+      "style": 6,
+      "name": "Switch Shown Favorites"
+    },
+    {
+      "$id": 1414,
+      "style": 6,
+      "name": "Switch Driver"
+    },
+    {
+      "$id": 1415,
+      "style": 119,
+      "name": "Item Info"
+    },
+    {
+      "$id": 1416,
+      "style": 118,
+      "name": "Item Name"
+    },
+    {
+      "$id": 1417,
+      "style": 118,
+      "name": "Description"
+    },
+    {
+      "$id": 1418,
+      "style": 118,
+      "name": "Category"
+    },
+    {
+      "$id": 1419,
+      "style": 118,
+      "name": "Origin"
+    },
+    {
+      "$id": 1420,
+      "style": 118,
+      "name": "Value"
+    },
+    {
+      "$id": 1421,
+      "style": 118,
+      "name": "Eff. Type"
+    },
+    {
+      "$id": 1422,
+      "style": 118,
+      "name": "Duration"
+    },
+    {
+      "$id": 1423,
+      "style": 118,
+      "name": "Owned:"
+    },
+    {
+      "$id": 1424,
+      "style": 6,
+      "name": "Bonus Idea Category"
+    },
+    {
+      "$id": 1425,
+      "style": 6,
+      "name": "Bonus Idea Points"
+    },
+    {
+      "$id": 1426,
+      "style": 36,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1427,
+      "style": 25,
+      "name": "ああああああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1428,
+      "style": 20,
+      "name": "※menu_favorite_category.mstxttから参照"
+    },
+    {
+      "$id": 1429,
+      "style": 22,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1430,
+      "style": 21,
+      "name": "[ML:number_money digit=9 ]G"
+    },
+    {
+      "$id": 1431,
+      "style": 167,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1432,
+      "style": 36,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1433,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 1434,
+      "style": 18,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1435,
+      "style": 20,
+      "name": "※menu_ideacollar_ms.mstxtから参照"
+    },
+    {
+      "$id": 1436,
+      "style": 21,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1437,
+      "style": 36,
+      "name": "Belt Pouches"
+    },
+    {
+      "$id": 1438,
+      "style": 36,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1439,
+      "style": 150,
+      "name": "※menu_favorite_category.mstxttから参照"
+    },
+    {
+      "$id": 1440,
+      "style": 36,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1441,
+      "style": 36,
+      "name": "Item List"
+    },
+    {
+      "$id": 1442,
+      "style": 118,
+      "name": "Sort"
+    },
+    {
+      "$id": 1443,
+      "style": 6,
+      "name": "Sort by"
+    },
+    {
+      "$id": 1444,
+      "style": 22,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1445,
+      "style": 124,
+      "name": "x"
+    },
+    {
+      "$id": 1446,
+      "style": 124,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1447,
+      "style": 118,
+      "name": "Category"
+    },
+    {
+      "$id": 1448,
+      "style": 22,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1449,
+      "style": 36,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 1450,
+      "style": 55,
+      "name": "Room Fee"
+    },
+    {
+      "$id": 1451,
+      "style": 57,
+      "name": "Short Rest:"
+    },
+    {
+      "$id": 1452,
+      "style": 57,
+      "name": "Long Rest:"
+    },
+    {
+      "$id": 1453,
+      "style": 57,
+      "name": "Don't Rest"
+    },
+    {
+      "$id": 1454,
+      "style": 136,
+      "name": "[ML:number_money digit=6 ]G"
+    },
+    {
+      "$id": 1455,
+      "style": 15,
+      "name": "Customize"
+    },
+    {
+      "$id": 1456,
+      "style": 15,
+      "name": "Create Parts"
+    },
+    {
+      "$id": 1457,
+      "style": 15,
+      "name": "Crystallize Parts"
+    },
+    {
+      "$id": 1458,
+      "style": 47,
+      "name": "Level Up"
+    },
+    {
+      "$id": 1459,
+      "style": 50,
+      "name": "Lv"
+    },
+    {
+      "$id": 1460,
+      "style": 53,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1461,
+      "style": 35,
+      "name": "Part Types"
+    },
+    {
+      "$id": 1462,
+      "style": 32,
+      "name": "Remove"
+    },
+    {
+      "$id": 1463,
+      "style": 22,
+      "name": "Role CPU"
+    },
+    {
+      "$id": 1464,
+      "style": 22,
+      "name": "Element Core"
+    },
+    {
+      "$id": 1465,
+      "style": 22,
+      "name": "Arts Cards"
+    },
+    {
+      "$id": 1466,
+      "style": 22,
+      "name": "Specials Enhancing RAM"
+    },
+    {
+      "$id": 1467,
+      "style": 22,
+      "name": "Skill RAM"
+    },
+    {
+      "$id": 1468,
+      "style": 149,
+      "name": "Ether Crystals"
+    },
+    {
+      "$id": 1469,
+      "style": 120,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1470,
+      "style": 36,
+      "name": "Creatable Parts"
+    },
+    {
+      "$id": 1471,
+      "style": 4,
+      "name": "Eth. Cryst. Needed"
+    },
+    {
+      "$id": 1472,
+      "style": 6,
+      "name": "Part Name"
+    },
+    {
+      "$id": 1473,
+      "style": 14,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1474,
+      "style": 25,
+      "name": "パーツ情報あああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1475,
+      "style": 36,
+      "name": "Crystallizable Parts"
+    },
+    {
+      "$id": 1476,
+      "style": 4,
+      "name": "Ether Crystals"
+    },
+    {
+      "$id": 1477,
+      "style": 122,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1478,
+      "style": 125,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1479,
+      "style": 5,
+      "name": "Skill RAM"
+    },
+    {
+      "$id": 1480,
+      "style": 5,
+      "name": "Role CPU"
+    },
+    {
+      "$id": 1481,
+      "style": 5,
+      "name": "Arts Cards"
+    },
+    {
+      "$id": 1482,
+      "style": 5,
+      "name": "Specials Enhancing RAM"
+    },
+    {
+      "$id": 1483,
+      "style": 5,
+      "name": "Element Core"
+    },
+    {
+      "$id": 1484,
+      "style": 5,
+      "name": "Skill Upgrade"
+    },
+    {
+      "$id": 1485,
+      "style": 5,
+      "name": "Energy Converter"
+    },
+    {
+      "$id": 1486,
+      "style": 130,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1487,
+      "style": 111,
+      "name": "/"
+    },
+    {
+      "$id": 1488,
+      "style": 36,
+      "name": "Energy Consumption"
+    },
+    {
+      "$id": 1489,
+      "style": 67,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1490,
+      "style": 9,
+      "name": "/"
+    },
+    {
+      "$id": 1491,
+      "style": 113,
+      "name": "Role"
+    },
+    {
+      "$id": 1492,
+      "style": 32,
+      "name": "※menu_role_name_ms.mstxt参照"
+    },
+    {
+      "$id": 1493,
+      "style": 113,
+      "name": "Element"
+    },
+    {
+      "$id": 1494,
+      "style": 13,
+      "name": "※menu_attr_ms.mstxt参照"
+    },
+    {
+      "$id": 1495,
+      "style": 35,
+      "name": "Set Parts Type"
+    },
+    {
+      "$id": 1496,
+      "style": 35,
+      "name": "Upgrade"
+    },
+    {
+      "$id": 1497,
+      "style": 15,
+      "name": "Set Parts/Upgrade"
+    },
+    {
+      "$id": 1498,
+      "style": 115,
+      "name": "Ether Crystals"
+    },
+    {
+      "$id": 1499,
+      "style": 132,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1500,
+      "style": 22,
+      "name": "x"
+    },
+    {
+      "$id": 1501,
+      "style": 22,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1502,
+      "style": 21,
+      "name": "Energy Consumption"
+    },
+    {
+      "$id": 1503,
+      "style": 18,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1504,
+      "style": 4,
+      "name": "Required"
+    },
+    {
+      "$id": 1505,
+      "style": 132,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1506,
+      "style": 25,
+      "name": "効果説明ああああああああああああああああ\nああああああああああああああああああああ"
+    },
+    {
+      "$id": 1507,
+      "style": 4,
+      "name": "Role"
+    },
+    {
+      "$id": 1508,
+      "style": 13,
+      "name": "menu_role_name_ms.mstxt参照"
+    },
+    {
+      "$id": 1509,
+      "style": 4,
+      "name": "Phys. Defense"
+    },
+    {
+      "$id": 1510,
+      "style": 4,
+      "name": "Ether Defense"
+    },
+    {
+      "$id": 1511,
+      "style": 13,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1512,
+      "style": 4,
+      "name": "Scaling Ability"
+    },
+    {
+      "$id": 1513,
+      "style": 13,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 1514,
+      "style": 152,
+      "name": "Create how many?"
+    },
+    {
+      "$id": 1515,
+      "style": 152,
+      "name": "Convert how many?"
+    },
+    {
+      "$id": 1516,
+      "style": 53,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1517,
+      "style": 57,
+      "name": "[ML:number_money digit=9 ]"
+    },
+    {
+      "$id": 1518,
+      "style": 34,
+      "name": "Release"
+    },
+    {
+      "$id": 1519,
+      "style": 170,
+      "name": "Blade Album"
+    },
+    {
+      "$id": 1520,
+      "style": 170,
+      "name": "Enemy Album"
+    },
+    {
+      "$id": 1521,
+      "style": 170,
+      "name": "Bond Blade"
+    },
+    {
+      "$id": 1522,
+      "style": 170,
+      "name": "Manage Blades"
+    },
+    {
+      "$id": 1523,
+      "style": 170,
+      "name": "Save"
+    },
+    {
+      "$id": 1524,
+      "style": 170,
+      "name": "Change Time"
+    },
+    {
+      "$id": 1525,
+      "style": 170,
+      "name": "Options"
+    },
+    {
+      "$id": 1526,
+      "style": 70,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1527,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1528,
+      "style": 130,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1529,
+      "style": 168,
+      "name": "ガイドテキスト"
+    },
+    {
+      "$id": 1530,
+      "style": 119,
+      "name": "イデア名"
+    },
+    {
+      "$id": 1531,
+      "style": 30,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1532,
+      "style": 151,
+      "name": "How many boosters will you use?"
+    },
+    {
+      "$id": 1533,
+      "style": 134,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1534,
+      "style": 36,
+      "name": "Don't Use"
+    },
+    {
+      "$id": 1535,
+      "style": 129,
+      "name": "/"
+    },
+    {
+      "$id": 1536,
+      "style": 36,
+      "name": "Core Crystals"
+    },
+    {
+      "$id": 1537,
+      "style": 36,
+      "name": "Boosters"
+    },
+    {
+      "$id": 1538,
+      "style": 5,
+      "name": "Carrying"
+    },
+    {
+      "$id": 1539,
+      "style": 5,
+      "name": "Name"
+    },
+    {
+      "$id": 1540,
+      "style": 36,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 1541,
+      "style": 36,
+      "name": "Full List"
+    },
+    {
+      "$id": 1542,
+      "style": 36,
+      "name": "By Class"
+    },
+    {
+      "$id": 1543,
+      "style": 36,
+      "name": "By Spawn Location"
+    },
+    {
+      "$id": 1544,
+      "style": 120,
+      "name": "Class"
+    },
+    {
+      "$id": 1545,
+      "style": 120,
+      "name": "Map List"
+    },
+    {
+      "$id": 1546,
+      "style": 120,
+      "name": "Enemy List"
+    },
+    {
+      "$id": 1547,
+      "style": 120,
+      "name": "Basic Stats"
+    },
+    {
+      "$id": 1548,
+      "style": 120,
+      "name": "Detailed Stats"
+    },
+    {
+      "$id": 1549,
+      "style": 120,
+      "name": "Drop Item"
+    },
+    {
+      "$id": 1550,
+      "style": 122,
+      "name": "[ML:number digit=4 padding=zero ]"
+    },
+    {
+      "$id": 1551,
+      "style": 15,
+      "name": "ああああああああああああ"
+    },
+    {
+      "$id": 1552,
+      "style": 15,
+      "name": "????"
+    },
+    {
+      "$id": 1553,
+      "style": 15,
+      "name": "※menu_enemy_category.mstxt参照"
+    },
+    {
+      "$id": 1554,
+      "style": 15,
+      "name": "属名ああああああああああ"
+    },
+    {
+      "$id": 1555,
+      "style": 15,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 1556,
+      "style": 15,
+      "name": "Basic Stats"
+    },
+    {
+      "$id": 1557,
+      "style": 15,
+      "name": "Habitat"
+    },
+    {
+      "$id": 1558,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1559,
+      "style": 123,
+      "name": "Class"
+    },
+    {
+      "$id": 1560,
+      "style": 123,
+      "name": "Genus"
+    },
+    {
+      "$id": 1561,
+      "style": 123,
+      "name": "Lv"
+    },
+    {
+      "$id": 1562,
+      "style": 123,
+      "name": "HP"
+    },
+    {
+      "$id": 1563,
+      "style": 123,
+      "name": "EXP"
+    },
+    {
+      "$id": 1564,
+      "style": 123,
+      "name": "Gold"
+    },
+    {
+      "$id": 1565,
+      "style": 123,
+      "name": "Location"
+    },
+    {
+      "$id": 1566,
+      "style": 123,
+      "name": "Weather"
+    },
+    {
+      "$id": 1567,
+      "style": 123,
+      "name": "Time"
+    },
+    {
+      "$id": 1568,
+      "style": 149,
+      "name": "Strength"
+    },
+    {
+      "$id": 1569,
+      "style": 149,
+      "name": "Ether"
+    },
+    {
+      "$id": 1570,
+      "style": 149,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 1571,
+      "style": 149,
+      "name": "Agility"
+    },
+    {
+      "$id": 1572,
+      "style": 149,
+      "name": "Luck"
+    },
+    {
+      "$id": 1573,
+      "style": 149,
+      "name": "Phys. Defense"
+    },
+    {
+      "$id": 1574,
+      "style": 149,
+      "name": "Ether Defense"
+    },
+    {
+      "$id": 1575,
+      "style": 149,
+      "name": "Element"
+    },
+    {
+      "$id": 1576,
+      "style": 149,
+      "name": "Rage Element"
+    },
+    {
+      "$id": 1577,
+      "style": 149,
+      "name": "Critical Rate"
+    },
+    {
+      "$id": 1578,
+      "style": 149,
+      "name": "Block Rate"
+    },
+    {
+      "$id": 1579,
+      "style": 149,
+      "name": "Block Direction"
+    },
+    {
+      "$id": 1580,
+      "style": 15,
+      "name": "※menu_enemy_category.mstxt参照"
+    },
+    {
+      "$id": 1581,
+      "style": 15,
+      "name": "属名ああああああああああ"
+    },
+    {
+      "$id": 1582,
+      "style": 15,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1583,
+      "style": 15,
+      "name": "[ML:number digit=7 ]"
+    },
+    {
+      "$id": 1584,
+      "style": 15,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1585,
+      "style": 15,
+      "name": "[ML:number digit=9 ]G"
+    },
+    {
+      "$id": 1586,
+      "style": 15,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 1587,
+      "style": 15,
+      "name": "[ML:WeatherName ]"
+    },
+    {
+      "$id": 1588,
+      "style": 13,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1589,
+      "style": 13,
+      "name": "～"
+    },
+    {
+      "$id": 1590,
+      "style": 149,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1591,
+      "style": 149,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1592,
+      "style": 149,
+      "name": "※menu_attr_ms.mstxt参照"
+    },
+    {
+      "$id": 1593,
+      "style": 149,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 1594,
+      "style": 149,
+      "name": "Rotate"
+    },
+    {
+      "$id": 1595,
+      "style": 149,
+      "name": "Zoom"
+    },
+    {
+      "$id": 1596,
+      "style": 149,
+      "name": "Display Models Only"
+    },
+    {
+      "$id": 1597,
+      "style": 149,
+      "name": "Replay"
+    },
+    {
+      "$id": 1598,
+      "style": 108,
+      "name": "NEW"
+    },
+    {
+      "$id": 1599,
+      "style": 118,
+      "name": "Sort"
+    },
+    {
+      "$id": 1600,
+      "style": 119,
+      "name": "ああああああああ"
+    },
+    {
+      "$id": 1601,
+      "style": 116,
+      "name": "[ML:number ]"
+    },
+    {
+      "$id": 1602,
+      "style": 116,
+      "name": "/"
+    },
+    {
+      "$id": 1603,
+      "style": 13,
+      "name": "Destroyed:"
+    },
+    {
+      "$id": 1604,
+      "style": 13,
+      "name": "Unbeatable:"
+    },
+    {
+      "$id": 1605,
+      "style": 13,
+      "name": "Subjugation Time"
+    },
+    {
+      "$id": 1606,
+      "style": 149,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1607,
+      "style": 79,
+      "name": "All Enemies"
+    },
+    {
+      "$id": 1608,
+      "style": 79,
+      "name": "Enemies by Class"
+    },
+    {
+      "$id": 1609,
+      "style": 79,
+      "name": "Spawn Location"
+    },
+    {
+      "$id": 1610,
+      "style": 37,
+      "name": "Loading"
+    },
+    {
+      "$id": 1611,
+      "style": 37,
+      "name": "Saving"
+    },
+    {
+      "$id": 1612,
+      "style": 37,
+      "name": "Blade Switch"
+    },
+    {
+      "$id": 1613,
+      "style": 37,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 1614,
+      "style": 6,
+      "name": "[ML:TimeZone ]"
+    },
+    {
+      "$id": 1615,
+      "style": 31,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1616,
+      "style": 5,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 1617,
+      "style": 62,
+      "name": "トーク内容"
+    },
+    {
+      "$id": 1618,
+      "style": 46,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1619,
+      "style": 61,
+      "name": "選択項目テキスト"
+    },
+    {
+      "$id": 1620,
+      "style": 60,
+      "name": "選択内容"
+    },
+    {
+      "$id": 1621,
+      "style": 60,
+      "name": "選択内容"
+    },
+    {
+      "$id": 1622,
+      "style": 151,
+      "name": "選択タイトル"
+    },
+    {
+      "$id": 1623,
+      "style": 171,
+      "name": "ターゲット名前"
+    },
+    {
+      "$id": 1624,
+      "style": 36,
+      "name": "ショップ名"
+    },
+    {
+      "$id": 1625,
+      "style": 34,
+      "name": "DAMAGE ×"
+    },
+    {
+      "$id": 1626,
+      "style": 146,
+      "name": "[ML:number digit=4 ][ML:% ]%"
+    },
+    {
+      "$id": 1627,
+      "style": 118,
+      "name": "Burst!"
+    },
+    {
+      "$id": 1628,
+      "style": 151,
+      "name": "Chain Attack Start"
+    },
+    {
+      "$id": 1629,
+      "style": 151,
+      "name": "Chain Attack Finish"
+    },
+    {
+      "$id": 1630,
+      "style": 57,
+      "name": "Total Damage"
+    },
+    {
+      "$id": 1631,
+      "style": 19,
+      "name": "[ML:number digit=8 ]"
+    },
+    {
+      "$id": 1632,
+      "style": 57,
+      "name": "Elemental Burst"
+    },
+    {
+      "$id": 1633,
+      "style": 121,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1634,
+      "style": 151,
+      "name": "Full Burst!"
+    },
+    {
+      "$id": 1635,
+      "style": 113,
+      "name": "Sort Order"
+    },
+    {
+      "$id": 1636,
+      "style": 6,
+      "name": "ソートラベル"
+    },
+    {
+      "$id": 1637,
+      "style": 46,
+      "name": "Members' Favorites"
+    },
+    {
+      "$id": 1638,
+      "style": 36,
+      "name": "Current Effect List"
+    },
+    {
+      "$id": 1639,
+      "style": 22,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1640,
+      "style": 20,
+      "name": "Effects"
+    },
+    {
+      "$id": 1641,
+      "style": 20,
+      "name": "Duration:"
+    },
+    {
+      "$id": 1642,
+      "style": 15,
+      "name": "???"
+    },
+    {
+      "$id": 1643,
+      "style": 15,
+      "name": "None"
+    },
+    {
+      "$id": 1644,
+      "style": 36,
+      "name": "Save Data Status"
+    },
+    {
+      "$id": 1645,
+      "style": 22,
+      "name": "Time of Save"
+    },
+    {
+      "$id": 1646,
+      "style": 36,
+      "name": "[ML:number digit=2 padding=zero ]/[ML:number digit=2 padding=zero ]/[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1647,
+      "style": 32,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1648,
+      "style": 22,
+      "name": "Game progress"
+    },
+    {
+      "$id": 1649,
+      "style": 36,
+      "name": "Chapter [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1650,
+      "style": 22,
+      "name": "Time played"
+    },
+    {
+      "$id": 1651,
+      "style": 36,
+      "name": "[ML:number digit=4 ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1652,
+      "style": 22,
+      "name": "Location"
+    },
+    {
+      "$id": 1653,
+      "style": 36,
+      "name": "[ML:ZoneName ]"
+    },
+    {
+      "$id": 1654,
+      "style": 20,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1655,
+      "style": 19,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1656,
+      "style": 20,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1657,
+      "style": 19,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1658,
+      "style": 20,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1659,
+      "style": 19,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1660,
+      "style": 15,
+      "name": "???"
+    },
+    {
+      "$id": 1661,
+      "style": 6,
+      "name": "タイトル"
+    },
+    {
+      "$id": 1662,
+      "style": 6,
+      "name": "情報"
+    },
+    {
+      "$id": 1663,
+      "style": 6,
+      "name": "名前"
+    },
+    {
+      "$id": 1664,
+      "style": 16,
+      "name": "テキスト１"
+    },
+    {
+      "$id": 1665,
+      "style": 18,
+      "name": "EXP"
+    },
+    {
+      "$id": 1666,
+      "style": 18,
+      "name": "SP"
+    },
+    {
+      "$id": 1667,
+      "style": 18,
+      "name": "WP"
+    },
+    {
+      "$id": 1668,
+      "style": 15,
+      "name": "LEVEL UP"
+    },
+    {
+      "$id": 1669,
+      "style": 172,
+      "name": "+"
+    },
+    {
+      "$id": 1670,
+      "style": 55,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1671,
+      "style": 53,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1672,
+      "style": 23,
+      "name": "テキスト１"
+    },
+    {
+      "$id": 1673,
+      "style": 70,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 1674,
+      "style": 36,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 1675,
+      "style": 32,
+      "name": "Lv [ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1676,
+      "style": 32,
+      "name": "Lv [ML:number ]"
+    },
+    {
+      "$id": 1677,
+      "style": 34,
+      "name": "[ML:Space]Activated!"
+    },
+    {
+      "$id": 1678,
+      "style": 36,
+      "name": "[ML:GimmickName ]"
+    },
+    {
+      "$id": 1679,
+      "style": 36,
+      "name": "Failed..."
+    },
+    {
+      "$id": 1680,
+      "style": 53,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1681,
+      "style": 121,
+      "name": "x"
+    },
+    {
+      "$id": 1682,
+      "style": 71,
+      "name": "[ML:LandmarkName ]"
+    },
+    {
+      "$id": 1683,
+      "style": 36,
+      "name": "Remaining Bonus EXP"
+    },
+    {
+      "$id": 1684,
+      "style": 143,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1685,
+      "style": 144,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1686,
+      "style": 37,
+      "name": "Camera Settings"
+    },
+    {
+      "$id": 1687,
+      "style": 37,
+      "name": "Sound Settings"
+    },
+    {
+      "$id": 1688,
+      "style": 37,
+      "name": "Display Settings"
+    },
+    {
+      "$id": 1689,
+      "style": 151,
+      "name": "オプション名"
+    },
+    {
+      "$id": 1690,
+      "style": 25,
+      "name": "オプション説明\n２行"
+    },
+    {
+      "$id": 1691,
+      "style": 35,
+      "name": "On"
+    },
+    {
+      "$id": 1692,
+      "style": 35,
+      "name": "Off"
+    },
+    {
+      "$id": 1693,
+      "style": 4,
+      "name": "Effect Duration"
+    },
+    {
+      "$id": 1694,
+      "style": 36,
+      "name": "ROUND EXTEND"
+    },
+    {
+      "$id": 1695,
+      "style": 113,
+      "name": "Name"
+    },
+    {
+      "$id": 1696,
+      "style": 113,
+      "name": "Rarity"
+    },
+    {
+      "$id": 1697,
+      "style": 113,
+      "name": "User"
+    },
+    {
+      "$id": 1698,
+      "style": 150,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1699,
+      "style": 113,
+      "name": "Slot 1"
+    },
+    {
+      "$id": 1700,
+      "style": 113,
+      "name": "Slot 2"
+    },
+    {
+      "$id": 1701,
+      "style": 113,
+      "name": "Slot 3"
+    },
+    {
+      "$id": 1702,
+      "style": 55,
+      "name": "No effect"
+    },
+    {
+      "$id": 1703,
+      "style": 36,
+      "name": "Tutorials"
+    },
+    {
+      "$id": 1704,
+      "style": 20,
+      "name": "[ML:number_money digit=6 ]"
+    },
+    {
+      "$id": 1705,
+      "style": 123,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1706,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1707,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1708,
+      "style": 122,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1709,
+      "style": 121,
+      "name": "/"
+    },
+    {
+      "$id": 1710,
+      "style": 125,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1711,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 1712,
+      "style": 130,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1713,
+      "style": 129,
+      "name": "/"
+    },
+    {
+      "$id": 1714,
+      "style": 25,
+      "name": "Details unlocked on purchase."
+    },
+    {
+      "$id": 1715,
+      "style": 4,
+      "name": "Amount Used"
+    },
+    {
+      "$id": 1716,
+      "style": 151,
+      "name": "Amount (Current/Required)"
+    },
+    {
+      "$id": 1717,
+      "style": 4,
+      "name": "Name"
+    },
+    {
+      "$id": 1718,
+      "style": 4,
+      "name": "Rarity"
+    },
+    {
+      "$id": 1719,
+      "style": 4,
+      "name": "Amount Held"
+    },
+    {
+      "$id": 1720,
+      "style": 36,
+      "name": "Pouch empty."
+    },
+    {
+      "$id": 1721,
+      "style": 151,
+      "name": "Progress unknown"
+    },
+    {
+      "$id": 1722,
+      "style": 36,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1723,
+      "style": 15,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1724,
+      "style": 36,
+      "name": "Items Required"
+    },
+    {
+      "$id": 1725,
+      "style": 36,
+      "name": "Current/Required"
+    },
+    {
+      "$id": 1726,
+      "style": 36,
+      "name": "Progress"
+    },
+    {
+      "$id": 1727,
+      "style": 129,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1728,
+      "style": 4,
+      "name": "Details"
+    },
+    {
+      "$id": 1729,
+      "style": 36,
+      "name": "Item List"
+    },
+    {
+      "$id": 1730,
+      "style": 36,
+      "name": "Menu List"
+    },
+    {
+      "$id": 1731,
+      "style": 36,
+      "name": "Item List"
+    },
+    {
+      "$id": 1732,
+      "style": 41,
+      "name": "This Bonding Talk needs the following\ncharacters. (Blades must be engaged.)"
+    },
+    {
+      "$id": 1733,
+      "style": 174,
+      "name": "[ML:OperationGuide ]"
+    },
+    {
+      "$id": 1734,
+      "style": 149,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1735,
+      "style": 72,
+      "name": "Which name will you use?"
+    },
+    {
+      "$id": 1736,
+      "style": 75,
+      "name": "Homura"
+    },
+    {
+      "$id": 1737,
+      "style": 75,
+      "name": "Hikari"
+    },
+    {
+      "$id": 1738,
+      "style": 22,
+      "name": "Pouch #1"
+    },
+    {
+      "$id": 1739,
+      "style": 22,
+      "name": "Pouch #2"
+    },
+    {
+      "$id": 1740,
+      "style": 22,
+      "name": "Pouch #3"
+    },
+    {
+      "$id": 1741,
+      "style": 14,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 1742,
+      "style": 177,
+      "name": "見出し"
+    },
+    {
+      "$id": 1743,
+      "style": 178,
+      "name": "アバンタイトル１６文字"
+    },
+    {
+      "$id": 1744,
+      "style": 36,
+      "name": "New Game Plus"
+    },
+    {
+      "$id": 1745,
+      "style": 130,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1746,
+      "style": 36,
+      "name": "Set Parts"
+    },
+    {
+      "$id": 1747,
+      "style": 36,
+      "name": "クラス名"
+    },
+    {
+      "$id": 1748,
+      "style": 36,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 1749,
+      "style": 6,
+      "name": "Slot 1"
+    },
+    {
+      "$id": 1750,
+      "style": 6,
+      "name": "Slot 2"
+    },
+    {
+      "$id": 1751,
+      "style": 6,
+      "name": "Slot 3"
+    },
+    {
+      "$id": 1752,
+      "style": 4,
+      "name": "User"
+    },
+    {
+      "$id": 1753,
+      "style": 41,
+      "name": "メニュー説明文"
+    },
+    {
+      "$id": 1754,
+      "style": 22,
+      "name": "属性コンボデバフ名"
+    },
+    {
+      "$id": 1755,
+      "style": 37,
+      "name": "Field Skills"
+    },
+    {
+      "$id": 1756,
+      "style": 175,
+      "name": "コンボ名"
+    },
+    {
+      "$id": 1757,
+      "style": 79,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 1758,
+      "style": 119,
+      "name": "VA"
+    },
+    {
+      "$id": 1759,
+      "style": 119,
+      "name": "Illustrator"
+    },
+    {
+      "$id": 1760,
+      "style": 176,
+      "name": "名前"
+    },
+    {
+      "$id": 1761,
+      "style": 36,
+      "name": "Increase Damage"
+    },
+    {
+      "$id": 1762,
+      "style": 36,
+      "name": "Extend Combo Window"
+    },
+    {
+      "$id": 1763,
+      "style": 36,
+      "name": "Raise Party Gauge"
+    },
+    {
+      "$id": 1764,
+      "style": 32,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 1765,
+      "style": 5,
+      "name": "[ML:FieldSkillName ]"
+    },
+    {
+      "$id": 1766,
+      "style": 112,
+      "name": "Lv[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1767,
+      "style": 122,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1768,
+      "style": 124,
+      "name": "/"
+    },
+    {
+      "$id": 1769,
+      "style": 5,
+      "name": "User or Number"
+    },
+    {
+      "$id": 1770,
+      "style": 6,
+      "name": "ソートカテゴリ"
+    },
+    {
+      "$id": 1771,
+      "style": 138,
+      "name": "LEVEL UP!"
+    },
+    {
+      "$id": 1772,
+      "style": 34,
+      "name": "Class Effect"
+    },
+    {
+      "$id": 1773,
+      "style": 22,
+      "name": "クラス効果名"
+    },
+    {
+      "$id": 1774,
+      "style": 151,
+      "name": "Sub-Menu"
+    },
+    {
+      "$id": 1775,
+      "style": 60,
+      "name": "Customize Blade"
+    },
+    {
+      "$id": 1776,
+      "style": 60,
+      "name": "Use Overdrive"
+    },
+    {
+      "$id": 1777,
+      "style": 60,
+      "name": "Make engaging with Rex possible."
+    },
+    {
+      "$id": 1778,
+      "style": 41,
+      "name": "Choose a Driver to bond with using\nOverdrive."
+    },
+    {
+      "$id": 1779,
+      "style": 41,
+      "name": "Changed bonded Driver."
+    },
+    {
+      "$id": 1780,
+      "style": 41,
+      "name": "Now able to engage with Rex."
+    },
+    {
+      "$id": 1781,
+      "style": 41,
+      "name": "Disengage from Rex."
+    },
+    {
+      "$id": 1782,
+      "style": 41,
+      "name": "Disengaged from Rex."
+    },
+    {
+      "$id": 1783,
+      "style": 34,
+      "name": "[ML:undisp]"
+    },
+    {
+      "$id": 1784,
+      "style": 32,
+      "name": "??:??:??"
+    },
+    {
+      "$id": 1785,
+      "style": 20,
+      "name": "[ML:number_money ]G"
+    },
+    {
+      "$id": 1786,
+      "style": 18,
+      "name": "A"
+    },
+    {
+      "$id": 1787,
+      "style": 114,
+      "name": "Active period"
+    },
+    {
+      "$id": 1788,
+      "style": 114,
+      "name": "Rate of healing"
+    },
+    {
+      "$id": 1789,
+      "style": 151,
+      "name": "Affinity Chart complete"
+    },
+    {
+      "$id": 1790,
+      "style": 36,
+      "name": "Capacity upgrade"
+    },
+    {
+      "$id": 1791,
+      "style": 36,
+      "name": "Maximum output"
+    },
+    {
+      "$id": 1792,
+      "style": 19,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1793,
+      "style": 151,
+      "name": "This Blade has no slot."
+    },
+    {
+      "$id": 1794,
+      "style": 17,
+      "name": "Effects are determined by the\nspecifications in Hanaswap."
+    },
+    {
+      "$id": 1795,
+      "style": 25,
+      "name": "No special effects."
+    },
+    {
+      "$id": 1796,
+      "style": 55,
+      "name": "Evasion"
+    },
+    {
+      "$id": 1797,
+      "style": 55,
+      "name": "LEVEL UP"
+    },
+    {
+      "$id": 1798,
+      "style": 151,
+      "name": "This adds WP for chosen weapon class."
+    },
+    {
+      "$id": 1799,
+      "style": 57,
+      "name": "[ML:ItemName ]"
+    },
+    {
+      "$id": 1800,
+      "style": 170,
+      "name": "x [ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1801,
+      "style": 179,
+      "name": "モノリスソフト"
+    },
+    {
+      "$id": 1802,
+      "style": 180,
+      "name": "モノリスソフト"
+    },
+    {
+      "$id": 1803,
+      "style": 181,
+      "name": "モノリスソフト"
+    },
+    {
+      "$id": 1804,
+      "style": 182,
+      "name": "モノリスソフト"
+    },
+    {
+      "$id": 1805,
+      "style": 148,
+      "name": "No data"
+    },
+    {
+      "$id": 1806,
+      "style": 4,
+      "name": "Part Category"
+    },
+    {
+      "$id": 1807,
+      "style": 4,
+      "name": "Name"
+    },
+    {
+      "$id": 1808,
+      "style": 183,
+      "name": "Nintendo and MONOLITHSOFT are the authors of this \nsoftware for the purpose of copyright. All rights reserved."
+    },
+    {
+      "$id": 1809,
+      "style": 74,
+      "name": "ロケーション"
+    },
+    {
+      "$id": 1810,
+      "style": 155,
+      "name": "No special effects."
+    },
+    {
+      "$id": 1811,
+      "style": 4,
+      "name": "Max HP Mod."
+    },
+    {
+      "$id": 1812,
+      "style": 4,
+      "name": "Strength Mod."
+    },
+    {
+      "$id": 1813,
+      "style": 4,
+      "name": "Ether Mod."
+    },
+    {
+      "$id": 1814,
+      "style": 4,
+      "name": "Dexterity Mod."
+    },
+    {
+      "$id": 1815,
+      "style": 4,
+      "name": "Agility Mod."
+    },
+    {
+      "$id": 1816,
+      "style": 4,
+      "name": "Luck Mod."
+    },
+    {
+      "$id": 1817,
+      "style": 36,
+      "name": "Time Window"
+    },
+    {
+      "$id": 1818,
+      "style": 36,
+      "name": "Weather"
+    },
+    {
+      "$id": 1819,
+      "style": 36,
+      "name": "Homura/Hikari"
+    },
+    {
+      "$id": 1820,
+      "style": 36,
+      "name": "Element"
+    },
+    {
+      "$id": 1821,
+      "style": 36,
+      "name": "Face Type"
+    },
+    {
+      "$id": 1822,
+      "style": 36,
+      "name": "Voice Type"
+    },
+    {
+      "$id": 1823,
+      "style": 32,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1824,
+      "style": 36,
+      "name": "Extra Characters"
+    },
+    {
+      "$id": 1825,
+      "style": 57,
+      "name": "Overkill Start!!"
+    },
+    {
+      "$id": 1826,
+      "style": 34,
+      "name": "BONUS ×"
+    },
+    {
+      "$id": 1827,
+      "style": 55,
+      "name": "OK"
+    },
+    {
+      "$id": 1828,
+      "style": 35,
+      "name": "English"
+    },
+    {
+      "$id": 1829,
+      "style": 35,
+      "name": "Japanese"
+    },
+    {
+      "$id": 1830,
+      "style": 13,
+      "name": "Ver."
+    },
+    {
+      "$id": 1831,
+      "style": 13,
+      "name": "1.0.0"
+    },
+    {
+      "$id": 1832,
+      "style": 162,
+      "name": "プレゼントタイトル"
+    },
+    {
+      "$id": 1833,
+      "style": 36,
+      "name": "項目名"
+    },
+    {
+      "$id": 1834,
+      "style": 36,
+      "name": "Money"
+    },
+    {
+      "$id": 1835,
+      "style": 36,
+      "name": "Ether Crystals"
+    },
+    {
+      "$id": 1836,
+      "style": 34,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1837,
+      "style": 34,
+      "name": "[ML:number_money ]G"
+    },
+    {
+      "$id": 1838,
+      "style": 111,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1839,
+      "style": 37,
+      "name": "フィルター見出し"
+    },
+    {
+      "$id": 1840,
+      "style": 119,
+      "name": "Bonus EXP"
+    },
+    {
+      "$id": 1841,
+      "style": 6,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1842,
+      "style": 37,
+      "name": "Game Settings"
+    },
+    {
+      "$id": 1843,
+      "style": 151,
+      "name": "Select difficulty level."
+    },
+    {
+      "$id": 1844,
+      "style": 60,
+      "name": "Easy"
+    },
+    {
+      "$id": 1845,
+      "style": 60,
+      "name": "Normal"
+    },
+    {
+      "$id": 1846,
+      "style": 59,
+      "name": "ダイアログ選択"
+    },
+    {
+      "$id": 1847,
+      "style": 184,
+      "name": "説明文"
+    },
+    {
+      "$id": 1848,
+      "style": 168,
+      "name": "タイトル"
+    },
+    {
+      "$id": 1849,
+      "style": 136,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1850,
+      "style": 136,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1851,
+      "style": 136,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1852,
+      "style": 119,
+      "name": "SCORE"
+    },
+    {
+      "$id": 1853,
+      "style": 119,
+      "name": "Lv"
+    },
+    {
+      "$id": 1854,
+      "style": 119,
+      "name": "KOs"
+    },
+    {
+      "$id": 1855,
+      "style": 120,
+      "name": "New Record!"
+    },
+    {
+      "$id": 1856,
+      "style": 173,
+      "name": "You earned an item reward!"
+    },
+    {
+      "$id": 1857,
+      "style": 31,
+      "name": "[ML:number digit=5 ]"
+    },
+    {
+      "$id": 1858,
+      "style": 72,
+      "name": "CHALLENGE BATTLE"
+    },
+    {
+      "$id": 1859,
+      "style": 36,
+      "name": "START!!!"
+    },
+    {
+      "$id": 1860,
+      "style": 72,
+      "name": "WAVE [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1861,
+      "style": 72,
+      "name": "SUCCESS"
+    },
+    {
+      "$id": 1862,
+      "style": 72,
+      "name": "FAILURE"
+    },
+    {
+      "$id": 1863,
+      "style": 37,
+      "name": "CHALLENGE REWARD"
+    },
+    {
+      "$id": 1864,
+      "style": 36,
+      "name": "Challenge Battles"
+    },
+    {
+      "$id": 1865,
+      "style": 152,
+      "name": "Select a challenge."
+    },
+    {
+      "$id": 1866,
+      "style": 138,
+      "name": "難易度"
+    },
+    {
+      "$id": 1867,
+      "style": 4,
+      "name": "Challenge Name"
+    },
+    {
+      "$id": 1868,
+      "style": 4,
+      "name": "Difficulty"
+    },
+    {
+      "$id": 1869,
+      "style": 36,
+      "name": "チャレンジ名"
+    },
+    {
+      "$id": 1870,
+      "style": 5,
+      "name": "SPECIAL BATTLE"
+    },
+    {
+      "$id": 1871,
+      "style": 43,
+      "name": "チャレンジ概要"
+    },
+    {
+      "$id": 1872,
+      "style": 36,
+      "name": "Challenge Rules"
+    },
+    {
+      "$id": 1873,
+      "style": 6,
+      "name": "Time Limit"
+    },
+    {
+      "$id": 1874,
+      "style": 13,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1875,
+      "style": 6,
+      "name": "Level Restriction"
+    },
+    {
+      "$id": 1876,
+      "style": 13,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1877,
+      "style": 6,
+      "name": "Blade Powers"
+    },
+    {
+      "$id": 1878,
+      "style": 6,
+      "name": "Driver Conditions"
+    },
+    {
+      "$id": 1879,
+      "style": 113,
+      "name": "Fixed"
+    },
+    {
+      "$id": 1880,
+      "style": 113,
+      "name": "Free"
+    },
+    {
+      "$id": 1881,
+      "style": 153,
+      "name": "If some of your characters exceed the status restrictions,\ntheir level or weapon stats will be reduced."
+    },
+    {
+      "$id": 1882,
+      "style": 24,
+      "name": "The following Drivers' levels will be reduced."
+    },
+    {
+      "$id": 1883,
+      "style": 24,
+      "name": "The following Blades' weapon stats will be reduced."
+    },
+    {
+      "$id": 1884,
+      "style": 122,
+      "name": "Lv [ML:number digit=2 ]"
+    },
+    {
+      "$id": 1885,
+      "style": 114,
+      "name": "[ML:BladeName ]"
+    },
+    {
+      "$id": 1886,
+      "style": 73,
+      "name": "Unique Monster Subjugation Report"
+    },
+    {
+      "$id": 1887,
+      "style": 168,
+      "name": "See which Unique Monsters you've put down."
+    },
+    {
+      "$id": 1888,
+      "style": 37,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 1889,
+      "style": 4,
+      "name": "Name"
+    },
+    {
+      "$id": 1890,
+      "style": 4,
+      "name": "Territory"
+    },
+    {
+      "$id": 1891,
+      "style": 4,
+      "name": "Best Time"
+    },
+    {
+      "$id": 1892,
+      "style": 106,
+      "name": "Lv"
+    },
+    {
+      "$id": 1893,
+      "style": 130,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1894,
+      "style": 15,
+      "name": "ユニークモンスター名"
+    },
+    {
+      "$id": 1895,
+      "style": 16,
+      "name": "[ML:MapName ]"
+    },
+    {
+      "$id": 1896,
+      "style": 130,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1897,
+      "style": 70,
+      "name": "ユニークモンスター名"
+    },
+    {
+      "$id": 1898,
+      "style": 9,
+      "name": "Lv"
+    },
+    {
+      "$id": 1899,
+      "style": 140,
+      "name": "[ML:number digit=3 ]"
+    },
+    {
+      "$id": 1900,
+      "style": 35,
+      "name": "Best Time"
+    },
+    {
+      "$id": 1901,
+      "style": 140,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1902,
+      "style": 119,
+      "name": "Customize"
+    },
+    {
+      "$id": 1903,
+      "style": 35,
+      "name": "Enabled"
+    },
+    {
+      "$id": 1904,
+      "style": 35,
+      "name": "Disabled"
+    },
+    {
+      "$id": 1905,
+      "style": 37,
+      "name": "Customize"
+    },
+    {
+      "$id": 1906,
+      "style": 149,
+      "name": "Manual"
+    },
+    {
+      "$id": 1907,
+      "style": 149,
+      "name": "Auto"
+    },
+    {
+      "$id": 1908,
+      "style": 72,
+      "name": "Expansion Pass Notifications"
+    },
+    {
+      "$id": 1909,
+      "style": 175,
+      "name": "Purchase Perks"
+    },
+    {
+      "$id": 1910,
+      "style": 151,
+      "name": "トップ項目"
+    },
+    {
+      "$id": 1911,
+      "style": 163,
+      "name": "ぺージ見出し"
+    },
+    {
+      "$id": 1912,
+      "style": 159,
+      "name": "ページ概要"
+    },
+    {
+      "$id": 1913,
+      "style": 15,
+      "name": "Free Gifts"
+    },
+    {
+      "$id": 1914,
+      "style": 175,
+      "name": "To DLC Purchase"
+    },
+    {
+      "$id": 1915,
+      "style": 151,
+      "name": "スケジュールタイトル"
+    },
+    {
+      "$id": 1916,
+      "style": 185,
+      "name": "スケジュール説明"
+    },
+    {
+      "$id": 1917,
+      "style": 120,
+      "name": "日程"
+    },
+    {
+      "$id": 1918,
+      "style": 118,
+      "name": "Available"
+    },
+    {
+      "$id": 1919,
+      "style": 118,
+      "name": "Planned"
+    },
+    {
+      "$id": 1920,
+      "style": 118,
+      "name": "NEW"
+    },
+    {
+      "$id": 1921,
+      "style": 15,
+      "name": "Release Schedule"
+    },
+    {
+      "$id": 1922,
+      "style": 43,
+      "name": "If you purchase Downloadable Content,\nplease allow the download to finish,\nthen close Xenoblade Chronicles 2\nand restart it to access the content."
+    },
+    {
+      "$id": 1923,
+      "style": 24,
+      "name": "Note: It is recommended to save the game before closing it."
+    },
+    {
+      "$id": 1924,
+      "style": 32,
+      "name": "OK"
+    },
+    {
+      "$id": 1925,
+      "style": 175,
+      "name": "DLC Purchased"
+    },
+    {
+      "$id": 1926,
+      "style": 113,
+      "name": "Front"
+    },
+    {
+      "$id": 1927,
+      "style": 113,
+      "name": "Back"
+    },
+    {
+      "$id": 1928,
+      "style": 70,
+      "name": "Community Gained"
+    },
+    {
+      "$id": 1929,
+      "style": 70,
+      "name": "Community Lost"
+    },
+    {
+      "$id": 1930,
+      "style": 36,
+      "name": "[ML:NPCName ]"
+    },
+    {
+      "$id": 1931,
+      "style": 72,
+      "name": "Challenge Results"
+    },
+    {
+      "$id": 1932,
+      "style": 36,
+      "name": "Camp"
+    },
+    {
+      "$id": 1933,
+      "style": 152,
+      "name": "Select an action."
+    },
+    {
+      "$id": 1934,
+      "style": 147,
+      "name": "Rest"
+    },
+    {
+      "$id": 1935,
+      "style": 152,
+      "name": "Rest till morning, then strike camp."
+    },
+    {
+      "$id": 1936,
+      "style": 147,
+      "name": "Craft"
+    },
+    {
+      "$id": 1937,
+      "style": 152,
+      "name": "Create items using the party characters' unique skills."
+    },
+    {
+      "$id": 1938,
+      "style": 147,
+      "name": "Chat"
+    },
+    {
+      "$id": 1939,
+      "style": 152,
+      "name": "Speak with your allies."
+    },
+    {
+      "$id": 1940,
+      "style": 36,
+      "name": "[ML:ShopName ]"
+    },
+    {
+      "$id": 1941,
+      "style": 152,
+      "name": "説明文"
+    },
+    {
+      "$id": 1942,
+      "style": 186,
+      "name": "Pouch Effect"
+    },
+    {
+      "$id": 1943,
+      "style": 4,
+      "name": "Duration:"
+    },
+    {
+      "$id": 1944,
+      "style": 149,
+      "name": "[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]:[ML:number digit=2 padding=zero ]"
+    },
+    {
+      "$id": 1945,
+      "style": 6,
+      "name": "Group Buff"
+    },
+    {
+      "$id": 1946,
+      "style": 6,
+      "name": "Equipped Accessories"
+    },
+    {
+      "$id": 1947,
+      "style": 114,
+      "name": "Weapon Slot"
+    },
+    {
+      "$id": 1948,
+      "style": 20,
+      "name": "Vanguard"
+    },
+    {
+      "$id": 1949,
+      "style": 20,
+      "name": "Rear Guard"
+    },
+    {
+      "$id": 1950,
+      "style": 15,
+      "name": "Vanguard Arts"
+    },
+    {
+      "$id": 1951,
+      "style": 15,
+      "name": "Rear Guard Arts"
+    },
+    {
+      "$id": 1952,
+      "style": 5,
+      "name": "Talent Art"
+    },
+    {
+      "$id": 1953,
+      "style": 5,
+      "name": "Switch Art"
+    },
+    {
+      "$id": 1954,
+      "style": 170,
+      "name": "Tips"
+    },
+    {
+      "$id": 1955,
+      "style": 72,
+      "name": "TIME'S UP"
+    },
+    {
+      "$id": 1956,
+      "style": 13,
+      "name": "Yes"
+    },
+    {
+      "$id": 1957,
+      "style": 13,
+      "name": "No"
+    },
+    {
+      "$id": 1958,
+      "style": 13,
+      "name": "Details"
+    },
+    {
+      "$id": 1959,
+      "style": 151,
+      "name": "タイトル２０文字"
+    },
+    {
+      "$id": 1960,
+      "style": 160,
+      "name": "テキスト\nテキスト\nテキスト"
+    },
+    {
+      "$id": 1961,
+      "style": 36,
+      "name": "Tutorials"
+    },
+    {
+      "$id": 1962,
+      "style": 151,
+      "name": "項目２０文字"
+    },
+    {
+      "$id": 1963,
+      "style": 20,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1964,
+      "style": 129,
+      "name": "Lv"
+    },
+    {
+      "$id": 1965,
+      "style": 129,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1966,
+      "style": 46,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1967,
+      "style": 119,
+      "name": "EXP Required"
+    },
+    {
+      "$id": 1968,
+      "style": 119,
+      "name": "Total EXP"
+    },
+    {
+      "$id": 1969,
+      "style": 136,
+      "name": "[ML:number digit=9 ]"
+    },
+    {
+      "$id": 1970,
+      "style": 6,
+      "name": "Team Status"
+    },
+    {
+      "$id": 1971,
+      "style": 119,
+      "name": "HP"
+    },
+    {
+      "$id": 1972,
+      "style": 119,
+      "name": "Strength"
+    },
+    {
+      "$id": 1973,
+      "style": 119,
+      "name": "Ether"
+    },
+    {
+      "$id": 1974,
+      "style": 119,
+      "name": "Agility"
+    },
+    {
+      "$id": 1975,
+      "style": 119,
+      "name": "Dexterity"
+    },
+    {
+      "$id": 1976,
+      "style": 119,
+      "name": "Luck"
+    },
+    {
+      "$id": 1977,
+      "style": 135,
+      "name": "[ML:number digit=4 ]"
+    },
+    {
+      "$id": 1978,
+      "style": 6,
+      "name": "Waves"
+    },
+    {
+      "$id": 1979,
+      "style": 13,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1980,
+      "style": 114,
+      "name": "Condition"
+    },
+    {
+      "$id": 1981,
+      "style": 114,
+      "name": "Effect"
+    },
+    {
+      "$id": 1982,
+      "style": 25,
+      "name": "テキスト"
+    },
+    {
+      "$id": 1983,
+      "style": 159,
+      "name": "テキスト"
+    },
+    {
+      "$id": 1984,
+      "style": 22,
+      "name": "[ML:OperationName ]"
+    },
+    {
+      "$id": 1985,
+      "style": 144,
+      "name": "[ML:number digit=2 ]"
+    },
+    {
+      "$id": 1986,
+      "style": 13,
+      "name": "Satahiko"
+    },
+    {
+      "$id": 1987,
+      "style": 13,
+      "name": "Milton"
+    },
+    {
+      "$id": 1988,
+      "style": 6,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 1989,
+      "style": 36,
+      "name": "Tips"
+    },
+    {
+      "$id": 1990,
+      "style": 13,
+      "name": "Location"
+    },
+    {
+      "$id": 1991,
+      "style": 46,
+      "name": "Community Level"
+    },
+    {
+      "$id": 1992,
+      "style": 15,
+      "name": "Required for next level:"
+    },
+    {
+      "$id": 1993,
+      "style": 135,
+      "name": "[ML:Space ]"
+    },
+    {
+      "$id": 1994,
+      "style": 70,
+      "name": "Community Level Up"
+    },
+    {
+      "$id": 1995,
+      "style": 13,
+      "name": "Quest"
+    },
+    {
+      "$id": 1996,
+      "style": 72,
+      "name": "About Xenoblade Chronicles 2"
+    },
+    {
+      "$id": 1997,
+      "style": 37,
+      "name": "Unique Monster"
+    },
+    {
+      "$id": 1998,
+      "style": 103,
+      "name": "NEW!"
+    },
+    {
+      "$id": 1999,
+      "style": 36,
+      "name": "Community"
+    },
+    {
+      "$id": 2000,
+      "style": 151,
+      "name": "Iira - The Golden Country"
+    },
+    {
+      "$id": 2001,
+      "style": 151,
+      "name": "Back to Main Game"
+    },
+    {
+      "$id": 2002,
+      "style": 5,
+      "name": "Gula"
+    },
+    {
+      "$id": 2003,
+      "style": 5,
+      "name": "Iira"
+    },
+    {
+      "$id": 2004,
+      "style": 5,
+      "name": "Aurium, Royal Capital"
+    },
+    {
+      "$id": 2005,
+      "style": 151,
+      "name": "Add Driver Idea Points"
+    },
+    {
+      "$id": 2006,
+      "style": 60,
+      "name": "Bringer of Chaos"
+    },
+    {
+      "$id": 2007,
+      "style": 5,
+      "name": "Current User"
+    },
+    {
+      "$id": 2008,
+      "style": 15,
+      "name": "Supporters:"
+    },
+    {
+      "$id": 2009,
+      "style": 112,
+      "name": "[ML:Space ]"
+    },
+    {
+      "$id": 2010,
+      "style": 135,
+      "name": "MAX"
+    },
+    {
+      "$id": 2011,
+      "style": 6,
+      "name": "[ML:DriverName ]"
+    },
+    {
+      "$id": 2012,
+      "style": 70,
+      "name": "Community Level MAX"
+    },
+    {
+      "$id": 2013,
+      "style": 4,
+      "name": "Effects"
+    },
+    {
+      "$id": 2014,
+      "style": 114,
+      "name": "Damage x"
+    },
+    {
+      "$id": 2015,
+      "style": 114,
+      "name": "Recharge x"
+    },
+    {
+      "$id": 2016,
+      "style": 114,
+      "name": "Resistance -"
+    },
+    {
+      "$id": 2017,
+      "style": 131,
+      "name": "[ML:number digit=3 ][ML:% ]%"
+    },
+    {
+      "$id": 2018,
+      "style": 167,
+      "name": "TOTAL\nDAMAGE"
+    },
+    {
+      "$id": 2019,
+      "style": 167,
+      "name": "PARTY\nTOTAL"
+    },
+    {
+      "$id": 2020,
+      "style": 137,
+      "name": "[ML:number digit=8 ]"
+    },
+    {
+      "$id": 2021,
+      "style": 176,
+      "name": "&"
+    },
+    {
+      "$id": 2022,
+      "style": 57,
+      "name": "Special Artwork"
+    },
+    {
+      "$id": 2023,
+      "style": 36,
+      "name": "Special Artwork"
+    },
+    {
+      "$id": 2024,
+      "style": 15,
+      "name": "Iira DLC Celebration"
+    }
+  ]
+}

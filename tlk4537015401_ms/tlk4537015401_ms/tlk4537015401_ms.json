@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370154_01_msg0001",
+      "style": 84,
+      "name": "Superbia is a military nation.\nAs such, all of the people organizing\nnational affairs are military officers."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370154_01_msg0002",
+      "style": 84,
+      "name": "The Departments of Finance,\nMeteorology, Justice, Security...\nall are run as military branches."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370154_01_msg0003",
+      "style": 84,
+      "name": "To avoid power being monopolized\nby a select few, nobody is stationed\nin the same place for too long."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45370154_01_msg0004",
+      "style": 84,
+      "name": "Morph was over the moon when\nhe was assigned to administrate the\nlargely peaceful territory of Gula..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45370154_01_msg0005",
+      "style": 84,
+      "name": "But in the end, he failed to even\nserve his full term in office."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450111_05_msg0001",
+      "style": 84,
+      "name": "Maybe in bit of small big trouble..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450111_05_msg0002",
+      "style": 84,
+      "name": "Cargo ship that was on way to\nGoldmund has run aground..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450111_05_msg0003",
+      "style": 84,
+      "name": "Trade people already come to pick up\nship itself..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42450111_05_msg0004",
+      "style": 84,
+      "name": "But ship very smashed up all over.\nNot able to sail any more."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42450111_05_msg0005",
+      "style": 84,
+      "name": "Maintenance team already busy\nworking on different ship, so have\nbig lack of manpower for repairs."
+    },
+    {
+      "$id": 6,
+      "label": "tlk42450111_05_msg0006",
+      "style": 84,
+      "name": "Oh, if friends could!\nWould be massive help to Kokoi!"
+    }
+  ]
+}

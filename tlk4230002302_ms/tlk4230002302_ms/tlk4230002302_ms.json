@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300023_02_msg0001",
+      "style": 84,
+      "name": "They selling all sorts of supplies and\nluxury items at Avaritia Bazaar!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300023_02_msg0002",
+      "style": 84,
+      "name": "Like, use this one and powers said to\nincrease for limited time!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300023_02_msg0003",
+      "style": 84,
+      "name": "Razzlydazzly never seen item like this\nbefore, not in village of birth!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300023_02_msg0004",
+      "style": 84,
+      "name": "Will stock up on lots of items and make\nmuch good use of them!"
+    }
+  ]
+}

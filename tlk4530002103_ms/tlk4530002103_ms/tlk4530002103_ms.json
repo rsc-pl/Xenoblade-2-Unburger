@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300021_03_msg0001",
+      "style": 84,
+      "name": "Lately there are these thieves at large\nwho go after Core Crystals."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300021_03_msg0002",
+      "style": 84,
+      "name": "Some rumors say it's Iira, but\nothers say they're unconnected."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300021_03_msg0003",
+      "style": 84,
+      "name": "Whoever the crooks are, they\nattacked the Military Engineer Corps\nmy brother works for."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300021_03_msg0004",
+      "style": 84,
+      "name": "He was pretty badly injured, but\napparently he's going to be all right..."
+    }
+  ]
+}

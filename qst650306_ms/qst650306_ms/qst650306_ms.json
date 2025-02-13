@@ -1,0 +1,510 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650306_msg0001",
+      "style": 84,
+      "name": "Is everyone unharmed?"
+    },
+    {
+      "$id": 2,
+      "label": "qst650306_msg0002",
+      "style": 84,
+      "name": "We're right as rain, and the\nGarlus aren't gonna be causing\nany more trouble."
+    },
+    {
+      "$id": 3,
+      "label": "qst650306_msg0003",
+      "style": 84,
+      "name": "Well! That is excellent news!"
+    },
+    {
+      "$id": 4,
+      "label": "qst650306_msg0004",
+      "style": 84,
+      "name": "I'll dispatch a squad to the\nGenbu Crown right away."
+    },
+    {
+      "$id": 5,
+      "label": "qst650306_msg0005",
+      "style": 84,
+      "name": "Yep, you don't want some other rotten\nblighters to take up residence."
+    },
+    {
+      "$id": 6,
+      "label": "qst650306_msg0006",
+      "style": 84,
+      "name": "Prince Zeke, everybody, thank you\nso much for your assistance. Thanks to\nyou, we settled this with no casualties."
+    },
+    {
+      "$id": 7,
+      "label": "qst650306_msg0007",
+      "style": 84,
+      "name": "Please accept a token of our gratitude."
+    },
+    {
+      "$id": 8,
+      "label": "qst650306_msg0008",
+      "style": 84,
+      "name": "Don't worry about it.\nWe didn't do it for the reward."
+    },
+    {
+      "$id": 9,
+      "label": "qst650306_msg0009",
+      "style": 84,
+      "name": "That may be so, but King Serich\nasked me to give you this himself."
+    },
+    {
+      "$id": 10,
+      "label": "qst650306_msg0010",
+      "style": 84,
+      "name": "Well, in that case, gimme!"
+    },
+    {
+      "$id": 11,
+      "label": "qst650306_msg0011",
+      "style": 84,
+      "name": "Talk about a quick change of heart..."
+    },
+    {
+      "$id": 12,
+      "label": "qst650306_msg0012",
+      "style": 84,
+      "name": "Well, at first I thought it might be that\nthe Luxurian army had clubbed their\nwages together to reward us."
+    },
+    {
+      "$id": 13,
+      "label": "qst650306_msg0013",
+      "style": 84,
+      "name": "The King is loaded, and besides,\nhe's Zeke's pop. Let him reward\nus if he wants."
+    },
+    {
+      "$id": 14,
+      "label": "qst650306_msg0014",
+      "style": 84,
+      "name": "Indeed. I promise you we didn't\ncontribute a single gold! Please\njust take it."
+    },
+    {
+      "$id": 15,
+      "label": "qst650306_msg0015",
+      "style": 84,
+      "name": "You got it."
+    },
+    {
+      "$id": 16,
+      "label": "qst650306_msg0016",
+      "style": 84,
+      "name": "If you ever need help again,\ndon't hesitate to call on us.\nWe'll be there on wings of justice."
+    },
+    {
+      "$id": 17,
+      "label": "qst650306_msg0017",
+      "style": 84,
+      "name": "Captain Tryhard..."
+    },
+    {
+      "$id": 18,
+      "label": "qst650306_msg0018",
+      "style": 84,
+      "name": "Kamuya never change..."
+    },
+    {
+      "$id": 19,
+      "label": "qst650306_msg0019",
+      "style": 84,
+      "name": "Nope."
+    },
+    {
+      "$id": 20,
+      "label": "qst650306_msg0101",
+      "style": 84,
+      "name": "Whew.\nGlad we got that over with safely."
+    },
+    {
+      "$id": 21,
+      "label": "qst650306_msg0102",
+      "style": 84,
+      "name": "Yeah."
+    },
+    {
+      "$id": 22,
+      "label": "qst650306_msg0103",
+      "style": 84,
+      "name": "You really helped us. Especially against\nthat big one at the end!"
+    },
+    {
+      "$id": 23,
+      "label": "qst650306_msg0104",
+      "style": 84,
+      "name": "I'm a Blade. That's just how we roll."
+    },
+    {
+      "$id": 24,
+      "label": "qst650306_msg0105",
+      "style": 84,
+      "name": "Even so..."
+    },
+    {
+      "$id": 25,
+      "label": "qst650306_msg0106",
+      "style": 84,
+      "name": "I'm gonna train hard until you let me\nwield that white sword of yours."
+    },
+    {
+      "$id": 26,
+      "label": "qst650306_msg0107",
+      "style": 84,
+      "name": "Haha."
+    },
+    {
+      "$id": 27,
+      "label": "qst650306_msg0108",
+      "style": 84,
+      "name": "That's the kind of spirit I look\nfor in my friends."
+    },
+    {
+      "$id": 28,
+      "label": "qst650306_msg0109",
+      "style": 84,
+      "name": "Hah. Let's get stronger together, eh?"
+    },
+    {
+      "$id": 29,
+      "label": "qst650306_msg0110",
+      "style": 84,
+      "name": "You bet, Rex."
+    },
+    {
+      "$id": 30,
+      "label": "qst650306_msg0111",
+      "style": 84,
+      "name": "Hahah...\n...So..."
+    },
+    {
+      "$id": 31,
+      "label": "qst650306_msg0112",
+      "style": 84,
+      "name": "Erm..."
+    },
+    {
+      "$id": 32,
+      "label": "qst650306_msg0113",
+      "style": 84,
+      "name": "...You do know I'm never going to let\nyou use Durandal, right?"
+    },
+    {
+      "$id": 33,
+      "label": "qst650306_msg0114",
+      "style": 84,
+      "name": "Whaaat? Not even once? I won't\ndamage it or anything, I promise!"
+    },
+    {
+      "$id": 34,
+      "label": "qst650306_msg0115",
+      "style": 84,
+      "name": "Not in a billion years."
+    },
+    {
+      "$id": 35,
+      "label": "qst650306_msg0116",
+      "style": 84,
+      "name": "But I wanna try dual-wielding..."
+    },
+    {
+      "$id": 36,
+      "label": "qst650306_msg0117",
+      "style": 84,
+      "name": "Nope, no way. Friend or not, it's\nnever gonna happen."
+    },
+    {
+      "$id": 37,
+      "label": "qst650306_msg0201",
+      "style": 84,
+      "name": "Whew.\nGlad we got that over with safely."
+    },
+    {
+      "$id": 38,
+      "label": "qst650306_msg0202",
+      "style": 84,
+      "name": "Yeah."
+    },
+    {
+      "$id": 39,
+      "label": "qst650306_msg0203",
+      "style": 84,
+      "name": "You really helped us. Especially against\nthat big one at the end!"
+    },
+    {
+      "$id": 40,
+      "label": "qst650306_msg0204",
+      "style": 84,
+      "name": "I'm a Blade. That's just how we roll."
+    },
+    {
+      "$id": 41,
+      "label": "qst650306_msg0205",
+      "style": 84,
+      "name": "Even so...\nI'm gonna train hard until you let me\nwield that white sword of yours."
+    },
+    {
+      "$id": 42,
+      "label": "qst650306_msg0206",
+      "style": 84,
+      "name": "Haha."
+    },
+    {
+      "$id": 43,
+      "label": "qst650306_msg0207",
+      "style": 84,
+      "name": "That's the kind of spirit I look\nfor in my friends."
+    },
+    {
+      "$id": 44,
+      "label": "qst650306_msg0208",
+      "style": 84,
+      "name": "There's Captain Tryhard again."
+    },
+    {
+      "$id": 45,
+      "label": "qst650306_msg0209",
+      "style": 84,
+      "name": "Heh, maybe you have a point."
+    },
+    {
+      "$id": 46,
+      "label": "qst650306_msg0210",
+      "style": 84,
+      "name": "Maybe I'll try to tone it down a bit."
+    },
+    {
+      "$id": 47,
+      "label": "qst650306_msg0211",
+      "style": 84,
+      "name": "I won't hold my breath for that."
+    },
+    {
+      "$id": 48,
+      "label": "qst650306_msg0212",
+      "style": 84,
+      "name": "Have a little faith, Nia!"
+    },
+    {
+      "$id": 49,
+      "label": "qst650306_msg0213",
+      "style": 84,
+      "name": "I'll do my best to prove you wrong."
+    },
+    {
+      "$id": 50,
+      "label": "qst650306_msg0214",
+      "style": 84,
+      "name": "Good luck with that!"
+    },
+    {
+      "$id": 51,
+      "label": "qst650306_msg0301",
+      "style": 84,
+      "name": "Whew.\nGlad we got that over with safely."
+    },
+    {
+      "$id": 52,
+      "label": "qst650306_msg0302",
+      "style": 84,
+      "name": "Indeed."
+    },
+    {
+      "$id": 53,
+      "label": "qst650306_msg0303",
+      "style": 84,
+      "name": "You proved invaluable. Especially\nversus the final Garlus."
+    },
+    {
+      "$id": 54,
+      "label": "qst650306_msg0304",
+      "style": 84,
+      "name": "I'm a Blade. That's just how we roll."
+    },
+    {
+      "$id": 55,
+      "label": "qst650306_msg0305",
+      "style": 84,
+      "name": "Even so..."
+    },
+    {
+      "$id": 56,
+      "label": "qst650306_msg0306",
+      "style": 84,
+      "name": "I intend to train diligently so that\nI may someday earn the right to\nwield that white sword of yours."
+    },
+    {
+      "$id": 57,
+      "label": "qst650306_msg0307",
+      "style": 84,
+      "name": "Haha."
+    },
+    {
+      "$id": 58,
+      "label": "qst650306_msg0308",
+      "style": 84,
+      "name": "That's the kind of spirit I look\nfor in my friends."
+    },
+    {
+      "$id": 59,
+      "label": "qst650306_msg0309",
+      "style": 84,
+      "name": "Friends? Presumptuous, aren't we?"
+    },
+    {
+      "$id": 60,
+      "label": "qst650306_msg0310",
+      "style": 84,
+      "name": "What's the problem?"
+    },
+    {
+      "$id": 61,
+      "label": "qst650306_msg0311",
+      "style": 84,
+      "name": "We are comrades-in-arms.\nI do not add to the ranks of my\nfriends so lightly."
+    },
+    {
+      "$id": 62,
+      "label": "qst650306_msg0312",
+      "style": 84,
+      "name": "Is that all? Well, we'll be best buds\nbefore long, take it from me."
+    },
+    {
+      "$id": 63,
+      "label": "qst650306_msg0313",
+      "style": 84,
+      "name": "Don't hold your breath..."
+    },
+    {
+      "$id": 64,
+      "label": "qst650306_msg0401",
+      "style": 84,
+      "name": "Whew.\nGlad we got that over with safely."
+    },
+    {
+      "$id": 65,
+      "label": "qst650306_msg0402",
+      "style": 84,
+      "name": "Tell me about it."
+    },
+    {
+      "$id": 66,
+      "label": "qst650306_msg0403",
+      "style": 84,
+      "name": "You really helped us. Especially against\nthat brute at the end!"
+    },
+    {
+      "$id": 67,
+      "label": "qst650306_msg0404",
+      "style": 84,
+      "name": "I'm a Blade. That's just how we roll."
+    },
+    {
+      "$id": 68,
+      "label": "qst650306_msg0405",
+      "style": 84,
+      "name": "So, Kamuya..."
+    },
+    {
+      "$id": 69,
+      "label": "qst650306_msg0406",
+      "style": 84,
+      "name": "Hmm?"
+    },
+    {
+      "$id": 70,
+      "label": "qst650306_msg0407",
+      "style": 84,
+      "name": "That Durandal of yours is pretty\nbroken, eh?"
+    },
+    {
+      "$id": 71,
+      "label": "qst650306_msg0408",
+      "style": 84,
+      "name": "Broken?"
+    },
+    {
+      "$id": 72,
+      "label": "qst650306_msg0409",
+      "style": 84,
+      "name": "Yes, you know - unreasonably\npowerful. When you pull it out, your\nenemies are like \"This is jolly unfair!\""
+    },
+    {
+      "$id": 73,
+      "label": "qst650306_msg0410",
+      "style": 84,
+      "name": "Say, what are the chances of you\nletting your old pal Zeke have a\nswing of it sometime?"
+    },
+    {
+      "$id": 74,
+      "label": "qst650306_msg0411",
+      "style": 84,
+      "name": "I thought you might ask that.\nIt's really only Blades that have the\nstrength to wield it..."
+    },
+    {
+      "$id": 75,
+      "label": "qst650306_msg0412",
+      "style": 84,
+      "name": "Well, you never know until you try."
+    },
+    {
+      "$id": 76,
+      "label": "qst650306_msg0413",
+      "style": 84,
+      "name": "Sorry, it's gotta be a no. Even if you\nwere to become the most powerful\nDriver in Alst."
+    },
+    {
+      "$id": 77,
+      "label": "qst650306_msg0414",
+      "style": 84,
+      "name": "That's OK. I'll just nick it\nwhile you're sleeping."
+    },
+    {
+      "$id": 78,
+      "label": "qst650306_msg0415",
+      "style": 84,
+      "name": "Wha?!"
+    },
+    {
+      "$id": 79,
+      "label": "qst650306_msg0416",
+      "style": 84,
+      "name": "I guess I'll be switching rooms, then."
+    },
+    {
+      "$id": 80,
+      "label": "qst650306_msg0417",
+      "style": 84,
+      "name": "Hahaha! I'm joking, mate."
+    },
+    {
+      "$id": 81,
+      "label": "qst650306_msg0418",
+      "style": 84,
+      "name": "No you weren't."
+    },
+    {
+      "$id": 82,
+      "label": "qst650306_msg0419",
+      "style": 84,
+      "name": "Anyway, keep training and getting\nstronger. You never know."
+    }
+  ]
+}

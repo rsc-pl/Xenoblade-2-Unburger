@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200121_02_msg0001",
+      "style": 84,
+      "name": "Cook ability is skill to be proud of!\nPeople who can should cook lots\nand lots!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200121_02_msg0002",
+      "style": 84,
+      "name": "Nobody know wide variety of\nrecipe from very start..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200121_02_msg0003",
+      "style": 84,
+      "name": "But that just make it fun to learn new\nrecipe and expand cooking horizon!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200121_02_msg0004",
+      "style": 84,
+      "name": "Cooking made with love fills stomach\nand also heart! Put big smile on face!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42200121_02_msg0005",
+      "style": 84,
+      "name": "Come on, let's make lots of\nfood in kitchen!"
+    }
+  ]
+}

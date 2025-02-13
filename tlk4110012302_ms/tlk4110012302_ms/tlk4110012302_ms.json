@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100123_02_msg0001",
+      "style": 84,
+      "name": "I heard the water tower over at\nKloom Farm got totally wrecked!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100123_02_msg0002",
+      "style": 84,
+      "name": "And even worse, the army let\nthat baddie from Iira they'd\ncaptured get away!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100123_02_msg0003",
+      "style": 84,
+      "name": "How could they be so useless\nwhen the Flamebringer was on\nthe scene and everything?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100123_02_msg0004",
+      "style": 84,
+      "name": "Is she not as strong as everyone says?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100123_02_msg0005",
+      "style": 84,
+      "name": "My ma was getting really worried.\nTelling me to watch myself because\nthose villains might still be nearby."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100123_02_msg0006",
+      "style": 84,
+      "name": "Actually, you guys aren't from around\nhere either, are you? Haha, don't worry,\nI can tell you're not dangerous."
+    }
+  ]
+}

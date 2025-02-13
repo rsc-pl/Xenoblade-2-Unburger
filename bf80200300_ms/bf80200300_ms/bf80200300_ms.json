@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "85890101",
+      "style": 82,
+      "name": "Rest easy, for I am here!"
+    },
+    {
+      "$id": 2,
+      "label": "85890102",
+      "style": 82,
+      "name": "I'll fight by your side until my very soul withers!"
+    },
+    {
+      "$id": 3,
+      "label": "86890101",
+      "style": 82,
+      "name": "Take it easy, I'm here!"
+    },
+    {
+      "$id": 4,
+      "label": "86890102",
+      "style": 82,
+      "name": "I'll fight by your side until my very soul withers!"
+    },
+    {
+      "$id": 5,
+      "label": "87890101",
+      "style": 82,
+      "name": "Hey! You're my new best friend! OK?"
+    },
+    {
+      "$id": 6,
+      "label": "87890102",
+      "style": 82,
+      "name": "I think we can create a great bond between us!"
+    },
+    {
+      "$id": 7,
+      "label": "88890101",
+      "style": 82,
+      "name": "You are my new best friend! OK?"
+    },
+    {
+      "$id": 8,
+      "label": "88890102",
+      "style": 82,
+      "name": "I think we can create a great bond between us!"
+    }
+  ]
+}

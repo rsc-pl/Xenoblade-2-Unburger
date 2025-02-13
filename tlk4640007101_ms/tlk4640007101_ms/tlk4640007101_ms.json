@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400071_01_msg0001",
+      "style": 84,
+      "name": "This is the main entrance to Goth Isut,\ncapital of the Holy See of Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400071_01_msg0002",
+      "style": 84,
+      "name": "Ascend the steps you see before you\nto reach Seoris Plaza."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400071_01_msg0003",
+      "style": 84,
+      "name": "Beyond the plaza lies the cathedral,\nwhere His Holiness Marveni himself\noffers prayers every day."
+    }
+  ]
+}

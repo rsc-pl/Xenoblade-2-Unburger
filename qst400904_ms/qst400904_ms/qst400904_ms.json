@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400904_msg0001",
+      "style": 84,
+      "name": "Sorry, but I don't do small talk with\npeople who aren't paying customers."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400904_msg0002",
+      "style": 84,
+      "name": "Maybe if you bought something,\nI'd be more willing to chat."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400904_msg0003",
+      "style": 84,
+      "name": "What do you say?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk400904_msg0004",
+      "style": 84,
+      "name": "Cheapskates."
+    },
+    {
+      "$id": 5,
+      "label": "tlk400904_msg0005",
+      "style": 84,
+      "name": "Well, if you're not paying,\nI'm not talking!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk400904_msg0006",
+      "style": 84,
+      "name": "Thanks for your custom!\nAnd whaddaya know, I think\nI just remembered!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk400904_msg0007",
+      "style": 84,
+      "name": "You're looking for an old bloke\nby the name of Timell."
+    },
+    {
+      "$id": 8,
+      "label": "tlk400904_msg0008",
+      "style": 84,
+      "name": "He's in the business of transporting\nBlack Ash and other minerals mined\nin Superbia."
+    },
+    {
+      "$id": 9,
+      "label": "tlk400904_msg0009",
+      "style": 84,
+      "name": "Right now, you'll probably find\nhim at the Turbine Tower, just\nacross Midorl Bridge."
+    },
+    {
+      "$id": 10,
+      "label": "tlk400904_msg0010",
+      "style": 84,
+      "name": "Be careful if you're going to\nmeet him, though."
+    }
+  ]
+}

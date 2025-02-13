@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202306_msg001",
+      "style": 62,
+      "name": "BQ2023 \n土の封印石"
+    },
+    {
+      "$id": 2,
+      "label": "qst202306_msg002",
+      "style": 62,
+      "name": "FS成功"
+    },
+    {
+      "$id": 3,
+      "label": "qst202306_msg003",
+      "style": 62,
+      "name": "FS失敗"
+    },
+    {
+      "$id": 4,
+      "label": "qst202306_msg0101",
+      "style": 62,
+      "name": "封印石は破壊されている"
+    }
+  ]
+}

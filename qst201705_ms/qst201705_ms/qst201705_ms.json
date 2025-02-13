@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201705_msg0001",
+      "style": 84,
+      "name": "The Ship-Eating Taos have taken up\nresidence on this Divine Beast warship."
+    },
+    {
+      "$id": 2,
+      "label": "qst201705_msg1001",
+      "style": 84,
+      "name": "Please act carefully so as not\nto damage the ship itself."
+    },
+    {
+      "$id": 3,
+      "label": "qst201705_msg0002",
+      "style": 84,
+      "name": "Is this the first time you will have\nvisited Hadashal Palace, Newt?"
+    },
+    {
+      "$id": 4,
+      "label": "qst201705_msg0003",
+      "style": 84,
+      "name": "It will be fine, as long as you make sure\nto behave. And watch your manners\nin front of His Majesty!"
+    }
+  ]
+}

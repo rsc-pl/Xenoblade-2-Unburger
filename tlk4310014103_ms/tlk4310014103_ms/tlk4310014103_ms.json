@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4310014103_msg0001",
+      "style": 84,
+      "name": "Hey, don't worry! You won't find him\nround here anymore. He's gone."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4310014103_msg0002",
+      "style": 84,
+      "name": "Never mind that anyway! My little\nsister's doing Grass-Smoked Salmon\nfor supper tonight!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4310014103_msg0003",
+      "style": 84,
+      "name": "I got some lovely Gulan seasoning\nfrom one of those guys from the\nMerc Group."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4310014103_msg0004",
+      "style": 84,
+      "name": "It's a bit stronger than what my mum\nused, but it's good!"
+    }
+  ]
+}

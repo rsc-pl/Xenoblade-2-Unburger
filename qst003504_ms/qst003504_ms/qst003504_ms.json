@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003504_msg0001",
+      "style": 84,
+      "name": "What do you want? It's us Superbians\nkeeping this place safe, you know."
+    },
+    {
+      "$id": 2,
+      "label": "qst003504_msg0002",
+      "style": 84,
+      "name": "So of course we get to boss the\nGulan folk around a little!"
+    }
+  ]
+}

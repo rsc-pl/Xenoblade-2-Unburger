@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk401008_msg0001",
+      "style": 84,
+      "name": "Nothing untoward is going on\nin the Superbian army, I assure you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk401008_msg0002",
+      "style": 84,
+      "name": "Those who have come to Acedia belong\nto the Carraig Imperial Guard."
+    },
+    {
+      "$id": 3,
+      "label": "tlk401008_msg0003",
+      "style": 84,
+      "name": "Elite soldiers who have sworn solemn\noaths to protect the Emperor."
+    },
+    {
+      "$id": 4,
+      "label": "tlk401008_msg0004",
+      "style": 84,
+      "name": "So if anything suspicious were\ngoing on, I'd venture it would have\nto be on the Invidian side..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk401008_msg0005",
+      "style": 84,
+      "name": "I find it difficult to tell what those\npeople are thinking sometimes."
+    }
+  ]
+}

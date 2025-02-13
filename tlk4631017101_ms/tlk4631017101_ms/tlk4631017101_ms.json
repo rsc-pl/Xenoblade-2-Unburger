@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46310171_01_msg0001",
+      "style": 84,
+      "name": "Ah, you must be the travelers\nMaster Zeke was escorting.\nWelcome to the cathedral of Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46310171_01_msg0002",
+      "style": 84,
+      "name": "Oh, I see there is a salvager\namong your number!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk46310171_01_msg0003",
+      "style": 84,
+      "name": "Pope Marveni himself used to\nsalvage artifacts from all across Alst\nin his younger days, you know."
+    }
+  ]
+}

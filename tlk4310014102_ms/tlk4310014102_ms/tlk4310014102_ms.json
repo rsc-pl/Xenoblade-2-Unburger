@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4310014102_msg0001",
+      "style": 84,
+      "name": "Don't have to worry about me.\nI'm going to get so strong..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4310014102_msg0002",
+      "style": 84,
+      "name": "Yeah, I'll be grown up in no time. I'll be\na Driver with a cool Blade before you\nknow it."
+    }
+  ]
+}

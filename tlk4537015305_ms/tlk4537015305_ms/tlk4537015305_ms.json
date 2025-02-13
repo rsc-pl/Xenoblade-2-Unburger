@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4537015305_msg0001",
+      "style": 84,
+      "name": "Something lovely happened recently."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4537015305_msg0002",
+      "style": 84,
+      "name": "I was approached by a number of\nNopon who are interested in learning\nmore about ancient Nopon history."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4537015305_msg0003",
+      "style": 84,
+      "name": "This is all thanks to the work of\nRododo in Avaritia, spreading the\nword of Captain Nopopon's deeds!"
+    }
+  ]
+}

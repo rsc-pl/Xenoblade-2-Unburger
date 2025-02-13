@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500421_03_msg0001",
+      "style": 84,
+      "name": "I wonder what'll be for dinner tonight...\nHohoh. As if I don't know the answer."
+    },
+    {
+      "$id": 2,
+      "label": "a",
+      "style": 84,
+      "name": "Doubt"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500421_03_msg0002",
+      "style": 84,
+      "name": "I live together with my Blade partner,\nyou see, and she always serves up the\nsame thing every night."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500421_03_msg0003",
+      "style": 84,
+      "name": "I can't complain, though. Decades I've\nbeen eating them, and I still haven't\ngot sick of them! They're that good!"
+    }
+  ]
+}

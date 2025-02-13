@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk075_msg0001",
+      "style": 84,
+      "name": "Mmm! Mmhmmm!\nHeeheehee..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk075_msg0002",
+      "style": 84,
+      "name": "You're in a good mood, Raiko."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk075_msg0003",
+      "style": 84,
+      "name": "Hehe, how did you know?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk075_msg0004",
+      "style": 84,
+      "name": "Something good must have happened,\nhuh?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk075_msg0005",
+      "style": 84,
+      "name": "So did something good happen?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk075_msg0006",
+      "style": 84,
+      "name": "I take it something good must have\nhappened?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk075_msg0007",
+      "style": 84,
+      "name": "Something good happen?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk075_msg0008",
+      "style": 84,
+      "name": "Yup! Kind of."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk075_msg0009",
+      "style": 84,
+      "name": "I'm just happy that there are so many\nplaces here where lightning is useful."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk075_msg0010",
+      "style": 84,
+      "name": "I get to really show off my stuff!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk075_msg0011",
+      "style": 84,
+      "name": "You've been coming along in leaps\nand bounds with your powers lately!"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk075_msg0012",
+      "style": 84,
+      "name": "Yeah. If we didn't have you around,\nwe'd never have made it this far."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk075_msg0013",
+      "style": 84,
+      "name": "Yeah. If we didn't have you around,\nwe'd never have made it this far."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk075_msg0014",
+      "style": 84,
+      "name": "Indeed. If we didn't have you around,\nwe couldn't have made it this far."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk075_msg0015",
+      "style": 84,
+      "name": "Yeah. If we didn't have you around,\nwe'd never have made it this far."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk075_msg0016",
+      "style": 84,
+      "name": "Aww, shucks. I'm glad you all think\nI'm useful."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk075_msg0017",
+      "style": 84,
+      "name": "No more shocking people! Just\nuseful helping!"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk075_msg0018",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk075_msg0019",
+      "style": 164,
+      "name": "Raiko, you're a real asset to the team."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk075_msg0020",
+      "style": 164,
+      "name": "I dunno. Pride comes before a fall..."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk075_msg0021",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk075_msg0022",
+      "style": 164,
+      "name": "You're really putting in the work,\nRaiko."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk075_msg0023",
+      "style": 164,
+      "name": "Pride comes before a fall and all that."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk075_msg0024",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk075_msg0025",
+      "style": 164,
+      "name": "You're very dedicated."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk075_msg0026",
+      "style": 164,
+      "name": "Don't rest on your laurels."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk075_msg0027",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk075_msg0028",
+      "style": 164,
+      "name": "All because you trained hard!"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk075_msg0029",
+      "style": 164,
+      "name": "Don't get too carried away!"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk075_msg0101",
+      "style": 84,
+      "name": "Yeah!"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk075_msg0102",
+      "style": 84,
+      "name": "I've still got lots of training to do before\nI can control my power fully."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk075_msg0103",
+      "style": 84,
+      "name": "What kind of training are you doing?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk075_msg0104",
+      "style": 84,
+      "name": "Well, for example..."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk075_msg0105",
+      "style": 84,
+      "name": "Sometimes I practice producing a\nsteady, low-intensity current."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk075_msg0106",
+      "style": 84,
+      "name": "Oh, the other day I also used my power\nto massage a tired old lady's shoulders."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk075_msg0107",
+      "style": 84,
+      "name": "Y'know, just generally trying to keep\nmy powers in check!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk075_msg0108",
+      "style": 84,
+      "name": "Well, it sounds like you're really\ntrying hard."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk075_msg0109",
+      "style": 84,
+      "name": "Yep!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk075_msg0110",
+      "style": 84,
+      "name": "I feel like I get a little bit more\ngrown up every day."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk075_msg0111",
+      "style": 84,
+      "name": "That's great. We're gonna be\ncounting on you, Raiko."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk075_msg0112",
+      "style": 84,
+      "name": "Good. We're gonna be counting on\nyou, Raiko."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk075_msg0113",
+      "style": 84,
+      "name": "Excellent. We shall be counting on you,\nRaiko."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk075_msg0114",
+      "style": 84,
+      "name": "Awesome. We're gonna be counting\non you, Raiko!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk075_msg0115",
+      "style": 84,
+      "name": "I won't let you down!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk075_msg0116",
+      "style": 84,
+      "name": "\"Dependable\" is my middle name!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk075_msg0201",
+      "style": 84,
+      "name": "Hehe, oh don't you worry."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk075_msg0202",
+      "style": 84,
+      "name": "I'm gonna be real careful..."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk075_msg0203",
+      "style": 84,
+      "name": "I promise from now on, I won't\nbe electrocuting anybody!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk075_msg0204",
+      "style": 84,
+      "name": "Ah..."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk075_msg0205",
+      "style": 84,
+      "name": "What?"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk075_msg0206",
+      "style": 84,
+      "name": "There's a bug on your back..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk075_msg0207",
+      "style": 84,
+      "name": "A bug?! Where is it?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk075_msg0208",
+      "style": 84,
+      "name": "Where is it? Where is it?\nGET IT OFF ME!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk075_msg0209",
+      "style": 84,
+      "name": "Hold on just a sec, I'll get it."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk075_msg0210",
+      "style": 84,
+      "name": "I got this."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk075_msg0211",
+      "style": 84,
+      "name": "Don't move a muscle. I'll get it."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk075_msg0212",
+      "style": 84,
+      "name": "Don't move! I've so got this!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk075_msg0213",
+      "style": 84,
+      "name": "Uh, um...\nI don't like this... Where did it go?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk075_msg0214",
+      "style": 84,
+      "name": "Aaaahhhh!"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk075_msg0215",
+      "style": 84,
+      "name": "Aaaahhhh!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk075_msg0216",
+      "style": 84,
+      "name": "Aaaahhhh!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk075_msg0217",
+      "style": 84,
+      "name": "Aaaahhhh!"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk075_msg0218",
+      "style": 84,
+      "name": "...Oops."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk075_msg0219",
+      "style": 84,
+      "name": "Gosh, I am so sorry...\nI guess I've still got a ways to go..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk075_msg0220",
+      "style": 84,
+      "name": "It's OK. I'll get there, eventually!"
+    }
+  ]
+}

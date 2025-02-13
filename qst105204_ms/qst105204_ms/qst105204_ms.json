@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105204_msg001",
+      "style": 62,
+      "name": "素材を持ってくればつくれるも！"
+    },
+    {
+      "$id": 2,
+      "label": "qst105204_msg002",
+      "style": 62,
+      "name": "巨大雲海魚の尾ひれと\n飛びエイの棘があればボンベを強化できるも"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320159_05_msg0001",
+      "style": 84,
+      "name": "As far as our Imperial Army duties\nhere go, there's been nothing out\nof the ordinary."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320159_05_msg0002",
+      "style": 84,
+      "name": "I hear things have been pretty hectic\ndown at Port Anangham, though."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320159_05_msg0003",
+      "style": 84,
+      "name": "Only things trying to get into the\ncapital from this side have been\nthe usual monsters."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320159_05_msg0004",
+      "style": 84,
+      "name": "Funny how violent monsters that can't\nbe reasoned with are actually the easier\nthreat to be facing nowadays."
+    }
+  ]
+}

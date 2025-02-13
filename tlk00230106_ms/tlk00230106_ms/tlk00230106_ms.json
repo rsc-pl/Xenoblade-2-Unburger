@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00230106_msg0001",
+      "style": 84,
+      "name": "You guys've given me the strength to\ngo on living a while longer. So, cheers\nfor that!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00230106_msg0002",
+      "style": 84,
+      "name": "Ion's started helping me out with the\nwriting recently."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00230106_msg0003",
+      "style": 84,
+      "name": "We think up the best way to present\nperformances together too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00230106_msg0004",
+      "style": 84,
+      "name": "Too right. She's a gem, ain't she?"
+    }
+  ]
+}

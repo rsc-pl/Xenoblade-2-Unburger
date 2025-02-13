@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700122_01_msg0001",
+      "style": 84,
+      "name": "You after something?\nThis is Trigo's number one farm."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700122_01_msg0002",
+      "style": 84,
+      "name": "All the Gulan folk working here at\nKloom Farm are my own family."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700122_01_msg0003",
+      "style": 84,
+      "name": "We've been supporting the farming\nindustry in Trigo for generations.\nA heck of a lot of generations."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700122_01_msg0004",
+      "style": 84,
+      "name": "Since you're here, why don't you take\na few of our vegetables as a souvenir?"
+    }
+  ]
+}

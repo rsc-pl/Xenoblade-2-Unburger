@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf08140150_0010",
+      "style": 82,
+      "name": "So many many..."
+    },
+    {
+      "$id": 2,
+      "label": "bf08140150_0020",
+      "style": 82,
+      "name": "Hikari?!"
+    },
+    {
+      "$id": 3,
+      "label": "bf08140150_0030",
+      "style": 82,
+      "name": "There's no way around..."
+    },
+    {
+      "$id": 4,
+      "label": "bf08140150_0040",
+      "style": 82,
+      "name": "Yeah..."
+    },
+    {
+      "$id": 5,
+      "label": "bf08140150_0050",
+      "style": 82,
+      "name": "Ack!"
+    },
+    {
+      "$id": 6,
+      "label": "bf08140150_0060",
+      "style": 82,
+      "name": "No time to play around."
+    },
+    {
+      "$id": 7,
+      "label": "bf08140150_0070",
+      "style": 82,
+      "name": "No arguments there..."
+    },
+    {
+      "$id": 8,
+      "label": "bf08140150_0080",
+      "style": 82,
+      "name": "No option but to wipe them out.\nLet's do it!"
+    }
+  ]
+}

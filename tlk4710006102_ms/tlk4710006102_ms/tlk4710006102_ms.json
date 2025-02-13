@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100061_02_msg0001",
+      "style": 84,
+      "name": "Because the scary Demon Lord is gone, Pepe and I came to eat grass! \nThe grass in Iyasaki Village is the most delicious!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100061_02_msg0002",
+      "style": 84,
+      "name": "Thank you, true hero-sama, for helping Mimi and Pepe."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100061_02_msg0003",
+      "style": 84,
+      "name": "When your adventure is all over, \nlet's eat grass together here! Pepe and I will be waiting!"
+    }
+  ]
+}

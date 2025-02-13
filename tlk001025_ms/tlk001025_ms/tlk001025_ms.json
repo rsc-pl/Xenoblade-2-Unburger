@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001025_msg0001",
+      "style": 84,
+      "name": "Master Rex...\nAre you prepared to begin salvaging?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001025_msg0002",
+      "style": 84,
+      "name": "Let us all work well together to\nmake this mission a success."
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001025_msg0003",
+      "style": 84,
+      "name": "Wouldn't have it any other way!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400342_01_msg0001",
+      "style": 84,
+      "name": "Welcome, welcome.\nThis patisserie is run by the famed\ncake-maker Yuou."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400342_01_msg0002",
+      "style": 84,
+      "name": "We have many luxurious items for your\ndelectation. All of them guaranteed to\nsate your culinary desires."
+    }
+  ]
+}

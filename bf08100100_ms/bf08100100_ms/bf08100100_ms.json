@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf08100100_0010",
+      "style": 82,
+      "name": "Can I have a word?"
+    },
+    {
+      "$id": 2,
+      "label": "bf08100100_0020",
+      "style": 82,
+      "name": "[ML:undisp ]..."
+    },
+    {
+      "$id": 3,
+      "label": "bf08100100_0030",
+      "style": 82,
+      "name": "I'm Kagutsuchi. But I hardly needed to introduce\nmyself to you, did I?"
+    },
+    {
+      "$id": 4,
+      "label": "bf08100100_0040",
+      "style": 82,
+      "name": "You must know practically all there is to know\nabout me by now."
+    },
+    {
+      "$id": 5,
+      "label": "bf08100100_0050",
+      "style": 82,
+      "name": "I just wanted to make sure if the me that you knew,"
+    },
+    {
+      "$id": 6,
+      "label": "bf08100100_0060",
+      "style": 82,
+      "name": "and the me written here are the same."
+    },
+    {
+      "$id": 7,
+      "label": "bf08100100_0070",
+      "style": 82,
+      "name": "..."
+    },
+    {
+      "$id": 8,
+      "label": "bf08100100_0080",
+      "style": 82,
+      "name": "People glorify themselves in their own diaries right?"
+    }
+  ]
+}

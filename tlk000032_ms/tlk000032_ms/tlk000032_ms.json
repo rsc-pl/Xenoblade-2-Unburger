@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000032_msg0001",
+      "style": 84,
+      "name": "This is a wonderful place.\nIdeal for resting one's bones after\nthe strains of battle."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000032_msg0002",
+      "style": 84,
+      "name": "I'm sure you must be tired as well,\nMaster Rex. Please, take as much\ntime as you need to relax."
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk070_msg001",
+      "style": 84,
+      "name": "Hahaha, excellent!\nWhat a spectacle!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk070_msg002",
+      "style": 84,
+      "name": "Hey, look here!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk070_msg003",
+      "style": 84,
+      "name": "This one's a military transport vessel...\nand that is what we'd call a destroyer!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk070_msg004",
+      "style": 84,
+      "name": "You look like you're enjoying yourself,\nNewt."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk070_msg005",
+      "style": 84,
+      "name": "You look like you're havin' fun, Newt."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk070_msg006",
+      "style": 84,
+      "name": "You seem to be enjoying yourself,\nNewt."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk070_msg007",
+      "style": 84,
+      "name": "Having fun, eh, Newt?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk070_msg008",
+      "style": 84,
+      "name": "Well, duh!"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk070_msg009",
+      "style": 84,
+      "name": "The latest and greatest warships of\nthe Superbian navy, all in one place!"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk070_msg010",
+      "style": 84,
+      "name": "Who wouldn't get excited?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk070_msg011",
+      "style": 84,
+      "name": "Aaah! Look over there!"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk070_msg012",
+      "style": 84,
+      "name": "That one being refitted is the newest\nmodel of amphibious assault ship!"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk070_msg013",
+      "style": 84,
+      "name": "It's the flagship of Division One of the\nSecond Imperial Guard, you know!"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk070_msg014",
+      "style": 165,
+      "name": "What should I reply?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk070_msg015",
+      "style": 164,
+      "name": "Wow, Newt, you really like\nyour battleships, don't you?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk070_msg016",
+      "style": 164,
+      "name": "Wow, Newt, you really like\nthe Superbian army, don't you?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk070_msg017",
+      "style": 165,
+      "name": "What should I reply?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk070_msg018",
+      "style": 164,
+      "name": "Newt, you sure do like battleships, huh?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk070_msg019",
+      "style": 164,
+      "name": "Newt, you sure do like Superbian\nmilitary stuff, huh?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk070_msg020",
+      "style": 165,
+      "name": "What should I reply?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk070_msg021",
+      "style": 164,
+      "name": "My word, Newt, you really do like\nbattleships, don't you?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk070_msg022",
+      "style": 164,
+      "name": "My word, Newt, you really do like\nthe Superbian military, don't you?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk070_msg023",
+      "style": 165,
+      "name": "What should I reply?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk070_msg024",
+      "style": 164,
+      "name": "Newt, you seriously like\nbattleships, eh?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk070_msg025",
+      "style": 164,
+      "name": "Newt, you seriously are an\nSuperbian army buff, eh?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk070_msg026",
+      "style": 84,
+      "name": "No, you're totally off-base!"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk070_msg027",
+      "style": 84,
+      "name": "Huh?\n...I am?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk070_msg028",
+      "style": 84,
+      "name": "Eh?\n...Off-base?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk070_msg029",
+      "style": 84,
+      "name": "How do you mean?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk070_msg030",
+      "style": 84,
+      "name": "Off-base? Me?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk070_msg031",
+      "style": 84,
+      "name": "Well, the terms are often incorrectly\nconflated..."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk070_msg032",
+      "style": 84,
+      "name": "A \"battleship\" is actually the name of\njust one class of military vessel."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk070_msg033",
+      "style": 84,
+      "name": "When speaking more generally,\nthe correct term is \"warship\" or\n\"combat vessel\"."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk070_msg034",
+      "style": 84,
+      "name": "There are many subcategories, like\ndestroyers, escort vessels, cruisers\nor battleships..."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk070_msg035",
+      "style": 84,
+      "name": "And of course we can't forget transport\nvessels and other specialized craft..."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk070_msg036",
+      "style": 84,
+      "name": "Then you can divide them by specific\nduty, or by the size of the Divine Beast they\nincorporate, or by their capabilities..."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk070_msg038",
+      "style": 84,
+      "name": "OK, I get it!"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk070_msg039",
+      "style": 84,
+      "name": "I don't think I'll remember any of that\nif you rattle it off so quickly..."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk070_msg040",
+      "style": 84,
+      "name": "OK, OK, OK!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk070_msg041",
+      "style": 84,
+      "name": "Nobody'll get anything from a lecture\nlike that..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk070_msg042",
+      "style": 84,
+      "name": "Enough!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk070_msg043",
+      "style": 84,
+      "name": "Ah, sorry. Didn't mean to shout. That\nwasn't very professional of me."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk070_msg044",
+      "style": 84,
+      "name": "Enough, already..."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk070_msg045",
+      "style": 84,
+      "name": "I've got it now, so please just\nwind down a bit?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk070_msg046",
+      "style": 84,
+      "name": "Oh, really? I was only just getting to\nthe really cool part, but OK..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk070_msg047",
+      "style": 84,
+      "name": "Well, I guess I'll tell you the rest later\nat some point!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk070_msg048",
+      "style": 84,
+      "name": "Whoa!"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk070_msg049",
+      "style": 84,
+      "name": "That ship's been specifically made for\nthe Imperial Guard! I cannot believe it's\nhere!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk070_msg050",
+      "style": 84,
+      "name": "C'mon, Driver-person! Let's dash!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk070_msg051",
+      "style": 84,
+      "name": "......"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk070_msg052",
+      "style": 84,
+      "name": "Well, obviously!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk070_msg053",
+      "style": 84,
+      "name": "The Superbian Armed Forces are the\nfinest army in the world!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk070_msg054",
+      "style": 84,
+      "name": "Unlike other countries, in Superbia\nthe state controls the army directly..."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk070_msg055",
+      "style": 84,
+      "name": "putting a lot of effort into R&D based\naround applying ancient technology..."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk070_msg056",
+      "style": 84,
+      "name": "to create the world's most modern and\ntechnologically advanced military force!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk070_msg057",
+      "style": 84,
+      "name": "And by the way, the Invidian military\nuses mercenary forces mostly, so..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk070_msg058",
+      "style": 84,
+      "name": "each town's training and equipment can\ndiffer, making the units hard to balance!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk070_msg059",
+      "style": 84,
+      "name": "Superbia have a ton of elite officers\nto lead their forces, too - not least the\nmighty Flamebringer, of course."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk070_msg061",
+      "style": 84,
+      "name": "OK, OK, I get the picture!"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk070_msg062",
+      "style": 84,
+      "name": "I don't think I'd ever be able to\nremember all that..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk070_msg063",
+      "style": 84,
+      "name": "Fine, I get it! You can stop now."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk070_msg064",
+      "style": 84,
+      "name": "I appreciate the effort, but that's all\nin one ear, right out the other..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk070_msg065",
+      "style": 84,
+      "name": "I'm sorry, that's enough.\nI think I got the gist, though."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk070_msg066",
+      "style": 84,
+      "name": "Enough, enough already!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk070_msg067",
+      "style": 84,
+      "name": "You're talking my ear off\nwith all this nonsense..."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk070_msg068",
+      "style": 84,
+      "name": "Aw, come on, there's tons more\nI've got to talk about!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk070_msg069",
+      "style": 84,
+      "name": "I know! How about I tell you stories\nabout all the commanding officers?"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk070_msg070",
+      "style": 84,
+      "name": "We'll be here till morning, so\nget comfortable!"
+    }
+  ]
+}

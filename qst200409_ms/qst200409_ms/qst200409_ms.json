@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200409_msg0001",
+      "style": 84,
+      "name": "Hmm... Sorry, I've got nuffin'."
+    },
+    {
+      "$id": 2,
+      "label": "qst200409_msg0002",
+      "style": 84,
+      "name": "I don't know anything about a\nmoneylender."
+    },
+    {
+      "$id": 3,
+      "label": "qst200409_msg0003",
+      "style": 84,
+      "name": "...Oh, hey, but..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200409_msg0004",
+      "style": 84,
+      "name": "One hears about some strange things\nhappening to townsfolk recently, so\nyou guys be careful."
+    }
+  ]
+}

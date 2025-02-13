@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000501_08_msg0001",
+      "style": 84,
+      "name": "Hello. Me still carefully picking through\neach of Bahn's letters for evidence."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000501_08_msg0002",
+      "style": 84,
+      "name": "But each written with so much love,\nhard not to get tears in eyes..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000501_08_msg0003",
+      "style": 84,
+      "name": "Nilny ashamed. Had suspected\nBahn of things like bribery and pollen\ndealing..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000501_08_msg0004",
+      "style": 84,
+      "name": "But suspicions were all wrong.\nBahn clean as polished whistle!"
+    }
+  ]
+}

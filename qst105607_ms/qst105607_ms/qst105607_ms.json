@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105607_msg001",
+      "style": 62,
+      "name": "書類がない！"
+    },
+    {
+      "$id": 2,
+      "label": "qst105607_msg0001",
+      "style": 84,
+      "name": "Wow. I've never been in this room\nbefore. All right, so where are we at?"
+    },
+    {
+      "$id": 3,
+      "label": "qst105607_msg0002",
+      "style": 84,
+      "name": "If I were a book in this dusty old\nplace, where would I hide?"
+    },
+    {
+      "$id": 4,
+      "label": "qst105607_msg0003",
+      "style": 84,
+      "name": "Aha! ...No, wait, it's just an old legal\ntome."
+    },
+    {
+      "$id": 5,
+      "label": "qst105607_msg0004",
+      "style": 84,
+      "name": "D'awww! It's a portrait of ickle\nZeke! You were such a darling\nlittle Prince!"
+    },
+    {
+      "$id": 6,
+      "label": "qst105607_msg0005",
+      "style": 84,
+      "name": "Whoa, whoa, hold on, what are you\nlooking at?! Put that back!"
+    },
+    {
+      "$id": 7,
+      "label": "qst105607_msg0006",
+      "style": 84,
+      "name": "Not here either..."
+    },
+    {
+      "$id": 8,
+      "label": "qst105607_msg0007",
+      "style": 84,
+      "name": "I can't seem to find anything like\nwhat we're after..."
+    },
+    {
+      "$id": 9,
+      "label": "qst105607_msg0008",
+      "style": 84,
+      "name": "Hmm. His Majesty isn't the type to lie\nabout this sort of thing..."
+    },
+    {
+      "$id": 10,
+      "label": "qst105607_msg0009",
+      "style": 84,
+      "name": "Yeah, deffo. Just like how he wouldn't\nlie about being the direct descendant\nof Adel."
+    },
+    {
+      "$id": 11,
+      "label": "qst105607_msg0010",
+      "style": 84,
+      "name": "That's not the same!"
+    },
+    {
+      "$id": 12,
+      "label": "qst105607_msg0011",
+      "style": 84,
+      "name": "Just pulling your leg, Saika. Anyway,\nwe've turned up nothing. Looks like\nwe'll have to tell Dad we can't find it."
+    }
+  ]
+}

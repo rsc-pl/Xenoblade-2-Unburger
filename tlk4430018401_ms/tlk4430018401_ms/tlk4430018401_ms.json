@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300184_01_msg0001",
+      "style": 84,
+      "name": "It's the same exact scene every time,\nbut still I keep coming here..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300184_01_msg0002",
+      "style": 84,
+      "name": "My shop used to be on this street.\nIt's long gone now, though..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300184_01_msg0003",
+      "style": 84,
+      "name": "I sold Luxurian wares, but then supply\nbecame a problem, prices went\nsoaring..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300184_01_msg0004",
+      "style": 84,
+      "name": "And then when the black market\nstarted up... I went bust. Now my life\ndepends on that same black market..."
+    }
+  ]
+}

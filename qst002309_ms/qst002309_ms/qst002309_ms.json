@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002309_msg0001",
+      "style": 84,
+      "name": "What's this you have brought?"
+    },
+    {
+      "$id": 2,
+      "label": "qst002309_msg0002",
+      "style": 84,
+      "name": "A Platinum Music Box?!"
+    },
+    {
+      "$id": 3,
+      "label": "qst002309_msg0003",
+      "style": 84,
+      "name": "Why, this is the very same music box\nthat was stolen from me..."
+    },
+    {
+      "$id": 4,
+      "label": "qst002309_msg0004",
+      "style": 84,
+      "name": "I see... So you were the culprits.\nCome to turn yourselves in, is that it?"
+    },
+    {
+      "$id": 5,
+      "label": "qst002309_msg0005",
+      "style": 84,
+      "name": "Then I shall pass judgment in the\nname of the Pope Marveni."
+    },
+    {
+      "$id": 6,
+      "label": "qst002309_msg0006",
+      "style": 84,
+      "name": "Oh, you were just asked to bring this\nby a Nopon named Mololo?"
+    },
+    {
+      "$id": 7,
+      "label": "qst002309_msg0007",
+      "style": 84,
+      "name": "Do you know where I might\nfind this Nopon, perchance?\nPlease, take me to him."
+    },
+    {
+      "$id": 8,
+      "label": "qst002309_msg0008",
+      "style": 84,
+      "name": "Evildoers must be judged!"
+    }
+  ]
+}

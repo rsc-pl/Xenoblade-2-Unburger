@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620402_msg0001",
+      "style": 84,
+      "name": "Looks like we won't get anything\nfrom here."
+    },
+    {
+      "$id": 2,
+      "label": "qst620402_msg0002",
+      "style": 84,
+      "name": "Doesn't matter how easy it is to dive\ndown to a place if there's nothing\nworth hauling up anyway!"
+    },
+    {
+      "$id": 3,
+      "label": "qst620402_msg0003",
+      "style": 84,
+      "name": "Maybe one of the other Salvage Points\nwill be a bit more profitable..."
+    }
+  ]
+}

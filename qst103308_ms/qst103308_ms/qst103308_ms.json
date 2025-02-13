@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103308_msg001",
+      "style": 62,
+      "name": "届けてくれてありがとう(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst103308_msg002",
+      "style": 62,
+      "name": "殺人事件が起こった\n現場検証手伝って(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst103308_msg0001",
+      "style": 84,
+      "name": "Master...\nDo not lose yourself in sentimentality.\nThere is investigating to be done."
+    },
+    {
+      "$id": 4,
+      "label": "qst103308_msg0002",
+      "style": 84,
+      "name": "Look. It appears that there\nwas a struggle."
+    },
+    {
+      "$id": 5,
+      "label": "qst103308_msg0101",
+      "style": 84,
+      "name": "If I but had some investigatory\nfunctions, I would be of more\nuse to my master..."
+    }
+  ]
+}

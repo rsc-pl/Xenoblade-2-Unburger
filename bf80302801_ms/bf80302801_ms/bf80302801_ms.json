@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "23890101",
+      "style": 82,
+      "name": "The legendary Yoshitsune, forever...at your service."
+    },
+    {
+      "$id": 2,
+      "label": "23890201",
+      "style": 82,
+      "name": "I have just the role for you!"
+    }
+  ]
+}

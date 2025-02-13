@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02120120_0010",
+      "style": 82,
+      "name": "What the bloody hell is this?\nDon't tell me this is meant to be ME?!"
+    },
+    {
+      "$id": 2,
+      "label": "bf02120120_0020",
+      "style": 82,
+      "name": "A remarkable likeness to say the least..."
+    },
+    {
+      "$id": 3,
+      "label": "bf02120120_0030",
+      "style": 82,
+      "name": "Oi, did you say something?"
+    },
+    {
+      "$id": 4,
+      "label": "bf02120120_0040",
+      "style": 82,
+      "name": "Ah, er, no. I fear they may have conflated\nour countenances, my lady."
+    },
+    {
+      "$id": 5,
+      "label": "bf02120120_0050",
+      "style": 82,
+      "name": "How very awful."
+    },
+    {
+      "$id": 6,
+      "label": "bf02120120_0060",
+      "style": 82,
+      "name": "Grrrr! Hisss!"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201001_msg0001",
+      "style": 84,
+      "name": "It doesn't seem as if the false\nrumors have caught on yet."
+    },
+    {
+      "$id": 2,
+      "label": "qst201001_msg0002",
+      "style": 84,
+      "name": "The longer we take, the more\ncasualties there will be."
+    },
+    {
+      "$id": 3,
+      "label": "qst201001_msg0003",
+      "style": 84,
+      "name": "We don't have the luxury of time.\nPlease hurry."
+    },
+    {
+      "$id": 4,
+      "label": "qst201001_msg0004",
+      "style": 84,
+      "name": "We've noticed the false rumors have\nstarted to spread."
+    },
+    {
+      "$id": 5,
+      "label": "qst201001_msg0005",
+      "style": 84,
+      "name": "The Core Crystal hunters are sure\nto bite now!"
+    },
+    {
+      "$id": 6,
+      "label": "qst201001_msg0006",
+      "style": 84,
+      "name": "We've already got a capture squad\nat the ready. All we need now is the\nMerc Group's support."
+    },
+    {
+      "$id": 7,
+      "label": "qst201001_msg0007",
+      "style": 84,
+      "name": "We're grateful to have the backing\nof the Merc Group."
+    },
+    {
+      "$id": 8,
+      "label": "qst201001_msg0008",
+      "style": 84,
+      "name": "Our squad is ready to mobilize\nat any moment."
+    },
+    {
+      "$id": 9,
+      "label": "qst201001_msg0009",
+      "style": 84,
+      "name": "There's not much time, so I'd like to\nask you to move to your designated\npositions."
+    }
+  ]
+}

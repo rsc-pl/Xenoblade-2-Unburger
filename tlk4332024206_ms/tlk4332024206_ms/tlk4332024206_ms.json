@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320242_06_msg0001",
+      "style": 84,
+      "name": "Oh! You showed up at just the right\ntime!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320242_06_msg0002",
+      "style": 84,
+      "name": "You already know that the Invidian\nDivine Beast swallows down stuff from the\noutside now and again, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320242_06_msg0003",
+      "style": 84,
+      "name": "I mean, you should know. You're some\nof the stuff it swallowed, aincha?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320242_06_msg0004",
+      "style": 84,
+      "name": "That's exactly what I wanted to ask\nyou about."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320242_06_msg0005",
+      "style": 84,
+      "name": "I need you to go check if\nanything dangerous washed\nup with all that junk."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43320242_06_msg0008",
+      "style": 84,
+      "name": "OK!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk43320242_06_msg0009",
+      "style": 84,
+      "name": "If you do find something dodgy, don't\ntouch it. It might be hazardous."
+    },
+    {
+      "$id": 8,
+      "label": "tlk43320242_06_msg0010",
+      "style": 84,
+      "name": "Just let me know about it if you find\nsome."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100341_03_msg0001",
+      "style": 84,
+      "name": "Ah... Well I never..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100341_03_msg0002",
+      "style": 84,
+      "name": "I had no idea Mikumari and Seori were\nsuch good eggs."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100341_03_msg0003",
+      "style": 84,
+      "name": "Sorry for running away\nlike that before..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100341_03_msg0004",
+      "style": 84,
+      "name": "I hope I'll get to eat some more of\ntheir Whelzaman Cookies at the next\nharvest festival!"
+    }
+  ]
+}

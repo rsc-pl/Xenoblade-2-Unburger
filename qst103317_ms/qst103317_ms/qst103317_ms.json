@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103317_msg001",
+      "style": 62,
+      "name": "ごめんなさい\n隠れ家の鍵あげる(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst103317_msg0001",
+      "style": 84,
+      "name": "Who the hell are you?\nHow did you get in here?"
+    },
+    {
+      "$id": 3,
+      "label": "qst103317_msg0002",
+      "style": 84,
+      "name": "Calm it!\nSettle down!"
+    },
+    {
+      "$id": 4,
+      "label": "qst103317_msg0003",
+      "style": 84,
+      "name": "They've got Blades with 'em.\nCould be imperial scum."
+    },
+    {
+      "$id": 5,
+      "label": "qst103317_msg0004",
+      "style": 84,
+      "name": "Then we can't let them\nleave here alive."
+    },
+    {
+      "$id": 6,
+      "label": "qst103317_msg0005",
+      "style": 84,
+      "name": "Get 'em!"
+    }
+  ]
+}

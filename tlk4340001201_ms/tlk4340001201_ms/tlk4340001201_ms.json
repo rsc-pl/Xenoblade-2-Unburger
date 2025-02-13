@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400012_01_msg0001",
+      "style": 84,
+      "name": "What am I doing?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400012_01_msg0002",
+      "style": 84,
+      "name": "Nothing much. Just a little...\npeople watching."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400012_01_msg0003",
+      "style": 84,
+      "name": "I'm an Invidian."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400012_01_msg0004",
+      "style": 84,
+      "name": "Need I say more?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200408_msg0001",
+      "style": 84,
+      "name": "A moneylender...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200408_msg0002",
+      "style": 84,
+      "name": "Gee, I dunno about that...\n\"Buy cash, or do without\" is my credo."
+    },
+    {
+      "$id": 3,
+      "label": "qst200408_msg0003",
+      "style": 84,
+      "name": "So, I'm sorry, but I've got places to be.\nMind taking your questions elsewhere?"
+    }
+  ]
+}

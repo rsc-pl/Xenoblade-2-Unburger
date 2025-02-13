@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101301_msg0001",
+      "style": 84,
+      "name": "Wanted!\n10 pieces of Melosian Honey\nReward offered."
+    },
+    {
+      "$id": 2,
+      "label": "qst101301_msg0002",
+      "style": 84,
+      "name": "Can be obtained in Honeypot Grotto.\nDeliver to Saets Chief's Residence.\nSigned, Militia Chief Moui"
+    }
+  ]
+}

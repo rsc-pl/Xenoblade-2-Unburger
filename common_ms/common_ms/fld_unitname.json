@@ -1,0 +1,34 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 11,
+      "name": "[ML:% ]"
+    },
+    {
+      "$id": 2,
+      "style": 11,
+      "name": "個"
+    },
+    {
+      "$id": 3,
+      "style": 11,
+      "name": "XQ"
+    },
+    {
+      "$id": 4,
+      "style": 11,
+      "name": "MMMM"
+    }
+  ]
+}

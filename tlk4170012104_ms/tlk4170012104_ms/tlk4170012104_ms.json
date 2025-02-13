@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_04_msg0001",
+      "style": 84,
+      "name": "That Cordell Village, the one that got\noccupied by bandits... Yeah, I don't\nthink there's any hope of it recovering."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_04_msg0002",
+      "style": 84,
+      "name": "Pretty much all the residents were\nkilled, and the buildings were ruined\nas well. What can you do at that point?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_04_msg0003",
+      "style": 84,
+      "name": "It was only a small village, without even\na military station, but still...people sure\ndo some awful things, huh."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_04_msg0004",
+      "style": 84,
+      "name": "I can only pray for the people of\nCordell to rest in peace."
+    }
+  ]
+}

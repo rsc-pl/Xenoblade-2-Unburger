@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102211_msg0001",
+      "style": 84,
+      "name": "Ah, so you're the one\nNicc was talking about."
+    },
+    {
+      "$id": 2,
+      "label": "qst102211_msg0002",
+      "style": 84,
+      "name": "You fought alongside Vandham, right?\nI've heard a lot about you."
+    },
+    {
+      "$id": 3,
+      "label": "qst102211_msg0003",
+      "style": 84,
+      "name": "My name is Kathira.\nI'm one of the old hands around here."
+    },
+    {
+      "$id": 4,
+      "label": "qst102211_msg0004",
+      "style": 84,
+      "name": "It's a pleasure."
+    },
+    {
+      "$id": 5,
+      "label": "qst102211_msg0020",
+      "style": 84,
+      "name": "Nicc is awfully cautious for\nsuch a young man."
+    },
+    {
+      "$id": 6,
+      "label": "qst102211_msg0021",
+      "style": 84,
+      "name": "Though Chief Corden always says\nI'm too rough and ready, so maybe\nwe'll balance each other out!"
+    },
+    {
+      "$id": 7,
+      "label": "qst102211_msg0101",
+      "style": 84,
+      "name": "You're looking for a\nTarnish Apple?"
+    },
+    {
+      "$id": 8,
+      "label": "qst102211_msg0102",
+      "style": 84,
+      "name": "I think I've seen those in the central\npart of the cavern, the area with\nall the spores flying around."
+    },
+    {
+      "$id": 9,
+      "label": "qst102211_msg0301",
+      "style": 84,
+      "name": "Just hand the ingredients over to Nicc.\nAhh, I'm dying of hunger here!"
+    },
+    {
+      "$id": 10,
+      "label": "qst102211_msg0201",
+      "style": 84,
+      "name": "Wheeeeeew, I'm stuffed!\nThat was good grub!"
+    },
+    {
+      "$id": 11,
+      "label": "qst102211_msg0202",
+      "style": 84,
+      "name": "The next part of the mission is gonna\nbe a toughie, but after a meal like that\nI feel ready for anything!"
+    }
+  ]
+}

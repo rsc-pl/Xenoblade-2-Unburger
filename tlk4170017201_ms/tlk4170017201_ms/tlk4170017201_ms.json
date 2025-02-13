@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700172_01_msg0001",
+      "style": 84,
+      "name": "I think the world would be better off\nif we didn't have Blades."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700172_01_msg0002",
+      "style": 84,
+      "name": "Wait...YOU'VE got Blades!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700172_01_msg0003",
+      "style": 84,
+      "name": "I'll have you know my family was killed\nby Superbian Blades!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700172_01_msg0004",
+      "style": 84,
+      "name": "Every Blade in Alst is controlled\nby Acedia. So really, it's Acedia that's\nresponsible for all of this!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700172_01_msg0005",
+      "style": 84,
+      "name": "Making amends by letting in refugees?\nWell sorry, but that's too little, too late.\nI hope we drain them dry!"
+    }
+  ]
+}

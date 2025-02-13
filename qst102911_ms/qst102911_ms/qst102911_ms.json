@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102911_msg001",
+      "style": 62,
+      "name": "宝箱を開けてみたのか\n何が入ってた？"
+    },
+    {
+      "$id": 2,
+      "label": "qst102911_msg002",
+      "style": 62,
+      "name": "ふーん"
+    }
+  ]
+}

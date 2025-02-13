@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000022_msg0001",
+      "style": 84,
+      "name": "To think that Metsu's Driver was none\nother than Pope Marveni!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000022_msg0002",
+      "style": 84,
+      "name": "But why would His Holiness allow\nMetsu to do as he pleases without\nreproach, I wonder?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000022_msg0003",
+      "style": 84,
+      "name": "I suppose the only way to find out\nis to speak to him in person."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320651_04_msg0001",
+      "style": 84,
+      "name": "I went to Trigo to visit\nProfessor Tatezo again."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320651_04_msg0002",
+      "style": 84,
+      "name": "It was a more fruitful trip than\nlast time, that's for sure!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320651_04_msg0003",
+      "style": 84,
+      "name": "I actually managed to score\n9,840 points in Tiger! Tiger!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320651_04_msg0004",
+      "style": 84,
+      "name": "Smashed my old high score,\ndon't you know!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320651_04_msg0005",
+      "style": 84,
+      "name": "Though I still didn't manage to\nbeat Professor Tatezo himself..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45320651_04_msg0006",
+      "style": 84,
+      "name": "I think I'm going to have a word\nwith Central R&D."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45320651_04_msg0007",
+      "style": 84,
+      "name": "Tell them to stop working on artificial\nBlades for now, and try to make a real\nmasterpiece like Tiger! Tiger!"
+    }
+  ]
+}

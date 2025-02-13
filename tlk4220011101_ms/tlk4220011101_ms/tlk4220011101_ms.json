@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200111_01_msg0001",
+      "style": 84,
+      "name": "Friends heard of Twinklejuice?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200111_01_msg0002",
+      "style": 84,
+      "name": "Talulu LOVE Twinklejuice!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200111_01_msg0003",
+      "style": 84,
+      "name": "And when Talulu get to eat favorite\nfood, Talulu can feel energy channeling\nthrough body!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200111_01_msg0004",
+      "style": 84,
+      "name": "Friends should definitely take lots of\nyummy snacks on adventure!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42200111_01_msg0005",
+      "style": 84,
+      "name": "But maybe not to overeat, because\ncould cause cavities and then get\ntelling off from Mamapon..."
+    }
+  ]
+}

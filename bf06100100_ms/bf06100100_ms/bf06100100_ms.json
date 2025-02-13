@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06100100_0010",
+      "style": 82,
+      "name": "I appreciate this."
+    },
+    {
+      "$id": 2,
+      "label": "bf06100100_0020",
+      "style": 82,
+      "name": "Don't think you've earned my trust."
+    },
+    {
+      "$id": 3,
+      "label": "bf06100100_0030",
+      "style": 82,
+      "name": "But since Rex is going to Eden,\ntheir paths are bound to cross..."
+    },
+    {
+      "$id": 4,
+      "label": "bf06100100_0040",
+      "style": 82,
+      "name": "That's all."
+    },
+    {
+      "$id": 5,
+      "label": "bf06100100_0050",
+      "style": 82,
+      "name": "I'm surprised you seem so devoted to the boy."
+    },
+    {
+      "$id": 6,
+      "label": "bf06100100_0060",
+      "style": 82,
+      "name": "It's for both our sakes."
+    },
+    {
+      "$id": 7,
+      "label": "bf06100100_0070",
+      "style": 82,
+      "name": "But you, Marveni...\nWho is it that you're living for?"
+    },
+    {
+      "$id": 8,
+      "label": "bf06100100_0080",
+      "style": 82,
+      "name": "[ML:undisp ]..."
+    }
+  ]
+}

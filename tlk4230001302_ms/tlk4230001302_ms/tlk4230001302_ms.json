@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300013_02_msg0001",
+      "style": 84,
+      "name": "I am practicing speaking in the\nmanner of ancient Nopon."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300013_02_msg0002",
+      "style": 84,
+      "name": "This may be against the wishes\nof the revered Captain Nopopon..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300013_02_msg0003",
+      "style": 84,
+      "name": "But I feel it is a necessity in order to\nobtain a fuller understanding of the\nintricacies of Nopon history."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300013_02_msg0004",
+      "style": 84,
+      "name": "Meh-meh-meh... Rododo not able\ntake it any more! Modern Nopon talk\ncome so much more natural!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst640301_msg0001",
+      "style": 84,
+      "name": "I like it up here.\nThis view over Teos Aure is\nsimply unparalleled..."
+    },
+    {
+      "$id": 2,
+      "label": "qst640301_msg0002",
+      "style": 84,
+      "name": "Say no more."
+    },
+    {
+      "$id": 3,
+      "label": "qst640301_msg0003",
+      "style": 84,
+      "name": "I know where you were going with it..."
+    },
+    {
+      "$id": 4,
+      "label": "qst640301_msg0004",
+      "style": 84,
+      "name": "You want me, the greatest artisan on\nAlst, to make you, a random person,\nan accessory made of Ripbik Ellook."
+    },
+    {
+      "$id": 5,
+      "label": "qst640301_msg0005",
+      "style": 84,
+      "name": "Well, I'm going home. Don't bother\nme until you can show me some prime\nEllook Horn!"
+    },
+    {
+      "$id": 6,
+      "label": "qst640301_msg0006",
+      "style": 84,
+      "name": "And don't make me wait too long."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200143_02_msg0001",
+      "style": 84,
+      "name": "Ohhh, what's up with that Jelved...?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200143_02_msg0002",
+      "style": 84,
+      "name": "Mmm...\nHow do I..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200143_02_msg0003",
+      "style": 84,
+      "name": "He's been acting scary lately,\nJelved has... His eyes all blazing\nand stuff."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200143_02_msg0004",
+      "style": 84,
+      "name": "What could've happened...?"
+    }
+  ]
+}

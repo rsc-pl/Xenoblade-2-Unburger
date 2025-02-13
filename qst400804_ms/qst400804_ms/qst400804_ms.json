@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400804_msg0001",
+      "style": 84,
+      "name": "Nope, I di'n't see nobody.\nI was all busy with my work,\nso I wasn't really looking!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk400804_msg0002",
+      "style": 84,
+      "name": "He could've come this way though.\nTry askin' someone else!"
+    }
+  ]
+}

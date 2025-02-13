@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev01_110_125_msg0001",
+      "style": 84,
+      "name": "Now that I've got Gramps's permission,\njust about...I'd better start making\npreparations for this mission."
+    },
+    {
+      "$id": 2,
+      "label": "fev01_110_125_msg0002",
+      "style": 84,
+      "name": "A hundred grand to spend...that\nsure is an exciting prospect!"
+    },
+    {
+      "$id": 3,
+      "label": "fev01_110_125_msg0003",
+      "style": 84,
+      "name": "I could buy a whole new cutting-edge\nsalvaging suit..."
+    },
+    {
+      "$id": 4,
+      "label": "fev01_110_125_msg0004",
+      "style": 84,
+      "name": "But no, I can't splurge this all at once.\nThe folks back home need this money\nmore than I do."
+    },
+    {
+      "$id": 5,
+      "label": "fev01_110_125_msg0005",
+      "style": 84,
+      "name": "I'll hold off on making any big\npurchases, and just head to\nShynini's Accessories."
+    },
+    {
+      "$id": 6,
+      "label": "fev01_110_125_msg0006",
+      "style": 84,
+      "name": "Always best to be prepared for\nanything! I might end up fighting\na Crustip like on my last salvage."
+    }
+  ]
+}

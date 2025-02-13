@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00340107_msg0001",
+      "style": 84,
+      "name": "The canned food we've gathered will\nlast us a while, and it's healthy stuff.\nGood thing they're tasty as!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00340107_msg0002",
+      "style": 84,
+      "name": "The more missions you complete, the\nmore you'll be trusted with the bigger\nones."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00340107_msg0003",
+      "style": 84,
+      "name": "Just remember to drop by from time\nto time, yeah?"
+    }
+  ]
+}

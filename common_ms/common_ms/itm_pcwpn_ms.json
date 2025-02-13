@@ -1,0 +1,5829 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Primitive Sword"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Plain Sword"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Flatform Sword"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Ornate Sword"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Breaker Sword"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Duelist's Sword"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Battle Sword"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Snare Sword"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Sword of the Fox"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Sword of the Dingo"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Sword of the Lycaon"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Sword of the Jackal"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Sword of the Jaguar"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Sword of the Lynx"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Sword of the Puma"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Insect Slayer"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Knight's Sword"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Guardian's Sword"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Cavalry Sword"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Valkyrie's Sword"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Paladin's Sword"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Holy Sword"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Sword of Valor"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Zephyr Sword"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Custom Sword"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Clockwork Sword"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Technical Sword"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Accelerator Sword"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Turbine Sword"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Ceramic Sword"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Mechanized Sword"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Machine Slayer"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Ancient Sword"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Elder Sword"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Blessed Sword"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Legendary Sword"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Agarthan Sword"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Sword of El Dorado"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Sword of Eden"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "King of Sharks"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Adamant Sword"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Wootz Sword"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Energy Edge"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Orichalcum Sword"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Sigma Sword"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Delta Sword"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Godspeed Sword"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Saintslayer Brand"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Sword of Despair"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Sword of Chaos"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Mutinous Sword"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "Sword of Thanatos"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Sword of Banishing"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Eater of Souls"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Sword of Origin"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Eternal Sword"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Final Sword"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Satellite Sword"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Meteorite Sword"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Shooting Star"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Primitive Scimitar"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Plain Scimitar"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Flatform Scimitar"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Ornate Scimitar"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Breaker Scimitar"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Duelist's Scimitar"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Battle Scimitar"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Snare Scimitar"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "Scimitar of Shores"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Scimitar of Waves"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "Scimitar of Calm"
+    },
+    {
+      "$id": 72,
+      "style": 15,
+      "name": "Scimitar of Affection"
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "Scimitar of Purity"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Scimitar of Splendor"
+    },
+    {
+      "$id": 75,
+      "style": 15,
+      "name": "Scimitar of Integrity"
+    },
+    {
+      "$id": 76,
+      "style": 15,
+      "name": "Scimitar of Grace"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "Knight's Scimitar"
+    },
+    {
+      "$id": 78,
+      "style": 15,
+      "name": "Guardian's Scimitar"
+    },
+    {
+      "$id": 79,
+      "style": 15,
+      "name": "Scimitar of Prayer"
+    },
+    {
+      "$id": 80,
+      "style": 15,
+      "name": "Valkyrie's Scimitar"
+    },
+    {
+      "$id": 81,
+      "style": 15,
+      "name": "Paladin's Scimitar"
+    },
+    {
+      "$id": 82,
+      "style": 15,
+      "name": "Holy Scimitar"
+    },
+    {
+      "$id": 83,
+      "style": 15,
+      "name": "Scimitar of Valor"
+    },
+    {
+      "$id": 84,
+      "style": 15,
+      "name": "Winged Scimitar"
+    },
+    {
+      "$id": 85,
+      "style": 15,
+      "name": "Custom Scimitar"
+    },
+    {
+      "$id": 86,
+      "style": 15,
+      "name": "Clockwork Scimitar"
+    },
+    {
+      "$id": 87,
+      "style": 15,
+      "name": "Scimitar of the Owl"
+    },
+    {
+      "$id": 88,
+      "style": 15,
+      "name": "Accelerator Scimitar"
+    },
+    {
+      "$id": 89,
+      "style": 15,
+      "name": "Turbine Scimitar"
+    },
+    {
+      "$id": 90,
+      "style": 15,
+      "name": "Ceramic Scimitar"
+    },
+    {
+      "$id": 91,
+      "style": 15,
+      "name": "Mechanized Scimitar"
+    },
+    {
+      "$id": 92,
+      "style": 15,
+      "name": "Machine Cleaver"
+    },
+    {
+      "$id": 93,
+      "style": 15,
+      "name": "Ancient Scimitar"
+    },
+    {
+      "$id": 94,
+      "style": 15,
+      "name": "Elder Scimitar"
+    },
+    {
+      "$id": 95,
+      "style": 15,
+      "name": "Furtive Scimitar"
+    },
+    {
+      "$id": 96,
+      "style": 15,
+      "name": "Legendary Scimitar"
+    },
+    {
+      "$id": 97,
+      "style": 15,
+      "name": "Agarthan Scimitar"
+    },
+    {
+      "$id": 98,
+      "style": 15,
+      "name": "Scimitar of El Dorado"
+    },
+    {
+      "$id": 99,
+      "style": 15,
+      "name": "Scimitar of Eden"
+    },
+    {
+      "$id": 100,
+      "style": 15,
+      "name": "The Kraken"
+    },
+    {
+      "$id": 101,
+      "style": 15,
+      "name": "Adamant Scimitar"
+    },
+    {
+      "$id": 102,
+      "style": 15,
+      "name": "Wootz Scimitar"
+    },
+    {
+      "$id": 103,
+      "style": 15,
+      "name": "Assassin's Scimitar"
+    },
+    {
+      "$id": 104,
+      "style": 15,
+      "name": "Orichalcum Scimitar"
+    },
+    {
+      "$id": 105,
+      "style": 15,
+      "name": "Sigma Scimitar"
+    },
+    {
+      "$id": 106,
+      "style": 15,
+      "name": "Delta Scimitar"
+    },
+    {
+      "$id": 107,
+      "style": 15,
+      "name": "Energy Scimitar"
+    },
+    {
+      "$id": 108,
+      "style": 15,
+      "name": "Seraphsbane"
+    },
+    {
+      "$id": 109,
+      "style": 15,
+      "name": "Scimitar of Despair"
+    },
+    {
+      "$id": 110,
+      "style": 15,
+      "name": "Scimitar of Chaos"
+    },
+    {
+      "$id": 111,
+      "style": 15,
+      "name": "Supersonic Scimitar"
+    },
+    {
+      "$id": 112,
+      "style": 15,
+      "name": "Scimitar of Thanatos"
+    },
+    {
+      "$id": 113,
+      "style": 15,
+      "name": "Scimitar of Banishing"
+    },
+    {
+      "$id": 114,
+      "style": 15,
+      "name": "The Trickster"
+    },
+    {
+      "$id": 115,
+      "style": 15,
+      "name": "Scimitar of Origin"
+    },
+    {
+      "$id": 116,
+      "style": 15,
+      "name": "Eternal Scimitar"
+    },
+    {
+      "$id": 117,
+      "style": 15,
+      "name": "Final Scimitar"
+    },
+    {
+      "$id": 118,
+      "style": 15,
+      "name": "Satellite Scimitar"
+    },
+    {
+      "$id": 119,
+      "style": 15,
+      "name": "Meteorite Scimitar"
+    },
+    {
+      "$id": 120,
+      "style": 15,
+      "name": "Scimitar of Creation"
+    },
+    {
+      "$id": 121,
+      "style": 15,
+      "name": "Primitive Rings"
+    },
+    {
+      "$id": 122,
+      "style": 15,
+      "name": "Plain Rings"
+    },
+    {
+      "$id": 123,
+      "style": 15,
+      "name": "Flatform Rings"
+    },
+    {
+      "$id": 124,
+      "style": 15,
+      "name": "Rings of Plenty"
+    },
+    {
+      "$id": 125,
+      "style": 15,
+      "name": "Breaker Rings"
+    },
+    {
+      "$id": 126,
+      "style": 15,
+      "name": "Duelist's Rings"
+    },
+    {
+      "$id": 127,
+      "style": 15,
+      "name": "Battle Rings"
+    },
+    {
+      "$id": 128,
+      "style": 15,
+      "name": "Plunder Rings"
+    },
+    {
+      "$id": 129,
+      "style": 15,
+      "name": "Wild Rings"
+    },
+    {
+      "$id": 130,
+      "style": 15,
+      "name": "Howling Rings"
+    },
+    {
+      "$id": 131,
+      "style": 15,
+      "name": "Shell Rings"
+    },
+    {
+      "$id": 132,
+      "style": 15,
+      "name": "Rings of the Earth"
+    },
+    {
+      "$id": 133,
+      "style": 15,
+      "name": "Ripper Rings"
+    },
+    {
+      "$id": 134,
+      "style": 15,
+      "name": "Dicer Rings"
+    },
+    {
+      "$id": 135,
+      "style": 15,
+      "name": "Slicer Rings"
+    },
+    {
+      "$id": 136,
+      "style": 15,
+      "name": "Slasher Rings"
+    },
+    {
+      "$id": 137,
+      "style": 15,
+      "name": "Knight's Rings"
+    },
+    {
+      "$id": 138,
+      "style": 15,
+      "name": "Guardian's Rings"
+    },
+    {
+      "$id": 139,
+      "style": 15,
+      "name": "Rings of the Maiden"
+    },
+    {
+      "$id": 140,
+      "style": 15,
+      "name": "Valkyrie's Rings"
+    },
+    {
+      "$id": 141,
+      "style": 15,
+      "name": "Paladin's Rings"
+    },
+    {
+      "$id": 142,
+      "style": 15,
+      "name": "Holy Rings"
+    },
+    {
+      "$id": 143,
+      "style": 15,
+      "name": "Rings of Valor"
+    },
+    {
+      "$id": 144,
+      "style": 15,
+      "name": "Airslash Rings"
+    },
+    {
+      "$id": 145,
+      "style": 15,
+      "name": "Custom Rings"
+    },
+    {
+      "$id": 146,
+      "style": 15,
+      "name": "Clockwork Rings"
+    },
+    {
+      "$id": 147,
+      "style": 15,
+      "name": "Rings of Revival"
+    },
+    {
+      "$id": 148,
+      "style": 15,
+      "name": "Accelerator Rings"
+    },
+    {
+      "$id": 149,
+      "style": 15,
+      "name": "Turbine Rings"
+    },
+    {
+      "$id": 150,
+      "style": 15,
+      "name": "Ceramic Rings"
+    },
+    {
+      "$id": 151,
+      "style": 15,
+      "name": "Mechanized Rings"
+    },
+    {
+      "$id": 152,
+      "style": 15,
+      "name": "Ferrous Rings"
+    },
+    {
+      "$id": 153,
+      "style": 15,
+      "name": "Ancient Rings"
+    },
+    {
+      "$id": 154,
+      "style": 15,
+      "name": "Elder Rings"
+    },
+    {
+      "$id": 155,
+      "style": 15,
+      "name": "Rage of the Oceans"
+    },
+    {
+      "$id": 156,
+      "style": 15,
+      "name": "Legendary Rings"
+    },
+    {
+      "$id": 157,
+      "style": 15,
+      "name": "Agarthan Rings"
+    },
+    {
+      "$id": 158,
+      "style": 15,
+      "name": "Rings of El Dorado"
+    },
+    {
+      "$id": 159,
+      "style": 15,
+      "name": "Rings of Eden"
+    },
+    {
+      "$id": 160,
+      "style": 15,
+      "name": "Marine Slayers"
+    },
+    {
+      "$id": 161,
+      "style": 15,
+      "name": "Adamant Rings"
+    },
+    {
+      "$id": 162,
+      "style": 15,
+      "name": "Wootz Rings"
+    },
+    {
+      "$id": 163,
+      "style": 15,
+      "name": "Rings of Serendipity"
+    },
+    {
+      "$id": 164,
+      "style": 15,
+      "name": "Orichalcum Rings"
+    },
+    {
+      "$id": 165,
+      "style": 15,
+      "name": "Sigma Rings"
+    },
+    {
+      "$id": 166,
+      "style": 15,
+      "name": "Delta Rings"
+    },
+    {
+      "$id": 167,
+      "style": 15,
+      "name": "Invisible Rings"
+    },
+    {
+      "$id": 168,
+      "style": 15,
+      "name": "Deity Erasers"
+    },
+    {
+      "$id": 169,
+      "style": 15,
+      "name": "Rings of Despair"
+    },
+    {
+      "$id": 170,
+      "style": 15,
+      "name": "Rings of Chaos"
+    },
+    {
+      "$id": 171,
+      "style": 15,
+      "name": "Rings of the Kingslayer"
+    },
+    {
+      "$id": 172,
+      "style": 15,
+      "name": "Rings of Thanatos"
+    },
+    {
+      "$id": 173,
+      "style": 15,
+      "name": "Rings of Banishing"
+    },
+    {
+      "$id": 174,
+      "style": 15,
+      "name": "Specters"
+    },
+    {
+      "$id": 175,
+      "style": 15,
+      "name": "Rings of Origin"
+    },
+    {
+      "$id": 176,
+      "style": 15,
+      "name": "Eternal Rings"
+    },
+    {
+      "$id": 177,
+      "style": 15,
+      "name": "Final Rings"
+    },
+    {
+      "$id": 178,
+      "style": 15,
+      "name": "Satellite Rings"
+    },
+    {
+      "$id": 179,
+      "style": 15,
+      "name": "Meteorite Rings"
+    },
+    {
+      "$id": 180,
+      "style": 15,
+      "name": "Transmigration"
+    },
+    {
+      "$id": 181,
+      "style": 15,
+      "name": "Primitive Shield"
+    },
+    {
+      "$id": 182,
+      "style": 15,
+      "name": "Plain Shield"
+    },
+    {
+      "$id": 183,
+      "style": 15,
+      "name": "Flatform Shield"
+    },
+    {
+      "$id": 184,
+      "style": 15,
+      "name": "Shield of Plenty"
+    },
+    {
+      "$id": 185,
+      "style": 15,
+      "name": "Breaker Shield"
+    },
+    {
+      "$id": 186,
+      "style": 15,
+      "name": "Duelist's Shield"
+    },
+    {
+      "$id": 187,
+      "style": 15,
+      "name": "Battle Shield"
+    },
+    {
+      "$id": 188,
+      "style": 15,
+      "name": "Plunder Shield"
+    },
+    {
+      "$id": 189,
+      "style": 15,
+      "name": "Bitey Bitey Shield"
+    },
+    {
+      "$id": 190,
+      "style": 15,
+      "name": "Gnashy Gnashy Shield"
+    },
+    {
+      "$id": 191,
+      "style": 15,
+      "name": "Nibbly Nibbly Shield"
+    },
+    {
+      "$id": 192,
+      "style": 15,
+      "name": "Pokey Pokey Shield"
+    },
+    {
+      "$id": 193,
+      "style": 15,
+      "name": "Blasty Blasty Shield"
+    },
+    {
+      "$id": 194,
+      "style": 15,
+      "name": "Cheery Cheery Shield"
+    },
+    {
+      "$id": 195,
+      "style": 15,
+      "name": "Rippy Rippy Shield"
+    },
+    {
+      "$id": 196,
+      "style": 15,
+      "name": "Carnivore's Shield"
+    },
+    {
+      "$id": 197,
+      "style": 15,
+      "name": "Knight's Shield"
+    },
+    {
+      "$id": 198,
+      "style": 15,
+      "name": "Guardian's Shield"
+    },
+    {
+      "$id": 199,
+      "style": 15,
+      "name": "Daring Shield"
+    },
+    {
+      "$id": 200,
+      "style": 15,
+      "name": "Valkyrie's Shield"
+    },
+    {
+      "$id": 201,
+      "style": 15,
+      "name": "Paladin's Shield"
+    },
+    {
+      "$id": 202,
+      "style": 15,
+      "name": "Holy Shield"
+    },
+    {
+      "$id": 203,
+      "style": 15,
+      "name": "Shield of Valor"
+    },
+    {
+      "$id": 204,
+      "style": 15,
+      "name": "Birdivore Shield"
+    },
+    {
+      "$id": 205,
+      "style": 15,
+      "name": "Custom Shield"
+    },
+    {
+      "$id": 206,
+      "style": 15,
+      "name": "Clockwork Shield"
+    },
+    {
+      "$id": 207,
+      "style": 15,
+      "name": "Loud Shield"
+    },
+    {
+      "$id": 208,
+      "style": 15,
+      "name": "Accelerator Shield"
+    },
+    {
+      "$id": 209,
+      "style": 15,
+      "name": "Turbine Shield"
+    },
+    {
+      "$id": 210,
+      "style": 15,
+      "name": "Ceramic Shield"
+    },
+    {
+      "$id": 211,
+      "style": 15,
+      "name": "Mechanized Shield"
+    },
+    {
+      "$id": 212,
+      "style": 15,
+      "name": "Supreme Destroyer"
+    },
+    {
+      "$id": 213,
+      "style": 15,
+      "name": "Ancient Shield"
+    },
+    {
+      "$id": 214,
+      "style": 15,
+      "name": "Elder Shield"
+    },
+    {
+      "$id": 215,
+      "style": 15,
+      "name": "Escutcheon of Athena"
+    },
+    {
+      "$id": 216,
+      "style": 15,
+      "name": "Legendary Shield"
+    },
+    {
+      "$id": 217,
+      "style": 15,
+      "name": "Agarthan Shield"
+    },
+    {
+      "$id": 218,
+      "style": 15,
+      "name": "Shield of El Dorado"
+    },
+    {
+      "$id": 219,
+      "style": 15,
+      "name": "Shield of Eden"
+    },
+    {
+      "$id": 220,
+      "style": 15,
+      "name": "Maelstrom Plate"
+    },
+    {
+      "$id": 221,
+      "style": 15,
+      "name": "Adamant Shield"
+    },
+    {
+      "$id": 222,
+      "style": 15,
+      "name": "Wootz Shield"
+    },
+    {
+      "$id": 223,
+      "style": 15,
+      "name": "Damascene Shield"
+    },
+    {
+      "$id": 224,
+      "style": 15,
+      "name": "Orichalcum Shield"
+    },
+    {
+      "$id": 225,
+      "style": 15,
+      "name": "Sigma Shield"
+    },
+    {
+      "$id": 226,
+      "style": 15,
+      "name": "Delta Shield"
+    },
+    {
+      "$id": 227,
+      "style": 15,
+      "name": "Legionnaire's Shield"
+    },
+    {
+      "$id": 228,
+      "style": 15,
+      "name": "Saintslayer Pavise"
+    },
+    {
+      "$id": 229,
+      "style": 15,
+      "name": "Shield of Despair"
+    },
+    {
+      "$id": 230,
+      "style": 15,
+      "name": "Shield of Chaos"
+    },
+    {
+      "$id": 231,
+      "style": 15,
+      "name": "Thundercrash Shield"
+    },
+    {
+      "$id": 232,
+      "style": 15,
+      "name": "Shield of Thanatos"
+    },
+    {
+      "$id": 233,
+      "style": 15,
+      "name": "Shield of Banishing"
+    },
+    {
+      "$id": 234,
+      "style": 15,
+      "name": "Nemesis Shield"
+    },
+    {
+      "$id": 235,
+      "style": 15,
+      "name": "Shield of Origin"
+    },
+    {
+      "$id": 236,
+      "style": 15,
+      "name": "Eternal Shield"
+    },
+    {
+      "$id": 237,
+      "style": 15,
+      "name": "Final Shield"
+    },
+    {
+      "$id": 238,
+      "style": 15,
+      "name": "Satellite Shield"
+    },
+    {
+      "$id": 239,
+      "style": 15,
+      "name": "Meteorite Shield"
+    },
+    {
+      "$id": 240,
+      "style": 15,
+      "name": "Cosmic Impact"
+    },
+    {
+      "$id": 241,
+      "style": 15,
+      "name": "Primitive Arms"
+    },
+    {
+      "$id": 242,
+      "style": 15,
+      "name": "Plain Arms"
+    },
+    {
+      "$id": 243,
+      "style": 15,
+      "name": "Flatform Arms"
+    },
+    {
+      "$id": 244,
+      "style": 15,
+      "name": "Ornate Arms"
+    },
+    {
+      "$id": 245,
+      "style": 15,
+      "name": "Breaker Arms"
+    },
+    {
+      "$id": 246,
+      "style": 15,
+      "name": "Duelist's Arms"
+    },
+    {
+      "$id": 247,
+      "style": 15,
+      "name": "Battle Arms"
+    },
+    {
+      "$id": 248,
+      "style": 15,
+      "name": "Snare Arms"
+    },
+    {
+      "$id": 249,
+      "style": 15,
+      "name": "Studded Arms"
+    },
+    {
+      "$id": 250,
+      "style": 15,
+      "name": "Rash Arms"
+    },
+    {
+      "$id": 251,
+      "style": 15,
+      "name": "Battering Arms"
+    },
+    {
+      "$id": 252,
+      "style": 15,
+      "name": "Pounding Arms"
+    },
+    {
+      "$id": 253,
+      "style": 15,
+      "name": "Crushing Arms"
+    },
+    {
+      "$id": 254,
+      "style": 15,
+      "name": "Thumping Arms"
+    },
+    {
+      "$id": 255,
+      "style": 15,
+      "name": "Pummeling Arms"
+    },
+    {
+      "$id": 256,
+      "style": 15,
+      "name": "Strongjaw Gauntlets"
+    },
+    {
+      "$id": 257,
+      "style": 15,
+      "name": "Knight's Arms"
+    },
+    {
+      "$id": 258,
+      "style": 15,
+      "name": "Guardian's Arms"
+    },
+    {
+      "$id": 259,
+      "style": 15,
+      "name": "Temptation Gauntlets"
+    },
+    {
+      "$id": 260,
+      "style": 15,
+      "name": "Valkyrie's Arms"
+    },
+    {
+      "$id": 261,
+      "style": 15,
+      "name": "Paladin's Arms"
+    },
+    {
+      "$id": 262,
+      "style": 15,
+      "name": "Holy Arms"
+    },
+    {
+      "$id": 263,
+      "style": 15,
+      "name": "Arms of Valor"
+    },
+    {
+      "$id": 264,
+      "style": 15,
+      "name": "Hunter's Arms"
+    },
+    {
+      "$id": 265,
+      "style": 15,
+      "name": "Custom Arms"
+    },
+    {
+      "$id": 266,
+      "style": 15,
+      "name": "Clockwork Arms"
+    },
+    {
+      "$id": 267,
+      "style": 15,
+      "name": "Turbojet Arms"
+    },
+    {
+      "$id": 268,
+      "style": 15,
+      "name": "Accelerator Arms"
+    },
+    {
+      "$id": 269,
+      "style": 15,
+      "name": "Turbine Arms"
+    },
+    {
+      "$id": 270,
+      "style": 15,
+      "name": "Ceramic Arms"
+    },
+    {
+      "$id": 271,
+      "style": 15,
+      "name": "Mechanized Arms"
+    },
+    {
+      "$id": 272,
+      "style": 15,
+      "name": "Machine Busters"
+    },
+    {
+      "$id": 273,
+      "style": 15,
+      "name": "Ancient Arms"
+    },
+    {
+      "$id": 274,
+      "style": 15,
+      "name": "Elder Arms"
+    },
+    {
+      "$id": 275,
+      "style": 15,
+      "name": "Gauntlets of Lament"
+    },
+    {
+      "$id": 276,
+      "style": 15,
+      "name": "Legendary Arms"
+    },
+    {
+      "$id": 277,
+      "style": 15,
+      "name": "Agarthan Arms"
+    },
+    {
+      "$id": 278,
+      "style": 15,
+      "name": "Arms of El Dorado"
+    },
+    {
+      "$id": 279,
+      "style": 15,
+      "name": "Arms of Eden"
+    },
+    {
+      "$id": 280,
+      "style": 15,
+      "name": "Doom of Atlantis"
+    },
+    {
+      "$id": 281,
+      "style": 15,
+      "name": "Adamant Arms"
+    },
+    {
+      "$id": 282,
+      "style": 15,
+      "name": "Wootz Arms"
+    },
+    {
+      "$id": 283,
+      "style": 15,
+      "name": "Most Wanted"
+    },
+    {
+      "$id": 284,
+      "style": 15,
+      "name": "Orichalcum Arms"
+    },
+    {
+      "$id": 285,
+      "style": 15,
+      "name": "Sigma Arms"
+    },
+    {
+      "$id": 286,
+      "style": 15,
+      "name": "Delta Arms"
+    },
+    {
+      "$id": 287,
+      "style": 15,
+      "name": "Terminal Velocity"
+    },
+    {
+      "$id": 288,
+      "style": 15,
+      "name": "Deserved Retribution"
+    },
+    {
+      "$id": 289,
+      "style": 15,
+      "name": "Arms of Despair"
+    },
+    {
+      "$id": 290,
+      "style": 15,
+      "name": "Arms of Chaos"
+    },
+    {
+      "$id": 291,
+      "style": 15,
+      "name": "Insatiable Gauntlets"
+    },
+    {
+      "$id": 292,
+      "style": 15,
+      "name": "Arms of Thanatos"
+    },
+    {
+      "$id": 293,
+      "style": 15,
+      "name": "Arms of Banishing"
+    },
+    {
+      "$id": 294,
+      "style": 15,
+      "name": "Arms of Hermes"
+    },
+    {
+      "$id": 295,
+      "style": 15,
+      "name": "Arms of Origin"
+    },
+    {
+      "$id": 296,
+      "style": 15,
+      "name": "Eternal Arms"
+    },
+    {
+      "$id": 297,
+      "style": 15,
+      "name": "Final Arms"
+    },
+    {
+      "$id": 298,
+      "style": 15,
+      "name": "Satellite Arms"
+    },
+    {
+      "$id": 299,
+      "style": 15,
+      "name": "Meteorite Arms"
+    },
+    {
+      "$id": 300,
+      "style": 15,
+      "name": "Gigantomachy"
+    },
+    {
+      "$id": 301,
+      "style": 15,
+      "name": "Primitive Saber"
+    },
+    {
+      "$id": 302,
+      "style": 15,
+      "name": "Plain Saber"
+    },
+    {
+      "$id": 303,
+      "style": 15,
+      "name": "Flatform Saber"
+    },
+    {
+      "$id": 304,
+      "style": 15,
+      "name": "Ornate Saber"
+    },
+    {
+      "$id": 305,
+      "style": 15,
+      "name": "Breaker Saber"
+    },
+    {
+      "$id": 306,
+      "style": 15,
+      "name": "Duelist's Saber"
+    },
+    {
+      "$id": 307,
+      "style": 15,
+      "name": "Battle Saber"
+    },
+    {
+      "$id": 308,
+      "style": 15,
+      "name": "Snare Saber"
+    },
+    {
+      "$id": 309,
+      "style": 15,
+      "name": "Deadly Saber"
+    },
+    {
+      "$id": 310,
+      "style": 15,
+      "name": "Razorgraze Saber"
+    },
+    {
+      "$id": 311,
+      "style": 15,
+      "name": "Whirlchip Saber"
+    },
+    {
+      "$id": 312,
+      "style": 15,
+      "name": "Songslice Saber"
+    },
+    {
+      "$id": 313,
+      "style": 15,
+      "name": "Chopcuff Saber"
+    },
+    {
+      "$id": 314,
+      "style": 15,
+      "name": "Swishslash Saber"
+    },
+    {
+      "$id": 315,
+      "style": 15,
+      "name": "Twirlslip Saber"
+    },
+    {
+      "$id": 316,
+      "style": 15,
+      "name": "Insect Slicer"
+    },
+    {
+      "$id": 317,
+      "style": 15,
+      "name": "Knight's Saber"
+    },
+    {
+      "$id": 318,
+      "style": 15,
+      "name": "Guardian's Saber"
+    },
+    {
+      "$id": 319,
+      "style": 15,
+      "name": "Saint's Saber"
+    },
+    {
+      "$id": 320,
+      "style": 15,
+      "name": "Valkyrie's Saber"
+    },
+    {
+      "$id": 321,
+      "style": 15,
+      "name": "Paladin's Saber"
+    },
+    {
+      "$id": 322,
+      "style": 15,
+      "name": "Holy Saber"
+    },
+    {
+      "$id": 323,
+      "style": 15,
+      "name": "Saber of Valor"
+    },
+    {
+      "$id": 324,
+      "style": 15,
+      "name": "Regal Saber"
+    },
+    {
+      "$id": 325,
+      "style": 15,
+      "name": "Custom Saber"
+    },
+    {
+      "$id": 326,
+      "style": 15,
+      "name": "Clockwork Saber"
+    },
+    {
+      "$id": 327,
+      "style": 15,
+      "name": "Ranger's Saber"
+    },
+    {
+      "$id": 328,
+      "style": 15,
+      "name": "Accelerator Saber"
+    },
+    {
+      "$id": 329,
+      "style": 15,
+      "name": "Turbine Saber"
+    },
+    {
+      "$id": 330,
+      "style": 15,
+      "name": "Ceramic Saber"
+    },
+    {
+      "$id": 331,
+      "style": 15,
+      "name": "Mechanized Saber"
+    },
+    {
+      "$id": 332,
+      "style": 15,
+      "name": "Commando's Saber"
+    },
+    {
+      "$id": 333,
+      "style": 15,
+      "name": "Ancient Saber"
+    },
+    {
+      "$id": 334,
+      "style": 15,
+      "name": "Elder Saber"
+    },
+    {
+      "$id": 335,
+      "style": 15,
+      "name": "Mystical Saber"
+    },
+    {
+      "$id": 336,
+      "style": 15,
+      "name": "Legendary Saber"
+    },
+    {
+      "$id": 337,
+      "style": 15,
+      "name": "Agarthan Saber"
+    },
+    {
+      "$id": 338,
+      "style": 15,
+      "name": "Saber of El Dorado"
+    },
+    {
+      "$id": 339,
+      "style": 15,
+      "name": "Saber of Eden"
+    },
+    {
+      "$id": 340,
+      "style": 15,
+      "name": "Rifled Saber"
+    },
+    {
+      "$id": 341,
+      "style": 15,
+      "name": "Adamant Saber"
+    },
+    {
+      "$id": 342,
+      "style": 15,
+      "name": "Wootz Saber"
+    },
+    {
+      "$id": 343,
+      "style": 15,
+      "name": "Ether Saber"
+    },
+    {
+      "$id": 344,
+      "style": 15,
+      "name": "Orichalcum Saber"
+    },
+    {
+      "$id": 345,
+      "style": 15,
+      "name": "Sigma Saber"
+    },
+    {
+      "$id": 346,
+      "style": 15,
+      "name": "Delta Saber"
+    },
+    {
+      "$id": 347,
+      "style": 15,
+      "name": "Sanguine Saber"
+    },
+    {
+      "$id": 348,
+      "style": 15,
+      "name": "Creation Eater"
+    },
+    {
+      "$id": 349,
+      "style": 15,
+      "name": "Saber of Despair"
+    },
+    {
+      "$id": 350,
+      "style": 15,
+      "name": "Saber of Chaos"
+    },
+    {
+      "$id": 351,
+      "style": 15,
+      "name": "Barbatos, the Durable"
+    },
+    {
+      "$id": 352,
+      "style": 15,
+      "name": "Saber of Thanatos"
+    },
+    {
+      "$id": 353,
+      "style": 15,
+      "name": "Saber of Banishing"
+    },
+    {
+      "$id": 354,
+      "style": 15,
+      "name": "Metatron's Saber"
+    },
+    {
+      "$id": 355,
+      "style": 15,
+      "name": "Saber of Origin"
+    },
+    {
+      "$id": 356,
+      "style": 15,
+      "name": "Eternal Saber"
+    },
+    {
+      "$id": 357,
+      "style": 15,
+      "name": "Final Saber"
+    },
+    {
+      "$id": 358,
+      "style": 15,
+      "name": "Satellite Saber"
+    },
+    {
+      "$id": 359,
+      "style": 15,
+      "name": "Meteorite Saber"
+    },
+    {
+      "$id": 360,
+      "style": 15,
+      "name": "Ultima Ratio"
+    },
+    {
+      "$id": 361,
+      "style": 15,
+      "name": "Primitive Whips"
+    },
+    {
+      "$id": 362,
+      "style": 15,
+      "name": "Plain Whips"
+    },
+    {
+      "$id": 363,
+      "style": 15,
+      "name": "Flatform Whips"
+    },
+    {
+      "$id": 364,
+      "style": 15,
+      "name": "Whips of Plenty"
+    },
+    {
+      "$id": 365,
+      "style": 15,
+      "name": "Breaker Whips"
+    },
+    {
+      "$id": 366,
+      "style": 15,
+      "name": "Duelist's Whips"
+    },
+    {
+      "$id": 367,
+      "style": 15,
+      "name": "Battle Whips"
+    },
+    {
+      "$id": 368,
+      "style": 15,
+      "name": "Plunder Whips"
+    },
+    {
+      "$id": 369,
+      "style": 15,
+      "name": "Whips of the Sparrow"
+    },
+    {
+      "$id": 370,
+      "style": 15,
+      "name": "Whips of the Robin"
+    },
+    {
+      "$id": 371,
+      "style": 15,
+      "name": "Whips of the Lark"
+    },
+    {
+      "$id": 372,
+      "style": 15,
+      "name": "Whips of the Swift"
+    },
+    {
+      "$id": 373,
+      "style": 15,
+      "name": "Whips of the Crane"
+    },
+    {
+      "$id": 374,
+      "style": 15,
+      "name": "Whips of the Ibis"
+    },
+    {
+      "$id": 375,
+      "style": 15,
+      "name": "Whips of the Shrike"
+    },
+    {
+      "$id": 376,
+      "style": 15,
+      "name": "The Cormorants"
+    },
+    {
+      "$id": 377,
+      "style": 15,
+      "name": "Knight's Whips"
+    },
+    {
+      "$id": 378,
+      "style": 15,
+      "name": "Guardian's Whips"
+    },
+    {
+      "$id": 379,
+      "style": 15,
+      "name": "Whips of the Sun"
+    },
+    {
+      "$id": 380,
+      "style": 15,
+      "name": "Valkyrie's Whips"
+    },
+    {
+      "$id": 381,
+      "style": 15,
+      "name": "Paladin's Whips"
+    },
+    {
+      "$id": 382,
+      "style": 15,
+      "name": "Holy Whips"
+    },
+    {
+      "$id": 383,
+      "style": 15,
+      "name": "Whips of Valor"
+    },
+    {
+      "$id": 384,
+      "style": 15,
+      "name": "Soaring Swallows"
+    },
+    {
+      "$id": 385,
+      "style": 15,
+      "name": "Custom Whips"
+    },
+    {
+      "$id": 386,
+      "style": 15,
+      "name": "Clockwork Whips"
+    },
+    {
+      "$id": 387,
+      "style": 15,
+      "name": "Muscle Whips"
+    },
+    {
+      "$id": 388,
+      "style": 15,
+      "name": "Accelerator Whips"
+    },
+    {
+      "$id": 389,
+      "style": 15,
+      "name": "Turbine Whips"
+    },
+    {
+      "$id": 390,
+      "style": 15,
+      "name": "Ceramic Whips"
+    },
+    {
+      "$id": 391,
+      "style": 15,
+      "name": "Mechanized Whips"
+    },
+    {
+      "$id": 392,
+      "style": 15,
+      "name": "Nitro Whips"
+    },
+    {
+      "$id": 393,
+      "style": 15,
+      "name": "Ancient Whips"
+    },
+    {
+      "$id": 394,
+      "style": 15,
+      "name": "Elder Whips"
+    },
+    {
+      "$id": 395,
+      "style": 15,
+      "name": "Whips of the Chariot"
+    },
+    {
+      "$id": 396,
+      "style": 15,
+      "name": "Legendary Whips"
+    },
+    {
+      "$id": 397,
+      "style": 15,
+      "name": "Agarthan Whips"
+    },
+    {
+      "$id": 398,
+      "style": 15,
+      "name": "Whips of El Dorado"
+    },
+    {
+      "$id": 399,
+      "style": 15,
+      "name": "Whips of Eden"
+    },
+    {
+      "$id": 400,
+      "style": 15,
+      "name": "Avalon"
+    },
+    {
+      "$id": 401,
+      "style": 15,
+      "name": "Adamant Whips"
+    },
+    {
+      "$id": 402,
+      "style": 15,
+      "name": "Wootz Whips"
+    },
+    {
+      "$id": 403,
+      "style": 15,
+      "name": "The Assessors"
+    },
+    {
+      "$id": 404,
+      "style": 15,
+      "name": "Orichalcum Whips"
+    },
+    {
+      "$id": 405,
+      "style": 15,
+      "name": "Sigma Whips"
+    },
+    {
+      "$id": 406,
+      "style": 15,
+      "name": "Delta Whips"
+    },
+    {
+      "$id": 407,
+      "style": 15,
+      "name": "Whips of Celerity"
+    },
+    {
+      "$id": 408,
+      "style": 15,
+      "name": "Ascension Denied"
+    },
+    {
+      "$id": 409,
+      "style": 15,
+      "name": "Whips of Despair"
+    },
+    {
+      "$id": 410,
+      "style": 15,
+      "name": "Whips of Chaos"
+    },
+    {
+      "$id": 411,
+      "style": 15,
+      "name": "Belial's Whips"
+    },
+    {
+      "$id": 412,
+      "style": 15,
+      "name": "Whips of Thanatos"
+    },
+    {
+      "$id": 413,
+      "style": 15,
+      "name": "Whips of Banishing"
+    },
+    {
+      "$id": 414,
+      "style": 15,
+      "name": "Dominion"
+    },
+    {
+      "$id": 415,
+      "style": 15,
+      "name": "Whips of Origin"
+    },
+    {
+      "$id": 416,
+      "style": 15,
+      "name": "Eternal Whips"
+    },
+    {
+      "$id": 417,
+      "style": 15,
+      "name": "Final Whips"
+    },
+    {
+      "$id": 418,
+      "style": 15,
+      "name": "Satellite Whips"
+    },
+    {
+      "$id": 419,
+      "style": 15,
+      "name": "Meteorite Whips"
+    },
+    {
+      "$id": 420,
+      "style": 15,
+      "name": "The Dreadnoughts"
+    },
+    {
+      "$id": 421,
+      "style": 15,
+      "name": "Primitive Edge"
+    },
+    {
+      "$id": 422,
+      "style": 15,
+      "name": "Plain Edge"
+    },
+    {
+      "$id": 423,
+      "style": 15,
+      "name": "Flatform Edge"
+    },
+    {
+      "$id": 424,
+      "style": 15,
+      "name": "Edge of Plenty"
+    },
+    {
+      "$id": 425,
+      "style": 15,
+      "name": "Breaker Edge"
+    },
+    {
+      "$id": 426,
+      "style": 15,
+      "name": "Duelist's Edge"
+    },
+    {
+      "$id": 427,
+      "style": 15,
+      "name": "Battle Edge"
+    },
+    {
+      "$id": 428,
+      "style": 15,
+      "name": "Plunder Edge"
+    },
+    {
+      "$id": 429,
+      "style": 15,
+      "name": "Flighty Edge"
+    },
+    {
+      "$id": 430,
+      "style": 15,
+      "name": "Feathered Edge"
+    },
+    {
+      "$id": 431,
+      "style": 15,
+      "name": "Winged Edge"
+    },
+    {
+      "$id": 432,
+      "style": 15,
+      "name": "Triumph Edge"
+    },
+    {
+      "$id": 433,
+      "style": 15,
+      "name": "Avian Edge"
+    },
+    {
+      "$id": 434,
+      "style": 15,
+      "name": "Edge of the Raptor"
+    },
+    {
+      "$id": 435,
+      "style": 15,
+      "name": "Edge of the Vulture"
+    },
+    {
+      "$id": 436,
+      "style": 15,
+      "name": "Predator's Edge"
+    },
+    {
+      "$id": 437,
+      "style": 15,
+      "name": "Knight's Edge"
+    },
+    {
+      "$id": 438,
+      "style": 15,
+      "name": "Guardian's Edge"
+    },
+    {
+      "$id": 439,
+      "style": 15,
+      "name": "Orion's Rise"
+    },
+    {
+      "$id": 440,
+      "style": 15,
+      "name": "Valkyrie's Edge"
+    },
+    {
+      "$id": 441,
+      "style": 15,
+      "name": "Paladin's Edge"
+    },
+    {
+      "$id": 442,
+      "style": 15,
+      "name": "Holy Edge"
+    },
+    {
+      "$id": 443,
+      "style": 15,
+      "name": "Edge of Valor"
+    },
+    {
+      "$id": 444,
+      "style": 15,
+      "name": "Arbiter's Brand"
+    },
+    {
+      "$id": 445,
+      "style": 15,
+      "name": "Custom Edge"
+    },
+    {
+      "$id": 446,
+      "style": 15,
+      "name": "Clockwork Edge"
+    },
+    {
+      "$id": 447,
+      "style": 15,
+      "name": "Fearful Symmetry"
+    },
+    {
+      "$id": 448,
+      "style": 15,
+      "name": "Accelerator Edge"
+    },
+    {
+      "$id": 449,
+      "style": 15,
+      "name": "Turbine Edge"
+    },
+    {
+      "$id": 450,
+      "style": 15,
+      "name": "Ceramic Edge"
+    },
+    {
+      "$id": 451,
+      "style": 15,
+      "name": "Mechanized Edge"
+    },
+    {
+      "$id": 452,
+      "style": 15,
+      "name": "The Ingot"
+    },
+    {
+      "$id": 453,
+      "style": 15,
+      "name": "Ancient Edge"
+    },
+    {
+      "$id": 454,
+      "style": 15,
+      "name": "Elder Edge"
+    },
+    {
+      "$id": 455,
+      "style": 15,
+      "name": "Edge of the Mother"
+    },
+    {
+      "$id": 456,
+      "style": 15,
+      "name": "Legendary Edge"
+    },
+    {
+      "$id": 457,
+      "style": 15,
+      "name": "Agarthan Edge"
+    },
+    {
+      "$id": 458,
+      "style": 15,
+      "name": "Edge of El Dorado"
+    },
+    {
+      "$id": 459,
+      "style": 15,
+      "name": "Edge of Eden"
+    },
+    {
+      "$id": 460,
+      "style": 15,
+      "name": "Just Oceanus"
+    },
+    {
+      "$id": 461,
+      "style": 15,
+      "name": "Adamant Edge"
+    },
+    {
+      "$id": 462,
+      "style": 15,
+      "name": "Wootz Edge"
+    },
+    {
+      "$id": 463,
+      "style": 15,
+      "name": "Black Chronos"
+    },
+    {
+      "$id": 464,
+      "style": 15,
+      "name": "Orichalcum Edge"
+    },
+    {
+      "$id": 465,
+      "style": 15,
+      "name": "Sigma Edge"
+    },
+    {
+      "$id": 466,
+      "style": 15,
+      "name": "Delta Edge"
+    },
+    {
+      "$id": 467,
+      "style": 15,
+      "name": "Barghest's Claw"
+    },
+    {
+      "$id": 468,
+      "style": 15,
+      "name": "Sainthunter"
+    },
+    {
+      "$id": 469,
+      "style": 15,
+      "name": "Edge of Despair"
+    },
+    {
+      "$id": 470,
+      "style": 15,
+      "name": "Edge of Chaos"
+    },
+    {
+      "$id": 471,
+      "style": 15,
+      "name": "Apocalypse"
+    },
+    {
+      "$id": 472,
+      "style": 15,
+      "name": "Edge of Thanatos"
+    },
+    {
+      "$id": 473,
+      "style": 15,
+      "name": "Edge of Banishing"
+    },
+    {
+      "$id": 474,
+      "style": 15,
+      "name": "Rightful Payback"
+    },
+    {
+      "$id": 475,
+      "style": 15,
+      "name": "Edge of Origin"
+    },
+    {
+      "$id": 476,
+      "style": 15,
+      "name": "Eternal Edge"
+    },
+    {
+      "$id": 477,
+      "style": 15,
+      "name": "Final Edge"
+    },
+    {
+      "$id": 478,
+      "style": 15,
+      "name": "Satellite Edge"
+    },
+    {
+      "$id": 479,
+      "style": 15,
+      "name": "Meteorite Edge"
+    },
+    {
+      "$id": 480,
+      "style": 15,
+      "name": "Bigger Bang"
+    },
+    {
+      "$id": 481,
+      "style": 15,
+      "name": "Primitive Scythes"
+    },
+    {
+      "$id": 482,
+      "style": 15,
+      "name": "Plain Scythes"
+    },
+    {
+      "$id": 483,
+      "style": 15,
+      "name": "Flatform Scythes"
+    },
+    {
+      "$id": 484,
+      "style": 15,
+      "name": "Sickles of Plenty"
+    },
+    {
+      "$id": 485,
+      "style": 15,
+      "name": "Breaker Scythes"
+    },
+    {
+      "$id": 486,
+      "style": 15,
+      "name": "Duelist's Scythes"
+    },
+    {
+      "$id": 487,
+      "style": 15,
+      "name": "Battle Scythes"
+    },
+    {
+      "$id": 488,
+      "style": 15,
+      "name": "Plunder Sickles"
+    },
+    {
+      "$id": 489,
+      "style": 15,
+      "name": "Pixie Scythes"
+    },
+    {
+      "$id": 490,
+      "style": 15,
+      "name": "Sylph's Scythes"
+    },
+    {
+      "$id": 491,
+      "style": 15,
+      "name": "Faerie Scythes"
+    },
+    {
+      "$id": 492,
+      "style": 15,
+      "name": "Divine Beastia's Scythes"
+    },
+    {
+      "$id": 493,
+      "style": 15,
+      "name": "Spriggan's Scythes"
+    },
+    {
+      "$id": 494,
+      "style": 15,
+      "name": "Banshee Scythes"
+    },
+    {
+      "$id": 495,
+      "style": 15,
+      "name": "Ainsel's Scythes"
+    },
+    {
+      "$id": 496,
+      "style": 15,
+      "name": "Elf King's Scythes"
+    },
+    {
+      "$id": 497,
+      "style": 15,
+      "name": "Knight's Scythes"
+    },
+    {
+      "$id": 498,
+      "style": 15,
+      "name": "Guardian's Scythes"
+    },
+    {
+      "$id": 499,
+      "style": 15,
+      "name": "Augur's Scythes"
+    },
+    {
+      "$id": 500,
+      "style": 15,
+      "name": "Valkyrie's Scythes"
+    },
+    {
+      "$id": 501,
+      "style": 15,
+      "name": "Paladin's Scythes"
+    },
+    {
+      "$id": 502,
+      "style": 15,
+      "name": "Holy Scythes"
+    },
+    {
+      "$id": 503,
+      "style": 15,
+      "name": "Scythes of Valor"
+    },
+    {
+      "$id": 504,
+      "style": 15,
+      "name": "Executioner's Sickles"
+    },
+    {
+      "$id": 505,
+      "style": 15,
+      "name": "Custom Scythes"
+    },
+    {
+      "$id": 506,
+      "style": 15,
+      "name": "Clockwork Scythes"
+    },
+    {
+      "$id": 507,
+      "style": 15,
+      "name": "Tenacious Sickles"
+    },
+    {
+      "$id": 508,
+      "style": 15,
+      "name": "Accelerator Scythes"
+    },
+    {
+      "$id": 509,
+      "style": 15,
+      "name": "Turbine Scythes"
+    },
+    {
+      "$id": 510,
+      "style": 15,
+      "name": "Ceramic Scythes"
+    },
+    {
+      "$id": 511,
+      "style": 15,
+      "name": "Mechanized Scythes"
+    },
+    {
+      "$id": 512,
+      "style": 15,
+      "name": "Optimized Scythes"
+    },
+    {
+      "$id": 513,
+      "style": 15,
+      "name": "Ancient Scythes"
+    },
+    {
+      "$id": 514,
+      "style": 15,
+      "name": "Elder Scythes"
+    },
+    {
+      "$id": 515,
+      "style": 15,
+      "name": "Emperor Scythes"
+    },
+    {
+      "$id": 516,
+      "style": 15,
+      "name": "Legendary Scythes"
+    },
+    {
+      "$id": 517,
+      "style": 15,
+      "name": "Agarthan Scythes"
+    },
+    {
+      "$id": 518,
+      "style": 15,
+      "name": "Scythes of El Dorado"
+    },
+    {
+      "$id": 519,
+      "style": 15,
+      "name": "Scythes of Eden"
+    },
+    {
+      "$id": 520,
+      "style": 15,
+      "name": "Amazon's Scythes"
+    },
+    {
+      "$id": 521,
+      "style": 15,
+      "name": "Adamant Scythes"
+    },
+    {
+      "$id": 522,
+      "style": 15,
+      "name": "Wootz Scythes"
+    },
+    {
+      "$id": 523,
+      "style": 15,
+      "name": "Enigma Scythes"
+    },
+    {
+      "$id": 524,
+      "style": 15,
+      "name": "Orichalcum Scythes"
+    },
+    {
+      "$id": 525,
+      "style": 15,
+      "name": "Sigma Scythes"
+    },
+    {
+      "$id": 526,
+      "style": 15,
+      "name": "Delta Scythes"
+    },
+    {
+      "$id": 527,
+      "style": 15,
+      "name": "Dark Order"
+    },
+    {
+      "$id": 528,
+      "style": 15,
+      "name": "Divine Beast Gutters"
+    },
+    {
+      "$id": 529,
+      "style": 15,
+      "name": "Scythes of Despair"
+    },
+    {
+      "$id": 530,
+      "style": 15,
+      "name": "Scythes of Chaos"
+    },
+    {
+      "$id": 531,
+      "style": 15,
+      "name": "Inferno"
+    },
+    {
+      "$id": 532,
+      "style": 15,
+      "name": "Scythes of Thanatos"
+    },
+    {
+      "$id": 533,
+      "style": 15,
+      "name": "Scythes of Banishing"
+    },
+    {
+      "$id": 534,
+      "style": 15,
+      "name": "The Grim Reapers"
+    },
+    {
+      "$id": 535,
+      "style": 15,
+      "name": "Scythes of Origin"
+    },
+    {
+      "$id": 536,
+      "style": 15,
+      "name": "Eternal Scythes"
+    },
+    {
+      "$id": 537,
+      "style": 15,
+      "name": "Final Scythes"
+    },
+    {
+      "$id": 538,
+      "style": 15,
+      "name": "Satellite Scythes"
+    },
+    {
+      "$id": 539,
+      "style": 15,
+      "name": "Meteorite Scythes"
+    },
+    {
+      "$id": 540,
+      "style": 15,
+      "name": "Spendthrift Knight"
+    },
+    {
+      "$id": 541,
+      "style": 15,
+      "name": "Primitive Axe"
+    },
+    {
+      "$id": 542,
+      "style": 15,
+      "name": "Plain Axe"
+    },
+    {
+      "$id": 543,
+      "style": 15,
+      "name": "Flatform Axe"
+    },
+    {
+      "$id": 544,
+      "style": 15,
+      "name": "Hatchet of Plenty"
+    },
+    {
+      "$id": 545,
+      "style": 15,
+      "name": "Breaker Axe"
+    },
+    {
+      "$id": 546,
+      "style": 15,
+      "name": "Duelist's Axe"
+    },
+    {
+      "$id": 547,
+      "style": 15,
+      "name": "Battle Axe"
+    },
+    {
+      "$id": 548,
+      "style": 15,
+      "name": "Plunder Hatchet"
+    },
+    {
+      "$id": 549,
+      "style": 15,
+      "name": "Large Axe"
+    },
+    {
+      "$id": 550,
+      "style": 15,
+      "name": "Grand Axe"
+    },
+    {
+      "$id": 551,
+      "style": 15,
+      "name": "Huge Axe"
+    },
+    {
+      "$id": 552,
+      "style": 15,
+      "name": "Enormous Axe"
+    },
+    {
+      "$id": 553,
+      "style": 15,
+      "name": "Gargantuan Axe"
+    },
+    {
+      "$id": 554,
+      "style": 15,
+      "name": "Violent Axe"
+    },
+    {
+      "$id": 555,
+      "style": 15,
+      "name": "Berserker's Axe"
+    },
+    {
+      "$id": 556,
+      "style": 15,
+      "name": "Axe of Wrath"
+    },
+    {
+      "$id": 557,
+      "style": 15,
+      "name": "Knight's Axe"
+    },
+    {
+      "$id": 558,
+      "style": 15,
+      "name": "Guardian's Axe"
+    },
+    {
+      "$id": 559,
+      "style": 15,
+      "name": "Hatchet of the Round"
+    },
+    {
+      "$id": 560,
+      "style": 15,
+      "name": "Valkyrie's Axe"
+    },
+    {
+      "$id": 561,
+      "style": 15,
+      "name": "Paladin's Axe"
+    },
+    {
+      "$id": 562,
+      "style": 15,
+      "name": "Holy Axe"
+    },
+    {
+      "$id": 563,
+      "style": 15,
+      "name": "Axe of Valor"
+    },
+    {
+      "$id": 564,
+      "style": 15,
+      "name": "Axe of Order"
+    },
+    {
+      "$id": 565,
+      "style": 15,
+      "name": "Custom Axe"
+    },
+    {
+      "$id": 566,
+      "style": 15,
+      "name": "Clockwork Axe"
+    },
+    {
+      "$id": 567,
+      "style": 15,
+      "name": "General's Axe"
+    },
+    {
+      "$id": 568,
+      "style": 15,
+      "name": "Accelerator Axe"
+    },
+    {
+      "$id": 569,
+      "style": 15,
+      "name": "Turbine Axe"
+    },
+    {
+      "$id": 570,
+      "style": 15,
+      "name": "Ceramic Axe"
+    },
+    {
+      "$id": 571,
+      "style": 15,
+      "name": "Mechanized Axe"
+    },
+    {
+      "$id": 572,
+      "style": 15,
+      "name": "Admiral's Axe"
+    },
+    {
+      "$id": 573,
+      "style": 15,
+      "name": "Ancient Axe"
+    },
+    {
+      "$id": 574,
+      "style": 15,
+      "name": "Elder Axe"
+    },
+    {
+      "$id": 575,
+      "style": 15,
+      "name": "Antique Greataxe"
+    },
+    {
+      "$id": 576,
+      "style": 15,
+      "name": "Legendary Axe"
+    },
+    {
+      "$id": 577,
+      "style": 15,
+      "name": "Agarthan Axe"
+    },
+    {
+      "$id": 578,
+      "style": 15,
+      "name": "Axe of El Dorado"
+    },
+    {
+      "$id": 579,
+      "style": 15,
+      "name": "Axe of Eden"
+    },
+    {
+      "$id": 580,
+      "style": 15,
+      "name": "Sealed Hatchet"
+    },
+    {
+      "$id": 581,
+      "style": 15,
+      "name": "Adamant Axe"
+    },
+    {
+      "$id": 582,
+      "style": 15,
+      "name": "Wootz Axe"
+    },
+    {
+      "$id": 583,
+      "style": 15,
+      "name": "Axe of Fortune"
+    },
+    {
+      "$id": 584,
+      "style": 15,
+      "name": "Orichalcum Axe"
+    },
+    {
+      "$id": 585,
+      "style": 15,
+      "name": "Sigma Axe"
+    },
+    {
+      "$id": 586,
+      "style": 15,
+      "name": "Delta Axe"
+    },
+    {
+      "$id": 587,
+      "style": 15,
+      "name": "Truestrike Axe"
+    },
+    {
+      "$id": 588,
+      "style": 15,
+      "name": "Mythical Greataxe"
+    },
+    {
+      "$id": 589,
+      "style": 15,
+      "name": "Axe of Despair"
+    },
+    {
+      "$id": 590,
+      "style": 15,
+      "name": "Axe of Chaos"
+    },
+    {
+      "$id": 591,
+      "style": 15,
+      "name": "Reactionary Axe"
+    },
+    {
+      "$id": 592,
+      "style": 15,
+      "name": "Axe of Thanatos"
+    },
+    {
+      "$id": 593,
+      "style": 15,
+      "name": "Axe of Banishing"
+    },
+    {
+      "$id": 594,
+      "style": 15,
+      "name": "Ruinous Hatchet"
+    },
+    {
+      "$id": 595,
+      "style": 15,
+      "name": "Axe of Origin"
+    },
+    {
+      "$id": 596,
+      "style": 15,
+      "name": "Eternal Axe"
+    },
+    {
+      "$id": 597,
+      "style": 15,
+      "name": "Final Axe"
+    },
+    {
+      "$id": 598,
+      "style": 15,
+      "name": "Satellite Axe"
+    },
+    {
+      "$id": 599,
+      "style": 15,
+      "name": "Meteorite Axe"
+    },
+    {
+      "$id": 600,
+      "style": 15,
+      "name": "Galaxy Dusking"
+    },
+    {
+      "$id": 601,
+      "style": 15,
+      "name": "Primitive Lance"
+    },
+    {
+      "$id": 602,
+      "style": 15,
+      "name": "Plain Lance"
+    },
+    {
+      "$id": 603,
+      "style": 15,
+      "name": "Flatform Lance"
+    },
+    {
+      "$id": 604,
+      "style": 15,
+      "name": "Ornate Lance"
+    },
+    {
+      "$id": 605,
+      "style": 15,
+      "name": "Breaker Lance"
+    },
+    {
+      "$id": 606,
+      "style": 15,
+      "name": "Duelist's Lance"
+    },
+    {
+      "$id": 607,
+      "style": 15,
+      "name": "Battle Lance"
+    },
+    {
+      "$id": 608,
+      "style": 15,
+      "name": "Snare Lance"
+    },
+    {
+      "$id": 609,
+      "style": 15,
+      "name": "Spike Lance"
+    },
+    {
+      "$id": 610,
+      "style": 15,
+      "name": "Needle Lance"
+    },
+    {
+      "$id": 611,
+      "style": 15,
+      "name": "Sharp Lance"
+    },
+    {
+      "$id": 612,
+      "style": 15,
+      "name": "Stinger Lance"
+    },
+    {
+      "$id": 613,
+      "style": 15,
+      "name": "Lance of Harm"
+    },
+    {
+      "$id": 614,
+      "style": 15,
+      "name": "Lance of Torment"
+    },
+    {
+      "$id": 615,
+      "style": 15,
+      "name": "Plague Lance"
+    },
+    {
+      "$id": 616,
+      "style": 15,
+      "name": "Dread Lance"
+    },
+    {
+      "$id": 617,
+      "style": 15,
+      "name": "Knight's Lance"
+    },
+    {
+      "$id": 618,
+      "style": 15,
+      "name": "Guardian's Lance"
+    },
+    {
+      "$id": 619,
+      "style": 15,
+      "name": "Cleric's Lance"
+    },
+    {
+      "$id": 620,
+      "style": 15,
+      "name": "Valkyrie's Lance"
+    },
+    {
+      "$id": 621,
+      "style": 15,
+      "name": "Paladin's Lance"
+    },
+    {
+      "$id": 622,
+      "style": 15,
+      "name": "Holy Lance"
+    },
+    {
+      "$id": 623,
+      "style": 15,
+      "name": "Lance of Valor"
+    },
+    {
+      "$id": 624,
+      "style": 15,
+      "name": "Lance of Longinus"
+    },
+    {
+      "$id": 625,
+      "style": 15,
+      "name": "Custom Lance"
+    },
+    {
+      "$id": 626,
+      "style": 15,
+      "name": "Clockwork Lance"
+    },
+    {
+      "$id": 627,
+      "style": 15,
+      "name": "Charged Lance"
+    },
+    {
+      "$id": 628,
+      "style": 15,
+      "name": "Accelerator Lance"
+    },
+    {
+      "$id": 629,
+      "style": 15,
+      "name": "Turbine Lance"
+    },
+    {
+      "$id": 630,
+      "style": 15,
+      "name": "Ceramic Lance"
+    },
+    {
+      "$id": 631,
+      "style": 15,
+      "name": "Mechanized Lance"
+    },
+    {
+      "$id": 632,
+      "style": 15,
+      "name": "Stalk, Mecha-Spear"
+    },
+    {
+      "$id": 633,
+      "style": 15,
+      "name": "Ancient Lance"
+    },
+    {
+      "$id": 634,
+      "style": 15,
+      "name": "Elder Lance"
+    },
+    {
+      "$id": 635,
+      "style": 15,
+      "name": "Ancestral Lance"
+    },
+    {
+      "$id": 636,
+      "style": 15,
+      "name": "Legendary Lance"
+    },
+    {
+      "$id": 637,
+      "style": 15,
+      "name": "Agarthan Lance"
+    },
+    {
+      "$id": 638,
+      "style": 15,
+      "name": "Lance of El Dorado"
+    },
+    {
+      "$id": 639,
+      "style": 15,
+      "name": "Lance of Eden"
+    },
+    {
+      "$id": 640,
+      "style": 15,
+      "name": "Empress' Lance"
+    },
+    {
+      "$id": 641,
+      "style": 15,
+      "name": "Adamant Lance"
+    },
+    {
+      "$id": 642,
+      "style": 15,
+      "name": "Wootz Lance"
+    },
+    {
+      "$id": 643,
+      "style": 15,
+      "name": "The Phalanx"
+    },
+    {
+      "$id": 644,
+      "style": 15,
+      "name": "Orichalcum Lance"
+    },
+    {
+      "$id": 645,
+      "style": 15,
+      "name": "Sigma Lance"
+    },
+    {
+      "$id": 646,
+      "style": 15,
+      "name": "Delta Lance"
+    },
+    {
+      "$id": 647,
+      "style": 15,
+      "name": "Nuclear Lance"
+    },
+    {
+      "$id": 648,
+      "style": 15,
+      "name": "Vindicator"
+    },
+    {
+      "$id": 649,
+      "style": 15,
+      "name": "Lance of Despair"
+    },
+    {
+      "$id": 650,
+      "style": 15,
+      "name": "Lance of Chaos"
+    },
+    {
+      "$id": 651,
+      "style": 15,
+      "name": "Vampiric Lance"
+    },
+    {
+      "$id": 652,
+      "style": 15,
+      "name": "Lance of Thanatos"
+    },
+    {
+      "$id": 653,
+      "style": 15,
+      "name": "Lance of Banishing"
+    },
+    {
+      "$id": 654,
+      "style": 15,
+      "name": "Warhead"
+    },
+    {
+      "$id": 655,
+      "style": 15,
+      "name": "Lance of Origin"
+    },
+    {
+      "$id": 656,
+      "style": 15,
+      "name": "Eternal Lance"
+    },
+    {
+      "$id": 657,
+      "style": 15,
+      "name": "Final Lance"
+    },
+    {
+      "$id": 658,
+      "style": 15,
+      "name": "Satellite Lance"
+    },
+    {
+      "$id": 659,
+      "style": 15,
+      "name": "Meteorite Lance"
+    },
+    {
+      "$id": 660,
+      "style": 15,
+      "name": "Extinction Event"
+    },
+    {
+      "$id": 661,
+      "style": 15,
+      "name": "Primitive Cannon"
+    },
+    {
+      "$id": 662,
+      "style": 15,
+      "name": "Plain Cannon"
+    },
+    {
+      "$id": 663,
+      "style": 15,
+      "name": "Flatform Cannon"
+    },
+    {
+      "$id": 664,
+      "style": 15,
+      "name": "Ornate Cannon"
+    },
+    {
+      "$id": 665,
+      "style": 15,
+      "name": "Breaker Cannon"
+    },
+    {
+      "$id": 666,
+      "style": 15,
+      "name": "Duelist's Cannon"
+    },
+    {
+      "$id": 667,
+      "style": 15,
+      "name": "Battle Cannon"
+    },
+    {
+      "$id": 668,
+      "style": 15,
+      "name": "Snare Cannon"
+    },
+    {
+      "$id": 669,
+      "style": 15,
+      "name": "Osseous Cannon"
+    },
+    {
+      "$id": 670,
+      "style": 15,
+      "name": "Roaring Cannon"
+    },
+    {
+      "$id": 671,
+      "style": 15,
+      "name": "Loud Cannon"
+    },
+    {
+      "$id": 672,
+      "style": 15,
+      "name": "Skull Cannon"
+    },
+    {
+      "$id": 673,
+      "style": 15,
+      "name": "Gourmand's Cannon"
+    },
+    {
+      "$id": 674,
+      "style": 15,
+      "name": "Monstrous Cannon"
+    },
+    {
+      "$id": 675,
+      "style": 15,
+      "name": "Brutal Cannon"
+    },
+    {
+      "$id": 676,
+      "style": 15,
+      "name": "Glutton's Cannon"
+    },
+    {
+      "$id": 677,
+      "style": 15,
+      "name": "Knight's Cannon"
+    },
+    {
+      "$id": 678,
+      "style": 15,
+      "name": "Guardian's Cannon"
+    },
+    {
+      "$id": 679,
+      "style": 15,
+      "name": "Sniper Cannon"
+    },
+    {
+      "$id": 680,
+      "style": 15,
+      "name": "Valkyrie's Cannon"
+    },
+    {
+      "$id": 681,
+      "style": 15,
+      "name": "Paladin's Cannon"
+    },
+    {
+      "$id": 682,
+      "style": 15,
+      "name": "Holy Cannon"
+    },
+    {
+      "$id": 683,
+      "style": 15,
+      "name": "Cannon of Valor"
+    },
+    {
+      "$id": 684,
+      "style": 15,
+      "name": "Buzzard Cannon"
+    },
+    {
+      "$id": 685,
+      "style": 15,
+      "name": "Custom Cannon"
+    },
+    {
+      "$id": 686,
+      "style": 15,
+      "name": "Clockwork Cannon"
+    },
+    {
+      "$id": 687,
+      "style": 15,
+      "name": "Darkseeker"
+    },
+    {
+      "$id": 688,
+      "style": 15,
+      "name": "Accelerator Cannon"
+    },
+    {
+      "$id": 689,
+      "style": 15,
+      "name": "Turbine Cannon"
+    },
+    {
+      "$id": 690,
+      "style": 15,
+      "name": "Ceramic Cannon"
+    },
+    {
+      "$id": 691,
+      "style": 15,
+      "name": "Mechanized Cannon"
+    },
+    {
+      "$id": 692,
+      "style": 15,
+      "name": "Full Metal Cannon"
+    },
+    {
+      "$id": 693,
+      "style": 15,
+      "name": "Ancient Cannon"
+    },
+    {
+      "$id": 694,
+      "style": 15,
+      "name": "Elder Cannon"
+    },
+    {
+      "$id": 695,
+      "style": 15,
+      "name": "Arcanum Cannon"
+    },
+    {
+      "$id": 696,
+      "style": 15,
+      "name": "Legendary Cannon"
+    },
+    {
+      "$id": 697,
+      "style": 15,
+      "name": "Agarthan Cannon"
+    },
+    {
+      "$id": 698,
+      "style": 15,
+      "name": "Cannon of El Dorado"
+    },
+    {
+      "$id": 699,
+      "style": 15,
+      "name": "Cannon of Eden"
+    },
+    {
+      "$id": 700,
+      "style": 15,
+      "name": "Gordian Cannon"
+    },
+    {
+      "$id": 701,
+      "style": 15,
+      "name": "Adamant Cannon"
+    },
+    {
+      "$id": 702,
+      "style": 15,
+      "name": "Wootz Cannon"
+    },
+    {
+      "$id": 703,
+      "style": 15,
+      "name": "Silent Gunner"
+    },
+    {
+      "$id": 704,
+      "style": 15,
+      "name": "Orichalcum Cannon"
+    },
+    {
+      "$id": 705,
+      "style": 15,
+      "name": "Sigma Cannon"
+    },
+    {
+      "$id": 706,
+      "style": 15,
+      "name": "Delta Cannon"
+    },
+    {
+      "$id": 707,
+      "style": 15,
+      "name": "The Longstone"
+    },
+    {
+      "$id": 708,
+      "style": 15,
+      "name": "Cannon of Babel"
+    },
+    {
+      "$id": 709,
+      "style": 15,
+      "name": "Cannon of Despair"
+    },
+    {
+      "$id": 710,
+      "style": 15,
+      "name": "Cannon of Chaos"
+    },
+    {
+      "$id": 711,
+      "style": 15,
+      "name": "Spectral Cannon"
+    },
+    {
+      "$id": 712,
+      "style": 15,
+      "name": "Cannon of Thanatos"
+    },
+    {
+      "$id": 713,
+      "style": 15,
+      "name": "Cannon of Banishing"
+    },
+    {
+      "$id": 714,
+      "style": 15,
+      "name": "The Ashen Horse"
+    },
+    {
+      "$id": 715,
+      "style": 15,
+      "name": "Cannon of Origin"
+    },
+    {
+      "$id": 716,
+      "style": 15,
+      "name": "Eternal Cannon"
+    },
+    {
+      "$id": 717,
+      "style": 15,
+      "name": "Final Cannon"
+    },
+    {
+      "$id": 718,
+      "style": 15,
+      "name": "Satellite Cannon"
+    },
+    {
+      "$id": 719,
+      "style": 15,
+      "name": "Meteorite Cannon"
+    },
+    {
+      "$id": 720,
+      "style": 15,
+      "name": "Regurgitator"
+    },
+    {
+      "$id": 721,
+      "style": 15,
+      "name": "Primitive Hammer"
+    },
+    {
+      "$id": 722,
+      "style": 15,
+      "name": "Plain Hammer"
+    },
+    {
+      "$id": 723,
+      "style": 15,
+      "name": "Flatform Hammer"
+    },
+    {
+      "$id": 724,
+      "style": 15,
+      "name": "Ornate Hammer"
+    },
+    {
+      "$id": 725,
+      "style": 15,
+      "name": "Breaker Hammer"
+    },
+    {
+      "$id": 726,
+      "style": 15,
+      "name": "Duelist's Hammer"
+    },
+    {
+      "$id": 727,
+      "style": 15,
+      "name": "Battle Hammer"
+    },
+    {
+      "$id": 728,
+      "style": 15,
+      "name": "Snare Hammer"
+    },
+    {
+      "$id": 729,
+      "style": 15,
+      "name": "Horn Hammer"
+    },
+    {
+      "$id": 730,
+      "style": 15,
+      "name": "Beastly Hammer"
+    },
+    {
+      "$id": 731,
+      "style": 15,
+      "name": "Raider's Hammer"
+    },
+    {
+      "$id": 732,
+      "style": 15,
+      "name": "Crushing Hammer"
+    },
+    {
+      "$id": 733,
+      "style": 15,
+      "name": "Druid's Hammer"
+    },
+    {
+      "$id": 734,
+      "style": 15,
+      "name": "Forest Hammer"
+    },
+    {
+      "$id": 735,
+      "style": 15,
+      "name": "Highland Hammer"
+    },
+    {
+      "$id": 736,
+      "style": 15,
+      "name": "Gaia Hammer"
+    },
+    {
+      "$id": 737,
+      "style": 15,
+      "name": "Knight's Hammer"
+    },
+    {
+      "$id": 738,
+      "style": 15,
+      "name": "Guardian's Hammer"
+    },
+    {
+      "$id": 739,
+      "style": 15,
+      "name": "Concert Hammer"
+    },
+    {
+      "$id": 740,
+      "style": 15,
+      "name": "Valkyrie's Hammer"
+    },
+    {
+      "$id": 741,
+      "style": 15,
+      "name": "Paladin's Hammer"
+    },
+    {
+      "$id": 742,
+      "style": 15,
+      "name": "Holy Hammer"
+    },
+    {
+      "$id": 743,
+      "style": 15,
+      "name": "Hammer of Valor"
+    },
+    {
+      "$id": 744,
+      "style": 15,
+      "name": "The Maestro"
+    },
+    {
+      "$id": 745,
+      "style": 15,
+      "name": "Custom Hammer"
+    },
+    {
+      "$id": 746,
+      "style": 15,
+      "name": "Clockwork Hammer"
+    },
+    {
+      "$id": 747,
+      "style": 15,
+      "name": "Sonic Hammer"
+    },
+    {
+      "$id": 748,
+      "style": 15,
+      "name": "Accelerator Hammer"
+    },
+    {
+      "$id": 749,
+      "style": 15,
+      "name": "Turbine Hammer"
+    },
+    {
+      "$id": 750,
+      "style": 15,
+      "name": "Ceramic Hammer"
+    },
+    {
+      "$id": 751,
+      "style": 15,
+      "name": "Mechanized Hammer"
+    },
+    {
+      "$id": 752,
+      "style": 15,
+      "name": "The Flattener"
+    },
+    {
+      "$id": 753,
+      "style": 15,
+      "name": "Ancient Hammer"
+    },
+    {
+      "$id": 754,
+      "style": 15,
+      "name": "Elder Hammer"
+    },
+    {
+      "$id": 755,
+      "style": 15,
+      "name": "Faultless"
+    },
+    {
+      "$id": 756,
+      "style": 15,
+      "name": "Legendary Hammer"
+    },
+    {
+      "$id": 757,
+      "style": 15,
+      "name": "Agarthan Hammer"
+    },
+    {
+      "$id": 758,
+      "style": 15,
+      "name": "Hammer of El Dorado"
+    },
+    {
+      "$id": 759,
+      "style": 15,
+      "name": "Hammer of Eden"
+    },
+    {
+      "$id": 760,
+      "style": 15,
+      "name": "Nautilus Hammer"
+    },
+    {
+      "$id": 761,
+      "style": 15,
+      "name": "Adamant Hammer"
+    },
+    {
+      "$id": 762,
+      "style": 15,
+      "name": "Wootz Hammer"
+    },
+    {
+      "$id": 763,
+      "style": 15,
+      "name": "Infallible"
+    },
+    {
+      "$id": 764,
+      "style": 15,
+      "name": "Orichalcum Hammer"
+    },
+    {
+      "$id": 765,
+      "style": 15,
+      "name": "Sigma Hammer"
+    },
+    {
+      "$id": 766,
+      "style": 15,
+      "name": "Delta Hammer"
+    },
+    {
+      "$id": 767,
+      "style": 15,
+      "name": "Growler Half-Full"
+    },
+    {
+      "$id": 768,
+      "style": 15,
+      "name": "Traitor to the Cause"
+    },
+    {
+      "$id": 769,
+      "style": 15,
+      "name": "Hammer of Despair"
+    },
+    {
+      "$id": 770,
+      "style": 15,
+      "name": "Hammer of Chaos"
+    },
+    {
+      "$id": 771,
+      "style": 15,
+      "name": "Demon's Hoof"
+    },
+    {
+      "$id": 772,
+      "style": 15,
+      "name": "Hammer of Thanatos"
+    },
+    {
+      "$id": 773,
+      "style": 15,
+      "name": "Hammer of Banishing"
+    },
+    {
+      "$id": 774,
+      "style": 15,
+      "name": "The Lidless Eye"
+    },
+    {
+      "$id": 775,
+      "style": 15,
+      "name": "Hammer of Origin"
+    },
+    {
+      "$id": 776,
+      "style": 15,
+      "name": "Eternal Hammer"
+    },
+    {
+      "$id": 777,
+      "style": 15,
+      "name": "Final Hammer"
+    },
+    {
+      "$id": 778,
+      "style": 15,
+      "name": "Satellite Hammer"
+    },
+    {
+      "$id": 779,
+      "style": 15,
+      "name": "Meteorite Hammer"
+    },
+    {
+      "$id": 780,
+      "style": 15,
+      "name": "Graviton Smasher"
+    },
+    {
+      "$id": 781,
+      "style": 15,
+      "name": "Nameless Katana"
+    },
+    {
+      "$id": 782,
+      "style": 15,
+      "name": "Eastern Tachi"
+    },
+    {
+      "$id": 783,
+      "style": 15,
+      "name": "Vagrant Tachi"
+    },
+    {
+      "$id": 784,
+      "style": 15,
+      "name": "Katana of Plenty"
+    },
+    {
+      "$id": 785,
+      "style": 15,
+      "name": "Breaker Tachi"
+    },
+    {
+      "$id": 786,
+      "style": 15,
+      "name": "Duelist's Tachi"
+    },
+    {
+      "$id": 787,
+      "style": 15,
+      "name": "War Tachi"
+    },
+    {
+      "$id": 788,
+      "style": 15,
+      "name": "Plunder Katana"
+    },
+    {
+      "$id": 789,
+      "style": 15,
+      "name": "Wildflower Tachi"
+    },
+    {
+      "$id": 790,
+      "style": 15,
+      "name": "Meadow Katana"
+    },
+    {
+      "$id": 791,
+      "style": 15,
+      "name": "Herbalist's Katana"
+    },
+    {
+      "$id": 792,
+      "style": 15,
+      "name": "Katana of Springtime"
+    },
+    {
+      "$id": 793,
+      "style": 15,
+      "name": "Shadeleaf Tachi"
+    },
+    {
+      "$id": 794,
+      "style": 15,
+      "name": "Budding Katana"
+    },
+    {
+      "$id": 795,
+      "style": 15,
+      "name": "Greenbough Tachi"
+    },
+    {
+      "$id": 796,
+      "style": 15,
+      "name": "Aesthete's Katana"
+    },
+    {
+      "$id": 797,
+      "style": 15,
+      "name": "Warrior's Tachi"
+    },
+    {
+      "$id": 798,
+      "style": 15,
+      "name": "Yojimbo"
+    },
+    {
+      "$id": 799,
+      "style": 15,
+      "name": "Fencer's Tachi"
+    },
+    {
+      "$id": 800,
+      "style": 15,
+      "name": "Flowing Tachi"
+    },
+    {
+      "$id": 801,
+      "style": 15,
+      "name": "Flagbearer's Tachi"
+    },
+    {
+      "$id": 802,
+      "style": 15,
+      "name": "Lifeline Katana"
+    },
+    {
+      "$id": 803,
+      "style": 15,
+      "name": "Brave Katana"
+    },
+    {
+      "$id": 804,
+      "style": 15,
+      "name": "Clearglass Katana"
+    },
+    {
+      "$id": 805,
+      "style": 15,
+      "name": "Trick Katana"
+    },
+    {
+      "$id": 806,
+      "style": 15,
+      "name": "Blackiron Tachi"
+    },
+    {
+      "$id": 807,
+      "style": 15,
+      "name": "Eightfold Tachi"
+    },
+    {
+      "$id": 808,
+      "style": 15,
+      "name": "Armored Tachi"
+    },
+    {
+      "$id": 809,
+      "style": 15,
+      "name": "Mechatronic Tachi"
+    },
+    {
+      "$id": 810,
+      "style": 15,
+      "name": "Steamdrive Tachi"
+    },
+    {
+      "$id": 811,
+      "style": 15,
+      "name": "Galvanic Katana"
+    },
+    {
+      "$id": 812,
+      "style": 15,
+      "name": "Deus Ex Tachi"
+    },
+    {
+      "$id": 813,
+      "style": 15,
+      "name": "Antique Tachi"
+    },
+    {
+      "$id": 814,
+      "style": 15,
+      "name": "Eternal Tachi"
+    },
+    {
+      "$id": 815,
+      "style": 15,
+      "name": "Mysterious Tachi"
+    },
+    {
+      "$id": 816,
+      "style": 15,
+      "name": "Legendary Tachi"
+    },
+    {
+      "$id": 817,
+      "style": 15,
+      "name": "Tectonic Katana"
+    },
+    {
+      "$id": 818,
+      "style": 15,
+      "name": "24-Carat Tachi"
+    },
+    {
+      "$id": 819,
+      "style": 15,
+      "name": "Neverdull Tachi"
+    },
+    {
+      "$id": 820,
+      "style": 15,
+      "name": "Illusive Tachi"
+    },
+    {
+      "$id": 821,
+      "style": 15,
+      "name": "Tempered Katana"
+    },
+    {
+      "$id": 822,
+      "style": 15,
+      "name": "Darksilver Tachi"
+    },
+    {
+      "$id": 823,
+      "style": 15,
+      "name": "Rippling Tachi"
+    },
+    {
+      "$id": 824,
+      "style": 15,
+      "name": "Unbreakable Katana"
+    },
+    {
+      "$id": 825,
+      "style": 15,
+      "name": "Zero Tachi"
+    },
+    {
+      "$id": 826,
+      "style": 15,
+      "name": "Zetsu"
+    },
+    {
+      "$id": 827,
+      "style": 15,
+      "name": "Dimensional Katana"
+    },
+    {
+      "$id": 828,
+      "style": 15,
+      "name": "The Empty Sky"
+    },
+    {
+      "$id": 829,
+      "style": 15,
+      "name": "Katana of Lost Hopes"
+    },
+    {
+      "$id": 830,
+      "style": 15,
+      "name": "Katana of Chaos"
+    },
+    {
+      "$id": 831,
+      "style": 15,
+      "name": "Katana of Demise"
+    },
+    {
+      "$id": 832,
+      "style": 15,
+      "name": "Katana of Slaughter"
+    },
+    {
+      "$id": 833,
+      "style": 15,
+      "name": "Exorcist's Katana"
+    },
+    {
+      "$id": 834,
+      "style": 15,
+      "name": "Wisdom's Cradle"
+    },
+    {
+      "$id": 835,
+      "style": 15,
+      "name": "Original Tachi"
+    },
+    {
+      "$id": 836,
+      "style": 15,
+      "name": "Tachi of Forever"
+    },
+    {
+      "$id": 837,
+      "style": 15,
+      "name": "All That Is"
+    },
+    {
+      "$id": 838,
+      "style": 15,
+      "name": "Celestial Tachi"
+    },
+    {
+      "$id": 839,
+      "style": 15,
+      "name": "Shooting Star Katana"
+    },
+    {
+      "$id": 840,
+      "style": 15,
+      "name": "Andromeda"
+    },
+    {
+      "$id": 841,
+      "style": 15,
+      "name": "Primitive Ball"
+    },
+    {
+      "$id": 842,
+      "style": 15,
+      "name": "Plain Ball"
+    },
+    {
+      "$id": 843,
+      "style": 15,
+      "name": "Flatform Ball"
+    },
+    {
+      "$id": 844,
+      "style": 15,
+      "name": "Ornate Ball"
+    },
+    {
+      "$id": 845,
+      "style": 15,
+      "name": "Breaker Ball"
+    },
+    {
+      "$id": 846,
+      "style": 15,
+      "name": "Duelist's Ball"
+    },
+    {
+      "$id": 847,
+      "style": 15,
+      "name": "Battle Ball"
+    },
+    {
+      "$id": 848,
+      "style": 15,
+      "name": "Snare Ball"
+    },
+    {
+      "$id": 849,
+      "style": 15,
+      "name": "Wooden Ball"
+    },
+    {
+      "$id": 850,
+      "style": 15,
+      "name": "Maple Ball"
+    },
+    {
+      "$id": 851,
+      "style": 15,
+      "name": "Birch Ball"
+    },
+    {
+      "$id": 852,
+      "style": 15,
+      "name": "Pine Ball"
+    },
+    {
+      "$id": 853,
+      "style": 15,
+      "name": "Linden Ball"
+    },
+    {
+      "$id": 854,
+      "style": 15,
+      "name": "Camellia Ball"
+    },
+    {
+      "$id": 855,
+      "style": 15,
+      "name": "Magnolia Ball"
+    },
+    {
+      "$id": 856,
+      "style": 15,
+      "name": "Ivy Ball"
+    },
+    {
+      "$id": 857,
+      "style": 15,
+      "name": "Knight's Ball"
+    },
+    {
+      "$id": 858,
+      "style": 15,
+      "name": "Guardian's Ball"
+    },
+    {
+      "$id": 859,
+      "style": 15,
+      "name": "Chancy Ball"
+    },
+    {
+      "$id": 860,
+      "style": 15,
+      "name": "Valkyrie's Ball"
+    },
+    {
+      "$id": 861,
+      "style": 15,
+      "name": "Paladin's Ball"
+    },
+    {
+      "$id": 862,
+      "style": 15,
+      "name": "Holy Ball"
+    },
+    {
+      "$id": 863,
+      "style": 15,
+      "name": "Ball of Valor"
+    },
+    {
+      "$id": 864,
+      "style": 15,
+      "name": "Homing Ball"
+    },
+    {
+      "$id": 865,
+      "style": 15,
+      "name": "Custom Ball"
+    },
+    {
+      "$id": 866,
+      "style": 15,
+      "name": "Clockwork Ball"
+    },
+    {
+      "$id": 867,
+      "style": 15,
+      "name": "Stealth Ball"
+    },
+    {
+      "$id": 868,
+      "style": 15,
+      "name": "Accelerator Ball"
+    },
+    {
+      "$id": 869,
+      "style": 15,
+      "name": "Turbine Ball"
+    },
+    {
+      "$id": 870,
+      "style": 15,
+      "name": "Ceramic Ball"
+    },
+    {
+      "$id": 871,
+      "style": 15,
+      "name": "Mechanized Ball"
+    },
+    {
+      "$id": 872,
+      "style": 15,
+      "name": "Advanced Ball"
+    },
+    {
+      "$id": 873,
+      "style": 15,
+      "name": "Ancient Ball"
+    },
+    {
+      "$id": 874,
+      "style": 15,
+      "name": "Elder Ball"
+    },
+    {
+      "$id": 875,
+      "style": 15,
+      "name": "Spirit Ball"
+    },
+    {
+      "$id": 876,
+      "style": 15,
+      "name": "Legendary Ball"
+    },
+    {
+      "$id": 877,
+      "style": 15,
+      "name": "Agarthan Ball"
+    },
+    {
+      "$id": 878,
+      "style": 15,
+      "name": "Ball of El Dorado"
+    },
+    {
+      "$id": 879,
+      "style": 15,
+      "name": "Ball of Eden"
+    },
+    {
+      "$id": 880,
+      "style": 15,
+      "name": "Jewel of Yore"
+    },
+    {
+      "$id": 881,
+      "style": 15,
+      "name": "Adamant Ball"
+    },
+    {
+      "$id": 882,
+      "style": 15,
+      "name": "Wootz Ball"
+    },
+    {
+      "$id": 883,
+      "style": 15,
+      "name": "The Peacemaker"
+    },
+    {
+      "$id": 884,
+      "style": 15,
+      "name": "Orichalcum Ball"
+    },
+    {
+      "$id": 885,
+      "style": 15,
+      "name": "Sigma Ball"
+    },
+    {
+      "$id": 886,
+      "style": 15,
+      "name": "Delta Ball"
+    },
+    {
+      "$id": 887,
+      "style": 15,
+      "name": "Cypher"
+    },
+    {
+      "$id": 888,
+      "style": 15,
+      "name": "Omega Ball"
+    },
+    {
+      "$id": 889,
+      "style": 15,
+      "name": "Ball of Despair"
+    },
+    {
+      "$id": 890,
+      "style": 15,
+      "name": "Ball of Chaos"
+    },
+    {
+      "$id": 891,
+      "style": 15,
+      "name": "Public Enemy No. 1"
+    },
+    {
+      "$id": 892,
+      "style": 15,
+      "name": "Ball of Thanatos"
+    },
+    {
+      "$id": 893,
+      "style": 15,
+      "name": "Ball of Banishing"
+    },
+    {
+      "$id": 894,
+      "style": 15,
+      "name": "Morningstar Ascending"
+    },
+    {
+      "$id": 895,
+      "style": 15,
+      "name": "Ball of Origin"
+    },
+    {
+      "$id": 896,
+      "style": 15,
+      "name": "Eternal Ball"
+    },
+    {
+      "$id": 897,
+      "style": 15,
+      "name": "Final Ball"
+    },
+    {
+      "$id": 898,
+      "style": 15,
+      "name": "Satellite Ball"
+    },
+    {
+      "$id": 899,
+      "style": 15,
+      "name": "Meteorite Ball"
+    },
+    {
+      "$id": 900,
+      "style": 15,
+      "name": "Eclipse of Reason"
+    },
+    {
+      "$id": 901,
+      "style": 15,
+      "name": "Primitive Knuckles"
+    },
+    {
+      "$id": 902,
+      "style": 15,
+      "name": "Plain Knuckles"
+    },
+    {
+      "$id": 903,
+      "style": 15,
+      "name": "Flatform Knuckles"
+    },
+    {
+      "$id": 904,
+      "style": 15,
+      "name": "Ornate Knuckles"
+    },
+    {
+      "$id": 905,
+      "style": 15,
+      "name": "Breaker Knuckles"
+    },
+    {
+      "$id": 906,
+      "style": 15,
+      "name": "Duelist's Knuckles"
+    },
+    {
+      "$id": 907,
+      "style": 15,
+      "name": "Battle Knuckles"
+    },
+    {
+      "$id": 908,
+      "style": 15,
+      "name": "Snare Knuckles"
+    },
+    {
+      "$id": 909,
+      "style": 15,
+      "name": "Knuckles of the Crow"
+    },
+    {
+      "$id": 910,
+      "style": 15,
+      "name": "Peak Knuckles"
+    },
+    {
+      "$id": 911,
+      "style": 15,
+      "name": "Crested Knuckles"
+    },
+    {
+      "$id": 912,
+      "style": 15,
+      "name": "Divine Beast Knuckles"
+    },
+    {
+      "$id": 913,
+      "style": 15,
+      "name": "Raider's Knuckles"
+    },
+    {
+      "$id": 914,
+      "style": 15,
+      "name": "Jawbone Knuckles"
+    },
+    {
+      "$id": 915,
+      "style": 15,
+      "name": "Bear Knuckles"
+    },
+    {
+      "$id": 916,
+      "style": 15,
+      "name": "Chimaera Knuckles"
+    },
+    {
+      "$id": 917,
+      "style": 15,
+      "name": "Knight's Knuckles"
+    },
+    {
+      "$id": 918,
+      "style": 15,
+      "name": "Guardian's Knuckles"
+    },
+    {
+      "$id": 919,
+      "style": 15,
+      "name": "Face Punchers"
+    },
+    {
+      "$id": 920,
+      "style": 15,
+      "name": "Valkyrie's Knuckles"
+    },
+    {
+      "$id": 921,
+      "style": 15,
+      "name": "Paladin's Knuckles"
+    },
+    {
+      "$id": 922,
+      "style": 15,
+      "name": "Holy Knuckles"
+    },
+    {
+      "$id": 923,
+      "style": 15,
+      "name": "Knuckles of Valor"
+    },
+    {
+      "$id": 924,
+      "style": 15,
+      "name": "Kaiser Knuckles"
+    },
+    {
+      "$id": 925,
+      "style": 15,
+      "name": "Custom Knuckles"
+    },
+    {
+      "$id": 926,
+      "style": 15,
+      "name": "Clockwork Knuckles"
+    },
+    {
+      "$id": 927,
+      "style": 15,
+      "name": "Brawler Knuckles"
+    },
+    {
+      "$id": 928,
+      "style": 15,
+      "name": "Accelerator Knuckles"
+    },
+    {
+      "$id": 929,
+      "style": 15,
+      "name": "Turbine Knuckles"
+    },
+    {
+      "$id": 930,
+      "style": 15,
+      "name": "Ceramic Knuckles"
+    },
+    {
+      "$id": 931,
+      "style": 15,
+      "name": "Mechanized Knuckles"
+    },
+    {
+      "$id": 932,
+      "style": 15,
+      "name": "Thunderstrikers"
+    },
+    {
+      "$id": 933,
+      "style": 15,
+      "name": "Ancient Knuckles"
+    },
+    {
+      "$id": 934,
+      "style": 15,
+      "name": "Elder Knuckles"
+    },
+    {
+      "$id": 935,
+      "style": 15,
+      "name": "Mirage Knuckles"
+    },
+    {
+      "$id": 936,
+      "style": 15,
+      "name": "Legendary Knuckles"
+    },
+    {
+      "$id": 937,
+      "style": 15,
+      "name": "Agarthan Knuckles"
+    },
+    {
+      "$id": 938,
+      "style": 15,
+      "name": "Knuckles of El Dorado"
+    },
+    {
+      "$id": 939,
+      "style": 15,
+      "name": "Knuckles of Eden"
+    },
+    {
+      "$id": 940,
+      "style": 15,
+      "name": "Fists of the Advent"
+    },
+    {
+      "$id": 941,
+      "style": 15,
+      "name": "Adamant Knuckles"
+    },
+    {
+      "$id": 942,
+      "style": 15,
+      "name": "Wootz Knuckles"
+    },
+    {
+      "$id": 943,
+      "style": 15,
+      "name": "Fists of Healing"
+    },
+    {
+      "$id": 944,
+      "style": 15,
+      "name": "Orichalcum Knuckles"
+    },
+    {
+      "$id": 945,
+      "style": 15,
+      "name": "Sigma Knuckles"
+    },
+    {
+      "$id": 946,
+      "style": 15,
+      "name": "Delta Knuckles"
+    },
+    {
+      "$id": 947,
+      "style": 15,
+      "name": "Lambda Knuckles"
+    },
+    {
+      "$id": 948,
+      "style": 15,
+      "name": "Spirits of the Knife"
+    },
+    {
+      "$id": 949,
+      "style": 15,
+      "name": "Knuckles of Despair"
+    },
+    {
+      "$id": 950,
+      "style": 15,
+      "name": "Knuckles of Chaos"
+    },
+    {
+      "$id": 951,
+      "style": 15,
+      "name": "Hands of Ruin"
+    },
+    {
+      "$id": 952,
+      "style": 15,
+      "name": "Knuckles of Thanatos"
+    },
+    {
+      "$id": 953,
+      "style": 15,
+      "name": "Knuckles of Banishing"
+    },
+    {
+      "$id": 954,
+      "style": 15,
+      "name": "Sacrifice"
+    },
+    {
+      "$id": 955,
+      "style": 15,
+      "name": "Knuckles of Origin"
+    },
+    {
+      "$id": 956,
+      "style": 15,
+      "name": "Eternal Knuckles"
+    },
+    {
+      "$id": 957,
+      "style": 15,
+      "name": "Final Knuckles"
+    },
+    {
+      "$id": 958,
+      "style": 15,
+      "name": "Satellite Knuckles"
+    },
+    {
+      "$id": 959,
+      "style": 15,
+      "name": "Meteorite Knuckles"
+    },
+    {
+      "$id": 960,
+      "style": 15,
+      "name": "The First Principle"
+    },
+    {
+      "$id": 961,
+      "style": 15,
+      "name": "Junk Sword"
+    },
+    {
+      "$id": 962,
+      "style": 15,
+      "name": "Masamune"
+    },
+    {
+      "$id": 963,
+      "style": 15,
+      "name": "Thanatos"
+    },
+    {
+      "$id": 964,
+      "style": 15,
+      "name": "Aqua Scimitar"
+    },
+    {
+      "$id": 965,
+      "style": 15,
+      "name": "Basic Arms"
+    },
+    {
+      "$id": 966,
+      "style": 15,
+      "name": "Imperial Whips"
+    },
+    {
+      "$id": 967,
+      "style": 15,
+      "name": "Purple Lightning Edge"
+    },
+    {
+      "$id": 968,
+      "style": 15,
+      "name": "Storm Scythes"
+    },
+    {
+      "$id": 969,
+      "style": 15,
+      "name": "Tertiary Sword"
+    },
+    {
+      "$id": 970,
+      "style": 15,
+      "name": "Doomquills"
+    },
+    {
+      "$id": 971,
+      "style": 15,
+      "name": "Lance of Ages"
+    },
+    {
+      "$id": 972,
+      "style": 15,
+      "name": "Divine Consorts"
+    },
+    {
+      "$id": 973,
+      "style": 15,
+      "name": "Twin Mirage"
+    },
+    {
+      "$id": 974,
+      "style": 15,
+      "name": "Hearthaven"
+    },
+    {
+      "$id": 975,
+      "style": 15,
+      "name": "Royal Guard"
+    },
+    {
+      "$id": 976,
+      "style": 15,
+      "name": "Bringer of the Winds"
+    },
+    {
+      "$id": 977,
+      "style": 15,
+      "name": "Monado"
+    },
+    {
+      "$id": 978,
+      "style": 15,
+      "name": "Well-Used Blades"
+    },
+    {
+      "$id": 979,
+      "style": 15,
+      "name": "Archetype Ralzes"
+    },
+    {
+      "$id": 980,
+      "style": 15,
+      "name": "Halteclere"
+    },
+    {
+      "$id": 981,
+      "style": 15,
+      "name": "Nameless Nodachi"
+    },
+    {
+      "$id": 982,
+      "style": 15,
+      "name": "Eastern Nodachi"
+    },
+    {
+      "$id": 983,
+      "style": 15,
+      "name": "Vagrant Nodachi"
+    },
+    {
+      "$id": 984,
+      "style": 15,
+      "name": "Noble Nodachi"
+    },
+    {
+      "$id": 985,
+      "style": 15,
+      "name": "Nodachi of Ruin"
+    },
+    {
+      "$id": 986,
+      "style": 15,
+      "name": "Duelist's Nodachi"
+    },
+    {
+      "$id": 987,
+      "style": 15,
+      "name": "War Nodachi"
+    },
+    {
+      "$id": 988,
+      "style": 15,
+      "name": "Plunder Nodachi"
+    },
+    {
+      "$id": 989,
+      "style": 15,
+      "name": "Wildflower Nodachi"
+    },
+    {
+      "$id": 990,
+      "style": 15,
+      "name": "Meadow Nodachi"
+    },
+    {
+      "$id": 991,
+      "style": 15,
+      "name": "Herbalist's Nodachi"
+    },
+    {
+      "$id": 992,
+      "style": 15,
+      "name": "Cherrybloom Nodachi"
+    },
+    {
+      "$id": 993,
+      "style": 15,
+      "name": "Shadeleaf Nodachi"
+    },
+    {
+      "$id": 994,
+      "style": 15,
+      "name": "Budding Nodachi"
+    },
+    {
+      "$id": 995,
+      "style": 15,
+      "name": "Greenbough Nodachi"
+    },
+    {
+      "$id": 996,
+      "style": 15,
+      "name": "Scenic Nodachi"
+    },
+    {
+      "$id": 997,
+      "style": 15,
+      "name": "Soldier's Nodachi"
+    },
+    {
+      "$id": 998,
+      "style": 15,
+      "name": "Guard's Nodachi"
+    },
+    {
+      "$id": 999,
+      "style": 15,
+      "name": "Fencer's Nodachi"
+    },
+    {
+      "$id": 1000,
+      "style": 15,
+      "name": "Flowing Nodachi"
+    },
+    {
+      "$id": 1001,
+      "style": 15,
+      "name": "Flagbearer's Nodachi"
+    },
+    {
+      "$id": 1002,
+      "style": 15,
+      "name": "Undying Nodachi"
+    },
+    {
+      "$id": 1003,
+      "style": 15,
+      "name": "Brave Nodachi"
+    },
+    {
+      "$id": 1004,
+      "style": 15,
+      "name": "Lapis Nodachi"
+    },
+    {
+      "$id": 1005,
+      "style": 15,
+      "name": "Trick Nodachi"
+    },
+    {
+      "$id": 1006,
+      "style": 15,
+      "name": "Jet-Black Nodachi"
+    },
+    {
+      "$id": 1007,
+      "style": 15,
+      "name": "Eightfold Nodachi"
+    },
+    {
+      "$id": 1008,
+      "style": 15,
+      "name": "Armored Nodachi"
+    },
+    {
+      "$id": 1009,
+      "style": 15,
+      "name": "Cogwheel Nodachi"
+    },
+    {
+      "$id": 1010,
+      "style": 15,
+      "name": "Mechanical Nodachi"
+    },
+    {
+      "$id": 1011,
+      "style": 15,
+      "name": "Galvanized Nodachi"
+    },
+    {
+      "$id": 1012,
+      "style": 15,
+      "name": "Deus Ex Nodachi"
+    },
+    {
+      "$id": 1013,
+      "style": 15,
+      "name": "Unchanging Nodachi"
+    },
+    {
+      "$id": 1014,
+      "style": 15,
+      "name": "Eternal Nodachi"
+    },
+    {
+      "$id": 1015,
+      "style": 15,
+      "name": "Mysterious Nodachi"
+    },
+    {
+      "$id": 1016,
+      "style": 15,
+      "name": "Legendary Nodachi"
+    },
+    {
+      "$id": 1017,
+      "style": 15,
+      "name": "Landmass Nodachi"
+    },
+    {
+      "$id": 1018,
+      "style": 15,
+      "name": "24-Carat Nodachi"
+    },
+    {
+      "$id": 1019,
+      "style": 15,
+      "name": "Neverdull Nodachi"
+    },
+    {
+      "$id": 1020,
+      "style": 15,
+      "name": "Illusive Nodachi"
+    },
+    {
+      "$id": 1021,
+      "style": 15,
+      "name": "Tempered Nodachi"
+    },
+    {
+      "$id": 1022,
+      "style": 15,
+      "name": "Darksilver Nodachi"
+    },
+    {
+      "$id": 1023,
+      "style": 15,
+      "name": "Rippling Nodachi"
+    },
+    {
+      "$id": 1024,
+      "style": 15,
+      "name": "Unbreakable Nodachi"
+    },
+    {
+      "$id": 1025,
+      "style": 15,
+      "name": "Zero Nodachi"
+    },
+    {
+      "$id": 1026,
+      "style": 15,
+      "name": "Rupture"
+    },
+    {
+      "$id": 1027,
+      "style": 15,
+      "name": "Eschaton"
+    },
+    {
+      "$id": 1028,
+      "style": 15,
+      "name": "The Void"
+    },
+    {
+      "$id": 1029,
+      "style": 15,
+      "name": "Nodachi of Lost Hopes"
+    },
+    {
+      "$id": 1030,
+      "style": 15,
+      "name": "Nodachi of Chaos"
+    },
+    {
+      "$id": 1031,
+      "style": 15,
+      "name": "Nodachi of Demise"
+    },
+    {
+      "$id": 1032,
+      "style": 15,
+      "name": "Ogre's Nodachi"
+    },
+    {
+      "$id": 1033,
+      "style": 15,
+      "name": "Exorcist's Nodachi"
+    },
+    {
+      "$id": 1034,
+      "style": 15,
+      "name": "Devouring Nodachi"
+    },
+    {
+      "$id": 1035,
+      "style": 15,
+      "name": "Original Nodachi"
+    },
+    {
+      "$id": 1036,
+      "style": 15,
+      "name": "Nodachi of Forever"
+    },
+    {
+      "$id": 1037,
+      "style": 15,
+      "name": "All That Was"
+    },
+    {
+      "$id": 1038,
+      "style": 15,
+      "name": "Celestial Nodachi"
+    },
+    {
+      "$id": 1039,
+      "style": 15,
+      "name": "Shooting Star Nodachi"
+    },
+    {
+      "$id": 1040,
+      "style": 15,
+      "name": "Peerless"
+    },
+    {
+      "$id": 1041,
+      "style": 15,
+      "name": "Nameless Crosier"
+    },
+    {
+      "$id": 1042,
+      "style": 15,
+      "name": "Eastern Crosier"
+    },
+    {
+      "$id": 1043,
+      "style": 15,
+      "name": "Vagrant Crosier"
+    },
+    {
+      "$id": 1044,
+      "style": 15,
+      "name": "Opulent Crosier"
+    },
+    {
+      "$id": 1045,
+      "style": 15,
+      "name": "Crosier of Ruin"
+    },
+    {
+      "$id": 1046,
+      "style": 15,
+      "name": "Duelist's Crosier"
+    },
+    {
+      "$id": 1047,
+      "style": 15,
+      "name": "War Crosier"
+    },
+    {
+      "$id": 1048,
+      "style": 15,
+      "name": "Plunder Crosier"
+    },
+    {
+      "$id": 1049,
+      "style": 15,
+      "name": "Wildflower Crosier"
+    },
+    {
+      "$id": 1050,
+      "style": 15,
+      "name": "Meadow Crosier"
+    },
+    {
+      "$id": 1051,
+      "style": 15,
+      "name": "Herbalist's Crosier"
+    },
+    {
+      "$id": 1052,
+      "style": 15,
+      "name": "Snow-White Moon"
+    },
+    {
+      "$id": 1053,
+      "style": 15,
+      "name": "Shadeleaf Crosier"
+    },
+    {
+      "$id": 1054,
+      "style": 15,
+      "name": "Budding Crosier"
+    },
+    {
+      "$id": 1055,
+      "style": 15,
+      "name": "Greenbough Crosier"
+    },
+    {
+      "$id": 1056,
+      "style": 15,
+      "name": "Crosier of Myriad Hues"
+    },
+    {
+      "$id": 1057,
+      "style": 15,
+      "name": "Warrior's Crosier"
+    },
+    {
+      "$id": 1058,
+      "style": 15,
+      "name": "Defensive Crosier"
+    },
+    {
+      "$id": 1059,
+      "style": 15,
+      "name": "Gatekeeper's Crosier"
+    },
+    {
+      "$id": 1060,
+      "style": 15,
+      "name": "Flowing Crosier"
+    },
+    {
+      "$id": 1061,
+      "style": 15,
+      "name": "Flagbearer's Crosier"
+    },
+    {
+      "$id": 1062,
+      "style": 15,
+      "name": "Lifeline Crosier"
+    },
+    {
+      "$id": 1063,
+      "style": 15,
+      "name": "Brave Crosier"
+    },
+    {
+      "$id": 1064,
+      "style": 15,
+      "name": "Daybreak Crosier"
+    },
+    {
+      "$id": 1065,
+      "style": 15,
+      "name": "Trick Crosier"
+    },
+    {
+      "$id": 1066,
+      "style": 15,
+      "name": "Blackiron Crosier"
+    },
+    {
+      "$id": 1067,
+      "style": 15,
+      "name": "Eightfold Crosier"
+    },
+    {
+      "$id": 1068,
+      "style": 15,
+      "name": "Armored Crosier"
+    },
+    {
+      "$id": 1069,
+      "style": 15,
+      "name": "Cogwheel Crosier"
+    },
+    {
+      "$id": 1070,
+      "style": 15,
+      "name": "Mechanical Crosier"
+    },
+    {
+      "$id": 1071,
+      "style": 15,
+      "name": "Galvanized Crosier"
+    },
+    {
+      "$id": 1072,
+      "style": 15,
+      "name": "Deus Ex Crosier"
+    },
+    {
+      "$id": 1073,
+      "style": 15,
+      "name": "Antique Crosier"
+    },
+    {
+      "$id": 1074,
+      "style": 15,
+      "name": "Eternal Crosier"
+    },
+    {
+      "$id": 1075,
+      "style": 15,
+      "name": "Mysterious Crosier"
+    },
+    {
+      "$id": 1076,
+      "style": 15,
+      "name": "Legendary Crosier"
+    },
+    {
+      "$id": 1077,
+      "style": 15,
+      "name": "Landmass Crosier"
+    },
+    {
+      "$id": 1078,
+      "style": 15,
+      "name": "24-Carat Crosier"
+    },
+    {
+      "$id": 1079,
+      "style": 15,
+      "name": "Neverdull Crosier"
+    },
+    {
+      "$id": 1080,
+      "style": 15,
+      "name": "Illusive Crosier"
+    },
+    {
+      "$id": 1081,
+      "style": 15,
+      "name": "Tempered Crosier"
+    },
+    {
+      "$id": 1082,
+      "style": 15,
+      "name": "Darksilver Crosier"
+    },
+    {
+      "$id": 1083,
+      "style": 15,
+      "name": "Rippling Crosier"
+    },
+    {
+      "$id": 1084,
+      "style": 15,
+      "name": "Unbreakable Crosier"
+    },
+    {
+      "$id": 1085,
+      "style": 15,
+      "name": "Zero Crosier"
+    },
+    {
+      "$id": 1086,
+      "style": 15,
+      "name": "Crosier of Decay"
+    },
+    {
+      "$id": 1087,
+      "style": 15,
+      "name": "Dimensional Crosier"
+    },
+    {
+      "$id": 1088,
+      "style": 15,
+      "name": "Heaven's Dome"
+    },
+    {
+      "$id": 1089,
+      "style": 15,
+      "name": "Crosier of Lost Hopes"
+    },
+    {
+      "$id": 1090,
+      "style": 15,
+      "name": "Crosier of Chaos"
+    },
+    {
+      "$id": 1091,
+      "style": 15,
+      "name": "Crosier of Demise"
+    },
+    {
+      "$id": 1092,
+      "style": 15,
+      "name": "Crosier of Dusking"
+    },
+    {
+      "$id": 1093,
+      "style": 15,
+      "name": "Exorcist's Crosier"
+    },
+    {
+      "$id": 1094,
+      "style": 15,
+      "name": "Enlightened Crosier"
+    },
+    {
+      "$id": 1095,
+      "style": 15,
+      "name": "Original Crosier"
+    },
+    {
+      "$id": 1096,
+      "style": 15,
+      "name": "Crosier of Forever"
+    },
+    {
+      "$id": 1097,
+      "style": 15,
+      "name": "All That Will Be"
+    },
+    {
+      "$id": 1098,
+      "style": 15,
+      "name": "Celestial Crosier"
+    },
+    {
+      "$id": 1099,
+      "style": 15,
+      "name": "Shooting Star Crosier"
+    },
+    {
+      "$id": 1100,
+      "style": 15,
+      "name": "Light Everlasting"
+    },
+    {
+      "$id": 1101,
+      "style": 15,
+      "name": "Primitive Gunknives"
+    },
+    {
+      "$id": 1102,
+      "style": 15,
+      "name": "Plain Gunknives"
+    },
+    {
+      "$id": 1103,
+      "style": 15,
+      "name": "Flatform Gunknives"
+    },
+    {
+      "$id": 1104,
+      "style": 15,
+      "name": "Ornate Gunknives"
+    },
+    {
+      "$id": 1105,
+      "style": 15,
+      "name": "Breaker Gunknives"
+    },
+    {
+      "$id": 1106,
+      "style": 15,
+      "name": "Duelist's Gunknives"
+    },
+    {
+      "$id": 1107,
+      "style": 15,
+      "name": "Battle Gunknives"
+    },
+    {
+      "$id": 1108,
+      "style": 15,
+      "name": "Snare Gunknives"
+    },
+    {
+      "$id": 1109,
+      "style": 15,
+      "name": "Bone Gunknives"
+    },
+    {
+      "$id": 1110,
+      "style": 15,
+      "name": "Raw Gunknives"
+    },
+    {
+      "$id": 1111,
+      "style": 15,
+      "name": "Unmuffled Gunknives"
+    },
+    {
+      "$id": 1112,
+      "style": 15,
+      "name": "Skull Gunknives"
+    },
+    {
+      "$id": 1113,
+      "style": 15,
+      "name": "Hungry Gunknives"
+    },
+    {
+      "$id": 1114,
+      "style": 15,
+      "name": "Monstrous Gunknives"
+    },
+    {
+      "$id": 1115,
+      "style": 15,
+      "name": "Brutal Gunknives"
+    },
+    {
+      "$id": 1116,
+      "style": 15,
+      "name": "Voracious Gunknives"
+    },
+    {
+      "$id": 1117,
+      "style": 15,
+      "name": "Knight's Gunknives"
+    },
+    {
+      "$id": 1118,
+      "style": 15,
+      "name": "Guardian's Gunknives"
+    },
+    {
+      "$id": 1119,
+      "style": 15,
+      "name": "Accurate Gunknives"
+    },
+    {
+      "$id": 1120,
+      "style": 15,
+      "name": "Valkyrie's Gunknives"
+    },
+    {
+      "$id": 1121,
+      "style": 15,
+      "name": "Paladin's Gunknives"
+    },
+    {
+      "$id": 1122,
+      "style": 15,
+      "name": "Holy Gunknives"
+    },
+    {
+      "$id": 1123,
+      "style": 15,
+      "name": "Gunknives of Valor"
+    },
+    {
+      "$id": 1124,
+      "style": 15,
+      "name": "Gambler's Gunknives"
+    },
+    {
+      "$id": 1125,
+      "style": 15,
+      "name": "Custom Gunknives"
+    },
+    {
+      "$id": 1126,
+      "style": 15,
+      "name": "Clockwork Gunknives"
+    },
+    {
+      "$id": 1127,
+      "style": 15,
+      "name": "Hawkeyes"
+    },
+    {
+      "$id": 1128,
+      "style": 15,
+      "name": "Accelerator Gunknives"
+    },
+    {
+      "$id": 1129,
+      "style": 15,
+      "name": "Turbine Gunknives"
+    },
+    {
+      "$id": 1130,
+      "style": 15,
+      "name": "Ceramic Gunknives"
+    },
+    {
+      "$id": 1131,
+      "style": 15,
+      "name": "Mechanized Gunknives"
+    },
+    {
+      "$id": 1132,
+      "style": 15,
+      "name": "Full-Metal Gunknives"
+    },
+    {
+      "$id": 1133,
+      "style": 15,
+      "name": "Ancient Gunknives"
+    },
+    {
+      "$id": 1134,
+      "style": 15,
+      "name": "Elder Gunknives"
+    },
+    {
+      "$id": 1135,
+      "style": 15,
+      "name": "Arcane Gunknives"
+    },
+    {
+      "$id": 1136,
+      "style": 15,
+      "name": "Legendary Gunknives"
+    },
+    {
+      "$id": 1137,
+      "style": 15,
+      "name": "Agarthan Gunknives"
+    },
+    {
+      "$id": 1138,
+      "style": 15,
+      "name": "Gunknives of El Dorado"
+    },
+    {
+      "$id": 1139,
+      "style": 15,
+      "name": "Gunknives of Eden"
+    },
+    {
+      "$id": 1140,
+      "style": 15,
+      "name": "Gordian Gunknives"
+    },
+    {
+      "$id": 1141,
+      "style": 15,
+      "name": "Adamant Gunknives"
+    },
+    {
+      "$id": 1142,
+      "style": 15,
+      "name": "Wootz Gunknives"
+    },
+    {
+      "$id": 1143,
+      "style": 15,
+      "name": "Silenced Gunknives"
+    },
+    {
+      "$id": 1144,
+      "style": 15,
+      "name": "Orichalcum Gunknives"
+    },
+    {
+      "$id": 1145,
+      "style": 15,
+      "name": "Sigma Gunknives"
+    },
+    {
+      "$id": 1146,
+      "style": 15,
+      "name": "Delta Gunknives"
+    },
+    {
+      "$id": 1147,
+      "style": 15,
+      "name": "Tristán e Isolda"
+    },
+    {
+      "$id": 1148,
+      "style": 15,
+      "name": "Speakers in Tongues"
+    },
+    {
+      "$id": 1149,
+      "style": 15,
+      "name": "Gunknives of Despair"
+    },
+    {
+      "$id": 1150,
+      "style": 15,
+      "name": "Gunknives of Chaos"
+    },
+    {
+      "$id": 1151,
+      "style": 15,
+      "name": "Spectral Gunknives"
+    },
+    {
+      "$id": 1152,
+      "style": 15,
+      "name": "Gunknives of Thanatos"
+    },
+    {
+      "$id": 1153,
+      "style": 15,
+      "name": "Gunknives of Banishing"
+    },
+    {
+      "$id": 1154,
+      "style": 15,
+      "name": "The Nighthawks"
+    },
+    {
+      "$id": 1155,
+      "style": 15,
+      "name": "Gunknives of Origin"
+    },
+    {
+      "$id": 1156,
+      "style": 15,
+      "name": "Eternal Gunknives"
+    },
+    {
+      "$id": 1157,
+      "style": 15,
+      "name": "Final Gunknives"
+    },
+    {
+      "$id": 1158,
+      "style": 15,
+      "name": "Satellite Gunknives"
+    },
+    {
+      "$id": 1159,
+      "style": 15,
+      "name": "Meteorite Gunknives"
+    },
+    {
+      "$id": 1160,
+      "style": 15,
+      "name": "Event Horizon"
+    },
+    {
+      "$id": 1161,
+      "style": 15,
+      "name": "Battle Braid"
+    },
+    {
+      "$id": 1162,
+      "style": 15,
+      "name": "Greatsword"
+    },
+    {
+      "$id": 1163,
+      "style": 15,
+      "name": "Arming Sword"
+    }
+  ]
+}

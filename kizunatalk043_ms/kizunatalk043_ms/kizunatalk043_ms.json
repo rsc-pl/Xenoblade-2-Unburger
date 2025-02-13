@@ -1,0 +1,426 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk043_msg0001",
+      "style": 84,
+      "name": "Say, Rex. Do you truly believe\nthat Eden exists?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk043_msg0002",
+      "style": 84,
+      "name": "Do you even have to ask?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk043_msg0003",
+      "style": 84,
+      "name": "Don't you, Meleph? I don't understand\nwhy you'd even be here then!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk043_msg0004",
+      "style": 84,
+      "name": "No...that's not what I mean."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk043_msg0005",
+      "style": 84,
+      "name": "I just wanted to clarify how\neveryone truly feels."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk043_msg0006",
+      "style": 84,
+      "name": "After all, don't most people only\nknow of Eden from fairy tales?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk043_msg0007",
+      "style": 84,
+      "name": "Well, I guess so, but..."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk043_msg0008",
+      "style": 84,
+      "name": "Our chum here's seen the real deal\nin his dreams or whatever, right?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk043_msg0013",
+      "style": 84,
+      "name": "There were wide green fields and a\nwarm breeze, and a beautiful city\nlike nothing I've ever seen..."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk043_msg0014",
+      "style": 84,
+      "name": "Homura was standing on top of a hill\noverlooking it all."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk043_msg0015",
+      "style": 84,
+      "name": "I'm sure it must have been Eden.\nThere's no place like it in Alst."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk043_msg0009",
+      "style": 84,
+      "name": "The place you saw in your dream..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk043_msg0010",
+      "style": 84,
+      "name": "Is it prudent to believe in Eden\nbased on that information alone,\nI wonder?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk043_msg0012",
+      "style": 84,
+      "name": "Don't you trust me and Homura, Meleph?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk043_msg0201",
+      "style": 84,
+      "name": "Oh no, I trust you both."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk043_msg0202",
+      "style": 84,
+      "name": "But just because a place exists in\nyour dreams, does not necessarily\nmean it exists in reality."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk043_msg0203",
+      "style": 84,
+      "name": "Zeke, can you honestly say you have\nnever doubted Eden's existence\nin the slightest?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk043_msg0204",
+      "style": 84,
+      "name": "Well, I guess I have wondered from\ntime to time."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk043_msg0205",
+      "style": 84,
+      "name": "At the end of the day, the only way\nto be truly sure is to go there, right?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk043_msg0206",
+      "style": 84,
+      "name": "True enough."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk043_msg0207",
+      "style": 84,
+      "name": "As for now, Rex believes it's real,\nand that's enough for me."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk043_msg0208",
+      "style": 84,
+      "name": "Aww, Zeke!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk043_msg0209",
+      "style": 84,
+      "name": "I mean, sure, it's best for everyone\nif it does exist, but even if it doesn't,\ndoes that really change anything?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk043_msg0210",
+      "style": 84,
+      "name": "Our chum's on a mission to help\nHomura reach her dream."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk043_msg0211",
+      "style": 84,
+      "name": "Whatever the outcome, I want to\nsee that through to the end."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk043_msg0212",
+      "style": 84,
+      "name": "A mission..."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk043_msg0213",
+      "style": 84,
+      "name": "So what if there's no proof?\nChasing after dreams is what real\nmen are born to do!"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk043_msg0214",
+      "style": 84,
+      "name": "Very well. I appreciate your passion."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk043_msg0215",
+      "style": 84,
+      "name": "Though I'm not quite sure I understand\nyour notion of a \"real man\"."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk043_msg0216",
+      "style": 84,
+      "name": "Hey, no worries.\nYou'll figure it out eventually."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk043_msg0217",
+      "style": 84,
+      "name": "I mean, you're basically the\nmanliest one here!"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk043_msg0218",
+      "style": 84,
+      "name": "...Zeke. There are some things in this\nworld you don't joke about."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk043_msg0223",
+      "style": 84,
+      "name": "Even my temper has its limits."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk043_msg0219",
+      "style": 84,
+      "name": "Would you like me to teach you\na lesson you won't ever forget?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk043_msg0220",
+      "style": 84,
+      "name": "Uh, Meleph?\nYou're scaring me a little..."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk043_msg0221",
+      "style": 84,
+      "name": "Hold it, hold it!\nI was just joking around!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk043_msg0224",
+      "style": 84,
+      "name": "Hehehe..."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk043_msg0222",
+      "style": 84,
+      "name": "L-listen, nobody needs to\ndie here, OK? ...OK?!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk043_msg0301",
+      "style": 84,
+      "name": "Say, Rex. Do you really think that\nplace is Eden?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk043_msg0302",
+      "style": 84,
+      "name": "It's a tough sell, for sure. That barren\nwasteland is nothing like the paradise\nin the fairy tales..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk043_msg0303",
+      "style": 84,
+      "name": "To be honest, I'm not even sure myself."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk043_msg0304",
+      "style": 84,
+      "name": "The Eden I saw first was a warm\nplace, full of sunlight and greenery."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk043_msg0305",
+      "style": 84,
+      "name": "Do you think that Eden still\nexists somewhere else?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk043_msg0306",
+      "style": 84,
+      "name": "No... We definitely made it\nto the right place."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk043_msg0307",
+      "style": 84,
+      "name": "There was no greenery or sunlight,\nbut it was still the same place as\nthe Eden I saw."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk043_msg0308",
+      "style": 84,
+      "name": "Then what, you think the paradise\nEden was never anything more\nthan a dream?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk043_msg0309",
+      "style": 84,
+      "name": "I don't think we can say that for sure."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk043_msg0310",
+      "style": 84,
+      "name": "Perhaps what Rex saw was how\nEden truly was, long ago."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk043_msg0311",
+      "style": 84,
+      "name": "Long ago?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk043_msg0312",
+      "style": 84,
+      "name": "Yes. A vision of an older Eden, taken\nfrom within someone's memories."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk043_msg0313",
+      "style": 84,
+      "name": "So our chum here was dreaming\nabout...someone else's memories?"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk043_msg0314",
+      "style": 84,
+      "name": "That's pretty freaky stuff."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk043_msg0315",
+      "style": 84,
+      "name": "Yes, it's certainly far from an\nordinary phenomenon."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk043_msg0316",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk043_msg0317",
+      "style": 84,
+      "name": "If the passage of time could turn the\nEden I saw into...that..."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk043_msg0318",
+      "style": 84,
+      "name": "Maybe Alst could end up like that\ntoo someday."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk043_msg0319",
+      "style": 84,
+      "name": "Indeed. It is the same as the Iiran\nDivine Beast we saw in Mors. All things\ndeteriorate, over time."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk043_msg0320",
+      "style": 84,
+      "name": "But time isn't the threat right now.\nMetsu could turn Alst into a\nwasteland like that any time..."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk043_msg0321",
+      "style": 84,
+      "name": "True enough..."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk043_msg0322",
+      "style": 84,
+      "name": "And I daresay neither we humans\nnor even the Divine Beasts themselves\ncould survive in such a world."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk043_msg0323",
+      "style": 84,
+      "name": "That's why we have to stop him,\nno matter what!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk043_msg0324",
+      "style": 84,
+      "name": "That's the spirit I like to see, chum!"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk043_msg0325",
+      "style": 84,
+      "name": "I thought you might be depressed that\nEden wasn't all you'd hoped, but\nI guess I needn't have worried."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk043_msg0326",
+      "style": 84,
+      "name": "Rex is not so weak as to let\nsomething like this set him back."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk043_msg0327",
+      "style": 84,
+      "name": "His strength of will is what has\ncarried us all this far."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk043_msg0328",
+      "style": 84,
+      "name": "Wh-what's up with you two\nall of a sudden? There's no\npoint flattering me, you know!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk043_msg0329",
+      "style": 84,
+      "name": "Don't fret, chum. You just keep doing\nwhat you always do."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk043_msg0330",
+      "style": 84,
+      "name": "Yes...keep forging our path ahead.\nWe're counting on you."
+    }
+  ]
+}

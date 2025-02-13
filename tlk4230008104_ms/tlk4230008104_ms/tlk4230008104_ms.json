@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300081_04_msg0001",
+      "style": 84,
+      "name": "Meh-meh-meh-meh-meeeh!!!\nThis terrible! Absolute disaster!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300081_04_msg0002",
+      "style": 84,
+      "name": "Someone steal top-secret spec\ndocument holding details of new\nboard game that Seesee was writing!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300081_04_msg0003",
+      "style": 84,
+      "name": "Seesee was so looking forward to\npeople of Luxuria sharing fun for all\nfamily, ages 3+!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300081_04_msg0004",
+      "style": 84,
+      "name": "Meh-meh-meh-meeeeh?! Friends will\nget spec document back for Seesee?!\nSeesee never heard such kind words!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300081_04_msg0005",
+      "style": 84,
+      "name": "OK! Seesee will count on friends to get\ndocument back!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42300081_04_msg0006",
+      "style": 84,
+      "name": "If possible, would like friends to\nretrieve before info gets sold on\nblack market!"
+    }
+  ]
+}

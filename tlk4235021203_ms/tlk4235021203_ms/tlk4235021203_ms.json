@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350212_03_msg0001",
+      "style": 84,
+      "name": "Even with no Chairman Bahn,\nAvaritia still able to do big business!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350212_03_msg0002",
+      "style": 84,
+      "name": "If friends buy lots, sell lots, solve\nproblems of lots of people..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350212_03_msg0003",
+      "style": 84,
+      "name": "Avaritia become more prosperous,\nmore jobs become available, and\neven more products for buying!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350212_03_msg0004",
+      "style": 84,
+      "name": "Pilopilo do best to help Avaritia\nprosper too, so friends help out, yes?"
+    }
+  ]
+}

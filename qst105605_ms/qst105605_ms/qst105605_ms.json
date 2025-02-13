@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105605_msg001",
+      "style": 62,
+      "name": "俺はここで反乱分子を食い止める"
+    },
+    {
+      "$id": 2,
+      "label": "qst105605_msg101",
+      "style": 62,
+      "name": "目的は達成できた？\n何のことだ？"
+    },
+    {
+      "$id": 3,
+      "label": "qst105605_msg0001",
+      "style": 84,
+      "name": "We'll take care of here! Your Highness\nshould search the castle and subdue\nany remaining opposition!"
+    },
+    {
+      "$id": 4,
+      "label": "qst105605_msg0101",
+      "style": 84,
+      "name": "Leave the insurgents to us!\nTake care, Your Highness!"
+    },
+    {
+      "$id": 5,
+      "label": "qst105605_msg0102",
+      "style": 84,
+      "name": "I would say we've succeeded, but\nI'd rather not speak too soon..."
+    }
+  ]
+}

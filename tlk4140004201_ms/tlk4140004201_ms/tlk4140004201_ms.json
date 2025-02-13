@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004201_msg0001",
+      "style": 84,
+      "name": "I'm Raloo. I take care of the admin\nduties in Hræsvelgr's Merc Group.\nGlad to meetcha!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004201_msg0002",
+      "style": 84,
+      "name": "You must have a bit of nouse if\nVandham brought you in."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004201_msg0003",
+      "style": 84,
+      "name": "If you're ever interested in working\nwith the Merc Group, just give me\na shout."
+    }
+  ]
+}

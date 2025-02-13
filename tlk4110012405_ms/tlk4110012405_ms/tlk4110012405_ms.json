@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100124_05_msg0001",
+      "style": 84,
+      "name": "Somebody beat my high score\nin that Tiger! Tiger! game.\nI was so shocked..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100124_05_msg0002",
+      "style": 84,
+      "name": "My beautiful 18,310 points..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100124_05_msg0003",
+      "style": 84,
+      "name": "But once I got over my shock,\nI resolved to practice even harder."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100124_05_msg0004",
+      "style": 84,
+      "name": "I trained from morning to night, never\nstopping to eat, even when I got blisters\nand my fingers started to bleed..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100124_05_msg0005",
+      "style": 84,
+      "name": "Until finally, I achieved a new\nhigh score of 81,107 points!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100124_05_msg0006",
+      "style": 84,
+      "name": "Nobody's EVER going to beat this one.\nI'm the top player in all of Alst!"
+    }
+  ]
+}

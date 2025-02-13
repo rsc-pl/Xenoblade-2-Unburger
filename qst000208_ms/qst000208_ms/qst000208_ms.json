@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000208_msg001",
+      "style": 84,
+      "name": "Friend should not give up\nuntil find everyone."
+    },
+    {
+      "$id": 2,
+      "label": "qst000208_msg002",
+      "style": 84,
+      "name": "Hiding alone actually very\nlonely feeling..."
+    }
+  ]
+}

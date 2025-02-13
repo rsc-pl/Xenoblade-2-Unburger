@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310182_01_msg0001",
+      "style": 84,
+      "name": "This is Theoscaldia, Teos Aure's\nroyal palace."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310182_01_msg0002",
+      "style": 84,
+      "name": "You. Outlanders. Luxuria is a\ntranquil place. You will not be\npermitted to disturb the peace."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310182_01_msg0003",
+      "style": 84,
+      "name": "If you don't follow our rules, you'll be\ndeported with the utmost expedience.\nBear that in mind."
+    }
+  ]
+}

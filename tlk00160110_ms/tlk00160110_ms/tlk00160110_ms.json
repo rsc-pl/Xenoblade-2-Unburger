@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001601_10_msg0001",
+      "style": 84,
+      "name": "Please friends work hard for\nsake of Kiku also."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001601_10_msg0002",
+      "style": 84,
+      "name": "In return, Kiku take good care of\nMasterpon and this house."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001601_10_msg0003",
+      "style": 84,
+      "name": "Even if Alst fall to pieces around it,\nKiku protect this home to last breath."
+    }
+  ]
+}

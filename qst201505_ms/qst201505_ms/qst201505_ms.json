@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201505_msg0001",
+      "style": 84,
+      "name": "Now then, what's in these boxes...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201505_msg0002",
+      "style": 84,
+      "name": "OK, boxes, spill your secrets..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201505_msg0003",
+      "style": 84,
+      "name": "Meh-meh... What inside of boxes...?"
+    },
+    {
+      "$id": 4,
+      "label": "qst201505_msg0004",
+      "style": 84,
+      "name": "Now then, what's inside the boxes...?"
+    },
+    {
+      "$id": 5,
+      "label": "qst201505_msg0005",
+      "style": 84,
+      "name": "Right, let's see what in these boxes..."
+    }
+  ]
+}

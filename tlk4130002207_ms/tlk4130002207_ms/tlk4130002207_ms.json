@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300022_07_msg0005",
+      "style": 84,
+      "name": "Oh, hey.\nThinking of joining the vigilantes, are\nyou? Kidding, kidding!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300022_07_msg0001",
+      "style": 84,
+      "name": "I've just issued orders to our\nresident vigilantes."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300022_07_msg0002",
+      "style": 84,
+      "name": "Immigrants from Superbia have been\non the increase lately. No one wants\nto stay aboard a sinking ship."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300022_07_msg0003",
+      "style": 84,
+      "name": "Looks like I turned into a veteran\novernight! Well, we've just got to\nroll with the punches!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300022_07_msg0004",
+      "style": 62,
+      "name": ""
+    }
+  ]
+}

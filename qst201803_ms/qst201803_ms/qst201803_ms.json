@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201803_msg0001",
+      "style": 84,
+      "name": "I don't feel like talking to you!\nStay back, I say!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201803_msg0101",
+      "style": 84,
+      "name": "Pex has gone off to Invidia."
+    },
+    {
+      "$id": 3,
+      "label": "qst201803_msg0102",
+      "style": 84,
+      "name": "Relax, I wouldn't lie to you!\nI mean, you did give me Pinfins!"
+    }
+  ]
+}

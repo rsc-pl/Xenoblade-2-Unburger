@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320151_01_msg0001",
+      "style": 84,
+      "name": "Hadashal Palace isn't just the imperial\nresidence, it's also Alba Margen's\nbest-defended stronghold."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320151_01_msg0002",
+      "style": 84,
+      "name": "If you visit the uppermost floor, you'll\nbe able to see the gigantic cannonports."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320151_01_msg0003",
+      "style": 84,
+      "name": "The elevators to the left and right will\ntake you up there, if you're interested."
+    }
+  ]
+}

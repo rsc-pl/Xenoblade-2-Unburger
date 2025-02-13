@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100122_01_msg0001",
+      "style": 84,
+      "name": "My big bro became a Driver and\nwent off to Superbia!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100122_01_msg0002",
+      "style": 84,
+      "name": "He said he's gonna earn bucketloads\nof cash!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100122_01_msg0003",
+      "style": 84,
+      "name": "If only Da had stayed here with us..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100122_01_msg0004",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100122_01_msg0005",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100122_01_msg0006",
+      "style": 62,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47400164_01_msg0001",
+      "style": 84,
+      "name": "The Cloud Ridge's as tall as ever..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47400164_01_msg0002",
+      "style": 84,
+      "name": "You can't see it, but the Liberalitan\nDivine Beast's in there somewhere."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47400164_01_msg0003",
+      "style": 84,
+      "name": "If only it would just come out,\nwe could all live on its back..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47400164_01_msg0004",
+      "style": 84,
+      "name": "But unlike other countries, it's a free\nDivine Beast. It just wanders around pulling\nsmaller island Divine Beasts along with it."
+    }
+  ]
+}

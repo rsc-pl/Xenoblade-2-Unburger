@@ -1,0 +1,994 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Entire Area"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Avaritia Guild, 1F"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Avaritia Guild, 2F mid"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Avaritia Guild, 2F"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Avaritia Guild, 3F"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Avaritia Guild, 4F"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Gula - Lower"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Gula - Top"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Coedwig Inn"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Divine Beast Battleship, 1F"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Divine Beast Battleship, 2F"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Divine Beast Battleship, 3F"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Divine Beast Battleship, 4F"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Liberalitan Archipelago"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Cloudway"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Temperantia"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Cliffs of Mors"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Top - Outer Wall"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Lower - Outer Wall"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Maelstrom, 1F"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Maelstrom, 2F"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Maelstrom, 3F"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Maelstrom, 4F"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Land of Mors"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Ruin, 1F"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Ruin, 2F"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Evacuation Center, 1F"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Evacuation Center, 2F"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Evacuation Center, 3F"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Iiran Divine Beast, 1F"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Iiran Divine Beast, 2F"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Iiran Divine Beast, 3F"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Low Orbit Station"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Low Orbit Sector, 1F"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Low Orbit Sector, 2F"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Low Orbit Sector, 3F"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Sky Bridge"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Data Processing Room"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Mid Level Passageway"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Mid Level, 1F"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Mid Level, 2F"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Geostationary Station"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Invidia Head"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Acid Gullet"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Blowhole, 1F"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Blowhole, 2F"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Dragon's Stomach"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Hræsvelgr"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Invidia Stomach - Lower"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Badfella's Cave Fort"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Ancient Ship, 2F"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Ancient Ship, 1F"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Ancient Ship, B1F"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Ancient Ship, B2F"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Ancient Ship, B3F"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Ancient Ship, B4F"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Acedia"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Sanctum Chambers, 1F"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Sanctum Chambers, 2F"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Divine Beast Battleship"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Elevator"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Elysium"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Mid Level"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Architect's Room"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Elpys - Top"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "River Lavi - Lower"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "River Lavi - Mid"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "River Lavi - Top"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Helical Cloister - Top"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Helical Cloister - Mid"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Helical Cloister - Lower"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Elpys - Lower"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Elpys - Depths"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Ch. of Offering - Top"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Avaritia Guild, 5F"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Avaritia Guild, 6F"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Avaritia Guild, Roof"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Maelstrom, 1F"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Maelstrom, 2F"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Maelstrom, 3F"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Maelstrom, 4F"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Maelstrom, 5F"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Maelstrom, 6F"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Superbia - Lower"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Superbia - Top"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Jakolo's Inn, 1F"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Jakolo's Inn, 2F"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Jakolo's Inn, 3F"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Hadashal - Lower"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Hadashal - Top"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Industrial Area - Lower"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Industrial Area - Mid"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Industrial Area - Top"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Old Factory - Mid"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Old Factory - Top"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Old Factory - Lower"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Quality Tower, 1F"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Quality Tower, 2F"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Quality Tower, 3F"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Quality Tower, 4F"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Work Tower, 1F"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Work Tower, 2F"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Work Tower, 3F"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Work Tower, 4F"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Work Tower, 5F"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "Heat Storage, 1F"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "Heat Storage, 2F"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Heat Storage, 3F"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Heat Storage, 4F"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Heat Storage, 5F"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Ether Tank - Lower"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Central Control Room"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Ether Tank - Top"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Ether Tower, 2F"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Ether Tower, 3F"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Artificial Blade Room"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Bulge Harbor"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Luxuria - Top"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Lumos Pillar, 3F"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Lumos Pillar, 1F"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Old Pillar City - Top 1F"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Old Pillar City - Mid"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Luxuria - Lower"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Memorial Ruins"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Teos Aure - Top"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Teos Aure - Lower"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Palace - Mid"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Palace - Lower"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Lagert Aquagardens"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Invidia Stomach - Top"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Mymoma Playhouse"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Folmarie Inn"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Invidia Back"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Lumos Pillar, 2F"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Pillar City - Top, 2F"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Pillar City - Top, 3F"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Pillar City - Lower"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Koorell Cave"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Koorell Pool"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Living Quarters - Lower"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Kloom Farm - Lower"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Upper Level - Right"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Trigo"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Divine Beast Battleship"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Upper Level - Left"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Goldmund"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Maelstrom"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Hræsvelgr Village"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Fons Maim"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Alba Margen"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Hadashal Palace"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Iyasaki Island"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Goth Isut Port"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Acedian Sanctum"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "Superbian Battleship"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Teos Aure"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Theoscaldia Palace"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Ancient Ship"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Head"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Stomach"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Karam Ruins"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "Upper Level"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "Old Factory"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "Peninsula"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "Central Plain"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "Ruins of Judicium"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "Upper Level"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Head"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Rigitte Waters"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Cloudway"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Iyasaki Waters"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Upper Level"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "Mid Level"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Upper Level"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "Streets"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Decaying Divine Beast"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "World Tree"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Mid Level"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Upper Level"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Lower Level"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Upper Level"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Unbroken Pillar"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Spire of the Daring"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Lisaria Region"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Aletta Region"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Dannagh Region"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Aurium, Royal Capital"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Iiran Divine Beast Interior"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Whole Map"
+    }
+  ]
+}

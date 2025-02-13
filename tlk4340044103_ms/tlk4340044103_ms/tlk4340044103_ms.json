@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400441_03_msg0001",
+      "style": 84,
+      "name": "Hello...\nHow are you all doing?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400441_03_msg0002",
+      "style": 84,
+      "name": "I've been using Gromrice lately to\nmake some dumplings to give to the\nkids, just like Musubi used to do for me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400441_03_msg0003",
+      "style": 84,
+      "name": "They've turned out pretty good, so\nthe kids pester me every day for them."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400441_03_msg0004",
+      "style": 84,
+      "name": "I'll end up looking like a dumpling at\nthis rate if I don't make something else."
+    }
+  ]
+}

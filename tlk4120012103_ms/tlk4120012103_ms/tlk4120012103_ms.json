@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200121_03_msg0001",
+      "style": 84,
+      "name": "Hey, listen - I heard Peline from\nCmalaf Artwork was looking for a\nnew owner to support her business."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200121_03_msg0002",
+      "style": 84,
+      "name": "But she won't accept just anyone.\nIt has to be someone who really\nappreciates artwork."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200121_03_msg0003",
+      "style": 84,
+      "name": "Maybe if you helped her increase her\nlineup or bought everything she's\nselling, she'd trust you enough to offer."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200121_03_msg0004",
+      "style": 84,
+      "name": "But what kind of benefits do you even\nget for owning a shop, anyway?"
+    }
+  ]
+}

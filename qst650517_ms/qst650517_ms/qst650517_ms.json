@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660116_msg0001",
+      "style": 84,
+      "name": "Friends wish to exchange Noponstone\nfor Flawless Noponstone?"
+    },
+    {
+      "$id": 2,
+      "label": "qst660116_msg0101",
+      "style": 84,
+      "name": "Thank friends very much.\nAlways happy to make customer happy!"
+    },
+    {
+      "$id": 3,
+      "label": "qst660116_msg0201",
+      "style": 84,
+      "name": "Please to come again!"
+    }
+  ]
+}

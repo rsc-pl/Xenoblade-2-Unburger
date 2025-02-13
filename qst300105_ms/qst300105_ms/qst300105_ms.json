@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300105_msg001",
+      "style": 84,
+      "name": "Whew, looks like that's the last of 'em."
+    },
+    {
+      "$id": 2,
+      "label": "qst300105_msg002",
+      "style": 84,
+      "name": "Thanks for that, you really\nare lifesavers!"
+    },
+    {
+      "$id": 3,
+      "label": "qst300105_msg003",
+      "style": 84,
+      "name": "I guess we'll have to store these\nrations carefully to make sure the\nsmell doesn't get out..."
+    },
+    {
+      "$id": 4,
+      "label": "qst300105_msg004",
+      "style": 84,
+      "name": "At any rate, you're starting to\nshape up into a proper leader!"
+    },
+    {
+      "$id": 5,
+      "label": "qst300105_msg005",
+      "style": 84,
+      "name": "I reckon you'll be able to handle\nmanaging more mercenary missions."
+    },
+    {
+      "$id": 6,
+      "label": "qst300105_msg006",
+      "style": 84,
+      "name": "Keep up the good work, for old\nVandham's sake if nothing else!"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 22,
+      "name": "Staple Foods"
+    },
+    {
+      "$id": 2,
+      "style": 22,
+      "name": "Vegetables"
+    },
+    {
+      "$id": 3,
+      "style": 22,
+      "name": "Meat"
+    },
+    {
+      "$id": 4,
+      "style": 22,
+      "name": "Seafood"
+    },
+    {
+      "$id": 5,
+      "style": 22,
+      "name": "Desserts"
+    },
+    {
+      "$id": 6,
+      "style": 22,
+      "name": "Drinks"
+    },
+    {
+      "$id": 7,
+      "style": 22,
+      "name": "Instruments"
+    },
+    {
+      "$id": 8,
+      "style": 22,
+      "name": "Art"
+    },
+    {
+      "$id": 9,
+      "style": 22,
+      "name": "Literature"
+    },
+    {
+      "$id": 10,
+      "style": 22,
+      "name": "Board Games"
+    },
+    {
+      "$id": 11,
+      "style": 22,
+      "name": "Cosmetics"
+    },
+    {
+      "$id": 12,
+      "style": 22,
+      "name": "Textiles"
+    }
+  ]
+}

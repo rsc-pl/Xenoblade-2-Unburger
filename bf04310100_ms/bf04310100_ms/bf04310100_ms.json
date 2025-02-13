@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf04310100_0010",
+      "style": 82,
+      "name": "Are all of these artificial Blades...?!"
+    },
+    {
+      "$id": 2,
+      "label": "bf04310100_0020",
+      "style": 82,
+      "name": "Then Dadapon really must be..."
+    },
+    {
+      "$id": 3,
+      "label": "bf04310100_0030",
+      "style": 82,
+      "name": "Hmmm... What exactly are they planning here?\nWell whatever it is, it can't be good..."
+    }
+  ]
+}

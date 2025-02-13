@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "38890101",
+      "style": 82,
+      "name": "I'm Hotaru!"
+    },
+    {
+      "$id": 2,
+      "label": "38890102",
+      "style": 82,
+      "name": "You look like a Driver I can depend on!"
+    },
+    {
+      "$id": 3,
+      "label": "38890103",
+      "style": 82,
+      "name": "Heh, this one's putty in my hands..."
+    },
+    {
+      "$id": 4,
+      "label": "38890104",
+      "style": 82,
+      "name": "Oh, nothing!"
+    },
+    {
+      "$id": 5,
+      "label": "38890105",
+      "style": 82,
+      "name": "My cuteness can soothe even the savage beast!"
+    }
+  ]
+}

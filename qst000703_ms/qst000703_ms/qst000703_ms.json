@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000703_msg0001",
+      "style": 84,
+      "name": "I won! I won against Leif!\nLook, he's so mad I managed\nto beat him! Haha!"
+    },
+    {
+      "$id": 2,
+      "label": "qst000703_msg0002",
+      "style": 84,
+      "name": "Maybe it was just a stroke of luck\nthat I met you Drivers, but..."
+    },
+    {
+      "$id": 3,
+      "label": "qst000703_msg0003",
+      "style": 84,
+      "name": "Well, I managed to do what\nmy mam said, so at the end\nof the day, I'm happy!"
+    },
+    {
+      "$id": 4,
+      "label": "qst000703_msg0004",
+      "style": 84,
+      "name": "Oh, yeah. Here, with my thanks."
+    },
+    {
+      "$id": 5,
+      "label": "qst000703_msg0005",
+      "style": 84,
+      "name": "Actually, my mam wanted you\nto have this, too."
+    },
+    {
+      "$id": 6,
+      "label": "qst000703_msg0006",
+      "style": 84,
+      "name": "Thanks a bunch!"
+    }
+  ]
+}

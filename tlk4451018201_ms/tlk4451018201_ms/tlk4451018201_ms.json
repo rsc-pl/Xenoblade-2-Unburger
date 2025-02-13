@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510182_01_msg0001",
+      "style": 84,
+      "name": "I imagine this must be intriguing to\nyou travelers. Ether from the Divine Beast\nflows inside here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510182_01_msg0002",
+      "style": 84,
+      "name": "You can feel the energy just by\nstanding here, see? Isn't it warm?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510182_01_msg0003",
+      "style": 84,
+      "name": "I make it my daily routine to offer up\nprayers to the Divine Beast daily for the\nbounty it bestows upon us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510182_01_msg0004",
+      "style": 84,
+      "name": "And of course to Adel our ancestor,\nfor the peace he brought to us all."
+    }
+  ]
+}

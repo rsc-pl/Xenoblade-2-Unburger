@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102102_msg0001",
+      "style": 84,
+      "name": "You late."
+    },
+    {
+      "$id": 2,
+      "label": "qst102102_msg0002",
+      "style": 84,
+      "name": "Huh? Just the two of you?"
+    },
+    {
+      "$id": 3,
+      "label": "qst102102_msg0003",
+      "style": 84,
+      "name": "Arthem first to suggest split up,\nand now last to show up..."
+    },
+    {
+      "$id": 4,
+      "label": "qst102102_msg0004",
+      "style": 84,
+      "name": "Efficiency, my arse... What good is it\nif he's late?"
+    },
+    {
+      "$id": 5,
+      "label": "qst102102_msg0005",
+      "style": 84,
+      "name": "Well, anyway...\nYou guys wanna chat while we wait?"
+    },
+    {
+      "$id": 6,
+      "label": "qst102102_msg0006",
+      "style": 84,
+      "name": "...Hmph."
+    },
+    {
+      "$id": 7,
+      "label": "qst102102_msg0007",
+      "style": 84,
+      "name": "Damida not bothered."
+    },
+    {
+      "$id": 8,
+      "label": "qst102102_msg0008",
+      "style": 84,
+      "name": "Ha ha...ha..."
+    }
+  ]
+}

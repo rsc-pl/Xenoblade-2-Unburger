@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300012_02_msg0001",
+      "style": 84,
+      "name": "So you've set up a direct\ntrade route to Iyasaki."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300012_02_msg0002",
+      "style": 84,
+      "name": "Good thing as well. Saves a lot of\nmoney in the long run, being able\nto cut out the middleman."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300012_02_msg0003",
+      "style": 84,
+      "name": "Makes me feel bad about what\nI've been doing."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300012_02_msg0004",
+      "style": 84,
+      "name": "I never realized we were charging\nso much for the service fee."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300012_02_msg0005",
+      "style": 84,
+      "name": "Sorry about that."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300012_02_msg0006",
+      "style": 84,
+      "name": "If there's any way I can help you with\nmanaging the service, anything at all,\njust give me a shout."
+    }
+  ]
+}

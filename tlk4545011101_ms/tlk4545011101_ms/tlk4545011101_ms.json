@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45450111_01_msg0001",
+      "style": 84,
+      "name": "Chairman Bahn told you where to go,\ndidn't he? Down to the Exit Dock,\non the starboard side of Goldmund."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45450111_01_msg0002",
+      "style": 84,
+      "name": "Once you've sorted out what you're\ndoing with your advance payment,\nyou should head down there sharpish."
+    }
+  ]
+}

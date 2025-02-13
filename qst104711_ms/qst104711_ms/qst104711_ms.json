@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104711_msg101",
+      "style": 62,
+      "name": "この前はお世話になりました(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst104711_msg201",
+      "style": 62,
+      "name": "あなた方が居てくれると心強い(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst104711_msg301",
+      "style": 62,
+      "name": "私たちは領事館内を守ります(仮)"
+    },
+    {
+      "$id": 4,
+      "label": "qst104711_msg401",
+      "style": 62,
+      "name": "やはりあなた方は強い(仮)"
+    }
+  ]
+}

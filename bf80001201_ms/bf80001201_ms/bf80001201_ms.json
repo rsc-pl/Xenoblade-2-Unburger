@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "31890101",
+      "style": 82,
+      "name": "My name is Wadatsumi."
+    },
+    {
+      "$id": 2,
+      "label": "31890102",
+      "style": 82,
+      "name": "[ML:undisp ]Hyaaaaa!"
+    },
+    {
+      "$id": 3,
+      "label": "31890103",
+      "style": 82,
+      "name": "Let my sword be your safeguard."
+    }
+  ]
+}

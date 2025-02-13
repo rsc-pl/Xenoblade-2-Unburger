@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300143_01_msg0001",
+      "style": 84,
+      "name": "Mercs who haven't been assigned\nmissions undergo training here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300143_01_msg0002",
+      "style": 84,
+      "name": "Launch a toppled enemy into the air!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300143_01_msg0003",
+      "style": 84,
+      "name": "Then focus your attacks on it and\ndeal it some major damage!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300143_01_msg0004",
+      "style": 84,
+      "name": "And finally, finish it off with a good old\nsmash!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300143_01_msg0005",
+      "style": 84,
+      "name": "...That's what I keep telling 'em, but\nthey can't seem to get it right."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300143_01_msg0006",
+      "style": 84,
+      "name": "They'll never be able do all of that by\nthemselves. You need teamwork, that's\nwhat. Eh, they'll work it out eventually."
+    }
+  ]
+}

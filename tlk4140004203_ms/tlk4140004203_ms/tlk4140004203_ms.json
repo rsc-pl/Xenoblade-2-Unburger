@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004203_msg0001",
+      "style": 84,
+      "name": "That Damida's shaping out to be quite\nthe capable recruit."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004203_msg0002",
+      "style": 84,
+      "name": "Sure he throws his weight around, but\nhis skills are not to be sniffed at. Even\nthe Nopon hold him in high regard."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004203_msg0003",
+      "style": 84,
+      "name": "I can see why he was hired as a spy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4140004203_msg0004",
+      "style": 84,
+      "name": "Well, he's on our side now. At least,\nuntil the Fusty Fungus underground\nruns out..."
+    }
+  ]
+}

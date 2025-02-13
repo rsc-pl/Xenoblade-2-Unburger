@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400041_01_msg0001",
+      "style": 84,
+      "name": "Oh, well met! You must be absolutely\nexhausted after all that fighting. Some\nsoothing music is just what you need."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400041_01_msg0004",
+      "style": 84,
+      "name": "Oh, hello there, owner!\nHow would you like to soothe your\ntired heart with a little music?"
+    }
+  ]
+}

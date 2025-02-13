@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev01_110_150_msg0001",
+      "style": 84,
+      "name": "Right, I've got the accessory I wanted\nand I'm all sorted for food."
+    },
+    {
+      "$id": 2,
+      "label": "fev01_110_150_msg0002",
+      "style": 84,
+      "name": "I think that should just about do it."
+    },
+    {
+      "$id": 3,
+      "label": "fev01_110_150_msg0003",
+      "style": 84,
+      "name": "There's still time left before I have to\nleave, so maybe I'll rest up at the inn."
+    },
+    {
+      "$id": 4,
+      "label": "fev01_110_150_msg0004",
+      "style": 84,
+      "name": "I could head back to Gramps to rest,\nbut he might try to give me another\nlecture, so...yeah, the inn seems best."
+    },
+    {
+      "$id": 5,
+      "label": "fev01_110_150_msg0005",
+      "style": 84,
+      "name": "I have plenty of cash left, and it\ncan't hurt to rest in a nice comfy\nbed once in a while."
+    },
+    {
+      "$id": 6,
+      "label": "fev01_110_150_msg0006",
+      "style": 84,
+      "name": "The inn should be just past Rumbletum\nCanteen. Let's get moving!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44600183_01_msg0001",
+      "style": 84,
+      "name": "Welcome! Luxuria is famous for\nour carefully handwoven textiles.\nDon't be shy, take a good look!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44600183_01_msg0003",
+      "style": 84,
+      "name": "If you're interested, you should take\na look at the shop next door too.\nMy daughter runs that one."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44600183_01_msg0005",
+      "style": 84,
+      "name": "Hello there, Owner!\nTaken an eye to Luxuria's fine fabrics,\nhave you?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk44600183_01_msg0006",
+      "style": 84,
+      "name": "Ah, you're an Owner!\nPlease don't forget to have a look at\nmy daughter's shop on the other side!"
+    }
+  ]
+}

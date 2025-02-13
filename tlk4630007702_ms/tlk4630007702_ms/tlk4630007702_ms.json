@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300077_02_msg0001",
+      "style": 84,
+      "name": "Welcome to Acedia!\nWhether it's sightseeing or shopping\nyou're after, Acedia has it all."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300077_02_msg0002",
+      "style": 84,
+      "name": "Unfortunately, Acedia currently also\nhas great sadness."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300077_02_msg0003",
+      "style": 84,
+      "name": "Our golden-voiced goddess,\nFan la Norne, has rejoined\nthe ether stream..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46300077_02_msg0004",
+      "style": 84,
+      "name": "The nation is in mourning.\nI'm sure even the Pope's\nheart weighs heavy..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02250100_0010",
+      "style": 82,
+      "name": "This looks like it could\nactually work."
+    },
+    {
+      "$id": 2,
+      "label": "bf02250100_0020",
+      "style": 82,
+      "name": "Good idea, Tora!"
+    },
+    {
+      "$id": 3,
+      "label": "bf02250100_0030",
+      "style": 82,
+      "name": "Right! Let's look for friends of Rex-Rex!"
+    }
+  ]
+}

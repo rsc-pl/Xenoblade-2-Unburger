@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510181_02_msg0001",
+      "style": 84,
+      "name": "Ohhh, I can scarcely contain my anger!\nNot the direct descendants of Adel?\nPah! Fie on them!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510181_02_msg0002",
+      "style": 84,
+      "name": "Soon all of this will fade into obscurity,\njust like Theospiti Temple."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510181_02_msg0003",
+      "style": 84,
+      "name": "The story of the Blade sealed away\ninside the temple...Adel's great and\nnumerous exploits... All of it, gone!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510181_02_msg0004",
+      "style": 84,
+      "name": "O Adel...\nPlease...grant us the fortitude to make\nit through these dark times..."
+    }
+  ]
+}

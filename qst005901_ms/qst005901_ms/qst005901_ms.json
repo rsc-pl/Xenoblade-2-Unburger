@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005901_msg0001",
+      "style": 84,
+      "name": "Hey, Nia.\nWhat d'you think of this?"
+    },
+    {
+      "$id": 2,
+      "label": "qst005901_msg0002",
+      "style": 84,
+      "name": "What've you found now?"
+    },
+    {
+      "$id": 3,
+      "label": "qst005901_msg0003",
+      "style": 84,
+      "name": "Gula was once a prosperous\nrepublic..."
+    },
+    {
+      "$id": 4,
+      "label": "qst005901_msg0004",
+      "style": 84,
+      "name": "Yeah, I've heard about that before."
+    },
+    {
+      "$id": 5,
+      "label": "qst005901_msg0005",
+      "style": 84,
+      "name": "Old Gula was formed from a\nbunch of different clans joining up\nand governing together, right?"
+    },
+    {
+      "$id": 6,
+      "label": "qst005901_msg0006",
+      "style": 84,
+      "name": "A proud republic, bringing together\ndiverse clans under a single banner?"
+    },
+    {
+      "$id": 7,
+      "label": "qst005901_msg0007",
+      "style": 84,
+      "name": "I see, I see... It is all clear to me now!\nSurely I was the King of Gula!"
+    },
+    {
+      "$id": 8,
+      "label": "qst005901_msg0008",
+      "style": 84,
+      "name": "Well, I don't know too much about it,\nbut if you ask the Chief of Trigo,\nyou might be able to find out more."
+    },
+    {
+      "$id": 9,
+      "label": "qst005901_msg0009",
+      "style": 84,
+      "name": "Hang on...does a republic even\nhave a king? It doesn't, right?"
+    },
+    {
+      "$id": 10,
+      "label": "qst005901_msg0010",
+      "style": 84,
+      "name": "Come, my retainers!"
+    },
+    {
+      "$id": 11,
+      "label": "qst005901_msg0011",
+      "style": 84,
+      "name": "We must find this Chief of Trigo\nand find out the truth of this tale!"
+    },
+    {
+      "$id": 12,
+      "label": "qst005901_msg0012",
+      "style": 84,
+      "name": "He's not even listening..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400026_01_msg0001",
+      "style": 84,
+      "name": "Rushed off your feet? Take\na moment to relax and enjoy the\nambiance here at Café Savvy."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400026_01_msg0004",
+      "style": 84,
+      "name": "Good to see you, owner.\nIt's always a good time to relax\nand enjoy the ambiance!"
+    }
+  ]
+}

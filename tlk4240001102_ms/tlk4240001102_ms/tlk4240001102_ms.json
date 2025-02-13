@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400011_02_msg0001",
+      "style": 84,
+      "name": "Erm... Not sure if friends know, but..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400011_02_msg0002",
+      "style": 84,
+      "name": "There three levels of Blade Combo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400011_02_msg0003",
+      "style": 84,
+      "name": "W-well, that what boyfriend told\nEtoto anyway!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400011_02_msg0004",
+      "style": 84,
+      "name": "Actually, boyfriend once on receiving\nend of combo. Took long long time\nto recover."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42400011_02_msg0005",
+      "style": 84,
+      "name": "Attack power seem to rise slowly!"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200810_msg0101",
+      "style": 84,
+      "name": "Oh, it looks like you got us the\nHealing Teak!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200810_msg0102",
+      "style": 84,
+      "name": "We'll get started straight away.\nJust wait there, OK?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200810_msg0103",
+      "style": 84,
+      "name": "OK!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200810_msg0104",
+      "style": 84,
+      "name": "Right, it's done!\nIt should be able to brace any tree,\nno matter how big!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200810_msg0105",
+      "style": 84,
+      "name": "Awesome!\n...It looks so powerful..."
+    },
+    {
+      "$id": 6,
+      "label": "qst200810_msg0106",
+      "style": 84,
+      "name": "Tree brace really look powerful?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200810_msg0107",
+      "style": 84,
+      "name": "Yeah! It's a manufactured thing,\nbut it still looks like it's breathing,\ngrowing..."
+    },
+    {
+      "$id": 8,
+      "label": "qst200810_msg0108",
+      "style": 84,
+      "name": "You've got a good eye, miss.\nYou can be sure we wouldn't just\nwant to kill a tree or plant!"
+    },
+    {
+      "$id": 9,
+      "label": "qst200810_msg0109",
+      "style": 84,
+      "name": "We just shape it so it can live\nalongside us."
+    },
+    {
+      "$id": 10,
+      "label": "qst200810_msg0110",
+      "style": 84,
+      "name": "Ah, but here we are still chatting,\nwhile the Saffronia waits for your help!"
+    },
+    {
+      "$id": 11,
+      "label": "qst200810_msg0111",
+      "style": 84,
+      "name": "Right!\nThanks again!"
+    }
+  ]
+}

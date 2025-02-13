@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4530005802_msg0001",
+      "style": 84,
+      "name": "A Flesh Eater... I always thought\nthey were nothing but a myth."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4530005802_msg0002",
+      "style": 84,
+      "name": "To think that they actually exist!\nI'd love to set eyes on one someday."
+    }
+  ]
+}

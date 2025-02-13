@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300169_01_msg0001",
+      "style": 84,
+      "name": "You can get to Superbia from Rigitte\nHarbor, and there's a regular service\nto Acedia here at Ysheva Harbor."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300169_01_msg0002",
+      "style": 84,
+      "name": "I say \"regular,\" but they can delay\nthe journey a fair bit if you aren't\ncarrying a certain amount of cargo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300169_01_msg0004",
+      "style": 84,
+      "name": "We could really do with a proper\nservice."
+    }
+  ]
+}

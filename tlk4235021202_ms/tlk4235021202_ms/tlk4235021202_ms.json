@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350212_02_msg0001",
+      "style": 84,
+      "name": "Pilopilo do auction almost every day,\nbut never seen Core Crystal up for sale."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350212_02_msg0002",
+      "style": 84,
+      "name": "This partly because not many Nopon\nhave potential as Driver..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350212_02_msg0003",
+      "style": 84,
+      "name": "And partly because all Core Crystal\nneed to be taken to Acedia for cleansing,\nso not end up here like normal goods."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350212_02_msg0004",
+      "style": 84,
+      "name": "Pilopilo understand why Driver might\npeek into auction in vain hope of\nfinding Crystal, but it no use really!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202825_msg0001",
+      "style": 62,
+      "name": "FS使用"
+    },
+    {
+      "$id": 2,
+      "label": "qst202825_msg0002",
+      "style": 62,
+      "name": "宝石発掘！\n虫が出てきた_(エルピス霊堂3)"
+    }
+  ]
+}

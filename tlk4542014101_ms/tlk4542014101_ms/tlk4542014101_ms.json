@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420141_01_tlk0001",
+      "style": 84,
+      "name": "I'm a wanderer, traveling Alst\nas the wind takes me."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420141_01_tlk0002",
+      "style": 84,
+      "name": "The people of Hræsvelgr were kind\nenough to let me stay awhile."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420141_01_tlk0003",
+      "style": 84,
+      "name": "Don't you think the markings on\nHræsvelgr's cave walls are fascinating?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420141_01_tlk0004",
+      "style": 84,
+      "name": "I can't read them myself, but I think\nthey're some kind of inscriptions\nfrom long ago."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45420141_01_tlk0005",
+      "style": 84,
+      "name": "I've traveled all over, and I can tell\nyou they're a pretty unusual sight."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45420141_01_tlk0006",
+      "style": 84,
+      "name": "There's a friend of mine in the\nSuperbian capital, name of Alisdeigh,\nwho might be able to figure them out."
+    }
+  ]
+}

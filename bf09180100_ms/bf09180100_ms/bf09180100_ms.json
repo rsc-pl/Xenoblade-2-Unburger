@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09180100_0010",
+      "style": 82,
+      "name": "What happened?\nAre you alone?"
+    },
+    {
+      "$id": 2,
+      "label": "bf09180100_0020",
+      "style": 82,
+      "name": "Looks like the only survivor."
+    },
+    {
+      "$id": 3,
+      "label": "bf09180100_0030",
+      "style": 82,
+      "name": "These burn patterns don't look like Metsu's handiwork.\nMust've been humans..."
+    },
+    {
+      "$id": 4,
+      "label": "bf09180100_0040",
+      "style": 82,
+      "name": "Looting and pillaging while the world burns."
+    },
+    {
+      "$id": 5,
+      "label": "bf09180100_0050",
+      "style": 82,
+      "name": "Hey, it's okay.\nWould you like to come with us?"
+    },
+    {
+      "$id": 6,
+      "label": "bf09180100_0060",
+      "style": 82,
+      "name": "You don't have to worry, really.\nWe're all good people, promise."
+    },
+    {
+      "$id": 7,
+      "label": "bf09180100_0070",
+      "style": 82,
+      "name": "Can you walk?"
+    },
+    {
+      "$id": 8,
+      "label": "bf09180100_0080",
+      "style": 82,
+      "name": "You can. Good going."
+    }
+  ]
+}

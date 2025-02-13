@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000002_02_msg0001",
+      "style": 62,
+      "name": "アデル様は良い方ですね"
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000002_02_msg0002",
+      "style": 62,
+      "name": "戦で住む場所を失った人や\n残された兵士の皆さんの居場所を\nつくるなんて[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "tlk79000002_02_msg0003",
+      "style": 62,
+      "name": "でも　今は少し御辛そうでした[ML:Dash ]"
+    }
+  ]
+}

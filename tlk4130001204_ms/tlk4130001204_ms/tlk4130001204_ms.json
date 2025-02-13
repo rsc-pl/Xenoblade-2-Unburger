@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300012_04_msg0001",
+      "style": 84,
+      "name": "You're the ones who caught former\nChairman Bahn's dad, aren't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300012_04_msg0002",
+      "style": 84,
+      "name": "Well, more power to you!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300012_04_msg0003",
+      "style": 84,
+      "name": "Not even the SAB could get a hold\nof that slimeball."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300012_04_msg0004",
+      "style": 84,
+      "name": "But still, he wasn't completely\nheartless. I think he softened up\na little after his son was born."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300012_04_msg0005",
+      "style": 84,
+      "name": "And the two of them did make the\nguild what it is today. I wonder what's\ngoing to become of it now...?"
+    }
+  ]
+}

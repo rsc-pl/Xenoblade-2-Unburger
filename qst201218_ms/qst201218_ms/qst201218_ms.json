@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201218_msg0001",
+      "style": 84,
+      "name": "A Whelzaman Cookie? For me?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201218_msg0002",
+      "style": 84,
+      "name": "I really shouldn't...\nI was about to go home for dinner..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201218_msg1001",
+      "style": 84,
+      "name": "But some things are more important\nthan dinner! Give me as many of those\nas you can spare!"
+    }
+  ]
+}

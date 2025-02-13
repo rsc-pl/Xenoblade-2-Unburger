@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400703_msg0001",
+      "style": 84,
+      "name": "Thanks for coming."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400703_msg0002",
+      "style": 84,
+      "name": "You'll want to talk to Yew first."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400703_msg0003",
+      "style": 84,
+      "name": "He's got quite a bit of stuff to tell you,\nso prepare for a long chat."
+    },
+    {
+      "$id": 4,
+      "label": "tlk400703_msg0004",
+      "style": 84,
+      "name": "Made it through Yew's lecture, did you?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk400703_msg0005",
+      "style": 84,
+      "name": "First you want to be accepting\na Merc Mission."
+    },
+    {
+      "$id": 6,
+      "label": "tlk400703_msg0006",
+      "style": 84,
+      "name": "Looks like you've accepted the\nmission Yew set up for you."
+    },
+    {
+      "$id": 7,
+      "label": "tlk400703_msg0007",
+      "style": 84,
+      "name": "Well, all you can do now is wait. That's\nwhat it means to be a leader - you trust\nin your men to get the job done."
+    },
+    {
+      "$id": 8,
+      "label": "tlk400703_msg0008",
+      "style": 84,
+      "name": "Well hey, looks like the squad you\nsent out is back already."
+    },
+    {
+      "$id": 9,
+      "label": "tlk400703_msg0009",
+      "style": 84,
+      "name": "You should check out their report."
+    },
+    {
+      "$id": 10,
+      "label": "tlk400703_msg0010",
+      "style": 84,
+      "name": "That way, you get your reward\nand the mission's truly over."
+    },
+    {
+      "$id": 11,
+      "label": "tlk400703_msg0011",
+      "style": 84,
+      "name": "How was your first mission?\nPretty easy, I'll bet."
+    },
+    {
+      "$id": 12,
+      "label": "tlk400703_msg0012",
+      "style": 84,
+      "name": "Go ahead and report back in to Yew.\nHe was worrying his ass off about\nwhether you'd get the hang of things."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101103_msg001",
+      "style": 62,
+      "name": "Talk when rescued, saying thanks (prov)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101103_msg0001",
+      "style": 84,
+      "name": "Uh, I, um...\nThank you very much."
+    },
+    {
+      "$id": 3,
+      "label": "qst101103_msg0002",
+      "style": 84,
+      "name": "I was picking Confusion Ivy and then\nI sort of, well...stepped on some\nmonsters."
+    },
+    {
+      "$id": 4,
+      "label": "qst101103_msg0003",
+      "style": 84,
+      "name": "Good thing I'd been practicing\nall that tree climbing!"
+    },
+    {
+      "$id": 5,
+      "label": "qst101103_msg0004",
+      "style": 84,
+      "name": "My da said what?\nOh! Oh no! I have to hurry up\nand collect what I came for!"
+    },
+    {
+      "$id": 6,
+      "label": "qst101103_msg0005",
+      "style": 84,
+      "name": "I think so...just about...\nHere I- Owwww!"
+    },
+    {
+      "$id": 7,
+      "label": "qst101103_msg0006",
+      "style": 84,
+      "name": "Think I just twisted my ankle..."
+    },
+    {
+      "$id": 8,
+      "label": "qst101103_msg0007",
+      "style": 84,
+      "name": "Man, what do I do...?\nDa can't finish his work without\nthe Confusion Ivy..."
+    },
+    {
+      "$id": 9,
+      "label": "qst101103_msg0008",
+      "style": 84,
+      "name": "You're gonna help?\nGee, thanks!"
+    },
+    {
+      "$id": 10,
+      "label": "qst101103_msg0009",
+      "style": 84,
+      "name": "We should be fine with, hm...\nSeven more bits of Confusion Ivy."
+    },
+    {
+      "$id": 11,
+      "label": "qst101103_msg0010",
+      "style": 84,
+      "name": "If you look near trees, you'll find it no\ntime. Ivy grows up trees, y'see!"
+    }
+  ]
+}

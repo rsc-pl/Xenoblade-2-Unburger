@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn071_msg0001",
+      "style": 84,
+      "name": "Uka! Tora have good idea!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn071_msg0002",
+      "style": 84,
+      "name": "Let's go to see Superbian Garrison\nin Temperantia! Right now!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn071_msg0003",
+      "style": 84,
+      "name": "Sure, Tora... But what for?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn071_msg0004",
+      "style": 84,
+      "name": "Tora tell Uka when we\nthere! Please enjoy\nthumpy-heart anticipation!"
+    }
+  ]
+}

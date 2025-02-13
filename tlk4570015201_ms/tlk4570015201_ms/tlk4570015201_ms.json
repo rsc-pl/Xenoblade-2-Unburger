@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45700152_01_msg0001",
+      "style": 84,
+      "name": "My name's Hamoosh. I'm with the\nLost Technology Bureau."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45700152_01_msg0002",
+      "style": 84,
+      "name": "Our main job is to send salvaged\nitems over to the Technological\nResearch Center for proper analysis."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45700152_01_msg0003",
+      "style": 84,
+      "name": "It's thanks to organized systems like\nthis that Superbia boasts the highest\ntechnological standards in Alst."
+    }
+  ]
+}

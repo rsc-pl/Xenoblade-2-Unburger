@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200142_02_msg0001",
+      "style": 84,
+      "name": "Vandham said you could have his Merc\ngroup, but you're still a greenhorn,\naren'tcha?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200142_02_msg0002",
+      "style": 84,
+      "name": "If you've got a real thorny job, send out\na Blade with field skills that match the\ntask at hand! It'll get done a lot faster!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200142_02_msg0003",
+      "style": 84,
+      "name": "Choosing the right Blade for the job\ninstead of just sending out any old\ngoon - that's basic stuff, you know!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200142_02_msg0004",
+      "style": 84,
+      "name": "...That's what my dad says, anyway."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200142_02_msg0005",
+      "style": 84,
+      "name": "He's been in a real foul mood since\nVandham passed on."
+    }
+  ]
+}

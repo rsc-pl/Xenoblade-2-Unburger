@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "89890101",
+      "style": 82,
+      "name": "My power is now yours."
+    },
+    {
+      "$id": 2,
+      "label": "89890102",
+      "style": 82,
+      "name": "I hope my abilities will...suffice."
+    },
+    {
+      "$id": 3,
+      "label": "90890101",
+      "style": 82,
+      "name": "My power is now yours."
+    },
+    {
+      "$id": 4,
+      "label": "90890102",
+      "style": 82,
+      "name": "I hope that my abilities will suffice."
+    },
+    {
+      "$id": 5,
+      "label": "91890101",
+      "style": 82,
+      "name": "I'll put my heart and soul into helping out!"
+    },
+    {
+      "$id": 6,
+      "label": "91890102",
+      "style": 82,
+      "name": "I've got your back, so don't worry!"
+    },
+    {
+      "$id": 7,
+      "label": "92890101",
+      "style": 82,
+      "name": "I'll put my heart and soul into helping out!"
+    },
+    {
+      "$id": 8,
+      "label": "92890102",
+      "style": 82,
+      "name": "Don't worry, I've always got your back!"
+    }
+  ]
+}

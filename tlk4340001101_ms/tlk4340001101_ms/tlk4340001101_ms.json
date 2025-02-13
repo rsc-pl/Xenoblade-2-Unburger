@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400011_01_msg0001",
+      "style": 84,
+      "name": "Hello there! Take your time,\nhave a look around!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400011_01_msg0004",
+      "style": 84,
+      "name": "I don't think I should be wasting time\nright now..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400011_01_msg0005",
+      "style": 84,
+      "name": "I'm so glad I found an owner like you.\nIt's not easy for non-Nopon merchants\nto run a business around here!"
+    }
+  ]
+}

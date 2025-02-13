@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400044_03_msg0001",
+      "style": 84,
+      "name": "You lot need to get yourself off\nand help Ion."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400044_03_msg0002",
+      "style": 84,
+      "name": "Still not feeling up to scratch? Well,\nyou'd be better off getting some rest..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400044_03_msg0003",
+      "style": 84,
+      "name": "Once you're up to it, get out there and\nhelp Ion out sharpish!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400044_03_msg0004",
+      "style": 84,
+      "name": "The Karam Ruins are at the very top\nof the Holy Gate of Fontana."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400044_03_msg0005",
+      "style": 84,
+      "name": "Hey! This is a business.\nI can't let you stay for free. Sorry..."
+    }
+  ]
+}

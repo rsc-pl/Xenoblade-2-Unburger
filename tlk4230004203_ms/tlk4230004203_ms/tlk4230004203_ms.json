@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300042_03_msg0001",
+      "style": 84,
+      "name": "Friends ever wonder what Popono\ndoing standing around here?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300042_03_msg0002",
+      "style": 84,
+      "name": "Popono not just indulging in delicious\nsmells wafting from nearby restaurants!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300042_03_msg0003",
+      "style": 84,
+      "name": "Truth is..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300042_03_msg0004",
+      "style": 84,
+      "name": "Actually, that probably not safe for me\nto disclose."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300042_03_msg0005",
+      "style": 84,
+      "name": "Friends very skilled conversationalists!\nAlmost let confidential information slip!"
+    }
+  ]
+}

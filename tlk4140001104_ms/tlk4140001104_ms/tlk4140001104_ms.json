@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400011_04_msg0001",
+      "style": 84,
+      "name": "You have the air of a shop owner\nabout you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400011_04_msg0002",
+      "style": 84,
+      "name": "What do you think happens if you\nbuy a shop's entire stock?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400011_04_msg0003",
+      "style": 84,
+      "name": "The shopkeeper will be so impressed\nby your love for their business, they'll\nask you to become the shop's owner."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400011_04_msg0004",
+      "style": 84,
+      "name": "Becoming a shop owner costs quite\na bit of money, but you get a lot of\nbenefits out of it!"
+    }
+  ]
+}

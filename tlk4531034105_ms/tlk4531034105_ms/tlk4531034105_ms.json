@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310341_05_msg0001",
+      "style": 84,
+      "name": "Hey, did you hear?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310341_05_msg0002",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries have\ngrown into the biggest mercenary\nband in all of Invidia!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310341_05_msg0003",
+      "style": 84,
+      "name": "All of Alst, even!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310341_05_msg0004",
+      "style": 84,
+      "name": "None of the classic mercenary groups\nfull of rich folk with noble blood can\nmatch our military strength any more."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310341_05_msg0005",
+      "style": 84,
+      "name": "It's all thanks to you that we've\nmade it this far. So...thanks."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45310341_05_msg0006",
+      "style": 84,
+      "name": "Well, you and old Vandham, of course!"
+    }
+  ]
+}

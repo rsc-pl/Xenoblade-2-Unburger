@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370151_01_msg0001",
+      "style": 84,
+      "name": "Despite his young age, Emperor Nefer\nis a most wise and gracious ruler."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370151_01_msg0002",
+      "style": 84,
+      "name": "It is only thanks to his efforts that we\nhave been able to avoid open hostilities\nwith Invidia for so long."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370151_01_msg0003",
+      "style": 84,
+      "name": "Thanks to His Majesty, we have\nkept the bloody business of war\nto a minimum."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45370151_01_msg0004",
+      "style": 84,
+      "name": "As long as Emperor Nefer is on the\nthrone, I feel certain the peace of\nSuperbia will be safe."
+    }
+  ]
+}

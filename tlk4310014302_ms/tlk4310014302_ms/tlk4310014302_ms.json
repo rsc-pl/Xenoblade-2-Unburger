@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100143_02_msg0001",
+      "style": 84,
+      "name": "My dad's a mercenary. He does jobs\nall over Alst."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100143_02_msg0002",
+      "style": 84,
+      "name": "When he goes somewhere, he usually\nbrings me back a Core Chip."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100143_02_msg0003",
+      "style": 84,
+      "name": "Some day I'll have a Blade of my own\nto give all my chips to!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100143_02_msg0004",
+      "style": 84,
+      "name": "But...Core Chips get used up once\nyou've used them, right?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43100143_02_msg0005",
+      "style": 84,
+      "name": "So it's a bit of a waste if you just give\nthem abilities they've already got."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43100143_02_msg0006",
+      "style": 84,
+      "name": "Best to give 'em one that'll improve\njust the one that you want."
+    }
+  ]
+}

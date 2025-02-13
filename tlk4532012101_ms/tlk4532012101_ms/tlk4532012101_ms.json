@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320121_01_msg0001",
+      "style": 84,
+      "name": "The Superbian army is always eager for\nnew recruits! How about it, kids? Ever\nthought about becoming a Driver?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320121_01_msg0002",
+      "style": 84,
+      "name": "What?! You're already Drivers?!\nEven better! We can get you\nenrolled immediately!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320121_01_msg0003",
+      "style": 84,
+      "name": "Our Drivers aren't expected to be\nbound to any one Blade."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320121_01_msg0004",
+      "style": 84,
+      "name": "All you need is a Core Crystal and you\ncan have a whole bevy of Blades!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320121_01_msg0005",
+      "style": 84,
+      "name": "See what useful information I've\ndivulged? It would be rude to turn\ndown my offer now, surely..."
+    }
+  ]
+}

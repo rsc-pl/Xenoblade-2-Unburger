@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300241_04_msg0001",
+      "style": 84,
+      "name": "Refugees from Acedia have landed\nnot far from Gwendle Repair Dock."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300241_04_msg0002",
+      "style": 84,
+      "name": "That's Invidian hospitality for you.\nWe're all floored by Queen Lagert's\nbenevolence."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300241_04_msg0003",
+      "style": 84,
+      "name": "The people of Fons Maim have also\naccepted them, getting ready for a life\nbuilt side by side."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300241_04_msg0004",
+      "style": 84,
+      "name": "Like the distribution center.\nThe sight moves me every time.\nI want to immortalize it in my art."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300241_04_msg0005",
+      "style": 84,
+      "name": "But in the middle of all that, there\nare noble sons who... Ah, pardon me.\nI was about to commit slander there!"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202019_msg0001",
+      "style": 84,
+      "name": "Oh, hello again. How is it going?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202019_msg0002",
+      "style": 84,
+      "name": "Here are the ingredients I'd like you\nto find:"
+    },
+    {
+      "$id": 3,
+      "label": "qst202019_msg0003",
+      "style": 84,
+      "name": "5 clumps of Salty Soil, 8 portions\nof Gromrice, and 5 Ruby Mangosteens."
+    },
+    {
+      "$id": 4,
+      "label": "qst202019_msg0004",
+      "style": 84,
+      "name": "Good luck on your search!"
+    },
+    {
+      "$id": 5,
+      "label": "qst202019_msg0101",
+      "style": 84,
+      "name": "Why, thank you! This is everything,\nisn't it?"
+    },
+    {
+      "$id": 6,
+      "label": "qst202019_msg0102",
+      "style": 84,
+      "name": "It must have taken you quite some\ntime."
+    },
+    {
+      "$id": 7,
+      "label": "qst202019_msg0103",
+      "style": 84,
+      "name": "No, really, thank you."
+    },
+    {
+      "$id": 8,
+      "label": "qst202019_msg0104",
+      "style": 84,
+      "name": "Could I perhaps invite you round for\ndinner? Really it's the least I could do."
+    },
+    {
+      "$id": 9,
+      "label": "qst202019_msg0108",
+      "style": 84,
+      "name": "My house is on the far side of Tretl\nWindmill Plaza. Do come!"
+    }
+  ]
+}

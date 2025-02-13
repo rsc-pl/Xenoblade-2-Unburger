@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300106_msg001",
+      "style": 165,
+      "name": "Prepare rations?"
+    },
+    {
+      "$id": 2,
+      "label": "qst300106_msg002",
+      "style": 165,
+      "name": "Yes"
+    },
+    {
+      "$id": 3,
+      "label": "qst300106_msg003",
+      "style": 165,
+      "name": "No"
+    },
+    {
+      "$id": 4,
+      "label": "qst300106_msg004",
+      "style": 62,
+      "name": "確認用仮テキストです"
+    },
+    {
+      "$id": 5,
+      "label": "qst300106_msg005",
+      "style": 62,
+      "name": "登録を30にする"
+    },
+    {
+      "$id": 6,
+      "label": "qst300106_msg006",
+      "style": 62,
+      "name": "登録を70にする"
+    },
+    {
+      "$id": 7,
+      "label": "qst300106_msg007",
+      "style": 62,
+      "name": "登録を100にする"
+    }
+  ]
+}

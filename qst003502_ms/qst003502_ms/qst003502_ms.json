@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003502_msg0001",
+      "style": 84,
+      "name": "Why does Kallum have to be so\nnasty? Those Superbians think\nthey can do what they like..."
+    },
+    {
+      "$id": 2,
+      "label": "qst003502_msg0002",
+      "style": 84,
+      "name": "The grown-ups in Trigo don't seem\nvery happy about having all these\nSuperbian soldiers around, either..."
+    },
+    {
+      "$id": 3,
+      "label": "qst003502_msg0003",
+      "style": 84,
+      "name": "If everyone keeps being nasty like\nthis, we might end up at war..."
+    }
+  ]
+}

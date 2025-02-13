@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45700111_01_msg0001",
+      "style": 84,
+      "name": "Rex, m'boy!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45700111_01_msg0002",
+      "style": 84,
+      "name": "This Nopon here's just arrived to do\na bit of sightseeing around Avaritia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45700111_01_msg0003",
+      "style": 84,
+      "name": "I keep saying the Central Exchange is\ninside Goldmund, just after you enter\nthe ship, but he just doesn't get it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45700111_01_msg0004",
+      "style": 84,
+      "name": "And now he wants me to take him up\nto Lemour Inn on the third floor!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45700111_01_msg0005",
+      "style": 84,
+      "name": "I'm a salvager, not a tour guide!"
+    }
+  ]
+}

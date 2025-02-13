@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 167,
+      "name": "+[ML:PouchParam ]% max HP\nto dmg barrier"
+    },
+    {
+      "$id": 2,
+      "style": 167,
+      "name": "+[ML:PouchParam ]% HP\nrecovery"
+    },
+    {
+      "$id": 3,
+      "style": 167,
+      "name": "-[ML:PouchParam ]% physical\ndmg taken"
+    },
+    {
+      "$id": 4,
+      "style": 167,
+      "name": "-[ML:PouchParam ]% ether dmg\ntaken"
+    },
+    {
+      "$id": 5,
+      "style": 167,
+      "name": "Recharges Arts by\n[ML:PouchParam ] each second."
+    },
+    {
+      "$id": 6,
+      "style": 167,
+      "name": "+[ML:PouchParam ]% Party\nGauge gain"
+    },
+    {
+      "$id": 7,
+      "style": 167,
+      "name": "+[ML:PouchParam ] base\nAffinity"
+    },
+    {
+      "$id": 8,
+      "style": 167,
+      "name": "+[ML:PouchParam ]% Affinity\ngain"
+    },
+    {
+      "$id": 9,
+      "style": 167,
+      "name": "-[ML:PouchParam ]% Affinity\nloss"
+    },
+    {
+      "$id": 10,
+      "style": 167,
+      "name": "Specials recharge\n[ML:PouchParam ] each second."
+    },
+    {
+      "$id": 11,
+      "style": 167,
+      "name": "+[ML:PouchParam ]% Blade\nArts effect"
+    },
+    {
+      "$id": 12,
+      "style": 167,
+      "name": "+[ML:PouchParam ]% dmg dealt\nby Specials"
+    }
+  ]
+}

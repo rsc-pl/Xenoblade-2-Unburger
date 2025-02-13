@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01001003_msg0001",
+      "style": 84,
+      "name": "Now Acedia's gone, I can't go to the\nacademy any more..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk01001003_msg0002",
+      "style": 84,
+      "name": "I studied so hard to prepare for the\nexam, and all the fees were paid\nfor, too..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01001003_msg0003",
+      "style": 84,
+      "name": "I really wish I could've studied there..."
+    }
+  ]
+}

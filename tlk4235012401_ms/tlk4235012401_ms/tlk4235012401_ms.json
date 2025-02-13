@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350124_01_msg0001",
+      "style": 84,
+      "name": "Hey, can you understand what\nPhonexes are saying?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350124_01_msg0002",
+      "style": 84,
+      "name": "Not half bad for an amateur."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350124_01_msg0003",
+      "style": 84,
+      "name": "I guess you Blades or whatever\nare always evolving, huh?"
+    }
+  ]
+}

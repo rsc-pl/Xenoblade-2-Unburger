@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310141_01_msg0001",
+      "style": 84,
+      "name": "Don't you think Divine Beast battleships are\nwonderful? There's something so\ninspiring about their majestic forms."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310141_01_msg0002",
+      "style": 84,
+      "name": "The reason I joined the maintenance\ncorps was so I'd get to see all the\ndetailed workings of ships like this."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310141_01_msg0003",
+      "style": 84,
+      "name": "Invidian battleships make the most\nof the Divine Beast's natural features.\nIt's a key design philosophy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310141_01_msg0004",
+      "style": 84,
+      "name": "With ships like that, maintenance is all\nabout keeping the Divine Beast healthy and\nlooking after the organic nanotubes."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43310141_01_msg0005",
+      "style": 84,
+      "name": "I feel a little bad for the weaponized\nDivine Beasts though. When war breaks out,\nthey get sent to the frontlines."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43310141_01_msg0006",
+      "style": 84,
+      "name": "Breaks my heart when they come back\nand they're all smashed up. It really\ngets me."
+    }
+  ]
+}

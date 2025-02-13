@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10160150_0010",
+      "style": 82,
+      "name": "Gah!"
+    },
+    {
+      "$id": 2,
+      "label": "bf10160150_0020",
+      "style": 82,
+      "name": "Urghh..."
+    },
+    {
+      "$id": 3,
+      "label": "bf10160150_0030",
+      "style": 82,
+      "name": "I couldn't save anyone..."
+    },
+    {
+      "$id": 4,
+      "label": "bf10160150_0040",
+      "style": 82,
+      "name": "If only we hadn't come here, I could have\nsaved my people... I could have saved Nefer..."
+    },
+    {
+      "$id": 5,
+      "label": "bf10160150_0050",
+      "style": 82,
+      "name": "If only it weren't for you, Rex!"
+    },
+    {
+      "$id": 6,
+      "label": "bf10160150_0060",
+      "style": 82,
+      "name": "M-me...?\nI didn't mean to-"
+    },
+    {
+      "$id": 7,
+      "label": "bf10160150_0070",
+      "style": 82,
+      "name": "I hope you're happy now."
+    },
+    {
+      "$id": 8,
+      "label": "bf10160150_0080",
+      "style": 82,
+      "name": "You've dragged us to some empty ruins!"
+    },
+    {
+      "$id": 9,
+      "label": "bf10160150_0090",
+      "style": 82,
+      "name": "I hope that was worth everything we sacrificed!"
+    }
+  ]
+}

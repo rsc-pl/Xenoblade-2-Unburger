@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650421_msg0001",
+      "style": 84,
+      "name": "I wanna go on an adventure with\nmy hero!"
+    },
+    {
+      "$id": 2,
+      "label": "qst650421_msg0002",
+      "style": 84,
+      "name": "Pyyyyyyraaaaa, take me with youuuuu!"
+    }
+  ]
+}

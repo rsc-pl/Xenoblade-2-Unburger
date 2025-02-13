@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200141_01_msg0001",
+      "style": 84,
+      "name": "Some Drivers took me and Dad away\nand before we knew it, we were here!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200141_01_msg0002",
+      "style": 84,
+      "name": "It was really, really scary...\nMy house got burned down...\nAnd I lost all my friends..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200141_01_msg0003",
+      "style": 84,
+      "name": "The people said we can't go back to\nCordell Village any more. I'm getting\nreally lonely..."
+    }
+  ]
+}

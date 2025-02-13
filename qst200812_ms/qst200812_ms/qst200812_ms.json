@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200812_msg0001",
+      "style": 84,
+      "name": "Phew... You're sure going to some\ntrouble to heal some useless tree..."
+    },
+    {
+      "$id": 2,
+      "label": "qst200812_msg0002",
+      "style": 84,
+      "name": "I guess this lousy Saffronia is\na pretty big deal or somethin', eh?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200812_msg0003",
+      "style": 84,
+      "name": "You guys..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200812_msg0004",
+      "style": 84,
+      "name": "Are you here to harass Hotaru again?"
+    },
+    {
+      "$id": 5,
+      "label": "qst200812_msg0005",
+      "style": 84,
+      "name": "You got it, kid.\nI double-checked, and there's no way\nthe girl's not hidin' something."
+    },
+    {
+      "$id": 6,
+      "label": "qst200812_msg0006",
+      "style": 84,
+      "name": "I told you I don't have them!"
+    },
+    {
+      "$id": 7,
+      "label": "qst200812_msg0007",
+      "style": 84,
+      "name": "Heh.\nObviously you wouldn't say you have\nthem if you're tryin' to hide things."
+    },
+    {
+      "$id": 8,
+      "label": "qst200812_msg0008",
+      "style": 84,
+      "name": "So what, I should tell you I have them?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200812_msg0009",
+      "style": 84,
+      "name": "A-ha! So you do have them!"
+    },
+    {
+      "$id": 10,
+      "label": "qst200812_msg0010",
+      "style": 84,
+      "name": "Oh for crying out loud!\nI don't know what to tell you anymore!"
+    },
+    {
+      "$id": 11,
+      "label": "qst200812_msg0011",
+      "style": 84,
+      "name": "I think in the end it'll come down to\nanother fight..."
+    },
+    {
+      "$id": 12,
+      "label": "qst200812_msg0012",
+      "style": 84,
+      "name": "Seems so, kid. Seems so..."
+    },
+    {
+      "$id": 13,
+      "label": "qst200812_msg0013",
+      "style": 84,
+      "name": "But this time we brought more friends,\nas well as a battle plan..."
+    },
+    {
+      "$id": 14,
+      "label": "qst200812_msg0014",
+      "style": 84,
+      "name": "This time you won't get away!\nYou'll tell us everythin'!"
+    }
+  ]
+}

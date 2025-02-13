@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk079_msg0001",
+      "style": 84,
+      "name": "So, you have awakened the sealed\nBlade."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk079_msg0002",
+      "style": 84,
+      "name": "Your Majesty..."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk079_msg0003",
+      "style": 84,
+      "name": "Your Majesty..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk079_msg0004",
+      "style": 84,
+      "name": "King Serich..."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk079_msg0005",
+      "style": 84,
+      "name": "Old man..."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk079_msg0006",
+      "style": 84,
+      "name": "It's been quite some time since I last\nsaw this place."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk079_msg0007",
+      "style": 84,
+      "name": "We used to play here as children, you\nknow..."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk079_msg0008",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk079_msg0009",
+      "style": 84,
+      "name": "Tell me, do you know why it is that\nTheospiti Temple was destroyed?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk079_msg0010",
+      "style": 84,
+      "name": "I haven't a clue."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk079_msg0011",
+      "style": 84,
+      "name": "Beats me."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk079_msg0012",
+      "style": 84,
+      "name": "I'm afraid I do not."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk079_msg0013",
+      "style": 84,
+      "name": "I know it's been in ruins since forever,\nbut no one ever told me why."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk079_msg0014",
+      "style": 84,
+      "name": "It's because a Blade went berserk."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk079_msg0015",
+      "style": 84,
+      "name": "They say that the Blade was so\npowerful, its Driver couldn't hope\nto control it."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk079_msg0016",
+      "style": 84,
+      "name": "There was nothing anyone could do.\nThe incident was resolved when the\nDriver took their own life."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk079_msg0017",
+      "style": 84,
+      "name": "With that, the Blade was sealed\nwithin its Core Crystal."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk079_msg0018",
+      "style": 84,
+      "name": "And as a warning to future generations,\nit was buried here in the temple where\nthe tragedy took place."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk079_msg0019",
+      "style": 84,
+      "name": "You mean, the Blade that went\nberserk is..."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk079_msg0020",
+      "style": 84,
+      "name": "You mean, the Blade that went\nberserk is..."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk079_msg0021",
+      "style": 84,
+      "name": "You mean, the Blade that went\nberserk is..."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk079_msg0022",
+      "style": 84,
+      "name": "You mean, the Blade that went\nberserk is..."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk079_msg0023",
+      "style": 84,
+      "name": "Your suspicions are correct. The Blade\nwas Ten'i."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk079_msg0024",
+      "style": 84,
+      "name": "I have no memory of the event...\nBut I believe it to be true."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk079_msg0025",
+      "style": 84,
+      "name": "At times, I feel something."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk079_msg0026",
+      "style": 84,
+      "name": "A kind of...limitless power, dwelling\nwithin me."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk079_msg0027",
+      "style": 84,
+      "name": "Your Majesty, you may punish me\nhowever you see fit."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk079_msg0028",
+      "style": 84,
+      "name": "Even if it means breaking my Core\nCrystal into a thousand pieces and\nburying me for all eternity."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk079_msg0029",
+      "style": 165,
+      "name": "How should I answer Ten'i?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk079_msg0030",
+      "style": 164,
+      "name": "I'll respect your decision."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk079_msg0031",
+      "style": 164,
+      "name": "I'll keep you in check."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk079_msg0032",
+      "style": 165,
+      "name": "How should I answer Ten'i?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk079_msg0033",
+      "style": 164,
+      "name": "I'll respect your decision."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk079_msg0034",
+      "style": 164,
+      "name": "I'll keep you in check."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk079_msg0035",
+      "style": 165,
+      "name": "How should I answer Ten'i?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk079_msg0036",
+      "style": 164,
+      "name": "I'll respect your decision."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk079_msg0037",
+      "style": 164,
+      "name": "I'll keep you in check."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk079_msg0038",
+      "style": 165,
+      "name": "How should I answer Ten'i?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk079_msg0039",
+      "style": 164,
+      "name": "I'll respect your decision."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk079_msg0040",
+      "style": 164,
+      "name": "I'll keep you in check."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk079_msg0101",
+      "style": 84,
+      "name": "Thank you."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk079_msg0102",
+      "style": 84,
+      "name": "Well then, Your Majesty."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk079_msg0103",
+      "style": 84,
+      "name": "Wait. I think it is a little early to\npronounce judgment just yet."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk079_msg0104",
+      "style": 84,
+      "name": "And if the legends speak truth, you,\nTen'i, could be a valuable asset in\nthe wars to come."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk079_msg0105",
+      "style": 84,
+      "name": "Now, your Driver is the bearer of\ngreat aptitude and strength."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk079_msg0106",
+      "style": 84,
+      "name": "Above all else, they possess an\nunyielding will."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk079_msg0107",
+      "style": 84,
+      "name": "And need we mention that they are\nacting alongside the Holy Grail?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk079_msg0108",
+      "style": 84,
+      "name": "Your Driver today is the very opposite\nof your Driver of yesteryear. You will\nnot run wild."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk079_msg0109",
+      "style": 84,
+      "name": "So, I did not come here today to\nseal you away."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk079_msg0110",
+      "style": 84,
+      "name": "No, all I ask is that you wield your\npower as you see fit, and that you\nserve your Driver well."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk079_msg0111",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk079_msg0112",
+      "style": 84,
+      "name": "Ten'i...?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk079_msg0113",
+      "style": 84,
+      "name": "Ten'i...?"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk079_msg0114",
+      "style": 84,
+      "name": "Ten'i...?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk079_msg0115",
+      "style": 84,
+      "name": "Ten'i...?"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk079_msg0116",
+      "style": 84,
+      "name": "Understood."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk079_msg0117",
+      "style": 84,
+      "name": "If that's what it takes to repent for\nmy sins, then so be it."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk079_msg0118",
+      "style": 84,
+      "name": "Dear, oh dear. It seems it's going to\ntake a while for her to understand."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk079_msg0119",
+      "style": 84,
+      "name": "Take care of her."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk079_msg0120",
+      "style": 84,
+      "name": "Sure. You can count on me!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk079_msg0121",
+      "style": 84,
+      "name": "Sure. You can count on me!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk079_msg0122",
+      "style": 84,
+      "name": "Leave it to me, Your Majesty."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk079_msg0123",
+      "style": 84,
+      "name": "Sure. You can count on me!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk079_msg0201",
+      "style": 84,
+      "name": "Rex..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk079_msg0202",
+      "style": 84,
+      "name": "Nia..."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk079_msg0203",
+      "style": 84,
+      "name": "Meleph..."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk079_msg0204",
+      "style": 84,
+      "name": "Zeke..."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk079_msg0205",
+      "style": 84,
+      "name": "Ha ha! Just as I thought."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk079_msg0206",
+      "style": 84,
+      "name": "Listen well, Ten'i."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk079_msg0207",
+      "style": 84,
+      "name": "I believe your Driver trusts you deeply."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk079_msg0208",
+      "style": 84,
+      "name": "And I trust your Driver just the same."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk079_msg0209",
+      "style": 84,
+      "name": "Even if you had some recollection of\nthe past, you need not dwell on it."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk079_msg0210",
+      "style": 84,
+      "name": "Don't let yourself be chained to the\npast. Become your Driver's strength."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk079_msg0211",
+      "style": 84,
+      "name": "That's all I ask."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk079_msg0212",
+      "style": 84,
+      "name": "But still, I have to atone somehow..."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk079_msg0213",
+      "style": 84,
+      "name": "I understand how you feel, but you\nmust remember that there are many\nways to atone for one's sins."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk079_msg0214",
+      "style": 84,
+      "name": "Aiding your Driver in the fierce battles\nto come is one such way."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk079_msg0215",
+      "style": 84,
+      "name": "You think so...?"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk079_msg0216",
+      "style": 84,
+      "name": "Yeah, we need you, Ten'i."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk079_msg0217",
+      "style": 84,
+      "name": "Don't trap yourself in the past. Come\nwith us. We'll fight together."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk079_msg0218",
+      "style": 84,
+      "name": "Yeah, we need you, Ten'i."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk079_msg0219",
+      "style": 84,
+      "name": "No point crying over spilled milk.\nCome with us. Fight with us!"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk079_msg0220",
+      "style": 84,
+      "name": "That's right. We need you, Ten'i."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk079_msg0221",
+      "style": 84,
+      "name": "The past is the past. You should leave\nit behind and fight at our side."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk079_msg0222",
+      "style": 84,
+      "name": "Yeah, we need you, Ten'i."
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk079_msg0223",
+      "style": 84,
+      "name": "What happened, happened. But now,\nwe want you on our side. Come with\nus!"
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk079_msg0224",
+      "style": 84,
+      "name": "...All right."
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk079_msg0225",
+      "style": 84,
+      "name": "I'll try."
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk079_msg0226",
+      "style": 84,
+      "name": "Worry not. Whatever happens, just\nremember: you have an esteemed\nDriver by your side."
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk079_msg0227",
+      "style": 84,
+      "name": "Your Majesty...thank you."
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk079_msg0228",
+      "style": 84,
+      "name": "Think nothing of it. I expect great\nthings of you."
+    }
+  ]
+}

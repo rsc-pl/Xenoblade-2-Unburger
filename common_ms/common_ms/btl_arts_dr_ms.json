@@ -1,0 +1,2159 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Sword Bash"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Double Spinning Edge"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Rolling Smash"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Anchor Shot"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Saber Slash"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Redemption"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Hydro Blast"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Water Flower"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Wide Slash"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Strong Saucer"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Eightfold Edge"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Spin of Bravery"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Butterfly Blade"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Jaguar Slash"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Gemini Loop"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Healing Halo"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Halo Strike"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Inferno Wheel"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Twin Moonblade"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Revolution Flash"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Rapid Twist"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Clear Divide"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Righteous Guillotine"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Shredder Spiral"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Steady Drill"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Big Boost"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Spinning Cutter"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Rigid Shield"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Pow-Pow Cannon"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Dented Shield"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Scattershot"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Booming Buster"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Swooshing Slash"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "Speedy Sword"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Boom-Boom Laser"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Steady Beam"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Heat Rush"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Storm Spin"
+    },
+    {
+      "$id": 39,
+      "style": 15,
+      "name": "Blazing Whip"
+    },
+    {
+      "$id": 40,
+      "style": 15,
+      "name": "Phantom Flame"
+    },
+    {
+      "$id": 41,
+      "style": 15,
+      "name": "Azure II: Hellfire"
+    },
+    {
+      "$id": 42,
+      "style": 15,
+      "name": "Azure II: Radiance"
+    },
+    {
+      "$id": 43,
+      "style": 15,
+      "name": "Azure II: Blaze"
+    },
+    {
+      "$id": 44,
+      "style": 15,
+      "name": "Azure II: Judgment"
+    },
+    {
+      "$id": 45,
+      "style": 15,
+      "name": "Upper Edge"
+    },
+    {
+      "$id": 46,
+      "style": 15,
+      "name": "Big Impact"
+    },
+    {
+      "$id": 47,
+      "style": 15,
+      "name": "Electro Buster"
+    },
+    {
+      "$id": 48,
+      "style": 15,
+      "name": "Voltaic Slash"
+    },
+    {
+      "$id": 49,
+      "style": 15,
+      "name": "Stratospheric Thunder"
+    },
+    {
+      "$id": 50,
+      "style": 15,
+      "name": "Dynamic Spark Sword"
+    },
+    {
+      "$id": 51,
+      "style": 15,
+      "name": "Overload Thunder Beam"
+    },
+    {
+      "$id": 52,
+      "style": 15,
+      "name": "ULFS Max"
+    },
+    {
+      "$id": 53,
+      "style": 15,
+      "name": "Cyclone Smash"
+    },
+    {
+      "$id": 54,
+      "style": 15,
+      "name": "Wild Scythe"
+    },
+    {
+      "$id": 55,
+      "style": 15,
+      "name": "Wing Smash"
+    },
+    {
+      "$id": 56,
+      "style": 15,
+      "name": "Vortex Edge"
+    },
+    {
+      "$id": 57,
+      "style": 15,
+      "name": "Muscle Slash"
+    },
+    {
+      "$id": 58,
+      "style": 15,
+      "name": "Fast Twitch"
+    },
+    {
+      "$id": 59,
+      "style": 15,
+      "name": "Muscle Uppercut"
+    },
+    {
+      "$id": 60,
+      "style": 15,
+      "name": "Mega Muscle"
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Strong Smash"
+    },
+    {
+      "$id": 62,
+      "style": 15,
+      "name": "Axe Twist"
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Bold Tackle"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Power Swipe"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "Brutal Blade"
+    },
+    {
+      "$id": 66,
+      "style": 15,
+      "name": "Rhino Assault"
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Bear Smash"
+    },
+    {
+      "$id": 68,
+      "style": 15,
+      "name": "Shadow Slice"
+    },
+    {
+      "$id": 69,
+      "style": 15,
+      "name": "Rock Cleaver"
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Admiral Waltz"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "Gale Blade"
+    },
+    {
+      "$id": 72,
+      "style": 15,
+      "name": "Rising Dragon"
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "Spinning Elbow"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Triumphal Axe"
+    },
+    {
+      "$id": 75,
+      "style": 15,
+      "name": "Raging Charge"
+    },
+    {
+      "$id": 76,
+      "style": 15,
+      "name": "Berserker Slash"
+    },
+    {
+      "$id": 77,
+      "style": 15,
+      "name": "Strong Horn"
+    },
+    {
+      "$id": 78,
+      "style": 15,
+      "name": "Power Spike"
+    },
+    {
+      "$id": 79,
+      "style": 15,
+      "name": "Heavy Hitter"
+    },
+    {
+      "$id": 80,
+      "style": 15,
+      "name": "Feral Spin"
+    },
+    {
+      "$id": 81,
+      "style": 15,
+      "name": "Vulture Peck"
+    },
+    {
+      "$id": 82,
+      "style": 15,
+      "name": "Gyro Break"
+    },
+    {
+      "$id": 83,
+      "style": 15,
+      "name": "Raptor Raid"
+    },
+    {
+      "$id": 84,
+      "style": 15,
+      "name": "Discus Glaive"
+    },
+    {
+      "$id": 85,
+      "style": 15,
+      "name": "Crown Splitter"
+    },
+    {
+      "$id": 86,
+      "style": 15,
+      "name": "Spiral Uppercut"
+    },
+    {
+      "$id": 87,
+      "style": 15,
+      "name": "Twin Dragons"
+    },
+    {
+      "$id": 88,
+      "style": 15,
+      "name": "Windmill"
+    },
+    {
+      "$id": 89,
+      "style": 15,
+      "name": "Brutal Swing"
+    },
+    {
+      "$id": 90,
+      "style": 15,
+      "name": "Meteor Lance"
+    },
+    {
+      "$id": 91,
+      "style": 15,
+      "name": "Powerhouse Smash"
+    },
+    {
+      "$id": 92,
+      "style": 15,
+      "name": "Supersonic Spin"
+    },
+    {
+      "$id": 93,
+      "style": 15,
+      "name": "Daring Shot"
+    },
+    {
+      "$id": 94,
+      "style": 15,
+      "name": "Armor Crusher"
+    },
+    {
+      "$id": 95,
+      "style": 15,
+      "name": "Grenade Launcher"
+    },
+    {
+      "$id": 96,
+      "style": 15,
+      "name": "Wild Volley"
+    },
+    {
+      "$id": 97,
+      "style": 15,
+      "name": "Breach Shot"
+    },
+    {
+      "$id": 98,
+      "style": 15,
+      "name": "Leopard Blow"
+    },
+    {
+      "$id": 99,
+      "style": 15,
+      "name": "Cattle Driver"
+    },
+    {
+      "$id": 100,
+      "style": 15,
+      "name": "Pulse Fire"
+    },
+    {
+      "$id": 101,
+      "style": 15,
+      "name": "Ogre Slam"
+    },
+    {
+      "$id": 102,
+      "style": 15,
+      "name": "Woodcutter"
+    },
+    {
+      "$id": 103,
+      "style": 15,
+      "name": "Touch-Me-Not"
+    },
+    {
+      "$id": 104,
+      "style": 15,
+      "name": "Mist Buster"
+    },
+    {
+      "$id": 105,
+      "style": 15,
+      "name": "Burst Gunner"
+    },
+    {
+      "$id": 106,
+      "style": 15,
+      "name": "Haywire Chainshot"
+    },
+    {
+      "$id": 107,
+      "style": 15,
+      "name": "Blowback Cannon"
+    },
+    {
+      "$id": 108,
+      "style": 15,
+      "name": "Laserpoint Bazooka"
+    },
+    {
+      "$id": 109,
+      "style": 15,
+      "name": "Iron Wall"
+    },
+    {
+      "$id": 110,
+      "style": 15,
+      "name": "Diving Swing"
+    },
+    {
+      "$id": 111,
+      "style": 15,
+      "name": "Power Hammer"
+    },
+    {
+      "$id": 112,
+      "style": 15,
+      "name": "Mighty Beat"
+    },
+    {
+      "$id": 113,
+      "style": 15,
+      "name": "Rumbling Smash"
+    },
+    {
+      "$id": 114,
+      "style": 15,
+      "name": "Elephant Press"
+    },
+    {
+      "$id": 115,
+      "style": 15,
+      "name": "Buckler Slam"
+    },
+    {
+      "$id": 116,
+      "style": 15,
+      "name": "Hammerhead"
+    },
+    {
+      "$id": 117,
+      "style": 15,
+      "name": "Vajra Blow"
+    },
+    {
+      "$id": 118,
+      "style": 15,
+      "name": "Battle Top"
+    },
+    {
+      "$id": 119,
+      "style": 15,
+      "name": "Mountain Crusher"
+    },
+    {
+      "$id": 120,
+      "style": 15,
+      "name": "Decimator"
+    },
+    {
+      "$id": 121,
+      "style": 15,
+      "name": "Impregnable Shield"
+    },
+    {
+      "$id": 122,
+      "style": 15,
+      "name": "Brawl Swing"
+    },
+    {
+      "$id": 123,
+      "style": 15,
+      "name": "Behemoth Uppercut"
+    },
+    {
+      "$id": 124,
+      "style": 15,
+      "name": "Detonation Blow"
+    },
+    {
+      "$id": 125,
+      "style": 15,
+      "name": "Sword Uppercut"
+    },
+    {
+      "$id": 126,
+      "style": 15,
+      "name": "Feral Blade"
+    },
+    {
+      "$id": 127,
+      "style": 15,
+      "name": "Breakdown"
+    },
+    {
+      "$id": 128,
+      "style": 15,
+      "name": "Dual Slash"
+    },
+    {
+      "$id": 129,
+      "style": 15,
+      "name": "Deathbound"
+    },
+    {
+      "$id": 130,
+      "style": 15,
+      "name": "Scorpion Tail"
+    },
+    {
+      "$id": 131,
+      "style": 15,
+      "name": "Wolf Fang"
+    },
+    {
+      "$id": 132,
+      "style": 15,
+      "name": "Triple Flash"
+    },
+    {
+      "$id": 133,
+      "style": 15,
+      "name": "Aerial Slash"
+    },
+    {
+      "$id": 134,
+      "style": 15,
+      "name": "Eclipse Blade"
+    },
+    {
+      "$id": 135,
+      "style": 15,
+      "name": "Overfall"
+    },
+    {
+      "$id": 136,
+      "style": 15,
+      "name": "Quadruple Slash"
+    },
+    {
+      "$id": 137,
+      "style": 15,
+      "name": "Reverb Blade"
+    },
+    {
+      "$id": 138,
+      "style": 15,
+      "name": "Psychic Sword"
+    },
+    {
+      "$id": 139,
+      "style": 15,
+      "name": "Aerial Edge"
+    },
+    {
+      "$id": 140,
+      "style": 15,
+      "name": "Shogun Slash"
+    },
+    {
+      "$id": 141,
+      "style": 15,
+      "name": "Touchdown"
+    },
+    {
+      "$id": 142,
+      "style": 15,
+      "name": "Brave Throw"
+    },
+    {
+      "$id": 143,
+      "style": 15,
+      "name": "Strong Shot"
+    },
+    {
+      "$id": 144,
+      "style": 15,
+      "name": "Mighty Ball"
+    },
+    {
+      "$id": 145,
+      "style": 15,
+      "name": "Dolphin Spin"
+    },
+    {
+      "$id": 146,
+      "style": 15,
+      "name": "Healing Circle"
+    },
+    {
+      "$id": 147,
+      "style": 15,
+      "name": "Falcon Turn"
+    },
+    {
+      "$id": 148,
+      "style": 15,
+      "name": "Acrobatic Bomber"
+    },
+    {
+      "$id": 149,
+      "style": 15,
+      "name": "Dragonbane Shot"
+    },
+    {
+      "$id": 150,
+      "style": 15,
+      "name": "Celestial Flash"
+    },
+    {
+      "$id": 151,
+      "style": 15,
+      "name": "Shadowrunner"
+    },
+    {
+      "$id": 152,
+      "style": 15,
+      "name": "Gliding Swallow"
+    },
+    {
+      "$id": 153,
+      "style": 15,
+      "name": "Rumble Pitch"
+    },
+    {
+      "$id": 154,
+      "style": 15,
+      "name": "Pulverizing Dunk"
+    },
+    {
+      "$id": 155,
+      "style": 15,
+      "name": "Shell Shot"
+    },
+    {
+      "$id": 156,
+      "style": 15,
+      "name": "Precipitous Impact"
+    },
+    {
+      "$id": 157,
+      "style": 15,
+      "name": "Feral Uppercut"
+    },
+    {
+      "$id": 158,
+      "style": 15,
+      "name": "Grand Smash"
+    },
+    {
+      "$id": 159,
+      "style": 15,
+      "name": "Bullet Punch"
+    },
+    {
+      "$id": 160,
+      "style": 15,
+      "name": "Mach Straight Punch"
+    },
+    {
+      "$id": 161,
+      "style": 15,
+      "name": "Jackal Claw"
+    },
+    {
+      "$id": 162,
+      "style": 15,
+      "name": "Raptor Beat"
+    },
+    {
+      "$id": 163,
+      "style": 15,
+      "name": "Comet Punch"
+    },
+    {
+      "$id": 164,
+      "style": 15,
+      "name": "Deadly Twister"
+    },
+    {
+      "$id": 165,
+      "style": 15,
+      "name": "Armored Fist"
+    },
+    {
+      "$id": 166,
+      "style": 15,
+      "name": "Takedown"
+    },
+    {
+      "$id": 167,
+      "style": 15,
+      "name": "Sneak Hit"
+    },
+    {
+      "$id": 168,
+      "style": 15,
+      "name": "Peerless Blow"
+    },
+    {
+      "$id": 169,
+      "style": 15,
+      "name": "Hammer Lariat"
+    },
+    {
+      "$id": 170,
+      "style": 15,
+      "name": "Fury Dropkick"
+    },
+    {
+      "$id": 171,
+      "style": 15,
+      "name": "Dynamite Knuckle"
+    },
+    {
+      "$id": 172,
+      "style": 15,
+      "name": "Skysplitter Cross Chop"
+    },
+    {
+      "$id": 173,
+      "style": 15,
+      "name": "Ultraslash"
+    },
+    {
+      "$id": 174,
+      "style": 15,
+      "name": "Skyward Slash"
+    },
+    {
+      "$id": 175,
+      "style": 15,
+      "name": "Empty Moment"
+    },
+    {
+      "$id": 176,
+      "style": 15,
+      "name": "Stunned Swallow"
+    },
+    {
+      "$id": 177,
+      "style": 15,
+      "name": "Heavenly Disrupt"
+    },
+    {
+      "$id": 178,
+      "style": 15,
+      "name": "Hammer Bash"
+    },
+    {
+      "$id": 179,
+      "style": 15,
+      "name": "Sword Strike"
+    },
+    {
+      "$id": 180,
+      "style": 15,
+      "name": "Spiral Savate"
+    },
+    {
+      "$id": 181,
+      "style": 15,
+      "name": "Chakra Burst"
+    },
+    {
+      "$id": 182,
+      "style": 15,
+      "name": "Revolt Smash"
+    },
+    {
+      "$id": 183,
+      "style": 15,
+      "name": "Screw Reaper"
+    },
+    {
+      "$id": 184,
+      "style": 15,
+      "name": "Rising Crescent"
+    },
+    {
+      "$id": 185,
+      "style": 15,
+      "name": "Withering Assault"
+    },
+    {
+      "$id": 186,
+      "style": 15,
+      "name": "Brutal Scythe"
+    },
+    {
+      "$id": 187,
+      "style": 15,
+      "name": "Capra Assault"
+    },
+    {
+      "$id": 188,
+      "style": 15,
+      "name": "Grizzly Smash"
+    },
+    {
+      "$id": 189,
+      "style": 15,
+      "name": "Creeping Slicer"
+    },
+    {
+      "$id": 190,
+      "style": 15,
+      "name": "Tempest Strike"
+    },
+    {
+      "$id": 191,
+      "style": 15,
+      "name": "Sacred Beast's Blessing"
+    },
+    {
+      "$id": 192,
+      "style": 15,
+      "name": "Cyclonic Blade"
+    },
+    {
+      "$id": 193,
+      "style": 15,
+      "name": "Azure Dragon Storm"
+    },
+    {
+      "$id": 194,
+      "style": 15,
+      "name": "Surprise Elbow"
+    },
+    {
+      "$id": 195,
+      "style": 15,
+      "name": "Careful Swing"
+    },
+    {
+      "$id": 196,
+      "style": 15,
+      "name": "Standing Ovation"
+    },
+    {
+      "$id": 197,
+      "style": 15,
+      "name": "Bewilder Slash"
+    },
+    {
+      "$id": 198,
+      "style": 15,
+      "name": "Earth Splitter"
+    },
+    {
+      "$id": 199,
+      "style": 15,
+      "name": "Powerquake"
+    },
+    {
+      "$id": 200,
+      "style": 15,
+      "name": "Final Stone"
+    },
+    {
+      "$id": 201,
+      "style": 15,
+      "name": "Dust Up"
+    },
+    {
+      "$id": 202,
+      "style": 15,
+      "name": "Condor's Beak"
+    },
+    {
+      "$id": 203,
+      "style": 15,
+      "name": "Sand Break"
+    },
+    {
+      "$id": 204,
+      "style": 15,
+      "name": "Cobra Raid"
+    },
+    {
+      "$id": 205,
+      "style": 15,
+      "name": "Merciless Twister"
+    },
+    {
+      "$id": 206,
+      "style": 15,
+      "name": "Blunt Force"
+    },
+    {
+      "$id": 207,
+      "style": 15,
+      "name": "Heaven's Valor"
+    },
+    {
+      "$id": 208,
+      "style": 15,
+      "name": "Lunar Salutation"
+    },
+    {
+      "$id": 209,
+      "style": 15,
+      "name": "Twisted Thistle"
+    },
+    {
+      "$id": 210,
+      "style": 15,
+      "name": "Grudge Blow"
+    },
+    {
+      "$id": 211,
+      "style": 15,
+      "name": "Heaven's Revenge"
+    },
+    {
+      "$id": 212,
+      "style": 15,
+      "name": "Takedown Smash"
+    },
+    {
+      "$id": 213,
+      "style": 15,
+      "name": "Whirlwind of Passion"
+    },
+    {
+      "$id": 214,
+      "style": 15,
+      "name": "Opened Fan"
+    },
+    {
+      "$id": 215,
+      "style": 15,
+      "name": "Screw Cutter"
+    },
+    {
+      "$id": 216,
+      "style": 15,
+      "name": "Cross Edge"
+    },
+    {
+      "$id": 217,
+      "style": 15,
+      "name": "Brave Wing"
+    },
+    {
+      "$id": 218,
+      "style": 15,
+      "name": "Swallowtail"
+    },
+    {
+      "$id": 219,
+      "style": 15,
+      "name": "Scarecrow"
+    },
+    {
+      "$id": 220,
+      "style": 15,
+      "name": "Vicious Circle"
+    },
+    {
+      "$id": 221,
+      "style": 15,
+      "name": "Healing Trick"
+    },
+    {
+      "$id": 222,
+      "style": 15,
+      "name": "Albatross Cut"
+    },
+    {
+      "$id": 223,
+      "style": 15,
+      "name": "2,000 Wings"
+    },
+    {
+      "$id": 224,
+      "style": 15,
+      "name": "Black Wing Dance"
+    },
+    {
+      "$id": 225,
+      "style": 15,
+      "name": "Stoking the Fire"
+    },
+    {
+      "$id": 226,
+      "style": 15,
+      "name": "Twilight Twist"
+    },
+    {
+      "$id": 227,
+      "style": 15,
+      "name": "Bold Division"
+    },
+    {
+      "$id": 228,
+      "style": 15,
+      "name": "Gutsy Cutter"
+    },
+    {
+      "$id": 229,
+      "style": 15,
+      "name": "Exquisite Spiral"
+    },
+    {
+      "$id": 230,
+      "style": 15,
+      "name": "Thunderclap"
+    },
+    {
+      "$id": 231,
+      "style": 15,
+      "name": "Haphazard Throw"
+    },
+    {
+      "$id": 232,
+      "style": 15,
+      "name": "Cutting Edge"
+    },
+    {
+      "$id": 233,
+      "style": 15,
+      "name": "Rebel's Dagger"
+    },
+    {
+      "$id": 234,
+      "style": 15,
+      "name": "Papillon Dance"
+    },
+    {
+      "$id": 235,
+      "style": 15,
+      "name": "Cheetah Scratch"
+    },
+    {
+      "$id": 236,
+      "style": 15,
+      "name": "Tricksy Loop"
+    },
+    {
+      "$id": 237,
+      "style": 15,
+      "name": "Lustrous Heal"
+    },
+    {
+      "$id": 238,
+      "style": 15,
+      "name": "Photon Slash"
+    },
+    {
+      "$id": 239,
+      "style": 15,
+      "name": "Marigold in Bloom"
+    },
+    {
+      "$id": 240,
+      "style": 15,
+      "name": "Flowing Shadow"
+    },
+    {
+      "$id": 241,
+      "style": 15,
+      "name": "Mastery of Sky Sparks"
+    },
+    {
+      "$id": 242,
+      "style": 15,
+      "name": "Electroshade Twist"
+    },
+    {
+      "$id": 243,
+      "style": 15,
+      "name": "Bewitching Divide"
+    },
+    {
+      "$id": 244,
+      "style": 15,
+      "name": "Thunderslam"
+    },
+    {
+      "$id": 245,
+      "style": 15,
+      "name": "Florid Spiral"
+    },
+    {
+      "$id": 246,
+      "style": 15,
+      "name": "Critical Trigger"
+    },
+    {
+      "$id": 247,
+      "style": 15,
+      "name": "Mighty Missile"
+    },
+    {
+      "$id": 248,
+      "style": 15,
+      "name": "Grenade Burst"
+    },
+    {
+      "$id": 249,
+      "style": 15,
+      "name": "Flamecaster"
+    },
+    {
+      "$id": 250,
+      "style": 15,
+      "name": "Surprise Shot"
+    },
+    {
+      "$id": 251,
+      "style": 15,
+      "name": "Porcupine Blow"
+    },
+    {
+      "$id": 252,
+      "style": 15,
+      "name": "Mayfly"
+    },
+    {
+      "$id": 253,
+      "style": 15,
+      "name": "Phosphorescent Flare"
+    },
+    {
+      "$id": 254,
+      "style": 15,
+      "name": "Cruel Musket"
+    },
+    {
+      "$id": 255,
+      "style": 15,
+      "name": "Thorn Assault"
+    },
+    {
+      "$id": 256,
+      "style": 15,
+      "name": "Rhododendron"
+    },
+    {
+      "$id": 257,
+      "style": 15,
+      "name": "Chimera Drop"
+    },
+    {
+      "$id": 258,
+      "style": 15,
+      "name": "Breakthrough Cannon"
+    },
+    {
+      "$id": 259,
+      "style": 15,
+      "name": "Frenzied Fire"
+    },
+    {
+      "$id": 260,
+      "style": 15,
+      "name": "Stark Artillery"
+    },
+    {
+      "$id": 261,
+      "style": 15,
+      "name": "Crazed Bazooka"
+    },
+    {
+      "$id": 262,
+      "style": 15,
+      "name": "Wild Slugger"
+    },
+    {
+      "$id": 263,
+      "style": 15,
+      "name": "Terror Smash"
+    },
+    {
+      "$id": 264,
+      "style": 15,
+      "name": "Rock Bullet"
+    },
+    {
+      "$id": 265,
+      "style": 15,
+      "name": "Giant Straight"
+    },
+    {
+      "$id": 266,
+      "style": 15,
+      "name": "Lion Claw"
+    },
+    {
+      "$id": 267,
+      "style": 15,
+      "name": "Meteor Punch"
+    },
+    {
+      "$id": 268,
+      "style": 15,
+      "name": "Raging Screw"
+    },
+    {
+      "$id": 269,
+      "style": 15,
+      "name": "Buffalo Beat"
+    },
+    {
+      "$id": 270,
+      "style": 15,
+      "name": "Armor Breaker"
+    },
+    {
+      "$id": 271,
+      "style": 15,
+      "name": "Bear Twist"
+    },
+    {
+      "$id": 272,
+      "style": 15,
+      "name": "Devastating Tremor"
+    },
+    {
+      "$id": 273,
+      "style": 15,
+      "name": "Earth Mover"
+    },
+    {
+      "$id": 274,
+      "style": 15,
+      "name": "Sublime Lariat"
+    },
+    {
+      "$id": 275,
+      "style": 15,
+      "name": "Falling Dropkick"
+    },
+    {
+      "$id": 276,
+      "style": 15,
+      "name": "Decisive Knuckle"
+    },
+    {
+      "$id": 277,
+      "style": 15,
+      "name": "Sacrificial Chop"
+    },
+    {
+      "$id": 278,
+      "style": 15,
+      "name": "Gale Upper"
+    },
+    {
+      "$id": 279,
+      "style": 15,
+      "name": "Wind Smash"
+    },
+    {
+      "$id": 280,
+      "style": 15,
+      "name": "Stormstarter"
+    },
+    {
+      "$id": 281,
+      "style": 15,
+      "name": "Hurricane Punch"
+    },
+    {
+      "$id": 282,
+      "style": 15,
+      "name": "Sabertooth Slash"
+    },
+    {
+      "$id": 283,
+      "style": 15,
+      "name": "Updraft"
+    },
+    {
+      "$id": 284,
+      "style": 15,
+      "name": "Whirlwind"
+    },
+    {
+      "$id": 285,
+      "style": 15,
+      "name": "Universal Beat"
+    },
+    {
+      "$id": 286,
+      "style": 15,
+      "name": "Blade of the Abyss"
+    },
+    {
+      "$id": 287,
+      "style": 15,
+      "name": "Blunt Aggression"
+    },
+    {
+      "$id": 288,
+      "style": 15,
+      "name": "Galeforce Blow"
+    },
+    {
+      "$id": 289,
+      "style": 15,
+      "name": "No Love Lost"
+    },
+    {
+      "$id": 290,
+      "style": 15,
+      "name": "Menacing Lariat"
+    },
+    {
+      "$id": 291,
+      "style": 15,
+      "name": "Hurricane Dropkick"
+    },
+    {
+      "$id": 292,
+      "style": 15,
+      "name": "Shuddering Tonfa"
+    },
+    {
+      "$id": 293,
+      "style": 15,
+      "name": "Wind Dragon Chop"
+    },
+    {
+      "$id": 294,
+      "style": 15,
+      "name": "Monado Shield"
+    },
+    {
+      "$id": 295,
+      "style": 15,
+      "name": "Monado Storm"
+    },
+    {
+      "$id": 296,
+      "style": 15,
+      "name": "Monado Burst"
+    },
+    {
+      "$id": 297,
+      "style": 15,
+      "name": "Monado Beat"
+    },
+    {
+      "$id": 298,
+      "style": 15,
+      "name": "Lightning Smash"
+    },
+    {
+      "$id": 299,
+      "style": 15,
+      "name": "Monado Striker"
+    },
+    {
+      "$id": 300,
+      "style": 15,
+      "name": "Lucent Glance"
+    },
+    {
+      "$id": 301,
+      "style": 15,
+      "name": "Beam Thrust"
+    },
+    {
+      "$id": 302,
+      "style": 15,
+      "name": "Steel Brand"
+    },
+    {
+      "$id": 303,
+      "style": 15,
+      "name": "Blade Masquerade"
+    },
+    {
+      "$id": 304,
+      "style": 15,
+      "name": "Echo Edge"
+    },
+    {
+      "$id": 305,
+      "style": 15,
+      "name": "Sudden Smite"
+    },
+    {
+      "$id": 306,
+      "style": 15,
+      "name": "Helios Circle"
+    },
+    {
+      "$id": 307,
+      "style": 15,
+      "name": "Ragnarok Slash"
+    },
+    {
+      "$id": 308,
+      "style": 15,
+      "name": "Nemesis Beat"
+    },
+    {
+      "$id": 309,
+      "style": 15,
+      "name": "Monado Shield"
+    },
+    {
+      "$id": 310,
+      "style": 15,
+      "name": "Wind Slicer"
+    },
+    {
+      "$id": 311,
+      "style": 15,
+      "name": "Skyward Edge"
+    },
+    {
+      "$id": 312,
+      "style": 15,
+      "name": "Infinity Wing"
+    },
+    {
+      "$id": 313,
+      "style": 15,
+      "name": "Screw Edge"
+    },
+    {
+      "$id": 314,
+      "style": 15,
+      "name": "Air Slash"
+    },
+    {
+      "$id": 315,
+      "style": 15,
+      "name": "Avian Spin"
+    },
+    {
+      "$id": 316,
+      "style": 15,
+      "name": "Whirling Edge"
+    },
+    {
+      "$id": 317,
+      "style": 15,
+      "name": "Soothing Breeze"
+    },
+    {
+      "$id": 318,
+      "style": 15,
+      "name": "Draconic Lunge"
+    },
+    {
+      "$id": 319,
+      "style": 15,
+      "name": "Phoenix Dance"
+    },
+    {
+      "$id": 320,
+      "style": 15,
+      "name": "Universe Flicker"
+    },
+    {
+      "$id": 321,
+      "style": 15,
+      "name": "Moongale Waltz"
+    },
+    {
+      "$id": 322,
+      "style": 15,
+      "name": "Tempest Twist"
+    },
+    {
+      "$id": 323,
+      "style": 15,
+      "name": "Flareflash Divide"
+    },
+    {
+      "$id": 324,
+      "style": 15,
+      "name": "Windmill Cutter"
+    },
+    {
+      "$id": 325,
+      "style": 15,
+      "name": "Typhoon Spin"
+    },
+    {
+      "$id": 326,
+      "style": 15,
+      "name": "Path of Thorns"
+    },
+    {
+      "$id": 327,
+      "style": 15,
+      "name": "Spinning Wheel"
+    },
+    {
+      "$id": 328,
+      "style": 15,
+      "name": "Hungry Snake"
+    },
+    {
+      "$id": 329,
+      "style": 15,
+      "name": "Sundance"
+    },
+    {
+      "$id": 330,
+      "style": 15,
+      "name": "Spindle Step"
+    },
+    {
+      "$id": 331,
+      "style": 15,
+      "name": "Moondance"
+    },
+    {
+      "$id": 332,
+      "style": 15,
+      "name": "Touch-Me-Not"
+    },
+    {
+      "$id": 333,
+      "style": 15,
+      "name": "Chillstroke"
+    },
+    {
+      "$id": 334,
+      "style": 15,
+      "name": "Snowblast"
+    },
+    {
+      "$id": 335,
+      "style": 15,
+      "name": "Starslash"
+    },
+    {
+      "$id": 336,
+      "style": 15,
+      "name": "Frostbreak"
+    },
+    {
+      "$id": 337,
+      "style": 15,
+      "name": "Skycleave"
+    },
+    {
+      "$id": 338,
+      "style": 15,
+      "name": "Freezebomb"
+    },
+    {
+      "$id": 339,
+      "style": 15,
+      "name": "Thin Ice"
+    },
+    {
+      "$id": 340,
+      "style": 15,
+      "name": "Mighty Gust"
+    },
+    {
+      "$id": 341,
+      "style": 15,
+      "name": "Swift Gale"
+    },
+    {
+      "$id": 342,
+      "style": 15,
+      "name": "Wind of Healing"
+    },
+    {
+      "$id": 343,
+      "style": 15,
+      "name": "Baric Blast"
+    },
+    {
+      "$id": 344,
+      "style": 15,
+      "name": "Fierce Tempest"
+    },
+    {
+      "$id": 345,
+      "style": 15,
+      "name": "Gentle Zephyr"
+    },
+    {
+      "$id": 346,
+      "style": 15,
+      "name": "Stormy Skies"
+    },
+    {
+      "$id": 347,
+      "style": 15,
+      "name": "Rising Arc"
+    },
+    {
+      "$id": 348,
+      "style": 15,
+      "name": "Legion Scatter"
+    },
+    {
+      "$id": 349,
+      "style": 15,
+      "name": "Ogre Smash"
+    },
+    {
+      "$id": 350,
+      "style": 15,
+      "name": "Fury Wave"
+    },
+    {
+      "$id": 351,
+      "style": 15,
+      "name": "Shadow Thrust"
+    },
+    {
+      "$id": 352,
+      "style": 15,
+      "name": "Edgestrike"
+    },
+    {
+      "$id": 353,
+      "style": 15,
+      "name": "Illustrious Slash"
+    },
+    {
+      "$id": 354,
+      "style": 15,
+      "name": "Ray of Punishment"
+    },
+    {
+      "$id": 355,
+      "style": 15,
+      "name": "Lightning Buster"
+    },
+    {
+      "$id": 356,
+      "style": 15,
+      "name": "Photon Edge"
+    },
+    {
+      "$id": 357,
+      "style": 15,
+      "name": "Spectral Halo"
+    },
+    {
+      "$id": 358,
+      "style": 15,
+      "name": "Radiance Bomb"
+    },
+    {
+      "$id": 359,
+      "style": 15,
+      "name": "Aureole"
+    },
+    {
+      "$id": 360,
+      "style": 15,
+      "name": "Blinding Flash"
+    },
+    {
+      "$id": 361,
+      "style": 15,
+      "name": "Gancho"
+    },
+    {
+      "$id": 362,
+      "style": 15,
+      "name": "Huracán"
+    },
+    {
+      "$id": 363,
+      "style": 15,
+      "name": "Castigo"
+    },
+    {
+      "$id": 364,
+      "style": 15,
+      "name": "Hilo"
+    },
+    {
+      "$id": 365,
+      "style": 15,
+      "name": "Libre"
+    },
+    {
+      "$id": 366,
+      "style": 15,
+      "name": "Dorso"
+    },
+    {
+      "$id": 367,
+      "style": 15,
+      "name": "Sierpe"
+    },
+    {
+      "$id": 368,
+      "style": 15,
+      "name": "Shield Bash"
+    },
+    {
+      "$id": 369,
+      "style": 15,
+      "name": "Guard Shift"
+    },
+    {
+      "$id": 370,
+      "style": 15,
+      "name": "Round Cutter"
+    },
+    {
+      "$id": 371,
+      "style": 15,
+      "name": "Imperial Challenge"
+    },
+    {
+      "$id": 372,
+      "style": 15,
+      "name": "Adamant Arm"
+    },
+    {
+      "$id": 373,
+      "style": 15,
+      "name": "Banishment"
+    },
+    {
+      "$id": 374,
+      "style": 15,
+      "name": "Sword Strike"
+    },
+    {
+      "$id": 375,
+      "style": 15,
+      "name": "Heat Kasumi"
+    },
+    {
+      "$id": 376,
+      "style": 15,
+      "name": "Will-o'-the-Wisp"
+    },
+    {
+      "$id": 377,
+      "style": 15,
+      "name": "Swirling Dragon"
+    },
+    {
+      "$id": 378,
+      "style": 15,
+      "name": "Crucible"
+    },
+    {
+      "$id": 379,
+      "style": 15,
+      "name": "Dance of Flame"
+    },
+    {
+      "$id": 380,
+      "style": 15,
+      "name": "Shadowflare"
+    },
+    {
+      "$id": 381,
+      "style": 15,
+      "name": "Leaping Blaze"
+    },
+    {
+      "$id": 382,
+      "style": 15,
+      "name": "Water Moon"
+    },
+    {
+      "$id": 383,
+      "style": 15,
+      "name": "Breaking Wave"
+    },
+    {
+      "$id": 384,
+      "style": 15,
+      "name": "Midnight Mist"
+    },
+    {
+      "$id": 385,
+      "style": 15,
+      "name": "Becalm"
+    },
+    {
+      "$id": 386,
+      "style": 15,
+      "name": "Waterspout"
+    },
+    {
+      "$id": 387,
+      "style": 15,
+      "name": "Quicksilver"
+    },
+    {
+      "$id": 388,
+      "style": 15,
+      "name": "Rushing Tide"
+    },
+    {
+      "$id": 389,
+      "style": 15,
+      "name": "Swallow's Flight"
+    },
+    {
+      "$id": 390,
+      "style": 15,
+      "name": "Inexhaustible"
+    },
+    {
+      "$id": 391,
+      "style": 15,
+      "name": "Winds of Time"
+    },
+    {
+      "$id": 392,
+      "style": 15,
+      "name": "Transcend"
+    },
+    {
+      "$id": 393,
+      "style": 15,
+      "name": "Glimpse the Future"
+    },
+    {
+      "$id": 394,
+      "style": 15,
+      "name": "Duelo"
+    },
+    {
+      "$id": 395,
+      "style": 15,
+      "name": "Imperial Tether"
+    },
+    {
+      "$id": 396,
+      "style": 15,
+      "name": "Confining Flames"
+    },
+    {
+      "$id": 397,
+      "style": 15,
+      "name": "Counterwave"
+    },
+    {
+      "$id": 398,
+      "style": 15,
+      "name": "Dark Edge"
+    },
+    {
+      "$id": 399,
+      "style": 15,
+      "name": "Trickshot"
+    },
+    {
+      "$id": 400,
+      "style": 15,
+      "name": "Mystic Slice"
+    },
+    {
+      "$id": 401,
+      "style": 15,
+      "name": "Shadow Twist"
+    },
+    {
+      "$id": 402,
+      "style": 15,
+      "name": "Panther Edge"
+    },
+    {
+      "$id": 403,
+      "style": 15,
+      "name": "Sword Slap"
+    },
+    {
+      "$id": 404,
+      "style": 15,
+      "name": "Bat Tango"
+    },
+    {
+      "$id": 405,
+      "style": 15,
+      "name": "Soothing Twilight"
+    },
+    {
+      "$id": 406,
+      "style": 15,
+      "name": "Phantom Pivot"
+    },
+    {
+      "$id": 407,
+      "style": 15,
+      "name": "Gloomwheel"
+    },
+    {
+      "$id": 408,
+      "style": 15,
+      "name": "Fogcutter"
+    },
+    {
+      "$id": 409,
+      "style": 15,
+      "name": "Nightfire"
+    },
+    {
+      "$id": 410,
+      "style": 15,
+      "name": "Calamity Feint"
+    },
+    {
+      "$id": 411,
+      "style": 15,
+      "name": "Astonishing Slash"
+    },
+    {
+      "$id": 412,
+      "style": 15,
+      "name": "Supremacy Spin"
+    },
+    {
+      "$id": 413,
+      "style": 15,
+      "name": "Profundity Grace"
+    },
+    {
+      "$id": 414,
+      "style": 15,
+      "name": "Flash Uppercut"
+    },
+    {
+      "$id": 415,
+      "style": 15,
+      "name": "Night Breaker"
+    },
+    {
+      "$id": 416,
+      "style": 15,
+      "name": "Starfall"
+    },
+    {
+      "$id": 417,
+      "style": 15,
+      "name": "Victory Slash"
+    },
+    {
+      "$id": 418,
+      "style": 15,
+      "name": "Regal Hunter"
+    },
+    {
+      "$id": 419,
+      "style": 15,
+      "name": "Tiger Tail"
+    },
+    {
+      "$id": 420,
+      "style": 15,
+      "name": "Dragon Fang"
+    },
+    {
+      "$id": 421,
+      "style": 15,
+      "name": "Dazzling Rush"
+    },
+    {
+      "$id": 422,
+      "style": 15,
+      "name": "Lightsplitter"
+    },
+    {
+      "$id": 423,
+      "style": 15,
+      "name": "New Moon"
+    },
+    {
+      "$id": 424,
+      "style": 15,
+      "name": "Sirius"
+    },
+    {
+      "$id": 425,
+      "style": 15,
+      "name": "Binary Star"
+    },
+    {
+      "$id": 426,
+      "style": 15,
+      "name": "Galactic Strike"
+    },
+    {
+      "$id": 427,
+      "style": 15,
+      "name": "Dark Matter Assault"
+    },
+    {
+      "$id": 428,
+      "style": 15,
+      "name": "Dynasty Sweep"
+    },
+    {
+      "$id": 429,
+      "style": 15,
+      "name": "Sovereign Approach"
+    }
+  ]
+}

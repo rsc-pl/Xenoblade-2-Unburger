@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400085_01_msg0001",
+      "style": 84,
+      "name": "You've come from the outside,\nhaven't you? Allow me to teach\nyou about our city."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400085_01_msg0002",
+      "style": 84,
+      "name": "You see the tower-like structure in the\ncenter of Elmos Square? The Divine Beast's\nether flows through that."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400085_01_msg0003",
+      "style": 84,
+      "name": "We use the energy to heat our\nwater, which is circulated throughout\nthe kingdom."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400085_01_msg0004",
+      "style": 84,
+      "name": "So even if there's a frightful blizzard\noutside, we get to stay lovely and\ntoasty. Insightful, no?"
+    }
+  ]
+}

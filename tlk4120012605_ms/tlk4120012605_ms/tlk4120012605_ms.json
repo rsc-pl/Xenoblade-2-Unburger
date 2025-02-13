@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200126_05_msg0001",
+      "style": 84,
+      "name": "Hey, guess what? Teetapz says he's\ngoing to make me into a star next!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200126_05_msg0002",
+      "style": 84,
+      "name": "I'm nowhere near as good as Nanakoori\njust yet, but still..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200126_05_msg0003",
+      "style": 84,
+      "name": "I want to be out there in Alba\nCavanich's plaza, performing\nmy heart out!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200126_05_msg0004",
+      "style": 84,
+      "name": "Nanakoori's show inspired me so much,\nI'll take to the stage with passion!"
+    }
+  ]
+}

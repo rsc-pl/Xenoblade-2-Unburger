@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320123_01_msg0001",
+      "style": 84,
+      "name": "Did you know that there are special\nenemies called \"unique monsters\"?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320123_01_msg0002",
+      "style": 84,
+      "name": "They're supposed to be absurdly\npowerful. Far stronger than your\naverage monster."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320123_01_msg0003",
+      "style": 84,
+      "name": "If you pick a fight with one of them\nunprepared, it'll be curtains for you.\nI've heard some grisly tales..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320123_01_msg0004",
+      "style": 84,
+      "name": "Ahh, the mere thought... *shudder*"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320123_01_msg0005",
+      "style": 84,
+      "name": "Don't you go charging in without\nknowing what you're getting yourself\ninto first, do you hear?"
+    }
+  ]
+}

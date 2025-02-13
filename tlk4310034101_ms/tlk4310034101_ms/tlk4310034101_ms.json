@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100341_01_msg0001",
+      "style": 84,
+      "name": "My little brother Veero's such a\ncrybaby."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100341_01_msg0002",
+      "style": 84,
+      "name": "This one time, he tripped and skinned\nhis knee the tiniest bit, but he was\nbawling about it for hours!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100341_01_msg0003",
+      "style": 84,
+      "name": "I don't see how he's going to handle\nbeing an Invidian soldier..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100341_01_msg0004",
+      "style": 84,
+      "name": "The only thing he's good at is studying,\nreally. I'm kind of worried about him..."
+    }
+  ]
+}

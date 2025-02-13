@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300077_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Acedia!\nWhether it's sightseeing or shopping\nyou're after, Acedia has it all."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300077_01_msg0002",
+      "style": 84,
+      "name": "Tensions are rising between\nInvidia and Superbia, but\nAcedia is a safe haven."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300077_01_msg0003",
+      "style": 84,
+      "name": "The cathedral, where Pope\nMarveni resides, is just up\nthose steps."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46300077_01_msg0004",
+      "style": 84,
+      "name": "You'll probably want to tarry a while in\nPoldis Circle, though. You can get all\nkinds of Acedian specialties there."
+    }
+  ]
+}

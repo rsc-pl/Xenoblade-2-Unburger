@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4232016201_msg0001",
+      "style": 84,
+      "name": "Am so sorry, Bahn... *huff pant*\nYour dadapon was gone long time...\nMust have been very painful...!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4232016201_msg0002",
+      "style": 84,
+      "name": "Hah hah hah! *cough cough*\nBahn, my sonnypon! Now we have\nall time in world to be together!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4232016201_msg0003",
+      "style": 84,
+      "name": "As long as sonnypon is happy...\n*wheeze* who care about revenge\nof Lindwurm?"
+    }
+  ]
+}

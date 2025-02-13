@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000513_msg0001",
+      "style": 84,
+      "name": "なんとか交際は認めてもらえたのだが[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst000513_msg0002",
+      "style": 84,
+      "name": "まだスペルビアへの恨みは\n残っているようなんだ"
+    },
+    {
+      "$id": 3,
+      "label": "qst000513_msg0003",
+      "style": 84,
+      "name": "いつかスペルビアへの恨みも\n消せるよう努力するよ"
+    }
+  ]
+}

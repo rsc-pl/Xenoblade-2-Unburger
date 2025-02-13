@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47600165_01_msg0001",
+      "style": 84,
+      "name": "Ahh, feel that breeze...\nIt reminds me of the time I was riding\non the back of Seiryuu."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47600165_01_msg0002",
+      "style": 84,
+      "name": "It was a while back now.\nThe old fellow asked if I'd like to go\non a long-haul journey with him."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47600165_01_msg0003",
+      "style": 84,
+      "name": "I'd never been outside the village\nbefore, so it was quite the journey of\ndiscovery, seeing all those islands!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47600165_01_msg0004",
+      "style": 84,
+      "name": "He asked if I wanted to keep on with it,\nbut it turned out I got seasick easily,\nso I let a certain someone take over."
+    }
+  ]
+}

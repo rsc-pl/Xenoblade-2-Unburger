@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42340111_01_msg0001",
+      "style": 84,
+      "name": "True man never fearing high-up places!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42340111_01_msg0002",
+      "style": 84,
+      "name": "Kisasa train all daylight time\nto become salvager of legend!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42340111_01_msg0003",
+      "style": 84,
+      "name": "And at night, eat Grilled Anchortail\nat Rumbletum Canteen for lots\nof nutrient!"
+    }
+  ]
+}

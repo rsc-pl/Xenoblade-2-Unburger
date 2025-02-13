@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200141_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Sadecott Groceries!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200141_01_msg0002",
+      "style": 84,
+      "name": "All our food uses only the freshest\ncrops grown right here in Hræsvelgr!\nCare to try some?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200141_01_msg0005",
+      "style": 84,
+      "name": "Good to see you, owner!\nI'm glad you like this little shop."
+    }
+  ]
+}

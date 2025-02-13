@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005101_msg0001",
+      "style": 84,
+      "name": "That damn Akatsuki... I never did like\nthe guy, acting all high and mighty\neven though he's just a Blade..."
+    },
+    {
+      "$id": 2,
+      "label": "qst005101_msg0002",
+      "style": 84,
+      "name": "And now he's letting miscreants get\naway so we can clean them up instead?"
+    },
+    {
+      "$id": 3,
+      "label": "qst005101_msg0003",
+      "style": 84,
+      "name": "That does it. After I get rid of you guys,\nI'm taking him down next!"
+    }
+  ]
+}

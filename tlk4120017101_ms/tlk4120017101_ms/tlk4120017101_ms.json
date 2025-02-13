@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200171_01_msg0001",
+      "style": 84,
+      "name": "I poured my heart into baking these\nbikkies. Would you care to try one?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200171_01_msg0003",
+      "style": 84,
+      "name": "Thank you kindly! That's sure to\nbrighten up everyone's day at the\ncamp. Come again!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103208_msg001",
+      "style": 62,
+      "name": "迎撃準備は万端であります！"
+    },
+    {
+      "$id": 2,
+      "label": "qst103208_msg002",
+      "style": 62,
+      "name": "次も任せてください！"
+    },
+    {
+      "$id": 3,
+      "label": "qst103208_msg003",
+      "style": 62,
+      "name": "早く工場まで行ってあげてください"
+    },
+    {
+      "$id": 4,
+      "label": "qst103208_msg004",
+      "style": 62,
+      "name": "すみません\n撃ちもらしたエネミーの処理を\nお願いします！"
+    }
+  ]
+}

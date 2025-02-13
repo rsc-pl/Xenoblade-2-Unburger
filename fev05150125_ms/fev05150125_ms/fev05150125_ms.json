@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev05_150_125_msg0001",
+      "style": 84,
+      "name": "How did you find it, visiting your\nhometown after so long?"
+    },
+    {
+      "$id": 2,
+      "label": "fev05_150_125_msg0002",
+      "style": 84,
+      "name": "I was surprised how much the kids had\ngrown, but apart from that, it was all\njust how I remembered. Which is nice."
+    },
+    {
+      "$id": 3,
+      "label": "fev05_150_125_msg0003",
+      "style": 84,
+      "name": "Anyway, I'm all rested up and\nraring to go! I'm ready to lead\nthe way to the port."
+    },
+    {
+      "$id": 4,
+      "label": "fev05_150_125_msg0004",
+      "style": 84,
+      "name": "Thank you very much, Master Rex."
+    },
+    {
+      "$id": 5,
+      "label": "fev05_150_125_msg0005",
+      "style": 84,
+      "name": "Well, it's not like it's very far.\nIt's just on the next island over."
+    },
+    {
+      "$id": 6,
+      "label": "fev05_150_125_msg0006",
+      "style": 84,
+      "name": "Come on, let's get going."
+    }
+  ]
+}

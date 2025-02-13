@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001802_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Bit weird to meet someone here!"
+    },
+    {
+      "$id": 2,
+      "label": "qst001802_msg0002",
+      "style": 84,
+      "name": "[ML:Feeling ]I've lost my Blade. I'm waitin' here\nuntil she shows up."
+    },
+    {
+      "$id": 3,
+      "label": "qst001802_msg0003",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Aw, what?!\nOlua told you to come find me?"
+    },
+    {
+      "$id": 4,
+      "label": "qst001802_msg0004",
+      "style": 84,
+      "name": "As you can see, I'm doin' just dandy!"
+    },
+    {
+      "$id": 5,
+      "label": "qst001802_msg0005",
+      "style": 84,
+      "name": "But I don't wanna go back to Olua."
+    },
+    {
+      "$id": 6,
+      "label": "qst001802_msg0006",
+      "style": 84,
+      "name": "She's always on at me like\n\"Train up! Get stronger!\".\nI've had enough of her naggin'!"
+    },
+    {
+      "$id": 7,
+      "label": "qst001802_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling ]Even just now, when I got knocked\ninto the Cloud Sea by a Moks Eluca!"
+    },
+    {
+      "$id": 8,
+      "label": "qst001802_msg0008",
+      "style": 84,
+      "name": "Sending you just proves it. She thinks\nI can't get back on me own."
+    },
+    {
+      "$id": 9,
+      "label": "qst001802_msg0009",
+      "style": 84,
+      "name": "She told me we had to go on a\ntraining mission, so we've been\ndoin' some travelin'."
+    },
+    {
+      "$id": 10,
+      "label": "qst001802_msg0010",
+      "style": 84,
+      "name": "But I hav'nae got any stronger,\nnot a bit. And Olua doesn't trust\nme at all."
+    },
+    {
+      "$id": 11,
+      "label": "qst001802_msg0011",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]I don't wanna be a Driver any more!"
+    },
+    {
+      "$id": 12,
+      "label": "qst001802_msg0012",
+      "style": 165,
+      "name": "We should say something to him."
+    },
+    {
+      "$id": 13,
+      "label": "qst001802_msg0013",
+      "style": 165,
+      "name": "Ask him if he can get back on his own"
+    },
+    {
+      "$id": 14,
+      "label": "qst001802_msg0014",
+      "style": 165,
+      "name": "Tell him it's fine to be weak at his age"
+    },
+    {
+      "$id": 15,
+      "label": "qst001802_msg0015",
+      "style": 84,
+      "name": "[ML:Feeling ]...Uh..."
+    },
+    {
+      "$id": 16,
+      "label": "qst001802_msg0016",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Of course not!"
+    },
+    {
+      "$id": 17,
+      "label": "qst001802_msg0017",
+      "style": 84,
+      "name": "Ugh!\nI guess I've gotta go back to Olua."
+    },
+    {
+      "$id": 18,
+      "label": "qst001802_msg0018",
+      "style": 84,
+      "name": "UGHHH she's the WORST\nBLADE EVER. I've got to give\nher a piece of my mind!!"
+    },
+    {
+      "$id": 19,
+      "label": "qst001802_msg0019",
+      "style": 84,
+      "name": "[ML:Feeling ]I know I'm just a kid."
+    },
+    {
+      "$id": 20,
+      "label": "qst001802_msg0020",
+      "style": 84,
+      "name": "But..."
+    },
+    {
+      "$id": 21,
+      "label": "qst001802_msg0021",
+      "style": 84,
+      "name": "I wonder if I could get as strong\nas youse if I tried really hard?"
+    },
+    {
+      "$id": 22,
+      "label": "qst001802_msg0022",
+      "style": 84,
+      "name": "OK."
+    },
+    {
+      "$id": 23,
+      "label": "qst001802_msg0023",
+      "style": 84,
+      "name": "I'll go back to Olua FOR NOW.\nAnd I'll tell her not to be so annoying!"
+    }
+  ]
+}

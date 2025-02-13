@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320159_03_msg0001",
+      "style": 84,
+      "name": "To reach the factory, you'll want to\nhead down a side path on the left,\nthrough the Old Industrial District."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320159_03_msg0002",
+      "style": 84,
+      "name": "The factory and that whole district\nhave been out of use for a long time,\nso they may be infested with monsters."
+    }
+  ]
+}

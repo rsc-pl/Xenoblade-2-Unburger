@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201817_msg0001",
+      "style": 84,
+      "name": "That must be the Phonex village\nthat Mix told us about."
+    },
+    {
+      "$id": 2,
+      "label": "qst201817_msg0002",
+      "style": 84,
+      "name": "There's nothing else here that'd\nmatch the description... I'd say\nthat's it."
+    },
+    {
+      "$id": 3,
+      "label": "qst201817_msg0003",
+      "style": 84,
+      "name": "What're we waiting for, then?\nLet's go ask that Phonex for\nany relevant information!"
+    }
+  ]
+}

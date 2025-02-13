@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn072_msg0001",
+      "style": 84,
+      "name": "We heard a delicious morsel of\ninformation from the innkeeper\nearlier."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn072_msg0002",
+      "style": 84,
+      "name": "Let us adjourn to the Avaritia Bazaar,\ndownstairs."
+    }
+  ]
+}

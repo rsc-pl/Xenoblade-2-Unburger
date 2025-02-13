@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Core Chips"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Inn"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Aux Cores"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Item Trading"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Staple Foods"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Veggies"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Meats"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Seafood"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Desserts"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Drinks"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Instruments"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Art"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Literature"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Board Games"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Cosmetics"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Textiles"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Accessories"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Information"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Cylinders"
+    }
+  ]
+}

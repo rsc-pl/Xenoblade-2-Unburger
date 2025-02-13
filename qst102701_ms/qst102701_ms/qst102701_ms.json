@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102701_msg001",
+      "style": 62,
+      "name": "おじいちゃんに病気に効く薬がほしいの(仮)"
+    },
+    {
+      "$id": 2,
+      "label": "qst102701_msg002",
+      "style": 62,
+      "name": "腕のいい医者探してきて(仮)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102701_msg101",
+      "style": 62,
+      "name": "医者見つかった？(仮)"
+    },
+    {
+      "$id": 4,
+      "label": "qst102701_msg201",
+      "style": 62,
+      "name": "見つかって良かった(仮)"
+    },
+    {
+      "$id": 5,
+      "label": "qst102701_msg202",
+      "style": 62,
+      "name": "良いお薬作ってくれるといいんだけど"
+    },
+    {
+      "$id": 6,
+      "label": "qst102701_msg301",
+      "style": 62,
+      "name": "お薬作ってきてくれたんだ！\nありがとう！(仮)"
+    },
+    {
+      "$id": 7,
+      "label": "qst102701_msg302",
+      "style": 62,
+      "name": "おじいちゃんに届けに行く！(仮)"
+    },
+    {
+      "$id": 8,
+      "label": "qst102701_msg0001",
+      "style": 84,
+      "name": "Grandpa seems to be in a bad way..."
+    },
+    {
+      "$id": 9,
+      "label": "qst102701_msg0002",
+      "style": 84,
+      "name": "He's getting worse than before..."
+    },
+    {
+      "$id": 10,
+      "label": "qst102701_msg0003",
+      "style": 84,
+      "name": "Is Grandpa going to die?"
+    },
+    {
+      "$id": 11,
+      "label": "qst102701_msg0004",
+      "style": 84,
+      "name": "The problem was supposed to be\nwith his ether flow, right?"
+    },
+    {
+      "$id": 12,
+      "label": "qst102701_msg0005",
+      "style": 84,
+      "name": "I might be able to do something with\nmy power as the Master Blade."
+    },
+    {
+      "$id": 13,
+      "label": "qst102701_msg0006",
+      "style": 84,
+      "name": "Really? You can fix Grandpa?"
+    },
+    {
+      "$id": 14,
+      "label": "qst102701_msg0007",
+      "style": 84,
+      "name": "I can't heal him completely.\nHe's a Flesh Eater, right?"
+    },
+    {
+      "$id": 15,
+      "label": "qst102701_msg0008",
+      "style": 84,
+      "name": "There's nothing I can do\nfor his human side."
+    },
+    {
+      "$id": 16,
+      "label": "qst102701_msg0009",
+      "style": 84,
+      "name": "Then we'll see if we can't find a\ngood doctor to attend to him."
+    },
+    {
+      "$id": 17,
+      "label": "qst102701_msg0010",
+      "style": 84,
+      "name": "Thank you!\nOh, one more thing..."
+    },
+    {
+      "$id": 18,
+      "label": "qst102701_msg0011",
+      "style": 84,
+      "name": "Please don't say anything\nabout this to Grandpa yet."
+    },
+    {
+      "$id": 19,
+      "label": "qst102701_msg0012",
+      "style": 84,
+      "name": "If we don't find a doctor who\ncan help him, it'll just get his\nhopes up for nothing."
+    },
+    {
+      "$id": 20,
+      "label": "qst102701_msg0013",
+      "style": 84,
+      "name": "Don't look so down!\nRex'll help your grandpa, I know it."
+    },
+    {
+      "$id": 21,
+      "label": "qst102701_msg0014",
+      "style": 84,
+      "name": "Yeah! It's a promise."
+    }
+  ]
+}

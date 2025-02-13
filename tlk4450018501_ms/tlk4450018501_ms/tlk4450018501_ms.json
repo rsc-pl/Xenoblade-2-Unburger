@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4450018501_msg0001",
+      "style": 84,
+      "name": "I have made my decision. I shall spread\nthe true history of Luxuria and His\nHighness's intentions to the people."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4450018501_msg0002",
+      "style": 84,
+      "name": "And let us steer those stray sheep who\ndisapprove back on the right path."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4450018501_msg0003",
+      "style": 84,
+      "name": "It has been some time since I have\npreached anything, but I will try my\nhardest to convey the new teachings."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4450018501_msg0004",
+      "style": 84,
+      "name": "Of course, were it not for Zeke, we\ncould never have achieved all this.\nThank you, my child."
+    }
+  ]
+}

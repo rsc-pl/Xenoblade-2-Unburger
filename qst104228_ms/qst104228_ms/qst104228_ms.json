@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104228_msg0001",
+      "style": 84,
+      "name": "Aaaahhhh!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104228_msg0002",
+      "style": 84,
+      "name": "It's a monster!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104228_msg0003",
+      "style": 84,
+      "name": "Is this the treasure?"
+    },
+    {
+      "$id": 4,
+      "label": "qst104228_msg0004",
+      "style": 84,
+      "name": "Watch out, it's going to attack!"
+    }
+  ]
+}

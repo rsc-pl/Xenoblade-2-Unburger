@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400071_01_msg0001",
+      "style": 84,
+      "name": "I fled to Acedia and made a new life\nfor myself here. How many years\nhas it been now...?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400071_01_msg0002",
+      "style": 84,
+      "name": "Interested, are you? There's not much\nto say. I get out of bed, get my rations,\nwander about for a bit, then sleep."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400071_01_msg0003",
+      "style": 84,
+      "name": "Everyone blames Superbia for\nannexing Gula, and- Wait, are\nthose Blades with you?!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400071_01_msg0004",
+      "style": 84,
+      "name": "Those Blades burned my house down,\ndestroyed everything I loved! Down\nwith Blades! Down with them, I say!"
+    }
+  ]
+}

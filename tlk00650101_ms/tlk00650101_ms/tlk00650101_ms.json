@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006501_01_msg0001",
+      "style": 84,
+      "name": "Please, get me back my ship!\nI'm still paying off the mortgage!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk006501_01_msg0002",
+      "style": 84,
+      "name": "And make sure you catch that thieving\nlittle brat! I'll be sure to make the\nguards teach him a thing or two!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk006501_01_msg0003",
+      "style": 84,
+      "name": "Please!"
+    }
+  ]
+}

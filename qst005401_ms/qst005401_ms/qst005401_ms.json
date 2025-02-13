@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005401_msg001",
+      "style": 62,
+      "name": "収集品を集めてきてくれんか（仮）"
+    },
+    {
+      "$id": 2,
+      "label": "qst005401_msg101",
+      "style": 62,
+      "name": "5個ずつじゃよ（仮）"
+    },
+    {
+      "$id": 3,
+      "label": "qst005401_msg201",
+      "style": 62,
+      "name": "ありがとう（仮）"
+    }
+  ]
+}

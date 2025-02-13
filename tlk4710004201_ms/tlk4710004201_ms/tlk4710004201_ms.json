@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100042_01_msg0001",
+      "style": 84,
+      "name": "They say the people of old must have\nwalked up these stairs to Fons Maim."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100042_01_msg0002",
+      "style": 84,
+      "name": "But ever since fluctuations within the\nDivine Beast formed the waters here, we've\nhad to use Funnystone Highway."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100042_01_msg0003",
+      "style": 84,
+      "name": "After that, the residential and\nentertainment districts were built over\nthat way, and naturally, they flourished."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100042_01_msg0004",
+      "style": 84,
+      "name": "It's nice that it's so peaceful and quiet\nhere, but it gets a little lonely..."
+    }
+  ]
+}

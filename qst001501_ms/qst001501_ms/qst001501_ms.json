@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001501_msg001",
+      "style": 84,
+      "name": "ああ　ここだけの話なんだがな"
+    },
+    {
+      "$id": 2,
+      "label": "qst001501_msg002",
+      "style": 84,
+      "name": "こないだ帝国軍が捕らえたスパイが\n入手した極秘情報をモンスターに\nくくりつけて逃がしちまったらしいんだ"
+    },
+    {
+      "$id": 3,
+      "label": "qst001501_msg003",
+      "style": 84,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qst001501_msg004",
+      "style": 84,
+      "name": "ものすごい報酬金が懸けられてんだよ"
+    },
+    {
+      "$id": 5,
+      "label": "qst001501_msg005",
+      "style": 84,
+      "name": "そのモンスターをとっ捕まえて\n極秘情報が書かれたブツを\n詰め所に届けりゃしばらく遊び放題だぜ！"
+    },
+    {
+      "$id": 6,
+      "label": "qst001501_msg006",
+      "style": 84,
+      "name": "なんて聞こう？"
+    },
+    {
+      "$id": 7,
+      "label": "qst001501_msg007",
+      "style": 84,
+      "name": "仕事はしなくていいのか尋ねる"
+    },
+    {
+      "$id": 8,
+      "label": "qst001501_msg008",
+      "style": 84,
+      "name": "そんなに休みたいのか尋ねる"
+    },
+    {
+      "$id": 9,
+      "label": "qst001501_msg009",
+      "style": 84,
+      "name": "どちらの選択肢を選んでもセリフは変わらない"
+    },
+    {
+      "$id": 10,
+      "label": "qst001501_msg010",
+      "style": 84,
+      "name": "傭兵の仕事は危険なものが多くてよ\nやれ要人の護衛だ　やれモンスター退治だ"
+    },
+    {
+      "$id": 11,
+      "label": "qst001501_msg011",
+      "style": 84,
+      "name": "そんなんばっかやらされてんだ\nたまにはゆっくり休んだって\nバチはあたんねぇだろ"
+    },
+    {
+      "$id": 12,
+      "label": "qst001501_msg012",
+      "style": 84,
+      "name": "っつーわけで探してんだが[ML:Dash ]\nこれがなかなか大変でな"
+    },
+    {
+      "$id": 13,
+      "label": "qst001501_msg013",
+      "style": 84,
+      "name": "群れの中に混ざっちまって\nどいつが持ってるかさっぱりわかんねぇんだ"
+    },
+    {
+      "$id": 14,
+      "label": "qst001501_msg014",
+      "style": 84,
+      "name": "一度団に戻って調べてもらえりゃ\nすぐにわかるのかもしんねぇが[ML:Dash ]"
+    },
+    {
+      "$id": 15,
+      "label": "qst001501_msg015",
+      "style": 84,
+      "name": "そうすっと報酬が独り占めできねぇからな\n相談するのは最後の手段だな"
+    },
+    {
+      "$id": 16,
+      "label": "qst001501_msg016",
+      "style": 84,
+      "name": "手強い相手だが必ず捕まえて\n報酬金をがっぽりいただくぜ！"
+    },
+    {
+      "$id": 17,
+      "label": "qst001501_msg017",
+      "style": 84,
+      "name": "おっといけねぇ\n早くしねぇと他の奴らに先を越されちまう"
+    },
+    {
+      "$id": 18,
+      "label": "qst001501_msg018",
+      "style": 84,
+      "name": "んじゃ　俺は行かせてもらうぜ\nあばよ！"
+    },
+    {
+      "$id": 19,
+      "label": "qst001501_msg0002",
+      "style": 84,
+      "name": "Well met, fellows!\nAnd have I got news for you!"
+    },
+    {
+      "$id": 20,
+      "label": "qst001501_msg0003",
+      "style": 84,
+      "name": "So the Imperial Army recently caught\na spy. A spy who'd stolen some\ntop-secret intelligence."
+    },
+    {
+      "$id": 21,
+      "label": "qst001501_msg0004",
+      "style": 84,
+      "name": "Question time! Where do you think\nthey hid it?"
+    },
+    {
+      "$id": 22,
+      "label": "qst001501_msg0005",
+      "style": 165,
+      "name": "Where do we think it's hidden?"
+    },
+    {
+      "$id": 23,
+      "label": "qst001501_msg0006",
+      "style": 165,
+      "name": "Buried in the ground"
+    },
+    {
+      "$id": 24,
+      "label": "qst001501_msg0007",
+      "style": 165,
+      "name": "Inside their stomach"
+    },
+    {
+      "$id": 25,
+      "label": "qst001501_msg0008",
+      "style": 165,
+      "name": "In the Cloud Sea"
+    },
+    {
+      "$id": 26,
+      "label": "qst001501_msg0009",
+      "style": 84,
+      "name": "Nuh-uh."
+    },
+    {
+      "$id": 27,
+      "label": "qst001501_msg0010",
+      "style": 84,
+      "name": "Though it might have been better\nin the long run..."
+    },
+    {
+      "$id": 28,
+      "label": "qst001501_msg0011",
+      "style": 84,
+      "name": "Made it so that only a salvager could\nget to it?"
+    },
+    {
+      "$id": 29,
+      "label": "qst001501_msg0012",
+      "style": 84,
+      "name": "Interesting, but no."
+    },
+    {
+      "$id": 30,
+      "label": "qst001501_msg0013",
+      "style": 84,
+      "name": "The spy, without the time to hide the\ndocuments properly, put them in a\nsteel box and fed them to a monster."
+    },
+    {
+      "$id": 31,
+      "label": "qst001501_msg0014",
+      "style": 84,
+      "name": "Now that's food for thought!"
+    },
+    {
+      "$id": 32,
+      "label": "qst001501_msg0016",
+      "style": 84,
+      "name": "An excellent guess!"
+    },
+    {
+      "$id": 33,
+      "label": "qst001501_msg0017",
+      "style": 84,
+      "name": "Oh, but not inside their own stomach.\nA monster's stomach."
+    },
+    {
+      "$id": 34,
+      "label": "qst001501_msg0018",
+      "style": 84,
+      "name": "Put the documents in a steel box,\nthen, gulp!"
+    },
+    {
+      "$id": 35,
+      "label": "qst001501_msg0019",
+      "style": 84,
+      "name": "And that monster was a, drumroll,\nNoog Skeeter!"
+    },
+    {
+      "$id": 36,
+      "label": "qst001501_msg0020",
+      "style": 84,
+      "name": "Only thing is, you know how freely\nthose monsters fly across the\nSuperbian skies..."
+    },
+    {
+      "$id": 37,
+      "label": "qst001501_msg0021",
+      "style": 84,
+      "name": "The Noog Skeeter that swallowed the\ndocuments got mixed in with the flock\nand now we don't know which one it is!"
+    },
+    {
+      "$id": 38,
+      "label": "qst001501_msg0022",
+      "style": 84,
+      "name": "There's a pretty big prize riding on it,\nbut taking down even one is a process...\nCost, benefit, y'know?"
+    },
+    {
+      "$id": 39,
+      "label": "qst001501_msg0023",
+      "style": 84,
+      "name": "Anyhoo, that's the story. A request of\nbig effort, no takers."
+    },
+    {
+      "$id": 40,
+      "label": "qst001501_msg0025",
+      "style": 84,
+      "name": "Eh, if you feel like doing it, I'm not\ngonna stop you."
+    },
+    {
+      "$id": 41,
+      "label": "qst001501_msg0026",
+      "style": 84,
+      "name": "Defeat the Noog Skeeters and\nrecover the documents..."
+    },
+    {
+      "$id": 42,
+      "label": "qst001501_msg0027",
+      "style": 84,
+      "name": "then hand them over to the soldier\nat the Hadashal Palace gatehouse\nto get your reward."
+    },
+    {
+      "$id": 43,
+      "label": "qst001501_msg0029",
+      "style": 84,
+      "name": "Oh, yeah..."
+    },
+    {
+      "$id": 44,
+      "label": "qst001501_msg0030",
+      "style": 84,
+      "name": "You might be able to tell which\nNoog Skeeter swallowed\nthe documents."
+    },
+    {
+      "$id": 45,
+      "label": "qst001501_msg0031",
+      "style": 84,
+      "name": "With that thing in its stomach, it might\nbe feeling a wee bit crabbit."
+    },
+    {
+      "$id": 46,
+      "label": "qst001501_msg0032",
+      "style": 84,
+      "name": "Ah, but you might have to be watching\nfor a pretty long time..."
+    },
+    {
+      "$id": 47,
+      "label": "qst001501_msg0101",
+      "style": 84,
+      "name": "Hey-oh, you still doing that job\nI told you about before?"
+    },
+    {
+      "$id": 48,
+      "label": "qst001501_msg0102",
+      "style": 84,
+      "name": "Defeat the Noog Skeeters and\nrecover the documents..."
+    },
+    {
+      "$id": 49,
+      "label": "qst001501_msg0103",
+      "style": 84,
+      "name": "then hand them over to the soldier\nin the Hadashal Palace gatehouse\nto get your reward."
+    },
+    {
+      "$id": 50,
+      "label": "qst001501_msg0104",
+      "style": 84,
+      "name": "Best of luck!"
+    }
+  ]
+}

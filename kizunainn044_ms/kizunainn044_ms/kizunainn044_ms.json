@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn044_msg0001",
+      "style": 84,
+      "name": "Saika! We're off, yeah?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn044_msg0002",
+      "style": 84,
+      "name": "What? Where?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn044_msg0003",
+      "style": 84,
+      "name": "Genbu Port! Where else?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn044_msg0004",
+      "style": 84,
+      "name": "That's just the kind of epic\nbackdrop the Zekenator needs."
+    }
+  ]
+}

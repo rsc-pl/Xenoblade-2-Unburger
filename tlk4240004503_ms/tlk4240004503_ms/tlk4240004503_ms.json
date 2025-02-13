@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400045_03_msg0001",
+      "style": 84,
+      "name": "Tolulu have new employer called Ion."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400045_03_msg0002",
+      "style": 84,
+      "name": "Tolulu met Ion while playing on\nwaterway flume by Great Stairway.\nNot much else to do while unemployed."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400045_03_msg0003",
+      "style": 84,
+      "name": "But it turn out, being ticket-collector at\nMymoma Playhouse actually lot of fun!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400045_03_msg0004",
+      "style": 84,
+      "name": "Only downside is that wages come out\nof Ion's pocket money and that make\nTolulu feel bad..."
+    }
+  ]
+}

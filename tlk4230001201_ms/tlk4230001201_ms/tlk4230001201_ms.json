@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300012_01_msg0001",
+      "style": 84,
+      "name": "Tonadon heard that is good idea to\nmove around to side or back of enemy\nduring battle!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300012_01_msg0002",
+      "style": 84,
+      "name": "Now me think this info maybe relevant\nfor repairs around Goldmund!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300012_01_msg0003",
+      "style": 84,
+      "name": "When is hard to hammer in nails,\nshould not hit from straight above\nbut side on!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300012_01_msg0004",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]Oof, I don't want to think about all\nthe nails you'll end up ruining..."
+    }
+  ]
+}

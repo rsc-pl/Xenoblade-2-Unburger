@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000509_msg0001",
+      "style": 84,
+      "name": "You brought the medicine!\nHear that, Norman? You'll be OK!"
+    },
+    {
+      "$id": 2,
+      "label": "qst000509_msg0002",
+      "style": 84,
+      "name": "...Thank you..."
+    },
+    {
+      "$id": 3,
+      "label": "qst000509_msg0003",
+      "style": 84,
+      "name": "Right then, let's be off..."
+    },
+    {
+      "$id": 4,
+      "label": "qst000509_msg0004",
+      "style": 84,
+      "name": "Norman, are you sure you're ready?"
+    },
+    {
+      "$id": 5,
+      "label": "qst000509_msg0005",
+      "style": 84,
+      "name": "Yeah. Your care and the medicine\nseem to have worked."
+    },
+    {
+      "$id": 6,
+      "label": "qst000509_msg0006",
+      "style": 84,
+      "name": "Don't overdo it, please..."
+    },
+    {
+      "$id": 7,
+      "label": "qst000509_msg0007",
+      "style": 84,
+      "name": "No, we will have to push ourselves...\nto get to Superbia..."
+    },
+    {
+      "$id": 8,
+      "label": "qst000509_msg0008",
+      "style": 84,
+      "name": "What?\nIs something wrong?"
+    },
+    {
+      "$id": 9,
+      "label": "qst000509_msg002",
+      "style": 84,
+      "name": "Tell her about her parents?"
+    },
+    {
+      "$id": 10,
+      "label": "qst000509_msg003",
+      "style": 84,
+      "name": "Tell her"
+    },
+    {
+      "$id": 11,
+      "label": "qst000509_msg004",
+      "style": 84,
+      "name": "Don't tell her"
+    }
+  ]
+}

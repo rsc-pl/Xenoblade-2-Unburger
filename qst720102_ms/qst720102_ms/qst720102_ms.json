@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720102_msg0001",
+      "style": 84,
+      "name": "やったぁ！　これで後はカスミの出番ね"
+    },
+    {
+      "$id": 2,
+      "label": "qst720102_msg0002",
+      "style": 84,
+      "name": "いや　まだだ"
+    },
+    {
+      "$id": 3,
+      "label": "qst720102_msg0003",
+      "style": 84,
+      "name": "モンスターがさらに現れた\nエーテル瘴気に惹かれている"
+    },
+    {
+      "$id": 4,
+      "label": "qst720102_msg0004",
+      "style": 84,
+      "name": "全て片付くまで　続けるんだ"
+    },
+    {
+      "$id": 5,
+      "label": "qst720102_msg0005",
+      "style": 84,
+      "name": "ああ　めんどくさい"
+    },
+    {
+      "$id": 6,
+      "label": "qst720102_msg0006",
+      "style": 84,
+      "name": "面倒でも　やるぞ！"
+    }
+  ]
+}

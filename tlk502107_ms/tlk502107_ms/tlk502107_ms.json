@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk502107_msg0001",
+      "style": 84,
+      "name": "Oh! What a pretty girl!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk502107_msg0002",
+      "style": 84,
+      "name": "Hey! You're not so bad yourself!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk502107_msg0003",
+      "style": 84,
+      "name": "Thanks... Y'know, you're much too\npretty for a Blade."
+    },
+    {
+      "$id": 4,
+      "label": "tlk502107_msg0004",
+      "style": 84,
+      "name": "Ahahah... Perhaps..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk502107_msg0011",
+      "style": 84,
+      "name": "Oh yeah? Hey, I've got some\ndelicious home-made Steamed Milk\nBrioches here."
+    },
+    {
+      "$id": 6,
+      "label": "tlk502107_msg0012",
+      "style": 84,
+      "name": "Why don't you take one?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk502107_msg0013",
+      "style": 84,
+      "name": "Wow! It looks delicious!\nThank you so much!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk502107_msg0014",
+      "style": 84,
+      "name": "You're welcome! I hope it helps keep\nyour strength up with all your Blade\nduties!"
+    },
+    {
+      "$id": 9,
+      "label": "tlk502107_msg0015",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]Huh?\nYeah!"
+    }
+  ]
+}

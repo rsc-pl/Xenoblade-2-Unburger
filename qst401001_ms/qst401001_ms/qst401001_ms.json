@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk401001_msg0001",
+      "style": 84,
+      "name": "In the current climate, I fear\nalmost anything could happen."
+    },
+    {
+      "$id": 2,
+      "label": "tlk401001_msg0002",
+      "style": 84,
+      "name": "I can scarcely wait for the day when\nthat huge, awful Divine Beast battleship is\ngone from our shores."
+    },
+    {
+      "$id": 3,
+      "label": "tlk401001_msg0003",
+      "style": 84,
+      "name": "It pains me to even see such an\nunsightly structure in our beautiful city."
+    },
+    {
+      "$id": 4,
+      "label": "tlk401001_msg0004",
+      "style": 84,
+      "name": "I am sure all upstanding Acedian\ncitizens resent its presence."
+    },
+    {
+      "$id": 5,
+      "label": "tlk401001_msg0005",
+      "style": 84,
+      "name": "Why can Superbia and Invidia not\ncease all this foolish conflict and simply\nsubmit themselves to the will of Acedia?"
+    }
+  ]
+}

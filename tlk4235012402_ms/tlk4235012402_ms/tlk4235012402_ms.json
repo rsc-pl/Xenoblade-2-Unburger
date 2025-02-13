@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350124_02_msg0001",
+      "style": 84,
+      "name": "Nope, no Phonexes called Pex\nvisiting this town."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350124_02_msg0002",
+      "style": 84,
+      "name": "When you're a pro like me, you can\nlaze out in the sun all day and still\npick up all the latest info."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350124_02_msg0003",
+      "style": 84,
+      "name": "Take it from me - you want to be\nlooking in Invidia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350124_02_msg0004",
+      "style": 84,
+      "name": "Let's just say you owe me one."
+    }
+  ]
+}

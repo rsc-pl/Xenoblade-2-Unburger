@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9001001_01_msg0001",
+      "style": 84,
+      "name": "Ah, the tedium of idleness..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9001001_01_msg0002",
+      "style": 84,
+      "name": "How much longer must I stay\nhere and do nothing?"
+    }
+  ]
+}

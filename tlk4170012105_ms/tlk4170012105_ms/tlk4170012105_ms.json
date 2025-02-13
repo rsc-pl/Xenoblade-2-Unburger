@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_05_msg0001",
+      "style": 84,
+      "name": "Superbia and Invidia... When war\nfinally breaks out between those two,\nI'm sure Gula will get mixed up in it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_05_msg0002",
+      "style": 84,
+      "name": "But we don't have any fighting forces\nof our own. In the end, we're just at the\nmercy of whichever side is victorious."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_05_msg0003",
+      "style": 84,
+      "name": "All we can do is pray that whichever\ncountry wins won't harm our culture\ntoo much."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_05_msg0004",
+      "style": 84,
+      "name": "Though of course, the best outcome\nis if they never go to war to begin with."
+    }
+  ]
+}

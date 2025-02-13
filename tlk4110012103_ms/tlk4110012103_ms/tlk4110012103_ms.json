@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100121_03_msg0001",
+      "style": 84,
+      "name": "One of my friends gave me an\nawesome tip the other day."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100121_03_msg0002",
+      "style": 84,
+      "name": "So, you know how there's a type of\nrock shaped all funny like? Called\nDilemma Rock?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100121_03_msg0003",
+      "style": 84,
+      "name": "Yeah, my friend said you can pick 'em\nup by the dozen in rocky places like\nDawnview Grotto and Twin Trunks Hill."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100121_03_msg0004",
+      "style": 84,
+      "name": "Bet you didn't know that!"
+    }
+  ]
+}

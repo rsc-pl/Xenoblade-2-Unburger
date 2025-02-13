@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001601_09_msg0001",
+      "style": 84,
+      "name": "Thanks to friends, Kiku is in\nperfect working order again!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001601_09_msg0002",
+      "style": 84,
+      "name": "Must offer great apologies for\ntrouble caused by Kiku."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001601_09_msg0003",
+      "style": 84,
+      "name": "Things that happened in Superbia\nall quite unfortunate."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001601_09_msg0004",
+      "style": 84,
+      "name": "Kiku not know how to apologize enough."
+    },
+    {
+      "$id": 5,
+      "label": "tlk001601_09_msg0005",
+      "style": 84,
+      "name": "From now on Kiku work hard to serve\nMasterpon as artificial Blade!"
+    }
+  ]
+}

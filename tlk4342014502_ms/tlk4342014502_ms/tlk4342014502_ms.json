@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420145_02_msg0001",
+      "style": 84,
+      "name": "You're saying the leader of the Hræsvelgr\nMercenaries is dead?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420145_02_msg0002",
+      "style": 84,
+      "name": "I'm a mercenary, so I knew Vandham."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420145_02_msg0003",
+      "style": 84,
+      "name": "When I was a newbie we went out on\na mission to subjugate Ignas together.\nHe gave me some good advice."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420145_02_msg0004",
+      "style": 84,
+      "name": "Like, \"Some enemies are immune to\nDriver Combos,\" and \"Watch an enemy\nto find its weak spot\". That kinda thing."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43420145_02_msg0005",
+      "style": 84,
+      "name": "I'm a bit reckless, so I'd just try and\nkite the enemy. He put me straight on\nthat."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43420145_02_msg0006",
+      "style": 84,
+      "name": "We've lost a great man..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07190100_0010",
+      "style": 82,
+      "name": "If you hadn't interfered back then..."
+    },
+    {
+      "$id": 2,
+      "label": "bf07190100_0015",
+      "style": 82,
+      "name": "Neither of us would've had\nto go through all this."
+    },
+    {
+      "$id": 3,
+      "label": "bf07190100_0020",
+      "style": 82,
+      "name": "Now then..."
+    },
+    {
+      "$id": 4,
+      "label": "bf07190100_0030",
+      "style": 82,
+      "name": "Time to take back what I lost 500 years ago."
+    }
+  ]
+}

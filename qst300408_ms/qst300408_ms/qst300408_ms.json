@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300408_msg001",
+      "style": 62,
+      "name": "副艦長撃破後、艦長登場"
+    },
+    {
+      "$id": 2,
+      "label": "qst300408_msg0001",
+      "style": 84,
+      "name": "Whoever could be causing all this\ncommotion aboard my proud vessel?"
+    },
+    {
+      "$id": 3,
+      "label": "qst300408_msg0002",
+      "style": 84,
+      "name": "For the glory of Superbia...\nI'm afraid I must ask you to die!"
+    }
+  ]
+}

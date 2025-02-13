@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_09_msg0001",
+      "style": 84,
+      "name": "I'm afraid I don't have any new jobs\nfor you today."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_09_msg0002",
+      "style": 84,
+      "name": "How about you go walk the streets,\nlisten to people's troubles?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_09_msg0003",
+      "style": 84,
+      "name": "A good Driver doesn't just wait for\nwork to come to him, you know.\nHe finds what needs doing for himself."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_09_msg0004",
+      "style": 84,
+      "name": "Though I suppose you know that\nalready. Sorry to be presumptuous."
+    }
+  ]
+}

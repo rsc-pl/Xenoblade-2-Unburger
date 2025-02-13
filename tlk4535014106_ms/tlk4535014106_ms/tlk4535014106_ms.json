@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_06_msg0001",
+      "style": 84,
+      "name": "Ah, it's you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_06_msg0002",
+      "style": 84,
+      "name": "It would appear the growth of the\nHræsvelgr Mercenaries knows no bounds\nunder your leadership."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_06_msg0003",
+      "style": 84,
+      "name": "We're doing better at this point than\nwe were when Vandham was still\naround, if you can believe that."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_06_msg0004",
+      "style": 84,
+      "name": "Yes, we're making quite a name for\nourselves throughout Invidia, it would\nseem. Which means...new jobs for you."
+    }
+  ]
+}

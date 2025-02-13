@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200111_02_msg0001",
+      "style": 84,
+      "name": "The heart of the Driver decides what\nBlade comes out of a Core Crystal.\nDid you know that?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200111_02_msg0002",
+      "style": 84,
+      "name": "It's not just stuff like weapons and\nelements that change, nu-uh!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200111_02_msg0003",
+      "style": 84,
+      "name": "Even the way they grow changes!\nThere are like, as many different\nBlades as there are people!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200111_02_msg0004",
+      "style": 84,
+      "name": "Oh, oh, and if you keep trying to bond\nover and over, then sooner or later,\nyou'll meet a super awesome Blade!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45200111_02_msg0005",
+      "style": 84,
+      "name": "Admit it, you're impressed, right?"
+    }
+  ]
+}

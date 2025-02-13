@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400044_04_msg0001",
+      "style": 84,
+      "name": "They say that the good die young.\nAnd it's completely true..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400044_04_msg0002",
+      "style": 84,
+      "name": "Need some rest before you head\noff again? You're most welcome."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_02_msg0001",
+      "style": 84,
+      "name": "Punin was looking very tired\nwhen coming back."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_02_msg0002",
+      "style": 84,
+      "name": "Apparently he get caught up in storm\nand attack by Iira terrorists."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_02_msg0003",
+      "style": 84,
+      "name": "All sound very nasty. Chairman Bahn\nalso seem busy sorting everything out."
+    }
+  ]
+}

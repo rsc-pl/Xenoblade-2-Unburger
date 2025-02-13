@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030106_msg0001",
+      "style": 84,
+      "name": "Mehhhh... UN...BE...LIEVABLE!\nHow come everyone around here\nso incompetent?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030106_msg0002",
+      "style": 84,
+      "name": "Bahn should have known can only\ntrust self to get job done! Everyone\nelse just worthless trash!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030106_msg0003",
+      "style": 84,
+      "name": "What you looking at?! I busy cleaning\nup after incompetent fools!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00030106_msg0004",
+      "style": 84,
+      "name": "Get out of Bahn's sight!"
+    }
+  ]
+}

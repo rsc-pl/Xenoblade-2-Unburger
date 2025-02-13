@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400305_msg0001",
+      "style": 84,
+      "name": "That must be the monster Cedwyn\nwas talking about."
+    },
+    {
+      "$id": 2,
+      "label": "qst400305_msg0002",
+      "style": 84,
+      "name": "Doesn't look like a pushover,\nthat's for sure."
+    },
+    {
+      "$id": 3,
+      "label": "qst400305_msg0003",
+      "style": 84,
+      "name": "Tora wish could help too, but probably\nnot much good for anything other than\ndecoy or lure."
+    },
+    {
+      "$id": 4,
+      "label": "qst400305_msg0101",
+      "style": 84,
+      "name": "No need for any of that. We can handle\nthis one just fine! Right, Homura?"
+    },
+    {
+      "$id": 5,
+      "label": "qst400305_msg0102",
+      "style": 84,
+      "name": "Absolutely!"
+    },
+    {
+      "$id": 6,
+      "label": "qst400305_msg0103",
+      "style": 84,
+      "name": "No need to rely on just my power,\nthough. You should make full use\nof all your Blades!"
+    },
+    {
+      "$id": 7,
+      "label": "qst400305_msg0104",
+      "style": 84,
+      "name": "Indeed. We may only have one\nDriver, but twice the Blades means\ntwice the potential!"
+    },
+    {
+      "$id": 8,
+      "label": "qst400305_msg0105",
+      "style": 84,
+      "name": "Good point. I'll remember that."
+    },
+    {
+      "$id": 9,
+      "label": "qst400305_msg0106",
+      "style": 84,
+      "name": "All right... Let's do this!"
+    }
+  ]
+}

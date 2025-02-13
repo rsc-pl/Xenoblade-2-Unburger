@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn074_msg0001",
+      "style": 84,
+      "name": "Hey, I heard they just stocked up on\nsome old books at Reedirait Bookstore\nin Avaritia. Why don't we go look?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn074_msg0002",
+      "style": 84,
+      "name": "The innkeeper here said they've got\nloads of bargains!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn074_msg0003",
+      "style": 84,
+      "name": "So, how about it?\nAren't you interested?"
+    }
+  ]
+}

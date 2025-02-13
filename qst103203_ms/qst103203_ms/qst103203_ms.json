@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103203_msg001",
+      "style": 62,
+      "name": "Bポイントを見ています"
+    },
+    {
+      "$id": 2,
+      "label": "qst103203_msg002",
+      "style": 62,
+      "name": "1ポイントゲット"
+    },
+    {
+      "$id": 3,
+      "label": "qst103203_msg003",
+      "style": 62,
+      "name": "2ポイントゲット"
+    }
+  ]
+}

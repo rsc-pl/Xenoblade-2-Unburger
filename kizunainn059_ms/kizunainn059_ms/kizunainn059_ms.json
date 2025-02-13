@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn059_msg001",
+      "style": 84,
+      "name": "There's something I would like\nto discuss with you all."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn059_msg002",
+      "style": 84,
+      "name": "What all this about?\nYuou acting funny."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn059_msg003",
+      "style": 84,
+      "name": "It's just a minor thing that's been\nbothering me in battle. Why don't we\nhave a little chat at the local cafe?"
+    }
+  ]
+}

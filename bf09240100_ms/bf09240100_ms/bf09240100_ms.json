@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09240100_0010",
+      "style": 82,
+      "name": "You okay?"
+    },
+    {
+      "$id": 2,
+      "label": "bf09240100_0020",
+      "style": 82,
+      "name": "I'm just waiting..."
+    },
+    {
+      "$id": 3,
+      "label": "bf09240100_0030",
+      "style": 82,
+      "name": "...For the boy?"
+    },
+    {
+      "$id": 4,
+      "label": "bf09240100_0040",
+      "style": 82,
+      "name": "I was told to wait..."
+    },
+    {
+      "$id": 5,
+      "label": "bf09240100_0050",
+      "style": 82,
+      "name": "[ML:undisp ]..."
+    },
+    {
+      "$id": 6,
+      "label": "bf09240100_0060",
+      "style": 82,
+      "name": "I'll be watching..."
+    },
+    {
+      "$id": 7,
+      "label": "bf09240100_0062",
+      "style": 82,
+      "name": "all of you."
+    },
+    {
+      "$id": 8,
+      "label": "bf09240100_0070",
+      "style": 82,
+      "name": "Are you sure?"
+    },
+    {
+      "$id": 9,
+      "label": "bf09240100_0080",
+      "style": 82,
+      "name": "I am..."
+    }
+  ]
+}

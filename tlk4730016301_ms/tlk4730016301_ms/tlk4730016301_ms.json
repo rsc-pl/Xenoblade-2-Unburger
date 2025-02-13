@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300163_01_msg0001",
+      "style": 84,
+      "name": "Poor old Liberalitas doesn't have nearly\nas much soil and greenery as other\nDivine Beasts."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300163_01_msg0002",
+      "style": 84,
+      "name": "It's hard to come by veg if you don't\ngrow some yourself."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300163_01_msg0003",
+      "style": 84,
+      "name": "I remember you used to help out in the\nfield back when you were small, Rex.\nYou were a good little tyke..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300163_01_msg0103",
+      "style": 84,
+      "name": "I bet Rex hasn't told you all how he\nused to help out in the fields when he\nwas little. A good little tyke, he was!"
+    }
+  ]
+}

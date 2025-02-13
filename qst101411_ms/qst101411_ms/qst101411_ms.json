@@ -1,0 +1,198 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101411_msg001",
+      "style": 62,
+      "name": "おぉ！危険生物の巨大エネミー（仮）\nを倒してくれたのですね！"
+    },
+    {
+      "$id": 2,
+      "label": "qst101411_msg002",
+      "style": 62,
+      "name": "大変感謝致します！"
+    },
+    {
+      "$id": 3,
+      "label": "qst101411_msg101",
+      "style": 62,
+      "name": "そう　だめだったのね(仮)"
+    },
+    {
+      "$id": 4,
+      "label": "qst101411_msg102",
+      "style": 62,
+      "name": "スペルビアに恐竜の弱点\n知ってる奴いるから行ってみな!(仮)"
+    },
+    {
+      "$id": 5,
+      "label": "qst101411_msg201",
+      "style": 62,
+      "name": "恐竜倒せた？"
+    },
+    {
+      "$id": 6,
+      "label": "qst101411_msg301",
+      "style": 62,
+      "name": "おぉ！危険生物の巨大エネミー（仮）\nを倒してくれたのですね！"
+    },
+    {
+      "$id": 7,
+      "label": "qst101411_msg302",
+      "style": 62,
+      "name": "大変感謝致します！"
+    },
+    {
+      "$id": 8,
+      "label": "qst101411_msg0001",
+      "style": 84,
+      "name": "You've returned!\nWhat news of the research party?"
+    },
+    {
+      "$id": 9,
+      "label": "qst101411_msg0002",
+      "style": 84,
+      "name": "A Rampaging Sauros?!\nI never knew creatures like that\nlived in Gula..."
+    },
+    {
+      "$id": 10,
+      "label": "qst101411_msg0003",
+      "style": 84,
+      "name": "So everyone's...\nI see..."
+    },
+    {
+      "$id": 11,
+      "label": "qst101411_msg0004",
+      "style": 84,
+      "name": "Would you mind telling me exactly\nwhere you found them all?"
+    },
+    {
+      "$id": 12,
+      "label": "qst101411_msg0005",
+      "style": 84,
+      "name": "Thank you..."
+    },
+    {
+      "$id": 13,
+      "label": "qst101411_msg0006",
+      "style": 84,
+      "name": "At the very least, I expect the Volff\nwon't be too keen to return to where\ntheir comrades fell."
+    },
+    {
+      "$id": 14,
+      "label": "qst101411_msg0007",
+      "style": 84,
+      "name": "And since you've taken care of the\nRampaging Sauros, the threat to the\narea should have passed."
+    },
+    {
+      "$id": 15,
+      "label": "qst101411_msg0008",
+      "style": 84,
+      "name": "I think I'll go and pay my respects\nto my fallen friends."
+    },
+    {
+      "$id": 16,
+      "label": "qst101411_msg0009",
+      "style": 84,
+      "name": "That, and I'd like to have something\nI could pass on to their families..."
+    },
+    {
+      "$id": 17,
+      "label": "qst101411_msg0010",
+      "style": 84,
+      "name": "Thank you once again\nfor your cooperation!"
+    },
+    {
+      "$id": 18,
+      "label": "qst101411_msg0101",
+      "style": 84,
+      "name": "You've returned!\nWhat news of the research party?"
+    },
+    {
+      "$id": 19,
+      "label": "qst101411_msg0102",
+      "style": 84,
+      "name": "A Rampaging Sauros?!\nI never knew creatures like that\nlived in Gula..."
+    },
+    {
+      "$id": 20,
+      "label": "qst101411_msg0103",
+      "style": 84,
+      "name": "So everyone's...\nI see..."
+    },
+    {
+      "$id": 21,
+      "label": "qst101411_msg0104",
+      "style": 84,
+      "name": "I'd...\nI'd like to go and pay\nmy respects, but..."
+    },
+    {
+      "$id": 22,
+      "label": "qst101411_msg0105",
+      "style": 84,
+      "name": "With that thing around, it might be too\ndangerous for me..."
+    },
+    {
+      "$id": 23,
+      "label": "qst101411_msg0106",
+      "style": 84,
+      "name": "A Rampaging Sauros...\nHmm..."
+    },
+    {
+      "$id": 24,
+      "label": "qst101411_msg0107",
+      "style": 84,
+      "name": "There's a scholar by the name of Tishk\nin the Beraf Industry Ward of the\nSuperbian capital, Alba Margen."
+    },
+    {
+      "$id": 25,
+      "label": "qst101411_msg0108",
+      "style": 84,
+      "name": "I vaguely remember him publishing\na paper on the Rampaging Sauros..."
+    },
+    {
+      "$id": 26,
+      "label": "qst101411_msg0109",
+      "style": 84,
+      "name": "Maybe he'd know a good way to\ndispatch one?"
+    },
+    {
+      "$id": 27,
+      "label": "qst101411_msg0110",
+      "style": 84,
+      "name": "I'm sorry, I know that's not a lot\nto go on..."
+    },
+    {
+      "$id": 28,
+      "label": "qst101411_msg0111",
+      "style": 84,
+      "name": "But I appreciate your continued help,\nfriend."
+    },
+    {
+      "$id": 29,
+      "label": "qst101411_msg0201",
+      "style": 84,
+      "name": "Go to Alba Margen in Superbia and\nfind Tishk in the Beraf Industry Ward,\nplease."
+    },
+    {
+      "$id": 30,
+      "label": "qst101411_msg0202",
+      "style": 84,
+      "name": "You may be able to learn a good way\nto put down that Rampaging Sauros..."
+    }
+  ]
+}

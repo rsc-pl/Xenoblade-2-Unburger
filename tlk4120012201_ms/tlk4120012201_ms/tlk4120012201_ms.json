@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200122_01_msg0001",
+      "style": 84,
+      "name": "I'm lookin' after Armoo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200122_01_msg0002",
+      "style": 84,
+      "name": "They're cute an' fuzzy an' wuzzy\nan' they're a really purty n'animal!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200122_01_msg0003",
+      "style": 84,
+      "name": "They're s'posed to behave different\nin other places, but Gulan Armoo're\nreally friendly an' gentle! Eeeee!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200122_01_msg0004",
+      "style": 84,
+      "name": "Armoo're useful for travel an' stuff too\n'cos they can carry stuff...an' yeah,\nthey're just really, really great!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200122_01_msg0005",
+      "style": 84,
+      "name": "An' that's everything I know\nabout Armoo. An' now you\nknow everything too!"
+    }
+  ]
+}

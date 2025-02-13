@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620203_msg0001",
+      "style": 84,
+      "name": "Good. We're all here."
+    },
+    {
+      "$id": 2,
+      "label": "qst620203_msg0002",
+      "style": 84,
+      "name": "Does anyone have anything to report?"
+    },
+    {
+      "$id": 3,
+      "label": "qst620203_msg0003",
+      "style": 84,
+      "name": "I have felled all monsters on Iyasaki\nIsland, the Isle of Urchon, in the Ansel\nHatchery, all the way to Ysheva Harbor."
+    },
+    {
+      "$id": 4,
+      "label": "qst620203_msg0004",
+      "style": 84,
+      "name": "I don't think anyone asked you to\ngo quite that far..."
+    },
+    {
+      "$id": 5,
+      "label": "qst620203_msg0005",
+      "style": 84,
+      "name": "Perhaps, but at least no more harm\nwill befall the village's fields."
+    },
+    {
+      "$id": 6,
+      "label": "qst620203_msg0006",
+      "style": 84,
+      "name": "Glen, how about you?"
+    },
+    {
+      "$id": 7,
+      "label": "qst620203_msg0007",
+      "style": 84,
+      "name": "I went and lectured every last soul\nin Iyasaki, under the searing light of\njustice!"
+    },
+    {
+      "$id": 8,
+      "label": "qst620203_msg0008",
+      "style": 84,
+      "name": "Weren't you supposed to be asking\nabout eyewitness accounts...?"
+    },
+    {
+      "$id": 9,
+      "label": "qst620203_msg0009",
+      "style": 84,
+      "name": "Huh, now that you mention it...\nBut never mind that, for I got results!"
+    },
+    {
+      "$id": 10,
+      "label": "qst620203_msg0010",
+      "style": 84,
+      "name": "I'm happy to announce, there's not\na single bad person in the village!\nThe salt of Alst, all of them!"
+    },
+    {
+      "$id": 11,
+      "label": "qst620203_msg0011",
+      "style": 84,
+      "name": "But, uh, people have been known to\nconceal their true selves."
+    },
+    {
+      "$id": 12,
+      "label": "qst620203_msg0012",
+      "style": 84,
+      "name": "In any group, there is at least one\noutlier with darkness in their heart."
+    },
+    {
+      "$id": 13,
+      "label": "qst620203_msg0013",
+      "style": 84,
+      "name": "But nobody'd just steal vegetables\nfrom a field, right? Come on, nobody\nhere could do such a heinous thing!"
+    },
+    {
+      "$id": 14,
+      "label": "qst620203_msg0014",
+      "style": 84,
+      "name": "Also, nobody's seen anything\nsuspicious, either!!!"
+    },
+    {
+      "$id": 15,
+      "label": "qst620203_msg0015",
+      "style": 84,
+      "name": "Hmph.\nKeep your emotions in check.\nStay calm, as Tokiha does."
+    },
+    {
+      "$id": 16,
+      "label": "qst620203_msg0016",
+      "style": 84,
+      "name": "...Tch."
+    },
+    {
+      "$id": 17,
+      "label": "qst620203_msg0017",
+      "style": 84,
+      "name": "Well, what about you, Tokiha?"
+    },
+    {
+      "$id": 18,
+      "label": "qst620203_msg0018",
+      "style": 84,
+      "name": "I kept watch on the field without\nso much as blinking."
+    },
+    {
+      "$id": 19,
+      "label": "qst620203_msg0019",
+      "style": 84,
+      "name": "It sounds to me like you just enjoy\npunishing yourself... Same as usual."
+    },
+    {
+      "$id": 20,
+      "label": "qst620203_msg0020",
+      "style": 84,
+      "name": "Grr...\nSay what you will, at least I made sure\nnobody would steal any more produce."
+    },
+    {
+      "$id": 21,
+      "label": "qst620203_msg0021",
+      "style": 84,
+      "name": "Nay. Your vigil was pointless, since\nI had already eradicated the monsters."
+    },
+    {
+      "$id": 22,
+      "label": "qst620203_msg0022",
+      "style": 84,
+      "name": "No no no, you're both wrong!\nIt's thanks to me lecturing the villagers\nthat nothing more got stolen!!!"
+    },
+    {
+      "$id": 23,
+      "label": "qst620203_msg0023",
+      "style": 84,
+      "name": "I don't think so... I'm confident that it\nwas my unflinching vigilance that\nprevented further theft."
+    },
+    {
+      "$id": 24,
+      "label": "qst620203_msg0024",
+      "style": 84,
+      "name": "No way! No way is that true!!!"
+    },
+    {
+      "$id": 25,
+      "label": "qst620203_msg0025",
+      "style": 84,
+      "name": "... Driver, you be the judge of us."
+    },
+    {
+      "$id": 26,
+      "label": "qst620203_msg0026",
+      "style": 84,
+      "name": "Who of us has done the best job?\nListen to your heart and answer\nhonestly!"
+    },
+    {
+      "$id": 27,
+      "label": "qst620203_msg0027",
+      "style": 84,
+      "name": "Who has done the best job?"
+    },
+    {
+      "$id": 28,
+      "label": "qst620203_msg0028",
+      "style": 84,
+      "name": "Vasara"
+    },
+    {
+      "$id": 29,
+      "label": "qst620203_msg0029",
+      "style": 84,
+      "name": "Glen"
+    },
+    {
+      "$id": 30,
+      "label": "qst620203_msg0030",
+      "style": 84,
+      "name": "Tokiha"
+    },
+    {
+      "$id": 31,
+      "label": "qst620203_msg0031",
+      "style": 84,
+      "name": "Ha. An obvious choice."
+    },
+    {
+      "$id": 32,
+      "label": "qst620203_msg0032",
+      "style": 84,
+      "name": "Awriiiiiiight!\nI knew you'd say that!!!"
+    },
+    {
+      "$id": 33,
+      "label": "qst620203_msg0033",
+      "style": 84,
+      "name": "I'm honored. It's good to know\nmy efforts have been appreciated."
+    },
+    {
+      "$id": 34,
+      "label": "qst620203_msg0034",
+      "style": 84,
+      "name": "Erm... Sorry, but..."
+    },
+    {
+      "$id": 35,
+      "label": "qst620203_msg0035",
+      "style": 84,
+      "name": "Mind if I get a word in edgewise?"
+    },
+    {
+      "$id": 36,
+      "label": "qst620203_msg0036",
+      "style": 84,
+      "name": "That is, I..."
+    },
+    {
+      "$id": 37,
+      "label": "qst620203_msg0037",
+      "style": 84,
+      "name": "Aiiieeeeeee!!!"
+    },
+    {
+      "$id": 38,
+      "label": "qst620203_msg0038",
+      "style": 84,
+      "name": "I see! So it was this miscreant\npilfering the goods!"
+    },
+    {
+      "$id": 39,
+      "label": "qst620203_msg0039",
+      "style": 84,
+      "name": "Is that guy so hungry that he had to\ncrawl out of the Cloud Sea? Cripes!"
+    },
+    {
+      "$id": 40,
+      "label": "qst620203_msg0040",
+      "style": 84,
+      "name": "...Hang on a moment! Vasara,\ndidn't you say you'd wiped out all\nthe monsters nearby?!"
+    },
+    {
+      "$id": 41,
+      "label": "qst620203_msg0041",
+      "style": 84,
+      "name": "You may remember I am no salvager.\nClearly the monsters of the Cloud Sea\nare outside my remit."
+    },
+    {
+      "$id": 42,
+      "label": "qst620203_msg0042",
+      "style": 84,
+      "name": "And yourself, did you not say you\nwould question the villagers?"
+    },
+    {
+      "$id": 43,
+      "label": "qst620203_msg0043",
+      "style": 84,
+      "name": "I find it hard to believe a giant fiend\nsuch as this one could remain unseen\nwhile stealing food."
+    },
+    {
+      "$id": 44,
+      "label": "qst620203_msg0044",
+      "style": 84,
+      "name": "That's enough bickering, you two.\nWe've got our work cut out for us!"
+    },
+    {
+      "$id": 45,
+      "label": "qst620203_msg0045",
+      "style": 84,
+      "name": "Oh, right! Yeah!\nJustice will be served!!!"
+    }
+  ]
+}

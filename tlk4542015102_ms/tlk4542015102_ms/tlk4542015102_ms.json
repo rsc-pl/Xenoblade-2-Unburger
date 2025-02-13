@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420151_02_msg0001",
+      "style": 84,
+      "name": "The other night, after I'd been drinking,\nI got questioned by these military types."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420151_02_msg0002",
+      "style": 84,
+      "name": "They were asking if I had anything\nto do with that mechanical girl."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420151_02_msg0003",
+      "style": 84,
+      "name": "I mean, what kind of an idiot do they\ntake me for? I wouldn't cause a fuss\nin the middle of the imperial capital!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420151_02_msg0004",
+      "style": 84,
+      "name": "I think the army are just grasping at\nstraws at this point. Getting desperate\nafter that girl gave them a beating."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45420151_02_msg0005",
+      "style": 84,
+      "name": "If I were you, I'd be careful not to\narouse any suspicion. They'll latch\non to most anything lately."
+    }
+  ]
+}

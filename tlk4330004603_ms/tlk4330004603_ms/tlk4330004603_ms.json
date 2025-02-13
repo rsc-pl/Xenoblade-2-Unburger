@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_03_msg0001",
+      "style": 84,
+      "name": "...Well, whaddya know.\nThe head cook wasn't all talk..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_03_msg0002",
+      "style": 84,
+      "name": "I challenged 'em to a contest of\ndish-washing and veggie-peeling,\nbut they totally trounced me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_03_msg0003",
+      "style": 84,
+      "name": "So then I challenged 'em to an\naxe contest..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_03_msg0004",
+      "style": 84,
+      "name": "But they won that too..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300046_03_msg0005",
+      "style": 84,
+      "name": "Our head cook isn't just a master chef,\nbut also a master combatant..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43300046_03_msg0006",
+      "style": 84,
+      "name": "Seems like it'll be a good long while\nbefore the beautiful Queen Lagert\neats food that I've prepared..."
+    }
+  ]
+}

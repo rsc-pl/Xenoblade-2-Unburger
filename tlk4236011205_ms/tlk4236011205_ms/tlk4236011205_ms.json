@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360112_05_msg0001",
+      "style": 84,
+      "name": "Meh-meh-meh!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360112_05_msg0002",
+      "style": 84,
+      "name": "This not good. Not good at all!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360112_05_msg0003",
+      "style": 84,
+      "name": "Goldmund salvager crane tangled up\nwith Serprond swimming in Cloud Sea!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42360112_05_msg0004",
+      "style": 84,
+      "name": "Whole crane could fall straight into\nCloud Sea if we not do something!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42360112_05_msg0005",
+      "style": 84,
+      "name": "And Lomlom not even want to think\nabout cost of repairs for that!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42360112_05_msg0006",
+      "style": 84,
+      "name": "Lomlom so grateful! Please, hurry\nto solve problem!"
+    }
+  ]
+}

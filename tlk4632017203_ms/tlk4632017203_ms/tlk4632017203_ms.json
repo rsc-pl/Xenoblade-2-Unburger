@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320172_03_msg0001",
+      "style": 84,
+      "name": "Entry to the cathedral is currently\nrestricted."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320172_03_msg0002",
+      "style": 84,
+      "name": "You may be personal acquaintances\nof the Pope, but I'm afraid rules are\nrules. We cannot allow you through."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320172_03_msg0003",
+      "style": 84,
+      "name": "Please come back another time."
+    }
+  ]
+}

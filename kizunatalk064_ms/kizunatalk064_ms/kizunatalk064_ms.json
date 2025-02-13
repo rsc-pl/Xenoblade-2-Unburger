@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk064_msg0001",
+      "style": 84,
+      "name": "Hey, come on, Seori!\nThis way!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk064_msg0002",
+      "style": 84,
+      "name": "Don't rush me, sis.\nThe scenery isn't going anywhere."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk064_msg0003",
+      "style": 84,
+      "name": "Don't be silly! What if we miss\nsome kind of amazing moment?!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk064_msg0004",
+      "style": 84,
+      "name": "C'mon, get moving!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk064_msg0005",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk064_msg0006",
+      "style": 84,
+      "name": "Mikumari looks pretty excited, huh?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk064_msg0007",
+      "style": 84,
+      "name": "Mikumari's getting totally excited, huh?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk064_msg0008",
+      "style": 84,
+      "name": "Mikumari seems quite excited."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk064_msg0009",
+      "style": 84,
+      "name": "Mikumari looks dead excited, huh?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk064_msg0010",
+      "style": 84,
+      "name": "Yeah... Well, I mean... She's getting\na bit carried away, if you ask me."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk064_msg0011",
+      "style": 84,
+      "name": "Honestly...\nI wish she'd calm down a bit."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk064_msg0012",
+      "style": 84,
+      "name": "You say that, but I get the feeling\nyou're enjoying yourself too."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk064_msg0013",
+      "style": 84,
+      "name": "You say that, but I bet you're enjoying\nyourself just as much really!"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk064_msg0014",
+      "style": 84,
+      "name": "So you say, but it seems to me that\nyou're enjoying yourself quite a bit too."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk064_msg0015",
+      "style": 84,
+      "name": "You say that, but you're having\na good time too. Am I wrong?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk064_msg0016",
+      "style": 84,
+      "name": "Do you think so?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk064_msg0017",
+      "style": 84,
+      "name": "I suppose you might be right."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk064_msg0018",
+      "style": 84,
+      "name": "I've got to spend plenty of time with\nMikumari lately. That's always good."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk064_msg0019",
+      "style": 84,
+      "name": "I really like being with her."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk064_msg0020",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk064_msg0021",
+      "style": 164,
+      "name": "It's almost like you're real sisters."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk064_msg0022",
+      "style": 164,
+      "name": "I guess you really get each other now."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk064_msg0023",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk064_msg0024",
+      "style": 164,
+      "name": "You're just like human sisters, huh?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk064_msg0025",
+      "style": 164,
+      "name": "You really get each other now, huh?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk064_msg0026",
+      "style": 165,
+      "name": "What shall I say?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk064_msg0027",
+      "style": 164,
+      "name": "It's as if you're real sisters."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk064_msg0028",
+      "style": 164,
+      "name": "You've come to understand each other."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk064_msg0029",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk064_msg0030",
+      "style": 164,
+      "name": "You're like real sisters, aren't you?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk064_msg0031",
+      "style": 164,
+      "name": "I guess you really get each other now."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk064_msg0032",
+      "style": 84,
+      "name": "You think so...? It's hard for\nme to tell, personally."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk064_msg0033",
+      "style": 84,
+      "name": "It's just, well, you know how she's\nconstantly acting before she thinks."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk064_msg0034",
+      "style": 84,
+      "name": "I'm always so nervous for her, I can't\nleave her alone for a moment."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk064_msg0035",
+      "style": 84,
+      "name": "Yet somehow, I don't feel like\nthat's a bad thing. It's always\nkind of fun to be around her."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk064_msg0036",
+      "style": 84,
+      "name": "I guess you're always thinking\nabout each other, huh? I'm sure\nMikumari feels the same way."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk064_msg0037",
+      "style": 84,
+      "name": "Sounds like you've always got each\nother on the mind. I bet Mikumari\nthinks about you a lot, too."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk064_msg0038",
+      "style": 84,
+      "name": "I suppose you must always be thinking\nabout each other. Her as well as you."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk064_msg0039",
+      "style": 84,
+      "name": "I reckon you've always got each\nother on the mind. I'd say she\nthinks about you a lot, too."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk064_msg0040",
+      "style": 84,
+      "name": "I guess you're right... Maybe that's\nwhat being sisters is about."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk064_msg0041",
+      "style": 84,
+      "name": "But, Mikumari is the older one, yet it's me\nwho seems to be worrying about her..."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk064_msg0042",
+      "style": 84,
+      "name": "Haha! That's true... But she wouldn't\nbe Mikumari otherwise, right?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk064_msg0043",
+      "style": 84,
+      "name": "Haha! Yeah... But I guess that's\nwhat makes her Mikumari!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk064_msg0044",
+      "style": 84,
+      "name": "Ha ha... True enough. But I suppose\nthat's all part of Mikumari's charm."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk064_msg0045",
+      "style": 84,
+      "name": "Haha! Yeah... But she wouldn't be\nMikumari otherwise, would she?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk064_msg0046",
+      "style": 84,
+      "name": "You think so?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk064_msg0047",
+      "style": 84,
+      "name": "Sometimes I'm not sure. I still don't feel\nlike I know everything about her."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk064_msg0048",
+      "style": 84,
+      "name": "And I'm sure she doesn't always get\neverything about me."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk064_msg0049",
+      "style": 84,
+      "name": "But, she said something once..."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk064_msg0050",
+      "style": 84,
+      "name": "She told me, we may not have any\nmemories, but it's no use worrying\nabout what we don't have."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk064_msg0051",
+      "style": 84,
+      "name": "If we know nothing about each other's\npasts... That just means we have a\nclean slate for the future."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk064_msg0052",
+      "style": 84,
+      "name": "Every moment we spend together now\nis a new memory for us to share."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk064_msg0053",
+      "style": 84,
+      "name": "Wow... That's deep, but I can see\nhow it's the kind of thing she'd say."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk064_msg0054",
+      "style": 84,
+      "name": "Huh... Pretty deep stuff! But that\nattitude is Mikumari all over."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk064_msg0055",
+      "style": 84,
+      "name": "I see... Perhaps that attitude is why\nMikumari is such a lovely person."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk064_msg0056",
+      "style": 84,
+      "name": "Hah! Deep stuff, coming from her.\nBut somehow, that's Mikumari all over."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk064_msg0057",
+      "style": 84,
+      "name": "Exactly. And that's why..."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk064_msg0058",
+      "style": 84,
+      "name": "That's why the time that I spend with\nher is so special to me."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk064_msg0059",
+      "style": 84,
+      "name": "And at the same time, my Driver is\nimportant to me, too!"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk064_msg0060",
+      "style": 84,
+      "name": "I couldn't be more grateful to you\nfor bringing us back together."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk064_msg0061",
+      "style": 84,
+      "name": "Hey, Seori! What're you up to?"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk064_msg0062",
+      "style": 84,
+      "name": "Quit getting all cozy with your Driver\nand get over here already!"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk064_msg0063",
+      "style": 84,
+      "name": "Cozy? What's that supposed to mean?!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk064_msg0064",
+      "style": 84,
+      "name": "C'mon, over here, look!\nQuickly!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk064_msg0066",
+      "style": 84,
+      "name": "Hey, you too! Let's check it out!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk064_msg0067",
+      "style": 84,
+      "name": "This is gonna be a memory\nfor all three of us to treasure!"
+    }
+  ]
+}

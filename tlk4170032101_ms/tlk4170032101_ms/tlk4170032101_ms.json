@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700321_01_msg0001",
+      "style": 84,
+      "name": "Well, what have we here! Been a while\nsince I last saw Drivers and Blades who\naren't in the Imperial Army."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700321_01_msg0002",
+      "style": 84,
+      "name": "Tell you what, I'll give you\na little tip for free."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700321_01_msg0003",
+      "style": 84,
+      "name": "A Driver's element is determined by\nthe Blade they happen to be using."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700321_01_msg0004",
+      "style": 84,
+      "name": "So if you're using a wind-element\nBlade, your attacks are going to be\nwind-element as well."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700321_01_msg0005",
+      "style": 84,
+      "name": "And certain elements are opposed\nto each other, as well."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41700321_01_msg0006",
+      "style": 84,
+      "name": "For instance, if you use a fire-element\nBlade to attack a water-element\nmonster, you'll do more damage."
+    },
+    {
+      "$id": 7,
+      "label": "tlk41700321_01_msg0007",
+      "style": 84,
+      "name": "Switching between Blades based on\nthe enemy you're facing is a pretty\nimportant tactic."
+    }
+  ]
+}

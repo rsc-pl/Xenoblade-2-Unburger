@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006301_06_msg0001",
+      "style": 84,
+      "name": "The children of Luxuria are raised\nnot with lullabies, but with the epics\nof Adel."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006301_06_msg0002",
+      "style": 84,
+      "name": "So we were painfully aware of the\nthreat that the Holy Grail poses us."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006301_06_msg0003",
+      "style": 84,
+      "name": "We feared that her return may wreak\ndevastation upon our world."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006301_06_msg0004",
+      "style": 84,
+      "name": "But we realize now that we\nmisunderstood."
+    },
+    {
+      "$id": 5,
+      "label": "tlk006301_06_msg0005",
+      "style": 84,
+      "name": "Her rightful place is with you. You\nmust wrest her from Iira's grasp\nby any means necessary."
+    }
+  ]
+}

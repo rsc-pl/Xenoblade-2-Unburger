@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350251_03_msg0001",
+      "style": 84,
+      "name": "Oh, you won't believe what happened.\nThe budget for our agricultural\nresearch was reduced...again!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350251_03_msg0002",
+      "style": 84,
+      "name": "After the incident in Temperantia,\nit looks like many nations are giving\nmore priority to military development."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350251_03_msg0003",
+      "style": 84,
+      "name": "Invidia is a given, but the surrounding\nnations are following suit as well."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350251_03_msg0004",
+      "style": 84,
+      "name": "And of course, Superbia can't\nafford to fall behind!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45350251_03_msg0005",
+      "style": 84,
+      "name": "If we don't redouble our own military\nefforts, the other countries could\nbecome a very real threat."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45350251_03_msg0006",
+      "style": 84,
+      "name": "But of course, what that means for us\nis our research funding gets diverted to\nmilitary research instead."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45350251_03_msg0007",
+      "style": 84,
+      "name": "I know it's an emergency, but that\ndoesn't make it any less frustrating."
+    }
+  ]
+}

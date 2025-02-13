@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350124_03_msg0001",
+      "style": 84,
+      "name": "Listen, I like you guys."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350124_03_msg0002",
+      "style": 84,
+      "name": "You're Drivers and Blades, but you\nput in the effort to stand on a level\nplaying field with us Phonexes."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350124_03_msg0003",
+      "style": 84,
+      "name": "Most folks don't bother. They just fawn\nover us like the simpletons they are."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350124_03_msg0004",
+      "style": 84,
+      "name": "Don't get too cocky, now."
+    }
+  ]
+}

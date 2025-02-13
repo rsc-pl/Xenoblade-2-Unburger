@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45710153_02_msg0001",
+      "style": 84,
+      "name": "I'm afraid I don't know anything about\nany mechanical Blades."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45710153_02_msg0002",
+      "style": 84,
+      "name": "Anyway, is it just me, or is the air\na little oppressive in this city?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45710153_02_msg0003",
+      "style": 84,
+      "name": "There's sand blowing in from the\nwastes outside, and the natural steam\nmakes the atmosphere so humid..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45710153_02_msg0004",
+      "style": 84,
+      "name": "I suppose I'm not used to my own\nhome after spending so long in\nGoldmund."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45710153_02_msg0005",
+      "style": 84,
+      "name": "Would you believe I'm missing the\nfresh air of my workplace?"
+    }
+  ]
+}

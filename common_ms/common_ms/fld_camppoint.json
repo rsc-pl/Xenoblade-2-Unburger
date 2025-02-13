@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Hidden Hunting Camp"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Lakeshore Campsite"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Coolley Lake Camp"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Hoary Weald Camp"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Porton Village Camp"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Feltley Village Camp"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Aletta Garrison Camp"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Olnard's Trail Campsite"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Dannagh Desert Camp"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Holy Gate Camp"
+    }
+  ]
+}

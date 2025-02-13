@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst106005_msg0001",
+      "style": 84,
+      "name": "Welcome to Bluesky Nopon University.\nYou are applicants for trial attendance?"
+    },
+    {
+      "$id": 2,
+      "label": "qst106005_msg0002",
+      "style": 84,
+      "name": "That is right! Hana will learn\nto be proper lady!"
+    },
+    {
+      "$id": 3,
+      "label": "qst106005_msg0003",
+      "style": 84,
+      "name": "...To be lady?"
+    },
+    {
+      "$id": 4,
+      "label": "qst106005_msg0004",
+      "style": 84,
+      "name": "Fleecyflossy not know what you talking\nabout there, but me get you started\nwith lessons anyway."
+    },
+    {
+      "$id": 5,
+      "label": "qst106005_msg0005",
+      "style": 84,
+      "name": "If you keep up with lessons to very end,\nwill be filled with power of education!"
+    },
+    {
+      "$id": 6,
+      "label": "qst106005_msg0006",
+      "style": 84,
+      "name": "So work hard to follow lesson!"
+    },
+    {
+      "$id": 7,
+      "label": "qst106005_msg0007",
+      "style": 84,
+      "name": "Understood!"
+    },
+    {
+      "$id": 8,
+      "label": "qst106005_msg0008",
+      "style": 84,
+      "name": "So. First period lesson start right now!"
+    },
+    {
+      "$id": 9,
+      "label": "qst106005_msg0009",
+      "style": 84,
+      "name": "First period is forestry lesson."
+    },
+    {
+      "$id": 10,
+      "label": "qst106005_msg0010",
+      "style": 84,
+      "name": "Now, Hana.\nTry read text that is written on board."
+    }
+  ]
+}

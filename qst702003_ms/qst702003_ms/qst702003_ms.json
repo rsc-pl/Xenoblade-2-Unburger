@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702003_msg0001",
+      "style": 84,
+      "name": "カイもケイもここにいると\n思っていたけど[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst702003_msg0002",
+      "style": 84,
+      "name": "いませんね[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst702003_msg0003",
+      "style": 84,
+      "name": "慌てて逃げた跡がある[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst702003_msg0004",
+      "style": 84,
+      "name": "もしかして二人のものかもしれませんね"
+    },
+    {
+      "$id": 5,
+      "label": "qst702003_msg0005",
+      "style": 84,
+      "name": "調べてみよっか"
+    }
+  ]
+}

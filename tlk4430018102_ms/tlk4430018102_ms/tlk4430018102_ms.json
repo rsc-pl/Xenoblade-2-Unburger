@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300181_02_msg0001",
+      "style": 84,
+      "name": "Those eyes look like the eyes of a\nsoul seeking a ballad, am I right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300181_01_msg0002",
+      "style": 84,
+      "name": "But I'm afraid I can't sing for you alone."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300181_01_msg0003",
+      "style": 84,
+      "name": "The Ballad of Adel's Embercakes\nis particularly popular right now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300181_01_msg0004",
+      "style": 84,
+      "name": "You know embercakes? They're selling\nlike hotcakes at Lectica Vegetables.\nIt's one of Teos Aure's specialties!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk44300181_01_msg0005",
+      "style": 84,
+      "name": "They say it was Adel's favorite\nfood, and that he would always eat\none before battle."
+    },
+    {
+      "$id": 6,
+      "label": "tlk44300181_01_msg0006",
+      "style": 84,
+      "name": "The saying goes that a Driver who can\nstomach spicy food will be equally as\nstrong in battle."
+    }
+  ]
+}

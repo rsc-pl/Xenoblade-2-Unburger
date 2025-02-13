@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100221_04_msg0001",
+      "style": 84,
+      "name": "Why'd she give me such a whopping\ngreat shock?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100221_04_msg0002",
+      "style": 84,
+      "name": "Did I do something to deserve it?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100221_04_msg0003",
+      "style": 84,
+      "name": "I guess I shouldn't've let that Giant\nStag Beetle loose in the house..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100221_04_msg0004",
+      "style": 84,
+      "name": "Mum probably put her up to it, huh."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf05240100_0010",
+      "style": 82,
+      "name": "Your audience with the Pope is scheduled for\ntomorrow, in the cathedral's Audience Chamber."
+    },
+    {
+      "$id": 2,
+      "label": "bf05240100_0020",
+      "style": 82,
+      "name": "If there is nothing else, I shall take my leave."
+    },
+    {
+      "$id": 3,
+      "label": "bf05240100_0030",
+      "style": 82,
+      "name": "OK. Thanks for all your help."
+    },
+    {
+      "$id": 4,
+      "label": "bf05240100_0040",
+      "style": 82,
+      "name": "My pleasure. Good night."
+    },
+    {
+      "$id": 5,
+      "label": "bf05240100_0050",
+      "style": 82,
+      "name": "Night!"
+    }
+  ]
+}

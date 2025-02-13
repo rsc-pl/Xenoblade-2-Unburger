@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400012_06_msg0001",
+      "style": 84,
+      "name": "That damn Bahn! We never would have\nthought he was targeting Queen Lagert\nof all people..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400012_06_msg0002",
+      "style": 84,
+      "name": "But I have to say, it's unexpected that\nthe Emperor of Superbia would\nintervene to lend us a hand."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400012_06_msg0003",
+      "style": 84,
+      "name": "I hear you offered us your\nassistance too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400012_06_msg0004",
+      "style": 84,
+      "name": "Well, you have my thanks."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400012_06_msg0005",
+      "style": 84,
+      "name": "Up until now, I'd been launching a\nsecret investigation into the actions\nof the Nopon and of Superbia."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43400012_06_msg0006",
+      "style": 84,
+      "name": "But fighting a common enemy has\ndefused Invidian-Superbian tensions.\nFor now, I think my job here is done."
+    }
+  ]
+}

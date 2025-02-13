@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 34,
+      "name": "Tree"
+    },
+    {
+      "$id": 2,
+      "style": 34,
+      "name": "Flower"
+    },
+    {
+      "$id": 3,
+      "style": 34,
+      "name": "Vegetable"
+    },
+    {
+      "$id": 4,
+      "style": 34,
+      "name": "Insect"
+    },
+    {
+      "$id": 5,
+      "style": 34,
+      "name": "Fish"
+    },
+    {
+      "$id": 6,
+      "style": 34,
+      "name": "Ore"
+    },
+    {
+      "$id": 7,
+      "style": 34,
+      "name": "Enemy Drop"
+    },
+    {
+      "$id": 8,
+      "style": 34,
+      "name": "Mechanical"
+    }
+  ]
+}

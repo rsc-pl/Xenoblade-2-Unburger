@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700321_04_msg0001",
+      "style": 84,
+      "name": "Part of my job lately has been posting\nflyers to the notice board."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700321_04_msg0002",
+      "style": 84,
+      "name": "We're understaffed, you see. I may be\nthe representative of the Gulan, but\nI still have to pitch in with other tasks."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700321_04_msg0003",
+      "style": 84,
+      "name": "Have you been checking the\nnotice board flyers regularly?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700321_04_msg0004",
+      "style": 84,
+      "name": "When you do, spare a thought for\nthe guy who has to find time in his\nschedule to post 'em up there!"
+    }
+  ]
+}

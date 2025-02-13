@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_04_msg0001",
+      "style": 84,
+      "name": "Because of that business in\nTemperantia, the store's gonna be\nclosed for a while..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_04_msg0002",
+      "style": 84,
+      "name": "I was looking forward to this\nseason as well..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_04_msg0003",
+      "style": 84,
+      "name": "This makes me really hate Superbians.\nWhat's the point of 'em, really?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_03_msg0004",
+      "style": 84,
+      "name": "...Ah, no use grumbling.\nBetter spend this time training!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300046_03_msg0005",
+      "style": 84,
+      "name": "If I don't prove myself to the head\ncook, I can say goodbye to my dreams\nof joining the court kitchens!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100143_04_msg0001",
+      "style": 84,
+      "name": "Everyone who managed to get out of\nthe way of the Superbian army is OK.\nBut my dad hasn't come back yet..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100143_04_msg0002",
+      "style": 84,
+      "name": "We haven't heard from him. So we\ndon't know if he's OK, or if he's been\nhurt..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100143_04_msg0003",
+      "style": 84,
+      "name": "I'll never forget what the Superbians\ndid."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100143_04_msg0004",
+      "style": 84,
+      "name": "When I'm a Driver, I'm gonna fight for\njustice with a Light-type Blade! And I'll\nteach those Superbians a thing or two!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43100143_04_msg0005",
+      "style": 84,
+      "name": "Huh? Light-type Blades are hard to\nfind, you say?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk43100143_04_msg0006",
+      "style": 84,
+      "name": "But if I just set my mind to it, I'm\nsure I'll be able to resonate with a\nreally awesome one."
+    }
+  ]
+}

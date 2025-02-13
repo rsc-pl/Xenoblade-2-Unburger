@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf03130100_0010",
+      "style": 82,
+      "name": "We just got a job to go check out some kinda crazy energy effect.\nSomewhere up around the blowhole."
+    },
+    {
+      "$id": 2,
+      "label": "bf03130100_0020",
+      "style": 82,
+      "name": "How do ya feel about helping us out."
+    },
+    {
+      "$id": 3,
+      "label": "bf03130100_0040",
+      "style": 82,
+      "name": "Sure.\nBut, you'll have to pay up."
+    },
+    {
+      "$id": 4,
+      "label": "bf03130100_0050",
+      "style": 82,
+      "name": "Hah! You can talk the talk atleast."
+    }
+  ]
+}

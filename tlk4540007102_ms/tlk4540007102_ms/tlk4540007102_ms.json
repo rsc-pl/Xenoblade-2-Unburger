@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45400071_02_msg0001",
+      "style": 84,
+      "name": "So I hear Superbia and Invidia are\nfinally making peace."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45400071_02_msg0002",
+      "style": 84,
+      "name": "No more war is a good thing, but\nI don't know what Superbia is\ngoing to do from here on out."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45400071_02_msg0003",
+      "style": 84,
+      "name": "Everyone knows the homeland isn't\ngoing to last much longer. Is Superbia\njust going to perish with its Divine Beast?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45400071_02_msg0004",
+      "style": 84,
+      "name": "Oh, it's no good, I'm just depressing\nmyself thinking about it. I'll go grab a\npick-me-up Odifa at Cafe Lutino."
+    }
+  ]
+}

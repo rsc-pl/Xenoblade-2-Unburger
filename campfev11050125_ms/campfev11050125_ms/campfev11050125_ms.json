@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_050_125_msg0001",
+      "style": 84,
+      "name": "シン　料理作ってくれるんだよね？"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_050_125_msg0002",
+      "style": 84,
+      "name": "ああ"
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_050_125_msg0003",
+      "style": 0,
+      "name": "さっき集めた食材を使って\nトラウトルーシチを作ろうと思う"
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_050_125_msg0004",
+      "style": 0,
+      "name": "早く作ってほしいなぁ[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "campfev11_050_125_msg0005",
+      "style": 0,
+      "name": "[ML:Dash ]もう少し待っていてくれ"
+    }
+  ]
+}

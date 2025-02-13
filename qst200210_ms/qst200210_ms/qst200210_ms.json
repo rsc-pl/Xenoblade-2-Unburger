@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200210_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Somebody! Anybody!\nPlease help Jaruru!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200210_msg0002",
+      "style": 84,
+      "name": "[ML:Feeling ]Do I hear a voice crying out for help...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200210_msg0003",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Over here! Please save Jaruru!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200210_msg0004",
+      "style": 84,
+      "name": "Hang on! I'll be there in a jiffy!"
+    }
+  ]
+}

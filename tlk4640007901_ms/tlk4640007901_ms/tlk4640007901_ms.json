@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400079_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Seoris Plaza, the heart\nof the Holy See of Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400079_01_msg0002",
+      "style": 84,
+      "name": "The plaza is open to citizens and\nvisitors alike, as a place for rest\nand recreation."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400079_01_msg0003",
+      "style": 84,
+      "name": "Some use it to practice singing holy\nsongs, some to educate our younger\ncitizens, some simply to sit and pray."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46400079_01_msg0004",
+      "style": 84,
+      "name": "All is in thanks to His Holiness, Marveni."
+    }
+  ]
+}

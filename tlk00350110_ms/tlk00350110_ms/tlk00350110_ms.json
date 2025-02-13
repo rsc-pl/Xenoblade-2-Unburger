@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00350110_msg0001",
+      "style": 84,
+      "name": "Work's keeping us busy these days.\nWe've got to assign missions, work out\nhow to split the earnings, all that stuff."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00350110_msg0002",
+      "style": 84,
+      "name": "I really wish Vandham could've been\nhere to see all this, y'know?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00350110_msg0003",
+      "style": 84,
+      "name": "Nah, I'm sure he is. Watching.\nSomewhere up there... Welp, better\nmake sure I don't slack off then!"
+    }
+  ]
+}

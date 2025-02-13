@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_03_msg0001",
+      "style": 84,
+      "name": "There're tourists who toss coins over\nthe edge at Milama Viewpoint, but a lot\nof them actually land around here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_03_msg0002",
+      "style": 84,
+      "name": "Though actually, I haven't seen that\nmany coming down lately. I guess\npeople lost interest?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_03_msg0003",
+      "style": 84,
+      "name": "Well, I've almost earned enough to go\nhome to Gula anyway. I'm thinking\nof taking my dad along with me..."
+    }
+  ]
+}

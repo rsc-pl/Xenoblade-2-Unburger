@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201810_msg0001",
+      "style": 84,
+      "name": "...What do you think you're doing,\ncoming here uninvited?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201810_msg0002",
+      "style": 84,
+      "name": "This isn't a place for humans.\nHurry up and get lost."
+    },
+    {
+      "$id": 3,
+      "label": "qst201810_msg0003",
+      "style": 84,
+      "name": "The Vacillus Antol has gone\nin the direction of the Ruined Chapel\nof Danafas."
+    },
+    {
+      "$id": 4,
+      "label": "qst201810_msg0004",
+      "style": 84,
+      "name": "Please, I hope you'll take care\nof my friends."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400084_01_msg0001",
+      "style": 84,
+      "name": "Those are some peculiar clothes you're\nwearing. You must be outlanders."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400084_01_msg0002",
+      "style": 84,
+      "name": "You must find Luxuria rather nippy, no?\nFeel free to warm yourselves up here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400084_01_msg0003",
+      "style": 84,
+      "name": "This is a hot water source. It's heated\nup from within the Divine Beast's body and\ngets circulated throughout the kingdom."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400084_01_msg0004",
+      "style": 84,
+      "name": "It's hard to get a warming meal\naround these parts, so I come here\nevery day just to warm myself up."
+    }
+  ]
+}

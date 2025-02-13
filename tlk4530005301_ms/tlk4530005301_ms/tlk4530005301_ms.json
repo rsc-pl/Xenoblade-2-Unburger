@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300053_01_msg0001",
+      "style": 84,
+      "name": "Hey! How d'you feel about some meaty\ndishes from a former military man?\nBest way to build a strong body!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300053_01_msg0004",
+      "style": 84,
+      "name": "Hey there, owner!\nStopping by for a bite to eat?\nGood food for a strong body!"
+    }
+  ]
+}

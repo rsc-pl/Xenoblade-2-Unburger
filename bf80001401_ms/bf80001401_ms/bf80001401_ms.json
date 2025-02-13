@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "28890101",
+      "style": 82,
+      "name": "In the red corner, heavyweight Blade champion! At 800 pounds..."
+    },
+    {
+      "$id": 2,
+      "label": "28890102",
+      "style": 82,
+      "name": "Hya! It's Ootsuchi!"
+    },
+    {
+      "$id": 3,
+      "label": "28890103",
+      "style": 82,
+      "name": "[ML:undisp ]Nghaaa!"
+    },
+    {
+      "$id": 4,
+      "label": "28890104",
+      "style": 82,
+      "name": "I am the champion, my friend!"
+    }
+  ]
+}

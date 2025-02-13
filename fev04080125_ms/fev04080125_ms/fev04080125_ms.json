@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev04_080_125_msg0001",
+      "style": 84,
+      "name": "OK, so ships to the Superbian Empire\nshould be leaving from Goldmund\nFlight Deck on the fourth floor."
+    },
+    {
+      "$id": 2,
+      "label": "fev04_080_125_msg0002",
+      "style": 84,
+      "name": "I think there's a reception desk there\nwhere I should be able to charter one."
+    },
+    {
+      "$id": 3,
+      "label": "fev04_080_125_msg0003",
+      "style": 84,
+      "name": "Time to get moving!"
+    }
+  ]
+}

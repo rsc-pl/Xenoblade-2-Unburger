@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9001201_01_msg0001",
+      "style": 84,
+      "name": "I feel my power is going to waste\nwhile I stand idle here..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9001201_01_msg0002",
+      "style": 84,
+      "name": "Surely there is something I can do\nto help bring an end to this conflict."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310186_01_msg0001",
+      "style": 84,
+      "name": "In the event of Prince Sigurd's\nreturn, I've been instructed to also\nadmit his entire retinue."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310186_01_msg0002",
+      "style": 84,
+      "name": "Yes. Entry to Teos Aure is currently\nstrictly forbidden, except by express\nspecial permission."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310186_01_msg0003",
+      "style": 84,
+      "name": "Unless you're traders with the right\npermits, there's a long application\nprocess...and the answer's usually \"no\"."
+    }
+  ]
+}

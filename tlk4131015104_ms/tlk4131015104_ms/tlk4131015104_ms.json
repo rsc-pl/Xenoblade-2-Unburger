@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310151_04_msg0001",
+      "style": 84,
+      "name": "I heard you subdued that rebel faction,\nLindwurm. You know, I'm starting to\nthink you can do anything!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310151_04_msg0002",
+      "style": 84,
+      "name": "Both Don Dondon and Bahn are under\nlock and key, and Senator Stulc's\nfinally started giving his testimony."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310151_04_msg0003",
+      "style": 84,
+      "name": "I know it's strange coming from me,\nbut thank you. For everything."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41310151_04_msg0004",
+      "style": 84,
+      "name": "You've saved the empire, which\nmeans I'm not out of a job, and\nI can still provide for my family!"
+    }
+  ]
+}

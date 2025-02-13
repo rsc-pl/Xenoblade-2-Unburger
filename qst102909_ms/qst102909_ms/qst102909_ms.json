@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102909_msg001",
+      "style": 62,
+      "name": "きちんと戻って来たのか大したもんだ"
+    },
+    {
+      "$id": 2,
+      "label": "qst102909_msg002",
+      "style": 62,
+      "name": "旧市街の奥に行ってみるといい\nそこにいいものがあるはずだぜ"
+    }
+  ]
+}

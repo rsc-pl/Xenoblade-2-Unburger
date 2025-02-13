@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_01_msg0001",
+      "style": 84,
+      "name": "Past here is room of Chairman Bahn."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_01_msg0002",
+      "style": 84,
+      "name": "Chairman very busy Nopon, so no\nentering unless important business."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_01_msg0003",
+      "style": 84,
+      "name": "Temper of Chairman famously short!\nNot to disturb lightly!"
+    }
+  ]
+}

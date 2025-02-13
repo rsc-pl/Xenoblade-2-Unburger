@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700708_msg0001",
+      "style": 84,
+      "name": "軽い軽い　楽勝だね！"
+    },
+    {
+      "$id": 2,
+      "label": "qst700708_msg0101",
+      "style": 84,
+      "name": "ふう　こんなところかな？"
+    },
+    {
+      "$id": 3,
+      "label": "qst700708_msg0201",
+      "style": 84,
+      "name": "お役に立てたなら本望です"
+    },
+    {
+      "$id": 4,
+      "label": "qst700708_msg0301",
+      "style": 84,
+      "name": "こんなところだろう"
+    },
+    {
+      "$id": 5,
+      "label": "qst700708_msg0401",
+      "style": 84,
+      "name": "[ML:Dash ]頑張りました！"
+    },
+    {
+      "$id": 6,
+      "label": "qst700708_msg0402",
+      "style": 84,
+      "name": "疲れたぁ　もうヘトヘト"
+    },
+    {
+      "$id": 7,
+      "label": "qst700708_msg0501",
+      "style": 84,
+      "name": "やれやれ　人使いが荒いな"
+    },
+    {
+      "$id": 8,
+      "label": "qst700708_msg0702",
+      "style": 84,
+      "name": "燃やしてしまえたら楽だけれど\nこればっかりは　ね"
+    },
+    {
+      "$id": 9,
+      "label": "qst700708_msg0801",
+      "style": 84,
+      "name": "きれいになったね\n清々しい気持ちだよ"
+    }
+  ]
+}

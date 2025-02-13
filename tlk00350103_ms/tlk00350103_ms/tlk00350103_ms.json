@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00350103_msg0001",
+      "style": 84,
+      "name": "Hey. Heading out to the\nGreat Blowhole, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00350103_msg0002",
+      "style": 84,
+      "name": "Well, Hræsvelgr ain't much of a tourist\ndestination, but it's got a decent\nlineup of supplies."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00350103_msg0003",
+      "style": 84,
+      "name": "Be sure you get yourselves all kitted\nout before you head off, yeah?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00350103_msg0004",
+      "style": 84,
+      "name": "If the going gets tough, maybe catch\na few winks at the inn and then have\nanother crack at it."
+    },
+    {
+      "$id": 5,
+      "label": "tlk00350103_msg0005",
+      "style": 84,
+      "name": "Sometimes a quick nap's all you need\nto feel like you can take on the world!"
+    }
+  ]
+}

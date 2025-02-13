@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300017_01_msg0001",
+      "style": 84,
+      "name": "Welcome, friend.\nMe selling Core Chips for Blades."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300017_01_msg0004",
+      "style": 84,
+      "name": "The products sold here aren't\nmuch use to salvagers like me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300017_01_msg0005",
+      "style": 84,
+      "name": "Maybe if I was a mercenary or\na Driver... Or even a Blade..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003204_msg0001",
+      "style": 84,
+      "name": "Alulu! It Alulu!"
+    },
+    {
+      "$id": 2,
+      "label": "qst003204_msg0002",
+      "style": 84,
+      "name": "Friends come to help Alulu?"
+    },
+    {
+      "$id": 3,
+      "label": "qst003204_msg0003",
+      "style": 84,
+      "name": "Alulu manage to fight monsters little\nbit thanks to Blade here..."
+    },
+    {
+      "$id": 4,
+      "label": "qst003204_msg0004",
+      "style": 84,
+      "name": "But monsters is too many!\nNot able to fighting any more!"
+    },
+    {
+      "$id": 5,
+      "label": "qst003204_msg0005",
+      "style": 84,
+      "name": "Alulu leave rest to friends..."
+    }
+  ]
+}

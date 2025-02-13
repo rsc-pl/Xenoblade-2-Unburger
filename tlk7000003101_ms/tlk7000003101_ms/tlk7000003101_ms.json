@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000031_01_msg0001",
+      "style": 84,
+      "name": "…………"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000031_01_msg0002",
+      "style": 84,
+      "name": "[ML:Dash ]どうしたヒヨっ子"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000031_01_msg0003",
+      "style": 84,
+      "name": "悪いが忙しい　俺に構わないでくれ"
+    }
+  ]
+}

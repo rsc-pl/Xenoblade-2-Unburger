@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201919_msg0001",
+      "style": 84,
+      "name": "Badabada went to Wonder Spring\nPlaza Ruins in Spirit Crucible Elpys."
+    },
+    {
+      "$id": 2,
+      "label": "qst201919_msg0002",
+      "style": 84,
+      "name": "Not knowing anything about contents\nof barrel! Except that was quite heavy.\nProbably very valuable things inside!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660112_msg0001",
+      "style": 84,
+      "name": "Ohoho... Friends manage to lay hands\non some Noponstone?"
+    },
+    {
+      "$id": 2,
+      "label": "qst660112_msg0002",
+      "style": 84,
+      "name": "Me sorted through Nopon Archsage's\nstash and found some choice pickings."
+    },
+    {
+      "$id": 3,
+      "label": "qst660112_msg0003",
+      "style": 84,
+      "name": "Please to peruse at your leisure!"
+    }
+  ]
+}

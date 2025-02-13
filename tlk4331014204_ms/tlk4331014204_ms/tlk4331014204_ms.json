@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310142_04_msg0001",
+      "style": 84,
+      "name": "Have you ever faced Acedian\nwarrior monks in combat?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310142_04_msg0002",
+      "style": 84,
+      "name": "I always thought they'd be pushovers,\nsince they grew up in the peace-loving\nland of Acedia, but apparently not?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310142_04_msg0003",
+      "style": 84,
+      "name": "I dunno, the ones I've seen patrolling\nthe cathedral didn't strike me as very\nscary-looking."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310142_04_msg0004",
+      "style": 84,
+      "name": "'Course, Acedian folk are pretty lanky\nin general, so you'd think their weapons\nwould be too heavy for them."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43310142_04_msg0005",
+      "style": 84,
+      "name": "Are these monks even Acedian at all?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk43310142_04_msg0006",
+      "style": 84,
+      "name": "Could they secretly be training up\nrefugees from Invidia or Gula,\nor even Superbia?"
+    }
+  ]
+}

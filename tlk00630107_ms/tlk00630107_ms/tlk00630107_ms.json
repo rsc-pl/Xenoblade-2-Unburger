@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006301_07_msg0001",
+      "style": 84,
+      "name": "The king always believed in the Driver\nof the Holy Grail, and in Your Highness."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006301_07_msg0002",
+      "style": 84,
+      "name": "Believed that you would bring the\nHoly Grail back no matter the cost."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006301_07_msg0003",
+      "style": 84,
+      "name": "I see that his belief was well-placed.\nBut more than anything, I am glad to\nsee you safe."
+    }
+  ]
+}

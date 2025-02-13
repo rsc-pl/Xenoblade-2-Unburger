@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100342_03_msg0001",
+      "style": 84,
+      "name": "Those Whelzaman Cookies were\nabsolutely bonzer!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100342_03_msg0002",
+      "style": 84,
+      "name": "I always wanted to join the Invidian\narmy. But now I'm thinking it'd be\npretty ace to be a Driver."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100342_03_msg0003",
+      "style": 84,
+      "name": "I dunno if I've got potential or not...\nBut I'm determined to try!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100342_03_msg0004",
+      "style": 84,
+      "name": "First thing I'll do when I get my Blade\nis get 'em to bake me up a batch of\nthose lovely cookies!"
+    }
+  ]
+}

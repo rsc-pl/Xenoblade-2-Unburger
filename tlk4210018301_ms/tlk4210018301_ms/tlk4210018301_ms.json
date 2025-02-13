@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210018301_msg0001",
+      "style": 84,
+      "name": "Legendary hero...shining princess...\nteensy fairy..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210018301_msg0002",
+      "style": 84,
+      "name": "Meh-meh! Lapupu engrossed in world\nof fiction!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210018301_msg0003",
+      "style": 84,
+      "name": "In fiction, Lapupu can become anyone!\nLike swishy-swashy hero or fluffy-puff\nprincess or zip-a-zip fairy!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4210018301_msg0004",
+      "style": 84,
+      "name": "Becoming someone else make it easier\nto understand others, show kindness.\nLapupu want everyone to realize this."
+    }
+  ]
+}

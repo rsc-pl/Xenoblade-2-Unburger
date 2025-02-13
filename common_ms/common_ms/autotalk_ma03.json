@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 62,
+      "name": "Hey, Rex! You're taking over Monell's\nwatch, yeah? Good luck! He's on the\nlookout platform on deck."
+    },
+    {
+      "$id": 2,
+      "style": 62,
+      "name": "Booze!\nI want booze..."
+    },
+    {
+      "$id": 3,
+      "style": 62,
+      "name": "Big job starts tomorrow!\nNow's the time to make merry!"
+    },
+    {
+      "$id": 4,
+      "style": 62,
+      "name": "Yahoo!"
+    },
+    {
+      "$id": 5,
+      "style": 62,
+      "name": "Watch yourself."
+    },
+    {
+      "$id": 6,
+      "style": 62,
+      "name": "You better scurry along\nto the meeting, Rex."
+    },
+    {
+      "$id": 7,
+      "style": 62,
+      "name": "Right, better get moving."
+    }
+  ]
+}

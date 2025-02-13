@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370152_02_msg0001",
+      "style": 84,
+      "name": "What do you want?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370152_02_msg0002",
+      "style": 84,
+      "name": "I told you before, it isn't wise\nfor us to be seen together..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370152_02_msg0003",
+      "style": 84,
+      "name": "Brionac may be ruined, but you never\nknow who might be watching..."
+    }
+  ]
+}

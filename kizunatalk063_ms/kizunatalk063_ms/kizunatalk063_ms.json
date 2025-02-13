@@ -1,0 +1,492 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk063_msg0001",
+      "style": 84,
+      "name": "What's up, Hotaru?\nYou look down in the dumps."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk063_msg0002",
+      "style": 84,
+      "name": "You all right, Hotaru?\nWhat's up?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk063_msg0003",
+      "style": 84,
+      "name": "Are you OK?\nYou don't look it."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk063_msg0004",
+      "style": 84,
+      "name": "Hey, Hotaru, what's the matter?\nCheer up!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk063_msg0005",
+      "style": 84,
+      "name": "The land is choked with sand..."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk063_msg0006",
+      "style": 84,
+      "name": "Is this really Eden?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk063_msg0007",
+      "style": 84,
+      "name": "No flowers, no trees, no grass.\nJust a barren plain of rocks and sand."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk063_msg0009",
+      "style": 84,
+      "name": "Look.\nI bet that was a beautiful lake once."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk063_msg0010",
+      "style": 84,
+      "name": "But there isn't even a drop of water\nleft."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk063_msg0011",
+      "style": 84,
+      "name": "I guess this place doesn't get much\nrain."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk063_msg0012",
+      "style": 84,
+      "name": "I suppose they don't get much rain\nhere."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk063_msg0013",
+      "style": 84,
+      "name": "I suppose little rain falls here."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk063_msg0014",
+      "style": 84,
+      "name": "Can't imagine they get much rain here!"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk063_msg0015",
+      "style": 84,
+      "name": "Water is essential for life."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk063_msg0016",
+      "style": 84,
+      "name": "But there isn't any here."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk063_msg0017",
+      "style": 84,
+      "name": "This place is completely barren."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk063_msg0018",
+      "style": 84,
+      "name": "Some places have a drought now and\nagain, but they still have a little hope.\nThis place..."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk063_msg0019",
+      "style": 84,
+      "name": "It's just...dead."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk063_msg0020",
+      "style": 165,
+      "name": "Hotaru..."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk063_msg0021",
+      "style": 164,
+      "name": "Isn't there something we can do to\nbring the greenery back?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk063_msg0022",
+      "style": 164,
+      "name": "It's so sad to think that the land might \nhave died forever."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk063_msg0023",
+      "style": 165,
+      "name": "Hey, Hotaru..."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk063_msg0024",
+      "style": 164,
+      "name": "There must be some way to bring back\nthe greenery."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk063_msg0025",
+      "style": 164,
+      "name": "It's pretty sad to think the land might\nhave died forever."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk063_msg0026",
+      "style": 165,
+      "name": "Hotaru..."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk063_msg0027",
+      "style": 164,
+      "name": "Shall we search for a way to bring back\nthe greenery?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk063_msg0028",
+      "style": 164,
+      "name": "It is a terrible thing to think that this\nplace might be sterile forever."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk063_msg0029",
+      "style": 165,
+      "name": "Hey, Hotaru."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk063_msg0030",
+      "style": 164,
+      "name": "I wonder if there's some way to bring\nback the old greenery."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk063_msg0031",
+      "style": 164,
+      "name": "It's jolly sad to see the land so\ndesolate."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk063_msg0101",
+      "style": 84,
+      "name": "No roots can take hold in sand\nlike this. And nothing is going to\ngrow without water."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk063_msg0102",
+      "style": 84,
+      "name": "Wait!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk063_msg0103",
+      "style": 84,
+      "name": "Maybe something CAN grow!"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk063_msg0104",
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk063_msg0105",
+      "style": 84,
+      "name": "Well, you know life is a powerful thing."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk063_msg0106",
+      "style": 84,
+      "name": "It may be too dry for seeds here, but..."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk063_msg0107",
+      "style": 84,
+      "name": "...We could get some seedlings from\nsomewhere else and plant them here?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk063_msg0108",
+      "style": 84,
+      "name": "...We could get some seedlings from\nsomewhere else and plant them here?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk063_msg0109",
+      "style": 84,
+      "name": "...We could get some seedlings from\nsomewhere else and plant them here?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk063_msg0110",
+      "style": 84,
+      "name": "...We could get some seedlings from\nsomewhere else and plant them here?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk063_msg0111",
+      "style": 84,
+      "name": "Yes!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk063_msg0112",
+      "style": 84,
+      "name": "At first, they probably won't last very\nlong."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk063_msg0113",
+      "style": 84,
+      "name": "But as plants die, their remains\nfertilize the soil."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk063_msg0114",
+      "style": 84,
+      "name": "They'll be giving their goodness back to\nthe next generations."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk063_msg0115",
+      "style": 84,
+      "name": "It'll take a while. But do it enough\ntimes..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk063_msg0116",
+      "style": 84,
+      "name": "and eventually this dead\nland can be restored to life!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk063_msg0117",
+      "style": 84,
+      "name": "Hey, there's the old Hotaru!"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk063_msg0118",
+      "style": 84,
+      "name": "That's more like the Hotaru I know."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk063_msg0119",
+      "style": 84,
+      "name": "At last. You seem to be back\nto your old self."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk063_msg0120",
+      "style": 84,
+      "name": "Heyyy, there we go!\nBack to your old self!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk063_msg0121",
+      "style": 84,
+      "name": "Yes! Thank you."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk063_msg0122",
+      "style": 84,
+      "name": "I'm going to do it."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk063_msg0123",
+      "style": 84,
+      "name": "I'm going to bring back the vegetation!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk063_msg0201",
+      "style": 84,
+      "name": "That's so sad..."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk063_msg0202",
+      "style": 84,
+      "name": "When nature is destroyed, life and\neverything else is destroyed with it."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk063_msg0203",
+      "style": 84,
+      "name": "Don't people feel any shame when they\nsee places like this?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk063_msg0204",
+      "style": 84,
+      "name": "All life comes from nature. All beings\nshould live in harmony with it."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk063_msg0205",
+      "style": 84,
+      "name": "Why don't people treat it with the\nrespect it deserves?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk063_msg0206",
+      "style": 84,
+      "name": "Why do they let it fall into this state?\nAll life is precious, something to be\ncherished!"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk063_msg0207",
+      "style": 84,
+      "name": "That's so true. Nobody realizes how\nimportant the environment is."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk063_msg0208",
+      "style": 84,
+      "name": "You're right. Nobody gets how\nimportant this stuff is."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk063_msg0209",
+      "style": 84,
+      "name": "That's true. Few realize the\nimportance of the environment."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk063_msg0210",
+      "style": 84,
+      "name": "Yup, you hit the nail on the head.\nNobody gets it."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk063_msg0211",
+      "style": 84,
+      "name": "I'm a Blade, so I wasn't born from\nnature."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk063_msg0212",
+      "style": 84,
+      "name": "Mortals are part of nature, and I envy\nthem for that. But it angers me to see\nthem show no regard for it."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk063_msg0213",
+      "style": 84,
+      "name": "There are good humans out there, of\ncourse. Like you."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk063_msg0214",
+      "style": 84,
+      "name": "But mostly... I just don't\nunderstand them."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk063_msg0215",
+      "style": 84,
+      "name": "That's OK, though."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk063_msg0216",
+      "style": 84,
+      "name": "Well, it's early days. Maybe someday,\nhumans and Blades will come to\nunderstand each other."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk063_msg0217",
+      "style": 84,
+      "name": "Yeah, I think you're right."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk063_msg0218",
+      "style": 84,
+      "name": "Maybe one day, Blades will understand\nhumans, and humans will understand\nBlades."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk063_msg0219",
+      "style": 84,
+      "name": "Ah, it's still early days."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk063_msg0220",
+      "style": 84,
+      "name": "Maybe we all just need a little more\ntime to understand each other."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk063_msg0221",
+      "style": 84,
+      "name": "Don't worry about it!"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk063_msg0222",
+      "style": 84,
+      "name": "Maybe in time, mutual understanding\nand harmony will blossom... Wow,\nthat's deep. I better write it down."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk063_msg0223",
+      "style": 84,
+      "name": "Yeah, you're right."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk063_msg0224",
+      "style": 84,
+      "name": "I actually feel like you understand me\npretty well already."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk063_msg0225",
+      "style": 84,
+      "name": "That's why I feel like I can keep going\neven in the face of sadness."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk063_msg0226",
+      "style": 84,
+      "name": "Thank you for everything!"
+    }
+  ]
+}
