@@ -80,6 +80,13 @@ Original Japanese | Official Localization | Translation
 雨 | I Lived As You Wanted | Rain
 愚かなるものたち | The Birth of a Universe | The Foolish Ones
 
+## Screenshoots
+
+![Screen](graphics/S1.jpg)
+![Screen](graphics/S2.jpg)
+![Screen](graphics/S3.jpg)
+![Screen](graphics/S4.jpg)
+
 ## Development Tools
 
 To facilitate this project, I developed two Python programs:
