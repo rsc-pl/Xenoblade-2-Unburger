@@ -86,9 +86,9 @@ To facilitate this project, I developed two Python programs:
 1. A BDAT file repacker for managing game files
 2. A dedicated translation tool that displays Japanese and translation scripts side by side and allows to edit the translation.
 
-### GitHub Repositories**:  
-- [BDAT Tool](https://github.com/example/bdat-tool)  
-- [Translation Assistant](https://github.com/example/translation-assistant)  
+### GitHub Repositories:  
+- [BDAT Tool](https://github.com/rsc-pl/Xenoblade2-BDAT-Batch-Extract-Unpack-GUI)  
+- [Translation Assistant](https://github.com/rsc-pl/Xenoblade-2-BDAT-Translation-Tool)  
 
 ## Contributing
 
