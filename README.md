@@ -2,6 +2,12 @@
 
 This project represents a passionate effort to restore Xenoblade 2 to its original vision, building upon previous delocalization work while introducing substantial improvements. While previous mods laid important groundwork, this patch goes further in preserving the game's authentic Japanese cultural elements and narrative nuances that were altered or removed in the Western release. In addition, many things that previous patches left out by accident have already been fixed (not all names and designations have been restored, leaving some only localized elsewhere in the game).
 
+# A Personal Note on Project Origins
+
+My journey with Xenoblade 2 began with the Japanese version, which I completed shortly after the Western release. This means my understanding of the characters, story, and lore comes purely from the original Japanese presentation, uninfluenced by the Western localization. Recently, I felt drawn to revisit this masterpiece and realized it was the perfect opportunity to refresh existing delocalization projects.
+
+However, this wasn't a straightforward task. The main technical hurdle was working with Monolith Soft's proprietary BDAT file format. It wasn't until recently that I discovered a reliable method for unpacking and repacking these files. The current workflow involves processing JSON files through Notepad++ and a custom tool I developed specifically for this project that facilitates file searching, editing, and translation work.
+
 ### Prior Work
 - [**Name Delocalization Mod**](https://gbatemp.net/threads/xenoblade-chronicles-2-name-de-localization.589353/)  
 - [**Heart-to-Hearts Uncensored Mod**](https://varishangout.com/index.php?threads/xenoblade-chronicles-2-heart-to-hearts-uncensored-mod.2153/)  
@@ -10,11 +16,11 @@ This project represents a passionate effort to restore Xenoblade 2 to its origin
 
 The fundamental goal of this patch is authenticity to the original Japanese version without compromising cultural elements for the sake of "Western accessibility." This isn't about making the game more "digestible" for the average player - the official localization already serves that purpose even removing the entire original lore and replacing it with “more appropriate” counterparts. Instead, this patch aims to preserve the rich cultural context and nuanced storytelling of the original, particularly its roots in Christian symbolism, Japanese and Chinese folklore and connections to otaku culture everyhere which were all significantly downplayed (or rather completely removed) in the Western release.
 
-## Major Changes and Restorations
+## Major Changes and Restorations (in addition to changes made in previous projects)
 
 ### Terminology Unification and Cultural Accuracy
 - Restored 巨神獣 to "Divine Beast" rather than the official "Titan" - this better reflects their divine nature and connection to the game's theological themes (in the original text specifying that they are しもべ/Servants of God). 巨神獣 Means "Giant Divine Beast" but it is generally too long to fit in many places in the game interface.
-- Unified all instances of 楽園 as "Eden" (in prvious patches inconsistent between "Paradise", "Eden", and "Elysium" was left from localization in many places). This choice was made specifically because the game's narrative centers around humans who once lived in a fertile land with God - directly paralleling the biblical Garden of Eden
+- Unified all instances of 楽園 as "Eden" (in previous patches inconsistent between "Paradise", "Eden", and "Elysium" was left from localization in many places). This choice was made specifically because the game's narrative centers around humans who once lived in a fertile land with God - directly paralleling the biblical Garden of Eden
 - Restored "Bonding Talk" as the proper translation for the intimate character conversations (previously localized as "Heart-to-Heart")
 - Reverted "Trigo" to "Torigo"
 - Restored all NPC names to their Japanese originals, preserving their cultural significance and meaning
@@ -22,7 +28,7 @@ The fundamental goal of this patch is authenticity to the original Japanese vers
 - Restored the World Tree's floor names to their original Talmudic references (names of Heavnes) - Vilon, Rakia, Shehaqim, and Zebul - rather than the Western localization's star-based naming system.
 - Implemented proper waapuro romaji for character names, precisely - respecting long vowels (e.g., "Menou" instead of "Meno") - this is crucial as these can represent entirely different names in Japanese
 - Restored all instances of Hana's transformation names (e.g., "Judgement Day (JD)" instead of the localizer's "invention" - "Quantum Technochampion")
-- Restored Nia's authentic characterization of Zeke, including her turtle-themed nicknames and related wordplay (such as kameatama)
+- Restored Nia's authentic characterization of Zeke, including her turtle-themed nicknames and related wordplay (such as kameatama/turtlehaed)
 - Added all original Japanese honorific suffixes (-san, -sama, -chan, -kun). This was a massive undertaking but rather essential for Xenoblade 2, as these suffixes are frequently used as characterization devices. The game makes numerous references to otaku culture, even featuring scenes where Homura and Hana simulate Maid Cafe interactions - contexts where these honorifics are crucial to the scene's meaning. If the patch would apply to Xenoblade 1 or Xenoblade 3 - I would rather not undertake this dispatch, because there this aspect does not play such an important role to spend really a lot of time to search and restore every honorific in the dialogue.
 
 ### Technical Breakthroughs
