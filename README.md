@@ -2,6 +2,8 @@
 
 This project represents a passionate effort to restore Xenoblade 2 to its original vision, building upon previous delocalization work while introducing substantial improvements. While previous mods laid important groundwork, this patch goes further in preserving the game's authentic Japanese cultural elements and narrative nuances that were altered or removed in the Western release. In addition, many things that previous patches left out by accident have already been fixed (not all names and designations have been restored, leaving some only localized elsewhere in the game).
 
+At the outset, I would like to mention that the patch is work in progress (and will remain so for a long time, unless I find a lot of people willing to help). Many things may not work as intended, some dialogues will need editing after initial translation, etc. You use at your own risk. However, any report of any bug, or providing something I have overlooked that has a significant impact on the perception of characters, story or lore will be greatly appreciated.
+
 # A Personal Note on Project Origins
 
 My journey with Xenoblade 2 began with the Japanese version, which I completed shortly after the Western release. This means my understanding of the characters, story, and lore comes purely from the original Japanese presentation, uninfluenced by the Western localization. Recently, I felt drawn to revisit this masterpiece and realized it was the perfect opportunity to refresh existing delocalization projects.
@@ -26,10 +28,10 @@ The fundamental goal of this patch is authenticity to the original Japanese vers
 - Restored all NPC names to their Japanese originals, preserving their cultural significance and meaning
 - Completely revised and retranslated all attack names, restoring their original English, German and Italian names that were completely replaced by localizers
 - Restored the World Tree's floor names to their original Talmudic references (names of Heavnes) - Vilon, Rakia, Shehaqim, and Zebul - rather than the Western localization's star-based naming system.
-- Implemented proper waapuro romaji for character names, precisely - respecting long vowels (e.g., "Menou" instead of "Meno") - this is crucial as these can represent entirely different names in Japanese
+- Implemented proper waapuro romaji for character names, precisely - respecting long vowels (e.g., "Menou" instead of "Meno") - previous patches have mixed different methods, while I value consistency.
 - Restored all instances of Hana's transformation names (e.g., "Judgement Day (JD)" instead of the localizer's "invention" - "Quantum Technochampion")
 - Restored Nia's authentic characterization of Zeke, including her turtle-themed nicknames and related wordplay (such as kameatama/turtlehaed)
-- Added all original Japanese honorific suffixes (-san, -sama, -chan, -kun). This was a massive undertaking but rather essential for Xenoblade 2, as these suffixes are frequently used as characterization devices. The game makes numerous references to otaku culture, even featuring scenes where Homura and Hana simulate Maid Cafe interactions - contexts where these honorifics are crucial to the scene's meaning. If the patch would apply to Xenoblade 1 or Xenoblade 3 - I would rather not undertake this dispatch, because there this aspect does not play such an important role to spend really a lot of time to search and restore every honorific in the dialogue.
+- Added all original Japanese honorific suffixes (-san, -sama, -chan, -kun). This was a massive undertaking but rather essential for Xenoblade 2, as these suffixes are frequently used as characterization devices. The game makes numerous references to otaku culture - for example featuring scenes where Homura and Hana simulate Maid Cafe interactions - contexts where these honorifics are crucial to the scene's tone and impact. If the patch would apply to Xenoblade 1 or Xenoblade 3 - I would rather not undertake this dispatch, because there this aspect does not play such an important role to spend really a lot of time to search and restore every honorific in the dialogue.
 
 ### Technical Breakthroughs
 
