@@ -94,6 +94,9 @@ Original Japanese | Official Localization | Translation
 ![Screen](graphics/S2.jpg)
 ![Screen](graphics/S3.jpg)
 ![Screen](graphics/S4.jpg)
+![Screen](graphics/S5.jpg)
+![Screen](graphics/S6.jpg)
+![Screen](graphics/S7.jpg)
 
 ## Development Tools
 
