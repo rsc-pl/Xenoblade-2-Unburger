@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation Differences</title>
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
+    <!-- Bootstrap CSS for styling -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .dataTables_wrapper .dataTables_filter input {
+            border: 1px solid #aaa;
+            border-radius: 5px;
+            padding: 5px;
+            background-color: white;
+        }
+        .dataTables_wrapper .dataTables_length select {
+            border: 1px solid #aaa;
+            border-radius: 5px;
+            padding: 5px;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <h1>Translation Differences</h1>
+        <table id="translationTable" class="table table-striped table-bordered" style="width:100%;">
+            <thead>
+                <tr>
+                    <th>File Name</th>
+                    <th>ID</th>
+                    <th>Original Japanese Line</th>
+                    <th>Fan Translation</th>
+                    <th>Localized Version</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table data will be loaded here -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#translationTable').DataTable({
+                "ajax": {
+                    "url": "translation_differences.json",
+                    "dataSrc": "",
+                    "error": function (xhr, error, thrown) {
+                        console.log("DataTables AJAX error:", error);
+                        alert("Failed to load data. Check the console for details.");
+                    }
+                },
+                "columns": [
+                    { "data": "file_name" },
+                    { "data": "ID" },
+                    { "data": "Original Japanese line" },
+                    { "data": "fan translation" },
+                    { "data": "localized version" }
+                ],
+                "order": [[0, "asc"]],
+                "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
+                "pageLength": -1,
+                "order": [[ 0, "asc" ]] // Sort by the 'File Name' column (index 0)
+            });
+        });
+    </script>
+</body>
+</html>
