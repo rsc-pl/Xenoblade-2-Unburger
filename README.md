@@ -32,6 +32,7 @@ The fundamental goal of this patch is authenticity to the original Japanese vers
 - Restored all instances of Hana's transformation names (e.g., "Judgement Day (JD)" instead of the localizer's "invention" - "Quantum Technochampion")
 - Restored Nia's authentic characterization of Zeke, including her turtle-themed nicknames and related wordplay (such as kameatama/turtlehaed)
 - Added all original Japanese honorific suffixes (-san, -sama, -chan, -kun). This was a massive undertaking but rather essential for Xenoblade 2, as these suffixes are frequently used as characterization devices. The game makes numerous references to otaku culture - for example featuring scenes where Homura and Hana simulate Maid Cafe interactions - contexts where these honorifics are crucial to the scene's tone and impact. If the patch was about Xenoblade 1 or Xenoblade 3 - I would rather not undertake this approach, because there this aspect does not play such an important role to spend really a lot of time to search and restore every honorific in the dialogue.
+- Man-Eater (マンエーター) is used instead of Flesh Eater
 
 ### Technical Breakthroughs
 
