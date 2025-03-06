@@ -33,6 +33,7 @@ The fundamental goal of this patch is authenticity to the original Japanese vers
 - Restored Nia's authentic characterization of Zeke, including her turtle-themed nicknames and related wordplay (such as kameatama/turtlehaed)
 - Added all original Japanese honorific suffixes (-san, -sama, -chan, -kun). This was a massive undertaking but rather essential for Xenoblade 2, as these suffixes are frequently used as characterization devices. The game makes numerous references to otaku culture - for example featuring scenes where Homura and Hana simulate Maid Cafe interactions - contexts where these honorifics are crucial to the scene's tone and impact. If the patch was about Xenoblade 1 or Xenoblade 3 - I would rather not undertake this approach, because there this aspect does not play such an important role to spend really a lot of time to search and restore every honorific in the dialogue.
 - Man-Eater (マンエーター) is used instead of Flesh Eater
+- All Praetor and Praetorium instences were changed to Pope and Holy See.
 
 ### Technical Breakthroughs
 
@@ -46,7 +47,7 @@ One of the omissions in the Western release was the abandoning of the Furigana T
 ```
 [System:Ruby rt=デバイス]僕[/System:Ruby]
 ```
-This creates fascinating layers of meaning. For example, in the text above, while the character uses 僕 (boku, meaning "I/me"), it's meant to be read as "Device" - adding crucial context about the character. An even more meaningful example is:
+This creates fascinating layers of meaning. For example, in the text above, while the character uses 僕 (boku, meaning "I/me" but also shimobe - servant. which is the case here), it's meant to be read as "Device" - adding context about the character. An even more meaningful example is:
 ```
 
 [System:Ruby rt=とうさま]神[/System:Ruby]
