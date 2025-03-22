@@ -648,7 +648,7 @@
     {
       "$id": 128,
       "style": 160,
-      "name": "If any of the skill levels are too low, you'll fail the check.\nIf that happens, check the Blade's [System:Color name=tutorial ]Affinity Chart [/System:Color]to see\nhow to unlock the nodes needed to improve the skill."
+      "name": "If any of the skill levels are too low, you'll fail the check.\nIf that happens, check the Blade's [System:Color name=tutorial ]Bonding Ring [/System:Color]to see\nhow to unlock the nodes needed to improve the skill."
     },
     {
       "$id": 129,
@@ -673,7 +673,7 @@
     {
       "$id": 133,
       "style": 160,
-      "name": "Improving Driver Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nAffinity Chart: Use [System:Color name=tutorial ]SP [/System:Color]earned in battle."
+      "name": "Improving Driver Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nBonding Ring: Use [System:Color name=tutorial ]SP [/System:Color]earned in battle."
     },
     {
       "$id": 134,
@@ -688,12 +688,12 @@
     {
       "$id": 136,
       "style": 160,
-      "name": "Improving Blade Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nAffinity Chart: [System:Color name=tutorial ]Complete required tasks[/System:Color]."
+      "name": "Improving Blade Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nBonding Ring: [System:Color name=tutorial ]Complete required tasks[/System:Color]."
     },
     {
       "$id": 137,
       "style": 160,
-      "name": "Improving Blade Equipment\nWpn. Mod.: Use [System:Color name=tutorial ]Core Chips[/System:Color], mostly found as treasure.\nAux Cores: Equip [System:Color name=tutorial ]Aux Cores[/System:Color], mostly dropped by foes."
+      "name": "Improving Blade Equipment\nWpn. Mod.: Use [System:Color name=tutorial ]Core Chips[/System:Color], mostly found as treasure.\nAssist Cores: Equip [System:Color name=tutorial ]Assist Cores[/System:Color], mostly dropped by foes."
     },
     {
       "$id": 138,
@@ -778,7 +778,7 @@
     {
       "$id": 154,
       "style": 160,
-      "name": "Clearing away the miasma requires the right [System:Color name=tutorial ]Field Skills[/System:Color].\nThese can be acquired and improved by unlocking the\nright nodes on Blades' Affinity Charts."
+      "name": "Clearing away the miasma requires the right [System:Color name=tutorial ]Field Skills[/System:Color].\nThese can be acquired and improved by unlocking the\nright nodes on Blades' Bonding Rings."
     },
     {
       "$id": 155,
@@ -1108,12 +1108,12 @@
     {
       "$id": 220,
       "style": 151,
-      "name": "Blade Affinity Charts"
+      "name": "Blade Bonding Rings"
     },
     {
       "$id": 221,
       "style": 160,
-      "name": "When you get an [System:Color name=tutorial ]Affinity Reward[/System:Color] for fulfilling a\ncondition on a Blade's [System:Color name=tutorial ]Affinity Chart[/System:Color], you'll get\na [System:Color name=tutorial ]pop-up[/System:Color] notification."
+      "name": "When you get an [System:Color name=tutorial ]Affinity Reward[/System:Color] for fulfilling a\ncondition on a Blade's [System:Color name=tutorial ]Bonding Ring[/System:Color], you'll get\na [System:Color name=tutorial ]pop-up[/System:Color] notification."
     },
     {
       "$id": 222,

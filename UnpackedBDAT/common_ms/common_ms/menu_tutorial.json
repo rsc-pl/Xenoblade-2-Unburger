@@ -793,7 +793,7 @@
     {
       "$id": 157,
       "style": 160,
-      "name": "Try giving Rex some new skills in [System:Color name=tutorial ]Main Menu [/System:Color]>\n[System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Character Setup[/System:Color] > [System:Color name=tutorial ]Affinity Chart[/System:Color]."
+      "name": "Try giving Rex some new skills in [System:Color name=tutorial ]Main Menu [/System:Color]>\n[System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Character Setup[/System:Color] > [System:Color name=tutorial ]Bonding Ring[/System:Color]."
     },
     {
       "$id": 158,
@@ -878,12 +878,12 @@
     {
       "$id": 174,
       "style": 160,
-      "name": "Behold Hana, Alst's first artificial Blade! Since Hana\nis man-made (or should that be...Nopon-made?), she\ncan't make use of [System:Color name=tutorial ]Aux Cores[/System:Color] like a regular Blade."
+      "name": "Behold Hana, Alst's first artificial Blade! Since Hana\nis man-made (or should that be...Nopon-made?), she\ncan't make use of [System:Color name=tutorial ]Assist Cores[/System:Color] like a regular Blade."
     },
     {
       "$id": 175,
       "style": 160,
-      "name": "Behold Hana, the world's first Artificial Blade! Hana\ncan't equip Aux Cores, but she has something just as\ngood for customizing her abilities: [System:Color name=tutorial ]Hanaswap[/System:Color]!"
+      "name": "Behold Hana, the world's first Artificial Blade! Hana\ncan't equip Assist Cores, but she has something just as\ngood for customizing her abilities: [System:Color name=tutorial ]Hanaswap[/System:Color]!"
     },
     {
       "$id": 176,
@@ -1028,7 +1028,7 @@
     {
       "$id": 204,
       "style": 160,
-      "name": "There are three main ways to develop a Blade:\n[System:Color name=tutorial ]weapon modification[/System:Color], [System:Color name=tutorial ]equipping Aux Cores[/System:Color], and\nthe [System:Color name=tutorial ]Affinity Chart[/System:Color]."
+      "name": "There are three main ways to develop a Blade:\n[System:Color name=tutorial ]weapon modification[/System:Color], [System:Color name=tutorial ]equipping Assist Cores[/System:Color], and\nthe [System:Color name=tutorial ]Bonding Ring[/System:Color]."
     },
     {
       "$id": 205,
@@ -1063,7 +1063,7 @@
     {
       "$id": 211,
       "style": 160,
-      "name": "Next, let's talk about the [System:Color name=tutorial ]Affinity Chart[/System:Color]. This is a chart\nwhich shows the range of proficiencies available to a\nspecific Blade."
+      "name": "Next, let's talk about the [System:Color name=tutorial ]Bonding Ring[/System:Color]. This is a chart\nwhich shows the range of proficiencies available to a\nspecific Blade."
     },
     {
       "$id": 212,
@@ -1078,22 +1078,22 @@
     {
       "$id": 214,
       "style": 160,
-      "name": "Finally, we have [System:Color name=tutorial ]Aux Cores[/System:Color]. These are like accessories\nspecifically for Blades to equip."
+      "name": "Finally, we have [System:Color name=tutorial ]Assist Cores[/System:Color]. These are like accessories\nspecifically for Blades to equip."
     },
     {
       "$id": 215,
       "style": 160,
-      "name": "You'll be sure to happen across Aux Cores from\ntime to time as you continue with your journey."
+      "name": "You'll be sure to happen across Assist Cores from\ntime to time as you continue with your journey."
     },
     {
       "$id": 216,
       "style": 160,
-      "name": "However, you won't be able to equip Aux Cores that\nyou find right away."
+      "name": "However, you won't be able to equip Assist Cores that\nyou find right away."
     },
     {
       "$id": 217,
       "style": 160,
-      "name": "You'll need to have them [System:Color name=tutorial ]refined [/System:Color]at a [System:Color name=tutorial ]shop dealing\nin Aux Cores[/System:Color]. We can go over the details when you\nvisit one of these shops for yourself!"
+      "name": "You'll need to have them [System:Color name=tutorial ]refined [/System:Color]at a [System:Color name=tutorial ]shop dealing\nin Assist Cores[/System:Color]. We can go over the details when you\nvisit one of these shops for yourself!"
     },
     {
       "$id": 218,
@@ -1143,32 +1143,32 @@
     {
       "$id": 227,
       "style": 160,
-      "name": "Since you're standing in front of an [System:Color name=tutorial ]Aux Core shop[/System:Color],\nlet's revisit the topic of Aux Cores for a moment.\nAt shops like these, you can [System:Color name=tutorial ]get your Aux Cores refined[/System:Color]."
+      "name": "Since you're standing in front of an [System:Color name=tutorial ]Assist Core shop[/System:Color],\nlet's revisit the topic of Assist Cores for a moment.\nAt shops like these, you can [System:Color name=tutorial ]get your Assist Cores refined[/System:Color]."
     },
     {
       "$id": 228,
       "style": 160,
-      "name": "You'll need [System:Color name=tutorial ]collectible items [/System:Color]to refine Aux Cores."
+      "name": "You'll need [System:Color name=tutorial ]collectible items [/System:Color]to refine Assist Cores."
     },
     {
       "$id": 229,
       "style": 160,
-      "name": "The number of collectible items you'll need is\ndefined individually for each Aux Core."
+      "name": "The number of collectible items you'll need is\ndefined individually for each Assist Core."
     },
     {
       "$id": 230,
       "style": 160,
-      "name": "Once you have all the collectibles you need, you\ncan head to the shop to get your Aux Core refined."
+      "name": "Once you have all the collectibles you need, you\ncan head to the shop to get your Assist Core refined."
     },
     {
       "$id": 231,
       "style": 160,
-      "name": "But watch out! The higher the value of the\nAux Core, the more difficult it's likely to be\nto find all of the necessary items."
+      "name": "But watch out! The higher the value of the\nAssist Core, the more difficult it's likely to be\nto find all of the necessary items."
     },
     {
       "$id": 232,
       "style": 160,
-      "name": "If you want to be able to refine your Aux Cores\nas soon as you get them, you'll need to always be\non the lookout for Collection Points on your travels!"
+      "name": "If you want to be able to refine your Assist Cores\nas soon as you get them, you'll need to always be\non the lookout for Collection Points on your travels!"
     },
     {
       "$id": 233,
@@ -1188,7 +1188,7 @@
     {
       "$id": 236,
       "style": 160,
-      "name": "If you develop your Blades and help them to acquire\nField Skills from the Affinity Chart, someday you'll\nsurely be able to open it up and see what's inside."
+      "name": "If you develop your Blades and help them to acquire\nField Skills from the Bonding Ring, someday you'll\nsurely be able to open it up and see what's inside."
     },
     {
       "$id": 237,
@@ -1258,7 +1258,7 @@
     {
       "$id": 250,
       "style": 160,
-      "name": "Blades can [System:Color name=tutorial ]get achievements in the Affinity Chart[/System:Color] if\nthey're part of squad that [System:Color name=tutorial ]fulfills a Merc Mission[/System:Color]."
+      "name": "Blades can [System:Color name=tutorial ]get achievements in the Bonding Ring[/System:Color] if\nthey're part of squad that [System:Color name=tutorial ]fulfills a Merc Mission[/System:Color]."
     },
     {
       "$id": 251,
@@ -1338,7 +1338,7 @@
     {
       "$id": 266,
       "style": 160,
-      "name": "It's also worth keeping in mind that viewing some\n[System:Color name=tutorial ]Bonding Talk [/System:Color]counts as an [System:Color name=tutorial ]achievement [/System:Color]on a\nBlade's Affinity Chart."
+      "name": "It's also worth keeping in mind that viewing some\n[System:Color name=tutorial ]Bonding Talk [/System:Color]counts as an [System:Color name=tutorial ]achievement [/System:Color]on a\nBlade's Bonding Ring."
     },
     {
       "$id": 267,
@@ -1718,7 +1718,7 @@
     {
       "$id": 342,
       "style": 160,
-      "name": "You're engaging Kagutsuchi right now, so you'd better live\nup to the exacting standards set by Meleph! Make sure\nto use Kagutsuchi's capabilities to their fullest extent."
+      "name": "You're engaging Kagutsuchi right now, you'd better live\nup to the exacting standards set by Meleph! Make sure\nto use Kagutsuchi's capabilities to their fullest extent."
     },
     {
       "$id": 343,
@@ -1878,7 +1878,7 @@
     {
       "$id": 374,
       "style": 160,
-      "name": "Trust is a vital resource that you need to [System:Color name=tutorial ]unlock\nlevels[/System:Color] on your Blade's [System:Color name=tutorial ]Affinity Chart[/System:Color]."
+      "name": "Trust is a vital resource that you need to [System:Color name=tutorial ]unlock\nlevels[/System:Color] on your Blade's [System:Color name=tutorial ]Bonding Ring[/System:Color]."
     },
     {
       "$id": 375,
@@ -2028,7 +2028,7 @@
     {
       "$id": 404,
       "style": 160,
-      "name": "Perhaps it's a little too soon to tell you about\nAux Cores though. I'll save the details for when you've\nactually got hold of one."
+      "name": "Perhaps it's a little too soon to tell you about\nAssist Cores though. I'll save the details for when you've\nactually got hold of one."
     },
     {
       "$id": 405,
@@ -2043,7 +2043,7 @@
     {
       "$id": 407,
       "style": 160,
-      "name": "Aux Cores can be equipped to Blades in [System:Color name=tutorial ]Main Menu[/System:Color] >\n[System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Equip Aux Cores[/System:Color]."
+      "name": "Assist Cores can be equipped to Blades in [System:Color name=tutorial ]Main Menu[/System:Color] >\n[System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Equip Assist Cores[/System:Color]."
     },
     {
       "$id": 408,
@@ -2203,7 +2203,7 @@
     {
       "$id": 439,
       "style": 160,
-      "name": "You can take a look at Affinity Rewards here:\n[System:Color name=tutorial ]Main Menu[/System:Color] > [System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Affinity Chart[/System:Color]."
+      "name": "You can take a look at Affinity Rewards here:\n[System:Color name=tutorial ]Main Menu[/System:Color] > [System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Bonding Ring[/System:Color]."
     },
     {
       "$id": 440,
@@ -2798,7 +2798,7 @@
     {
       "$id": 558,
       "style": 160,
-      "name": "Clearing away the miasma requires the right [System:Color name=tutorial ]Field Skills[/System:Color].\nThese can be acquired and improved by unlocking the\nright nodes on Blades' Affinity Charts."
+      "name": "Clearing away the miasma requires the right [System:Color name=tutorial ]Field Skills[/System:Color].\nThese can be acquired and improved by unlocking the\nright nodes on Blades' Bonding Rings."
     },
     {
       "$id": 559,
@@ -3138,7 +3138,7 @@
     {
       "$id": 626,
       "style": 160,
-      "name": "Improving Driver Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nAffinity Chart: Use [System:Color name=tutorial ]SP [/System:Color]earned in battle."
+      "name": "Improving Driver Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nBonding Ring: Use [System:Color name=tutorial ]SP [/System:Color]earned in battle."
     },
     {
       "$id": 627,
@@ -3153,12 +3153,12 @@
     {
       "$id": 629,
       "style": 160,
-      "name": "Improving Blade Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nAffinity Chart: [System:Color name=tutorial ]Complete required tasks[/System:Color]."
+      "name": "Improving Blade Characters\nEnhance Arts: Use [System:Color name=tutorial ]WP [/System:Color]earned in battle.\nBonding Ring: [System:Color name=tutorial ]Complete required tasks[/System:Color]."
     },
     {
       "$id": 630,
       "style": 160,
-      "name": "Improving Blade Equipment\nWpn. Mod.: Use [System:Color name=tutorial ]Core Chips[/System:Color], mostly found as treasure.\nAux Cores: Equip [System:Color name=tutorial ]Aux Cores[/System:Color], mostly dropped by foes."
+      "name": "Improving Blade Equipment\nWpn. Mod.: Use [System:Color name=tutorial ]Core Chips[/System:Color], mostly found as treasure.\nAssist Cores: Equip [System:Color name=tutorial ]Assist Cores[/System:Color], mostly dropped by foes."
     },
     {
       "$id": 631,
@@ -3263,7 +3263,7 @@
     {
       "$id": 651,
       "style": 160,
-      "name": "When you get an [System:Color name=tutorial ]Affinity Reward[/System:Color] for fulfilling a\ncondition on a Blade's [System:Color name=tutorial ]Affinity Chart[/System:Color], you'll get\na [System:Color name=tutorial ]pop-up[/System:Color] notification."
+      "name": "When you get an [System:Color name=tutorial ]Affinity Reward[/System:Color] for fulfilling a\ncondition on a Blade's [System:Color name=tutorial ]Bonding Ring[/System:Color], you'll get\na [System:Color name=tutorial ]pop-up[/System:Color] notification."
     },
     {
       "$id": 652,
