@@ -18,13 +18,13 @@
       "$id": 1,
       "label": "qst202106_msg001",
       "style": 84,
-      "name": "PLEASE ENTER PASSWORD"
+      "name": "Please enter the password"
     },
     {
       "$id": 2,
       "label": "qst202106_msg002",
       "style": 165,
-      "name": "The first character is..."
+      "name": "The 1st password is[ML:Dash ]"
     },
     {
       "$id": 3,
@@ -48,7 +48,7 @@
       "$id": 6,
       "label": "qst202106_msg006",
       "style": 165,
-      "name": "The second character is..."
+      "name": "The 2nd password is[ML:Dash ]"
     },
     {
       "$id": 7,
@@ -72,7 +72,7 @@
       "$id": 10,
       "label": "qst202106_msg010",
       "style": 165,
-      "name": "The third character is..."
+      "name": "The 3rd password is[ML:Dash ]"
     },
     {
       "$id": 11,
@@ -96,7 +96,7 @@
       "$id": 14,
       "label": "qst202106_msg014",
       "style": 165,
-      "name": "The fourth character is..."
+      "name": "The 4th password is[ML:Dash ]"
     },
     {
       "$id": 15,
@@ -120,7 +120,7 @@
       "$id": 18,
       "label": "qst202106_msg018",
       "style": 165,
-      "name": "The fifth character is..."
+      "name": "The 5th password is[ML:Dash ]"
     },
     {
       "$id": 19,
@@ -144,7 +144,7 @@
       "$id": 22,
       "label": "qst202106_msg022",
       "style": 165,
-      "name": "The sixth character is..."
+      "name": "The 6th password is[ML:Dash ]"
     },
     {
       "$id": 23,
@@ -168,7 +168,7 @@
       "$id": 26,
       "label": "qst202106_msg026",
       "style": 165,
-      "name": "The seventh character is..."
+      "name": "The 7th password is[ML:Dash ]"
     },
     {
       "$id": 27,
@@ -192,7 +192,7 @@
       "$id": 30,
       "label": "qst202106_msg030",
       "style": 165,
-      "name": "The eighth character is..."
+      "name": "The 8th password is[ML:Dash ]"
     },
     {
       "$id": 31,
@@ -216,7 +216,7 @@
       "$id": 34,
       "label": "qst202106_msg034",
       "style": 165,
-      "name": "The ninth character is..."
+      "name": "The 9th password is[ML:Dash ]"
     },
     {
       "$id": 35,
@@ -240,7 +240,7 @@
       "$id": 38,
       "label": "qst202106_msg039",
       "style": 165,
-      "name": "The tenth character is..."
+      "name": "The 10th password is[ML:Dash ]"
     },
     {
       "$id": 39,
@@ -264,7 +264,7 @@
       "$id": 42,
       "label": "qst202106_msg044",
       "style": 165,
-      "name": "The eleventh character is..."
+      "name": "The 11th password is[ML:Dash ]"
     },
     {
       "$id": 43,
@@ -288,7 +288,7 @@
       "$id": 46,
       "label": "qst202106_msg049",
       "style": 165,
-      "name": "The twelfth character is..."
+      "name": "The 12th password is[ML:Dash ]"
     },
     {
       "$id": 47,
@@ -312,43 +312,43 @@
       "$id": 50,
       "label": "qst202106_msg054",
       "style": 84,
-      "name": "PASSWORD ACCEPTED\nACCESS GRANTED"
+      "name": "Password confirmation\nAuthenticated"
     },
     {
       "$id": 51,
       "label": "qst202106_msg055",
       "style": 84,
-      "name": "PASSWORD NOT RECOGNIZED\nPLEASE RETRY"
+      "name": "Password is incorrect\nPlease start over from the beginning"
     },
     {
       "$id": 52,
       "label": "qst202106_msg056",
       "style": 84,
-      "name": "Huh?\nLooks like that's not it..."
+      "name": "Huh?\nLooks like I made a mistake[ML:Dash ]"
     },
     {
       "$id": 53,
       "label": "qst202106_msg057",
       "style": 84,
-      "name": "Erm?\nMaybe I typed it wrong..."
+      "name": "Huh?\nI messed up[ML:Dash ]"
     },
     {
       "$id": 54,
       "label": "qst202106_msg058",
       "style": 84,
-      "name": "Mmeh?!\nTora wrong?!"
+      "name": "Meh-meh!?\nMade a mistake, meh!"
     },
     {
       "$id": 55,
       "label": "qst202106_msg059",
       "style": 84,
-      "name": "Hrm...\nDid I make a mistake somewhere...?"
+      "name": "Mu[ML:Dash ]\nDid I input it incorrectly[ML:Dash ]"
     },
     {
       "$id": 56,
       "label": "qst202106_msg060",
       "style": 84,
-      "name": "Grrr...\nThis is hard, you guys!"
+      "name": "Hmmm\nThis is difficult."
     }
   ]
 }
