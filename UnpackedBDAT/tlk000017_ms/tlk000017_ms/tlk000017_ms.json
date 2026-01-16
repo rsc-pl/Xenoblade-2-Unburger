@@ -18,25 +18,25 @@
       "$id": 1,
       "label": "tlk000017_msg0001",
       "style": 62,
-      "name": "tlk000017　仮実装\n船員にトーク\nモルスの断崖へ向かうか確認"
+      "name": "tlk000017 Temp Implementation\nTalk to crewman\nConfirm departure to Cliffs of Mors"
     },
     {
       "$id": 2,
       "label": "tlk000017_msg0002",
       "style": 62,
-      "name": "どちらを選択しますか？"
+      "name": "Which will you choose?"
     },
     {
       "$id": 3,
       "label": "tlk000017_msg0003",
       "style": 62,
-      "name": "出発する"
+      "name": "Depart"
     },
     {
       "$id": 4,
       "label": "tlk000017_msg0004",
       "style": 62,
-      "name": "まだ準備ができていない"
+      "name": "We are not ready yet"
     }
   ]
 }
