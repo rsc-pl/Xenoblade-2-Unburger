@@ -18,25 +18,25 @@
       "$id": 1,
       "label": "qst102308_msg001",
       "style": 62,
-      "name": "試験タスク受注前"
+      "name": "Before accepting trial task"
     },
     {
       "$id": 2,
       "label": "qst102308_msg002",
       "style": 62,
-      "name": "試験中(タスク未達成)"
+      "name": "During trial (task not complete)"
     },
     {
       "$id": 3,
       "label": "qst102308_msg003",
       "style": 62,
-      "name": "試験クリア報告(タスク達成)"
+      "name": "Reporting trial completion\n(task complete)"
     },
     {
       "$id": 4,
       "label": "qst102308_msg004",
       "style": 62,
-      "name": "試験タスク完了後"
+      "name": "After trial task completion"
     }
   ]
 }

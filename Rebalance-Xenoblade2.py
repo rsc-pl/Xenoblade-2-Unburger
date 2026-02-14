@@ -10,25 +10,37 @@ import re
 CONFIG = {
     "root_directory": "UnpackedBDAT",
     # Xenoblade 2 typically stores the main text in the "name" field in JSON exports
-    "target_key": "name", 
+    "target_key": "name",
     "log_file": "text_balancing_log.txt",
     "error_file": "text_overflow_errors.txt",
+
+    # MAPPING STYLE IDs TO PROFILES
+    # 82 = Cinematic (Event rules)
+    # 84 = Standard Bubble (NPC rules)
+    # 62 = Standard Bubble (NPC rules)
+    # 165 = Player Choice/Bubble (NPC rules)
+    "style_overrides": {
+        82: "event",
+        84: "npc",
+        62: "npc",
+        165: "npc"
+    },
 
     # DEFINING RULES BASED ON GUI REFERENCE
     "profiles": {
         "event": {
-            "name": "Event (bf)",
+            "name": "Event (Cinematic)",
             # Files/Folders starting with these
-            "prefixes": ["bf"], 
+            "prefixes": ["bf"],
             "max_lines": 2,
             # GUI Limit: 54 chars
             "absolute_max_width": 55,
             # Auto-calculation for splitting points roughly based on width
             "split_threshold_for_2": 40,
-            "split_threshold_for_3": 108000
+            "split_threshold_for_3": 108000 # Effectively infinite, prevents 3 lines
         },
         "npc": {
-            "name": "NPC/Quest (Standard)",
+            "name": "NPC/Quest (Bubble)",
             # Files/Folders starting with these (from GUI check_line_length)
             "prefixes": ["campfev", "fev", "kizuna", "qst", "tlk"],
             "max_lines": 3,
@@ -47,23 +59,23 @@ CONFIG = {
 
 def get_profile_for_path(file_path):
     """
-    Determines profile based on filename or parent folder, 
-    mimicking the GUI's filename.startswith logic.
+    Determines default profile based on filename or parent folder.
+    This is used as a fallback if no specific 'style' ID is found in the row.
     """
     norm_path = file_path.replace("\\", "/")
     filename = os.path.basename(norm_path).lower()
     parent_dir = os.path.basename(os.path.dirname(norm_path)).lower()
 
-    # Check Event Profile
+    # Check Event Profile Prefixes
     for prefix in CONFIG["profiles"]["event"]["prefixes"]:
         if filename.startswith(prefix) or parent_dir.startswith(prefix):
             return CONFIG["profiles"]["event"]
 
-    # Check NPC Profile
+    # Check NPC Profile Prefixes
     for prefix in CONFIG["profiles"]["npc"]["prefixes"]:
         if filename.startswith(prefix) or parent_dir.startswith(prefix):
             return CONFIG["profiles"]["npc"]
-            
+
     return None
 
 def clean_and_flatten(text):
@@ -77,7 +89,6 @@ def clean_and_flatten(text):
 def get_visual_length(text):
     """
     Calculates character count ignoring control tags (Square Brackets).
-    Adapted from GUI: re.sub(r'\[.*?\]', '', line)
     """
     # Remove anything inside square brackets [ML:...] [System:...] etc.
     clean_text = re.sub(r'\[.*?\]', '', text)
@@ -93,7 +104,7 @@ def tokenize_keeping_tags_intact(text):
 
     # Protect content inside any [...] tags
     protected_text = re.sub(r'\[.*?\]', protect_match, text)
-    
+
     raw_words = protected_text.split(' ')
     words = [w.replace('<<SPACE>>', ' ') for w in raw_words if w]
     return words
@@ -140,7 +151,7 @@ def process_text(text_content, profile):
 
     clean_text = clean_and_flatten(text_content)
     words = tokenize_keeping_tags_intact(clean_text)
-    
+
     # Calculate total visual length to decide how many lines needed
     total_len = sum(get_visual_length(w) for w in words) + (len(words) - 1)
 
@@ -168,13 +179,11 @@ def check_for_overflow(text_block, max_width):
 # ==========================================
 
 def process_single_file(file_path, log, err_log, stats, forced_profile=None):
-    # Determine which profile to use
-    if forced_profile:
-        profile = forced_profile
-    else:
-        profile = get_profile_for_path(file_path)
+    # Determine the file-level default profile
+    file_default_profile = get_profile_for_path(file_path)
 
-    if not profile:
+    # If we aren't forcing a CLI profile and can't find a file match, return
+    if not forced_profile and not file_default_profile:
         return
 
     try:
@@ -196,11 +205,41 @@ def process_single_file(file_path, log, err_log, stats, forced_profile=None):
                     if not original_text or original_text == "":
                         continue
 
-                    new_text = process_text(original_text, profile)
+                    # ---------------------------------------------------------
+                    # PROFILE SELECTION LOGIC (ROW LEVEL)
+                    # ---------------------------------------------------------
+                    active_profile = None
 
-                    is_overflow, max_len = check_for_overflow(new_text, profile["absolute_max_width"])
+                    # 1. If CLI forced a mode (-mode 1/2), it overrides everything
+                    if forced_profile:
+                        active_profile = forced_profile
+                    else:
+                        # 2. Check for specific "style" ID in the row
+                        # 84, 62, 165 -> NPC | 82 -> Event
+                        row_style = row.get("style")
+
+                        # Ensure row_style is an int if possible
+                        if row_style is not None and isinstance(row_style, int):
+                            if row_style in CONFIG["style_overrides"]:
+                                profile_key = CONFIG["style_overrides"][row_style]
+                                active_profile = CONFIG["profiles"][profile_key]
+
+                        # 3. Fallback to File-level default
+                        if active_profile is None:
+                            active_profile = file_default_profile
+
+                    # If we still have no profile (e.g. unknown file prefix and no style ID), skip
+                    if active_profile is None:
+                        continue
+
+                    # ---------------------------------------------------------
+                    # PROCESSING
+                    # ---------------------------------------------------------
+                    new_text = process_text(original_text, active_profile)
+
+                    is_overflow, max_len = check_for_overflow(new_text, active_profile["absolute_max_width"])
                     if is_overflow:
-                        log_error(err_log, file_path, row.get("$id", "?"), new_text, max_len, profile["absolute_max_width"])
+                        log_error(err_log, file_path, row.get("$id", "?"), new_text, max_len, active_profile["absolute_max_width"])
                         stats['errors'] += 1
 
                     if original_text != new_text:
@@ -245,12 +284,17 @@ def main():
 Adapts text to Xenoblade 2 line limits.
 Targets JSON field: 'name' (or '<DBAF43F0>' if 'name' is missing).
 
-PROFILES (Based on Directory/Filename):
-1. Event Mode (bf*): 
-   - Max 54 chars/line.
-   
-2. NPC/Quest Mode (qst, tlk, fev, etc): 
-   - Max 39 chars/line.
+LOGIC PRIORITY:
+1. CLI Forced Mode (-mode)
+2. Row "style" ID (82=Cinematic, 84/62/165=Bubble)
+3. Filename/Folder prefix (bf=Cinematic, qst/tlk=Bubble)
+
+PROFILES:
+1. Event Mode (bf / Style 82):
+   - Max 55 chars/line, Max 2 lines.
+
+2. NPC/Quest Mode (qst, tlk / Style 84, 62, 165):
+   - Max 39 chars/line, Max 3 lines.
 """,
         formatter_class=argparse.RawTextHelpFormatter
     )
@@ -265,8 +309,8 @@ PROFILES (Based on Directory/Filename):
         "-mode",
         type=int,
         choices=[1, 2],
-        help="""Force a specific logic mode:
-  1 = Event Mode (Max 54 chars)
+        help="""Force a specific logic mode (Overrides Style IDs):
+  1 = Event Mode (Max 55 chars)
   2 = NPC/Quest Mode (Max 39 chars)"""
     )
 
@@ -278,13 +322,12 @@ PROFILES (Based on Directory/Filename):
     forced_profile = None
     if args.mode == 1:
         forced_profile = CONFIG["profiles"]["event"]
-        print(f"FORCED MODE: Using {forced_profile['name']} logic.")
+        print(f"FORCED MODE: Using {forced_profile['name']} logic (Ignoring Style IDs).")
     elif args.mode == 2:
         forced_profile = CONFIG["profiles"]["npc"]
-        print(f"FORCED MODE: Using {forced_profile['name']} logic.")
+        print(f"FORCED MODE: Using {forced_profile['name']} logic (Ignoring Style IDs).")
 
     print("\nStarting XB2 Text Balancer...")
-    all_prefixes = CONFIG["profiles"]["event"]["prefixes"] + CONFIG["profiles"]["npc"]["prefixes"]
 
     with open(CONFIG["log_file"], "w", encoding="utf-8") as log, \
          open(CONFIG["error_file"], "w", encoding="utf-8") as err_log:
@@ -294,11 +337,8 @@ PROFILES (Based on Directory/Filename):
             print(f"Targeting Single File: {args.single}")
             if os.path.exists(args.single):
                 # Use forced profile if provided, otherwise detect
-                if forced_profile or get_profile_for_path(args.single):
-                    process_single_file(args.single, log, err_log, stats, forced_profile)
-                else:
-                    print(f"Warning: {args.single} does not match known XB2 prefixes (bf, qst, etc).")
-                    print("Usage recommendation: Use -mode 1 or -mode 2 to force processing.")
+                # Note: process_single_file now handles the style fallback logic internally
+                process_single_file(args.single, log, err_log, stats, forced_profile)
             else:
                 print(f"Error: File not found -> {args.single}")
 
@@ -306,13 +346,6 @@ PROFILES (Based on Directory/Filename):
         else:
             print(f"Scanning Directory: {CONFIG['root_directory']}")
             for root, dirs, files in os.walk(CONFIG["root_directory"]):
-                # XB2 usually has flat folders (bd/..., qst/...)
-                # We check the folder name or the files inside
-                dir_name = os.path.basename(root).lower()
-                
-                # Optimization: Skip folder if it doesn't match any prefix, 
-                # unless files inside match.
-                
                 for file in files:
                     if file.endswith(".json"):
                         process_single_file(os.path.join(root, file), log, err_log, stats, forced_profile)
