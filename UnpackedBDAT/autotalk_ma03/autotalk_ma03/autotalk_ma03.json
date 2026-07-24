@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 62,
+      "name": "Hey, Rex! You're taking over Monell's\nwatch, yeah? He's on the lookout\nplatform on deck."
+    },
+    {
+      "$id": 2,
+      "style": 62,
+      "name": "Booze!\nBring on the booze!"
+    },
+    {
+      "$id": 3,
+      "style": 62,
+      "name": "Big job tomorrow!\nTime to make merry!"
+    },
+    {
+      "$id": 4,
+      "style": 62,
+      "name": "Yeah!"
+    },
+    {
+      "$id": 5,
+      "style": 62,
+      "name": "Be careful."
+    },
+    {
+      "$id": 6,
+      "style": 62,
+      "name": "Rex, you better get to the meeting point."
+    },
+    {
+      "$id": 7,
+      "style": 62,
+      "name": "Right, let's get moving."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 20,
+      "name": "Max HP Mod."
+    },
+    {
+      "$id": 2,
+      "style": 20,
+      "name": "Strength Mod."
+    },
+    {
+      "$id": 3,
+      "style": 20,
+      "name": "Ether Mod."
+    },
+    {
+      "$id": 4,
+      "style": 20,
+      "name": "Dexterity Mod."
+    },
+    {
+      "$id": 5,
+      "style": 20,
+      "name": "Agility Mod."
+    },
+    {
+      "$id": 6,
+      "style": 20,
+      "name": "Luck Mod."
+    }
+  ]
+}

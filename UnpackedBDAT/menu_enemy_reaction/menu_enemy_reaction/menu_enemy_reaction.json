@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 149,
+      "name": "Knockback"
+    },
+    {
+      "$id": 2,
+      "style": 149,
+      "name": "Blowdown"
+    },
+    {
+      "$id": 3,
+      "style": 149,
+      "name": "Break"
+    },
+    {
+      "$id": 4,
+      "style": 149,
+      "name": "Topple"
+    },
+    {
+      "$id": 5,
+      "style": 149,
+      "name": "Launch"
+    },
+    {
+      "$id": 6,
+      "style": 149,
+      "name": "Smash"
+    },
+    {
+      "$id": 7,
+      "style": 149,
+      "name": "None"
+    }
+  ]
+}

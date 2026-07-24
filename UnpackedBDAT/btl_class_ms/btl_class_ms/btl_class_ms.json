@@ -1,0 +1,109 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Fighter"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Defender"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Healer"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Elite Fighter"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Warrior"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Cavalier"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Elite Defender"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Knight"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Elite Healer"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Master Fighter"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Wild Warrior"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Wild Cavalier"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Master Defender"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Royal Warrior"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Royal Knight"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Master Healer"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Holy Cavalier"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Holy Knight"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Jack-of-all-Trades"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 25,
+      "name": "Toggle inversion of up/down for\ncamera controls."
+    },
+    {
+      "$id": 2,
+      "style": 25,
+      "name": "Toggle inversion of left/right for\ncamera controls."
+    },
+    {
+      "$id": 3,
+      "style": 25,
+      "name": "Adjust the response times for the\nautomatically controlled camera."
+    },
+    {
+      "$id": 4,
+      "style": 25,
+      "name": "Adjust the length of time it takes to\nreset the camera's position."
+    },
+    {
+      "$id": 5,
+      "style": 25,
+      "name": "Adjust the tracking speed of the\nauto camera."
+    },
+    {
+      "$id": 6,
+      "style": 25,
+      "name": "Adjust the turning speed of the\nmanual camera."
+    },
+    {
+      "$id": 7,
+      "style": 25,
+      "name": "Adjust the speed of the camera's zoom."
+    },
+    {
+      "$id": 8,
+      "style": 25,
+      "name": "Toggle subtitles on or off."
+    },
+    {
+      "$id": 9,
+      "style": 25,
+      "name": "Adjust voice volume during cutscenes."
+    },
+    {
+      "$id": 10,
+      "style": 25,
+      "name": "Adjust script event volume."
+    },
+    {
+      "$id": 11,
+      "style": 25,
+      "name": "Adjust background music volume\nduring the game."
+    },
+    {
+      "$id": 12,
+      "style": 25,
+      "name": "Adjust volume of sound effects\nheard during the game."
+    },
+    {
+      "$id": 13,
+      "style": 25,
+      "name": "Adjust volume of voices heard during\nthe game."
+    },
+    {
+      "$id": 14,
+      "style": 25,
+      "name": "Adjust volume of narration heard\nduring battle."
+    },
+    {
+      "$id": 15,
+      "style": 25,
+      "name": "Adjust volume of environmental sounds\n(such as rain) heard during the game."
+    },
+    {
+      "$id": 16,
+      "style": 25,
+      "name": "Adjust volume of system sounds\nheard during the game."
+    },
+    {
+      "$id": 17,
+      "style": 25,
+      "name": "Adjust screen brightness."
+    },
+    {
+      "$id": 18,
+      "style": 25,
+      "name": "Adjust the automatic behavior of the\ncamera when traversing gradients."
+    },
+    {
+      "$id": 19,
+      "style": 25,
+      "name": "Change in-game voice settings."
+    },
+    {
+      "$id": 20,
+      "style": 25,
+      "name": "You can adjust the game's difficulty\nlevel here."
+    },
+    {
+      "$id": 21,
+      "style": 25,
+      "name": "Toggle auto-battle functionality."
+    },
+    {
+      "$id": 22,
+      "style": 25,
+      "name": "Toggle automatic success for button\nchallenge inputs during Specials."
+    },
+    {
+      "$id": 23,
+      "style": 25,
+      "name": "Toggle whether foes pick a fight (exc.\nsalvage, unique, boss, and quest foes)."
+    },
+    {
+      "$id": 24,
+      "style": 25,
+      "name": "Adjust attack power, with the power\nincreasing to the right."
+    },
+    {
+      "$id": 25,
+      "style": 25,
+      "name": "Adjust attack frequency, with the\nfrequency increasing to the right."
+    },
+    {
+      "$id": 26,
+      "style": 25,
+      "name": "Adjust maximum HP, with the value\nincreasing to the right."
+    },
+    {
+      "$id": 27,
+      "style": 25,
+      "name": "Adjust debuff effect duration, with the\nlength increasing to the right."
+    },
+    {
+      "$id": 28,
+      "style": 25,
+      "name": "Adjust Blade Combo buffer time, with\nthe buffer increasing to the right."
+    },
+    {
+      "$id": 29,
+      "style": 25,
+      "name": "Adjust magnitude of Party Gauge gains,\nwith the amount increasing to the right."
+    },
+    {
+      "$id": 30,
+      "style": 25,
+      "name": "Adjust Special gauge gains, with the\namount increasing to the right."
+    },
+    {
+      "$id": 31,
+      "style": 25,
+      "name": "Adjust party members' healing power,\nwith the effect increasing to the right."
+    },
+    {
+      "$id": 32,
+      "style": 25,
+      "name": "Adjust damage multiplier gains, with\nthe amount increasing to the right."
+    },
+    {
+      "$id": 33,
+      "style": 25,
+      "name": "Adjust Party Gauge depletion, with the\nrate of loss increasing to the right."
+    },
+    {
+      "$id": 34,
+      "style": 25,
+      "name": "When enabled, the game will save\nautomatically at certain points."
+    },
+    {
+      "$id": 35,
+      "style": 25,
+      "name": "Toggle enemy aggression. Excludes\nunique, boss, and quest enemies."
+    },
+    {
+      "$id": 36,
+      "style": 25,
+      "name": "When enabled, skips Community\nregistration animations."
+    },
+    {
+      "$id": 37,
+      "style": 25,
+      "name": "When enabled, special battle music will\nplay with certain Blades in the party."
+    }
+  ]
+}

@@ -1,0 +1,2274 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 2,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 3,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 4,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 5,
+      "style": 16,
+      "name": "Topple / HP Potion"
+    },
+    {
+      "$id": 6,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 7,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 8,
+      "style": 16,
+      "name": "AOE / Knockback"
+    },
+    {
+      "$id": 9,
+      "style": 16,
+      "name": "Pierce"
+    },
+    {
+      "$id": 10,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 11,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 12,
+      "style": 16,
+      "name": "Beasts↑"
+    },
+    {
+      "$id": 13,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 14,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 15,
+      "style": 16,
+      "name": "AOE / Low HP↑"
+    },
+    {
+      "$id": 16,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 17,
+      "style": 16,
+      "name": "AOE / Evasion"
+    },
+    {
+      "$id": 18,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 19,
+      "style": 16,
+      "name": "AOE / Blowdown"
+    },
+    {
+      "$id": 20,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 21,
+      "style": 16,
+      "name": "AOE / Machines↑"
+    },
+    {
+      "$id": 22,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 23,
+      "style": 16,
+      "name": "HP down / Evasion"
+    },
+    {
+      "$id": 24,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 25,
+      "style": 16,
+      "name": "AOE / Flying↑"
+    },
+    {
+      "$id": 26,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 27,
+      "style": 16,
+      "name": "AOE / Aquatic↑"
+    },
+    {
+      "$id": 28,
+      "style": 16,
+      "name": "Critical recharge"
+    },
+    {
+      "$id": 29,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 30,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 31,
+      "style": 16,
+      "name": "Break / Side attack↑"
+    },
+    {
+      "$id": 32,
+      "style": 16,
+      "name": "Aggro down"
+    },
+    {
+      "$id": 33,
+      "style": 16,
+      "name": "AOE / Insects↑"
+    },
+    {
+      "$id": 34,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 35,
+      "style": 16,
+      "name": "Pierce"
+    },
+    {
+      "$id": 36,
+      "style": 16,
+      "name": "AOE / Blowdown"
+    },
+    {
+      "$id": 37,
+      "style": 16,
+      "name": "AOE / Cancel attack↑"
+    },
+    {
+      "$id": 38,
+      "style": 16,
+      "name": "Defense"
+    },
+    {
+      "$id": 39,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 40,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 41,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 42,
+      "style": 16,
+      "name": "Break"
+    },
+    {
+      "$id": 43,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 44,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 45,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 46,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 47,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 48,
+      "style": 16,
+      "name": "Heal party on attack"
+    },
+    {
+      "$id": 49,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 50,
+      "style": 16,
+      "name": "Blowdown / Cancel atk↑"
+    },
+    {
+      "$id": 51,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 52,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 53,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 54,
+      "style": 16,
+      "name": "Break"
+    },
+    {
+      "$id": 55,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 56,
+      "style": 16,
+      "name": "AOE / Side atk↑"
+    },
+    {
+      "$id": 57,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 58,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 59,
+      "style": 16,
+      "name": "Critical recharge"
+    },
+    {
+      "$id": 60,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 61,
+      "style": 16,
+      "name": "AOE / Aquatic↑"
+    },
+    {
+      "$id": 62,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 63,
+      "style": 16,
+      "name": "AOE / Insects↑"
+    },
+    {
+      "$id": 64,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 65,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 66,
+      "style": 16,
+      "name": "Cancel atk↑"
+    },
+    {
+      "$id": 67,
+      "style": 16,
+      "name": "Break / Pierce"
+    },
+    {
+      "$id": 68,
+      "style": 16,
+      "name": "AOE / Launched↑"
+    },
+    {
+      "$id": 69,
+      "style": 16,
+      "name": "AOE / High HP↑"
+    },
+    {
+      "$id": 70,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 71,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 72,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 73,
+      "style": 16,
+      "name": "Knockback"
+    },
+    {
+      "$id": 74,
+      "style": 16,
+      "name": "Humanoids↑"
+    },
+    {
+      "$id": 75,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 76,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 77,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 78,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 79,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 80,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 81,
+      "style": 16,
+      "name": "AOE / Break"
+    },
+    {
+      "$id": 82,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 83,
+      "style": 16,
+      "name": "Knockback / Side atk↑"
+    },
+    {
+      "$id": 84,
+      "style": 16,
+      "name": "AOE / Launch"
+    },
+    {
+      "$id": 85,
+      "style": 16,
+      "name": "AOE / HP Potion"
+    },
+    {
+      "$id": 86,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 87,
+      "style": 16,
+      "name": "Topple / Low HP↑"
+    },
+    {
+      "$id": 88,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 89,
+      "style": 16,
+      "name": "Defense"
+    },
+    {
+      "$id": 90,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 91,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 92,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 93,
+      "style": 16,
+      "name": "AOE / Knockback"
+    },
+    {
+      "$id": 94,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 95,
+      "style": 16,
+      "name": "Break"
+    },
+    {
+      "$id": 96,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 97,
+      "style": 16,
+      "name": "AOE / Heal on attack"
+    },
+    {
+      "$id": 98,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 99,
+      "style": 16,
+      "name": "HP down / Evasion"
+    },
+    {
+      "$id": 100,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 101,
+      "style": 16,
+      "name": "AOE / Flying↑"
+    },
+    {
+      "$id": 102,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 103,
+      "style": 16,
+      "name": "Beasts↑"
+    },
+    {
+      "$id": 104,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 105,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 106,
+      "style": 16,
+      "name": "Break"
+    },
+    {
+      "$id": 107,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 108,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 109,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 110,
+      "style": 16,
+      "name": "Aquatic↑"
+    },
+    {
+      "$id": 111,
+      "style": 16,
+      "name": "Critical recharge"
+    },
+    {
+      "$id": 112,
+      "style": 16,
+      "name": "Blowdown"
+    },
+    {
+      "$id": 113,
+      "style": 16,
+      "name": "AOE / Launched↑"
+    },
+    {
+      "$id": 114,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 115,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 116,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 117,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 118,
+      "style": 16,
+      "name": "Break / Pierce"
+    },
+    {
+      "$id": 119,
+      "style": 16,
+      "name": "AOE / High HP↑"
+    },
+    {
+      "$id": 120,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 121,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 122,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 123,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 124,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 125,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 126,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 127,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 128,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 129,
+      "style": 16,
+      "name": "Aggro up"
+    },
+    {
+      "$id": 130,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 131,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 132,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 133,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 134,
+      "style": 16,
+      "name": "Break / Cancel attack↑"
+    },
+    {
+      "$id": 135,
+      "style": 16,
+      "name": "Blowdown"
+    },
+    {
+      "$id": 136,
+      "style": 16,
+      "name": "AOE / HP Potion"
+    },
+    {
+      "$id": 137,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 138,
+      "style": 16,
+      "name": "Beasts↑"
+    },
+    {
+      "$id": 139,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 140,
+      "style": 16,
+      "name": "AOE / Flying↑"
+    },
+    {
+      "$id": 141,
+      "style": 16,
+      "name": "AOE / Back attack↑"
+    },
+    {
+      "$id": 142,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 143,
+      "style": 16,
+      "name": "Knockback / Front atk↑"
+    },
+    {
+      "$id": 144,
+      "style": 16,
+      "name": "AOE / Machines↑"
+    },
+    {
+      "$id": 145,
+      "style": 16,
+      "name": "AOE / Toppled↑/ Blowdown"
+    },
+    {
+      "$id": 146,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 147,
+      "style": 16,
+      "name": "AOE / Knockback"
+    },
+    {
+      "$id": 148,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 149,
+      "style": 16,
+      "name": "AOE / Critical recharge"
+    },
+    {
+      "$id": 150,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 151,
+      "style": 16,
+      "name": "AOE / Back attack↑"
+    },
+    {
+      "$id": 152,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 153,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 154,
+      "style": 16,
+      "name": "Break / Pierce"
+    },
+    {
+      "$id": 155,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 156,
+      "style": 16,
+      "name": "AOE / Knockback"
+    },
+    {
+      "$id": 157,
+      "style": 16,
+      "name": "AOE / Launched↑"
+    },
+    {
+      "$id": 158,
+      "style": 16,
+      "name": "Defense"
+    },
+    {
+      "$id": 159,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 160,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 161,
+      "style": 16,
+      "name": "Blowdown / Low HP↑"
+    },
+    {
+      "$id": 162,
+      "style": 16,
+      "name": "AOE / Evasion"
+    },
+    {
+      "$id": 163,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 164,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 165,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 166,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 167,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 168,
+      "style": 16,
+      "name": "Heal party on attack"
+    },
+    {
+      "$id": 169,
+      "style": 16,
+      "name": "AOE / HP Potion"
+    },
+    {
+      "$id": 170,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 171,
+      "style": 16,
+      "name": "Blowdown / Back atk↑"
+    },
+    {
+      "$id": 172,
+      "style": 16,
+      "name": "AOE / HP Potion"
+    },
+    {
+      "$id": 173,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 174,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 175,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 176,
+      "style": 16,
+      "name": "AOE / Break"
+    },
+    {
+      "$id": 177,
+      "style": 16,
+      "name": "AOE / Pierce"
+    },
+    {
+      "$id": 178,
+      "style": 16,
+      "name": "Evasion / Counter"
+    },
+    {
+      "$id": 179,
+      "style": 16,
+      "name": "Topple / Launch / Smash"
+    },
+    {
+      "$id": 180,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 181,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 182,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 183,
+      "style": 16,
+      "name": "AOE / Knockback"
+    },
+    {
+      "$id": 184,
+      "style": 16,
+      "name": "Heal party on attack"
+    },
+    {
+      "$id": 185,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 186,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 187,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 188,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 189,
+      "style": 16,
+      "name": "Break / Side attack↑"
+    },
+    {
+      "$id": 190,
+      "style": 16,
+      "name": "HP down / Evasion"
+    },
+    {
+      "$id": 191,
+      "style": 16,
+      "name": "AOE / Insects↑"
+    },
+    {
+      "$id": 192,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 193,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 194,
+      "style": 16,
+      "name": "Beasts↑"
+    },
+    {
+      "$id": 195,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 196,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 197,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 198,
+      "style": 16,
+      "name": "Critical recharge"
+    },
+    {
+      "$id": 199,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 200,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 201,
+      "style": 16,
+      "name": "Launched↑ / Pierce"
+    },
+    {
+      "$id": 202,
+      "style": 16,
+      "name": "AOE / Blowdown"
+    },
+    {
+      "$id": 203,
+      "style": 16,
+      "name": "AOE / Front attack↑"
+    },
+    {
+      "$id": 204,
+      "style": 16,
+      "name": "Blowdown / Front attack↑"
+    },
+    {
+      "$id": 205,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 206,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 207,
+      "style": 16,
+      "name": "Knockback"
+    },
+    {
+      "$id": 208,
+      "style": 16,
+      "name": "Blowdown / Low HP↑"
+    },
+    {
+      "$id": 209,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 210,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 211,
+      "style": 16,
+      "name": "Knockback"
+    },
+    {
+      "$id": 212,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 213,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 214,
+      "style": 16,
+      "name": "Heal party on attack"
+    },
+    {
+      "$id": 215,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 216,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 217,
+      "style": 16,
+      "name": "AOE / Insects↑"
+    },
+    {
+      "$id": 218,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 219,
+      "style": 16,
+      "name": "AOE / HP down / Evasion"
+    },
+    {
+      "$id": 220,
+      "style": 16,
+      "name": "Break"
+    },
+    {
+      "$id": 221,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 222,
+      "style": 16,
+      "name": "AOE / Front attack↑"
+    },
+    {
+      "$id": 223,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 224,
+      "style": 16,
+      "name": "Break / Critical recharge"
+    },
+    {
+      "$id": 225,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 226,
+      "style": 16,
+      "name": "AOE / Side attack↑"
+    },
+    {
+      "$id": 227,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 228,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 229,
+      "style": 16,
+      "name": "Break / Pierce"
+    },
+    {
+      "$id": 230,
+      "style": 16,
+      "name": "AOE / Launched↑"
+    },
+    {
+      "$id": 231,
+      "style": 16,
+      "name": "AOE / High HP↑"
+    },
+    {
+      "$id": 232,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 233,
+      "style": 16,
+      "name": "Knockback / Aggro up"
+    },
+    {
+      "$id": 234,
+      "style": 16,
+      "name": "AOE / Launch"
+    },
+    {
+      "$id": 235,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 236,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 237,
+      "style": 16,
+      "name": "Knockback / Aggro up"
+    },
+    {
+      "$id": 238,
+      "style": 16,
+      "name": "AOE / Launch"
+    },
+    {
+      "$id": 239,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 240,
+      "style": 16,
+      "name": "Heal party on attack"
+    },
+    {
+      "$id": 241,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 242,
+      "style": 16,
+      "name": "Blowdown"
+    },
+    {
+      "$id": 243,
+      "style": 16,
+      "name": "Aggro down / AOE"
+    },
+    {
+      "$id": 244,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 245,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 246,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 247,
+      "style": 16,
+      "name": "AOE / HP down / Evasion"
+    },
+    {
+      "$id": 248,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 249,
+      "style": 16,
+      "name": "Beasts↑"
+    },
+    {
+      "$id": 250,
+      "style": 16,
+      "name": "AOE / Front attack↑"
+    },
+    {
+      "$id": 251,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 252,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 253,
+      "style": 16,
+      "name": "Critical recharge"
+    },
+    {
+      "$id": 254,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 255,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 256,
+      "style": 16,
+      "name": "Break / Pierce"
+    },
+    {
+      "$id": 257,
+      "style": 16,
+      "name": "AOE / High HP↑"
+    },
+    {
+      "$id": 258,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 259,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 260,
+      "style": 16,
+      "name": "Break / Front attack↑"
+    },
+    {
+      "$id": 261,
+      "style": 16,
+      "name": "Blowdown"
+    },
+    {
+      "$id": 262,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 263,
+      "style": 16,
+      "name": "Aggro up"
+    },
+    {
+      "$id": 264,
+      "style": 16,
+      "name": "Break / Low HP↑"
+    },
+    {
+      "$id": 265,
+      "style": 16,
+      "name": "Blowdown"
+    },
+    {
+      "$id": 266,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 267,
+      "style": 16,
+      "name": "Aggro up"
+    },
+    {
+      "$id": 268,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 269,
+      "style": 16,
+      "name": "Aggro down / AOE"
+    },
+    {
+      "$id": 270,
+      "style": 16,
+      "name": "AOE / Heal party on attack"
+    },
+    {
+      "$id": 271,
+      "style": 16,
+      "name": "AOE / HP Potion"
+    },
+    {
+      "$id": 272,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 273,
+      "style": 16,
+      "name": "AOE / Back attack↑"
+    },
+    {
+      "$id": 274,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 275,
+      "style": 16,
+      "name": "AOE / HP down / Evasion"
+    },
+    {
+      "$id": 276,
+      "style": 16,
+      "name": "Beasts↑"
+    },
+    {
+      "$id": 277,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 278,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 279,
+      "style": 16,
+      "name": "AOE / Front attack↑"
+    },
+    {
+      "$id": 280,
+      "style": 16,
+      "name": "Critical recharge"
+    },
+    {
+      "$id": 281,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 282,
+      "style": 16,
+      "name": "AOE / Flying↑"
+    },
+    {
+      "$id": 283,
+      "style": 16,
+      "name": "AOE / Back attack↑"
+    },
+    {
+      "$id": 284,
+      "style": 16,
+      "name": "Break / Pierce"
+    },
+    {
+      "$id": 285,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 286,
+      "style": 16,
+      "name": "AOE / Knockback"
+    },
+    {
+      "$id": 287,
+      "style": 16,
+      "name": "AOE / Launched↑"
+    },
+    {
+      "$id": 288,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 289,
+      "style": 16,
+      "name": "Blowdown / Front attack↑"
+    },
+    {
+      "$id": 290,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 291,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 292,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 293,
+      "style": 16,
+      "name": "Blowdown / Low HP↑"
+    },
+    {
+      "$id": 294,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    },
+    {
+      "$id": 295,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 296,
+      "style": 16,
+      "name": "Defense"
+    },
+    {
+      "$id": 297,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 298,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 299,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 300,
+      "style": 16,
+      "name": "Machines↑"
+    },
+    {
+      "$id": 301,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 302,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 303,
+      "style": 16,
+      "name": "Back attack↑/ Knockback"
+    },
+    {
+      "$id": 304,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 305,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 306,
+      "style": 16,
+      "name": "Toppled↑"
+    },
+    {
+      "$id": 307,
+      "style": 16,
+      "name": "Machines↑"
+    },
+    {
+      "$id": 308,
+      "style": 16,
+      "name": "Defense"
+    },
+    {
+      "$id": 309,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 310,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 311,
+      "style": 16,
+      "name": "Machines↑ / Knockback"
+    },
+    {
+      "$id": 312,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 313,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 314,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 315,
+      "style": 16,
+      "name": "AOE / Critical recharge"
+    },
+    {
+      "$id": 316,
+      "style": 16,
+      "name": "Break / High HP↑"
+    },
+    {
+      "$id": 317,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 318,
+      "style": 16,
+      "name": "AOE / Critical recharge"
+    },
+    {
+      "$id": 319,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 320,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 321,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 322,
+      "style": 16,
+      "name": "AOE / Critical recharge"
+    },
+    {
+      "$id": 323,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 324,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 325,
+      "style": 16,
+      "name": "HP Potion"
+    },
+    {
+      "$id": 326,
+      "style": 16,
+      "name": "AOE / Critical recharge"
+    },
+    {
+      "$id": 327,
+      "style": 16,
+      "name": "AOE / High HP↑"
+    },
+    {
+      "$id": 328,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 329,
+      "style": 16,
+      "name": "AOE / Aggro down"
+    },
+    {
+      "$id": 330,
+      "style": 16,
+      "name": "Break / HP Potion"
+    },
+    {
+      "$id": 331,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 332,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 333,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 334,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 335,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 336,
+      "style": 16,
+      "name": "AOE / Side attack↑"
+    },
+    {
+      "$id": 337,
+      "style": 16,
+      "name": "Pierce"
+    },
+    {
+      "$id": 338,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 339,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 340,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 341,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 342,
+      "style": 16,
+      "name": "Knockback"
+    },
+    {
+      "$id": 343,
+      "style": 16,
+      "name": "AOE / Heal on attack"
+    },
+    {
+      "$id": 344,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 345,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 346,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 347,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 348,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 349,
+      "style": 16,
+      "name": "Launch"
+    },
+    {
+      "$id": 350,
+      "style": 16,
+      "name": "AOE / Blowdown"
+    },
+    {
+      "$id": 351,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 352,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 353,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 354,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 355,
+      "style": 16,
+      "name": "AOE / Topple"
+    },
+    {
+      "$id": 356,
+      "style": 16,
+      "name": "AOE / Toppled↑"
+    },
+    {
+      "$id": 357,
+      "style": 16,
+      "name": "AOE / Critical boost"
+    },
+    {
+      "$id": 358,
+      "style": 16,
+      "name": "AOE"
+    },
+    {
+      "$id": 359,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 360,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 361,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 362,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 363,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 364,
+      "style": 16,
+      "name": "HP down / Evasion"
+    },
+    {
+      "$id": 365,
+      "style": 16,
+      "name": "High HP↑"
+    },
+    {
+      "$id": 366,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 367,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 368,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 369,
+      "style": 16,
+      "name": "Break / Evasion"
+    },
+    {
+      "$id": 370,
+      "style": 16,
+      "name": "Topple"
+    },
+    {
+      "$id": 371,
+      "style": 16,
+      "name": "Defense"
+    },
+    {
+      "$id": 372,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 373,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 374,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 375,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 376,
+      "style": 16,
+      "name": "Smash"
+    },
+    {
+      "$id": 377,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 378,
+      "style": 16,
+      "name": "Launched↑"
+    },
+    {
+      "$id": 379,
+      "style": 16,
+      "name": "Low HP↑"
+    },
+    {
+      "$id": 380,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 381,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 382,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 383,
+      "style": 16,
+      "name": "Break"
+    },
+    {
+      "$id": 384,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 385,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 386,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 387,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 388,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 389,
+      "style": 16,
+      "name": "不要"
+    },
+    {
+      "$id": 390,
+      "style": 16,
+      "name": "Launch / Evasion"
+    },
+    {
+      "$id": 391,
+      "style": 16,
+      "name": "Evasion / Counter / Launch"
+    },
+    {
+      "$id": 392,
+      "style": 16,
+      "name": "AOE / Pierce / Blowdown"
+    },
+    {
+      "$id": 393,
+      "style": 16,
+      "name": "Driver Combo"
+    },
+    {
+      "$id": 394,
+      "style": 16,
+      "name": "HP halved / Recover recharge"
+    },
+    {
+      "$id": 395,
+      "style": 16,
+      "name": "Consume recoverable HP / Boost stats"
+    },
+    {
+      "$id": 396,
+      "style": 16,
+      "name": "Consume recharge / Stop enemies"
+    },
+    {
+      "$id": 397,
+      "style": 16,
+      "name": "HP down / Extend Driver Combo"
+    },
+    {
+      "$id": 398,
+      "style": 16,
+      "name": "Evade next X attacks (party)"
+    },
+    {
+      "$id": 399,
+      "style": 16,
+      "name": "Arts damage x2 / Aggro gain x3"
+    },
+    {
+      "$id": 400,
+      "style": 16,
+      "name": "HP down / Lock enemy target"
+    },
+    {
+      "$id": 401,
+      "style": 16,
+      "name": "Sustained AOE"
+    },
+    {
+      "$id": 402,
+      "style": 16,
+      "name": "Auto-counter mode"
+    },
+    {
+      "$id": 403,
+      "style": 41,
+      "name": "No requirements."
+    },
+    {
+      "$id": 404,
+      "style": 41,
+      "name": "When character has recoverable HP."
+    },
+    {
+      "$id": 405,
+      "style": 41,
+      "name": "When all Arts are fully charged."
+    },
+    {
+      "$id": 406,
+      "style": 41,
+      "name": "When own HP is at 30% or higher."
+    },
+    {
+      "$id": 407,
+      "style": 41,
+      "name": "When becoming incapacitated in battle.\n(Can be used repeatedly.)"
+    },
+    {
+      "$id": 408,
+      "style": 41,
+      "name": "When Affinity is at maximum."
+    },
+    {
+      "$id": 409,
+      "style": 41,
+      "name": "When own HP is at 30% or higher."
+    },
+    {
+      "$id": 410,
+      "style": 41,
+      "name": "When own HP is at 30% or lower."
+    },
+    {
+      "$id": 411,
+      "style": 41,
+      "name": "When an ally is incapacitated."
+    },
+    {
+      "$id": 412,
+      "style": 41,
+      "name": "Reduce own HP by half\nto fully recharge all Arts."
+    },
+    {
+      "$id": 413,
+      "style": 41,
+      "name": "Consume own recoverable HP to boost\nattack, acc., evasion, speed for 30 sec."
+    },
+    {
+      "$id": 414,
+      "style": 41,
+      "name": "Reduce own Arts recharge to zero to\nstop enemies from acting for 5 sec."
+    },
+    {
+      "$id": 415,
+      "style": 41,
+      "name": "Reduce own HP by 25% of maximum\nto extend target Driver Combo time."
+    },
+    {
+      "$id": 416,
+      "style": 41,
+      "name": "Evade fixed number of subsequent\nenemy attacks. Affects whole party."
+    },
+    {
+      "$id": 417,
+      "style": 41,
+      "name": "Next Art used deals double damage.\nTriple aggro gained from the attack."
+    },
+    {
+      "$id": 418,
+      "style": 41,
+      "name": "Reduce own HP by 25% of maximum\nto draw all enemies' aggro for 15 sec."
+    },
+    {
+      "$id": 419,
+      "style": 41,
+      "name": "Summon a fire vortex below target.\nDamages enemies, boosts allies' attack."
+    },
+    {
+      "$id": 420,
+      "style": 41,
+      "name": "For 30 seconds, launch powerful\ncounterattacks each time you evade."
+    },
+    {
+      "$id": 421,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 422,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 423,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 424,
+      "style": 16,
+      "name": "AOE / Evasion"
+    },
+    {
+      "$id": 425,
+      "style": 16,
+      "name": "Break / Evasion"
+    },
+    {
+      "$id": 426,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 427,
+      "style": 16,
+      "name": "AOE / Back attack↑"
+    },
+    {
+      "$id": 428,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 429,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 430,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 431,
+      "style": 16,
+      "name": "AOE / Back attack↑"
+    },
+    {
+      "$id": 432,
+      "style": 16,
+      "name": "Heal party"
+    },
+    {
+      "$id": 433,
+      "style": 16,
+      "name": "Back attack↑"
+    },
+    {
+      "$id": 434,
+      "style": 16,
+      "name": "Cancel attack↑"
+    },
+    {
+      "$id": 435,
+      "style": 16,
+      "name": "Side attack↑"
+    },
+    {
+      "$id": 436,
+      "style": 16,
+      "name": "AOE / Evasion"
+    },
+    {
+      "$id": 437,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 438,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 439,
+      "style": 16,
+      "name": "Aggroed↑/ Smash"
+    },
+    {
+      "$id": 440,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 441,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 442,
+      "style": 16,
+      "name": "Evasion / Smash"
+    },
+    {
+      "$id": 443,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 444,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 445,
+      "style": 16,
+      "name": "Front attack↑/ Smash"
+    },
+    {
+      "$id": 446,
+      "style": 16,
+      "name": "Evasion"
+    },
+    {
+      "$id": 447,
+      "style": 16,
+      "name": "Aggroed↑"
+    },
+    {
+      "$id": 448,
+      "style": 16,
+      "name": "Aggro up"
+    },
+    {
+      "$id": 449,
+      "style": 16,
+      "name": "AOE / Evasion / Smash"
+    },
+    {
+      "$id": 450,
+      "style": 16,
+      "name": "Front attack↑"
+    },
+    {
+      "$id": 451,
+      "style": 16,
+      "name": "AOE / Aggro up"
+    },
+    {
+      "$id": 452,
+      "style": 16,
+      "name": "AOE / Aggroed↑"
+    }
+  ]
+}

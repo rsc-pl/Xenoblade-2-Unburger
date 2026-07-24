@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 16,
+      "name": "Increases critical hit rate."
+    },
+    {
+      "$id": 2,
+      "style": 16,
+      "name": "Increases accuracy."
+    },
+    {
+      "$id": 3,
+      "style": 16,
+      "name": "Boosts power of next Driver Art."
+    },
+    {
+      "$id": 4,
+      "style": 16,
+      "name": "Boosts Arts recharge from auto-attack."
+    },
+    {
+      "$id": 5,
+      "style": 16,
+      "name": "Erects a barrier that absorbs fixed dmg."
+    },
+    {
+      "$id": 6,
+      "style": 16,
+      "name": "Nullifies one reaction."
+    },
+    {
+      "$id": 7,
+      "style": 16,
+      "name": "Cancels debuffs from enemies."
+    },
+    {
+      "$id": 8,
+      "style": 16,
+      "name": "Increases backstab dmg; halves aggro."
+    },
+    {
+      "$id": 9,
+      "style": 16,
+      "name": "Draw aggro from enemies in battle."
+    }
+  ]
+}

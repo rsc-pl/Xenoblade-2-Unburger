@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 6,
+      "name": "Art Acquired"
+    },
+    {
+      "$id": 2,
+      "style": 6,
+      "name": "Pouch Effect Expiry"
+    },
+    {
+      "$id": 3,
+      "style": 6,
+      "name": "Idea Up"
+    },
+    {
+      "$id": 4,
+      "style": 6,
+      "name": "Affinity Reward Gained"
+    },
+    {
+      "$id": 5,
+      "style": 6,
+      "name": "Trust Up"
+    },
+    {
+      "$id": 6,
+      "style": 6,
+      "name": "Development Level Up"
+    },
+    {
+      "$id": 7,
+      "style": 6,
+      "name": "New Merc Mission"
+    },
+    {
+      "$id": 8,
+      "style": 6,
+      "name": "Merc Group Arrival"
+    },
+    {
+      "$id": 9,
+      "style": 6,
+      "name": "Quest Update"
+    },
+    {
+      "$id": 10,
+      "style": 6,
+      "name": "System Update"
+    },
+    {
+      "$id": 11,
+      "style": 6,
+      "name": "Pouch Item Refill"
+    },
+    {
+      "$id": 12,
+      "style": 6,
+      "name": "New Recipe Acquired"
+    },
+    {
+      "$id": 13,
+      "style": 6,
+      "name": "Vanguard Art Acquired"
+    },
+    {
+      "$id": 14,
+      "style": 6,
+      "name": "Rear Grd. Art Acquired"
+    }
+  ]
+}

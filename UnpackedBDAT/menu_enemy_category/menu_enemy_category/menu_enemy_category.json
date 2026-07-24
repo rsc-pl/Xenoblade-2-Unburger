@@ -1,0 +1,59 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Beast"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Insect"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Aerial"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Aquatic"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Humanoid"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Machine"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Divine Beast"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Blade"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Symbol"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 70,
+      "name": "High Jump"
+    },
+    {
+      "$id": 2,
+      "style": 70,
+      "name": "Wall Jump"
+    },
+    {
+      "$id": 3,
+      "style": 70,
+      "name": "Dive"
+    },
+    {
+      "$id": 4,
+      "style": 70,
+      "name": "Wall Break"
+    },
+    {
+      "$id": 5,
+      "style": 70,
+      "name": "Blaze Out"
+    },
+    {
+      "$id": 6,
+      "style": 70,
+      "name": "Hot Iron"
+    },
+    {
+      "$id": 7,
+      "style": 70,
+      "name": "Freeze Over"
+    },
+    {
+      "$id": 8,
+      "style": 70,
+      "name": "Power On"
+    },
+    {
+      "$id": 9,
+      "style": 70,
+      "name": "Illuminate"
+    },
+    {
+      "$id": 10,
+      "style": 70,
+      "name": "Dark Diffusion"
+    },
+    {
+      "$id": 11,
+      "style": 70,
+      "name": "Ice Break"
+    },
+    {
+      "$id": 12,
+      "style": 70,
+      "name": "Dig Up"
+    },
+    {
+      "$id": 13,
+      "style": 70,
+      "name": "Open Treasure"
+    },
+    {
+      "$id": 14,
+      "style": 70,
+      "name": "Barrel Break"
+    },
+    {
+      "$id": 15,
+      "style": 70,
+      "name": "Nopon Reading"
+    },
+    {
+      "$id": 16,
+      "style": 70,
+      "name": "Ancient Reading"
+    },
+    {
+      "$id": 17,
+      "style": 70,
+      "name": "Seal Break"
+    },
+    {
+      "$id": 18,
+      "style": 70,
+      "name": "Hunter Vision"
+    },
+    {
+      "$id": 19,
+      "style": 70,
+      "name": "Search Hints"
+    },
+    {
+      "$id": 20,
+      "style": 70,
+      "name": "Test"
+    },
+    {
+      "$id": 21,
+      "style": 70,
+      "name": "Human Analysis"
+    },
+    {
+      "$id": 22,
+      "style": 70,
+      "name": "Plant Hunt"
+    },
+    {
+      "$id": 23,
+      "style": 70,
+      "name": "Mineral Mining"
+    },
+    {
+      "$id": 24,
+      "style": 70,
+      "name": "\"Kingly\" Demeanor"
+    },
+    {
+      "$id": 25,
+      "style": 70,
+      "name": "Teleportation"
+    },
+    {
+      "$id": 26,
+      "style": 70,
+      "name": "Girls' Talk"
+    },
+    {
+      "$id": 27,
+      "style": 70,
+      "name": "Make Conversation"
+    },
+    {
+      "$id": 28,
+      "style": 70,
+      "name": "Research Divine Beast Weapon"
+    },
+    {
+      "$id": 29,
+      "style": 70,
+      "name": "Repair Divine Beast Weapon"
+    },
+    {
+      "$id": 30,
+      "style": 70,
+      "name": "Key Break"
+    },
+    {
+      "$id": 31,
+      "style": 70,
+      "name": "Ibuki's Power of Recall"
+    },
+    {
+      "$id": 32,
+      "style": 70,
+      "name": "Homura's Cooking"
+    },
+    {
+      "$id": 33,
+      "style": 70,
+      "name": "Musubi's Omusubi"
+    },
+    {
+      "$id": 34,
+      "style": 70,
+      "name": "Mei's Weaving"
+    },
+    {
+      "$id": 35,
+      "style": 70,
+      "name": "Hotaru's Charm"
+    },
+    {
+      "$id": 36,
+      "style": 70,
+      "name": "Tsuki's Icecraft"
+    },
+    {
+      "$id": 37,
+      "style": 70,
+      "name": "Raiko's Zappage Power"
+    },
+    {
+      "$id": 38,
+      "style": 70,
+      "name": "Converse with Phonex"
+    },
+    {
+      "$id": 39,
+      "style": 70,
+      "name": "Plant Analysis"
+    },
+    {
+      "$id": 40,
+      "style": 70,
+      "name": "Lesson with Rex"
+    },
+    {
+      "$id": 41,
+      "style": 70,
+      "name": "Nopon Negotiator"
+    },
+    {
+      "$id": 42,
+      "style": 70,
+      "name": "Battle Advice"
+    },
+    {
+      "$id": 43,
+      "style": 70,
+      "name": "Menou's Mining"
+    },
+    {
+      "$id": 44,
+      "style": 70,
+      "name": "Warm Body"
+    },
+    {
+      "$id": 45,
+      "style": 70,
+      "name": "Melting Snow"
+    },
+    {
+      "$id": 46,
+      "style": 70,
+      "name": "Sudden Misfortune"
+    },
+    {
+      "$id": 47,
+      "style": 70,
+      "name": "Operation"
+    },
+    {
+      "$id": 48,
+      "style": 70,
+      "name": "Yuou's Sweets"
+    },
+    {
+      "$id": 49,
+      "style": 70,
+      "name": "Power Play"
+    },
+    {
+      "$id": 50,
+      "style": 70,
+      "name": "Ancient Knowledge"
+    },
+    {
+      "$id": 51,
+      "style": 70,
+      "name": "Gaze of Passion"
+    },
+    {
+      "$id": 52,
+      "style": 70,
+      "name": "Gaze of Justice"
+    },
+    {
+      "$id": 53,
+      "style": 70,
+      "name": "Gaze of Kindness"
+    },
+    {
+      "$id": 54,
+      "style": 70,
+      "name": "Search Effect"
+    },
+    {
+      "$id": 55,
+      "style": 70,
+      "name": "Burst Hurricane"
+    },
+    {
+      "$id": 56,
+      "style": 70,
+      "name": "Divine Beast Weapon Wisdom"
+    },
+    {
+      "$id": 57,
+      "style": 70,
+      "name": "Rock Break"
+    },
+    {
+      "$id": 58,
+      "style": 70,
+      "name": "Field Scouting"
+    },
+    {
+      "$id": 59,
+      "style": 70,
+      "name": "Adjust Power"
+    },
+    {
+      "$id": 60,
+      "style": 70,
+      "name": "Ten'i's Dangerous Power"
+    },
+    {
+      "$id": 61,
+      "style": 70,
+      "name": "Aim for Harem"
+    },
+    {
+      "$id": 62,
+      "style": 70,
+      "name": "Quick Way"
+    },
+    {
+      "$id": 63,
+      "style": 70,
+      "name": "Root Break"
+    },
+    {
+      "$id": 64,
+      "style": 70,
+      "name": "Geyser Jump"
+    },
+    {
+      "$id": 65,
+      "style": 70,
+      "name": "Aquarize"
+    },
+    {
+      "$id": 66,
+      "style": 70,
+      "name": "Clean Up"
+    },
+    {
+      "$id": 67,
+      "style": 70,
+      "name": "Power Play"
+    },
+    {
+      "$id": 68,
+      "style": 70,
+      "name": "Ether Healing"
+    },
+    {
+      "$id": 69,
+      "style": 70,
+      "name": "Barrel Break\n"
+    },
+    {
+      "$id": 70,
+      "style": 70,
+      "name": "Treasure Open"
+    },
+    {
+      "$id": 71,
+      "style": 70,
+      "name": "Dig Up"
+    },
+    {
+      "$id": 72,
+      "style": 70,
+      "name": "Hibana's Cooking"
+    }
+  ]
+}

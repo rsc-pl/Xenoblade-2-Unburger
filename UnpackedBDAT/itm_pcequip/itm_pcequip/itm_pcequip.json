@@ -1,0 +1,1234 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Abyss Vest"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Gear Vest"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Jade Vest"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Divine Beastium Vest"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Steam Belt"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Silver Belt"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Ceramic Belt"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Bolt Hat"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Pearl Hat"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Fiber Hat"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Rainbow Gloves"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Hero Gloves"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Carbon Gloves"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Shell Shoes"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Assassin Shoes"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Ester Shoes"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Nacre Choker"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Goddess Choker"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Comet Choker"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Rigid Vest"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Infantry Vest"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Muscle Belt"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Champion Belt"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Fluffy Hat"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Fabulous Hat"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Leather Gloves"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Smithy Gloves"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Wolf Shoes"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Spring Shoes"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Bunnit Choker"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Gold Gear Choker"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Garnet"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Sapphire"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Diamond"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Classic Medal"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Modern Medal"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Avant-Garde Medal"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Iron Headband"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Ice Headband"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Optical Headband"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Moon Cube"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Star Cube"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Galaxy Cube"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Mechanized Greaves"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Crystal Greaves"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Graphite Greaves"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Swordfighting Banner"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Goddess Banner"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Ancient Banner"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Spiked Pauldrons"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Hero Pauldrons"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Jet Pauldrons"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Apprentice Vambraces"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Boxer Vambraces"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Hero Vambraces"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Dark Orb"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Eraser Orb"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Bloody Orb"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Chrome Scarf"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Unicorn Scarf"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Quantum Scarf"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "White Belt"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Black Belt"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Platinum Belt"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": "Soldier Ring"
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Berserk Ring"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Tyrant Ring"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Attack Stone"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Assault Stone"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Break Stone"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "World Tree Drop"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Male Loincloth"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "Charming Swimsuit"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Alpha Scope"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "Gamma Scope"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "Beast Hood"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Camo Hood"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Skeleton Hood"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Nopon Mask"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Metal Nopon Mask"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Gold Nopon Mask"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Colorful Feather"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Silver Feather"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Phantom Feather"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Grandarbor Ward"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Spirit Tree Ward"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "World Tree Ward"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Friendship Ring"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Affection Ring"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Promise Ring"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Harvest Necklace"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Affection Necklace"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "Holy Necklace"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Shell Cameo"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Chivalric Medal"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Military Medal"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Round Table Medal"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Gauntlet"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Bio Gauntlet"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Nano-Metal Gauntlet"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Iron Gauntlet"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Eyepatch"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Leader's Eyepatch"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Hi-Tech Eyepatch"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Revival Pod"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "0-Battle Course"
+    },
+    {
+      "$id": 107,
+      "style": 36,
+      "name": "0-Battle Course+"
+    },
+    {
+      "$id": 108,
+      "style": 36,
+      "name": "Alphabet Course"
+    },
+    {
+      "$id": 109,
+      "style": 36,
+      "name": "Alphabet Course+"
+    },
+    {
+      "$id": 110,
+      "style": 36,
+      "name": "Silver Earrings"
+    },
+    {
+      "$id": 111,
+      "style": 36,
+      "name": "Crystal Earrings"
+    },
+    {
+      "$id": 112,
+      "style": 36,
+      "name": "Omega Drive"
+    },
+    {
+      "$id": 113,
+      "style": 36,
+      "name": "Sigma Drive"
+    },
+    {
+      "$id": 114,
+      "style": 36,
+      "name": "Burst Symbol"
+    },
+    {
+      "$id": 115,
+      "style": 36,
+      "name": "Critical Symbol"
+    },
+    {
+      "$id": 116,
+      "style": 36,
+      "name": "Recovery Symbol"
+    },
+    {
+      "$id": 117,
+      "style": 36,
+      "name": "Resurrection Symbol"
+    },
+    {
+      "$id": 118,
+      "style": 36,
+      "name": "Infinity Symbol"
+    },
+    {
+      "$id": 119,
+      "style": 36,
+      "name": "Auto-Balancer"
+    },
+    {
+      "$id": 120,
+      "style": 36,
+      "name": "Sword Attachment"
+    },
+    {
+      "$id": 121,
+      "style": 36,
+      "name": "Scimitar Attachment"
+    },
+    {
+      "$id": 122,
+      "style": 36,
+      "name": "Ring Attachment"
+    },
+    {
+      "$id": 123,
+      "style": 36,
+      "name": "Shield Attachment"
+    },
+    {
+      "$id": 124,
+      "style": 36,
+      "name": "Arms Attachment"
+    },
+    {
+      "$id": 125,
+      "style": 36,
+      "name": "Saber Attachment"
+    },
+    {
+      "$id": 126,
+      "style": 36,
+      "name": "Whip Attachment"
+    },
+    {
+      "$id": 127,
+      "style": 36,
+      "name": "Edge Attachment"
+    },
+    {
+      "$id": 128,
+      "style": 36,
+      "name": "Scythe Attachment"
+    },
+    {
+      "$id": 129,
+      "style": 36,
+      "name": "Axe Attachment"
+    },
+    {
+      "$id": 130,
+      "style": 36,
+      "name": "Lance Attachment"
+    },
+    {
+      "$id": 131,
+      "style": 36,
+      "name": "Cannon Attachment"
+    },
+    {
+      "$id": 132,
+      "style": 36,
+      "name": "Hammer Attachment"
+    },
+    {
+      "$id": 133,
+      "style": 36,
+      "name": "Katana Attachment"
+    },
+    {
+      "$id": 134,
+      "style": 36,
+      "name": "Ball Attachment"
+    },
+    {
+      "$id": 135,
+      "style": 36,
+      "name": "Knuckle Attachment"
+    },
+    {
+      "$id": 136,
+      "style": 36,
+      "name": "Master Attachment"
+    },
+    {
+      "$id": 137,
+      "style": 36,
+      "name": "Memory Locket"
+    },
+    {
+      "$id": 138,
+      "style": 36,
+      "name": "Cheer Treat"
+    },
+    {
+      "$id": 139,
+      "style": 36,
+      "name": "Red Thread"
+    },
+    {
+      "$id": 140,
+      "style": 36,
+      "name": "Love Thread"
+    },
+    {
+      "$id": 141,
+      "style": 36,
+      "name": "Passion Thread"
+    },
+    {
+      "$id": 142,
+      "style": 36,
+      "name": "Activity Amulet"
+    },
+    {
+      "$id": 143,
+      "style": 36,
+      "name": "Healing Amulet"
+    },
+    {
+      "$id": 144,
+      "style": 36,
+      "name": "Rebirth Amulet"
+    },
+    {
+      "$id": 145,
+      "style": 36,
+      "name": "Beta Scope"
+    },
+    {
+      "$id": 146,
+      "style": 36,
+      "name": "Rush Hour"
+    },
+    {
+      "$id": 147,
+      "style": 36,
+      "name": "Appealing Lamp"
+    },
+    {
+      "$id": 148,
+      "style": 36,
+      "name": "Overclocking Bangle"
+    },
+    {
+      "$id": 149,
+      "style": 36,
+      "name": "Incense of Calm"
+    },
+    {
+      "$id": 150,
+      "style": 36,
+      "name": "Incense of Insight"
+    },
+    {
+      "$id": 151,
+      "style": 36,
+      "name": "Priestess's Auspices"
+    },
+    {
+      "$id": 152,
+      "style": 36,
+      "name": "Sage's Auspices"
+    },
+    {
+      "$id": 153,
+      "style": 36,
+      "name": "Mint Potpourri"
+    },
+    {
+      "$id": 154,
+      "style": 36,
+      "name": "Lavender Potpourri"
+    },
+    {
+      "$id": 155,
+      "style": 36,
+      "name": "Nopon Doll"
+    },
+    {
+      "$id": 156,
+      "style": 36,
+      "name": "Avian Totem Carving"
+    },
+    {
+      "$id": 157,
+      "style": 36,
+      "name": "Consul Greaves"
+    },
+    {
+      "$id": 158,
+      "style": 36,
+      "name": "Infinity Greaves"
+    },
+    {
+      "$id": 159,
+      "style": 36,
+      "name": "Night-vision Kit"
+    },
+    {
+      "$id": 160,
+      "style": 36,
+      "name": "Augmented Vision Kit"
+    },
+    {
+      "$id": 161,
+      "style": 36,
+      "name": "Charm Bangle"
+    },
+    {
+      "$id": 162,
+      "style": 36,
+      "name": "Belemnite Bangle"
+    },
+    {
+      "$id": 163,
+      "style": 36,
+      "name": "Seven-League Circlet"
+    },
+    {
+      "$id": 164,
+      "style": 36,
+      "name": "Fighter's Circlet"
+    },
+    {
+      "$id": 165,
+      "style": 36,
+      "name": "Ocean Earring"
+    },
+    {
+      "$id": 166,
+      "style": 36,
+      "name": "Seven-Seas Earring"
+    },
+    {
+      "$id": 167,
+      "style": 36,
+      "name": "Terror Masque"
+    },
+    {
+      "$id": 168,
+      "style": 36,
+      "name": "Abyss Masque"
+    },
+    {
+      "$id": 169,
+      "style": 36,
+      "name": "Envoy's Footgear"
+    },
+    {
+      "$id": 170,
+      "style": 36,
+      "name": "Survivor's Footgear"
+    },
+    {
+      "$id": 171,
+      "style": 36,
+      "name": "Twin Trunks Vest"
+    },
+    {
+      "$id": 172,
+      "style": 36,
+      "name": "Beast-Hide Vest"
+    },
+    {
+      "$id": 173,
+      "style": 36,
+      "name": "Prairie Cap"
+    },
+    {
+      "$id": 174,
+      "style": 36,
+      "name": "Vivid Mitts"
+    },
+    {
+      "$id": 175,
+      "style": 36,
+      "name": "Dauntless Boots"
+    },
+    {
+      "$id": 176,
+      "style": 36,
+      "name": "Sunlight Choker"
+    },
+    {
+      "$id": 177,
+      "style": 36,
+      "name": "Alexandrite"
+    },
+    {
+      "$id": 178,
+      "style": 36,
+      "name": "Crimson Headband"
+    },
+    {
+      "$id": 179,
+      "style": 36,
+      "name": "Black Cube"
+    },
+    {
+      "$id": 180,
+      "style": 36,
+      "name": "Staunch Boots"
+    },
+    {
+      "$id": 181,
+      "style": 36,
+      "name": "War God Banner"
+    },
+    {
+      "$id": 182,
+      "style": 36,
+      "name": "Consul Pauldrons"
+    },
+    {
+      "$id": 183,
+      "style": 36,
+      "name": "Divine Vambraces"
+    },
+    {
+      "$id": 184,
+      "style": 36,
+      "name": "Demon Orb"
+    },
+    {
+      "$id": 185,
+      "style": 36,
+      "name": "Tachyon Scarf"
+    },
+    {
+      "$id": 186,
+      "style": 36,
+      "name": "Rainbow Belt"
+    },
+    {
+      "$id": 187,
+      "style": 36,
+      "name": "Goliath Ring"
+    },
+    {
+      "$id": 188,
+      "style": 36,
+      "name": "Violent Stone"
+    },
+    {
+      "$id": 189,
+      "style": 36,
+      "name": "Enlightened Loincloth"
+    },
+    {
+      "$id": 190,
+      "style": 36,
+      "name": "Glamorous Swimsuit"
+    },
+    {
+      "$id": 191,
+      "style": 36,
+      "name": "Vanish Hood"
+    },
+    {
+      "$id": 192,
+      "style": 36,
+      "name": "Platinum Nopon Mask"
+    },
+    {
+      "$id": 193,
+      "style": 36,
+      "name": "Gargantuan Feather"
+    },
+    {
+      "$id": 194,
+      "style": 36,
+      "name": "Saint's Necklace"
+    },
+    {
+      "$id": 195,
+      "style": 36,
+      "name": "Marble Cameo"
+    },
+    {
+      "$id": 196,
+      "style": 36,
+      "name": "Beatific Medal"
+    },
+    {
+      "$id": 197,
+      "style": 36,
+      "name": "Carbon Gauntlet"
+    },
+    {
+      "$id": 198,
+      "style": 36,
+      "name": "Noise Dampener"
+    },
+    {
+      "$id": 199,
+      "style": 36,
+      "name": "Master Scope"
+    },
+    {
+      "$id": 200,
+      "style": 36,
+      "name": "Blazing Braid"
+    },
+    {
+      "$id": 201,
+      "style": 36,
+      "name": "Torrent Braid"
+    },
+    {
+      "$id": 202,
+      "style": 36,
+      "name": "Gale Braid"
+    },
+    {
+      "$id": 203,
+      "style": 36,
+      "name": "Terra Braid"
+    },
+    {
+      "$id": 204,
+      "style": 36,
+      "name": "Thunder Braid"
+    },
+    {
+      "$id": 205,
+      "style": 36,
+      "name": "Blizzard Braid"
+    },
+    {
+      "$id": 206,
+      "style": 36,
+      "name": "Gloom Braid"
+    },
+    {
+      "$id": 207,
+      "style": 36,
+      "name": "Pyro Greatsword"
+    },
+    {
+      "$id": 208,
+      "style": 36,
+      "name": "Aqua Greatsword"
+    },
+    {
+      "$id": 209,
+      "style": 36,
+      "name": "Aero Greatsword"
+    },
+    {
+      "$id": 210,
+      "style": 36,
+      "name": "Geo Greatsword"
+    },
+    {
+      "$id": 211,
+      "style": 36,
+      "name": "Electro Greatsword"
+    },
+    {
+      "$id": 212,
+      "style": 36,
+      "name": "Glacio Greatsword"
+    },
+    {
+      "$id": 213,
+      "style": 36,
+      "name": "Umbra Greatsword"
+    },
+    {
+      "$id": 214,
+      "style": 36,
+      "name": "Inferno Sword"
+    },
+    {
+      "$id": 215,
+      "style": 36,
+      "name": "Tempest Sword"
+    },
+    {
+      "$id": 216,
+      "style": 36,
+      "name": "Vortex Sword"
+    },
+    {
+      "$id": 217,
+      "style": 36,
+      "name": "Seismic Sword"
+    },
+    {
+      "$id": 218,
+      "style": 36,
+      "name": "Fulmen Sword"
+    },
+    {
+      "$id": 219,
+      "style": 36,
+      "name": "Arctic Sword"
+    },
+    {
+      "$id": 220,
+      "style": 36,
+      "name": "Cimmerian Sword"
+    },
+    {
+      "$id": 221,
+      "style": 36,
+      "name": "Prototype Suit Rex"
+    },
+    {
+      "$id": 222,
+      "style": 36,
+      "name": "Candy Stripe Nia"
+    },
+    {
+      "$id": 223,
+      "style": 36,
+      "name": "Buster-Mode Tora"
+    },
+    {
+      "$id": 224,
+      "style": 36,
+      "name": "Dress Uniform Meleph"
+    },
+    {
+      "$id": 225,
+      "style": 36,
+      "name": "Embercake Zeke"
+    },
+    {
+      "$id": 226,
+      "style": 36,
+      "name": "防護服"
+    },
+    {
+      "$id": 227,
+      "style": 36,
+      "name": "Cloud Sea King Rex"
+    },
+    {
+      "$id": 228,
+      "style": 36,
+      "name": "Blood Witch Nia"
+    },
+    {
+      "$id": 229,
+      "style": 36,
+      "name": "Scarlet Inquisitor Meleph"
+    },
+    {
+      "$id": 230,
+      "style": 36,
+      "name": "Lazure Sash"
+    },
+    {
+      "$id": 231,
+      "style": 36,
+      "name": "Golden Sash"
+    },
+    {
+      "$id": 232,
+      "style": 36,
+      "name": "Lazure Greaves"
+    },
+    {
+      "$id": 233,
+      "style": 36,
+      "name": "Golden Greaves"
+    },
+    {
+      "$id": 234,
+      "style": 36,
+      "name": "Lazure Vambraces"
+    },
+    {
+      "$id": 235,
+      "style": 36,
+      "name": "Golden Vambraces"
+    },
+    {
+      "$id": 236,
+      "style": 36,
+      "name": "Lazure Headband"
+    },
+    {
+      "$id": 237,
+      "style": 36,
+      "name": "Golden Headband"
+    },
+    {
+      "$id": 238,
+      "style": 36,
+      "name": "Cloud Sea Shark Rex"
+    },
+    {
+      "$id": 239,
+      "style": 36,
+      "name": "Fancy Sundress Nia"
+    },
+    {
+      "$id": 240,
+      "style": 36,
+      "name": "Best Girl Fan Tora"
+    },
+    {
+      "$id": 241,
+      "style": 36,
+      "name": "Obligatory Leave Meleph"
+    },
+    {
+      "$id": 242,
+      "style": 36,
+      "name": "Surfinator Zeke"
+    },
+    {
+      "$id": 243,
+      "style": 36,
+      "name": "Skullface Punk Tora"
+    },
+    {
+      "$id": 244,
+      "style": 36,
+      "name": "Shining Justice Zeke"
+    }
+  ]
+}
