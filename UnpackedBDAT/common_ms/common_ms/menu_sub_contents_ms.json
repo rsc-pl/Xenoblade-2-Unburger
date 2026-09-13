@@ -13,7 +13,7 @@
     {
       "$id": 1,
       "style": 15,
-      "name": "Accessories"
+      "name": "Equip Accessories"
     },
     {
       "$id": 2,
@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 15,
-      "name": "Engage Blades"
+      "name": "Blade Engage"
     },
     {
       "$id": 5,
@@ -38,7 +38,7 @@
     {
       "$id": 6,
       "style": 15,
-      "name": "Weapon Modification"
+      "name": "Weapon Enhancement"
     },
     {
       "$id": 7,
@@ -53,12 +53,12 @@
     {
       "$id": 9,
       "style": 15,
-      "name": "Manage Blades"
+      "name": "Blade List"
     },
     {
       "$id": 10,
       "style": 15,
-      "name": "Change Order"
+      "name": "Formation Change"
     },
     {
       "$id": 11,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 15,
-      "name": "Change Time"
+      "name": "Skip Time"
     },
     {
       "$id": 14,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 15,
-      "name": "Refine Assist Cores"
+      "name": "Assist Core Build"
     },
     {
       "$id": 17,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 15,
-      "name": "Characters"
+      "name": "Character Select"
     },
     {
       "$id": 23,
@@ -138,12 +138,12 @@
     {
       "$id": 26,
       "style": 15,
-      "name": "Hanaswap"
+      "name": "Hana Rise"
     },
     {
       "$id": 27,
       "style": 15,
-      "name": "Enemy Album"
+      "name": "Monster Encyclopedia"
     },
     {
       "$id": 28,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 15,
-      "name": "Blades"
+      "name": "Blade Management"
     },
     {
       "$id": 33,
@@ -198,7 +198,7 @@
     {
       "$id": 38,
       "style": 15,
-      "name": "Blade Album"
+      "name": "Blade Encyclopedia"
     },
     {
       "$id": 39,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 25,
-      "name": "Empower character with accessories."
+      "name": "Strengthen characters by equipping\naccessories."
     },
     {
       "$id": 43,
@@ -228,7 +228,7 @@
     {
       "$id": 44,
       "style": 25,
-      "name": "Modify Blade's weapon with Core Chips."
+      "name": "Strengthen Blade weapons with\nCore Chips."
     },
     {
       "$id": 45,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 25,
-      "name": "Switch between Hikari and Homura."
+      "name": "Switch between Homura and Hikari."
     },
     {
       "$id": 48,
@@ -258,12 +258,12 @@
     {
       "$id": 50,
       "style": 25,
-      "name": "Manage parts for empowering Hana."
+      "name": "Create or dismantle Hana upgrade parts."
     },
     {
       "$id": 51,
       "style": 25,
-      "name": "Awaken a new Blade."
+      "name": "Create a new Blade."
     },
     {
       "$id": 52,
@@ -273,7 +273,7 @@
     {
       "$id": 53,
       "style": 25,
-      "name": "View illustrations and information about\nthe rarer Blades you've resonated with."
+      "name": "View Epic and Rare Blades who've\njoined you."
     },
     {
       "$id": 54,
@@ -323,7 +323,7 @@
     {
       "$id": 63,
       "style": 15,
-      "name": "Notifications"
+      "name": "Notices"
     },
     {
       "$id": 64,
@@ -348,7 +348,7 @@
     {
       "$id": 68,
       "style": 15,
-      "name": "Iira DLC Celebration"
+      "name": "Iira Release Celebration"
     }
   ]
 }

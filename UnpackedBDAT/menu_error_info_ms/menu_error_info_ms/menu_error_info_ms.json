@@ -63,7 +63,7 @@
     {
       "$id": 11,
       "style": 153,
-      "name": "This cannot be equipped by this character."
+      "name": "Cannot equip: item type differs."
     },
     {
       "$id": 12,
@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 153,
-      "name": "No items that can be set."
+      "name": "No items available to set."
     },
     {
       "$id": 15,
       "style": 153,
-      "name": "Cannot set identical item."
+      "name": "Cannot set the same item."
     },
     {
       "$id": 16,
@@ -103,7 +103,7 @@
     {
       "$id": 19,
       "style": 153,
-      "name": "The lock is not yet released."
+      "name": "This is still locked."
     },
     {
       "$id": 20,
@@ -113,12 +113,12 @@
     {
       "$id": 21,
       "style": 153,
-      "name": "This weapon is already in use."
+      "name": "Cannot use the same weapon."
     },
     {
       "$id": 22,
       "style": 153,
-      "name": "Cannot set item with same effect."
+      "name": "Cannot set items with the same effect."
     },
     {
       "$id": 23,
@@ -128,17 +128,17 @@
     {
       "$id": 24,
       "style": 153,
-      "name": "You cannot set the same Pouch item twice."
+      "name": "Cannot set the same item."
     },
     {
       "$id": 25,
       "style": 153,
-      "name": "You cannot increase energy capacity any further."
+      "name": "Cannot expand any further."
     },
     {
       "$id": 26,
       "style": 153,
-      "name": "Not enough ether crystals."
+      "name": "Not enough Ether Crystals."
     },
     {
       "$id": 27,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 153,
-      "name": "You cannot add any further pouches."
+      "name": "Cannot expand any further."
     },
     {
       "$id": 37,

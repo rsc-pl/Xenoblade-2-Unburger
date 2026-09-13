@@ -68,12 +68,12 @@
     {
       "$id": 12,
       "style": 160,
-      "name": "After using an [System:Color name=tutorial ]Art[/System:Color], you'll have to wait until the\n[System:Color name=tutorial ]recharge gauge[/System:Color] surrounding the icon has refilled\nbefore you can use it again."
+      "name": "After using an [System:Color name=tutorial ]Art[/System:Color], you'll have to wait until the\n[System:Color name=tutorial ]Recast Gauge[/System:Color] surrounding the icon has refilled\nbefore you can use it again."
     },
     {
       "$id": 13,
       "style": 160,
-      "name": "The [System:Color name=tutorial ]recharge gauge[/System:Color] will refill as you\nauto-attack enemies."
+      "name": "The [System:Color name=tutorial ]Recast Gauge[/System:Color] will refill as you\nauto-attack enemies."
     },
     {
       "$id": 14,
@@ -118,7 +118,7 @@
     {
       "$id": 22,
       "style": 160,
-      "name": "Rex has been brought back from death's door\nas the Driver of the Holy Grail."
+      "name": "Rex has been brought back from death's door\nas the Driver of Heaven's Holy Grail."
     },
     {
       "$id": 23,
@@ -178,7 +178,7 @@
     {
       "$id": 34,
       "style": 160,
-      "name": "That Vandham guy is a pretty effective teacher.\nThanks to his lesson, Rex's [System:Color name=tutorial ]Anchor Shot[/System:Color] Art now\nhas the ability to inflict [System:Color name=tutorial ]Topple[/System:Color] on foes!"
+      "name": "That Vandham guy is a pretty effective teacher.\nThanks to his lesson, Rex's [System:Color name=tutorial ]Anchor Shot[/System:Color] Art now\nhas the ability to inflict [System:Color name=tutorial ]Down[/System:Color] on foes!"
     },
     {
       "$id": 35,
@@ -588,7 +588,7 @@
     {
       "$id": 116,
       "style": 160,
-      "name": "You can now use the Change Time feature to\nskip instantly to whatever time of day you prefer.\nThat's pretty handy!"
+      "name": "You can now use the Skip Time feature to\nskip instantly to whatever time of day you prefer.\nThat's pretty handy!"
     },
     {
       "$id": 117,
@@ -608,7 +608,7 @@
     {
       "$id": 120,
       "style": 160,
-      "name": "There are [System:Color name=tutorial ]trading shops [/System:Color]where you can trade items\nyou've found, [System:Color name=tutorial ]informants[/System:Color] who sell valuable information,\nor [System:Color name=tutorial ]lifestyle shops[/System:Color] for your everyday needs."
+      "name": "There are [System:Color name=tutorial ]trading shops [/System:Color]where you can trade items\nyou've found, an [System:Color name=tutorial ]Information Shop[/System:Color] where you can buy\ninformation, and [System:Color name=tutorial ]lifestyle shops[/System:Color] for your everyday needs."
     },
     {
       "$id": 121,
@@ -623,7 +623,7 @@
     {
       "$id": 123,
       "style": 160,
-      "name": "Avaritia Trade Guild is known as the hub of Alst's\ncommerce, so naturally, you'll find a plethora of\ndifferent shops here."
+      "name": "Avaritia Trading Company is known as the hub of Alst's\ncommerce, so naturally, you'll find a plethora of\ndifferent shops here."
     },
     {
       "$id": 124,
@@ -668,7 +668,7 @@
     {
       "$id": 132,
       "style": 160,
-      "name": "Just remember, you'll need to equip accessories\nto benefit from their effects. Go to [System:Color name=tutorial ]Main Menu [/System:Color]>\n[System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Character Setup [/System:Color]> [System:Color name=tutorial ]Accessories[/System:Color] to do so."
+      "name": "Just remember, you'll need to equip accessories\nto benefit from their effects. Go to [System:Color name=tutorial ]Main Menu [/System:Color]>\n[System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Character Setup [/System:Color]> [System:Color name=tutorial ]Equip Accessories[/System:Color] to do so."
     },
     {
       "$id": 133,
@@ -723,7 +723,7 @@
     {
       "$id": 143,
       "style": 160,
-      "name": "You've just acquired new comrades to accompany\nyou on your adventure! You can adjust the setup of\nyour party in [System:Color name=tutorial ]Main Menu [/System:Color]> [System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Change Order[/System:Color]."
+      "name": "You've just acquired new comrades to accompany\nyou on your adventure! You can adjust the setup of\nyour party in [System:Color name=tutorial ]Main Menu [/System:Color]> [System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Formation Change[/System:Color]."
     },
     {
       "$id": 144,
@@ -733,7 +733,7 @@
     {
       "$id": 145,
       "style": 160,
-      "name": "The character set to [System:Color name=tutorial ]No. 1 [/System:Color]in Change Order will\nbe the [System:Color name=tutorial ]character that you control[/System:Color]."
+      "name": "The character set to [System:Color name=tutorial ]No. 1 [/System:Color]in Formation Change will\nbe the [System:Color name=tutorial ]character that you control[/System:Color]."
     },
     {
       "$id": 146,
@@ -828,7 +828,7 @@
     {
       "$id": 164,
       "style": 160,
-      "name": "Add Blades to your battle party in [System:Color name=tutorial ]Main Menu [/System:Color]>\n[System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Character Setup [/System:Color]> [System:Color name=tutorial ]Engage Blades[/System:Color]."
+      "name": "Add Blades to your battle party in [System:Color name=tutorial ]Main Menu [/System:Color]>\n[System:Color name=tutorial ]Characters [/System:Color]> [System:Color name=tutorial ]Character Setup [/System:Color]> [System:Color name=tutorial ]Blade Engage[/System:Color]."
     },
     {
       "$id": 165,
@@ -873,7 +873,7 @@
     {
       "$id": 173,
       "style": 160,
-      "name": "[System:Color name=tutorial ]Getting a Blade's Affinity Rewards will increase\nTrust[/System:Color], so when you get a new Blade, remember\nto try and complete as many as possible!"
+      "name": "[System:Color name=tutorial ]Getting a Blade's Bonding Gifts will increase\nTrust[/System:Color], so when you get a new Blade, remember\nto try and complete as many as possible!"
     },
     {
       "$id": 174,
@@ -883,17 +883,17 @@
     {
       "$id": 175,
       "style": 160,
-      "name": "Behold Hana, the world's first Artificial Blade! Hana\ncan't equip Assist Cores, but she has something just as\ngood for customizing her abilities: [System:Color name=tutorial ]Hanaswap[/System:Color]!"
+      "name": "Behold Hana, the world's first Artificial Blade! Hana\ncan't equip Assist Cores, but she has something just as\ngood for customizing her abilities: [System:Color name=tutorial ]Hana Rise[/System:Color]!"
     },
     {
       "$id": 176,
       "style": 160,
-      "name": "You can access Hanaswap by going to [System:Color name=tutorial ]Main Menu[/System:Color] >\n[System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] ([System:Color name=tutorial ]Hana JS[/System:Color]) > [System:Color name=tutorial ]Hanaswap[/System:Color]."
+      "name": "You can access Hana Rise by going to [System:Color name=tutorial ]Main Menu[/System:Color] >\n[System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] ([System:Color name=tutorial ]Hana JS[/System:Color]) > [System:Color name=tutorial ]Hana Rise[/System:Color]."
     },
     {
       "$id": 177,
       "style": 160,
-      "name": "To make use of the Hanaswap feature, you'll need\nto get hold of certain items via the [System:Color name=tutorial ]Tiger! Tiger![/System:Color] game."
+      "name": "To make use of the Hana Rise feature, you'll need\nto get hold of certain items via the [System:Color name=tutorial ]Tiger! Tiger![/System:Color] game."
     },
     {
       "$id": 178,
@@ -928,7 +928,7 @@
     {
       "$id": 184,
       "style": 160,
-      "name": "Generally, Blades can't change Roles. As an Artificial\nBlade, [System:Color name=tutorial ]Hana[/System:Color] is the exception. She can [System:Color name=tutorial ]change her Role[/System:Color]\nusing her [System:Color name=tutorial ]Hanaswap[/System:Color] feature."
+      "name": "Generally, Blades can't change Roles. As an Artificial\nBlade, [System:Color name=tutorial ]Hana[/System:Color] is the exception. She can [System:Color name=tutorial ]change her Role[/System:Color]\nusing her [System:Color name=tutorial ]Hana Rise[/System:Color] feature."
     },
     {
       "$id": 185,
@@ -1028,17 +1028,17 @@
     {
       "$id": 204,
       "style": 160,
-      "name": "There are three main ways to develop a Blade:\n[System:Color name=tutorial ]weapon modification[/System:Color], [System:Color name=tutorial ]equipping Assist Cores[/System:Color], and\nthe [System:Color name=tutorial ]Bonding Ring[/System:Color]."
+      "name": "There are three main ways to develop a Blade:\n[System:Color name=tutorial ]Weapon Enhancement[/System:Color], [System:Color name=tutorial ]equipping Assist Cores[/System:Color], and\nthe [System:Color name=tutorial ]Bonding Ring[/System:Color]."
     },
     {
       "$id": 205,
       "style": 160,
-      "name": "Weapon modification is exactly what it sounds like.\nA Blade's weapon is tied to them from the moment\nthey're awakened, so it can't just be replaced..."
+      "name": "Weapon Enhancement strengthens a Blade's\ninborn weapon using Core Chips."
     },
     {
       "$id": 206,
       "style": 160,
-      "name": "You can apply Core Chips to weapons in [System:Color name=tutorial ]Main Menu[/System:Color] >\n[System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Weapon Modification[/System:Color]."
+      "name": "You can apply Core Chips to weapons in [System:Color name=tutorial ]Main Menu[/System:Color] >\n[System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Weapon Enhancement[/System:Color]."
     },
     {
       "$id": 207,
@@ -1058,7 +1058,7 @@
     {
       "$id": 210,
       "style": 160,
-      "name": "However you obtain them, you can apply Core Chips\nto weapons by going to [System:Color name=tutorial ]Main Menu [/System:Color]> [System:Color name=tutorial ]Characters [/System:Color]>\n[System:Color name=tutorial ]Blade Setup [/System:Color]> [System:Color name=tutorial ]Weapon Modification[/System:Color]."
+      "name": "However you obtain them, you can apply Core Chips\nto weapons by going to [System:Color name=tutorial ]Main Menu [/System:Color]> [System:Color name=tutorial ]Characters [/System:Color]>\n[System:Color name=tutorial ]Blade Setup [/System:Color]> [System:Color name=tutorial ]Weapon Enhancement[/System:Color]."
     },
     {
       "$id": 211,
@@ -1073,7 +1073,7 @@
     {
       "$id": 213,
       "style": 160,
-      "name": "These abilities and power-ups can be had by fulfilling\nthe conditions for the [System:Color name=tutorial ]Affinity Rewards[/System:Color] on the Affinity\nChart. There's a whole host of goals for you to aim for."
+      "name": "These abilities and power-ups can be had by fulfilling\nthe conditions for the [System:Color name=tutorial ]Bonding Gifts[/System:Color] on the Bonding Ring.\nThere's a whole host of goals for you to aim for."
     },
     {
       "$id": 214,
@@ -1268,7 +1268,7 @@
     {
       "$id": 252,
       "style": 160,
-      "name": "By the way, your mercenary band has a [System:Color name=tutorial ]rank[/System:Color] of its own,\nwhich can be raised by completing certain missions."
+      "name": "By the way, your mercenary band has a [System:Color name=tutorial ]level[/System:Color] of its own,\nwhich can be raised by completing certain missions."
     },
     {
       "$id": 253,
@@ -1353,7 +1353,7 @@
     {
       "$id": 269,
       "style": 160,
-      "name": "The more Bonding Talk you view, the bond of Trust\nand Affinity between you and your Blade will deepen!"
+      "name": "Viewing Bonding Talk greatly increases Trust with\nyour Blade. Experience lots of them to deepen\nyour bond even further!"
     },
     {
       "$id": 270,
@@ -1363,7 +1363,7 @@
     {
       "$id": 271,
       "style": 160,
-      "name": "The first thing you need to know about is [System:Color name=tutorial ]Affinity[/System:Color].\nSee that [System:Color name=tutorial ]bond of light [/System:Color]connecting Rex and Homura?\nThis represents the Affinity that exists between them."
+      "name": "First, let's explain [System:Color name=tutorial ]Bonding[/System:Color].\nSee the [System:Color name=tutorial ]band of light [/System:Color]connecting Rex and Homura?\nThat's Bonding."
     },
     {
       "$id": 272,
@@ -1373,7 +1373,7 @@
     {
       "$id": 273,
       "style": 160,
-      "name": "When Affinity glows golden, it's a sign that the minds of\nBlade and Driver are in harmony. [System:Color name=tutorial ]Movement speed[/System:Color] will\ngo up, and [System:Color name=tutorial ]recharging Arts[/System:Color] will speed up."
+      "name": "When Bonding glows golden, it's a sign that the minds of\nBlade and Driver are in harmony. [System:Color name=tutorial ]Movement speed[/System:Color] will\ngo up, and [System:Color name=tutorial ]Arts Recast speed[/System:Color] will speed up."
     },
     {
       "$id": 274,
@@ -1383,7 +1383,7 @@
     {
       "$id": 275,
       "style": 160,
-      "name": "You can strengthen Affinity in battle by staying\nphysically close to your Blade and hitting home with\nas many attacks as possible."
+      "name": "You can strengthen Bonding in battle by staying\nphysically close to your Blade and hitting home with\nas many attacks as possible."
     },
     {
       "$id": 276,
@@ -1393,7 +1393,7 @@
     {
       "$id": 277,
       "style": 160,
-      "name": "On the other hand, if there's too much distance, Affinity\nweakens, which will weaken the Driver in turn. Keep\nRex's Affinity with Homura in mind when fighting Metsu!"
+      "name": "On the other hand, if there's too much distance, Bonding\nweakens, which also weakens the Driver. Keep your\nBonding with Homura in mind when fighting Metsu!"
     },
     {
       "$id": 278,
@@ -1403,7 +1403,7 @@
     {
       "$id": 279,
       "style": 160,
-      "name": "Now it's time to get back to fighting Metsu.\nTry to keep your Affinity in mind!"
+      "name": "Fight Metsu while keeping your\nBonding with Homura in mind!"
     },
     {
       "$id": 280,
@@ -1603,7 +1603,7 @@
     {
       "$id": 319,
       "style": 160,
-      "name": "Rex is a Driver of the Holy Grail! The power of the\n[System:Color name=tutorial ]Master Driver[/System:Color] has awoken within him!"
+      "name": "Rex is a Driver of Heaven's Holy Grail! The power of the\n[System:Color name=tutorial ]Master Driver[/System:Color] has awoken within him!"
     },
     {
       "$id": 320,
@@ -1648,7 +1648,7 @@
     {
       "$id": 328,
       "style": 160,
-      "name": "However, just using Anchor Shot on its own\nwon't generally be enough to Topple the enemy."
+      "name": "However, simply using Anchor Shot\nwon't necessarily inflict Down on the enemy."
     },
     {
       "$id": 329,
@@ -1668,12 +1668,12 @@
     {
       "$id": 332,
       "style": 160,
-      "name": "Use an Art that has a Topple effect before that gauge\nruns out, and you'll have the opportunity to inflict\nmajor damage. This is what we call a [System:Color name=tutorial ]Driver Combo[/System:Color]."
+      "name": "Use an Art that has a Down effect before that gauge\nruns out, and you'll have the opportunity to inflict\nmajor damage. This is what we call a [System:Color name=tutorial ]Driver Combo[/System:Color]."
     },
     {
       "$id": 333,
       "style": 160,
-      "name": "A Driver Combo can be extended through\nup to four stages in total:\n[System:Color name=tutorial ]Break[/System:Color] > [System:Color name=tutorial ]Topple[/System:Color] > [System:Color name=tutorial ]Launch[/System:Color] > [System:Color name=tutorial ]Smash[/System:Color]."
+      "name": "A Driver Combo can be extended through\nup to four stages in total:\n[System:Color name=tutorial ]Break[/System:Color] > [System:Color name=tutorial ]Down[/System:Color] > [System:Color name=tutorial ]Rising[/System:Color] > [System:Color name=tutorial ]Smash[/System:Color]."
     },
     {
       "$id": 334,
@@ -1683,7 +1683,7 @@
     {
       "$id": 335,
       "style": 160,
-      "name": "For now, though, why don't you take advantage\nof Nia's [System:Color name=tutorial ]Break[/System:Color] effect and [System:Color name=tutorial ]Topple[/System:Color] that Ardun with\nyour [System:Color name=tutorial ]Anchor Shot[/System:Color]?"
+      "name": "Before that, use [System:Color name=tutorial ]Anchor Shot[/System:Color] to inflict\n[System:Color name=tutorial ]Down[/System:Color] on the Ardun after Nia inflicts [System:Color name=tutorial ]Break[/System:Color]."
     },
     {
       "$id": 336,
@@ -1863,7 +1863,7 @@
     {
       "$id": 371,
       "style": 160,
-      "name": "If you get all the way to [System:Color name=tutorial ]max Affinity[/System:Color], the [System:Color name=tutorial ]Trust\nlevel [/System:Color]between Blade and Driver will increase."
+      "name": "If you get all the way to [System:Color name=tutorial ]max Bonding[/System:Color], the [System:Color name=tutorial ]Trust\nlevel [/System:Color]between Blade and Driver will increase."
     },
     {
       "$id": 372,
@@ -1898,17 +1898,17 @@
     {
       "$id": 378,
       "style": 160,
-      "name": "Trust goes up when you achieve maximum Affinity in\nbattle as well. Affinity bonds will shine with a golden\ncolor when they're at their height."
+      "name": "Trust also rises when Bonding reaches max in battle.\nAt max, the bond glows gold, so use that\nas your guide."
     },
     {
       "$id": 379,
       "style": 160,
-      "name": "Another way to boost Trust is to keep your Affinity\nat [System:Color name=tutorial ]maximum level[/System:Color] during battles."
+      "name": "Another way to boost Trust is to keep your Bonding\nat [System:Color name=tutorial ]maximum level[/System:Color] during battles."
     },
     {
       "$id": 380,
       "style": 160,
-      "name": "I mentioned it a while back when you were fighting\nMetsu, but keeping [System:Color name=tutorial ]Affinity[/System:Color] high is quite an important\nfactor in building Trust, so try to keep it in mind."
+      "name": "I mentioned it a while back when you were fighting\nMetsu, but keeping [System:Color name=tutorial ]Bonding[/System:Color] high is quite an important\nfactor in building Trust, so try to keep it in mind."
     },
     {
       "$id": 381,
@@ -1933,7 +1933,7 @@
     {
       "$id": 385,
       "style": 160,
-      "name": "Need a quick reminder? You'll build Trust when you:\n1. [System:Color name=tutorial ]Complete quests.[/System:Color]\n2. [System:Color name=tutorial ]Maintain maximum Affinity during battle.[/System:Color]"
+      "name": "Need a quick reminder? You'll build Trust when you:\n1. [System:Color name=tutorial ]Complete quests.[/System:Color]\n2. [System:Color name=tutorial ]Maintain maximum Bonding during battle.[/System:Color]"
     },
     {
       "$id": 386,
@@ -1973,7 +1973,7 @@
     {
       "$id": 393,
       "style": 160,
-      "name": "When ascended, Homura's attacks have unprecedented\npower. What's more, during Blade Combos, you can\n[System:Color name=tutorial ]select the combo route regardless of the next element[/System:Color]."
+      "name": "When awakened, Homura displays overwhelming attack power.\nWhat's more, during Blade Combos, you can\n[System:Color name=tutorial ]select the combo route regardless of the next element[/System:Color]."
     },
     {
       "$id": 394,
@@ -2013,7 +2013,7 @@
     {
       "$id": 401,
       "style": 160,
-      "name": "If you've got [System:Color name=tutorial ]Homura and Nia engaged[/System:Color] to Rex at the\nsame time, [System:Color name=tutorial ]max out his Affinity with them both[/System:Color],\nand then use a [System:Color name=tutorial ]level 4 Special[/System:Color]..."
+      "name": "If you've got [System:Color name=tutorial ]Homura and Nia engaged[/System:Color] to Rex at the\nsame time, and [System:Color name=tutorial ]his Bonding with both is at max[/System:Color],\nthen use a [System:Color name=tutorial ]level 4 Special[/System:Color]..."
     },
     {
       "$id": 402,
@@ -2048,7 +2048,7 @@
     {
       "$id": 408,
       "style": 160,
-      "name": "You might even want to use Skip Travel to head\nback to Avaritia and see how the goods here\ncompare to the ones there."
+      "name": "You might even want to use Skip Travel to head\nback to Avaritia Trading Company and see how the goods here\ncompare to the ones there."
     },
     {
       "$id": 409,
@@ -2068,12 +2068,12 @@
     {
       "$id": 412,
       "style": 160,
-      "name": "A successful cancel attack will be more effective than\nan Art executed normally."
+      "name": "A successful cancel attack increases attack power\nmore than using an Art normally."
     },
     {
       "$id": 413,
       "style": 160,
-      "name": "Also, the recharge gauge will fill up faster afterwards,\nso you can really get an advantage from using cancel\nattacks."
+      "name": "Also, the Recast Gauge will fill up faster afterwards,\nso you can really get an advantage from using cancel\nattacks."
     },
     {
       "$id": 414,
@@ -2153,12 +2153,12 @@
     {
       "$id": 429,
       "style": 160,
-      "name": "Let me take this chance to bend your ear quickly about\nDriver stats. Every Driver has a few basic ones, namely\n[System:Color name=tutorial ]HP[/System:Color], [System:Color name=tutorial ]Strength[/System:Color], [System:Color name=tutorial ]Ether[/System:Color], [System:Color name=tutorial ]Dexterity[/System:Color], [System:Color name=tutorial ]Agility[/System:Color] and [System:Color name=tutorial ]Luck[/System:Color]."
+      "name": "Let me take this chance to bend your ear quickly about\nDriver stats. Every Driver has a few basic ones, namely\n[System:Color name=tutorial ]HP[/System:Color], [System:Color name=tutorial ]Strength[/System:Color], [System:Color name=tutorial ]Ether Power[/System:Color], [System:Color name=tutorial ]Dexterity[/System:Color], [System:Color name=tutorial ]Agility[/System:Color] and [System:Color name=tutorial ]Luck[/System:Color]."
     },
     {
       "$id": 430,
       "style": 160,
-      "name": "[System:Color name=tutorial ]HP[/System:Color]: the Driver's health; they'll fall if it drops to 0.\n[System:Color name=tutorial ]Strength[/System:Color]: affects damage from physical Arts.\n[System:Color name=tutorial ]Ether[/System:Color]: affects damage/healing from Ether Arts."
+      "name": "[System:Color name=tutorial ]HP[/System:Color]: the Driver's health; they'll fall if it drops to 0.\n[System:Color name=tutorial ]Strength[/System:Color]: affects damage from Strength-based Arts.\n[System:Color name=tutorial ]Ether Power[/System:Color]: affects damage/healing from Ether Arts."
     },
     {
       "$id": 431,
@@ -2203,7 +2203,7 @@
     {
       "$id": 439,
       "style": 160,
-      "name": "You can take a look at Affinity Rewards here:\n[System:Color name=tutorial ]Main Menu[/System:Color] > [System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Bonding Ring[/System:Color]."
+      "name": "You can take a look at Bonding Gifts here:\n[System:Color name=tutorial ]Main Menu[/System:Color] > [System:Color name=tutorial ]Characters[/System:Color] > [System:Color name=tutorial ]Blade Setup[/System:Color] > [System:Color name=tutorial ]Bonding Ring[/System:Color]."
     },
     {
       "$id": 440,
@@ -2223,7 +2223,7 @@
     {
       "$id": 443,
       "style": 160,
-      "name": "If you try to fight Infernal Guldo in the usual way,\nyou're going to struggle to take him down."
+      "name": "If you try to fight Devil King Guldu in the usual way,\nyou're going to struggle to take him down."
     },
     {
       "$id": 444,
@@ -2243,17 +2243,17 @@
     {
       "$id": 447,
       "style": 160,
-      "name": "While playing [System:Color name=tutorial ]New Game Plus[/System:Color], you'll be able to\n[System:Color name=tutorial ]lower your Drivers' levels[/System:Color] as well as raise them\nwhenever you rest at an inn."
+      "name": "While playing [System:Color name=tutorial ]Advanced New Game[/System:Color], you'll be able to\n[System:Color name=tutorial ]lower your Drivers' levels[/System:Color] as well as raise them\nwhenever you rest at an inn."
     },
     {
       "$id": 448,
       "style": 160,
-      "name": "The EXP difference from lowering a level will be added\nto the [System:Color name=tutorial ]Bonus EXP[/System:Color] pool. You can talk to [System:Color name=tutorial ]traveling bards[/System:Color]\nto [System:Color name=tutorial ]exchange Bonus EXP for valuable items[/System:Color]."
+      "name": "The EXP difference from lowering a level will be added\nto the [System:Color name=tutorial ]Bonus EXP[/System:Color] pool. You can talk to [System:Color name=tutorial ]Battle Bards[/System:Color]\nto [System:Color name=tutorial ]exchange Bonus EXP for valuable items[/System:Color]."
     },
     {
       "$id": 449,
       "style": 160,
-      "name": "The [System:Color name=tutorial ]traveling bards[/System:Color]' locations will be marked on the\nmini-map with a [System:Color name=tutorial ]green shop icon[/System:Color]."
+      "name": "The [System:Color name=tutorial ]Battle Bards[/System:Color]' locations will be marked on the\nmini-map with a [System:Color name=tutorial ]green shop icon[/System:Color]."
     },
     {
       "$id": 450,
@@ -2268,12 +2268,12 @@
     {
       "$id": 452,
       "style": 160,
-      "name": "However, you can engage the Hanabuster\nto any Driver (except Tora) at any time\n[System:Color name=tutorial ]without having to spend an Overdrive Protocol[/System:Color]."
+      "name": "However, you can engage the Hanabuster\nto any Driver (except Tora) at any time\n[System:Color name=tutorial ]without having to spend an Overdrive[/System:Color]."
     },
     {
       "$id": 453,
       "style": 160,
-      "name": "To do so, simply select him on the right Driver's\n[System:Color name=tutorial ]Engage Blades screen[/System:Color]."
+      "name": "To do so, simply select him on the right Driver's\n[System:Color name=tutorial ]Blade Engage screen[/System:Color]."
     },
     {
       "$id": 454,
@@ -2293,12 +2293,12 @@
     {
       "$id": 457,
       "style": 160,
-      "name": "But from now on, you'll be able to engage them to\nany Driver (except Tora) [System:Color name=tutorial ]without having to use an\nOverdrive Protocol[/System:Color]."
+      "name": "But from now on, you'll be able to engage them to\nany Driver (except Tora) [System:Color name=tutorial ]without having to use an\nOverdrive[/System:Color]."
     },
     {
       "$id": 458,
       "style": 160,
-      "name": "To do so, simply select them on your chosen Driver's\n[System:Color name=tutorial ]Engage Blades screen[/System:Color]. Feel free to experiment with\nShulk and Fiorung to see how they fit your battle plans!"
+      "name": "To do so, simply select them on your chosen Driver's\n[System:Color name=tutorial ]Blade Engage screen[/System:Color]. Feel free to experiment with\nShulk and Fiorung to see how they fit your battle plans!"
     },
     {
       "$id": 459,
@@ -2313,7 +2313,7 @@
     {
       "$id": 461,
       "style": 160,
-      "name": "Rumor has it that among the various rewards that the\nNopon Archsage gives out for his Challenge Battles is\nan item that will let Shulk and Fiorung enter Alst..."
+      "name": "Rumor has it that among the various rewards that the\nNopon Great Sage gives out for his Challenge Battles is\nan item that will let Shulk and Fiorung enter Alst..."
     },
     {
       "$id": 462,
@@ -2338,12 +2338,12 @@
     {
       "$id": 466,
       "style": 160,
-      "name": "Until you progress through the game's story to the\npoint when you can travel to Karam Ruins, the portal\nto the Land of Challenge will be placed in Avaritia."
+      "name": "Until you progress through the game's story to the point\nwhen you can travel to Karam Ruins, the portal to the Land\nof Challenge will be placed in Avaritia Trading Company."
     },
     {
       "$id": 467,
       "style": 160,
-      "name": "Please be advised that after the portal opens in\nKaram Ruins, the one in Avaritia will disappear."
+      "name": "Please be advised that after the portal opens in Karam\nRuins, the one in Avaritia Trading Company will disappear."
     },
     {
       "$id": 468,
@@ -2438,7 +2438,7 @@
     {
       "$id": 486,
       "style": 160,
-      "name": "The special battle\n\"Call the Exterminators\"\nis about to begin."
+      "name": "The special battle\n\"Bug Buster\"\nis about to begin."
     },
     {
       "$id": 487,
@@ -2448,17 +2448,17 @@
     {
       "$id": 488,
       "style": 160,
-      "name": "The special battle\n\"Attack of the Aspar\"\nis about to begin."
+      "name": "The special battle\n\"Angu Attack\"\nis about to begin."
     },
     {
       "$id": 489,
       "style": 160,
-      "name": "As the Aspar loses HP, its level will increase."
+      "name": "As the Angu loses HP, its level will increase."
     },
     {
       "$id": 490,
       "style": 160,
-      "name": "How high can you raise the Aspar's level before you\ndefeat it? Let's find out! (Its maximum level is 200.)"
+      "name": "How high can you raise the Angu's level before you\ndefeat it? Let's find out! (Its maximum level is 200.)"
     },
     {
       "$id": 491,
@@ -2473,12 +2473,12 @@
     {
       "$id": 493,
       "style": 160,
-      "name": "Here you can trade [System:Color name=tutorial ]Noponstone[/System:Color] for\nrare and special items."
+      "name": "Here you can trade [System:Color name=tutorial ]Nopon Crystal[/System:Color] for\nrare and special items."
     },
     {
       "$id": 494,
       "style": 160,
-      "name": "A special item like [System:Color name=tutorial ]Disguised Homura[/System:Color] will change the\nappearance of the character whose name it bears\nwhen equipped to that character."
+      "name": "A special item like [System:Color name=tutorial ]Homura in Eared Poncho[/System:Color] will change the\nappearance of the character whose name it bears\nwhen equipped to that character."
     },
     {
       "$id": 495,
@@ -2488,7 +2488,7 @@
     {
       "$id": 496,
       "style": 160,
-      "name": "Earn as much Noponstone as you can by clearing\nChallenge Battles!"
+      "name": "Earn as much Nopon Crystal as you can by clearing\nChallenge Battles!"
     },
     {
       "$id": 497,
@@ -2503,12 +2503,12 @@
     {
       "$id": 499,
       "style": 160,
-      "name": "A [System:Color name=tutorial ]team [/System:Color]is composed of a Driver and their Blades.\nThe level, EXP, HP, Strength, Ether, Agility, Dexterity,\nand Luck stats are [System:Color name=tutorial ]common to all members of a team[/System:Color]."
+      "name": "A [System:Color name=tutorial ]team [/System:Color]is composed of a Driver and their Blades.\nThe level, EXP, HP, Strength, Ether Power, Agility, Dexterity,\nand Luck stats are [System:Color name=tutorial ]common to all members of a team[/System:Color]."
     },
     {
       "$id": 500,
       "style": 160,
-      "name": "With every auto-attack hit, your [System:Color name=tutorial ]Art gauges [/System:Color]will fill up\nslightly. This is called Arts recharge. With the gauge\n[System:Color name=tutorial ]full[/System:Color], press the corresponding button to [System:Color name=tutorial ]use the Art[/System:Color]."
+      "name": "With every auto-attack hit, your [System:Color name=tutorial ]Art gauges[/System:Color] fill up.\nThis is called Arts Recast. Once a gauge is [System:Color name=tutorial ]full[/System:Color], press the\ncorresponding button to [System:Color name=tutorial ]use the Art[/System:Color]."
     },
     {
       "$id": 501,
@@ -2523,22 +2523,22 @@
     {
       "$id": 503,
       "style": 160,
-      "name": "You can [System:Color name=tutorial ]cancel Arts into Specials [/System:Color]too, and by\nunlocking certain nodes on Affinity charts, it becomes\npossible to [System:Color name=tutorial ]cancel Arts into other Arts[/System:Color]."
+      "name": "You can [System:Color name=tutorial ]cancel Arts into Specials [/System:Color]too, and by\nunlocking certain nodes on Bonding Rings, it becomes\npossible to [System:Color name=tutorial ]cancel Arts into other Arts[/System:Color]."
     },
     {
       "$id": 504,
       "style": 160,
-      "name": "A successful cancel will [System:Color name=tutorial ]charge the Special gauge\nmore than usual[/System:Color], so it's worth learning this tricky\ntechnique if you want to maximize efficiency!"
+      "name": "An Action Cancel [System:Color name=tutorial ]builds more Special Recast than usual[/System:Color].\nAim for them to fight more efficiently."
     },
     {
       "$id": 505,
       "style": 160,
-      "name": "In battle, a team is [System:Color name=tutorial ]split between Vanguard and\nRear Guard positions[/System:Color]. The character in the vanguard\nis the [System:Color name=tutorial ]attacker[/System:Color], while the rear guard plays [System:Color name=tutorial ]support[/System:Color]."
+      "name": "In battle, a team [System:Color name=tutorial ]splits into front and rear positions[/System:Color].\nThe [System:Color name=tutorial ]Attacker[/System:Color] in front focuses on offense; the rear\n[System:Color name=tutorial ]Supporter[/System:Color] focuses on support."
     },
     {
       "$id": 506,
       "style": 160,
-      "name": "[System:Color name=tutorial ]You[/System:Color], as the player, [System:Color name=tutorial ]directly control the vanguard[/System:Color]. The\nrear guard will attack and provide buffs automatically."
+      "name": "[System:Color name=tutorial ]You[/System:Color], as the player, [System:Color name=tutorial ]directly control the Attacker[/System:Color].\nThe Supporter attacks and provides support automatically."
     },
     {
       "$id": 507,
@@ -2548,27 +2548,27 @@
     {
       "$id": 508,
       "style": 160,
-      "name": "When you receive an attack, the [System:Color name=tutorial ]damage you took [/System:Color]will\nbe displayed as a [System:Color name=tutorial ]red bar[/System:Color], indicating [System:Color name=tutorial ]recoverable HP[/System:Color].\nThis damage is [System:Color name=tutorial ]healed by using a Vanguard Switch[/System:Color]."
+      "name": "When attacked, the [System:Color name=tutorial ]damage taken[/System:Color] appears as a [System:Color name=tutorial ]red bar[/System:Color].\nThis is called [System:Color name=tutorial ]Reserve HP[/System:Color]. [System:Color name=tutorial ]Attacker Switches restore\nReserve HP[/System:Color]."
     },
     {
       "$id": 509,
       "style": 160,
-      "name": "The recoverable HP will [System:Color name=tutorial ]drain over time[/System:Color].\nPerforming Vanguard Switches whenever you can\nand keeping your HP high is the key to victory!"
+      "name": "[System:Color name=tutorial ]Reserve HP gradually drains over time[/System:Color]. Use Attacker Switches\nwhenever possible to keep your team's HP from dropping."
     },
     {
       "$id": 510,
       "style": 160,
-      "name": "Once the [System:Color name=tutorial ]Rear Guard gauge[/System:Color] fills up in battle,\nyou can press [System:Color name=tutorial ][ML:icon icon=up ][/System:Color] or [System:Color name=tutorial ][ML:icon icon=down ][/System:Color] to perform a maneuver\ncalled a [System:Color name=tutorial ]Vanguard Switch[/System:Color]."
+      "name": "Once the [System:Color name=tutorial ]Supporter Gauge[/System:Color] fills in battle, press\n[System:Color name=tutorial ][ML:icon icon=up ][/System:Color] or [System:Color name=tutorial ][ML:icon icon=down ][/System:Color] to perform an [System:Color name=tutorial ]Attacker Switch[/System:Color]."
     },
     {
       "$id": 511,
       "style": 160,
-      "name": "When you trigger a Vanguard Switch, the rear guard\nwill [System:Color name=tutorial ]move up to trade places with the vanguard [/System:Color]while\nattacking with their [System:Color name=tutorial ]Switch Art[/System:Color]."
+      "name": "When you use an Attacker Switch, the Supporter attacks with a\n[System:Color name=tutorial ]Switch Art[/System:Color] while [System:Color name=tutorial ]trading places with the Attacker and\nbecoming the new Attacker[/System:Color]."
     },
     {
       "$id": 512,
       "style": 160,
-      "name": "After the switch, the new vanguard's [System:Color name=tutorial ]Art gauges\nwill be full[/System:Color], ready to be used immediately, so using\na Vanguard Switch is a good way to press an attack."
+      "name": "After switching into the Attacker role, [System:Color name=tutorial ]Arts Recast is full[/System:Color].\nAll Arts are immediately available, so use Attacker Switches\nto keep up the attack."
     },
     {
       "$id": 513,
@@ -2578,12 +2578,12 @@
     {
       "$id": 514,
       "style": 160,
-      "name": "Using Arts will in turn charge the [System:Color name=tutorial ]Special gauge[/System:Color].\nThis is called Special recharge. When this gauge is [System:Color name=tutorial ]full[/System:Color],\nyou can press [System:Color name=tutorial ][ML:icon icon=A ][/System:Color] to [System:Color name=tutorial ]use a Special[/System:Color]."
+      "name": "Using Arts builds the [System:Color name=tutorial ]Special gauge[/System:Color].\nThis is called Special Recast. Once it is [System:Color name=tutorial ]full[/System:Color], press\n[System:Color name=tutorial ][ML:icon icon=A ][/System:Color] to [System:Color name=tutorial ]use a Special[/System:Color]."
     },
     {
       "$id": 515,
       "style": 160,
-      "name": "You can charge the Special gauge up [System:Color name=tutorial ]beyond level 1,\nall the way up to 4[/System:Color]. Whereas level 1 has the vanguard\nattack alone, [System:Color name=tutorial ]levels 2, 3, and 4 are a real team effort[/System:Color]!"
+      "name": "You can charge the Special gauge [System:Color name=tutorial ]from level 1 up to level 4[/System:Color].\nAt level 1, only the Attacker attacks; [System:Color name=tutorial ]levels 2, 3, and 4\nuse a coordinated Special from the whole team[/System:Color]."
     },
     {
       "$id": 516,
@@ -2648,17 +2648,17 @@
     {
       "$id": 528,
       "style": 160,
-      "name": "Lisaria Woodland, where you are right now, is a special\nkind of [System:Color name=tutorial ]area [/System:Color]known as a [System:Color name=tutorial ]landmark[/System:Color]."
+      "name": "Lisaria Primeval Forest, where you are right now, is a special\nkind of [System:Color name=tutorial ]area [/System:Color]known as a [System:Color name=tutorial ]landmark[/System:Color]."
     },
     {
       "$id": 529,
       "style": 160,
-      "name": "Alst features three kinds of areas:\n[System:Color name=tutorial ]locations[/System:Color], [System:Color name=tutorial ]landmarks[/System:Color], and [System:Color name=tutorial ]secret areas[/System:Color]."
+      "name": "There are three kinds of areas:\n[System:Color name=tutorial ]locations[/System:Color], [System:Color name=tutorial ]landmarks[/System:Color], and [System:Color name=tutorial ]Secret Areas / Viewpoints[/System:Color]."
     },
     {
       "$id": 530,
       "style": 160,
-      "name": "You can [System:Color name=tutorial ]instantly travel [/System:Color]to any previously-discovered\n[System:Color name=tutorial ]landmark [/System:Color]or [System:Color name=tutorial ]secret area[/System:Color] from the [System:Color name=tutorial ]Skip Travel menu[/System:Color]\nfound in the Main Menu."
+      "name": "You can [System:Color name=tutorial ]instantly travel[/System:Color] to any discovered [System:Color name=tutorial ]landmark[/System:Color] or\n[System:Color name=tutorial ]Secret Area / Viewpoint[/System:Color] from [System:Color name=tutorial ]Skip Travel[/System:Color] in the Main Menu."
     },
     {
       "$id": 531,
@@ -2748,7 +2748,7 @@
     {
       "$id": 548,
       "style": 160,
-      "name": "By combining [System:Color name=tutorial ]Vanguard Switching [/System:Color]and [System:Color name=tutorial ]Blade Switching[/System:Color],\nyou can choose the battle participants to suit your\nplay style, or as the situation requires."
+      "name": "By combining [System:Color name=tutorial ]Attacker Switching [/System:Color]and [System:Color name=tutorial ]Blade Switching[/System:Color],\nyou can choose the battle participants to suit your\nplay style, or as the situation requires."
     },
     {
       "$id": 549,
@@ -2788,12 +2788,12 @@
     {
       "$id": 556,
       "style": 160,
-      "name": "Divine Beasts, the great continents of Alst, are living beings,\nand one of the waste products they generate manifests\nas [System:Color name=tutorial ]ether miasma[/System:Color]."
+      "name": "Divine Beasts, the lands of Alst, are living beings.\nThe waste they produce as they live is [System:Color name=tutorial ]ether miasma[/System:Color]."
     },
     {
       "$id": 557,
       "style": 160,
-      "name": "Ether miasma tends to attract monsters, so [System:Color name=tutorial ]removing it[/System:Color]\nisn't the safest of occupations. It is, however, rewarding,\nas doing so [System:Color name=tutorial ]unlocks a new collection point [/System:Color]each time."
+      "name": "Ether miasma can attract monsters, so it is dangerous. If you\n[System:Color name=tutorial ]clear the miasma[/System:Color], a [System:Color name=tutorial ]new Collection Point[/System:Color] will appear."
     },
     {
       "$id": 558,
@@ -2833,12 +2833,12 @@
     {
       "$id": 565,
       "style": 160,
-      "name": "The [System:Color name=tutorial ]goodwill Laura and her friends create[/System:Color] is known\nas [System:Color name=tutorial ]Community[/System:Color]."
+      "name": "The [System:Color name=tutorial ]proof that people support Laura and her companions[/System:Color]\nis known as [System:Color name=tutorial ]Community[/System:Color]."
     },
     {
       "$id": 566,
       "style": 160,
-      "name": "The foundation of Community is talking to the many\nand various inhabitants of Alst. Speak to a person,\nand you'll learn their name, job, and location."
+      "name": "Community begins by talking to people in Alst. Their name,\njob, and location are then added to the Community menu."
     },
     {
       "$id": 567,
@@ -2848,17 +2848,17 @@
     {
       "$id": 568,
       "style": 160,
-      "name": "Resolve an issue that a person listed in the Community\nmenu is struggling with, and they'll give you a token of\ntheir support for you."
+      "name": "Resolve problems faced by people in the Community menu\nto gain Community."
     },
     {
       "$id": 569,
       "style": 160,
-      "name": "Collect a lot, and your [System:Color name=tutorial ]Community will grow stronger[/System:Color]!\nRaising the Community level will cause [System:Color name=tutorial ]more quests\nto become available[/System:Color]. What comes around goes around!"
+      "name": "Gather enough to raise your [System:Color name=tutorial ]Community Level[/System:Color]. Raising it makes\n[System:Color name=tutorial ]new quests[/System:Color] appear. This is how bonds between people grow into\na wider circle."
     },
     {
       "$id": 570,
       "style": 160,
-      "name": "Spreading the Community spirit lets Laura, Shin, and their\nallies make their mark on the world. Doing good for the\nbenefit of Alst is its own reward!"
+      "name": "Community's spread shows how Laura, Shin, and others lived.\nTheir experiences, gratitude, and support are the reward.\nEnjoy the stories of Alst's people."
     },
     {
       "$id": 571,
@@ -2868,12 +2868,12 @@
     {
       "$id": 572,
       "style": 160,
-      "name": "The four statuses are: [System:Color name=tutorial ]Break[/System:Color], [System:Color name=tutorial ]Topple[/System:Color], [System:Color name=tutorial ]Launch[/System:Color], [System:Color name=tutorial ]Smash[/System:Color].\nInflicting them [System:Color name=tutorial ]in that order[/System:Color], starting with Break, is\ncalled a [System:Color name=tutorial ]Driver Combo[/System:Color]."
+      "name": "The four statuses are: [System:Color name=tutorial ]Break[/System:Color], [System:Color name=tutorial ]Down[/System:Color], [System:Color name=tutorial ]Rising[/System:Color], [System:Color name=tutorial ]Smash[/System:Color].\nInflicting them [System:Color name=tutorial ]in that order[/System:Color], starting with Break, is\ncalled a [System:Color name=tutorial ]Driver Combo[/System:Color]."
     },
     {
       "$id": 573,
       "style": 160,
-      "name": "From Topple onward, inflicting the status will cause\nfoes to drop HP Potions, and they won't fight back.\nYou can use this to your advantage in battle!"
+      "name": "From Down onward, inflicting the status will cause\nfoes to drop HP Potions, and they won't fight back.\nYou can use this to your advantage in battle!"
     },
     {
       "$id": 574,
@@ -2908,17 +2908,17 @@
     {
       "$id": 580,
       "style": 160,
-      "name": "You can continue a Blade Combo [System:Color name=tutorial ]all the way to stage 3[/System:Color]\nwith [System:Color name=tutorial ]Specials of any element[/System:Color], as long as you keep to the\nlevel requirements, but there are some fixed routes."
+      "name": "You can continue a Blade Combo [System:Color name=tutorial ]all the way to stage 3[/System:Color]\nwith [System:Color name=tutorial ]Specials of any element[/System:Color] if you follow the level order,\nbut some element combinations form a Critical Route."
     },
     {
       "$id": 581,
       "style": 160,
-      "name": "These [System:Color name=tutorial ]critical routes [/System:Color]number [System:Color name=tutorial ]16 in total[/System:Color], and they're\ncomposed of a particular sequence of elements.\nFor example, one such route is [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Light[/System:Color]."
+      "name": "These [System:Color name=tutorial ]Critical Routes [/System:Color]number [System:Color name=tutorial ]16 in total[/System:Color], and they're\ncomposed of a particular sequence of elements.\nFor example, one such route is [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Light[/System:Color]."
     },
     {
       "$id": 582,
       "style": 160,
-      "name": "A finished critical route will trigger a [System:Color name=tutorial ]special animation\n[/System:Color]and [System:Color name=tutorial ]cause extra damage[/System:Color], so be on the lookout for the\nother 15 special element sequences!"
+      "name": "A finished Critical Route will trigger a [System:Color name=tutorial ]special animation\n[/System:Color]and [System:Color name=tutorial ]cause extra damage[/System:Color], so be on the lookout for the\nother 15 special element sequences!"
     },
     {
       "$id": 583,
@@ -2938,22 +2938,22 @@
     {
       "$id": 586,
       "style": 160,
-      "name": "You can continue a Blade Combo [System:Color name=tutorial ]all the way to stage 3[/System:Color]\nwith [System:Color name=tutorial ]Specials of any element[/System:Color], as long as you keep to the\nlevel requirements, but there are some fixed routes."
+      "name": "You can continue a Blade Combo [System:Color name=tutorial ]all the way to stage 3[/System:Color]\nwith [System:Color name=tutorial ]Specials of any element[/System:Color] if you follow the level order,\nbut some element combinations form a Critical Route."
     },
     {
       "$id": 587,
       "style": 160,
-      "name": "These [System:Color name=tutorial ]critical routes [/System:Color]number [System:Color name=tutorial ]16 in total[/System:Color], and they're\ncomposed of a particular sequence of elements.\nFor example, one such route is [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Light[/System:Color]."
+      "name": "These [System:Color name=tutorial ]Critical Routes [/System:Color]number [System:Color name=tutorial ]16 in total[/System:Color], and they're\ncomposed of a particular sequence of elements.\nFor example, one such route is [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Fire [/System:Color]> [System:Color name=tutorial ]Light[/System:Color]."
     },
     {
       "$id": 588,
       "style": 160,
-      "name": "A finished critical route will trigger a [System:Color name=tutorial ]special animation\n[/System:Color]and [System:Color name=tutorial ]cause extra damage[/System:Color], so be on the lookout for the\nother 15 special element sequences!"
+      "name": "A finished Critical Route will trigger a [System:Color name=tutorial ]special animation\n[/System:Color]and [System:Color name=tutorial ]cause extra damage[/System:Color], so be on the lookout for the\nother 15 special element sequences!"
     },
     {
       "$id": 589,
       "style": 160,
-      "name": "Contributing to a Blade Combo will cause [System:Color name=tutorial ]element orbs\n[/System:Color]to start orbiting the enemy. You can then destroy them\nand [System:Color name=tutorial ]inflict other special effects [/System:Color]by using a [System:Color name=tutorial ]Chain Attack[/System:Color]."
+      "name": "Completing a Blade Combo places an [System:Color name=tutorial ]element orb[/System:Color] on the enemy.\nDestroying it with a [System:Color name=tutorial ]Chain Attack[/System:Color] will [System:Color name=tutorial ]produce\nadditional effects[/System:Color]."
     },
     {
       "$id": 590,
@@ -2963,12 +2963,12 @@
     {
       "$id": 591,
       "style": 160,
-      "name": "When an orb is hit [System:Color name=tutorial ]three times[/System:Color], it will be destroyed.\nA [System:Color name=tutorial ]Special of the opposite element [/System:Color]to an orb on the\nenemy will [System:Color name=tutorial ]count for two hits[/System:Color]. This last part is key!"
+      "name": "An Element Orb breaks after [System:Color name=tutorial ]three Special hits[/System:Color]. A [System:Color name=tutorial ]Special of\nthe opposite element[/System:Color] to the orb [System:Color name=tutorial ]counts as two hits[/System:Color].\nUse this to your advantage."
     },
     {
       "$id": 592,
       "style": 160,
-      "name": "Destroying an orb has a lot of nice effects: it [System:Color name=tutorial ]extends\nthe Chain Attack[/System:Color], [System:Color name=tutorial ]raises the damage bonus[/System:Color], [System:Color name=tutorial ]fills up the\nFull Burst gauge[/System:Color], and [System:Color name=tutorial ]recharges used characters[/System:Color]."
+      "name": "Destroying an orb [System:Color name=tutorial ]extends the Chain Attack[/System:Color], [System:Color name=tutorial ]raises the damage\nbonus[/System:Color], [System:Color name=tutorial ]fills the Full Burst gauge[/System:Color], and [System:Color name=tutorial ]restores Recast for\ncharacters who have already acted[/System:Color]."
     },
     {
       "$id": 593,
@@ -2978,7 +2978,7 @@
     {
       "$id": 594,
       "style": 160,
-      "name": "If you succeed in the [System:Color name=tutorial ]button challenge [/System:Color]that appears \nwhen the round is extended, the [System:Color name=tutorial ]Specials you use will\nget a level up [/System:Color]and be [System:Color name=tutorial ]recharged[/System:Color], so be ready for it!"
+      "name": "Succeeding at the [System:Color name=tutorial ]button challenge[/System:Color] when a round is extended\n[System:Color name=tutorial ]raises the level of your Specials[/System:Color] and [System:Color name=tutorial ]restores their Recast[/System:Color],\nso time the button press carefully."
     },
     {
       "$id": 595,
@@ -2998,12 +2998,12 @@
     {
       "$id": 598,
       "style": 160,
-      "name": "You've unlocked the ability to change party order!\nTo do so, go to [System:Color name=tutorial ]Main Menu [/System:Color]> [System:Color name=tutorial ]Characters[/System:Color], then press\n[System:Color name=tutorial ][ML:icon icon=X ][/System:Color] and choose which team you want to control."
+      "name": "You've unlocked Formation Change!\nGo to [System:Color name=tutorial ]Main Menu [/System:Color]> [System:Color name=tutorial ]Characters[/System:Color], then press\n[System:Color name=tutorial ][ML:icon icon=X ][/System:Color] to change the team you control."
     },
     {
       "$id": 599,
       "style": 160,
-      "name": "The team in [System:Color name=tutorial ]position 1 [/System:Color]will be under your\n[System:Color name=tutorial ]direct control[/System:Color]."
+      "name": "In Formation Change, the team in [System:Color name=tutorial ]position 1 [/System:Color]will be\nunder your [System:Color name=tutorial ]direct control[/System:Color]."
     },
     {
       "$id": 600,
@@ -3013,22 +3013,22 @@
     {
       "$id": 601,
       "style": 160,
-      "name": "You might find certain mysterious stone pillars on your\nadventures, called [System:Color name=tutorial ]Barney Stones[/System:Color]. They're a feature\nthat's unique to Iira."
+      "name": "You might find certain mysterious stone pillars on your\nadventures, called [System:Color name=tutorial ]Sealstones[/System:Color]. They're a feature\nthat's unique to Iira."
     },
     {
       "$id": 602,
       "style": 160,
-      "name": "Checking out a Barney Stone means [System:Color name=tutorial ]you'll have to\nfight off some monsters[/System:Color], but if you can manage it,\nyou'll get some [System:Color name=tutorial ]hidden treasure[/System:Color]. Preparation is key!"
+      "name": "Checking out a Sealstone means [System:Color name=tutorial ]you'll have to\nfight off some monsters[/System:Color], but if you can manage it,\nyou'll get some [System:Color name=tutorial ]hidden treasure[/System:Color]. Preparation is key!"
     },
     {
       "$id": 603,
       "style": 160,
-      "name": "A [System:Color name=tutorial ]Seeker [/System:Color]is an item which [System:Color name=tutorial ]Hugo can craft[/System:Color]. With it,\nyou'll be able to investigate the [System:Color name=tutorial ]old machines [/System:Color]strewn\naround the world and obtain [System:Color name=tutorial ]new kinds of Collectibles[/System:Color]."
+      "name": "A [System:Color name=tutorial ]Search Machine[/System:Color] is an item [System:Color name=tutorial ]Yuugo can craft[/System:Color]. It lets you\ninspect [System:Color name=tutorial ]old machines[/System:Color] around the world and obtain\n[System:Color name=tutorial ]Collectibles you could not get before[/System:Color]."
     },
     {
       "$id": 604,
       "style": 160,
-      "name": "There are [System:Color name=tutorial ]two different kinds [/System:Color]of Seeker, and each lets\nyou investigate a [System:Color name=tutorial ]different kind of machine[/System:Color]. It's worth\ngetting both, then gathering all the Collectibles you can!"
+      "name": "There are [System:Color name=tutorial ]two kinds[/System:Color] of Search Machine, and each can inspect\n[System:Color name=tutorial ]different machines[/System:Color]. Make both and gather lots of Collectibles."
     },
     {
       "$id": 605,
@@ -3048,22 +3048,22 @@
     {
       "$id": 608,
       "style": 160,
-      "name": "When [System:Color name=tutorial ]all three sections [/System:Color]of the gauge are charged,\npress [System:Color name=tutorial ][ML:icon icon=plus ][/System:Color] to make Siren use an [System:Color name=tutorial ]Artifice Art[/System:Color]."
+      "name": "When [System:Color name=tutorial ]all three sections [/System:Color]of the gauge are charged,\npress [System:Color name=tutorial ][ML:icon icon=plus ][/System:Color] to make Siren use an [System:Color name=tutorial ]Device Art[/System:Color]."
     },
     {
       "$id": 609,
       "style": 160,
-      "name": "Artifice Arts will not only [System:Color name=tutorial ]deal damage to Metsu's Siren[/System:Color],\nthey'll also [System:Color name=tutorial ]boost your team's attack power[/System:Color]."
+      "name": "Device Arts will not only [System:Color name=tutorial ]deal damage to Metsu's Siren[/System:Color],\nthey'll also [System:Color name=tutorial ]boost your team's attack power[/System:Color]."
     },
     {
       "$id": 610,
       "style": 160,
-      "name": "Similarly, [System:Color name=tutorial ]Metsu also has a Siren Gauge he will charge[/System:Color].\nWhen the gauge is full, he will [System:Color name=tutorial ]attack Hikari's Siren[/System:Color]\nwith Artifice Arts, and [System:Color name=tutorial ]get a boost to his own attack[/System:Color]."
+      "name": "Similarly, [System:Color name=tutorial ]Metsu also has a Siren Gauge he will charge[/System:Color].\nWhen the gauge is full, he will [System:Color name=tutorial ]attack Hikari's Siren[/System:Color]\nwith Device Arts and [System:Color name=tutorial ]gain an attack power boost[/System:Color]."
     },
     {
       "$id": 611,
       "style": 160,
-      "name": "The Artifice Arts [System:Color name=tutorial ]get stronger the more they are used[/System:Color],\nso the key to prevailing is to try and reach the higher-\nlevel Artifice Arts before Metsu does."
+      "name": "The Device Arts [System:Color name=tutorial ]get stronger the more they are used[/System:Color],\nso the key to prevailing is to try and reach the higher-\nlevel Device Arts before Metsu does."
     },
     {
       "$id": 612,
@@ -3143,7 +3143,7 @@
     {
       "$id": 627,
       "style": 160,
-      "name": "Improving Driver Equipment\nAccessories: [System:Color name=tutorial ]Equip accessories[/System:Color] you own.\n(Weapon slot accessories come from defeated foes.)"
+      "name": "Improving Driver Equipment\nEquip Accessories: [System:Color name=tutorial ]Equip accessories[/System:Color] you own.\n(Weapon slot accessories come from defeated foes.)"
     },
     {
       "$id": 628,
@@ -3158,22 +3158,22 @@
     {
       "$id": 630,
       "style": 160,
-      "name": "Improving Blade Equipment\nWpn. Mod.: Use [System:Color name=tutorial ]Core Chips[/System:Color], mostly found as treasure.\nAssist Cores: Equip [System:Color name=tutorial ]Assist Cores[/System:Color], mostly dropped by foes."
+      "name": "Improving Blade Equipment\nWeapon Enhancement: Use [System:Color name=tutorial ]Core Chips[/System:Color], mostly found as treasure.\nAssist Cores: Equip [System:Color name=tutorial ]Assist Cores[/System:Color], mostly dropped by foes."
     },
     {
       "$id": 631,
       "style": 160,
-      "name": "Laura's Talent Art [System:Color name=tutorial ]sacrifices half of her HP [/System:Color]in order to\n[System:Color name=tutorial ]fully recharge all of her Arts[/System:Color]. If you're flush with HP,\nuse it and hammer the enemy with all you've got."
+      "name": "Laura's Talent Art [System:Color name=tutorial ]sacrifices half of her HP [/System:Color]in order\nto [System:Color name=tutorial ]fully restore all of her Arts' Recast[/System:Color]. If you're flush\nwith HP, use it and hammer the enemy with all you've got."
     },
     {
       "$id": 632,
       "style": 160,
-      "name": "Shin's Talent Art lets him [System:Color name=tutorial ]temporarily boost his attack[/System:Color],\n[System:Color name=tutorial ]accuracy[/System:Color], [System:Color name=tutorial ]evasion [/System:Color]and [System:Color name=tutorial ]speed [/System:Color]in proportion to [System:Color name=tutorial ]how much\nrecoverable HP [/System:Color]he has. More HP means bigger boost."
+      "name": "Shin's Talent Art temporarily boosts his [System:Color name=tutorial ]attack[/System:Color], [System:Color name=tutorial ]accuracy[/System:Color],\n[System:Color name=tutorial ]evasion[/System:Color], and [System:Color name=tutorial ]speed[/System:Color] according to [System:Color name=tutorial ]how much Reserve HP[/System:Color]\nhe has. The more Reserve HP, the greater the boost."
     },
     {
       "$id": 633,
       "style": 160,
-      "name": "Kasumi's Talent Art [System:Color name=tutorial ]completely drains the charge on all\nof her Vanguard Arts [/System:Color]and in return [System:Color name=tutorial ]immobilizes enemies\nfor a time[/System:Color]. It's super powerful, but requires good timing."
+      "name": "Kasumi's Talent Art [System:Color name=tutorial ]consumes all Recast for her Attacker Arts[/System:Color]\nto [System:Color name=tutorial ]stop enemies for a time[/System:Color]. It is very powerful, so choose\nthe timing carefully."
     },
     {
       "$id": 634,
@@ -3183,7 +3183,7 @@
     {
       "$id": 635,
       "style": 160,
-      "name": "Leading with Laura's [System:Color name=tutorial ]Hungry Snake [/System:Color]Art, then quickly\nVanguard Switching to Shin to inflict Topple is a strong\nplay. Low on HP? Vanguard Switch to [System:Color name=tutorial ]Kasumi and heal[/System:Color]."
+      "name": "Use Laura's [System:Color name=tutorial ]Flowing Pull Kick[/System:Color], then Attacker Switch to Shin\nto inflict Down. It's a strong combo. When [System:Color name=tutorial ]you're in trouble,\nAttacker Switch to Kasumi to heal[/System:Color]."
     },
     {
       "$id": 636,
@@ -3198,7 +3198,7 @@
     {
       "$id": 638,
       "style": 160,
-      "name": "Minochi's Talent Art can be used [System:Color name=tutorial ]at maximum Affinity[/System:Color].\nIt [System:Color name=tutorial ]doubles the next Art's damage, and triples the aggro[/System:Color].\nUsing it too often can bring too much heat to handle."
+      "name": "Minochi's Talent Art can be used [System:Color name=tutorial ]at maximum Bonding[/System:Color].\nIt [System:Color name=tutorial ]doubles the next Art's damage, and triples the aggro[/System:Color].\nUsing it too often can bring too much heat to handle."
     },
     {
       "$id": 639,
@@ -3208,32 +3208,32 @@
     {
       "$id": 640,
       "style": 160,
-      "name": "Use Adel's [System:Color name=tutorial ]Rising Arc [/System:Color]Art on a Toppled enemy, then\nVanguard Switch to Hikari for a quick and easy Smash.\nThis will deal huge damage, and spawn HP Potions too."
+      "name": "Use Adel's [System:Color name=tutorial ]Sword Flick[/System:Color] on an enemy in Down, then Attacker\nSwitch to Hikari to continue into Smash. Aim for it to deal\nheavy damage and spawn HP Potions."
     },
     {
       "$id": 641,
       "style": 160,
-      "name": "Hugo's Talent Art [System:Color name=tutorial ]costs a portion of his HP [/System:Color]and [System:Color name=tutorial ]forces\nenemies to target him for a while[/System:Color]. Using Guard Shift\nright after is a strong defensive move."
+      "name": "Yuugo's Talent Art [System:Color name=tutorial ]costs a portion of his HP [/System:Color]and [System:Color name=tutorial ]forces\nenemies to target him for a while[/System:Color]. Using Guard Shift\nright after is a strong defensive move."
     },
     {
       "$id": 642,
       "style": 160,
-      "name": "Kagutsuchi's Talent Art can be used [System:Color name=tutorial ]when her health is low[/System:Color].\nIt [System:Color name=tutorial ]damages foes while empowering her allies' attacks[/System:Color].\nThere's no cost to it, so use it whenever your HP is low."
+      "name": "Kagutsuchi's Talent Art can be used [System:Color name=tutorial ]when her HP is low[/System:Color].\nIt [System:Color name=tutorial ]damages enemies and strengthens allied attacks[/System:Color]. There is no\ndownside, so use it right away when her HP is low."
     },
     {
       "$id": 643,
       "style": 160,
-      "name": "Wadatsumi's Talent Art is great [System:Color name=tutorial ]when you're struggling[/System:Color].\nFor a time, [System:Color name=tutorial ]you'll counterattack when you evade[/System:Color].\nPair it with [System:Color name=tutorial ]Breaking Wave [/System:Color]and watch foes drop."
+      "name": "Wadatsumi's Talent Art helps [System:Color name=tutorial ]when the party is in trouble[/System:Color].\nFor a time, [System:Color name=tutorial ]evading triggers a powerful counterattack[/System:Color].\nPair it with the evasion Art [System:Color name=tutorial ]Wave Breaker[/System:Color]."
     },
     {
       "$id": 644,
       "style": 160,
-      "name": "Team Hugo [System:Color name=tutorial ]excels at defense[/System:Color], evading and blocking\nenemy attacks with ease. Their role is to [System:Color name=tutorial ]focus enemy\naggro on themselves and protect their allies[/System:Color]."
+      "name": "Team Yuugo [System:Color name=tutorial ]excels at defense[/System:Color], evading and blocking\nenemy attacks with ease. Their role is to [System:Color name=tutorial ]focus enemy\naggro on themselves and protect their allies[/System:Color]."
     },
     {
       "$id": 645,
       "style": 160,
-      "name": "Kagutsuchi has Support Arts that reduce enemy defense,\nwhile Wadatsumi's can empower the vanguard. [System:Color name=tutorial ]Switching\nbetween Blades to match the situation [/System:Color]is important."
+      "name": "Kagutsuchi's Supporter Arts lower enemy physical defense;\nWadatsumi's Supporter Arts support the Attacker.\n[System:Color name=tutorial ]Switch Blades to suit the situation[/System:Color]."
     },
     {
       "$id": 646,
@@ -3263,17 +3263,17 @@
     {
       "$id": 651,
       "style": 160,
-      "name": "When you get an [System:Color name=tutorial ]Affinity Reward[/System:Color] for fulfilling a\ncondition on a Blade's [System:Color name=tutorial ]Bonding Ring[/System:Color], you'll get\na [System:Color name=tutorial ]pop-up[/System:Color] notification."
+      "name": "On a Blade's [System:Color name=tutorial ]Bonding Ring[/System:Color], completing an assigned [System:Color name=tutorial ]Bonding Gift[/System:Color]\ntriggers a [System:Color name=tutorial ]pop-up[/System:Color] notification."
     },
     {
       "$id": 652,
       "style": 160,
-      "name": "The Affinity Reward itself won't be unlocked\nat this point, though, so you won't notice any\ndifference just yet."
+      "name": "At this point, however, the Bonding Gift has not actually been\nunlocked, so the Blade has not developed yet."
     },
     {
       "$id": 653,
       "style": 160,
-      "name": "When you get the Affinity Reward pop-up,\n[System:Color name=tutorial ]be sure to check the unlocked ability in the menu[/System:Color].\nIf you don't, the Blade won't develop."
+      "name": "When a Bonding Gift pop-up appears, [System:Color name=tutorial ]open the menu and confirm\nthe ability has been unlocked[/System:Color]. This is how the Blade develops."
     },
     {
       "$id": 654,
@@ -3293,7 +3293,7 @@
     {
       "$id": 657,
       "style": 160,
-      "name": "But, who knows? As the adventure continues,\nAdel and Hugo might pick up this skill too, one day.\nUntil then, do your best working with what you've got!"
+      "name": "But, who knows? As the adventure continues,\nAdel and Yuugo might pick up this skill too, one day.\nUntil then, do your best working with what you've got!"
     },
     {
       "$id": 658,
@@ -3303,7 +3303,7 @@
     {
       "$id": 659,
       "style": 160,
-      "name": "You'll be able to engage her to any Driver\n(except Tora) [System:Color name=tutorial ]without having to use an\nOverdrive Protocol[/System:Color]."
+      "name": "You'll be able to engage her to any Driver\n(except Tora) [System:Color name=tutorial ]without having to use an\nOverdrive[/System:Color]."
     },
     {
       "$id": 660,
@@ -3323,32 +3323,32 @@
     {
       "$id": 663,
       "style": 160,
-      "name": "Rumor has it that among the various rewards that the\nNopon Archsage gives out for his Challenge Battles is\nan item that will let Elma enter Alst."
+      "name": "Rumor has it that among the various rewards that the\nNopon Great Sage gives out for his Challenge Battles is\nan item that will let Elma enter Alst."
     },
     {
       "$id": 664,
       "style": 160,
-      "name": "Engaging [System:Color name=tutorial ]Overdrive [/System:Color]is a special ability that Elma has.\nTo use it, press [System:Color name=tutorial ][ML:icon icon=R ] and [ML:icon icon=minus ] [/System:Color]with Elma on the battlefield.\nDoing this requires a [System:Color name=tutorial ]fully filled Party Gauge[/System:Color]."
+      "name": "Engaging [System:Color name=tutorial ]Overclock Gear [/System:Color]is a special ability that Elma has.\nTo use it, press [System:Color name=tutorial ][ML:icon icon=R ] and [ML:icon icon=minus ] [/System:Color]with Elma on the battlefield.\nDoing this requires a [System:Color name=tutorial ]fully filled Party Gauge[/System:Color]."
     },
     {
       "$id": 665,
       "style": 160,
-      "name": "[System:Color name=tutorial ]Hit with Arts while Overdrive is engaged[/System:Color], and the hits\nwill be counted on the [System:Color name=tutorial ]Overdrive Counter [/System:Color]in the middle\nof the screen. Hits with [System:Color name=tutorial ]Specials count at a 5x rate[/System:Color]."
+      "name": "[System:Color name=tutorial ]Hit with Arts while Overclock Gear is active[/System:Color], and the hits are\nshown on the [System:Color name=tutorial ]Gear Count[/System:Color] in the center of the screen.\n[System:Color name=tutorial ]Specials count five times[/System:Color]."
     },
     {
       "$id": 666,
       "style": 160,
-      "name": "You can gain [System:Color name=tutorial ]three kinds of bonuses [/System:Color]by raising the\nhit count: [System:Color name=tutorial ]damage boost[/System:Color], [System:Color name=tutorial ]recharge boost[/System:Color],[System:Color name=tutorial ] lower enemy\nresistance[/System:Color]. The effect increases with the hit count."
+      "name": "As the Gear Count rises, you gain [System:Color name=tutorial ]three bonuses[/System:Color]: [System:Color name=tutorial ]increased\ndamage[/System:Color], [System:Color name=tutorial ]increased Recast[/System:Color], and [System:Color name=tutorial ]lower enemy resistance[/System:Color].\nThe higher the count, the stronger the effects."
     },
     {
       "$id": 667,
       "style": 160,
-      "name": "You can increase the [System:Color name=tutorial ]duration [/System:Color]of Overdrive by filling up\nthe entire Party Gauge while Overdrive is engaged, and\nthen [System:Color name=tutorial ]activating Overdrive again[/System:Color]."
+      "name": "You can increase the [System:Color name=tutorial ]duration [/System:Color]of Overclock Gear by filling up\nthe entire Party Gauge while Overclock Gear is engaged, and\nthen [System:Color name=tutorial ]activating Overclock Gear again[/System:Color]."
     },
     {
       "$id": 668,
       "style": 160,
-      "name": "However, [System:Color name=tutorial ]while Overdrive is in effect[/System:Color], [System:Color name=tutorial ]Party Gauge gain\nis reduced[/System:Color], and you [System:Color name=tutorial ]can't use Chain Attacks[/System:Color]. Be mindful\nof the downsides as you think of the best time to use it!"
+      "name": "However, [System:Color name=tutorial ]while Overclock Gear is active[/System:Color], [System:Color name=tutorial ]Party Gauge gain\nis reduced[/System:Color], and you [System:Color name=tutorial ]cannot use Chain Attacks[/System:Color]. Use it at the\nright time while keeping these drawbacks in mind."
     },
     {
       "$id": 669,
@@ -3388,7 +3388,7 @@
     {
       "$id": 676,
       "style": 160,
-      "name": "To do so, simply select her on the right Driver's\n[System:Color name=tutorial ]Engage Blades screen[/System:Color]."
+      "name": "To do so, simply select her on the right Driver's\n[System:Color name=tutorial ]Blade Engage screen[/System:Color]."
     }
   ]
 }

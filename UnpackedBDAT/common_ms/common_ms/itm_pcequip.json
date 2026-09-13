@@ -28,7 +28,7 @@
     {
       "$id": 4,
       "style": 36,
-      "name": "Divine Beastium Vest"
+      "name": "Titanium Vest"
     },
     {
       "$id": 5,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 36,
-      "name": "Infantry Vest"
+      "name": "Mercenary Vest"
     },
     {
       "$id": 22,
@@ -248,12 +248,12 @@
     {
       "$id": 48,
       "style": 36,
-      "name": "Goddess Banner"
+      "name": "War Goddess Banner"
     },
     {
       "$id": 49,
       "style": 36,
-      "name": "Ancient Banner"
+      "name": "Ancient Emblem Banner"
     },
     {
       "$id": 50,
@@ -393,7 +393,7 @@
     {
       "$id": 77,
       "style": 36,
-      "name": "Camo Hood"
+      "name": "Ghillie Hood"
     },
     {
       "$id": 78,
@@ -418,22 +418,22 @@
     {
       "$id": 82,
       "style": 36,
-      "name": "Colorful Feather"
+      "name": "Vivid Bird Feather"
     },
     {
       "$id": 83,
       "style": 36,
-      "name": "Silver Feather"
+      "name": "Silver Bird Feather"
     },
     {
       "$id": 84,
       "style": 36,
-      "name": "Phantom Feather"
+      "name": "Phantom Bird Feather"
     },
     {
       "$id": 85,
       "style": 36,
-      "name": "Grandarbor Ward"
+      "name": "Great Tree Ward"
     },
     {
       "$id": 86,
@@ -473,7 +473,7 @@
     {
       "$id": 93,
       "style": 36,
-      "name": "Holy Necklace"
+      "name": "Saintess Necklace"
     },
     {
       "$id": 94,
@@ -488,7 +488,7 @@
     {
       "$id": 96,
       "style": 36,
-      "name": "Military Medal"
+      "name": "General's Medal"
     },
     {
       "$id": 97,
@@ -513,7 +513,7 @@
     {
       "$id": 101,
       "style": 36,
-      "name": "Iron Gauntlet"
+      "name": "Black-Steel Gauntlet"
     },
     {
       "$id": 102,
@@ -523,7 +523,7 @@
     {
       "$id": 103,
       "style": 36,
-      "name": "Leader's Eyepatch"
+      "name": "Overlord Eyepatch"
     },
     {
       "$id": 104,
@@ -638,7 +638,7 @@
     {
       "$id": 126,
       "style": 36,
-      "name": "Whip Attachment"
+      "name": "Saber Attachment"
     },
     {
       "$id": 127,
@@ -698,7 +698,7 @@
     {
       "$id": 138,
       "style": 36,
-      "name": "Cheer Treat"
+      "name": "Cheer Pom-Poms"
     },
     {
       "$id": 139,
@@ -708,12 +708,12 @@
     {
       "$id": 140,
       "style": 36,
-      "name": "Love Thread"
+      "name": "Passion Thread"
     },
     {
       "$id": 141,
       "style": 36,
-      "name": "Passion Thread"
+      "name": "Fervor Thread"
     },
     {
       "$id": 142,
@@ -753,22 +753,22 @@
     {
       "$id": 149,
       "style": 36,
-      "name": "Incense of Calm"
+      "name": "Calming Perfume"
     },
     {
       "$id": 150,
       "style": 36,
-      "name": "Incense of Insight"
+      "name": "Enlightenment Perfume"
     },
     {
       "$id": 151,
       "style": 36,
-      "name": "Priestess's Auspices"
+      "name": "Shrine Maiden Charm"
     },
     {
       "$id": 152,
       "style": 36,
-      "name": "Sage's Auspices"
+      "name": "Sage's Charm"
     },
     {
       "$id": 153,
@@ -788,7 +788,7 @@
     {
       "$id": 156,
       "style": 36,
-      "name": "Avian Totem Carving"
+      "name": "Bird Totem Statue"
     },
     {
       "$id": 157,
@@ -808,7 +808,7 @@
     {
       "$id": 160,
       "style": 36,
-      "name": "Augmented Vision Kit"
+      "name": "Search Vision"
     },
     {
       "$id": 161,
@@ -868,7 +868,7 @@
     {
       "$id": 172,
       "style": 36,
-      "name": "Beast-Hide Vest"
+      "name": "Beast-Hide Belt"
     },
     {
       "$id": 173,
@@ -923,7 +923,7 @@
     {
       "$id": 183,
       "style": 36,
-      "name": "Divine Vambraces"
+      "name": "Goddess Vambraces"
     },
     {
       "$id": 184,
@@ -948,7 +948,7 @@
     {
       "$id": 188,
       "style": 36,
-      "name": "Violent Stone"
+      "name": "Brutal Stone"
     },
     {
       "$id": 189,
@@ -973,7 +973,7 @@
     {
       "$id": 193,
       "style": 36,
-      "name": "Gargantuan Feather"
+      "name": "Giant Bird Feather"
     },
     {
       "$id": 194,
@@ -988,7 +988,7 @@
     {
       "$id": 196,
       "style": 36,
-      "name": "Beatific Medal"
+      "name": "Holy King's Medal"
     },
     {
       "$id": 197,
@@ -998,7 +998,7 @@
     {
       "$id": 198,
       "style": 36,
-      "name": "Noise Dampener"
+      "name": "Noise Canceller"
     },
     {
       "$id": 199,
@@ -1043,72 +1043,72 @@
     {
       "$id": 207,
       "style": 36,
-      "name": "Pyro Greatsword"
+      "name": "Flame Claymore"
     },
     {
       "$id": 208,
       "style": 36,
-      "name": "Aqua Greatsword"
+      "name": "Aqua Claymore"
     },
     {
       "$id": 209,
       "style": 36,
-      "name": "Aero Greatsword"
+      "name": "Wind Claymore"
     },
     {
       "$id": 210,
       "style": 36,
-      "name": "Geo Greatsword"
+      "name": "Earth Claymore"
     },
     {
       "$id": 211,
       "style": 36,
-      "name": "Electro Greatsword"
+      "name": "Thunder Claymore"
     },
     {
       "$id": 212,
       "style": 36,
-      "name": "Glacio Greatsword"
+      "name": "Ice Claymore"
     },
     {
       "$id": 213,
       "style": 36,
-      "name": "Umbra Greatsword"
+      "name": "Dark Claymore"
     },
     {
       "$id": 214,
       "style": 36,
-      "name": "Inferno Sword"
+      "name": "Flame Longsword"
     },
     {
       "$id": 215,
       "style": 36,
-      "name": "Tempest Sword"
+      "name": "Aqua Longsword"
     },
     {
       "$id": 216,
       "style": 36,
-      "name": "Vortex Sword"
+      "name": "Wind Longsword"
     },
     {
       "$id": 217,
       "style": 36,
-      "name": "Seismic Sword"
+      "name": "Earth Longsword"
     },
     {
       "$id": 218,
       "style": 36,
-      "name": "Fulmen Sword"
+      "name": "Thunder Longsword"
     },
     {
       "$id": 219,
       "style": 36,
-      "name": "Arctic Sword"
+      "name": "Ice Longsword"
     },
     {
       "$id": 220,
       "style": 36,
-      "name": "Cimmerian Sword"
+      "name": "Dark Longsword"
     },
     {
       "$id": 221,
@@ -1118,12 +1118,12 @@
     {
       "$id": 222,
       "style": 36,
-      "name": "Candy Stripe Nia"
+      "name": "Cherry-Pink Outfit Nia"
     },
     {
       "$id": 223,
       "style": 36,
-      "name": "Buster-Mode Tora"
+      "name": "Tora Gyun-Gyun Mode"
     },
     {
       "$id": 224,
@@ -1133,7 +1133,7 @@
     {
       "$id": 225,
       "style": 36,
-      "name": "Embercake Zeke"
+      "name": "Crimson Overlord Zeke"
     },
     {
       "$id": 226,
@@ -1143,17 +1143,17 @@
     {
       "$id": 227,
       "style": 36,
-      "name": "Cloud Sea King Rex"
+      "name": "Cloud Sea King Suit Rex"
     },
     {
       "$id": 228,
       "style": 36,
-      "name": "Blood Witch Nia"
+      "name": "Shinobi Outfit Nia"
     },
     {
       "$id": 229,
       "style": 36,
-      "name": "Scarlet Inquisitor Meleph"
+      "name": "Crimson Dress Meleph"
     },
     {
       "$id": 230,
@@ -1198,12 +1198,12 @@
     {
       "$id": 238,
       "style": 36,
-      "name": "Cloud Sea Shark Rex"
+      "name": "Cloud Sea Shark Suit Rex"
     },
     {
       "$id": 239,
       "style": 36,
-      "name": "Fancy Sundress Nia"
+      "name": "Stylish Swimsuit Nia"
     },
     {
       "$id": 240,
@@ -1213,22 +1213,22 @@
     {
       "$id": 241,
       "style": 36,
-      "name": "Obligatory Leave Meleph"
+      "name": "Reluctant-Swim Meleph"
     },
     {
       "$id": 242,
       "style": 36,
-      "name": "Surfinator Zeke"
+      "name": "Tropical Overlord Zeke"
     },
     {
       "$id": 243,
       "style": 36,
-      "name": "Skullface Punk Tora"
+      "name": "Tora Woo-Woo Mode"
     },
     {
       "$id": 244,
       "style": 36,
-      "name": "Shining Justice Zeke"
+      "name": "Splendid Overlord Zeke"
     }
   ]
 }

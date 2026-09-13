@@ -312,13 +312,13 @@
       "$id": 50,
       "label": "qst202106_msg054",
       "style": 84,
-      "name": "Password confirmation Authenticated"
+      "name": "Password confirmed.\nAuthentication successful."
     },
     {
       "$id": 51,
       "label": "qst202106_msg055",
       "style": 84,
-      "name": "Password is incorrect Please\nstart over from the beginning"
+      "name": "Incorrect password.\nPlease start over from the beginning."
     },
     {
       "$id": 52,
@@ -336,7 +336,7 @@
       "$id": 54,
       "label": "qst202106_msg058",
       "style": 84,
-      "name": "Mo-mo!? Made a mistake, mo!"
+      "name": "Mo-mo!? I made a mistake, mo!"
     },
     {
       "$id": 55,
@@ -348,7 +348,7 @@
       "$id": 56,
       "label": "qst202106_msg060",
       "style": 84,
-      "name": "Hmmm This is difficult."
+      "name": "Hmm. This is difficult."
     }
   ]
 }

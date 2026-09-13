@@ -88,27 +88,27 @@
     {
       "$id": 16,
       "style": 36,
-      "name": "Block Rate Up I"
+      "name": "Guard Rate Up I"
     },
     {
       "$id": 17,
       "style": 36,
-      "name": "Block Rate Up II"
+      "name": "Guard Rate Up II"
     },
     {
       "$id": 18,
       "style": 36,
-      "name": "Block Rate Up III"
+      "name": "Guard Rate Up III"
     },
     {
       "$id": 19,
       "style": 36,
-      "name": "Block Rate Up IV"
+      "name": "Guard Rate Up IV"
     },
     {
       "$id": 20,
       "style": 36,
-      "name": "Block Rate Up V"
+      "name": "Guard Rate Up V"
     },
     {
       "$id": 21,
@@ -163,27 +163,27 @@
     {
       "$id": 31,
       "style": 36,
-      "name": "Aerial Hunter I"
+      "name": "Flyer Hunter I"
     },
     {
       "$id": 32,
       "style": 36,
-      "name": "Aerial Hunter II"
+      "name": "Flyer Hunter II"
     },
     {
       "$id": 33,
       "style": 36,
-      "name": "Aerial Hunter III"
+      "name": "Flyer Hunter III"
     },
     {
       "$id": 34,
       "style": 36,
-      "name": "Aerial Hunter IV"
+      "name": "Flyer Hunter IV"
     },
     {
       "$id": 35,
       "style": 36,
-      "name": "Aerial Hunter V"
+      "name": "Flyer Hunter V"
     },
     {
       "$id": 36,
@@ -648,7 +648,7 @@
     {
       "$id": 128,
       "style": 36,
-      "name": "Ultimate Shield"
+      "name": "Damage Immunity Shield"
     },
     {
       "$id": 129,
@@ -833,27 +833,27 @@
     {
       "$id": 165,
       "style": 36,
-      "name": "HP Attack Boost I"
+      "name": "High-HP Attack Up I"
     },
     {
       "$id": 166,
       "style": 36,
-      "name": "HP Attack Boost II"
+      "name": "High-HP Attack Up II"
     },
     {
       "$id": 167,
       "style": 36,
-      "name": "HP Attack Boost III"
+      "name": "High-HP Attack Up III"
     },
     {
       "$id": 168,
       "style": 36,
-      "name": "HP Attack Boost IV"
+      "name": "High-HP Attack Up IV"
     },
     {
       "$id": 169,
       "style": 36,
-      "name": "HP Attack Boost V"
+      "name": "High-HP Attack Up V"
     },
     {
       "$id": 170,
@@ -908,52 +908,52 @@
     {
       "$id": 180,
       "style": 36,
-      "name": "Topple Resist I"
+      "name": "Down Resist I"
     },
     {
       "$id": 181,
       "style": 36,
-      "name": "Topple Resist II"
+      "name": "Down Resist II"
     },
     {
       "$id": 182,
       "style": 36,
-      "name": "Topple Resist III"
+      "name": "Down Resist III"
     },
     {
       "$id": 183,
       "style": 36,
-      "name": "Topple Resist IV"
+      "name": "Down Resist IV"
     },
     {
       "$id": 184,
       "style": 36,
-      "name": "Topple Resist V"
+      "name": "Down Resist V"
     },
     {
       "$id": 185,
       "style": 36,
-      "name": "Launch Resist I"
+      "name": "Rising Resist I"
     },
     {
       "$id": 186,
       "style": 36,
-      "name": "Launch Resist II"
+      "name": "Rising Resist II"
     },
     {
       "$id": 187,
       "style": 36,
-      "name": "Launch Resist III"
+      "name": "Rising Resist III"
     },
     {
       "$id": 188,
       "style": 36,
-      "name": "Launch Resist IV"
+      "name": "Rising Resist IV"
     },
     {
       "$id": 189,
       "style": 36,
-      "name": "Launch Resist V"
+      "name": "Rising Resist V"
     },
     {
       "$id": 190,
@@ -983,27 +983,27 @@
     {
       "$id": 195,
       "style": 36,
-      "name": "Blowdown Resist I"
+      "name": "Blow Resist I"
     },
     {
       "$id": 196,
       "style": 36,
-      "name": "Blowdown Resist II"
+      "name": "Blow Resist II"
     },
     {
       "$id": 197,
       "style": 36,
-      "name": "Blowdown Resist III"
+      "name": "Blow Resist III"
     },
     {
       "$id": 198,
       "style": 36,
-      "name": "Blowdown Resist IV"
+      "name": "Blow Resist IV"
     },
     {
       "$id": 199,
       "style": 36,
-      "name": "Blowdown Resist V"
+      "name": "Blow Resist V"
     },
     {
       "$id": 200,
@@ -1083,27 +1083,27 @@
     {
       "$id": 215,
       "style": 36,
-      "name": "Auto-Attack Stealth I"
+      "name": "Aggro Down I"
     },
     {
       "$id": 216,
       "style": 36,
-      "name": "Auto-Attack Stealth II"
+      "name": "Aggro Down II"
     },
     {
       "$id": 217,
       "style": 36,
-      "name": "Auto-Attack Stealth III"
+      "name": "Aggro Down III"
     },
     {
       "$id": 218,
       "style": 36,
-      "name": "Auto-Attack Stealth IV"
+      "name": "Aggro Down IV"
     },
     {
       "$id": 219,
       "style": 36,
-      "name": "Auto-Attack Stealth V"
+      "name": "Aggro Down V"
     },
     {
       "$id": 220,
@@ -1133,27 +1133,27 @@
     {
       "$id": 225,
       "style": 36,
-      "name": "Arts Stealth I"
+      "name": "Arts Aggro Down I"
     },
     {
       "$id": 226,
       "style": 36,
-      "name": "Arts Stealth II"
+      "name": "Arts Aggro Down II"
     },
     {
       "$id": 227,
       "style": 36,
-      "name": "Arts Stealth III"
+      "name": "Arts Aggro Down III"
     },
     {
       "$id": 228,
       "style": 36,
-      "name": "Arts Stealth IV"
+      "name": "Arts Aggro Down IV"
     },
     {
       "$id": 229,
       "style": 36,
-      "name": "Arts Stealth V"
+      "name": "Arts Aggro Down V"
     },
     {
       "$id": 230,
@@ -1258,52 +1258,52 @@
     {
       "$id": 250,
       "style": 36,
-      "name": "Night Vision I"
+      "name": "Night Accuracy Up I"
     },
     {
       "$id": 251,
       "style": 36,
-      "name": "Night Vision II"
+      "name": "Night Accuracy Up II"
     },
     {
       "$id": 252,
       "style": 36,
-      "name": "Night Vision III"
+      "name": "Night Accuracy Up III"
     },
     {
       "$id": 253,
       "style": 36,
-      "name": "Night Vision IV"
+      "name": "Night Accuracy Up IV"
     },
     {
       "$id": 254,
       "style": 36,
-      "name": "Night Vision V"
+      "name": "Night Accuracy Up V"
     },
     {
       "$id": 255,
       "style": 36,
-      "name": "Sunlight Eye I"
+      "name": "Day Accuracy Up I"
     },
     {
       "$id": 256,
       "style": 36,
-      "name": "Sunlight Eye II"
+      "name": "Day Accuracy Up II"
     },
     {
       "$id": 257,
       "style": 36,
-      "name": "Sunlight Eye III"
+      "name": "Day Accuracy Up III"
     },
     {
       "$id": 258,
       "style": 36,
-      "name": "Sunlight Eye IV"
+      "name": "Day Accuracy Up IV"
     },
     {
       "$id": 259,
       "style": 36,
-      "name": "Sunlight Eye V"
+      "name": "Day Accuracy Up V"
     },
     {
       "$id": 260,
@@ -1333,27 +1333,27 @@
     {
       "$id": 265,
       "style": 36,
-      "name": "Range Boost Up I"
+      "name": "Shooting Range Up I"
     },
     {
       "$id": 266,
       "style": 36,
-      "name": "Range Boost Up II"
+      "name": "Shooting Range Up II"
     },
     {
       "$id": 267,
       "style": 36,
-      "name": "Range Boost Up III"
+      "name": "Shooting Range Up III"
     },
     {
       "$id": 268,
       "style": 36,
-      "name": "Range Boost Up IV"
+      "name": "Shooting Range Up IV"
     },
     {
       "$id": 269,
       "style": 36,
-      "name": "Range Boost Up V"
+      "name": "Shooting Range Up V"
     },
     {
       "$id": 270,
@@ -1433,127 +1433,127 @@
     {
       "$id": 285,
       "style": 36,
-      "name": "Affinity MAX Barrier I"
+      "name": "Max Bonding Barrier I"
     },
     {
       "$id": 286,
       "style": 36,
-      "name": "Affinity MAX Barrier II"
+      "name": "Max Bonding Barrier II"
     },
     {
       "$id": 287,
       "style": 36,
-      "name": "Affinity MAX Barrier III"
+      "name": "Max Bonding Barrier III"
     },
     {
       "$id": 288,
       "style": 36,
-      "name": "Affinity MAX Barrier IV"
+      "name": "Max Bonding Barrier IV"
     },
     {
       "$id": 289,
       "style": 36,
-      "name": "Affinity MAX Barrier V"
+      "name": "Max Bonding Barrier V"
     },
     {
       "$id": 290,
       "style": 36,
-      "name": "Affinity MAX Atk I"
+      "name": "Max Bonding Atk I"
     },
     {
       "$id": 291,
       "style": 36,
-      "name": "Affinity MAX Atk II"
+      "name": "Max Bonding Atk II"
     },
     {
       "$id": 292,
       "style": 36,
-      "name": "Affinity MAX Atk III"
+      "name": "Max Bonding Atk III"
     },
     {
       "$id": 293,
       "style": 36,
-      "name": "Affinity MAX Atk IV"
+      "name": "Max Bonding Atk IV"
     },
     {
       "$id": 294,
       "style": 36,
-      "name": "Affinity MAX Atk V"
+      "name": "Max Bonding Atk V"
     },
     {
       "$id": 295,
       "style": 36,
-      "name": "Affinity MAX Evade I"
+      "name": "Max Bonding Evade I"
     },
     {
       "$id": 296,
       "style": 36,
-      "name": "Affinity MAX Evade II"
+      "name": "Max Bonding Evade II"
     },
     {
       "$id": 297,
       "style": 36,
-      "name": "Affinity MAX Evade III"
+      "name": "Max Bonding Evade III"
     },
     {
       "$id": 298,
       "style": 36,
-      "name": "Affinity MAX Evade IV"
+      "name": "Max Bonding Evade IV"
     },
     {
       "$id": 299,
       "style": 36,
-      "name": "Affinity MAX Evade V"
+      "name": "Max Bonding Evade V"
     },
     {
       "$id": 300,
       "style": 36,
-      "name": "Hunter's Chemistry I"
+      "name": "Preemptive Bonding I"
     },
     {
       "$id": 301,
       "style": 36,
-      "name": "Hunter's Chemistry II"
+      "name": "Preemptive Bonding II"
     },
     {
       "$id": 302,
       "style": 36,
-      "name": "Hunter's Chemistry III"
+      "name": "Preemptive Bonding III"
     },
     {
       "$id": 303,
       "style": 36,
-      "name": "Hunter's Chemistry IV"
+      "name": "Preemptive Bonding IV"
     },
     {
       "$id": 304,
       "style": 36,
-      "name": "Hunter's Chemistry V"
+      "name": "Preemptive Bonding V"
     },
     {
       "$id": 305,
       "style": 36,
-      "name": "Shoulder to Shoulder I"
+      "name": "Second-Move Bonding I"
     },
     {
       "$id": 306,
       "style": 36,
-      "name": "Shoulder to Shoulder II"
+      "name": "Second-Move Bonding II"
     },
     {
       "$id": 307,
       "style": 36,
-      "name": "Shoulder to Shoulder III"
+      "name": "Second-Move Bonding III"
     },
     {
       "$id": 308,
       "style": 36,
-      "name": "Shoulder to Shoulder IV"
+      "name": "Second-Move Bonding IV"
     },
     {
       "$id": 309,
       "style": 36,
-      "name": "Shoulder to Shoulder V"
+      "name": "Second-Move Bonding V"
     },
     {
       "$id": 310,
@@ -1688,52 +1688,52 @@
     {
       "$id": 336,
       "style": 36,
-      "name": "Potion Finder I"
+      "name": "Potion Spawn Rate Up I"
     },
     {
       "$id": 337,
       "style": 36,
-      "name": "Potion Finder II"
+      "name": "Potion Spawn Rate Up II"
     },
     {
       "$id": 338,
       "style": 36,
-      "name": "Potion Finder III"
+      "name": "Potion Spawn Rate Up III"
     },
     {
       "$id": 339,
       "style": 36,
-      "name": "Potion Finder IV"
+      "name": "Potion Spawn Rate Up IV"
     },
     {
       "$id": 340,
       "style": 36,
-      "name": "Potion Finder V"
+      "name": "Potion Spawn Rate Up V"
     },
     {
       "$id": 341,
       "style": 36,
-      "name": "Affinity MAX Acc I"
+      "name": "Max Bonding Acc I"
     },
     {
       "$id": 342,
       "style": 36,
-      "name": "Affinity MAX Acc II"
+      "name": "Max Bonding Acc II"
     },
     {
       "$id": 343,
       "style": 36,
-      "name": "Affinity MAX Acc III"
+      "name": "Max Bonding Acc III"
     },
     {
       "$id": 344,
       "style": 36,
-      "name": "Affinity MAX Acc IV"
+      "name": "Max Bonding Acc IV"
     },
     {
       "$id": 345,
       "style": 36,
-      "name": "Affinity MAX Acc V"
+      "name": "Max Bonding Acc V"
     },
     {
       "$id": 346,
@@ -1773,577 +1773,577 @@
     {
       "$id": 353,
       "style": 36,
-      "name": "AB Beast Slayer I"
+      "name": "SP Beast Slayer I"
     },
     {
       "$id": 354,
       "style": 36,
-      "name": "AB Beast Slayer II"
+      "name": "SP Beast Slayer II"
     },
     {
       "$id": 355,
       "style": 36,
-      "name": "AB Beast Slayer III"
+      "name": "SP Beast Slayer III"
     },
     {
       "$id": 356,
       "style": 36,
-      "name": "AB Beast Slayer IV"
+      "name": "SP Beast Slayer IV"
     },
     {
       "$id": 357,
       "style": 36,
-      "name": "AB Beast Slayer V"
+      "name": "SP Beast Slayer V"
     },
     {
       "$id": 358,
       "style": 36,
-      "name": "AB Insect Slayer I"
+      "name": "SP Insect Slayer I"
     },
     {
       "$id": 359,
       "style": 36,
-      "name": "AB Insect Slayer II"
+      "name": "SP Insect Slayer II"
     },
     {
       "$id": 360,
       "style": 36,
-      "name": "AB Insect Slayer III"
+      "name": "SP Insect Slayer III"
     },
     {
       "$id": 361,
       "style": 36,
-      "name": "AB Insect Slayer IV"
+      "name": "SP Insect Slayer IV"
     },
     {
       "$id": 362,
       "style": 36,
-      "name": "AB Insect Slayer V"
+      "name": "SP Insect Slayer V"
     },
     {
       "$id": 363,
       "style": 36,
-      "name": "AB Aerial Slayer I"
+      "name": "SP Flyer Killer I"
     },
     {
       "$id": 364,
       "style": 36,
-      "name": "AB Aerial Slayer II"
+      "name": "SP Flyer Killer II"
     },
     {
       "$id": 365,
       "style": 36,
-      "name": "AB Aerial Slayer III"
+      "name": "SP Flyer Killer III"
     },
     {
       "$id": 366,
       "style": 36,
-      "name": "AB Aerial Slayer IV"
+      "name": "SP Flyer Killer IV"
     },
     {
       "$id": 367,
       "style": 36,
-      "name": "AB Aerial Slayer V"
+      "name": "SP Flyer Killer V"
     },
     {
       "$id": 368,
       "style": 36,
-      "name": "AB Aquatic Slayer I"
+      "name": "SP Aquatic Slayer I"
     },
     {
       "$id": 369,
       "style": 36,
-      "name": "AB Aquatic Slayer II"
+      "name": "SP Aquatic Slayer II"
     },
     {
       "$id": 370,
       "style": 36,
-      "name": "AB Aquatic Slayer III"
+      "name": "SP Aquatic Slayer III"
     },
     {
       "$id": 371,
       "style": 36,
-      "name": "AB Aquatic Slayer IV"
+      "name": "SP Aquatic Slayer IV"
     },
     {
       "$id": 372,
       "style": 36,
-      "name": "AB Aquatic Slayer V"
+      "name": "SP Aquatic Slayer V"
     },
     {
       "$id": 373,
       "style": 36,
-      "name": "AB Humanoid Slayer I"
+      "name": "SP Humanoid Slayer I"
     },
     {
       "$id": 374,
       "style": 36,
-      "name": "AB Humanoid Slayer II"
+      "name": "SP Humanoid Slayer II"
     },
     {
       "$id": 375,
       "style": 36,
-      "name": "AB Humanoid Slayer III"
+      "name": "SP Humanoid Slayer III"
     },
     {
       "$id": 376,
       "style": 36,
-      "name": "AB Humanoid Slayer IV"
+      "name": "SP Humanoid Slayer IV"
     },
     {
       "$id": 377,
       "style": 36,
-      "name": "AB Humanoid Slayer V"
+      "name": "SP Humanoid Slayer V"
     },
     {
       "$id": 378,
       "style": 36,
-      "name": "AB Machine Slayer I"
+      "name": "SP Machine Slayer I"
     },
     {
       "$id": 379,
       "style": 36,
-      "name": "AB Machine Slayer II"
+      "name": "SP Machine Slayer II"
     },
     {
       "$id": 380,
       "style": 36,
-      "name": "AB Machine Slayer III"
+      "name": "SP Machine Slayer III"
     },
     {
       "$id": 381,
       "style": 36,
-      "name": "AB Machine Slayer IV"
+      "name": "SP Machine Slayer IV"
     },
     {
       "$id": 382,
       "style": 36,
-      "name": "AB Machine Slayer V"
+      "name": "SP Machine Slayer V"
     },
     {
       "$id": 383,
       "style": 36,
-      "name": "AB Divine Beast Slayer I"
+      "name": "SP D. Beast Slayer I"
     },
     {
       "$id": 384,
       "style": 36,
-      "name": "AB Divine Beast Slayer II"
+      "name": "SP D. Beast Slayer II"
     },
     {
       "$id": 385,
       "style": 36,
-      "name": "AB Divine Beast Slayer III"
+      "name": "SP D. Beast Slayer III"
     },
     {
       "$id": 386,
       "style": 36,
-      "name": "AB Divine Beast Slayer IV"
+      "name": "SP D. Beast Slayer IV"
     },
     {
       "$id": 387,
       "style": 36,
-      "name": "AB Divine Beast Slayer V"
+      "name": "SP D. Beast Slayer V"
     },
     {
       "$id": 388,
       "style": 36,
-      "name": "AB HP Absorb Arts I"
+      "name": "SP HP Absorb Arts I"
     },
     {
       "$id": 389,
       "style": 36,
-      "name": "AB HP Absorb Arts II"
+      "name": "SP HP Absorb Arts II"
     },
     {
       "$id": 390,
       "style": 36,
-      "name": "AB HP Absorb Arts III"
+      "name": "SP HP Absorb Arts III"
     },
     {
       "$id": 391,
       "style": 36,
-      "name": "AB HP Absorb Arts IV"
+      "name": "SP HP Absorb Arts IV"
     },
     {
       "$id": 392,
       "style": 36,
-      "name": "AB HP Absorb Arts V"
+      "name": "SP HP Absorb Arts V"
     },
     {
       "$id": 393,
       "style": 36,
-      "name": "AB Frontal Force I"
+      "name": "SP Frontal Force I"
     },
     {
       "$id": 394,
       "style": 36,
-      "name": "AB Frontal Force II"
+      "name": "SP Frontal Force II"
     },
     {
       "$id": 395,
       "style": 36,
-      "name": "AB Frontal Force III"
+      "name": "SP Frontal Force III"
     },
     {
       "$id": 396,
       "style": 36,
-      "name": "AB Frontal Force IV"
+      "name": "SP Frontal Force IV"
     },
     {
       "$id": 397,
       "style": 36,
-      "name": "AB Frontal Force V"
+      "name": "SP Frontal Force V"
     },
     {
       "$id": 398,
       "style": 36,
-      "name": "AB Flank Force I"
+      "name": "SP Flank Force I"
     },
     {
       "$id": 399,
       "style": 36,
-      "name": "AB Flank Force II"
+      "name": "SP Flank Force II"
     },
     {
       "$id": 400,
       "style": 36,
-      "name": "AB Flank Force III"
+      "name": "SP Flank Force III"
     },
     {
       "$id": 401,
       "style": 36,
-      "name": "AB Flank Force IV"
+      "name": "SP Flank Force IV"
     },
     {
       "$id": 402,
       "style": 36,
-      "name": "AB Flank Force V"
+      "name": "SP Flank Force V"
     },
     {
       "$id": 403,
       "style": 36,
-      "name": "AB Back Force I"
+      "name": "SP Back Force I"
     },
     {
       "$id": 404,
       "style": 36,
-      "name": "AB Back Force II"
+      "name": "SP Back Force II"
     },
     {
       "$id": 405,
       "style": 36,
-      "name": "AB Back Force III"
+      "name": "SP Back Force III"
     },
     {
       "$id": 406,
       "style": 36,
-      "name": "AB Back Force IV"
+      "name": "SP Back Force IV"
     },
     {
       "$id": 407,
       "style": 36,
-      "name": "AB Back Force V"
+      "name": "SP Back Force V"
     },
     {
       "$id": 408,
       "style": 36,
-      "name": "AB Topple I"
+      "name": "SP Down I"
     },
     {
       "$id": 409,
       "style": 36,
-      "name": "AB Topple II"
+      "name": "SP Down II"
     },
     {
       "$id": 410,
       "style": 36,
-      "name": "AB Topple III"
+      "name": "SP Down III"
     },
     {
       "$id": 411,
       "style": 36,
-      "name": "AB Topple IV"
+      "name": "SP Down IV"
     },
     {
       "$id": 412,
       "style": 36,
-      "name": "AB Topple V"
+      "name": "SP Down V"
     },
     {
       "$id": 413,
       "style": 36,
-      "name": "AB Launch I"
+      "name": "SP Rising I"
     },
     {
       "$id": 414,
       "style": 36,
-      "name": "AB Launch II"
+      "name": "SP Rising II"
     },
     {
       "$id": 415,
       "style": 36,
-      "name": "AB Launch III"
+      "name": "SP Rising III"
     },
     {
       "$id": 416,
       "style": 36,
-      "name": "AB Launch IV"
+      "name": "SP Rising IV"
     },
     {
       "$id": 417,
       "style": 36,
-      "name": "AB Launch V"
+      "name": "SP Rising V"
     },
     {
       "$id": 418,
       "style": 36,
-      "name": "AB Challenger I"
+      "name": "SP Challenger I"
     },
     {
       "$id": 419,
       "style": 36,
-      "name": "AB Challenger II"
+      "name": "SP Challenger II"
     },
     {
       "$id": 420,
       "style": 36,
-      "name": "AB Challenger III"
+      "name": "SP Challenger III"
     },
     {
       "$id": 421,
       "style": 36,
-      "name": "AB Challenger IV"
+      "name": "SP Challenger IV"
     },
     {
       "$id": 422,
       "style": 36,
-      "name": "AB Challenger V"
+      "name": "SP Challenger V"
     },
     {
       "$id": 423,
       "style": 36,
-      "name": "AB Avenger I"
+      "name": "SP Avenger I"
     },
     {
       "$id": 424,
       "style": 36,
-      "name": "AB Avenger II"
+      "name": "SP Avenger II"
     },
     {
       "$id": 425,
       "style": 36,
-      "name": "AB Avenger III"
+      "name": "SP Avenger III"
     },
     {
       "$id": 426,
       "style": 36,
-      "name": "AB Avenger IV"
+      "name": "SP Avenger IV"
     },
     {
       "$id": 427,
       "style": 36,
-      "name": "AB Avenger V"
+      "name": "SP Avenger V"
     },
     {
       "$id": 428,
       "style": 36,
-      "name": "AB Anger I"
+      "name": "SP Anger I"
     },
     {
       "$id": 429,
       "style": 36,
-      "name": "AB Anger II"
+      "name": "SP Anger II"
     },
     {
       "$id": 430,
       "style": 36,
-      "name": "AB Anger III"
+      "name": "SP Anger III"
     },
     {
       "$id": 431,
       "style": 36,
-      "name": "AB Anger IV"
+      "name": "SP Anger IV"
     },
     {
       "$id": 432,
       "style": 36,
-      "name": "AB Anger V"
+      "name": "SP Anger V"
     },
     {
       "$id": 433,
       "style": 36,
-      "name": "AB Vendetta I"
+      "name": "SP Vendetta I"
     },
     {
       "$id": 434,
       "style": 36,
-      "name": "AB Vendetta II"
+      "name": "SP Vendetta II"
     },
     {
       "$id": 435,
       "style": 36,
-      "name": "AB Vendetta III"
+      "name": "SP Vendetta III"
     },
     {
       "$id": 436,
       "style": 36,
-      "name": "AB Vendetta IV"
+      "name": "SP Vendetta IV"
     },
     {
       "$id": 437,
       "style": 36,
-      "name": "AB Vendetta V"
+      "name": "SP Vendetta V"
     },
     {
       "$id": 438,
       "style": 36,
-      "name": "AB Vital Charge I"
+      "name": "SP Vital Charge I"
     },
     {
       "$id": 439,
       "style": 36,
-      "name": "AB Vital Charge II"
+      "name": "SP Vital Charge II"
     },
     {
       "$id": 440,
       "style": 36,
-      "name": "AB Vital Charge III"
+      "name": "SP Vital Charge III"
     },
     {
       "$id": 441,
       "style": 36,
-      "name": "AB Vital Charge IV"
+      "name": "SP Vital Charge IV"
     },
     {
       "$id": 442,
       "style": 36,
-      "name": "AB Vital Charge V"
+      "name": "SP Vital Charge V"
     },
     {
       "$id": 443,
       "style": 36,
-      "name": "AB Combo Boost I"
+      "name": "SP Combo Boost I"
     },
     {
       "$id": 444,
       "style": 36,
-      "name": "AB Combo Boost II"
+      "name": "SP Combo Boost II"
     },
     {
       "$id": 445,
       "style": 36,
-      "name": "AB Combo Boost III"
+      "name": "SP Combo Boost III"
     },
     {
       "$id": 446,
       "style": 36,
-      "name": "AB Combo Boost IV"
+      "name": "SP Combo Boost IV"
     },
     {
       "$id": 447,
       "style": 36,
-      "name": "AB Combo Boost V"
+      "name": "SP Combo Boost V"
     },
     {
       "$id": 448,
       "style": 36,
-      "name": "AB HP Potion I"
+      "name": "SP HP Potion I"
     },
     {
       "$id": 449,
       "style": 36,
-      "name": "AB HP Potion II"
+      "name": "SP HP Potion II"
     },
     {
       "$id": 450,
       "style": 36,
-      "name": "AB HP Potion III"
+      "name": "SP HP Potion III"
     },
     {
       "$id": 451,
       "style": 36,
-      "name": "AB HP Potion IV"
+      "name": "SP HP Potion IV"
     },
     {
       "$id": 452,
       "style": 36,
-      "name": "AB HP Potion V"
+      "name": "SP HP Potion V"
     },
     {
       "$id": 453,
       "style": 36,
-      "name": "AB Aggro Down I"
+      "name": "SP Aggro Down I"
     },
     {
       "$id": 454,
       "style": 36,
-      "name": "AB Aggro Down II"
+      "name": "SP Aggro Down II"
     },
     {
       "$id": 455,
       "style": 36,
-      "name": "AB Aggro Down III"
+      "name": "SP Aggro Down III"
     },
     {
       "$id": 456,
       "style": 36,
-      "name": "AB Aggro Down IV"
+      "name": "SP Aggro Down IV"
     },
     {
       "$id": 457,
       "style": 36,
-      "name": "AB Aggro Down V"
+      "name": "SP Aggro Down V"
     },
     {
       "$id": 458,
       "style": 36,
-      "name": "AB Affinity Boost I"
+      "name": "SP Bonding Boost I"
     },
     {
       "$id": 459,
       "style": 36,
-      "name": "AB Affinity Boost II"
+      "name": "SP Bonding Boost II"
     },
     {
       "$id": 460,
       "style": 36,
-      "name": "AB Affinity Boost III"
+      "name": "SP Bonding Boost III"
     },
     {
       "$id": 461,
       "style": 36,
-      "name": "AB Affinity Boost IV"
+      "name": "SP Bonding Boost IV"
     },
     {
       "$id": 462,
       "style": 36,
-      "name": "AB Affinity Boost V"
+      "name": "SP Bonding Boost V"
     },
     {
       "$id": 463,
       "style": 36,
-      "name": "AB Attack Teamheal I"
+      "name": "SP Attack Teamheal I"
     },
     {
       "$id": 464,
       "style": 36,
-      "name": "AB Attack Teamheal II"
+      "name": "SP Attack Teamheal II"
     },
     {
       "$id": 465,
       "style": 36,
-      "name": "AB Attack Teamheal III"
+      "name": "SP Attack Teamheal III"
     },
     {
       "$id": 466,
       "style": 36,
-      "name": "AB Attack Teamheal IV"
+      "name": "SP Attack Teamheal IV"
     },
     {
       "$id": 467,
       "style": 36,
-      "name": "AB Attack Teamheal V"
+      "name": "SP Attack Teamheal V"
     },
     {
       "$id": 468,
@@ -2953,42 +2953,42 @@
     {
       "$id": 589,
       "style": 36,
-      "name": "Natural Guard I"
+      "name": "Defensive Instinct I"
     },
     {
       "$id": 590,
       "style": 36,
-      "name": "Natural Guard II"
+      "name": "Defensive Instinct II"
     },
     {
       "$id": 591,
       "style": 36,
-      "name": "Natural Guard III"
+      "name": "Defensive Instinct III"
     },
     {
       "$id": 592,
       "style": 36,
-      "name": "Natural Guard IV"
+      "name": "Defensive Instinct IV"
     },
     {
       "$id": 593,
       "style": 36,
-      "name": "Natural Guard V"
+      "name": "Defensive Instinct V"
     },
     {
       "$id": 594,
       "style": 36,
-      "name": "Affinity Extend I"
+      "name": "Bonding Extension I"
     },
     {
       "$id": 595,
       "style": 36,
-      "name": "Affinity Extend II"
+      "name": "Bonding Extension II"
     },
     {
       "$id": 596,
       "style": 36,
-      "name": "Affinity Extend III"
+      "name": "Bonding Extension III"
     },
     {
       "$id": 597,
@@ -3108,7 +3108,7 @@
     {
       "$id": 620,
       "style": 36,
-      "name": "Block Rate Up VI"
+      "name": "Guard Rate Up VI"
     },
     {
       "$id": 621,
@@ -3123,7 +3123,7 @@
     {
       "$id": 623,
       "style": 36,
-      "name": "Aerial Hunter VI"
+      "name": "Flyer Hunter VI"
     },
     {
       "$id": 624,
@@ -3233,7 +3233,7 @@
     {
       "$id": 645,
       "style": 36,
-      "name": "HP Attack Boost VI"
+      "name": "High-HP Attack Up VI"
     },
     {
       "$id": 646,
@@ -3243,12 +3243,12 @@
     {
       "$id": 647,
       "style": 36,
-      "name": "Topple Resist VI"
+      "name": "Down Resist VI"
     },
     {
       "$id": 648,
       "style": 36,
-      "name": "Launch Resist VI"
+      "name": "Rising Resist VI"
     },
     {
       "$id": 649,
@@ -3258,7 +3258,7 @@
     {
       "$id": 650,
       "style": 36,
-      "name": "Blowdown Resist VI"
+      "name": "Blow Resist VI"
     },
     {
       "$id": 651,
@@ -3268,7 +3268,7 @@
     {
       "$id": 652,
       "style": 36,
-      "name": "Auto-Attack Stealth VI"
+      "name": "Aggro Down VI"
     },
     {
       "$id": 653,
@@ -3278,7 +3278,7 @@
     {
       "$id": 654,
       "style": 36,
-      "name": "Arts Stealth VI"
+      "name": "Arts Aggro Down VI"
     },
     {
       "$id": 655,
@@ -3303,12 +3303,12 @@
     {
       "$id": 659,
       "style": 36,
-      "name": "Night Vision VI"
+      "name": "Night Accuracy Up VI"
     },
     {
       "$id": 660,
       "style": 36,
-      "name": "Sunlight Eye VI"
+      "name": "Day Accuracy Up VI"
     },
     {
       "$id": 661,
@@ -3323,17 +3323,17 @@
     {
       "$id": 663,
       "style": 36,
-      "name": "Affinity MAX Barrier VI"
+      "name": "Max Bonding Barrier VI"
     },
     {
       "$id": 664,
       "style": 36,
-      "name": "Affinity MAX Atk VI"
+      "name": "Max Bonding Atk VI"
     },
     {
       "$id": 665,
       "style": 36,
-      "name": "Affinity MAX Evade VI"
+      "name": "Max Bonding Evade VI"
     },
     {
       "$id": 666,
@@ -3358,7 +3358,7 @@
     {
       "$id": 670,
       "style": 36,
-      "name": "Affinity MAX Acc VI"
+      "name": "Max Bonding Acc VI"
     },
     {
       "$id": 671,
@@ -3368,7 +3368,7 @@
     {
       "$id": 672,
       "style": 36,
-      "name": "Homura in a Poncho"
+      "name": "Homura in Eared Poncho"
     },
     {
       "$id": 673,
@@ -3383,12 +3383,12 @@
     {
       "$id": 675,
       "style": 36,
-      "name": "Savage Byakko"
+      "name": "Traditional-Coat Byakko"
     },
     {
       "$id": 676,
       "style": 36,
-      "name": "Crimson Orchid Kagutsuchi"
+      "name": "Raging Red Kagutsuchi"
     },
     {
       "$id": 677,
@@ -3398,7 +3398,7 @@
     {
       "$id": 678,
       "style": 36,
-      "name": "Cornflower Hana JS"
+      "name": "Hana JS Blue Custom"
     },
     {
       "$id": 679,
@@ -3408,17 +3408,17 @@
     {
       "$id": 680,
       "style": 36,
-      "name": "Carbon Hikari"
+      "name": "Lovely Black Hikari"
     },
     {
       "$id": 681,
       "style": 36,
-      "name": "Obsidian Byakko"
+      "name": "Noble Black-Sheen Byakko"
     },
     {
       "$id": 682,
       "style": 36,
-      "name": "Jade Orchid Kagutsuchi"
+      "name": "Green-Flame Kagutsuchi"
     },
     {
       "$id": 683,
@@ -3428,57 +3428,57 @@
     {
       "$id": 684,
       "style": 36,
-      "name": "Pro Swimmer Homura"
+      "name": "Rival Swimsuit Homura"
     },
     {
       "$id": 685,
       "style": 36,
-      "name": "Radiant Beach Hikari"
+      "name": "Dazzling Swimsuit Hikari"
     },
     {
       "$id": 686,
       "style": 36,
-      "name": "Water Lily Kagutsuchi"
+      "name": "White-Rose Kagutsuchi"
     },
     {
       "$id": 687,
       "style": 36,
-      "name": "Beach Date Saika"
+      "name": "Romantic Swimsuit Saika"
     },
     {
       "$id": 688,
       "style": 36,
-      "name": "Swim Lesson Hana JS"
+      "name": "Smooth-Swim Hana JS"
     },
     {
       "$id": 689,
       "style": 36,
-      "name": "Antique Princess QT"
+      "name": "Hana JK Purple Custom"
     },
     {
       "$id": 690,
       "style": 36,
-      "name": "Nano Orange QTπ"
+      "name": "Hana JD Orange Custom"
     },
     {
       "$id": 691,
       "style": 36,
-      "name": "Loyal Bellflower Nia"
+      "name": "Campanula Dress Nia"
     },
     {
       "$id": 692,
       "style": 36,
-      "name": "Sincere Primrose Nia"
+      "name": "Primrose Dress Nia"
     },
     {
       "$id": 693,
       "style": 36,
-      "name": "Devoted Marigold Nia"
+      "name": "Marguerite Dress Nia"
     },
     {
       "$id": 694,
       "style": 36,
-      "name": "Massive Melee Hikari"
+      "name": "Multi-Battle Hikari"
     }
   ]
 }

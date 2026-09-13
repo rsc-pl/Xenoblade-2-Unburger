@@ -23,27 +23,27 @@
     {
       "$id": 3,
       "style": 151,
-      "name": "Auto camera response speed"
+      "name": "Auto-Cam Interp. Speed"
     },
     {
       "$id": 4,
       "style": 151,
-      "name": "Camera reset response speed"
+      "name": "Camera Reset Interp. Speed"
     },
     {
       "$id": 5,
       "style": 151,
-      "name": "Auto-camera extra turn speed"
+      "name": "Auto-Cam Follow Rotation"
     },
     {
       "$id": 6,
       "style": 151,
-      "name": "Turn speed"
+      "name": "Camera Rotation Speed"
     },
     {
       "$id": 7,
       "style": 151,
-      "name": "Zoom speed"
+      "name": "Camera Zoom Speed"
     },
     {
       "$id": 8,
@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 151,
-      "name": "Battle Narration volume"
+      "name": "Narration Voice Volume"
     },
     {
       "$id": 15,
       "style": 151,
-      "name": "Environment volume"
+      "name": "Weather/Environment Volume"
     },
     {
       "$id": 16,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 35,
-      "name": "Bringer of Chaos"
+      "name": "Extreme"
     },
     {
       "$id": 24,
@@ -143,7 +143,7 @@
     {
       "$id": 27,
       "style": 25,
-      "name": "Enemy Aggression"
+      "name": "Enemy Detection"
     },
     {
       "$id": 28,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 25,
-      "name": "Player Blade Combo Buffer Time"
+      "name": "Blade Combo Duration"
     },
     {
       "$id": 33,
@@ -178,22 +178,22 @@
     {
       "$id": 34,
       "style": 25,
-      "name": "Player Special Recharge Rate"
+      "name": "Special Charge Rate"
     },
     {
       "$id": 35,
       "style": 25,
-      "name": "Player Health Restoration"
+      "name": "HP Recovery Amount"
     },
     {
       "$id": 36,
       "style": 25,
-      "name": "Chain Attack Damage Multiplier"
+      "name": "Chain Attack Multiplier Gain"
     },
     {
       "$id": 37,
       "style": 25,
-      "name": "Ascended State Party Gauge Use"
+      "name": "Homura/Hikari Awakened Party Gauge"
     },
     {
       "$id": 38,

@@ -43,7 +43,7 @@
     {
       "$id": 7,
       "style": 47,
-      "name": "Remove"
+      "name": "Leave Squad"
     },
     {
       "$id": 8,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 47,
-      "name": "Interact"
+      "name": "Action"
     },
     {
       "$id": 19,
@@ -113,7 +113,7 @@
     {
       "$id": 21,
       "style": 47,
-      "name": "Details"
+      "name": "Equip Details"
     },
     {
       "$id": 22,
@@ -133,7 +133,7 @@
     {
       "$id": 25,
       "style": 47,
-      "name": "Enhance Art"
+      "name": "Enhance Arts"
     },
     {
       "$id": 26,
@@ -163,7 +163,7 @@
     {
       "$id": 31,
       "style": 47,
-      "name": "Change Order"
+      "name": "Formation Change"
     },
     {
       "$id": 32,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 47,
-      "name": "Change Time"
+      "name": "Skip Time"
     },
     {
       "$id": 46,
@@ -283,7 +283,7 @@
     {
       "$id": 55,
       "style": 47,
-      "name": "Character List"
+      "name": "Switch Character"
     },
     {
       "$id": 56,
@@ -388,12 +388,12 @@
     {
       "$id": 76,
       "style": 47,
-      "name": "Hidden Affinity"
+      "name": "Hidden Bonding"
     },
     {
       "$id": 77,
       "style": 47,
-      "name": "Overt Affinity"
+      "name": "Overt Bonding"
     },
     {
       "$id": 78,
@@ -418,12 +418,12 @@
     {
       "$id": 82,
       "style": 47,
-      "name": "Confirm"
+      "name": "Finish Checking"
     },
     {
       "$id": 83,
       "style": 47,
-      "name": "Setting Select"
+      "name": "Select Setting"
     },
     {
       "$id": 84,
@@ -498,7 +498,7 @@
     {
       "$id": 98,
       "style": 47,
-      "name": "Equipped"
+      "name": "Check Equipment"
     },
     {
       "$id": 99,
@@ -548,7 +548,7 @@
     {
       "$id": 108,
       "style": 47,
-      "name": "Speed"
+      "name": "Move Speed"
     },
     {
       "$id": 109,
@@ -573,7 +573,7 @@
     {
       "$id": 113,
       "style": 47,
-      "name": "Edit Characters"
+      "name": "Add/Remove Chars"
     },
     {
       "$id": 114,
@@ -603,12 +603,12 @@
     {
       "$id": 119,
       "style": 47,
-      "name": "See updates"
+      "name": "View Notices"
     },
     {
       "$id": 120,
       "style": 22,
-      "name": "Vanguard Switch"
+      "name": "Attacker Switch"
     },
     {
       "$id": 121,
@@ -633,12 +633,12 @@
     {
       "$id": 125,
       "style": 22,
-      "name": "To Character Screen"
+      "name": "To Character Select"
     },
     {
       "$id": 126,
       "style": 22,
-      "name": "Track"
+      "name": "Search"
     },
     {
       "$id": 127,
@@ -648,7 +648,7 @@
     {
       "$id": 128,
       "style": 22,
-      "name": "Stop Tracking"
+      "name": "Stop Search"
     },
     {
       "$id": 129,

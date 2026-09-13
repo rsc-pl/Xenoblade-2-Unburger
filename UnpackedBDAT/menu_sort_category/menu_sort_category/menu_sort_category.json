@@ -28,17 +28,17 @@
     {
       "$id": 4,
       "style": 6,
-      "name": "By no. held"
+      "name": "By Amount Held"
     },
     {
       "$id": 5,
       "style": 6,
-      "name": "Alphabetical"
+      "name": "By Name"
     },
     {
       "$id": 6,
       "style": 6,
-      "name": "Chronological"
+      "name": "By Acquisition"
     },
     {
       "$id": 7,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 6,
-      "name": "By Weapon Class"
+      "name": "By Weapon Type"
     },
     {
       "$id": 9,
@@ -93,7 +93,7 @@
     {
       "$id": 17,
       "style": 6,
-      "name": "Improves Block"
+      "name": "Improves Guard"
     },
     {
       "$id": 18,
@@ -173,17 +173,17 @@
     {
       "$id": 33,
       "style": 6,
-      "name": "Improves Weapon"
+      "name": "Weapon Enhancement"
     },
     {
       "$id": 34,
       "style": 6,
-      "name": "Improves Affinity"
+      "name": "Improves Bonding"
     },
     {
       "$id": 35,
       "style": 6,
-      "name": "Increases Rewards"
+      "name": "Battle Rewards Up"
     },
     {
       "$id": 36,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 6,
-      "name": "Recharge Boost"
+      "name": "Recast Up"
     },
     {
       "$id": 41,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 6,
-      "name": "Debuff Cancel"
+      "name": "Debuff Removal"
     },
     {
       "$id": 44,

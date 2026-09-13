@@ -13,12 +13,12 @@
     {
       "$id": 1,
       "style": 56,
-      "name": "By addition"
+      "name": "Joining Order"
     },
     {
       "$id": 2,
       "style": 56,
-      "name": "By recency"
+      "name": "Acq. Order"
     },
     {
       "$id": 3,
@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 56,
-      "name": "Weapon Class"
+      "name": "Weapon Type"
     },
     {
       "$id": 6,
       "style": 56,
-      "name": "Element"
+      "name": "Element Type"
     },
     {
       "$id": 7,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 56,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 11,
@@ -78,12 +78,12 @@
     {
       "$id": 14,
       "style": 56,
-      "name": "Attack"
+      "name": "Attack Power"
     },
     {
       "$id": 15,
       "style": 56,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 16,
@@ -98,17 +98,17 @@
     {
       "$id": 18,
       "style": 56,
-      "name": "Attack Focus"
+      "name": "Attacker Gear"
     },
     {
       "$id": 19,
       "style": 56,
-      "name": "Tank Focus"
+      "name": "Tank Gear"
     },
     {
       "$id": 20,
       "style": 56,
-      "name": "Healer Focus"
+      "name": "Healer Gear"
     },
     {
       "$id": 21,
@@ -168,7 +168,7 @@
     {
       "$id": 32,
       "style": 37,
-      "name": "Key item(s) obtained"
+      "name": "Key Item Obtained"
     },
     {
       "$id": 33,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 64,
-      "name": "You need to open all salvaged treasure\ntroves before salvaging again."
+      "name": "There are unopened treasure chests nearby.\nYou cannot begin salvaging."
     },
     {
       "$id": 37,
@@ -223,7 +223,7 @@
     {
       "$id": 43,
       "style": 64,
-      "name": "Too many presets.\nOverwrite?"
+      "name": "Preset slots are full.\nOverwrite?"
     },
     {
       "$id": 44,
@@ -238,17 +238,17 @@
     {
       "$id": 46,
       "style": 64,
-      "name": "Cannot make further edits to squad."
+      "name": "Cannot form any more squads."
     },
     {
       "$id": 47,
       "style": 60,
-      "name": "Enhance Driver?"
+      "name": "Advance Driver?"
     },
     {
       "$id": 48,
       "style": 60,
-      "name": "Choose Driver to enhance."
+      "name": "Choose Driver to advance."
     },
     {
       "$id": 49,
@@ -258,17 +258,17 @@
     {
       "$id": 50,
       "style": 60,
-      "name": "Enhance another Driver?"
+      "name": "Advance another Driver?"
     },
     {
       "$id": 51,
       "style": 60,
-      "name": "Go to Character Customization"
+      "name": "Go to Character Customization?"
     },
     {
       "$id": 52,
       "style": 60,
-      "name": "Choose a type of level growth."
+      "name": "Select how you want to level up."
     },
     {
       "$id": 53,
@@ -288,7 +288,7 @@
     {
       "$id": 56,
       "style": 64,
-      "name": "Expend EXP to raise a\nlevel of your choice."
+      "name": "Spend EXP to raise to a level of your choice."
     },
     {
       "$id": 57,
@@ -303,7 +303,7 @@
     {
       "$id": 59,
       "style": 64,
-      "name": "You may never see this Blade again.\nAre you sure you want to proceed?"
+      "name": "You will part ways with this Blade.\nIs that okay?"
     },
     {
       "$id": 60,
@@ -398,12 +398,12 @@
     {
       "$id": 78,
       "style": 64,
-      "name": "This Core Chip has already been\napplied."
+      "name": "This Weapon Chip has already been\napplied."
     },
     {
       "$id": 79,
       "style": 64,
-      "name": "Enhance weapon?\n(Uses up the Core Chip.)"
+      "name": "Enhance weapon?\n(The used Weapon Chip will be lost.)"
     },
     {
       "$id": 80,
@@ -428,22 +428,22 @@
     {
       "$id": 84,
       "style": 64,
-      "name": "Enhance this orb?"
+      "name": "Refine this orb?"
     },
     {
       "$id": 85,
       "style": 64,
-      "name": "Provide these items?"
+      "name": "Exchange these items?"
     },
     {
       "$id": 86,
       "style": 64,
-      "name": "You got 250,000G, half the value\nof Rinne's Core Crystal!"
+      "name": "You got 250,000G, half the price\nof Rinne's Core Crystal!"
     },
     {
       "$id": 87,
       "style": 64,
-      "name": "You got the advance payment!\n(100,000G)"
+      "name": "You got the deposit! (100,000G)"
     },
     {
       "$id": 88,
@@ -458,32 +458,32 @@
     {
       "$id": 90,
       "style": 64,
-      "name": "You got a Key Affinity Reward!\nNew skills may be unlocked!"
+      "name": "You got a Key Bonding Gift!\nSkill lock removed!"
     },
     {
       "$id": 91,
       "style": 64,
-      "name": "You got an Affinity Reward!\nSkill learned or improved!"
+      "name": "You got a Bonding Gift!\nSkill improved!"
     },
     {
       "$id": 92,
       "style": 64,
-      "name": "You got all Affinity Rewards!\nBlade is at maximum development!"
+      "name": "You got all Bonding Gifts!\nBlade is at maximum development!"
     },
     {
       "$id": 93,
       "style": 64,
-      "name": "Affinity Reward"
+      "name": "Bonding Gift"
     },
     {
       "$id": 94,
       "style": 64,
-      "name": "You haven't fulfilled the requirements\nfor this Affinity Reward yet."
+      "name": "You haven't fulfilled the requirements\nfor this Bonding Gift yet."
     },
     {
       "$id": 95,
       "style": 64,
-      "name": "Going into battle with this party.\nIs this okay?"
+      "name": "Deploy with these members.\nIs that okay?"
     },
     {
       "$id": 96,
@@ -498,32 +498,32 @@
     {
       "$id": 98,
       "style": 64,
-      "name": "Engage this Blade?"
+      "name": "Switch to this Blade?"
     },
     {
       "$id": 99,
       "style": 64,
-      "name": "Rose to Rank A!\nYou are now the Divine Salvager!"
+      "name": "Promoted to Grade 1!\nYou are now a God Salvager!"
     },
     {
       "$id": 100,
       "style": 64,
-      "name": "Rose to Rank B!\nYou are now a Legendary Salvager!"
+      "name": "Promoted to Grade 2!\nYou are now a Legendary Salvager!"
     },
     {
       "$id": 101,
       "style": 64,
-      "name": "Rose to Rank C!\nYou are now a Mushroom-Feast\nSalvager!"
+      "name": "Promoted to Grade 3!\nYou are now a Mushroom-Feast\nSalvager!"
     },
     {
       "$id": 102,
       "style": 64,
-      "name": "Rose to Rank D!\nYou are now a Bahn-Level Salvager!"
+      "name": "Promoted to Grade 4!\nYou are now a Bahn-Level Salvager!"
     },
     {
       "$id": 103,
       "style": 64,
-      "name": "Rose to Rank E!\nYou are now a Baby-Level Salvager!"
+      "name": "Promoted to Grade 5!\nYou are now a Baby-Level Salvager!"
     },
     {
       "$id": 104,
@@ -553,27 +553,27 @@
     {
       "$id": 109,
       "style": 64,
-      "name": "Rose to Merc Group Rank 1!"
+      "name": "Merc Group reached Level 1!"
     },
     {
       "$id": 110,
       "style": 64,
-      "name": "Rose to Merc Group Rank 2!"
+      "name": "Merc Group reached Level 2!"
     },
     {
       "$id": 111,
       "style": 64,
-      "name": "Rose to Merc Group Rank 3!"
+      "name": "Merc Group reached Level 3!"
     },
     {
       "$id": 112,
       "style": 64,
-      "name": "Rose to Merc Group Rank 4!"
+      "name": "Merc Group reached Level 4!"
     },
     {
       "$id": 113,
       "style": 64,
-      "name": "Rose to Merc Group Rank 5!"
+      "name": "Merc Group reached Level 5!"
     },
     {
       "$id": 114,
@@ -668,12 +668,12 @@
     {
       "$id": 132,
       "style": 64,
-      "name": "[ML:number digit=9 ] more ether crystals\nrequired for expansion."
+      "name": "[ML:number digit=9 ] more Ether Crystals\nrequired for expansion."
     },
     {
       "$id": 133,
       "style": 64,
-      "name": "Spend ether crystals to expand?"
+      "name": "Spend Ether Crystals to expand?"
     },
     {
       "$id": 134,
@@ -688,7 +688,7 @@
     {
       "$id": 136,
       "style": 64,
-      "name": "Spend ether crystals to create this part?"
+      "name": "Spend Ether Crystals to create this part?"
     },
     {
       "$id": 137,
@@ -698,7 +698,7 @@
     {
       "$id": 138,
       "style": 64,
-      "name": "Convert this part into ether crystals?"
+      "name": "Convert this part into Ether Crystals?"
     },
     {
       "$id": 139,
@@ -708,12 +708,12 @@
     {
       "$id": 140,
       "style": 64,
-      "name": "Link Jumping to [ML:MapName ]."
+      "name": "Link Jump to [ML:MapName ]."
     },
     {
       "$id": 141,
       "style": 64,
-      "name": "Are you sure you want to bond\nwith this Core Crystal?\n(The game state will be saved.)"
+      "name": "Are you sure you want to resonate\nwith this Core Crystal?\n(The game state will be autosaved.)"
     },
     {
       "$id": 142,
@@ -723,7 +723,7 @@
     {
       "$id": 143,
       "style": 64,
-      "name": "Use the Pouch Expansion Kit and\ncreate a new pouch?"
+      "name": "Use the Pouch Expansion Kit to\nincrease the number of pouches?"
     },
     {
       "$id": 144,
@@ -743,7 +743,7 @@
     {
       "$id": 147,
       "style": 64,
-      "name": "Bonding Talk\n\"Circle Ring\"\ncomplete."
+      "name": "Bonding Talk\n\"Ring\"\ncomplete."
     },
     {
       "$id": 148,
@@ -768,7 +768,7 @@
     {
       "$id": 152,
       "style": 64,
-      "name": "Bonding Talk\n\"Hana Judgement Day\"\ncomplete."
+      "name": "Bonding Talk\n\"Judgment Day\"\ncomplete."
     },
     {
       "$id": 153,
@@ -813,7 +813,7 @@
     {
       "$id": 161,
       "style": 64,
-      "name": "Bonding Talk\n\"The true essence\"\ncomplete."
+      "name": "Bonding Talk\n\"The True Essence\"\ncomplete."
     },
     {
       "$id": 162,
@@ -823,7 +823,7 @@
     {
       "$id": 163,
       "style": 64,
-      "name": "Bonding Talk\n\"Inheritance\"\ncomplete."
+      "name": "Bonding Talk\n\"Peace Talks\"\ncomplete."
     },
     {
       "$id": 164,
@@ -1073,7 +1073,7 @@
     {
       "$id": 213,
       "style": 64,
-      "name": "Bonding Talk\n\"Mad about Divine Beast Weapons\"\ncomplete."
+      "name": "Bonding Talk\n\"Divine Beast Weapon Enthusiast\"\ncomplete."
     },
     {
       "$id": 214,
@@ -1143,12 +1143,12 @@
     {
       "$id": 227,
       "style": 64,
-      "name": "The money disappears\ninto the Cloud Sea."
+      "name": "The coin disappeared into the\nCloud Sea."
     },
     {
       "$id": 228,
       "style": 64,
-      "name": "The money falls relatively close."
+      "name": "The coin fell without going very far."
     },
     {
       "$id": 229,
@@ -1163,22 +1163,22 @@
     {
       "$id": 231,
       "style": 64,
-      "name": "The assembled squad will be deployed.\nIs this okay? (Engaged Blades will be\ndisengaged if necessary.)"
+      "name": "The assembled squad will be deployed.\nIs that okay?\n(If it includes engaged Blades, they will be\ndisengaged from their Drivers.)"
     },
     {
       "$id": 232,
       "style": 64,
-      "name": "Refine this Assist Core?"
+      "name": "Build this Assist Core?"
     },
     {
       "$id": 233,
       "style": 64,
-      "name": "Provide these items?"
+      "name": "Exchange these items?"
     },
     {
       "$id": 234,
       "style": 55,
-      "name": "Okay"
+      "name": "OK"
     },
     {
       "$id": 235,
@@ -1203,7 +1203,7 @@
     {
       "$id": 239,
       "style": 64,
-      "name": "Finished leveling up?"
+      "name": "End leveling up?"
     },
     {
       "$id": 240,
@@ -1288,7 +1288,7 @@
     {
       "$id": 256,
       "style": 64,
-      "name": "You cannot Change Time right now."
+      "name": "You cannot Skip Time right now."
     },
     {
       "$id": 257,
@@ -1373,12 +1373,12 @@
     {
       "$id": 273,
       "style": 64,
-      "name": "Disengage the Blade and add\nthem to the squad?"
+      "name": "Disengage the Blade from the Driver\nand add it to the squad?"
     },
     {
       "$id": 274,
       "style": 64,
-      "name": "Disengaged Blades restored."
+      "name": "Blades removed from their Drivers\nhave been returned."
     },
     {
       "$id": 275,
@@ -1418,7 +1418,7 @@
     {
       "$id": 282,
       "style": 64,
-      "name": "Merc Missions accepted / Dev Points\nacquired in Acedia will be transferred to\nLiberalitas."
+      "name": "Merc Missions accepted / Dev Points\nacquired in Acedia will be transferred to\nLiberalitas Archipelago."
     },
     {
       "$id": 283,
@@ -1433,7 +1433,7 @@
     {
       "$id": 285,
       "style": 64,
-      "name": "Raise max capacity of energy\nconverter? (Consumes ether crystals.)"
+      "name": "Increase the energy converter's max output?\n(Consumes Ether Crystals.)"
     },
     {
       "$id": 286,
@@ -1443,7 +1443,7 @@
     {
       "$id": 287,
       "style": 64,
-      "name": "This Blade cannot modify its weapon."
+      "name": "This Blade cannot enhance its weapon."
     },
     {
       "$id": 288,
@@ -1463,7 +1463,7 @@
     {
       "$id": 291,
       "style": 64,
-      "name": "You cannot use this. All Arts for chosen\nweapon class are already at max level."
+      "name": "You cannot use this. All Arts for the selected\nweapon type are already at max level."
     },
     {
       "$id": 292,
@@ -1488,7 +1488,7 @@
     {
       "$id": 296,
       "style": 64,
-      "name": "You cannot use Overdrive with this\nBlade, as it is the Driver's last\nremaining one."
+      "name": "You cannot use Overdrive with this Blade,\nas its Driver would be left with only one Blade."
     },
     {
       "$id": 297,
@@ -1503,7 +1503,7 @@
     {
       "$id": 299,
       "style": 64,
-      "name": "Pre-existing save data found. If you\nsave after starting a new game, the old\ndata will be overwritten, so please be\ncareful."
+      "name": "Existing play data found. If you start\nthis mode and save, your current play data\nwill be lost. Please be careful."
     },
     {
       "$id": 300,
@@ -1538,7 +1538,7 @@
     {
       "$id": 306,
       "style": 64,
-      "name": "You're carrying too many ether crystals\nto be able to receive this."
+      "name": "You're carrying too many Ether Crystals\nto be able to receive this."
     },
     {
       "$id": 307,
@@ -1548,7 +1548,7 @@
     {
       "$id": 308,
       "style": 64,
-      "name": "You have received the contents."
+      "name": "Content received."
     },
     {
       "$id": 309,
@@ -1563,12 +1563,12 @@
     {
       "$id": 311,
       "style": 64,
-      "name": "The Fire Dragons have taught Homura\ntheir new recipe. You can make it\nin the kitchen at either Corrine's\nor Tora's House."
+      "name": "The Fire Dragons taught you a new recipe\nfor Homura's cooking. You can make it\nin the kitchen at Correl's or Tora's House."
     },
     {
       "$id": 312,
       "style": 64,
-      "name": "As thanks, Mehmed has issued\nsome requests to the Merc Group."
+      "name": "As thanks, Mehmed will now send\nrequests to the Merc Group."
     },
     {
       "$id": 313,
@@ -1578,7 +1578,7 @@
     {
       "$id": 314,
       "style": 64,
-      "name": "As a follow-up to the matter, Astal\nhas issued some Merc Group requests."
+      "name": "As a follow-up, Astal has sent\na request to the Merc Group."
     },
     {
       "$id": 315,
@@ -1593,7 +1593,7 @@
     {
       "$id": 317,
       "style": 64,
-      "name": "You can now salvage from Balquors\nRuins in the Cliffs of Mors."
+      "name": "You can now salvage from Balkurus Ruins in the Cliffs of Mors."
     },
     {
       "$id": 318,
@@ -1608,22 +1608,22 @@
     {
       "$id": 320,
       "style": 64,
-      "name": "You can now make the hat Rugena's\nbeen dreaming of. This will require\nusing Mei's Field Skill."
+      "name": "You can now make the stylish hat Rugena\nwanted. This requires Mei's Field Skill."
     },
     {
       "$id": 321,
       "style": 64,
-      "name": "Love Source is a pouch item that\ngreatly increases Trust."
+      "name": "Horerugen is a pouch item.\nIt greatly increases Trust."
     },
     {
       "$id": 322,
       "style": 64,
-      "name": "From now on, if you pick more\nFlutterheart Grass in Luxuria, you\ncan make more of the elixir here."
+      "name": "Go to Luxuria and get Dokidoki Shisou\nto make Horerugen here again."
     },
     {
       "$id": 323,
       "style": 64,
-      "name": "As thanks, Goffredo has issued\nsome requests to the Merc Group."
+      "name": "As thanks, Goffredo will now send\nrequests to the Merc Group."
     },
     {
       "$id": 324,
@@ -1633,7 +1633,7 @@
     {
       "$id": 325,
       "style": 64,
-      "name": "As thanks, Carsem has issued\nsome requests to the Merc Group."
+      "name": "As thanks, Carsem will now send\nrequests to the Merc Group."
     },
     {
       "$id": 326,
@@ -1643,12 +1643,12 @@
     {
       "$id": 327,
       "style": 64,
-      "name": "Sisoso has completed work on the\nspecial cylinder."
+      "name": "Thanks to Sisoso, the special cylinder\nis complete."
     },
     {
       "$id": 328,
       "style": 64,
-      "name": "You can use the Booster Cylinder\nat the Salvage Point on Gula's\nLasqam Island."
+      "name": "Let's try using the Booster Cylinder at\nthe Salvage Point on Gula's Lasqam Island."
     },
     {
       "$id": 329,
@@ -1658,7 +1658,7 @@
     {
       "$id": 330,
       "style": 64,
-      "name": "Jenii will pass on the orders\nfor Yuou's Just Desserts to the\nMerc Group from now on."
+      "name": "Jenny will now pass requests sent to\nUO Sweets on to the Merc Group."
     },
     {
       "$id": 331,
@@ -1668,12 +1668,12 @@
     {
       "$id": 332,
       "style": 64,
-      "name": "Bring Barhanen the materials and\nhe'll make Accessories for you."
+      "name": "Bring Barhanen materials and he will\ncontinue making accessories for you."
     },
     {
       "$id": 333,
       "style": 64,
-      "name": "Gather the Ellook Horns from Ripbik\nEllook, along with any other necessary\nmaterials, then bring them to him."
+      "name": "Get materials from Ripobik Ellook\nand bring them to him."
     },
     {
       "$id": 334,
@@ -1683,7 +1683,7 @@
     {
       "$id": 335,
       "style": 64,
-      "name": "You can lower your Drivers' levels \nwhile playing New Game Plus.\nWhen you lower their level, you can\nkeep the EXP difference as Bonus EXP."
+      "name": "You can lower your Drivers' levels \nwhile playing Advanced New Game.\nWhen you lower their level, you can\nkeep the EXP difference as Bonus EXP."
     },
     {
       "$id": 336,
@@ -1708,12 +1708,12 @@
     {
       "$id": 340,
       "style": 64,
-      "name": "This Blade's weapon can't be modified.\nDo you still want to buy Core Chips?"
+      "name": "This Blade's weapon can't be enhanced.\nDo you still want to buy Core Chips?"
     },
     {
       "$id": 341,
       "style": 64,
-      "name": "You got 20,000 ether crystals."
+      "name": "You got 20,000 Ether Crystals."
     },
     {
       "$id": 342,
@@ -1738,7 +1738,7 @@
     {
       "$id": 346,
       "style": 64,
-      "name": "You can only dispatch one model\nof Hana at a time."
+      "name": "You can only dispatch one of Hana's modes\nat a time."
     },
     {
       "$id": 347,
@@ -1753,7 +1753,7 @@
     {
       "$id": 349,
       "style": 64,
-      "name": "If you tell tales in exchange for items,\nthe amount of Bonus EXP required will\nbe taken from the active character."
+      "name": "When exchanging items, the required Bonus EXP\nis taken from the character currently speaking."
     },
     {
       "$id": 350,
@@ -1763,12 +1763,12 @@
     {
       "$id": 351,
       "style": 57,
-      "name": "Yes (View Awakening)"
+      "name": "Yes (Normal Mode)"
     },
     {
       "$id": 352,
       "style": 57,
-      "name": "Yes (Skip Awakening)"
+      "name": "Yes (Simple Mode)"
     },
     {
       "$id": 353,
@@ -1778,7 +1778,7 @@
     {
       "$id": 354,
       "style": 64,
-      "name": "Start New Game Plus?"
+      "name": "Start Advanced New Game?"
     },
     {
       "$id": 355,
@@ -1803,7 +1803,7 @@
     {
       "$id": 359,
       "style": 64,
-      "name": "The downloadable content has\nbeen removed. Please redownload\nthe content to continue playing your\npreviously-saved game."
+      "name": "The downloadable content has been removed.\nPlease redownload the content to continue."
     },
     {
       "$id": 360,
@@ -1818,22 +1818,22 @@
     {
       "$id": 362,
       "style": 64,
-      "name": "The camping screen will be closed.\nIs that okay?"
+      "name": "End camp?\nIs that okay?"
     },
     {
       "$id": 363,
       "style": 64,
-      "name": "The camping screen will be closed\nand you will rest until morning.\nIs that okay?"
+      "name": "Rest until morning and end camp?\nIs that okay?"
     },
     {
       "$id": 364,
       "style": 64,
-      "name": "Laura and Kasumi will be removed from\nthe party if you approach the flagship."
+      "name": "Laura and Kasumi will be removed from\nthe party if you approach the Royal Ship."
     },
     {
       "$id": 365,
       "style": 64,
-      "name": "If you want to re-add Laura to the party,\nreturn to Torigo and speak to her."
+      "name": "If you want to re-add Laura to the party,\nreturn to Torigo Village and speak to her."
     },
     {
       "$id": 366,
@@ -1843,7 +1843,7 @@
     {
       "$id": 367,
       "style": 57,
-      "name": "Give up on challenge"
+      "name": "Return to Challenge"
     },
     {
       "$id": 368,
@@ -1858,7 +1858,7 @@
     {
       "$id": 370,
       "style": 64,
-      "name": "You can now collect Panacellin\nwhenever you like."
+      "name": "You can now collect Medicarin\nwhenever you like."
     },
     {
       "$id": 371,
@@ -1868,12 +1868,12 @@
     {
       "$id": 372,
       "style": 64,
-      "name": "After you check Hibana's Affinity\nchart, you'll be able to use her cooking\nskill at Tora's House."
+      "name": "After you check Hibana's Bonding Ring, you'll be able to use her cooking\nskill at Tora's House."
     },
     {
       "$id": 373,
       "style": 64,
-      "name": "Hibana's cooking repertoire\nhas increased."
+      "name": "Hibana can now make more\nblazing-hot dishes."
     },
     {
       "$id": 374,
@@ -1883,17 +1883,17 @@
     {
       "$id": 375,
       "style": 64,
-      "name": "Let's go ahead and make Trout Stralu."
+      "name": "Let's go ahead and make Trout Ruushichi."
     },
     {
       "$id": 376,
       "style": 64,
-      "name": "Elma's Focus and Lockpicking\nAffinity Rewards have been updated."
+      "name": "Elma's Focus and Lockpicking\nBonding Gifts have been updated."
     },
     {
       "$id": 377,
       "style": 64,
-      "name": "Some of Kamuya's Affinity Reward\nconditions have been revealed."
+      "name": "Some of Kamuya's Bonding Gift\nconditions have been revealed."
     },
     {
       "$id": 378,
@@ -1908,7 +1908,7 @@
     {
       "$id": 380,
       "style": 64,
-      "name": "This will use a NoponGro: Truth.\nIs this okay?"
+      "name": "This will use a NoponGro: Sincerity.\nIs this okay?"
     },
     {
       "$id": 381,
@@ -1933,7 +1933,7 @@
     {
       "$id": 385,
       "style": 64,
-      "name": "You can lower your teams' levels \nwhile playing New Game Plus.\nWhen you lower their level, you can\nkeep the EXP difference as Bonus EXP."
+      "name": "You can lower your teams' levels \nwhile playing Advanced New Game.\nWhen you lower their level, you can\nkeep the EXP difference as Bonus EXP."
     },
     {
       "$id": 386,
@@ -1948,7 +1948,7 @@
     {
       "$id": 388,
       "style": 64,
-      "name": "Help others out as much as you can\nto build up your Community, then\ntalk to Macmac."
+      "name": "Help others out as much as you can\nto build up your Community, then\ntalk to Makumaku."
     }
   ]
 }

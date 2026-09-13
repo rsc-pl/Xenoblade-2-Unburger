@@ -23,12 +23,12 @@
     {
       "$id": 3,
       "style": 25,
-      "name": "Adjust the response times for the\nautomatically controlled camera."
+      "name": "Adjust auto-camera interpolation speed."
     },
     {
       "$id": 4,
       "style": 25,
-      "name": "Adjust the length of time it takes to\nreset the camera's position."
+      "name": "Adjust camera reset interpolation speed."
     },
     {
       "$id": 5,
@@ -123,7 +123,7 @@
     {
       "$id": 23,
       "style": 25,
-      "name": "Toggle whether foes pick a fight (exc.\nsalvage, unique, boss, and quest foes)."
+      "name": "Toggle enemy detection (except salvage,\nunique, boss, and quest enemies)."
     },
     {
       "$id": 24,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 25,
-      "name": "Adjust Blade Combo buffer time, with\nthe buffer increasing to the right."
+      "name": "Adjust Blade Combo duration, with the\nduration increasing to the right."
     },
     {
       "$id": 29,
@@ -158,12 +158,12 @@
     {
       "$id": 30,
       "style": 25,
-      "name": "Adjust Special gauge gains, with the\namount increasing to the right."
+      "name": "Adjust Special Recast gain, with the\namount increasing to the right."
     },
     {
       "$id": 31,
       "style": 25,
-      "name": "Adjust party members' healing power,\nwith the effect increasing to the right."
+      "name": "Adjust Driver HP recovery, with the\namount increasing to the right."
     },
     {
       "$id": 32,
@@ -183,7 +183,7 @@
     {
       "$id": 35,
       "style": 25,
-      "name": "Toggle enemy aggression. Excludes\nunique, boss, and quest enemies."
+      "name": "Toggle enemy detection. Excludes unique,\nboss, and quest enemies."
     },
     {
       "$id": 36,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 25,
-      "name": "When enabled, special battle music will\nplay with certain Blades in the party."
+      "name": "When enabled, battle BGM switches when\ncertain Blades are in the party."
     }
   ]
 }

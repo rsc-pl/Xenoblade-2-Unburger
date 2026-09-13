@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 167,
-      "name": "Recharges Arts by\n[ML:PouchParam ] each second."
+      "name": "Arts Recast\n+[ML:PouchParam ] each second"
     },
     {
       "$id": 6,
@@ -43,22 +43,22 @@
     {
       "$id": 7,
       "style": 167,
-      "name": "+[ML:PouchParam ] base\nAffinity"
+      "name": "+[ML:PouchParam ] base\nBonding"
     },
     {
       "$id": 8,
       "style": 167,
-      "name": "+[ML:PouchParam ]% Affinity\ngain"
+      "name": "+[ML:PouchParam ]% Bonding\ngain"
     },
     {
       "$id": 9,
       "style": 167,
-      "name": "-[ML:PouchParam ]% Affinity\nloss"
+      "name": "-[ML:PouchParam ]% Bonding\nloss"
     },
     {
       "$id": 10,
       "style": 167,
-      "name": "Specials recharge\n[ML:PouchParam ] each second."
+      "name": "Special Recast\n+[ML:PouchParam ] each second"
     },
     {
       "$id": 11,

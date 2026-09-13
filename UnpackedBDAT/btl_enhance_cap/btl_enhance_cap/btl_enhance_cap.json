@@ -23,7 +23,7 @@
     {
       "$id": 3,
       "style": 41,
-      "name": "Boosts Ether by [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Ether Power by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 4,
@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 41,
-      "name": "Boosts block rate\nby [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Guard Rate\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 11,
@@ -73,7 +73,7 @@
     {
       "$id": 13,
       "style": 41,
-      "name": "Increases Ether by [ML:Enhance kind=Param1 ]."
+      "name": "Increases Ether Power by [ML:Enhance kind=Param1 ]."
     },
     {
       "$id": 14,
@@ -108,7 +108,7 @@
     {
       "$id": 20,
       "style": 41,
-      "name": "Increases block\nrate by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases Guard Rate\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 21,
@@ -123,17 +123,17 @@
     {
       "$id": 23,
       "style": 41,
-      "name": "Counters attacks with\n[ML:Enhance kind=Param1 ]% ether damage."
+      "name": "Counters attacks with damage equal to\n[ML:Enhance kind=Param1 ]% of Ether Power."
     },
     {
       "$id": 24,
       "style": 41,
-      "name": "Counters attacks with\n[ML:Enhance kind=Param1 ]% physical damage."
+      "name": "Counters attacks with damage equal to\n[ML:Enhance kind=Param1 ]% of Strength."
     },
     {
       "$id": 25,
       "style": 41,
-      "name": "Counters Driver Arts with [ML:Enhance kind=Param1 ]% of\nphysical damage and Blowdown."
+      "name": "Counters Driver Arts with damage equal to\n[ML:Enhance kind=Param1 ]% of Strength and inflicts Blow."
     },
     {
       "$id": 26,
@@ -198,12 +198,12 @@
     {
       "$id": 38,
       "style": 41,
-      "name": "Increases damage dealt to\ntoppled enemies by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases damage dealt to\nenemies in Down by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 39,
       "style": 41,
-      "name": "Increases damage dealt to\nlaunched enemies by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases damage dealt to\nenemies in Rising by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 40,
@@ -253,12 +253,12 @@
     {
       "$id": 49,
       "style": 41,
-      "name": "Extends Topple duration\nby [ML:Enhance kind=Param1 ]%."
+      "name": "Extends Down duration\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 50,
       "style": 41,
-      "name": "Extends Launch duration\nby [ML:Enhance kind=Param1 ]%."
+      "name": "Extends Rising duration\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 51,
@@ -293,12 +293,12 @@
     {
       "$id": 57,
       "style": 41,
-      "name": "Reduces enemy Topple resist."
+      "name": "Reduces enemy Down resist."
     },
     {
       "$id": 58,
       "style": 41,
-      "name": "Reduces enemy Launch resist."
+      "name": "Reduces enemy Rising resist."
     },
     {
       "$id": 59,
@@ -318,12 +318,12 @@
     {
       "$id": 62,
       "style": 41,
-      "name": "Boosts block rate by [ML:Enhance kind=Param2 ]% when\nHP is [ML:Enhance kind=Param1 ]% or lower."
+      "name": "Boosts Guard Rate by [ML:Enhance kind=Param2 ]% when\nHP is [ML:Enhance kind=Param1 ]% or lower."
     },
     {
       "$id": 63,
       "style": 41,
-      "name": "Reduces damage from enemies\nwithin a 5m radius by [ML:Enhance kind=Param1 ]%."
+      "name": "Reduces damage taken by allies within\na 5m radius by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 64,
@@ -348,12 +348,12 @@
     {
       "$id": 68,
       "style": 41,
-      "name": "Boosts Topple resistance by [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Down resistance by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 69,
       "style": 41,
-      "name": "Boosts Launch resistance by [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Rising resistance by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 70,
@@ -363,7 +363,7 @@
     {
       "$id": 71,
       "style": 41,
-      "name": "Boosts Blowdown resistance by [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Blow resistance by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 72,
@@ -508,7 +508,7 @@
     {
       "$id": 100,
       "style": 41,
-      "name": "Boosts recharge for Specials after\ncanceling by [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Special Recast gain after\ncanceling by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 101,
@@ -638,7 +638,7 @@
     {
       "$id": 126,
       "style": 41,
-      "name": "[ML:Enhance kind=Param1 ]% chance to reset recharge for\nan enemy Art when a Special connects."
+      "name": "[ML:Enhance kind=Param1 ]% chance to reset an enemy Art's Recast\nwhen a Special connects."
     },
     {
       "$id": 127,
@@ -663,22 +663,22 @@
     {
       "$id": 131,
       "style": 41,
-      "name": "Prevents Affinity loss when\na teammate falls in battle."
+      "name": "Prevents Bonding loss when\na teammate falls in battle."
     },
     {
       "$id": 132,
       "style": 41,
-      "name": "Increases Affinity by [ML:Enhance kind=Param1 ]% after\nwinning a Special button challenge."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ]% after\nwinning a Special button challenge."
     },
     {
       "$id": 133,
       "style": 41,
-      "name": "Increases Affinity by [ML:Enhance kind=Param1 ] when\na fellow Driver misses an attack."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ] when\na fellow Driver misses an attack."
     },
     {
       "$id": 134,
       "style": 41,
-      "name": "Increases Affinity by [ML:Enhance kind=Param1 ] when\na fellow Driver takes damage."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ] when\na fellow Driver takes damage."
     },
     {
       "$id": 135,
@@ -693,27 +693,27 @@
     {
       "$id": 137,
       "style": 41,
-      "name": "When Affinity reaches max, grant party\ndamage barrier of [ML:Enhance kind=Param1 ]% of max HP."
+      "name": "When Bonding reaches max, grant party\ndamage barrier of [ML:Enhance kind=Param1 ]% of max HP."
     },
     {
       "$id": 138,
       "style": 41,
-      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]%\nwhen Affinity is at max."
+      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]%\nwhen Bonding is at max."
     },
     {
       "$id": 139,
       "style": 41,
-      "name": "Increases evasion rate by [ML:Enhance kind=Param1 ]%\nwhen Affinity is at max."
+      "name": "Increases evasion rate by [ML:Enhance kind=Param1 ]%\nwhen Bonding is at max."
     },
     {
       "$id": 140,
       "style": 41,
-      "name": "Increases Affinity by [ML:Enhance kind=Param1 ] when\nstarting a battle with the initiative."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ] when\nstarting a battle with the initiative."
     },
     {
       "$id": 141,
       "style": 41,
-      "name": "Increases Affinity by [ML:Enhance kind=Param1 ] when the\nenemy starts with the initiative."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ] when the\nenemy starts with the initiative."
     },
     {
       "$id": 142,
@@ -728,7 +728,7 @@
     {
       "$id": 144,
       "style": 41,
-      "name": "Extends the range of Driver-Blade\nAffinity by [ML:Enhance kind=Param1 ]cm."
+      "name": "Extends the range of Driver-Blade\nBonding by [ML:Enhance kind=Param1 ]cm."
     },
     {
       "$id": 145,
@@ -753,12 +753,12 @@
     {
       "$id": 149,
       "style": 41,
-      "name": "Increases accuracy and evasion rate\nof team by [ML:Enhance kind=Param1 ]% at max Affinity."
+      "name": "Increases accuracy and evasion rate\nof team by [ML:Enhance kind=Param1 ]% at max Bonding."
     },
     {
       "$id": 150,
       "style": 41,
-      "name": "Can initiate elemental\ncombo at random."
+      "name": "Can initiate a combo of any\nchosen element."
     },
     {
       "$id": 151,
@@ -778,7 +778,7 @@
     {
       "$id": 154,
       "style": 41,
-      "name": "Boosts Arts recharge by [ML:Enhance kind=Param1 ]%\nat max Affinity."
+      "name": "Boosts Arts Recast gain by [ML:Enhance kind=Param1 ]%\nat max Bonding."
     },
     {
       "$id": 155,
@@ -803,12 +803,12 @@
     {
       "$id": 159,
       "style": 41,
-      "name": "After achieving max Affinity in combat,\nevade enemy attacks for [ML:Enhance kind=Param1 ] seconds."
+      "name": "After achieving max Bonding in combat,\nevade enemy attacks for [ML:Enhance kind=Param1 ] seconds."
     },
     {
       "$id": 160,
       "style": 41,
-      "name": "Increases damage dealt to toppled\nor launched enemies by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases damage dealt to enemies in Down\nor Rising by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 161,
@@ -818,12 +818,12 @@
     {
       "$id": 162,
       "style": 41,
-      "name": "Reduces party damage taken\nby [ML:Enhance kind=Param1 ]% at max Affinity."
+      "name": "Reduces party damage taken\nby [ML:Enhance kind=Param1 ]% at max Bonding."
     },
     {
       "$id": 163,
       "style": 41,
-      "name": "Increases damage and AOE of party\nattacks by [ML:Enhance kind=Param1 ]% at max Affinity."
+      "name": "Increases damage and AOE of party\nattacks by [ML:Enhance kind=Param1 ]% at max Bonding."
     },
     {
       "$id": 164,
@@ -833,7 +833,7 @@
     {
       "$id": 165,
       "style": 41,
-      "name": "Increases effectiveness of party healing\nby [ML:Enhance kind=Param1 ]% when at max Affinity."
+      "name": "Increases effectiveness of party healing\nby [ML:Enhance kind=Param1 ]% when at max Bonding."
     },
     {
       "$id": 166,
@@ -883,7 +883,7 @@
     {
       "$id": 175,
       "style": 41,
-      "name": "Reduces recharge of enemies in battle\nby [ML:Enhance kind=Param1 ]% when at max Affinity."
+      "name": "Slows enemies' Recast in battle by\n[ML:Enhance kind=Param1 ]% at max Bonding."
     },
     {
       "$id": 176,
@@ -893,7 +893,7 @@
     {
       "$id": 177,
       "style": 41,
-      "name": "[ML:Enhance kind=Param1 ]% chance to not deplete recharge\nafter a Driver Art or Special."
+      "name": "[ML:Enhance kind=Param1 ]% chance not to consume Recast\nafter a Driver Art or Special."
     },
     {
       "$id": 178,
@@ -903,7 +903,7 @@
     {
       "$id": 179,
       "style": 41,
-      "name": "Deal [ML:Enhance kind=Param1 ]% more and take [ML:Enhance kind=Param2 ]%\nmore damage when at max Affinity."
+      "name": "Deal [ML:Enhance kind=Param1 ]% more and take [ML:Enhance kind=Param2 ]%\nmore damage when at max Bonding."
     },
     {
       "$id": 180,
@@ -938,7 +938,7 @@
     {
       "$id": 186,
       "style": 41,
-      "name": "Increases dmg dealt to toppled enemies\nby [ML:Enhance kind=Param1 ]%, extending Topple duration."
+      "name": "Increases dmg dealt to enemies in Down\nby [ML:Enhance kind=Param1 ]%, extending Down duration."
     },
     {
       "$id": 187,
@@ -953,17 +953,17 @@
     {
       "$id": 189,
       "style": 41,
-      "name": "Recharges Arts used by [ML:Enhance kind=Param1 ]% upon\nlanding a critical hit."
+      "name": "Restores [ML:Enhance kind=Param1 ]% Recast to the Art used\nupon landing a critical hit."
     },
     {
       "$id": 190,
       "style": 41,
-      "name": "Recharges Art or Special used by\n[ML:Enhance kind=Param1 ]% upon landing a critical hit."
+      "name": "Restores [ML:Enhance kind=Param1 ]% Recast to the Art or Special\nused upon landing a critical hit."
     },
     {
       "$id": 191,
       "style": 41,
-      "name": "Increases Affinity by [ML:Enhance kind=Param1 ]\nwhen using a Special."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ]\nwhen using a Special."
     },
     {
       "$id": 192,
@@ -983,7 +983,7 @@
     {
       "$id": 195,
       "style": 41,
-      "name": "Increases accuracy by [ML:Enhance kind=Param1 ]%\nat max Affinity."
+      "name": "Increases accuracy by [ML:Enhance kind=Param1 ]%\nat max Bonding."
     },
     {
       "$id": 196,
@@ -998,7 +998,7 @@
     {
       "$id": 198,
       "style": 41,
-      "name": "Deal [ML:Enhance kind=Param1 ]% more and take [ML:Enhance kind=Param2 ]% less\ndamage at max Affinity."
+      "name": "Deal [ML:Enhance kind=Param1 ]% more and take [ML:Enhance kind=Param2 ]% less\ndamage at max Bonding."
     },
     {
       "$id": 199,
@@ -1028,17 +1028,17 @@
     {
       "$id": 204,
       "style": 41,
-      "name": "Increases damage dealt by the party\nby [ML:Enhance kind=Param1 ]% when at max Affinity."
+      "name": "Increases damage dealt by the party\nby [ML:Enhance kind=Param1 ]% when at max Bonding."
     },
     {
       "$id": 205,
       "style": 41,
-      "name": "Greatly enhances the Driver's abilities\nthrough the power of the Holy Grail."
+      "name": "Greatly enhances the Driver's abilities\nthrough the power of Heaven's Holy Grail."
     },
     {
       "$id": 206,
       "style": 41,
-      "name": "Greatly enhances the party's abilities\nthrough the power of the Holy Grail."
+      "name": "Greatly enhances the party's abilities\nthrough the power of Heaven's Holy Grail."
     },
     {
       "$id": 207,
@@ -1098,7 +1098,7 @@
     {
       "$id": 218,
       "style": 41,
-      "name": "Increases damage dealt to\naerial creatures by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases damage dealt to Flyers by\n[ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 219,
@@ -1133,7 +1133,7 @@
     {
       "$id": 225,
       "style": 41,
-      "name": "[ML:Enhance kind=Param2 ]% chance of felling an aerial foe\non attack (fails on bosses/uniques)."
+      "name": "[ML:Enhance kind=Param2 ]% chance of felling a Flyer on attack\n(fails on bosses/uniques)."
     },
     {
       "$id": 226,
@@ -1193,7 +1193,7 @@
     {
       "$id": 237,
       "style": 41,
-      "name": "Periodically restores [ML:Enhance kind=Param1 ]% HP to\nentire party while at max Affinity."
+      "name": "Periodically restores [ML:Enhance kind=Param1 ]% HP to\nentire party while at max Bonding."
     },
     {
       "$id": 238,
@@ -1283,7 +1283,7 @@
     {
       "$id": 255,
       "style": 41,
-      "name": "Increases attack power of Catalyst\nScimitar-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of\nScimitar-class weapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 256,
@@ -1293,27 +1293,27 @@
     {
       "$id": 257,
       "style": 41,
-      "name": "Increases attack power of\nDrill Shield-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of\nHana Shield-class weapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 258,
       "style": 41,
-      "name": "Increases attack power of\nMech Arms-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of\nHana Arms-class weapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 259,
       "style": 41,
-      "name": "Increases attack power of Variable\nSaber-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of\nHana Saber-class weapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 260,
       "style": 41,
-      "name": "Increases attack power of\nWhipsword-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of Saber-class\nweapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 261,
       "style": 41,
-      "name": "Increases attack power of Big Bang\nEdge-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of\nGreatsword-class weapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 262,
@@ -1323,12 +1323,12 @@
     {
       "$id": 263,
       "style": 41,
-      "name": "Increases attack power of\nGreataxe-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of Axe-class\nweapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 264,
       "style": 41,
-      "name": "Increases attack power of\nMegalance-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of Lance-class\nweapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 265,
@@ -1338,17 +1338,17 @@
     {
       "$id": 266,
       "style": 41,
-      "name": "Increases attack power of Shield\nHammer-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of Hammer-class\nweapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 267,
       "style": 41,
-      "name": "Increases attack power of Chroma\nKatana-class weapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of Katana-class\nweapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 268,
       "style": 41,
-      "name": "Increases attack power of Bitball-class\nweapons by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases attack power of Ball-class\nweapons by [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 269,
@@ -1358,7 +1358,7 @@
     {
       "$id": 270,
       "style": 41,
-      "name": "Restores [ML:Enhance kind=Param1 ]% HP when guarding.\nRecharges other Arts when attacked."
+      "name": "Restores [ML:Enhance kind=Param1 ]% HP when guarding. Restores\nother Arts' Recast when attacked."
     },
     {
       "$id": 271,
@@ -1478,7 +1478,7 @@
     {
       "$id": 294,
       "style": 41,
-      "name": "At max Affinity w/ Saika: R and +\nto awaken for a time (once per battle)."
+      "name": "At max Bonding w/ Saika: R and +\nto awaken for a time (once per battle)."
     },
     {
       "$id": 295,
@@ -1508,7 +1508,7 @@
     {
       "$id": 300,
       "style": 41,
-      "name": "Increases party critical hit rate by\n[ML:Enhance kind=Param1 ]% at max Affinity."
+      "name": "Increases party critical hit rate by\n[ML:Enhance kind=Param1 ]% at max Bonding."
     },
     {
       "$id": 301,
@@ -1518,7 +1518,7 @@
     {
       "$id": 302,
       "style": 41,
-      "name": "Deals [ML:Enhance kind=Param1 ]% ether damage to all foes\nin combat when you evade an attack."
+      "name": "On evasion, deal [ML:Enhance kind=Param1 ]% Ether Power damage\nto all combat foes."
     },
     {
       "$id": 303,
@@ -1528,17 +1528,17 @@
     {
       "$id": 304,
       "style": 41,
-      "name": "Boosts recharge for Driver Arts by\n[ML:Enhance kind=Param1 ] when you evade an attack."
+      "name": "Boosts Driver Arts' Recast by\n[ML:Enhance kind=Param1 ] when you evade an attack."
     },
     {
       "$id": 305,
       "style": 41,
-      "name": "Increase dmg. dealt by [ML:Enhance kind=Param1 ]% and eva.\nrate by [ML:Enhance kind=Param2 ]% when Affinity is at max."
+      "name": "Increase dmg. dealt by [ML:Enhance kind=Param1 ]% and eva.\nrate by [ML:Enhance kind=Param2 ]% when Bonding is at max."
     },
     {
       "$id": 306,
       "style": 41,
-      "name": "Increases damage dealt by party by\n[ML:Enhance kind=Param1 ]% when a Launched enemy is hit."
+      "name": "Increases damage dealt by party by\n[ML:Enhance kind=Param1 ]% when an enemy in Rising is hit."
     },
     {
       "$id": 307,
@@ -1583,7 +1583,7 @@
     {
       "$id": 315,
       "style": 41,
-      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]% on\nevery Vanguard Switch (max: [ML:Enhance ]%)."
+      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]% on\nevery Attacker Switch (max: [ML:Enhance ]%)."
     },
     {
       "$id": 316,
@@ -1608,7 +1608,7 @@
     {
       "$id": 320,
       "style": 41,
-      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]% and\ncritical rate by [ML:Enhance kind=Param2 ]% at max Affinity."
+      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]% and\ncritical rate by [ML:Enhance kind=Param2 ]% at max Bonding."
     },
     {
       "$id": 321,
@@ -1628,7 +1628,7 @@
     {
       "$id": 324,
       "style": 41,
-      "name": "Boosts Arts recharge from auto-attack."
+      "name": "Boosts Recast gain from auto-attacks."
     },
     {
       "$id": 325,
@@ -1688,22 +1688,22 @@
     {
       "$id": 336,
       "style": 41,
-      "name": "When recoverable HP exists,\nincreases damage dealt by [ML:Enhance kind=Param1 ]%."
+      "name": "When Reserve HP exists,\nincreases damage dealt by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 337,
       "style": 41,
-      "name": "When recoverable HP exists,\nincreases evade rate by [ML:Enhance kind=Param1 ]%."
+      "name": "When Reserve HP exists,\nincreases evade rate by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 338,
       "style": 41,
-      "name": "When recoverable HP exists,\nincreases guard rate by [ML:Enhance kind=Param1 ]%."
+      "name": "When Reserve HP exists,\nincreases Guard Rate by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 339,
       "style": 41,
-      "name": "When recoverable HP exists,\nincreases critical hit rate by [ML:Enhance kind=Param1 ]%."
+      "name": "When Reserve HP exists,\nincreases critical hit rate by [ML:Enhance kind=Param1 ]%."
     }
   ]
 }

@@ -33,7 +33,7 @@
     {
       "$id": 5,
       "style": 16,
-      "name": "Topple / HP Potion"
+      "name": "Down / HP Potion"
     },
     {
       "$id": 6,
@@ -78,7 +78,7 @@
     {
       "$id": 14,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 15,
@@ -98,17 +98,17 @@
     {
       "$id": 18,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 19,
       "style": 16,
-      "name": "AOE / Blowdown"
+      "name": "AOE / Blow"
     },
     {
       "$id": 20,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 21,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 27,
@@ -148,12 +148,12 @@
     {
       "$id": 28,
       "style": 16,
-      "name": "Critical recharge"
+      "name": "Critical Recast"
     },
     {
       "$id": 29,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 30,
@@ -188,7 +188,7 @@
     {
       "$id": 36,
       "style": 16,
-      "name": "AOE / Blowdown"
+      "name": "AOE / Blow"
     },
     {
       "$id": 37,
@@ -213,7 +213,7 @@
     {
       "$id": 41,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 42,
@@ -243,7 +243,7 @@
     {
       "$id": 47,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 48,
@@ -253,12 +253,12 @@
     {
       "$id": 49,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 50,
       "style": 16,
-      "name": "Blowdown / Cancel atk↑"
+      "name": "Blow / Cancel attack↑"
     },
     {
       "$id": 51,
@@ -288,7 +288,7 @@
     {
       "$id": 56,
       "style": 16,
-      "name": "AOE / Side atk↑"
+      "name": "AOE / Side attack↑"
     },
     {
       "$id": 57,
@@ -298,17 +298,17 @@
     {
       "$id": 58,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 59,
       "style": 16,
-      "name": "Critical recharge"
+      "name": "Critical Recast"
     },
     {
       "$id": 60,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 61,
@@ -338,7 +338,7 @@
     {
       "$id": 66,
       "style": 16,
-      "name": "Cancel atk↑"
+      "name": "Cancel attack↑"
     },
     {
       "$id": 67,
@@ -348,7 +348,7 @@
     {
       "$id": 68,
       "style": 16,
-      "name": "AOE / Launched↑"
+      "name": "AOE / Rising↑"
     },
     {
       "$id": 69,
@@ -368,7 +368,7 @@
     {
       "$id": 72,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 73,
@@ -408,7 +408,7 @@
     {
       "$id": 80,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 81,
@@ -423,12 +423,12 @@
     {
       "$id": 83,
       "style": 16,
-      "name": "Knockback / Side atk↑"
+      "name": "Knockback / Side attack↑"
     },
     {
       "$id": 84,
       "style": 16,
-      "name": "AOE / Launch"
+      "name": "AOE / Rising"
     },
     {
       "$id": 85,
@@ -438,12 +438,12 @@
     {
       "$id": 86,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 87,
       "style": 16,
-      "name": "Topple / Low HP↑"
+      "name": "Down / Low HP↑"
     },
     {
       "$id": 88,
@@ -478,7 +478,7 @@
     {
       "$id": 94,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 95,
@@ -488,7 +488,7 @@
     {
       "$id": 96,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 97,
@@ -508,7 +508,7 @@
     {
       "$id": 100,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 101,
@@ -543,7 +543,7 @@
     {
       "$id": 107,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 108,
@@ -563,17 +563,17 @@
     {
       "$id": 111,
       "style": 16,
-      "name": "Critical recharge"
+      "name": "Critical Recast"
     },
     {
       "$id": 112,
       "style": 16,
-      "name": "Blowdown"
+      "name": "Blow"
     },
     {
       "$id": 113,
       "style": 16,
-      "name": "AOE / Launched↑"
+      "name": "AOE / Rising↑"
     },
     {
       "$id": 114,
@@ -613,12 +613,12 @@
     {
       "$id": 121,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 122,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 123,
@@ -628,12 +628,12 @@
     {
       "$id": 124,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 125,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 126,
@@ -668,7 +668,7 @@
     {
       "$id": 132,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 133,
@@ -683,7 +683,7 @@
     {
       "$id": 135,
       "style": 16,
-      "name": "Blowdown"
+      "name": "Blow"
     },
     {
       "$id": 136,
@@ -718,12 +718,12 @@
     {
       "$id": 142,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 143,
       "style": 16,
-      "name": "Knockback / Front atk↑"
+      "name": "Knockback / Front attack↑"
     },
     {
       "$id": 144,
@@ -733,12 +733,12 @@
     {
       "$id": 145,
       "style": 16,
-      "name": "AOE / Toppled↑/ Blowdown"
+      "name": "AOE / Down↑/ Blow"
     },
     {
       "$id": 146,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 147,
@@ -748,12 +748,12 @@
     {
       "$id": 148,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 149,
       "style": 16,
-      "name": "AOE / Critical recharge"
+      "name": "AOE / Critical Recast"
     },
     {
       "$id": 150,
@@ -793,7 +793,7 @@
     {
       "$id": 157,
       "style": 16,
-      "name": "AOE / Launched↑"
+      "name": "AOE / Rising↑"
     },
     {
       "$id": 158,
@@ -808,12 +808,12 @@
     {
       "$id": 160,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 161,
       "style": 16,
-      "name": "Blowdown / Low HP↑"
+      "name": "Blow / Low HP↑"
     },
     {
       "$id": 162,
@@ -843,7 +843,7 @@
     {
       "$id": 167,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 168,
@@ -858,12 +858,12 @@
     {
       "$id": 170,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 171,
       "style": 16,
-      "name": "Blowdown / Back atk↑"
+      "name": "Blow / Back attack↑"
     },
     {
       "$id": 172,
@@ -903,12 +903,12 @@
     {
       "$id": 179,
       "style": 16,
-      "name": "Topple / Launch / Smash"
+      "name": "Down / Rising / Smash"
     },
     {
       "$id": 180,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 181,
@@ -943,7 +943,7 @@
     {
       "$id": 187,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 188,
@@ -998,7 +998,7 @@
     {
       "$id": 198,
       "style": 16,
-      "name": "Critical recharge"
+      "name": "Critical Recast"
     },
     {
       "$id": 199,
@@ -1013,12 +1013,12 @@
     {
       "$id": 201,
       "style": 16,
-      "name": "Launched↑ / Pierce"
+      "name": "Rising↑ / Pierce"
     },
     {
       "$id": 202,
       "style": 16,
-      "name": "AOE / Blowdown"
+      "name": "AOE / Blow"
     },
     {
       "$id": 203,
@@ -1028,7 +1028,7 @@
     {
       "$id": 204,
       "style": 16,
-      "name": "Blowdown / Front attack↑"
+      "name": "Blow / Front attack↑"
     },
     {
       "$id": 205,
@@ -1048,7 +1048,7 @@
     {
       "$id": 208,
       "style": 16,
-      "name": "Blowdown / Low HP↑"
+      "name": "Blow / Low HP↑"
     },
     {
       "$id": 209,
@@ -1068,7 +1068,7 @@
     {
       "$id": 212,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 213,
@@ -1128,7 +1128,7 @@
     {
       "$id": 224,
       "style": 16,
-      "name": "Break / Critical recharge"
+      "name": "Break / Critical Recast"
     },
     {
       "$id": 225,
@@ -1158,7 +1158,7 @@
     {
       "$id": 230,
       "style": 16,
-      "name": "AOE / Launched↑"
+      "name": "AOE / Rising↑"
     },
     {
       "$id": 231,
@@ -1178,7 +1178,7 @@
     {
       "$id": 234,
       "style": 16,
-      "name": "AOE / Launch"
+      "name": "AOE / Rising"
     },
     {
       "$id": 235,
@@ -1198,7 +1198,7 @@
     {
       "$id": 238,
       "style": 16,
-      "name": "AOE / Launch"
+      "name": "AOE / Rising"
     },
     {
       "$id": 239,
@@ -1218,12 +1218,12 @@
     {
       "$id": 242,
       "style": 16,
-      "name": "Blowdown"
+      "name": "Blow"
     },
     {
       "$id": 243,
       "style": 16,
-      "name": "Aggro down / AOE"
+      "name": "AOE / Aggro down"
     },
     {
       "$id": 244,
@@ -1273,7 +1273,7 @@
     {
       "$id": 253,
       "style": 16,
-      "name": "Critical recharge"
+      "name": "Critical Recast"
     },
     {
       "$id": 254,
@@ -1303,7 +1303,7 @@
     {
       "$id": 259,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 260,
@@ -1313,7 +1313,7 @@
     {
       "$id": 261,
       "style": 16,
-      "name": "Blowdown"
+      "name": "Blow"
     },
     {
       "$id": 262,
@@ -1333,7 +1333,7 @@
     {
       "$id": 265,
       "style": 16,
-      "name": "Blowdown"
+      "name": "Blow"
     },
     {
       "$id": 266,
@@ -1348,12 +1348,12 @@
     {
       "$id": 268,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 269,
       "style": 16,
-      "name": "Aggro down / AOE"
+      "name": "AOE / Aggro down"
     },
     {
       "$id": 270,
@@ -1408,7 +1408,7 @@
     {
       "$id": 280,
       "style": 16,
-      "name": "Critical recharge"
+      "name": "Critical Recast"
     },
     {
       "$id": 281,
@@ -1443,17 +1443,17 @@
     {
       "$id": 287,
       "style": 16,
-      "name": "AOE / Launched↑"
+      "name": "AOE / Rising↑"
     },
     {
       "$id": 288,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 289,
       "style": 16,
-      "name": "Blowdown / Front attack↑"
+      "name": "Blow / Front attack↑"
     },
     {
       "$id": 290,
@@ -1468,12 +1468,12 @@
     {
       "$id": 292,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 293,
       "style": 16,
-      "name": "Blowdown / Low HP↑"
+      "name": "Blow / Low HP↑"
     },
     {
       "$id": 294,
@@ -1503,7 +1503,7 @@
     {
       "$id": 299,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 300,
@@ -1518,7 +1518,7 @@
     {
       "$id": 302,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 303,
@@ -1528,7 +1528,7 @@
     {
       "$id": 304,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 305,
@@ -1538,7 +1538,7 @@
     {
       "$id": 306,
       "style": 16,
-      "name": "Toppled↑"
+      "name": "Down↑"
     },
     {
       "$id": 307,
@@ -1558,7 +1558,7 @@
     {
       "$id": 310,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 311,
@@ -1583,7 +1583,7 @@
     {
       "$id": 315,
       "style": 16,
-      "name": "AOE / Critical recharge"
+      "name": "AOE / Critical Recast"
     },
     {
       "$id": 316,
@@ -1598,7 +1598,7 @@
     {
       "$id": 318,
       "style": 16,
-      "name": "AOE / Critical recharge"
+      "name": "AOE / Critical Recast"
     },
     {
       "$id": 319,
@@ -1618,7 +1618,7 @@
     {
       "$id": 322,
       "style": 16,
-      "name": "AOE / Critical recharge"
+      "name": "AOE / Critical Recast"
     },
     {
       "$id": 323,
@@ -1638,7 +1638,7 @@
     {
       "$id": 326,
       "style": 16,
-      "name": "AOE / Critical recharge"
+      "name": "AOE / Critical Recast"
     },
     {
       "$id": 327,
@@ -1678,7 +1678,7 @@
     {
       "$id": 334,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 335,
@@ -1713,7 +1713,7 @@
     {
       "$id": 341,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 342,
@@ -1753,12 +1753,12 @@
     {
       "$id": 349,
       "style": 16,
-      "name": "Launch"
+      "name": "Rising"
     },
     {
       "$id": 350,
       "style": 16,
-      "name": "AOE / Blowdown"
+      "name": "AOE / Blow"
     },
     {
       "$id": 351,
@@ -1783,12 +1783,12 @@
     {
       "$id": 355,
       "style": 16,
-      "name": "AOE / Topple"
+      "name": "AOE / Down"
     },
     {
       "$id": 356,
       "style": 16,
-      "name": "AOE / Toppled↑"
+      "name": "AOE / Down↑"
     },
     {
       "$id": 357,
@@ -1858,7 +1858,7 @@
     {
       "$id": 370,
       "style": 16,
-      "name": "Topple"
+      "name": "Down"
     },
     {
       "$id": 371,
@@ -1898,7 +1898,7 @@
     {
       "$id": 378,
       "style": 16,
-      "name": "Launched↑"
+      "name": "Rising↑"
     },
     {
       "$id": 379,
@@ -1958,17 +1958,17 @@
     {
       "$id": 390,
       "style": 16,
-      "name": "Launch / Evasion"
+      "name": "Rising / Evasion"
     },
     {
       "$id": 391,
       "style": 16,
-      "name": "Evasion / Counter / Launch"
+      "name": "Evasion / Counter / Rising"
     },
     {
       "$id": 392,
       "style": 16,
-      "name": "AOE / Pierce / Blowdown"
+      "name": "AOE / Pierce / Blow"
     },
     {
       "$id": 393,
@@ -1978,17 +1978,17 @@
     {
       "$id": 394,
       "style": 16,
-      "name": "HP halved / Recover recharge"
+      "name": "HP halved / Restore Recast"
     },
     {
       "$id": 395,
       "style": 16,
-      "name": "Consume recoverable HP / Boost stats"
+      "name": "Consume Reserve HP / Boost stats"
     },
     {
       "$id": 396,
       "style": 16,
-      "name": "Consume recharge / Stop enemies"
+      "name": "Consume Recast / Stop enemies"
     },
     {
       "$id": 397,
@@ -2028,12 +2028,12 @@
     {
       "$id": 404,
       "style": 41,
-      "name": "When character has recoverable HP."
+      "name": "When character has Reserve HP."
     },
     {
       "$id": 405,
       "style": 41,
-      "name": "When all Arts are fully charged."
+      "name": "When all Arts' Recast is full."
     },
     {
       "$id": 406,
@@ -2048,7 +2048,7 @@
     {
       "$id": 408,
       "style": 41,
-      "name": "When Affinity is at maximum."
+      "name": "When Bonding is at maximum."
     },
     {
       "$id": 409,
@@ -2068,17 +2068,17 @@
     {
       "$id": 412,
       "style": 41,
-      "name": "Reduce own HP by half\nto fully recharge all Arts."
+      "name": "Reduce own HP by half\nto fully restore all Arts' Recast."
     },
     {
       "$id": 413,
       "style": 41,
-      "name": "Consume own recoverable HP to boost\nattack, acc., evasion, speed for 30 sec."
+      "name": "Consume own Reserve HP to boost\nattack, acc., evasion, speed for 30 sec."
     },
     {
       "$id": 414,
       "style": 41,
-      "name": "Reduce own Arts recharge to zero to\nstop enemies from acting for 5 sec."
+      "name": "Set own Arts Recast to zero to\nstop enemies from acting for 5 sec."
     },
     {
       "$id": 415,

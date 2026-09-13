@@ -668,7 +668,7 @@
     {
       "$id": 132,
       "style": 166,
-      "name": "Unburger Patch 0.8.2"
+      "name": "Unburger Patch 0.9.0"
     },
     {
       "$id": 133,
@@ -1028,7 +1028,7 @@
     {
       "$id": 204,
       "style": 14,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 205,
@@ -1098,12 +1098,12 @@
     {
       "$id": 218,
       "style": 28,
-      "name": "HLR"
+      "name": "REC"
     },
     {
       "$id": 219,
       "style": 28,
-      "name": "TNK"
+      "name": "DEF"
     },
     {
       "$id": 220,
@@ -1263,12 +1263,12 @@
     {
       "$id": 251,
       "style": 36,
-      "name": "Notice"
+      "name": "Notices"
     },
     {
       "$id": 252,
       "style": 25,
-      "name": "You can undertake a level-up mission\nand raise your Merc Group Rank!"
+      "name": "You can undertake a level-up mission\nand raise your Merc Group Level!"
     },
     {
       "$id": 253,
@@ -1463,7 +1463,7 @@
     {
       "$id": 291,
       "style": 15,
-      "name": "Arms Class"
+      "name": "Weapon Type"
     },
     {
       "$id": 292,
@@ -2413,7 +2413,7 @@
     {
       "$id": 481,
       "style": 47,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 482,
@@ -3973,12 +3973,12 @@
     {
       "$id": 793,
       "style": 67,
-      "name": "Attack"
+      "name": "ATK"
     },
     {
       "$id": 794,
       "style": 32,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 795,
@@ -4683,7 +4683,7 @@
     {
       "$id": 935,
       "style": 119,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 936,
@@ -4733,7 +4733,7 @@
     {
       "$id": 945,
       "style": 119,
-      "name": "Weapon Class"
+      "name": "Weapon Type"
     },
     {
       "$id": 946,
@@ -4758,7 +4758,7 @@
     {
       "$id": 950,
       "style": 119,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 951,
@@ -4823,7 +4823,7 @@
     {
       "$id": 963,
       "style": 149,
-      "name": "Change Time"
+      "name": "Skip Time"
     },
     {
       "$id": 964,
@@ -5503,7 +5503,7 @@
     {
       "$id": 1099,
       "style": 32,
-      "name": "Arms Class"
+      "name": "Wpn. Type"
     },
     {
       "$id": 1100,
@@ -5588,7 +5588,7 @@
     {
       "$id": 1116,
       "style": 114,
-      "name": "Recharge"
+      "name": "Recast"
     },
     {
       "$id": 1117,
@@ -5778,7 +5778,7 @@
     {
       "$id": 1154,
       "style": 149,
-      "name": "Weapon Class"
+      "name": "Weapon Type"
     },
     {
       "$id": 1155,
@@ -5838,7 +5838,7 @@
     {
       "$id": 1166,
       "style": 149,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 1167,
@@ -5858,7 +5858,7 @@
     {
       "$id": 1170,
       "style": 22,
-      "name": "Weapon Class"
+      "name": "Weapon Type Name"
     },
     {
       "$id": 1171,
@@ -6218,7 +6218,7 @@
     {
       "$id": 1242,
       "style": 149,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 1243,
@@ -6468,7 +6468,7 @@
     {
       "$id": 1292,
       "style": 20,
-      "name": "Attack"
+      "name": "Attack Power"
     },
     {
       "$id": 1293,
@@ -6483,7 +6483,7 @@
     {
       "$id": 1295,
       "style": 20,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 1296,
@@ -7018,7 +7018,7 @@
     {
       "$id": 1402,
       "style": 149,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 1403,
@@ -7603,12 +7603,12 @@
     {
       "$id": 1519,
       "style": 170,
-      "name": "Blade Album"
+      "name": "Blade Encycl."
     },
     {
       "$id": 1520,
       "style": 170,
-      "name": "Enemy Album"
+      "name": "Mon. Encycl."
     },
     {
       "$id": 1521,
@@ -7618,7 +7618,7 @@
     {
       "$id": 1522,
       "style": 170,
-      "name": "Manage Blades"
+      "name": "Blade List"
     },
     {
       "$id": 1523,
@@ -7628,7 +7628,7 @@
     {
       "$id": 1524,
       "style": 170,
-      "name": "Change Time"
+      "name": "Skip Time"
     },
     {
       "$id": 1525,
@@ -7853,7 +7853,7 @@
     {
       "$id": 1569,
       "style": 149,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 1570,
@@ -7898,7 +7898,7 @@
     {
       "$id": 1578,
       "style": 149,
-      "name": "Block Rate"
+      "name": "Guard Rate"
     },
     {
       "$id": 1579,
@@ -8728,7 +8728,7 @@
     {
       "$id": 1744,
       "style": 36,
-      "name": "New Game Plus"
+      "name": "Advanced New Game"
     },
     {
       "$id": 1745,
@@ -8978,7 +8978,7 @@
     {
       "$id": 1794,
       "style": 17,
-      "name": "Effects are determined by the\nspecifications in Hanaswap."
+      "name": "Effects are determined by the\nspecifications in Hana Rise."
     },
     {
       "$id": 1795,
@@ -8998,7 +8998,7 @@
     {
       "$id": 1798,
       "style": 151,
-      "name": "This adds WP for chosen weapon class."
+      "name": "Adds WP to the selected weapon type."
     },
     {
       "$id": 1799,
@@ -9073,7 +9073,7 @@
     {
       "$id": 1813,
       "style": 4,
-      "name": "Ether Mod."
+      "name": "Ether Power Mod."
     },
     {
       "$id": 1814,
@@ -9548,7 +9548,7 @@
     {
       "$id": 1908,
       "style": 72,
-      "name": "Expansion Pass Notifications"
+      "name": "Expansion Pass Notices"
     },
     {
       "$id": 1909,
@@ -9748,22 +9748,22 @@
     {
       "$id": 1948,
       "style": 20,
-      "name": "Vanguard"
+      "name": "Attacker"
     },
     {
       "$id": 1949,
       "style": 20,
-      "name": "Rear Guard"
+      "name": "Supporter"
     },
     {
       "$id": 1950,
       "style": 15,
-      "name": "Vanguard Arts"
+      "name": "Attacker Arts"
     },
     {
       "$id": 1951,
       "style": 15,
-      "name": "Rear Guard Arts"
+      "name": "Supporter Arts"
     },
     {
       "$id": 1952,
@@ -9873,7 +9873,7 @@
     {
       "$id": 1973,
       "style": 119,
-      "name": "Ether"
+      "name": "Ether Power"
     },
     {
       "$id": 1974,
@@ -9988,7 +9988,7 @@
     {
       "$id": 1996,
       "style": 72,
-      "name": "About Xenoblade Chronicles 2"
+      "name": "Xenoblade 2 Game Notices"
     },
     {
       "$id": 1997,
@@ -10038,7 +10038,7 @@
     {
       "$id": 2006,
       "style": 60,
-      "name": "Bringer of Chaos"
+      "name": "Extreme"
     },
     {
       "$id": 2007,
@@ -10083,7 +10083,7 @@
     {
       "$id": 2015,
       "style": 114,
-      "name": "Recharge x"
+      "name": "Recast ×"
     },
     {
       "$id": 2016,
