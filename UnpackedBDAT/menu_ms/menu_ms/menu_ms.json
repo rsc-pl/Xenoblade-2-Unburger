@@ -1223,7 +1223,7 @@
     {
       "$id": 243,
       "style": 36,
-      "name": "Squad Status"
+      "name": "Dispatch Status"
     },
     {
       "$id": 244,
@@ -1723,7 +1723,7 @@
     {
       "$id": 343,
       "style": 28,
-      "name": "elemental"
+      "name": "Element"
     },
     {
       "$id": 344,
@@ -2618,7 +2618,7 @@
     {
       "$id": 522,
       "style": 36,
-      "name": "elemental"
+      "name": "Element"
     },
     {
       "$id": 523,
@@ -3738,7 +3738,7 @@
     {
       "$id": 746,
       "style": 4,
-      "name": "Obtained"
+      "name": "Obtained At"
     },
     {
       "$id": 747,
@@ -3988,7 +3988,7 @@
     {
       "$id": 796,
       "style": 32,
-      "name": "Safety"
+      "name": "Stability"
     },
     {
       "$id": 797,
@@ -4523,7 +4523,7 @@
     {
       "$id": 903,
       "style": 109,
-      "name": "Combo level"
+      "name": "Combo Stage"
     },
     {
       "$id": 904,
@@ -5208,7 +5208,7 @@
     {
       "$id": 1040,
       "style": 25,
-      "name": "Refine an Assist Core?"
+      "name": "Build an Assist Core?"
     },
     {
       "$id": 1041,
@@ -5743,7 +5743,7 @@
     {
       "$id": 1147,
       "style": 70,
-      "name": "Received!"
+      "name": "ORDERED"
     },
     {
       "$id": 1148,
@@ -6068,7 +6068,7 @@
     {
       "$id": 1212,
       "style": 6,
-      "name": "Thought Cloud"
+      "name": "Ideagram"
     },
     {
       "$id": 1213,
@@ -6133,7 +6133,7 @@
     {
       "$id": 1225,
       "style": 155,
-      "name": "The Blade's Thought Cloud."
+      "name": "The Blade's Ideagram."
     },
     {
       "$id": 1226,
@@ -6203,7 +6203,7 @@
     {
       "$id": 1239,
       "style": 20,
-      "name": "Remove Blade"
+      "name": "Unpair Blade"
     },
     {
       "$id": 1240,
@@ -6388,7 +6388,7 @@
     {
       "$id": 1276,
       "style": 6,
-      "name": "Thought Cloud"
+      "name": "Ideagram"
     },
     {
       "$id": 1277,
@@ -6423,7 +6423,7 @@
     {
       "$id": 1283,
       "style": 25,
-      "name": "The Driver's Thought Cloud."
+      "name": "The Driver's Ideagram."
     },
     {
       "$id": 1284,
@@ -6663,7 +6663,7 @@
     {
       "$id": 1331,
       "style": 36,
-      "name": "Sort Quests"
+      "name": "Switch Display"
     },
     {
       "$id": 1332,
@@ -6893,7 +6893,7 @@
     {
       "$id": 1377,
       "style": 15,
-      "name": "Change"
+      "name": "Switch Cast"
     },
     {
       "$id": 1378,
@@ -6918,12 +6918,12 @@
     {
       "$id": 1382,
       "style": 57,
-      "name": "Create Blade"
+      "name": "Blade Resonance"
     },
     {
       "$id": 1383,
       "style": 36,
-      "name": "Create Blade"
+      "name": "Blade Resonance"
     },
     {
       "$id": 1384,
@@ -7108,7 +7108,7 @@
     {
       "$id": 1420,
       "style": 118,
-      "name": "Value"
+      "name": "Price"
     },
     {
       "$id": 1421,
@@ -7613,7 +7613,7 @@
     {
       "$id": 1521,
       "style": 170,
-      "name": "Bond Blade"
+      "name": "Resonance"
     },
     {
       "$id": 1522,
@@ -7698,7 +7698,7 @@
     {
       "$id": 1538,
       "style": 5,
-      "name": "Carrying"
+      "name": "Owned"
     },
     {
       "$id": 1539,
@@ -7793,7 +7793,7 @@
     {
       "$id": 1557,
       "style": 15,
-      "name": "Habitat"
+      "name": "Pop Condition"
     },
     {
       "$id": 1558,
@@ -7903,7 +7903,7 @@
     {
       "$id": 1579,
       "style": 149,
-      "name": "Block Direction"
+      "name": "Guard Direction"
     },
     {
       "$id": 1580,
@@ -8028,7 +8028,7 @@
     {
       "$id": 1604,
       "style": 13,
-      "name": "Unbeatable:"
+      "name": "Incapacitations:"
     },
     {
       "$id": 1605,
@@ -8523,7 +8523,7 @@
     {
       "$id": 1703,
       "style": 36,
-      "name": "Tutorials"
+      "name": "Adventure Guide"
     },
     {
       "$id": 1704,
@@ -8613,7 +8613,7 @@
     {
       "$id": 1721,
       "style": 151,
-      "name": "Progress unknown"
+      "name": "Secret Reward"
     },
     {
       "$id": 1722,
@@ -8898,12 +8898,12 @@
     {
       "$id": 1778,
       "style": 41,
-      "name": "Choose a Driver to bond with using\nOverdrive."
+      "name": "Choose a Driver to resonate with\nusing Overdrive."
     },
     {
       "$id": 1779,
       "style": 41,
-      "name": "Changed bonded Driver."
+      "name": "Changed the Driver this Blade\nresonates with."
     },
     {
       "$id": 1780,
@@ -8948,7 +8948,7 @@
     {
       "$id": 1788,
       "style": 114,
-      "name": "Rate of healing"
+      "name": "Recovery ×"
     },
     {
       "$id": 1789,
@@ -8978,7 +8978,7 @@
     {
       "$id": 1794,
       "style": 17,
-      "name": "Effects are determined by the\nspecifications in Hana Rise."
+      "name": "Special effects depend on the\nparts set in Hana Rise."
     },
     {
       "$id": 1795,
@@ -9393,7 +9393,7 @@
     {
       "$id": 1877,
       "style": 6,
-      "name": "Blade Powers"
+      "name": "Blade Ability Limits"
     },
     {
       "$id": 1878,
@@ -9458,7 +9458,7 @@
     {
       "$id": 1890,
       "style": 4,
-      "name": "Territory"
+      "name": "Habitat"
     },
     {
       "$id": 1891,
@@ -9518,7 +9518,7 @@
     {
       "$id": 1902,
       "style": 119,
-      "name": "Customize"
+      "name": "Custom Details"
     },
     {
       "$id": 1903,
@@ -9533,7 +9533,7 @@
     {
       "$id": 1905,
       "style": 37,
-      "name": "Customize"
+      "name": "Custom Details"
     },
     {
       "$id": 1906,
@@ -9578,7 +9578,7 @@
     {
       "$id": 1914,
       "style": 175,
-      "name": "To DLC Purchase"
+      "name": "Purchase DLC"
     },
     {
       "$id": 1915,
@@ -9618,7 +9618,7 @@
     {
       "$id": 1922,
       "style": 43,
-      "name": "If you purchase Downloadable Content,\nplease allow the download to finish,\nthen close Xenoblade Chronicles 2\nand restart it to access the content."
+      "name": "If you purchase Downloadable Content,\nplease allow the download to finish,\nthen close Xenoblade 2\nand restart it to access the content."
     },
     {
       "$id": 1923,
@@ -9693,7 +9693,7 @@
     {
       "$id": 1937,
       "style": 152,
-      "name": "Create items using the party characters' unique skills."
+      "name": "Create items unique to each character."
     },
     {
       "$id": 1938,
@@ -9738,7 +9738,7 @@
     {
       "$id": 1946,
       "style": 6,
-      "name": "Equipped Accessories"
+      "name": "Equip Accessories"
     },
     {
       "$id": 1947,
@@ -10078,7 +10078,7 @@
     {
       "$id": 2014,
       "style": 114,
-      "name": "Damage x"
+      "name": "Damage ×"
     },
     {
       "$id": 2015,
@@ -10088,7 +10088,7 @@
     {
       "$id": 2016,
       "style": 114,
-      "name": "Resistance -"
+      "name": "Resist -"
     },
     {
       "$id": 2017,
@@ -10098,7 +10098,7 @@
     {
       "$id": 2018,
       "style": 167,
-      "name": "TOTAL\nDAMAGE"
+      "name": "TOTAL"
     },
     {
       "$id": 2019,

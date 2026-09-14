@@ -1063,7 +1063,7 @@
     {
       "$id": 211,
       "style": 41,
-      "name": "Reduces electric damage received\nby [ML:Enhance kind=Param2 ]%."
+      "name": "Reduces lightning damage received\nby [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 212,
@@ -1218,7 +1218,7 @@
     {
       "$id": 242,
       "style": 41,
-      "name": "On Block, Electric damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Block, Lightning damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 243,
@@ -1258,7 +1258,7 @@
     {
       "$id": 250,
       "style": 41,
-      "name": "On Block, Electric damage is reflected,\ndamaging the enemy instead."
+      "name": "On Block, Lightning damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 251,
