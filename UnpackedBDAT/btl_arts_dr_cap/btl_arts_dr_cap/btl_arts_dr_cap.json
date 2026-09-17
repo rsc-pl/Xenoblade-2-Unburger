@@ -2008,17 +2008,17 @@
     {
       "$id": 400,
       "style": 16,
-      "name": "HP down / Lock enemy target"
+      "name": "HP down / Enemy target lock"
     },
     {
       "$id": 401,
       "style": 16,
-      "name": "Sustained AOE"
+      "name": "Create damage zone"
     },
     {
       "$id": 402,
       "style": 16,
-      "name": "Auto-counter mode"
+      "name": "Counter Mode"
     },
     {
       "$id": 403,
@@ -2028,22 +2028,22 @@
     {
       "$id": 404,
       "style": 41,
-      "name": "When character has Reserve HP."
+      "name": "When Reserve HP is available."
     },
     {
       "$id": 405,
       "style": 41,
-      "name": "When all Arts' Recast is full."
+      "name": "When all Arts have full Recast."
     },
     {
       "$id": 406,
       "style": 41,
-      "name": "When own HP is at 30% or higher."
+      "name": "When your HP is at least 30%."
     },
     {
       "$id": 407,
       "style": 41,
-      "name": "When becoming incapacitated in battle.\n(Can be used repeatedly.)"
+      "name": "Once incapacitated in this battle.\n(Reusable after another incapacitation.)"
     },
     {
       "$id": 408,
@@ -2053,12 +2053,12 @@
     {
       "$id": 409,
       "style": 41,
-      "name": "When own HP is at 30% or higher."
+      "name": "When your HP is at least 30%."
     },
     {
       "$id": 410,
       "style": 41,
-      "name": "When own HP is at 30% or lower."
+      "name": "When your HP is 30% or lower."
     },
     {
       "$id": 411,
@@ -2068,37 +2068,37 @@
     {
       "$id": 412,
       "style": 41,
-      "name": "Reduce own HP by half\nto fully restore all Arts' Recast."
+      "name": "Halve your HP to fully restore\nall Arts' Recast."
     },
     {
       "$id": 413,
       "style": 41,
-      "name": "Consume own Reserve HP to boost\nattack, acc., evasion, speed for 30 sec."
+      "name": "Consume Reserve HP to raise attack,\naccuracy, evasion, and speed for 30 sec."
     },
     {
       "$id": 414,
       "style": 41,
-      "name": "Set own Arts Recast to zero to\nstop enemies from acting for 5 sec."
+      "name": "Set your Arts Recast to zero to\nstop enemies from acting for 5 sec."
     },
     {
       "$id": 415,
       "style": 41,
-      "name": "Reduce own HP by 25% of maximum\nto extend target Driver Combo time."
+      "name": "Lose 25% of max HP to extend\nthe target's Driver Combo duration."
     },
     {
       "$id": 416,
       "style": 41,
-      "name": "Evade fixed number of subsequent\nenemy attacks. Affects whole party."
+      "name": "Evade a fixed number of enemy attacks.\nAffects the whole party."
     },
     {
       "$id": 417,
       "style": 41,
-      "name": "Next Art used deals double damage.\nTriple aggro gained from the attack."
+      "name": "Double the next Art's damage,\nbut aggro is tripled."
     },
     {
       "$id": 418,
       "style": 41,
-      "name": "Reduce own HP by 25% of maximum\nto draw all enemies' aggro for 15 sec."
+      "name": "Lose 25% of max HP to make all\nenemies target you for 15 sec."
     },
     {
       "$id": 419,
@@ -2108,7 +2108,7 @@
     {
       "$id": 420,
       "style": 41,
-      "name": "For 30 seconds, launch powerful\ncounterattacks each time you evade."
+      "name": "For 30 sec., perform extremely powerful\ncounterattacks whenever you evade."
     },
     {
       "$id": 421,

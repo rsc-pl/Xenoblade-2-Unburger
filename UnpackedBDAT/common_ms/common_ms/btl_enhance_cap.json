@@ -128,12 +128,12 @@
     {
       "$id": 24,
       "style": 41,
-      "name": "Counters attacks with damage equal to\n[ML:Enhance kind=Param1 ]% of Strength."
+      "name": "Counters with damage equal to\n[ML:Enhance kind=Param1 ]% of Strength when an attack is evaded."
     },
     {
       "$id": 25,
       "style": 41,
-      "name": "Counters Driver Arts with damage equal to\n[ML:Enhance kind=Param1 ]% of Strength and inflicts Blow."
+      "name": "Evades enemy attacks during Driver Arts,\ndealing [ML:Enhance kind=Param1 ]% of Strength damage plus Blow."
     },
     {
       "$id": 26,
@@ -208,7 +208,7 @@
     {
       "$id": 40,
       "style": 41,
-      "name": "Increases smash damage by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases Smash damage by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 41,
@@ -238,7 +238,7 @@
     {
       "$id": 46,
       "style": 41,
-      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]%\n[ML:Enhance ] seconds after the start of battle."
+      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]%\nfor the first [ML:Enhance ] sec. of battle."
     },
     {
       "$id": 47,
@@ -303,7 +303,7 @@
     {
       "$id": 59,
       "style": 41,
-      "name": "On Block, gives [ML:Enhance kind=Param1 ]% chance\nto completely deflect enemy attack."
+      "name": "On Guard, gives [ML:Enhance kind=Param1 ]% chance\nto completely block the enemy attack."
     },
     {
       "$id": 60,
@@ -438,7 +438,7 @@
     {
       "$id": 86,
       "style": 41,
-      "name": "Increases aggro every second."
+      "name": "Slightly increases aggro every second."
     },
     {
       "$id": 87,
@@ -503,7 +503,7 @@
     {
       "$id": 99,
       "style": 41,
-      "name": "Increases HP restored to self\n(not using HP Potions) by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases HP restored to self, excluding\nHP Potions, by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 100,
@@ -513,12 +513,12 @@
     {
       "$id": 101,
       "style": 41,
-      "name": "Adds [ML:Enhance kind=Param1 ]% to damage\nratio after canceling an auto-attack."
+      "name": "Adds [ML:Enhance kind=Param1 ]% to the damage bonus\nfrom canceling."
     },
     {
       "$id": 102,
       "style": 41,
-      "name": "[ML:Enhance kind=Param1 ]% chance to survive hit with 1 HP\n+ 5 secs invincibility (once per battle)."
+      "name": "[ML:Enhance kind=Param1 ]% chance to survive at 1 HP when felled\n+ 5 sec. invincibility (once per battle)."
     },
     {
       "$id": 103,
@@ -553,17 +553,17 @@
     {
       "$id": 109,
       "style": 41,
-      "name": "Slightly fills the Party Gauge when an\n\"Excellent\" is scored during a Special."
+      "name": "Scoring \"Excellent\" in a Special Button\nChallenge fills the Party Gauge."
     },
     {
       "$id": 110,
       "style": 41,
-      "name": "Fills Party Gauge on \"Excellent\"\nSpecials. (Minor effect.)"
+      "name": "Fills Party Gauge on an \"Excellent\"\nSpecial Button Challenge. (Minor effect.)"
     },
     {
       "$id": 111,
       "style": 41,
-      "name": "Fills Party Gauge on \"Excellent\"\nSpecials. (Major effect.)"
+      "name": "Fills Party Gauge on an \"Excellent\"\nSpecial Button Challenge. (Major effect.)"
     },
     {
       "$id": 112,
@@ -608,12 +608,12 @@
     {
       "$id": 120,
       "style": 41,
-      "name": "Revives Driver each time\na Chain Attack is initiated."
+      "name": "Revives an incapacitated Driver when\na Chain Attack starts."
     },
     {
       "$id": 121,
       "style": 41,
-      "name": "Slightly fills the Party Gauge\nat the end of each Chain Attack."
+      "name": "Fills the Party Gauge at the end\nof each Chain Attack."
     },
     {
       "$id": 122,
@@ -648,7 +648,7 @@
     {
       "$id": 128,
       "style": 41,
-      "name": "Increases the enemy\ngold drop rate by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases gold dropped by enemies\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 129,
@@ -663,12 +663,12 @@
     {
       "$id": 131,
       "style": 41,
-      "name": "Prevents Bonding loss when\na teammate falls in battle."
+      "name": "Prevents Bonding loss on incapacitation."
     },
     {
       "$id": 132,
       "style": 41,
-      "name": "Increases Bonding by [ML:Enhance kind=Param1 ]% after\nwinning a Special button challenge."
+      "name": "Increases Bonding by [ML:Enhance kind=Param1 ]% after\nsucceeding at a Special Button Challenge."
     },
     {
       "$id": 133,
@@ -688,7 +688,7 @@
     {
       "$id": 136,
       "style": 41,
-      "name": "Increases Blade Arts\nduration time by [ML:Enhance kind=Param1 ]%."
+      "name": "Increases Blade Arts duration\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 137,
@@ -748,12 +748,12 @@
     {
       "$id": 148,
       "style": 41,
-      "name": "Special has [ML:Enhance kind=Param2 ]% chance to defeat\nnon-Boss foes with up to [ML:Enhance kind=Param1 ]% HP."
+      "name": "Special has [ML:Enhance kind=Param2 ]% chance to defeat\nnon-Boss/Unique foes at [ML:Enhance kind=Param1 ]% HP or less."
     },
     {
       "$id": 149,
       "style": 41,
-      "name": "Increases accuracy and evasion rate\nof team by [ML:Enhance kind=Param1 ]% at max Bonding."
+      "name": "Increases party accuracy and evasion\nby [ML:Enhance kind=Param1 ]% at max Bonding."
     },
     {
       "$id": 150,
@@ -793,7 +793,7 @@
     {
       "$id": 157,
       "style": 41,
-      "name": "Adds [ML:Enhance kind=Param1 ]% chance for user to land\nperfect hits and evade enemy attacks."
+      "name": "Adds [ML:Enhance kind=Param1 ]% chance for attacks to always hit\nand to evade enemy attacks."
     },
     {
       "$id": 158,
@@ -898,7 +898,7 @@
     {
       "$id": 178,
       "style": 41,
-      "name": "Annuls enemy defense and increases\nSpecial damage dealt by [ML:Enhance kind=Param1 ]%."
+      "name": "Ignores enemy defense and increases\nSpecial damage by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 179,
@@ -918,12 +918,12 @@
     {
       "$id": 182,
       "style": 41,
-      "name": "Increases damage dealt when elemental\nweakness exploited (affects all)."
+      "name": "When exploiting an elemental weakness,\ndamage dealt +[ML:Enhance kind=Param1 ]% (affects all)."
     },
     {
       "$id": 183,
       "style": 41,
-      "name": "Adds [ML:Enhance kind=Param1 ]% chance of Blowdown on\nenemy upon being attacked (affects all)."
+      "name": "Adds [ML:Enhance kind=Param1 ]% chance to inflict Blow on\nthe attacker (affects whole party)."
     },
     {
       "$id": 184,
@@ -943,7 +943,7 @@
     {
       "$id": 187,
       "style": 41,
-      "name": "Drains [ML:Enhance kind=Param1 ]% of current HP when\nusing the Art. Evasion during Art."
+      "name": "Using an Art reduces current HP by [ML:Enhance kind=Param1 ]%;\nevades enemy attacks during the Art."
     },
     {
       "$id": 188,
@@ -1003,7 +1003,7 @@
     {
       "$id": 199,
       "style": 41,
-      "name": "Boosts critical hit rate by [ML:Enhance kind=Param1 ]% when\nselected in chain attack (affects all)."
+      "name": "Boosts critical hit rate by [ML:Enhance kind=Param1 ]% when\nselected in a Chain Attack (affects all)."
     },
     {
       "$id": 200,
@@ -1103,7 +1103,7 @@
     {
       "$id": 219,
       "style": 41,
-      "name": "Increases damage dealt to\naquatic organisms by [ML:Enhance kind=Param2 ]%."
+      "name": "Increases damage dealt to Aquatic enemies\nby [ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 220,
@@ -1138,7 +1138,7 @@
     {
       "$id": 226,
       "style": 41,
-      "name": "[ML:Enhance kind=Param2 ]% chance of felling an aquatic\nfoe on attack (fails on bosses/uniques)."
+      "name": "[ML:Enhance kind=Param2 ]% chance of felling an Aquatic enemy\non attack (fails on bosses/uniques)."
     },
     {
       "$id": 227,
@@ -1198,82 +1198,82 @@
     {
       "$id": 238,
       "style": 41,
-      "name": "On Block, Fire damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Fire damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 239,
       "style": 41,
-      "name": "On Block, Water damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Water damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 240,
       "style": 41,
-      "name": "On Block, Wind damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Wind damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 241,
       "style": 41,
-      "name": "On Block, Earth damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Earth damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 242,
       "style": 41,
-      "name": "On Block, Lightning damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Lightning damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 243,
       "style": 41,
-      "name": "On Block, Ice damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Ice damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 244,
       "style": 41,
-      "name": "On Block, Light damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Light damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 245,
       "style": 41,
-      "name": "On Block, Dark damage is absorbed,\nrestoring HP instead of taking damage."
+      "name": "On Guard, Dark damage is absorbed,\nrestoring HP instead of taking damage."
     },
     {
       "$id": 246,
       "style": 41,
-      "name": "On Block, Fire damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Fire damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 247,
       "style": 41,
-      "name": "On Block, Water damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Water damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 248,
       "style": 41,
-      "name": "On Block, Wind damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Wind damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 249,
       "style": 41,
-      "name": "On Block, Earth damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Earth damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 250,
       "style": 41,
-      "name": "On Block, Lightning damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Lightning damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 251,
       "style": 41,
-      "name": "On Block, Ice damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Ice damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 252,
       "style": 41,
-      "name": "On Block, Light damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Light damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 253,
       "style": 41,
-      "name": "On Block, Dark damage is reflected,\ndamaging the enemy instead."
+      "name": "On Guard, Dark damage is reflected,\ndamaging the enemy instead."
     },
     {
       "$id": 254,
@@ -1358,7 +1358,7 @@
     {
       "$id": 270,
       "style": 41,
-      "name": "Restores [ML:Enhance kind=Param1 ]% HP when guarding. Restores\nother Arts' Recast when attacked."
+      "name": "Guarding restores [ML:Enhance kind=Param1 ]% HP at intervals;\nwhen hit, other Arts gain Recast."
     },
     {
       "$id": 271,
@@ -1403,7 +1403,7 @@
     {
       "$id": 279,
       "style": 41,
-      "name": "Shortens cooldown time relative to the\nno. of Arts ready after a Blade Switch."
+      "name": "Shortens cooldown based on the number of\nArts ready when the Blade Switch occurs."
     },
     {
       "$id": 280,
@@ -1413,17 +1413,17 @@
     {
       "$id": 281,
       "style": 41,
-      "name": "Boosts Driver shackle resistance\nby [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Driver Lockout resistance\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 282,
       "style": 41,
-      "name": "Boosts Blade shackle resistance\nby [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Blade Lockout resistance\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 283,
       "style": 41,
-      "name": "Destroys an element orb at random\nwhen Elemental Burst triggers."
+      "name": "Also destroys a random element orb\nwhen Elemental Burst triggers."
     },
     {
       "$id": 284,
@@ -1433,7 +1433,7 @@
     {
       "$id": 285,
       "style": 41,
-      "name": "Destroys an element orb when hit with\nan opposing element in a Chain Attack."
+      "name": "Destroys an element orb in one hit with\nits opposing element in a Chain Attack."
     },
     {
       "$id": 286,
@@ -1443,7 +1443,7 @@
     {
       "$id": 287,
       "style": 41,
-      "name": "Targets damaged element orbs when\nnot using opposing element in a Chain."
+      "name": "Targets damaged element orbs when using\na non-opposing element in a Chain Attack."
     },
     {
       "$id": 288,
@@ -1458,7 +1458,7 @@
     {
       "$id": 290,
       "style": 41,
-      "name": "Adds an element when performing a\nBlade Combo with [ML:Enhance kind=Param1 ]% probability."
+      "name": "Adds an element orb when performing a\nBlade Combo ([ML:Enhance kind=Param1 ]% chance, party-wide)."
     },
     {
       "$id": 291,
@@ -1478,12 +1478,12 @@
     {
       "$id": 294,
       "style": 41,
-      "name": "At max Bonding w/ Saika: R and +\nto awaken for a time (once per battle)."
+      "name": "At max Bonding with Saika, press R and +\ntogether: enter Awakening (once/battle)."
     },
     {
       "$id": 295,
       "style": 41,
-      "name": "Increases dmg a Driver deals by [ML:Enhance kind=Param1 ]%\n(max: [ML:Enhance ]%) each time they fall."
+      "name": "Increases damage dealt by [ML:Enhance kind=Param1 ]% each\ntime a Driver is incapacitated (max: [ML:Enhance ]%)."
     },
     {
       "$id": 296,
@@ -1498,12 +1498,12 @@
     {
       "$id": 298,
       "style": 41,
-      "name": "Can negate powerful enemy attack via\nbutton challenge ([ML:Enhance kind=Param1 ] sec cooldown)."
+      "name": "Powerful enemy attack: Button Challenge\nsuccess nullifies it ([ML:Enhance kind=Param1 ]-sec. cooldown)."
     },
     {
       "$id": 299,
       "style": 41,
-      "name": "[ML:Enhance kind=Param1 ]% chance to remove awakened\nstatus from enemy when using Special."
+      "name": "[ML:Enhance kind=Param1 ]% chance to purge enemy Awakening\nwhen using a Special."
     },
     {
       "$id": 300,
@@ -1533,7 +1533,7 @@
     {
       "$id": 305,
       "style": 41,
-      "name": "Increase dmg. dealt by [ML:Enhance kind=Param1 ]% and eva.\nrate by [ML:Enhance kind=Param2 ]% when Bonding is at max."
+      "name": "At max Bonding, damage dealt +[ML:Enhance kind=Param1 ]% and\nevasion +[ML:Enhance kind=Param2 ]%."
     },
     {
       "$id": 306,
@@ -1558,12 +1558,12 @@
     {
       "$id": 310,
       "style": 41,
-      "name": "Boosts Nullify Heal resistance\nby [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Healing Block resistance\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 311,
       "style": 41,
-      "name": "Boosts Doom resistance by [ML:Enhance kind=Param1 ]%."
+      "name": "Boosts Instant Death resistance\nby [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 312,
@@ -1603,7 +1603,7 @@
     {
       "$id": 319,
       "style": 41,
-      "name": "With Elma in battle, press R and - to\nengage. Uses P.Gauge, lasts [ML:Enhance kind=Param1 ] secs."
+      "name": "With Elma in battle, press R and -.\nConsumes 3 Party Gauge bars; lasts [ML:Enhance kind=Param1 ] sec."
     },
     {
       "$id": 320,
@@ -1633,12 +1633,12 @@
     {
       "$id": 325,
       "style": 41,
-      "name": "Erects a barrier that absorbs fixed dmg."
+      "name": "Erects a barrier that absorbs\nfixed damage."
     },
     {
       "$id": 326,
       "style": 41,
-      "name": "Nullifies one reaction."
+      "name": "Nullifies one Reaction."
     },
     {
       "$id": 327,
@@ -1648,7 +1648,7 @@
     {
       "$id": 328,
       "style": 41,
-      "name": "Increases backstab dmg; halves aggro."
+      "name": "Increases Back Attack damage;\nhalves aggro."
     },
     {
       "$id": 329,
@@ -1688,22 +1688,22 @@
     {
       "$id": 336,
       "style": 41,
-      "name": "When Reserve HP exists,\nincreases damage dealt by [ML:Enhance kind=Param1 ]%."
+      "name": "While Reserve HP is available, increases\ndamage dealt by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 337,
       "style": 41,
-      "name": "When Reserve HP exists,\nincreases evade rate by [ML:Enhance kind=Param1 ]%."
+      "name": "While Reserve HP is available, increases\nevasion by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 338,
       "style": 41,
-      "name": "When Reserve HP exists,\nincreases Guard Rate by [ML:Enhance kind=Param1 ]%."
+      "name": "While Reserve HP is available, increases\nGuard Rate by [ML:Enhance kind=Param1 ]%."
     },
     {
       "$id": 339,
       "style": 41,
-      "name": "When Reserve HP exists,\nincreases critical hit rate by [ML:Enhance kind=Param1 ]%."
+      "name": "While Reserve HP is available, increases\ncritical hit rate by [ML:Enhance kind=Param1 ]%."
     }
   ]
 }

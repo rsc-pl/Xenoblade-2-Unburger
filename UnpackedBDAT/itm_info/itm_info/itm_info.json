@@ -1273,12 +1273,12 @@
     {
       "$id": 253,
       "style": 36,
-      "name": "Shackling Drivers"
+      "name": "About Driver Lockout"
     },
     {
       "$id": 254,
       "style": 36,
-      "name": "Shackling Blades"
+      "name": "About Blade Lockout"
     },
     {
       "$id": 255,
@@ -1303,12 +1303,12 @@
     {
       "$id": 259,
       "style": 61,
-      "name": "A shackled Driver cannot attack or\nswitch Blades."
+      "name": "Driver Lockout prevents attacking\nand switching Blades."
     },
     {
       "$id": 260,
       "style": 61,
-      "name": "A shackled Blade can't be switched or use\nSpecials or Blade Arts."
+      "name": "Blade Lockout prevents switching Blades,\nSpecials, and Blade Arts."
     },
     {
       "$id": 261,

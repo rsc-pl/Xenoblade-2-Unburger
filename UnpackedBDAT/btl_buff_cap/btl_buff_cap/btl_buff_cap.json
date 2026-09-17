@@ -33,12 +33,12 @@
     {
       "$id": 5,
       "style": 16,
-      "name": "Erects a barrier that absorbs fixed dmg."
+      "name": "Barrier absorbs a set amount of damage."
     },
     {
       "$id": 6,
       "style": 16,
-      "name": "Nullifies one reaction."
+      "name": "Nullifies one Reaction."
     },
     {
       "$id": 7,
@@ -48,7 +48,7 @@
     {
       "$id": 8,
       "style": 16,
-      "name": "Increases backstab dmg; halves aggro."
+      "name": "Boosts Back Attack damage; halves aggro."
     },
     {
       "$id": 9,

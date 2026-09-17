@@ -13,17 +13,17 @@
     {
       "$id": 1,
       "style": 36,
-      "name": "Collection point"
+      "name": "Gathering"
     },
     {
       "$id": 2,
       "style": 36,
-      "name": "Treasure trove"
+      "name": "Treasure Chest"
     },
     {
       "$id": 3,
       "style": 36,
-      "name": "Fallen tree"
+      "name": "Broken Large Tree"
     },
     {
       "$id": 4,
@@ -68,7 +68,7 @@
     {
       "$id": 12,
       "style": 36,
-      "name": "Elevator button"
+      "name": "Activation Button"
     },
     {
       "$id": 13,
@@ -88,7 +88,7 @@
     {
       "$id": 16,
       "style": 36,
-      "name": "Circuit box"
+      "name": "Electrical Panel"
     },
     {
       "$id": 17,
@@ -138,7 +138,7 @@
     {
       "$id": 26,
       "style": 36,
-      "name": "Fallen tree"
+      "name": "Fallen Large Tree"
     },
     {
       "$id": 27,
@@ -148,7 +148,7 @@
     {
       "$id": 28,
       "style": 171,
-      "name": "Keycode terminal"
+      "name": "Info Code Terminal"
     },
     {
       "$id": 29,
@@ -158,7 +158,7 @@
     {
       "$id": 30,
       "style": 36,
-      "name": "Energy room door"
+      "name": "Power Room Door"
     },
     {
       "$id": 31,
@@ -173,7 +173,7 @@
     {
       "$id": 33,
       "style": 36,
-      "name": "Malign miasma"
+      "name": "Malignant Miasma"
     },
     {
       "$id": 34,
@@ -193,7 +193,7 @@
     {
       "$id": 37,
       "style": 36,
-      "name": "Coral-covered bedrock"
+      "name": "Coral-Eroded Bedrock"
     },
     {
       "$id": 38,
@@ -218,7 +218,7 @@
     {
       "$id": 42,
       "style": 36,
-      "name": "Locked fence"
+      "name": "Closed Fence"
     },
     {
       "$id": 43,
@@ -233,7 +233,7 @@
     {
       "$id": 45,
       "style": 36,
-      "name": "Bent iron door"
+      "name": "Warped Iron Door"
     },
     {
       "$id": 46,
@@ -368,7 +368,7 @@
     {
       "$id": 72,
       "style": 36,
-      "name": "Storage area door"
+      "name": "Warehouse Door"
     },
     {
       "$id": 73,
@@ -453,7 +453,7 @@
     {
       "$id": 89,
       "style": 36,
-      "name": "Incinerator controls"
+      "name": "Incinerator Control Panel"
     },
     {
       "$id": 90,
@@ -463,7 +463,7 @@
     {
       "$id": 91,
       "style": 36,
-      "name": "Vault door"
+      "name": "Storage Room Door"
     },
     {
       "$id": 92,
@@ -538,7 +538,7 @@
     {
       "$id": 106,
       "style": 36,
-      "name": "Adjustment Room Door"
+      "name": "Adjustment Room Access Door"
     },
     {
       "$id": 107,
@@ -568,7 +568,7 @@
     {
       "$id": 112,
       "style": 36,
-      "name": "Precarious icicle"
+      "name": "Precarious Giant Icicle"
     },
     {
       "$id": 113,
@@ -593,7 +593,7 @@
     {
       "$id": 117,
       "style": 36,
-      "name": "Cargo warehouse door"
+      "name": "Warehouse Loading Entrance"
     },
     {
       "$id": 118,
@@ -603,7 +603,7 @@
     {
       "$id": 119,
       "style": 36,
-      "name": "Port warehouse door"
+      "name": "Port-Side Warehouse Door"
     },
     {
       "$id": 120,
@@ -623,7 +623,7 @@
     {
       "$id": 123,
       "style": 36,
-      "name": "Sealed bulkhead"
+      "name": "Blocked Bulkhead"
     },
     {
       "$id": 124,
@@ -638,12 +638,12 @@
     {
       "$id": 126,
       "style": 36,
-      "name": "Obstructive roots"
+      "name": "Road-Blocking Roots"
     },
     {
       "$id": 127,
       "style": 36,
-      "name": "Noxious bog"
+      "name": "Miasma Bog"
     },
     {
       "$id": 128,
@@ -653,7 +653,7 @@
     {
       "$id": 129,
       "style": 36,
-      "name": "Unlit lantern"
+      "name": "Extinguished Lantern"
     },
     {
       "$id": 130,
@@ -663,7 +663,7 @@
     {
       "$id": 131,
       "style": 36,
-      "name": "Campsite"
+      "name": "Camp Point"
     },
     {
       "$id": 132,
@@ -673,7 +673,7 @@
     {
       "$id": 133,
       "style": 36,
-      "name": "Flower"
+      "name": "Flowers and Grass"
     },
     {
       "$id": 134,
@@ -753,7 +753,7 @@
     {
       "$id": 149,
       "style": 36,
-      "name": "Pretty wildflowers"
+      "name": "Pretty Flowers and Grass"
     },
     {
       "$id": 150,
@@ -773,7 +773,7 @@
     {
       "$id": 153,
       "style": 36,
-      "name": "Ancient mineral deposit"
+      "name": "Old Mineral Deposit"
     }
   ]
 }
