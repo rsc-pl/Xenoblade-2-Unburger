@@ -58,7 +58,7 @@
     {
       "$id": 10,
       "style": 160,
-      "name": "The icons in the [System:Color name=tutorial ]lower right[/System:Color] are called Arts Icons.\nWhen an Arts Icon lights up, it means an [System:Color name=tutorial ]Art[/System:Color] is ready to use."
+      "name": "The icons in the [System:Color name=tutorial ]lower right[/System:Color] are called [System:Color name=tutorial ]Arts Icons[/System:Color].\nWhen an [System:Color name=tutorial ]Arts Icon[/System:Color] lights up, it means an [System:Color name=tutorial ]Art[/System:Color] is ready to use."
     },
     {
       "$id": 11,
@@ -98,7 +98,7 @@
     {
       "$id": 18,
       "style": 160,
-      "name": "You can use Arts repeatedly to deal maximum damage,\nor save them for when your HP starts getting low.\nChoosing [System:Color name=tutorial ]when to use your Arts[/System:Color] is an important tactic."
+      "name": "You can use [System:Color name=tutorial ]Arts[/System:Color] repeatedly to deal maximum damage,\nor save [System:Color name=tutorial ]Arts[/System:Color] for when your HP starts getting low.\nChoosing when to use your [System:Color name=tutorial ]Arts[/System:Color] is an important tactic."
     },
     {
       "$id": 19,
@@ -468,7 +468,7 @@
     {
       "$id": 92,
       "style": 160,
-      "name": "You can also adjust the camera's [System:Color name=tutorial ]height and zoom[/System:Color].\n[System:Color name=tutorial ]Hold down [ML:icon icon=L ] and move [ML:icon icon=R3 ] left and right [/System:Color]to adjust\ncamera height, or [System:Color name=tutorial ]up and down [/System:Color]to adjust zoom."
+      "name": "You can also adjust the camera's [System:Color name=tutorial ]height and zoom[/System:Color].\n[System:Color name=tutorial ]Hold down [ML:icon icon=L ] and move [ML:icon icon=R3 ] left and right[/System:Color] to adjust camera height;\n[System:Color name=tutorial ]hold down [ML:icon icon=L ] and move [ML:icon icon=R3 ] up and down[/System:Color] to adjust zoom."
     },
     {
       "$id": 93,
@@ -938,7 +938,7 @@
     {
       "$id": 186,
       "style": 160,
-      "name": "[System:Color name=tutorial ][/System:Color][System:Color name=tutorial ][/System:Color]"
+      "name": ""
     },
     {
       "$id": 187,
@@ -973,7 +973,7 @@
     {
       "$id": 193,
       "style": 160,
-      "name": "Towns in Alst have [System:Color name=tutorial ]development[/System:Color] measured across\n[System:Color name=tutorial ]five Development Levels[/System:Color], or [System:Color name=tutorial ]Dev Levels[/System:Color] for short."
+      "name": "Avaritia, Gormott, and other towns across Alst have\n[System:Color name=tutorial ]five Development Levels[/System:Color]."
     },
     {
       "$id": 194,
@@ -1093,7 +1093,7 @@
     {
       "$id": 217,
       "style": 160,
-      "name": "Assist Cores must be [System:Color name=tutorial ]built (refined)[/System:Color] at an\n[System:Color name=tutorial ]Assist Core Shop[/System:Color] in town. Ask there for the details."
+      "name": "At an [System:Color name=tutorial ]Assist Core Shop[/System:Color] in town, you need to [System:Color name=tutorial ]Build[/System:Color] ([System:Color name=tutorial ]refine[/System:Color])\nAssist Cores. Ask there for the details."
     },
     {
       "$id": 218,
@@ -1983,12 +1983,12 @@
     {
       "$id": 395,
       "style": 160,
-      "name": "In normal battles, you can awaken Homura when Bonding\nwith Homura (or Hikari) is at maximum and the Party Gauge\nis also full."
+      "name": "In normal battles, you can awaken Homura when\n[System:Color name=tutorial ]Bonding with Homura (or Hikari) is at maximum[/System:Color] and the\n[System:Color name=tutorial ]Party Gauge is full[/System:Color]."
     },
     {
       "$id": 396,
       "style": 160,
-      "name": "When both conditions are met, [System:Color name=tutorial ]press [ML:icon icon=X ]\nwhile holding down [ML:icon icon=R ][/System:Color] to awaken Homura."
+      "name": "When both conditions are met, hold [System:Color name=tutorial ][ML:icon icon=R ][/System:Color] and\npress [System:Color name=tutorial ][ML:icon icon=X ][/System:Color] to awaken Homura."
     },
     {
       "$id": 397,
@@ -2128,7 +2128,7 @@
     {
       "$id": 424,
       "style": 160,
-      "name": "In Environmental Info, look at the new icon on the far left.\nIf the Cloud Sea level is [System:Color name=tutorial ]above the center line[/System:Color],\nit means the Cloud Sea is at [System:Color name=tutorial ]high tide[/System:Color]."
+      "name": "In Environmental Info, look at the new icon on the far left.\nWhen the Cloud Sea is [System:Color name=tutorial ]above[/System:Color] the [System:Color name=tutorial ]center line[/System:Color],\nit is at [System:Color name=tutorial ]high tide[/System:Color]."
     },
     {
       "$id": 425,
@@ -2168,12 +2168,12 @@
     {
       "$id": 432,
       "style": 160,
-      "name": "Raising a [System:Color name=tutorial ]Driver's Luck stat[/System:Color] seems to increase\nthe chance of awakening an unusual Blade."
+      "name": "In [System:Color name=tutorial ]Driver stats[/System:Color], raising [System:Color name=tutorial ]Luck[/System:Color] seems to increase\nthe chance of awakening an unusual Blade."
     },
     {
       "$id": 433,
       "style": 160,
-      "name": "As explained before, an element orb is normally added only\nafter completing a Stage 3 Blade Combo. This time,\nI'll put a Water orb on Yoshitsune for you."
+      "name": "As explained before, an element orb is normally added only\nafter completing a Stage 3 Blade Combo. This time,\nI'll put a [System:Color name=tutorial ]Water element orb[/System:Color] on Yoshitsune for you."
     },
     {
       "$id": 434,
@@ -2238,7 +2238,7 @@
     {
       "$id": 446,
       "style": 160,
-      "name": "[System:Color name=tutorial ]When the Party Gauge is full[/System:Color],\n[System:Color name=tutorial ]press [ML:icon icon=X ] while holding down [ML:icon icon=R ][/System:Color] to awaken Homura/Hikari."
+      "name": "[System:Color name=tutorial ]When the Party Gauge is full[/System:Color], hold\n[System:Color name=tutorial ][ML:icon icon=R ][/System:Color] and press [System:Color name=tutorial ][ML:icon icon=X ][/System:Color] to awaken Homura/Hikari."
     },
     {
       "$id": 447,
@@ -2958,7 +2958,7 @@
     {
       "$id": 590,
       "style": 160,
-      "name": "Press [System:Color name=tutorial ][ML:icon icon=plus ] [/System:Color]when [System:Color name=tutorial ]all three Party Gauge bars are full[/System:Color].\nThen choose a Special for each team in turn; each one\ndamages the enemy and its element orbs."
+      "name": "[System:Color name=tutorial ]When all three Party Gauge bars are full, press [ML:icon icon=plus ][/System:Color].\nThen choose a Special for each team in turn; each one\ndamages the enemy and its element orbs."
     },
     {
       "$id": 591,
