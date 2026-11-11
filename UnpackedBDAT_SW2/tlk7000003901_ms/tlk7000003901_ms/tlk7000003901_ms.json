@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000039_01_msg0001",
+      "style": 84,
+      "name": "Here in Iira, we revere the\nmight of the Divine Beasts.\nIt's essentially our religion."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000039_01_msg0002",
+      "style": 84,
+      "name": "Though it's not like we\nhave much in the way of\nspecial rituals or rules."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000039_01_msg0003",
+      "style": 84,
+      "name": "We simply respect the life around\nus. Divine Beasts, humans, Blades.\nWe're all the same really."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000039_01_msg0004",
+      "style": 84,
+      "name": "Put all your gratitude into it: thanks\nto you, we're able to be here today."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst500103_msg0001",
+      "style": 84,
+      "name": "Hello, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst500103_msg0002",
+      "style": 84,
+      "name": "I have one question for an\nexperienced adventurer, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst500103_msg0003",
+      "style": 84,
+      "name": "Do you think a Water Ladybird would\ntaste good in juice, mo?"
+    },
+    {
+      "$id": 4,
+      "label": "qst500103_msg0004",
+      "style": 165,
+      "name": "Juice made with ladybirds?"
+    },
+    {
+      "$id": 5,
+      "label": "qst500103_msg0005",
+      "style": 165,
+      "name": "Sounds delicious."
+    },
+    {
+      "$id": 6,
+      "label": "qst500103_msg0006",
+      "style": 165,
+      "name": "Sounds disgusting"
+    },
+    {
+      "$id": 7,
+      "label": "qst500103_msg0007",
+      "style": 84,
+      "name": "So you think so too, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst500103_msg0008",
+      "style": 84,
+      "name": "I have a feeling this could be\nanother huge hit after Twinklejuice,\nmo!"
+    },
+    {
+      "$id": 9,
+      "label": "qst500103_msg0009",
+      "style": 84,
+      "name": "You think it's a bad idea, mo?"
+    },
+    {
+      "$id": 10,
+      "label": "qst500103_msg0010",
+      "style": 84,
+      "name": "But you're not a juice professional,\nso your opinion isn't much help, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst500103_msg0011",
+      "style": 84,
+      "name": "Tanitani thinks adding a Water\nLadybird would make the juice a\nperfect ten out of ten, mo!"
+    },
+    {
+      "$id": 12,
+      "label": "qst500103_msg0012",
+      "style": 84,
+      "name": "Now the Twelve Nopon Siblings in\nAvaritia Trading Company are safe, mo!"
+    },
+    {
+      "$id": 13,
+      "label": "qst500103_msg0013",
+      "style": 84,
+      "name": "Some of my other siblings are also\nlooking for juice ingredients, mo."
+    },
+    {
+      "$id": 14,
+      "label": "qst500103_msg0014",
+      "style": 84,
+      "name": "If you meet them, please be as kind\nto them as you were to me, mo!"
+    },
+    {
+      "$id": 15,
+      "label": "qst500103_msg0015",
+      "style": 84,
+      "name": "Please do, mooo!"
+    }
+  ]
+}

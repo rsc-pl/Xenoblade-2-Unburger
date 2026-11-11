@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4237017301_msg0001",
+      "style": 84,
+      "name": "Moruru will spread Malbeni-sama's will\nthroughout Alst together with\nSephrian-sama, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4237017301_msg0002",
+      "style": 84,
+      "name": "Words that can release one from\neven the heaviest of sins..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4237017301_msg0003",
+      "style": 84,
+      "name": "Precisely because I have\nexperienced it myself, there\nmust be something I can convey, mo."
+    }
+  ]
+}

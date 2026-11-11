@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4450018501_msg0001",
+      "style": 84,
+      "name": "I've made my decision. I'll\ncorrectly pass on that history\nand the prince's will to everyone."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4450018501_msg0002",
+      "style": 84,
+      "name": "I should be able to guide those who\nare dissatisfied so they don't stray\ndown the wrong path..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4450018501_msg0003",
+      "style": 84,
+      "name": "It's been a while since I worked as a\nteacher, but I still can't retire."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4450018501_msg0004",
+      "style": 84,
+      "name": "This is all thanks to Prince Zeke.\nThank you very much."
+    }
+  ]
+}

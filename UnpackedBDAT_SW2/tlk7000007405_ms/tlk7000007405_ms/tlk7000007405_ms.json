@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000074_05_msg0001",
+      "style": 84,
+      "name": "Even the records of the Holleshorn\nfamily contain no account of Iira ever\nundergoing a change like this..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000074_05_msg0002",
+      "style": 84,
+      "name": "As head of the Holleshorn family, I'll\nrecord this in detail and pass it down\nthrough the generations."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000074_05_msg0003",
+      "style": 84,
+      "name": "I believe those of us living here\nin Superbia have a duty to future\ngenerations to carry this out."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000074_05_msg0004",
+      "style": 84,
+      "name": "So, Your Majesty, everyone: leave the\nrest to us, and devote yourselves\nfully to your mission."
+    }
+  ]
+}

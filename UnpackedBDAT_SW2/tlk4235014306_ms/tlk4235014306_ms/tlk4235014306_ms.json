@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350143_06_msg0001",
+      "style": 62,
+      "name": "At the very end, the opal coral\naccessories that Kurolo made\nare selling extremely well, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350143_06_msg0002",
+      "style": 62,
+      "name": "Orders flood in for safety\ncharms and for pretty things\nto wear before death, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350143_06_msg0003",
+      "style": 62,
+      "name": "Whatever the reason, Kurolo helped\nthe city, mo. With this, I have\nfulfilled my merchant duty, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350143_06_msg0004",
+      "style": 62,
+      "name": "Now I'll leave things to the flow\nof time, mo. If I'm safe, let's meet\nagain, mo."
+    }
+  ]
+}

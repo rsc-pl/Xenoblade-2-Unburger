@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100152_03_msg0001",
+      "style": 84,
+      "name": "Ugh, how awful! This\ncountry is too hot."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100152_03_msg0002",
+      "style": 84,
+      "name": "In this heat, won't the\nDivine Beast get exhausted\nand fall into the Cloud Sea?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100152_03_msg0003",
+      "style": 84,
+      "name": "Since humans did this to the\nDivine Beast, I wish humans\nwould do something about it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100152_03_msg0004",
+      "style": 84,
+      "name": "If it does fall, I'll sneak onto\na ship and go to Liberalitas."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42100152_03_msg0005",
+      "style": 84,
+      "name": "I heard the Demon King is\ngone, so I want to try\nvisiting the Phonex colony!"
+    }
+  ]
+}

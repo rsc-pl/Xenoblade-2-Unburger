@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4242016101_msg0001",
+      "style": 84,
+      "name": "Ugh... Sulala hit her head again, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4242016101_msg0002",
+      "style": 84,
+      "name": "This time it was just a bump, but\nas a guide, I'm a failure... mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4242016101_msg0003",
+      "style": 84,
+      "name": "Once Ukiukii takes a ship home from\nIyasaki Port, I'm retiring as a guide,\nmo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4242016101_msg0004",
+      "style": 84,
+      "name": "I'll become a cleaner at this\nharbor or something... mo."
+    }
+  ]
+}

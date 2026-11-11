@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200901_msg001",
+      "style": 84,
+      "name": "Everyone! Let's depart immediately!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200901_msg002",
+      "style": 84,
+      "name": "I want to go shopping!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200901_msg003",
+      "style": 84,
+      "name": "If we don't hurry, it\nwill be sold out!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200901_msg004",
+      "style": 84,
+      "name": "What are you in such a hurry\nto buy, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "qst200901_msg005",
+      "style": 84,
+      "name": "Bread! Bread! The Lucky Sachiberia\nBread!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200901_msg015",
+      "style": 84,
+      "name": "I heard it's sold at the Tuuli\nBakery beneath the windmill."
+    },
+    {
+      "$id": 7,
+      "label": "qst200901_msg006",
+      "style": 84,
+      "name": "Lucky Sachi...? What's that?"
+    },
+    {
+      "$id": 8,
+      "label": "qst200901_msg007",
+      "style": 84,
+      "name": "It's bread made with\nSachiberia dough, which\nis said to bring good luck."
+    },
+    {
+      "$id": 9,
+      "label": "qst200901_msg008",
+      "style": 84,
+      "name": "I just heard about it from\nthe innkeeper..."
+    },
+    {
+      "$id": 10,
+      "label": "qst200901_msg010",
+      "style": 84,
+      "name": "There's a rumor that eating this\nbread brings happiness to the\neater and those around them too!"
+    },
+    {
+      "$id": 11,
+      "label": "qst200901_msg011",
+      "style": 84,
+      "name": "Heh... That's some amazing bread."
+    },
+    {
+      "$id": 12,
+      "label": "qst200901_msg012",
+      "style": 84,
+      "name": "Right?!"
+    },
+    {
+      "$id": 13,
+      "label": "qst200901_msg013",
+      "style": 84,
+      "name": "It's an incredibly popular item,\nso if you don't go early in the\nmorning, it'll be sold out!"
+    },
+    {
+      "$id": 14,
+      "label": "qst200901_msg014",
+      "style": 84,
+      "name": "Come on, come on! Let's hurry to\nTuuli Bakery before it's sold out!"
+    }
+  ]
+}

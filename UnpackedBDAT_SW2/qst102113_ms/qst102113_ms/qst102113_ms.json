@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102113_msg001",
+      "style": 84,
+      "name": "No one may pass without permission!"
+    },
+    {
+      "$id": 2,
+      "label": "qst102113_msg002",
+      "style": 84,
+      "name": "Oh, it's you. Delfina-san gave\nyou permission. You may pass."
+    }
+  ]
+}

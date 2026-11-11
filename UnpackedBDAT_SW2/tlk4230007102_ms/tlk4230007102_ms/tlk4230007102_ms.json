@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300071_02msg0001",
+      "style": 84,
+      "name": "Perhaps because there was a funeral,\nthe atmosphere has become somewhat\nsad, and I'm feeling down, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300071_02msg0002",
+      "style": 84,
+      "name": "I came to pray for my family's health,\nbut... I really need to pray\nquietly now, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300071_02msg0003",
+      "style": 84,
+      "name": "As you can see, my daughter\nwon't be quiet, so I can't\ngo right now... mo."
+    }
+  ]
+}

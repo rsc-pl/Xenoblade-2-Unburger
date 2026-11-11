@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202207_msg001",
+      "style": 84,
+      "name": "Hey, do you have a second?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202207_msg002",
+      "style": 84,
+      "name": "Hmm? What is it?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202207_msg003",
+      "style": 84,
+      "name": "I'm looking for a boy I accidentally\nshocked with electricity[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst202207_msg004",
+      "style": 84,
+      "name": "Oh! You're Shocky Onee-chan!\nAre you looking for Izzy?"
+    },
+    {
+      "$id": 5,
+      "label": "qst202207_msg005",
+      "style": 84,
+      "name": "So that's his name, Izzy?"
+    },
+    {
+      "$id": 6,
+      "label": "qst202207_msg006",
+      "style": 84,
+      "name": "Yep. He's usually playing\naround here, but... I\nhaven't seen him today."
+    },
+    {
+      "$id": 7,
+      "label": "qst202207_msg007",
+      "style": 84,
+      "name": "I see. Thanks. I'll try\nasking somewhere else."
+    },
+    {
+      "$id": 8,
+      "label": "qst202207_msg008",
+      "style": 84,
+      "name": "Okay! Bye-bye, Shocky Onee-chan!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500171_01_msg0001",
+      "style": 84,
+      "name": "Hmm... Mmmmnnhhhh... How should I\ngo about carving from here...?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500171_01_msg0002",
+      "style": 84,
+      "name": "Oh, hello. My name's Shanluca, and\nI'm working on this sculpture."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500171_01_msg0003",
+      "style": 84,
+      "name": "I began carving this to make my\ngreatest masterpiece, but I've spent\n20 years wondering how to finish it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46500171_01_msg0004",
+      "style": 84,
+      "name": "At this point, my life's goal is to\nfinish this masterpiece before I die!\nBut I'm torn over how to proceed..."
+    }
+  ]
+}

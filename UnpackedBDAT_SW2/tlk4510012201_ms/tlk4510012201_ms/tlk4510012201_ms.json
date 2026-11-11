@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4510012201_msg0001",
+      "style": 84,
+      "name": "Moonlight Banana Au Lait is\ndelicious..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4510012201_msg0002",
+      "style": 84,
+      "name": "Playing games with Pero is fun!\nI'm stronger, though."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4510012201_msg0003",
+      "style": 84,
+      "name": "Father's going to Invidia, so I'll\nhave him buy me a new game! Heh,\njealous?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300027_01_msg0001",
+      "style": 84,
+      "name": "Hey, welcome. This is Margia's General\nStore, where we have everything from\nthe best to the worst."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300027_01_msg0002",
+      "style": 84,
+      "name": "But as my grandfather ordered, we\ndon't knock even 1 G off our prices."
+    }
+  ]
+}

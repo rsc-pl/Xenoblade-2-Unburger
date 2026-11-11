@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300012_02_msg0001",
+      "style": 84,
+      "name": "I heard someone destroyed the\nwater tower in Torigo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300012_02_msg0002",
+      "style": 84,
+      "name": "If I don't do anything when\nmy hometown is in trouble, I\ncan't call myself a Gulan."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300012_02_msg0003",
+      "style": 84,
+      "name": "For now, I've sent a lot of\niron materials. I hope they\ncan use it for repairs..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300012_02_msg0004",
+      "style": 84,
+      "name": "Who could've done it? Could it be\nthose Iira people everyone's been\ntalking about?"
+    }
+  ]
+}

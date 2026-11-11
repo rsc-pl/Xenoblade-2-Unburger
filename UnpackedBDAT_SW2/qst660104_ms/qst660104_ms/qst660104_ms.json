@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660104_msg0001",
+      "style": 84,
+      "name": "Wow! Your world sounds way\ndifferent from Alst, Shulk.\nI can't even imagine!"
+    },
+    {
+      "$id": 2,
+      "label": "qst660104_msg0002",
+      "style": 84,
+      "name": "I think our worlds have much in common\ntoo. It's fascinating..."
+    },
+    {
+      "$id": 3,
+      "label": "qst660104_msg0003",
+      "style": 84,
+      "name": "Now that we've exchanged information,\nwe should investigate this place next."
+    },
+    {
+      "$id": 4,
+      "label": "qst660104_msg0004",
+      "style": 84,
+      "name": "Hm. Not that there's\nmuch to see here..."
+    },
+    {
+      "$id": 5,
+      "label": "qst660104_msg0005",
+      "style": 84,
+      "name": "Shulk, Fiorung, have you\nguys been here before?"
+    },
+    {
+      "$id": 6,
+      "label": "qst660104_msg0006",
+      "style": 84,
+      "name": "No, never."
+    },
+    {
+      "$id": 7,
+      "label": "qst660104_msg0007",
+      "style": 84,
+      "name": "Fiorung and I were out walking when\nwe found a strange light... a portal."
+    },
+    {
+      "$id": 8,
+      "label": "qst660104_msg0008",
+      "style": 84,
+      "name": "Shulk couldn't resist his curiosity\nand went right up to it."
+    },
+    {
+      "$id": 9,
+      "label": "qst660104_msg0009",
+      "style": 84,
+      "name": "Sorry, sorry..."
+    },
+    {
+      "$id": 10,
+      "label": "qst660104_msg0010",
+      "style": 84,
+      "name": "What happened to us\nwas fairly similar."
+    },
+    {
+      "$id": 11,
+      "label": "qst660104_msg0011",
+      "style": 84,
+      "name": "Tora couldn't resist his curiosity\neither, mo."
+    },
+    {
+      "$id": 12,
+      "label": "qst660104_msg0012",
+      "style": 84,
+      "name": "Rex went first, though."
+    },
+    {
+      "$id": 13,
+      "label": "qst660104_msg0013",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 14,
+      "label": "qst660104_msg0014",
+      "style": 84,
+      "name": "So the portal you came through\nis over there somewhere?"
+    },
+    {
+      "$id": 15,
+      "label": "qst660104_msg0015",
+      "style": 84,
+      "name": "What about the portal you used?"
+    },
+    {
+      "$id": 16,
+      "label": "qst660104_msg0016",
+      "style": 84,
+      "name": "It's over there."
+    },
+    {
+      "$id": 17,
+      "label": "qst660104_msg0017",
+      "style": 84,
+      "name": "You can't see anything, right?"
+    },
+    {
+      "$id": 18,
+      "label": "qst660104_msg0018",
+      "style": 84,
+      "name": "Yeah."
+    },
+    {
+      "$id": 19,
+      "label": "qst660104_msg0019",
+      "style": 84,
+      "name": "I suspected as much..."
+    },
+    {
+      "$id": 20,
+      "label": "qst660104_msg0020",
+      "style": 84,
+      "name": "Each of us can only see the portal\nthat we ourselves passed through."
+    },
+    {
+      "$id": 21,
+      "label": "qst660104_msg0021",
+      "style": 84,
+      "name": "We can't go where you came from, Rex,\nand you can't go where we came from."
+    },
+    {
+      "$id": 22,
+      "label": "qst660104_msg0022",
+      "style": 84,
+      "name": "So we can only meet here?"
+    },
+    {
+      "$id": 23,
+      "label": "qst660104_msg0023",
+      "style": 84,
+      "name": "It seems that way."
+    },
+    {
+      "$id": 24,
+      "label": "qst660104_msg0024",
+      "style": 84,
+      "name": "So... do we just chat and have fun\nhere, mo?"
+    },
+    {
+      "$id": 25,
+      "label": "qst660104_msg0025",
+      "style": 84,
+      "name": "Ooh, shall I prepare some snacks?"
+    },
+    {
+      "$id": 26,
+      "label": "qst660104_msg0026",
+      "style": 84,
+      "name": "Sounds good. I'd like to try\nthe snacks Homura makes."
+    },
+    {
+      "$id": 27,
+      "label": "qst660104_msg0027",
+      "style": 84,
+      "name": "That would be a problem, mo..."
+    },
+    {
+      "$id": 28,
+      "label": "qst660104_msg0028",
+      "style": 84,
+      "name": "Who's there?!"
+    },
+    {
+      "$id": 29,
+      "label": "qst660104_msg0029",
+      "style": 84,
+      "name": "The voice came from above!"
+    },
+    {
+      "$id": 30,
+      "label": "qst660104_msg0030",
+      "style": 84,
+      "name": "Over here too."
+    },
+    {
+      "$id": 31,
+      "label": "qst660104_msg0031",
+      "style": 84,
+      "name": "When did you get here?!"
+    },
+    {
+      "$id": 32,
+      "label": "qst660104_msg0032",
+      "style": 84,
+      "name": "Easy for the Nopon Great Sage, mo."
+    },
+    {
+      "$id": 33,
+      "label": "qst660104_msg0033",
+      "style": 84,
+      "name": "Who exactly are you...?"
+    },
+    {
+      "$id": 34,
+      "label": "qst660104_msg0034",
+      "style": 84,
+      "name": "The Nopon Great Sage is a great Nopon\nwho trained across every place and age\nto become a great sage, mo."
+    },
+    {
+      "$id": 35,
+      "label": "qst660104_msg0035",
+      "style": 84,
+      "name": "Even so, you look younger\nthan Tora, mo."
+    },
+    {
+      "$id": 36,
+      "label": "qst660104_msg0036",
+      "style": 84,
+      "name": "What a rude Nopon, mo."
+    },
+    {
+      "$id": 37,
+      "label": "qst660104_msg0037",
+      "style": 84,
+      "name": "Despite appearances, Nopon Great Sage\nhas lived about 100 million times\nlonger than Tora, mo."
+    },
+    {
+      "$id": 38,
+      "label": "qst660104_msg0038",
+      "style": 84,
+      "name": "A hundred million? I'm not buying it."
+    },
+    {
+      "$id": 39,
+      "label": "qst660104_msg0039",
+      "style": 84,
+      "name": "You don't have to believe me, but\nif I say this place was made by\nNopon Great Sage, you'll have to, mo."
+    },
+    {
+      "$id": 40,
+      "label": "qst660104_msg0040",
+      "style": 84,
+      "name": "You made this place?"
+    },
+    {
+      "$id": 41,
+      "label": "qst660104_msg0041",
+      "style": 84,
+      "name": "Ahem, mo!"
+    },
+    {
+      "$id": 42,
+      "label": "qst660104_msg0042",
+      "style": 84,
+      "name": "But whatever for?"
+    },
+    {
+      "$id": 43,
+      "label": "qst660104_msg0043",
+      "style": 84,
+      "name": "So I can watch you overcome\nthe seemingly impossible challenges\nNopon Great Sage prepared, mo."
+    },
+    {
+      "$id": 44,
+      "label": "qst660104_msg0044",
+      "style": 84,
+      "name": "He means to test our mettle, then...?"
+    },
+    {
+      "$id": 45,
+      "label": "qst660104_msg0045",
+      "style": 84,
+      "name": "What a strange hobby..."
+    },
+    {
+      "$id": 46,
+      "label": "qst660104_msg0046",
+      "style": 84,
+      "name": "You could call it bad taste."
+    },
+    {
+      "$id": 47,
+      "label": "qst660104_msg0047",
+      "style": 84,
+      "name": "Mo-mo?! That's uncalled for, mo..."
+    },
+    {
+      "$id": 48,
+      "label": "qst660104_msg0048",
+      "style": 84,
+      "name": "If there's a reward, Tora doesn't mind\ntaking the challenge, mo."
+    },
+    {
+      "$id": 49,
+      "label": "qst660104_msg0049",
+      "style": 84,
+      "name": "But of course!"
+    },
+    {
+      "$id": 50,
+      "label": "qst660104_msg0050",
+      "style": 84,
+      "name": "Clear the challenges, and I'll give\nyou something good based on your\nresults, mo."
+    },
+    {
+      "$id": 51,
+      "label": "qst660104_msg0051",
+      "style": 84,
+      "name": "Can Tora get a Super Tropical\nSweet-Sweet Wiener, mo?"
+    },
+    {
+      "$id": 52,
+      "label": "qst660104_msg0052",
+      "style": 84,
+      "name": "That didn't taste good, so I didn't\nstock up, mo."
+    },
+    {
+      "$id": 53,
+      "label": "qst660104_msg0053",
+      "style": 84,
+      "name": "Mo-mo?! Tora just made that up.\nIt really exists, mo?"
+    },
+    {
+      "$id": 54,
+      "label": "qst660104_msg0054",
+      "style": 84,
+      "name": "Instead, I have lots of items\nthat are very hard to get, mo."
+    },
+    {
+      "$id": 55,
+      "label": "qst660104_msg0055",
+      "style": 84,
+      "name": "Sounds fun, doesn't it, Meleph?"
+    },
+    {
+      "$id": 56,
+      "label": "qst660104_msg0056",
+      "style": 84,
+      "name": "I'd be lying if I said\nI wasn't curious..."
+    },
+    {
+      "$id": 57,
+      "label": "qst660104_msg0057",
+      "style": 84,
+      "name": "Then shall we try?"
+    },
+    {
+      "$id": 58,
+      "label": "qst660104_msg0058",
+      "style": 84,
+      "name": "Shulk-san, Fiorung-san,\nwhat will you do?"
+    },
+    {
+      "$id": 59,
+      "label": "qst660104_msg0059",
+      "style": 84,
+      "name": "Reyn would probably stop me,\nbut I'm for it."
+    },
+    {
+      "$id": 60,
+      "label": "qst660104_msg0060",
+      "style": 84,
+      "name": "I want to do something fun with\nthe friends we just met."
+    },
+    {
+      "$id": 61,
+      "label": "qst660104_msg0061",
+      "style": 84,
+      "name": "If Fiorung's up for it,\nI'll join in too."
+    },
+    {
+      "$id": 62,
+      "label": "qst660104_msg0062",
+      "style": 84,
+      "name": "Yay, mo!"
+    },
+    {
+      "$id": 63,
+      "label": "qst660104_msg0063",
+      "style": 84,
+      "name": "Things work differently here than\nin our world, so we'll fight while\nsupporting Rex and the others."
+    },
+    {
+      "$id": 64,
+      "label": "qst660104_msg0064",
+      "style": 84,
+      "name": "Right."
+    },
+    {
+      "$id": 65,
+      "label": "qst660104_msg0065",
+      "style": 84,
+      "name": "And it seems we can summon\nour weapons freely—like Blades\nin your world."
+    },
+    {
+      "$id": 66,
+      "label": "qst660104_msg0066",
+      "style": 84,
+      "name": "That's reassuring."
+    },
+    {
+      "$id": 67,
+      "label": "qst660104_msg0067",
+      "style": 84,
+      "name": "It sounds fun to team up with Fiorung."
+    },
+    {
+      "$id": 68,
+      "label": "qst660104_msg0068",
+      "style": 84,
+      "name": "Look forward to it!"
+    },
+    {
+      "$id": 69,
+      "label": "qst660104_msg0069",
+      "style": 84,
+      "name": "When you're ready, talk to\nthe Nopon Great Sage, mo."
+    },
+    {
+      "$id": 70,
+      "label": "qst660104_msg0070",
+      "style": 84,
+      "name": "Then the Challenge Battle begins, mo!"
+    },
+    {
+      "$id": 71,
+      "label": "qst660104_msg0110",
+      "style": 84,
+      "name": "It was much the same for Hana\nand the others, mo."
+    },
+    {
+      "$id": 72,
+      "label": "qst660104_msg0111",
+      "style": 84,
+      "name": "Tora couldn't resist his curiosity\neither, mo."
+    },
+    {
+      "$id": 73,
+      "label": "qst660104_msg0112",
+      "style": 84,
+      "name": "Wasn't it Rex, not Master,\nwho went first, mo?"
+    },
+    {
+      "$id": 74,
+      "label": "qst660104_msg0128",
+      "style": 84,
+      "name": "Who's there?!"
+    },
+    {
+      "$id": 75,
+      "label": "qst660104_msg0144",
+      "style": 84,
+      "name": "So you want to test our skills...?"
+    },
+    {
+      "$id": 76,
+      "label": "qst660104_msg0155",
+      "style": 84,
+      "name": "Tora wants to try, mo!"
+    },
+    {
+      "$id": 77,
+      "label": "qst660104_msg0156",
+      "style": 84,
+      "name": "I'm a bit curious myself. Rex,\ndon't you think we should try it?"
+    },
+    {
+      "$id": 78,
+      "label": "qst660104_msg0157",
+      "style": 84,
+      "name": "Yeah... I think I'd like\nto try the challenge."
+    }
+  ]
+}

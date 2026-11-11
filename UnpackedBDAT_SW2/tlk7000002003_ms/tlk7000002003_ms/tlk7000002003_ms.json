@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000020_03_msg0001",
+      "style": 84,
+      "name": "I saw the knighting\nceremony. Congratulations!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000020_03_msg0002",
+      "style": 84,
+      "name": "I'm sure many more people will gather\naround you from now on."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000020_03_msg0003",
+      "style": 84,
+      "name": "However, do not allow the\nvoices or convictions of\nothers to influence you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000020_03_msg0004",
+      "style": 84,
+      "name": "Stay true to yourself and your\nbeliefs. I will always be\nhere, looking out for you."
+    }
+  ]
+}

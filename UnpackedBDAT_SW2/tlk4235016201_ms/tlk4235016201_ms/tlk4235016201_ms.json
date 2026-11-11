@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350162_01_msg0001",
+      "style": 84,
+      "name": "Ah, that was scary, mo! I\nthought I was going to die, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350162_01_msg0002",
+      "style": 84,
+      "name": "I was trying to go to Iyasaki\nVillage to do some business, but..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350162_01_msg0003",
+      "style": 84,
+      "name": "I slipped on a narrow path on the way\nand fell into the Cloud Sea, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350162_01_msg0004",
+      "style": 84,
+      "name": "I somehow managed to reach a small\nisland with the Noppy-paddle, but it\nwas tough climbing up from there, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42350162_01_msg0005",
+      "style": 84,
+      "name": "You all are big, so you're probably\nmore likely to slip off than Esasa,\nmo. Watch your step, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42350162_01_msg0006",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

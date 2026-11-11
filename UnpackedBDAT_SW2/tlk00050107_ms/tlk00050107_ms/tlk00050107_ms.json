@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000501_07_msg0001",
+      "style": 84,
+      "name": "Nilny has been appointed Acting\nChairman to take this seat, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000501_07_msg0002",
+      "style": 84,
+      "name": "I swear Nilny will change\nhow Bahn used to run things, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000501_07_msg0003",
+      "style": 84,
+      "name": "I won't tolerate laziness or\nsecrets, mo. I aim for an honest,\nclean workplace, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000501_07_msg0004",
+      "style": 84,
+      "name": "You can expect great things from\nthe Avaritia Trading Company from\nnow on, mo."
+    }
+  ]
+}

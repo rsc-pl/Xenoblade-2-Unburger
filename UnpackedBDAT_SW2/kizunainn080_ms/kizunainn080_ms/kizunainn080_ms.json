@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn080_msg0001",
+      "style": 84,
+      "name": "This is terrible, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn080_msg0002",
+      "style": 84,
+      "name": "Mei won't come out of her room, mo!\nWe can't set out like this, mooo!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn080_msg0003",
+      "style": 84,
+      "name": "I think we should go to her room\nand wake her up, mo."
+    }
+  ]
+}

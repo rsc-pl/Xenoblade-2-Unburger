@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100061_01_msg0001",
+      "style": 84,
+      "name": "Where did that Pepe get to? I\nhope he comes back soon..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100061_01_msg0002",
+      "style": 84,
+      "name": "Whoa! You startled me!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100061_01_msg0003",
+      "style": 84,
+      "name": "I never expected you to talk to me."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100061_01_msg0004",
+      "style": 84,
+      "name": "The grass around Iyasaki Village is\nsoft and delicious. Want some?"
+    }
+  ]
+}

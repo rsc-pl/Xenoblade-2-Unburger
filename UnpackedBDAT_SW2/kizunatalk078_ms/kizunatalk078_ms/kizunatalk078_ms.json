@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk078_msg0001",
+      "style": 84,
+      "name": "It really is a\nbreathtaking sight, mo..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk078_msg0002",
+      "style": 84,
+      "name": "I never imagined the day would come\nwhen I would look down on Alst..."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk078_msg0003",
+      "style": 84,
+      "name": "But the height is so extreme that\nit sends shivers down my spine..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk078_msg0004",
+      "style": 84,
+      "name": "Master, what do you think\nwhen you stand here?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk078_msg0005",
+      "style": 165,
+      "name": "What's on your mind as you stand here?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk078_msg0006",
+      "style": 164,
+      "name": "What would happen if the\nWorld Tree collapsed?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk078_msg0007",
+      "style": 164,
+      "name": "How was this place\nconstructed, I wonder?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk078_msg0008",
+      "style": 165,
+      "name": "What's on your mind as you stand here?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk078_msg0009",
+      "style": 164,
+      "name": "What if the World Tree\nwere to collapse?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk078_msg0010",
+      "style": 164,
+      "name": "I wonder how they built this place?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk078_msg0011",
+      "style": 165,
+      "name": "What comes to mind as you stand here?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk078_msg0012",
+      "style": 164,
+      "name": "Is there any risk of the World\nTree collapsing, I wonder?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk078_msg0013",
+      "style": 164,
+      "name": "I wonder how this structure was built."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk078_msg0014",
+      "style": 165,
+      "name": "What thoughts come to\nyou as you stand here?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk078_msg0015",
+      "style": 164,
+      "name": "It would be disastrous if this\nWorld Tree collapsed, wouldn't it?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk078_msg0016",
+      "style": 164,
+      "name": "How was this place built, I wonder?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk078_msg0101",
+      "style": 84,
+      "name": "This place is really high up..."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk078_msg0102",
+      "style": 84,
+      "name": "It makes me wonder what would happen\nif the World Tree were to fall."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk078_msg0103",
+      "style": 84,
+      "name": "This place is at a serious altitude..."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk078_msg0104",
+      "style": 84,
+      "name": "It's worrying to think about\nwhat would happen if the\nWorld Tree collapsed."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk078_msg0105",
+      "style": 84,
+      "name": "We are at an unbelievable\naltitude here."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk078_msg0106",
+      "style": 84,
+      "name": "So I end up thinking about\nwhat would happen if the\nWorld Tree collapsed."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk078_msg0107",
+      "style": 84,
+      "name": "This place is at an\nunbelievable height, ain't it?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk078_msg0108",
+      "style": 84,
+      "name": "So that's why I get worried\n'bout what would happen if\nthe World Tree toppled over."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk078_msg0109",
+      "style": 84,
+      "name": "That is certainly worrying, mo!"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk078_msg0110",
+      "style": 84,
+      "name": "I'm starting to worry whether such a\ntall, slender structure is safe, mo..."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk078_msg0111",
+      "style": 84,
+      "name": "If the World Tree were to\ncollapse, we wouldn't make\nit out alive, would we?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk078_msg0112",
+      "style": 84,
+      "name": "As long as we stay here, I determine\nthat the possibility of colliding\nwith Alst is extremely low."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk078_msg0113",
+      "style": 84,
+      "name": "At even lower levels of the World\nTree... where you fought Malbeni and\nShin, it would probably collapse."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk078_msg0114",
+      "style": 84,
+      "name": "However, this is the vacuum\nof space... and furthermore,\nwe're in orbit around Alst."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk078_msg0115",
+      "style": 84,
+      "name": "Even if the World Tree collapsed,\nI predict this place would\nremain in outer space."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk078_msg0116",
+      "style": 84,
+      "name": "That's...hard to imagine."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk078_msg0117",
+      "style": 84,
+      "name": "Hmm... I don't quite get it..."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk078_msg0118",
+      "style": 84,
+      "name": "It's hard to believe right away..."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk078_msg0119",
+      "style": 84,
+      "name": "Hard to believe, but I\ns'pose it's true..."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk078_msg0120",
+      "style": 84,
+      "name": "But knowing this place would be safe\neven then makes me feel a little\nbetter, mo."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk078_msg0121",
+      "style": 84,
+      "name": "But wait, wouldn't that mean\nwe'd lose our way back to Alst?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk078_msg0122",
+      "style": 84,
+      "name": "M-Mo-mo!? KOS-MOS Re:, what will\nhappen to Tora and everyone?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk078_msg0123",
+      "style": 84,
+      "name": "We will either keep orbiting\nAlst, or leave orbit and\ndrift through space."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk078_msg0124",
+      "style": 84,
+      "name": "So either way, we would die\nhere... is that correct?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk078_msg0125",
+      "style": 84,
+      "name": "Precisely."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk078_msg0126",
+      "style": 84,
+      "name": "Tora's starting to want\nto go home now, mo..."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk078_msg0127",
+      "style": 84,
+      "name": "Please be reassured."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk078_msg0128",
+      "style": 84,
+      "name": "I will do everything possible to\nprevent such a scenario. Protecting\nDrivers is my purpose, after all."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk078_msg0129",
+      "style": 84,
+      "name": "But Tora isn't technically a Driver,\nmo. Just a young Nopon boy, mo."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk078_msg0130",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk078_msg0131",
+      "style": 84,
+      "name": "I will protect you after I\nhave ensured the safety of\nRex, Nia, Meleph, and Zeke."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk078_msg0132",
+      "style": 84,
+      "name": "Mo-mo-mo?! Fifth in line?!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk078_msg0133",
+      "style": 84,
+      "name": "...If you wish to be a\npriority, I suggest you\nrely on Hana for protection."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk078_msg0134",
+      "style": 84,
+      "name": "KOS-MOS Re:, that's cold, mo!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk078_msg0135",
+      "style": 84,
+      "name": "Hahaha! KOS-MOS Re:\ncan be quite amusing!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk078_msg0136",
+      "style": 84,
+      "name": "Hahaha! KOS-MOS Re: really is funny."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk078_msg0137",
+      "style": 84,
+      "name": "Ahaha... You can be quite\namusing at times, KOS-MOS Re:."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk078_msg0138",
+      "style": 84,
+      "name": "Hahaha! KOS-MOS Re: is a\nfunny one, ain't she?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk078_msg0139",
+      "style": 84,
+      "name": "Do you think so? I'm actually\nbeing quite serious..."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk078_msg0140",
+      "style": 84,
+      "name": "No, that is fine. That\nis fine just as it is."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk078_msg0141",
+      "style": 84,
+      "name": "No, that is fine for\nKOS-MOS Re:. Truly."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk078_msg0142",
+      "style": 84,
+      "name": "No. KOS-MOS Re: is fine\njust the way she is..."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk078_msg0143",
+      "style": 84,
+      "name": "Nah, KOS-MOS Re: is\nfine just like that."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk078_msg0201",
+      "style": 84,
+      "name": "The first step is to launch a\nsatellite from Alst into orbit."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk078_msg0202",
+      "style": 84,
+      "name": "Fumo fumo..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk078_msg0203",
+      "style": 84,
+      "name": "This geostationary satellite then\ndeploys a cable down toward Alst."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk078_msg0204",
+      "style": 84,
+      "name": "And on the opposite side, a\ncounterweight is attached as\nthe cable extends outward."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk078_msg0205",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk078_msg0206",
+      "style": 84,
+      "name": "If we repeat that process, the\ncable will eventually reach Alst."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk078_msg0207",
+      "style": 84,
+      "name": "Then elevators are attached to this\ncable to transport materials."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk078_msg0208",
+      "style": 84,
+      "name": "Fumo fumo..."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk078_msg0209",
+      "style": 84,
+      "name": "Then, gradually increasing in scale,\nthe World Tree is constructed."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk078_msg0210",
+      "style": 84,
+      "name": "I can kind of picture it, but I still\ndon't understand it at all, mo."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk078_msg0211",
+      "style": 84,
+      "name": "Indeed, it's completely\nbeyond my comprehension."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk078_msg0212",
+      "style": 84,
+      "name": "How do you know all this\nstuff, KOS-MOS Re:?"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk078_msg0213",
+      "style": 84,
+      "name": "Where are you getting all\nthis from, KOS-MOS Re:?"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk078_msg0214",
+      "style": 84,
+      "name": "How do you know all these\ncomplex things, KOS-MOS Re:?"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk078_msg0215",
+      "style": 84,
+      "name": "Listen, KOS-MOS Re:... How d'you\neven know about this stuff?"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk078_msg0216",
+      "style": 84,
+      "name": "That is something I\ndo not know myself."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk078_msg0217",
+      "style": 84,
+      "name": "You don't know either, mo?"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk078_msg0218",
+      "style": 84,
+      "name": "Correct."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk078_msg0219",
+      "style": 84,
+      "name": "This information exists independently\nfrom my memory files..."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk078_msg0220",
+      "style": 84,
+      "name": "It appears that this data persists\neven when I return to Core form."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk078_msg0221",
+      "style": 84,
+      "name": "Just as we Blades remember our names\nwhen we are born, this knowledge is\ninherent from the beginning."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk078_msg0222",
+      "style": 84,
+      "name": "So I have no idea who\nimplanted this data, or for\nwhat purpose they did so."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk078_msg0223",
+      "style": 84,
+      "name": "So even KOS-MOS Re: has\nthings she doesn't know."
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk078_msg0224",
+      "style": 84,
+      "name": "So there's stuff even\nyou don't know, huh."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk078_msg0225",
+      "style": 84,
+      "name": "So there are some things\neven you don't know."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk078_msg0226",
+      "style": 84,
+      "name": "I guess there's some stuff\neven you don't know."
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk078_msg0227",
+      "style": 84,
+      "name": "Yes, indeed..."
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk078_msg0228",
+      "style": 84,
+      "name": "Perhaps that is why I exist\nwith a Driver: to find out."
+    }
+  ]
+}

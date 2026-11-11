@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst1003105_msg001",
+      "style": 84,
+      "name": "I heard you helped out at all\nthree distribution centers."
+    },
+    {
+      "$id": 2,
+      "label": "qst1003105_msg002",
+      "style": 84,
+      "name": "You were a real help. Thank you."
+    },
+    {
+      "$id": 3,
+      "label": "qst1003105_msg003",
+      "style": 84,
+      "name": "Struggling civilians and soldiers\nare now lashing out at the refugees.\nSadly, that's where things stand."
+    },
+    {
+      "$id": 4,
+      "label": "qst1003105_msg004",
+      "style": 84,
+      "name": "Perhaps living with no leeway has\nimpoverished their hearts as well."
+    },
+    {
+      "$id": 5,
+      "label": "qst1003105_msg005",
+      "style": 84,
+      "name": "They didn't have the luxury\nof caring for others...\nand neither did we."
+    },
+    {
+      "$id": 6,
+      "label": "qst1003105_msg006",
+      "style": 84,
+      "name": "But thanks to you, we're starting\nto get that leeway back."
+    },
+    {
+      "$id": 7,
+      "label": "qst1003105_msg007",
+      "style": 84,
+      "name": "I hope this will improve\neveryone's lives."
+    },
+    {
+      "$id": 8,
+      "label": "qst1003105_msg008",
+      "style": 84,
+      "name": "You were a great help\nthis time. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500173_01_msg0001",
+      "style": 84,
+      "name": "I'd like to say welcome, but..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500173_01_msg0002",
+      "style": 84,
+      "name": "I'm afraid we only do business\nwith salvagers of Rank D or\nhigher at this establishment."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500173_01_msg0003",
+      "style": 84,
+      "name": "If you don't even know about Salvager\nRanks, this isn't the place for you.\nCome back after starting from scratch."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46500173_01_msg0101",
+      "style": 84,
+      "name": "Welcome. Good to see you."
+    },
+    {
+      "$id": 5,
+      "label": "tlk46500173_01_msg0102",
+      "style": 84,
+      "name": "Always happy to do business\nwith a trusted salvager."
+    }
+  ]
+}

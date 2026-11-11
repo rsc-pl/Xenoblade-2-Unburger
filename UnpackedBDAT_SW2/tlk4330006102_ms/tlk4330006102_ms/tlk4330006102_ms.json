@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300061_02_msg0001",
+      "style": 84,
+      "name": "I hear a boy from Iyasaki started a\nregular direct service to Avaritia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300061_02_msg0002",
+      "style": 84,
+      "name": "That's great news for us! Just\ngreat! It means we'll finally be\nable to get back home to Invidia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300061_02_msg0003",
+      "style": 84,
+      "name": "...On the other hand, my wife made\nfriends here in Iyasaki, and now\nshe's learning local cooking..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300061_02_msg0004",
+      "style": 84,
+      "name": "Said she won't go back till she\nknows them all, so I watch boats\ngo by... At least she's having fun."
+    }
+  ]
+}

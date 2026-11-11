@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000901_09_msg0001",
+      "style": 84,
+      "name": "To reach Eden, you must stop\nthe Divine Beast creating\nthe Great Void— Serpent."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000901_09_msg0002",
+      "style": 84,
+      "name": "The one who gave Serpent its mission\nwas Zeke's homeland, Luxuria..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000901_09_msg0003",
+      "style": 84,
+      "name": "I have prepared a letter to\nLuxuria. They should welcome\nyou as an envoy of Acedia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000901_09_msg0004",
+      "style": 84,
+      "name": "Reach Eden before Metsu and the others\nand find out what it really is...\nin place of the fool I once was..."
+    }
+  ]
+}

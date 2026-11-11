@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst004001_msg0001",
+      "style": 84,
+      "name": "So you're the helper Yan\nsent. Nice to meet you!"
+    },
+    {
+      "$id": 2,
+      "label": "qst004001_msg0002",
+      "style": 84,
+      "name": "I need you to track down the\nculprit who cut the wire!"
+    },
+    {
+      "$id": 3,
+      "label": "qst004001_msg0003",
+      "style": 84,
+      "name": "To solve a crime, you first\nask around! Gather information\nfrom the townsfolk!"
+    },
+    {
+      "$id": 4,
+      "label": "qst004001_msg0004",
+      "style": 84,
+      "name": "Men and women, young and\nold... er... women and old,\nyoung and men... huh?"
+    },
+    {
+      "$id": 5,
+      "label": "qst004001_msg0005",
+      "style": 84,
+      "name": "Um... Everyone loves\ngossip, so go ask around!"
+    },
+    {
+      "$id": 6,
+      "label": "qst004001_msg0006",
+      "style": 84,
+      "name": "Yes! Don't miss a thing!"
+    },
+    {
+      "$id": 7,
+      "label": "qst004001_msg0101",
+      "style": 84,
+      "name": "How's the information gathering\ngoing? Capturing the culprit\nis your responsibility!"
+    },
+    {
+      "$id": 8,
+      "label": "qst004001_msg0102",
+      "style": 84,
+      "name": "A Superbian soldier used\nthat word before... What\ndoes \"responsibility\" mean?"
+    },
+    {
+      "$id": 9,
+      "label": "qst004001_msg0103",
+      "style": 84,
+      "name": "I bet they think using difficult\nwords makes them sound smart!"
+    },
+    {
+      "$id": 10,
+      "label": "qst004001_msg0201",
+      "style": 84,
+      "name": "What?! You solved it?"
+    },
+    {
+      "$id": 11,
+      "label": "qst004001_msg0202",
+      "style": 84,
+      "name": "Well...! Report!"
+    },
+    {
+      "$id": 12,
+      "label": "qst004001_msg0203",
+      "style": 84,
+      "name": "Tirkin were shooting it with bows!\nAwesome!!"
+    },
+    {
+      "$id": 13,
+      "label": "qst004001_msg0204",
+      "style": 84,
+      "name": "That wire old man Mache made was\nsuper strong, but they cut it\nwith bows! That's amazing!"
+    },
+    {
+      "$id": 14,
+      "label": "qst004001_msg0205",
+      "style": 84,
+      "name": "You guys are amazing! I'll\ngo report to Chief Yan that\nthe case is solved!"
+    },
+    {
+      "$id": 15,
+      "label": "qst004001_msg0206",
+      "style": 84,
+      "name": "Now then, for capturing the\nculprits, I shall bestow upon\nyou an amazing reward!"
+    }
+  ]
+}

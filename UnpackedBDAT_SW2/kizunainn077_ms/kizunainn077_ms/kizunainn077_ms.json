@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn077_msg0001",
+      "style": 84,
+      "name": "Hey hey, did you know a Divine\nBeast Battleship is anchored\nat the port in Torigo Town?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn077_msg0002",
+      "style": 84,
+      "name": "Ibuki wants to go see it.\nHey, let's go together!"
+    }
+  ]
+}

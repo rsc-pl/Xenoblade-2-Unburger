@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400011_05_msg0001",
+      "style": 84,
+      "name": "Um... Did you know, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400011_05_msg0002",
+      "style": 84,
+      "name": "We just got a reservation\nfor a large group, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400011_05_msg0003",
+      "style": 84,
+      "name": "It's a large enough group to\nfill up Harapekko Canteen, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400011_05_msg0004",
+      "style": 84,
+      "name": "Etoeto and the others aren't enough,\nso we're looking for temporary\nstaff, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42400011_05_msg0005",
+      "style": 84,
+      "name": "But we're having trouble\nfinding anyone, um, um..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk42400011_05_msg0007",
+      "style": 84,
+      "name": "That would be a huge help,\nmo. Thank you so much, mo!"
+    }
+  ]
+}

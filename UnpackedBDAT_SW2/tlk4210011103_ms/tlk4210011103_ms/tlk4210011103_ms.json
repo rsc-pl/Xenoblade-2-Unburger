@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100111_03_msg0001",
+      "style": 84,
+      "name": "Kagege's faint presence led to a job\nas Special Investigator for Avaritia\nTrading Company, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100111_03_msg0002",
+      "style": 84,
+      "name": "That makes me Acting Chairman Nilny's\njunior, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100111_03_msg0003",
+      "style": 84,
+      "name": "If Kagege works hard at espionage,\nKagege could even become Chairman\nof Avaritia Trading Company, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100111_03_msg0004",
+      "style": 84,
+      "name": "Then Kagege will pull the\nstrings from the shadows..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42100111_03_msg0005",
+      "style": 84,
+      "name": "Kagege's future is bright, mo!"
+    }
+  ]
+}

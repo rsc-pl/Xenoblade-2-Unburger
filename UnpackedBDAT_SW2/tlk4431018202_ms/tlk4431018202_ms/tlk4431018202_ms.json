@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310182_02_msg0001",
+      "style": 84,
+      "name": "You guys are the worst... Doctors\nsay it'll take me ten days to\nrecover from your attacks."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310182_02_msg0002",
+      "style": 84,
+      "name": "Kidding, kidding! I don't\nresent you. It was my fault\nfor being weak."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310182_02_msg0003",
+      "style": 84,
+      "name": "Yeah, I'm actually rather embarrassed\nfor myself, so confident that you\ncould never take me on..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310182_02_msg0004",
+      "style": 84,
+      "name": "We'll use this as a chance to change\nour training so we can handle even\nstronger enemies!"
+    }
+  ]
+}

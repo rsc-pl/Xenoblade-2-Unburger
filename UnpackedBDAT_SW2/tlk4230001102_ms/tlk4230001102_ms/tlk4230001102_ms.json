@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300011_02_msg0001",
+      "style": 84,
+      "name": "Thank you for getting Rimurimu's\nprecious pendant back, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300011_02_msg0002",
+      "style": 84,
+      "name": "Next time, so I can defeat the Cribe\nmyself, I'll put watch duty aside and\nundergo intense training, mo!"
+    }
+  ]
+}

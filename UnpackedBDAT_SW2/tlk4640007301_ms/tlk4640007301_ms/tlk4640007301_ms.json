@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400073_01_msg0001",
+      "style": 84,
+      "name": "Welcome! Thank you sincerely\nfor visiting us!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400073_01_msg0003",
+      "style": 84,
+      "name": "May God's blessings\nbe with you always!"
+    }
+  ]
+}

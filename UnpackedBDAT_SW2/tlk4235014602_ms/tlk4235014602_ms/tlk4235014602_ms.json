@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350146_02_msg0001",
+      "style": 84,
+      "name": "I feel like the harvest\nof Damp Shimeji has been\ndecreasing lately... mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350146_02_msg0002",
+      "style": 84,
+      "name": "Hey, you guys! Why are\nyou in here, mo?!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350146_02_msg0003",
+      "style": 84,
+      "name": "This was a place Hototo found,\na perfect, blissful sanctuary\nyou could call paradise..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350146_02_msg0004",
+      "style": 84,
+      "name": "Well, it's not like they'll\nall be gone, so let's share\nthem nicely, mo."
+    }
+  ]
+}

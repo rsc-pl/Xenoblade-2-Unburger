@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700222_01_msg0001",
+      "style": 84,
+      "name": "My name's Otto, and I'm the foreman\nhere at Nokirua Logging Site."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700222_01_msg0002",
+      "style": 84,
+      "name": "We fell the trees here, and transport\nthe timber over to Shubia Lumberyard\nin Torigo for processing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700222_01_msg0003",
+      "style": 84,
+      "name": "Then they can be used to\nmake furniture, musical\ninstruments, you name it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700222_01_msg0004",
+      "style": 84,
+      "name": "A lot of it also gets exported\nto Superbia or Avaritia."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700222_01_msg0005",
+      "style": 84,
+      "name": "Gulan wood is high-quality\nand very popular."
+    }
+  ]
+}

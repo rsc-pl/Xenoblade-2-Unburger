@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000057_03_msg0001",
+      "style": 84,
+      "name": "I don't remember much about when we\nescaped from our village."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000057_03_msg0002",
+      "style": 84,
+      "name": "Mom told us to run, and my older\nbrother took my hand..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000057_03_msg0003",
+      "style": 84,
+      "name": "But it's okay. My older brother told\nme Mom escaped somewhere else."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000057_03_msg0004",
+      "style": 84,
+      "name": "So we decided to go get Mom together\nwith Dad."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000057_03_msg0005",
+      "style": 84,
+      "name": "I want to see her soon.\nI want to eat Mom's cooking."
+    }
+  ]
+}

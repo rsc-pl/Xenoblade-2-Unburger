@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100152_02_msg0001",
+      "style": 84,
+      "name": "A Phonex from another place?\nHmm, I don't know any."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100152_02_msg0002",
+      "style": 84,
+      "name": "Any Phonex who comes to a place\nthis hard to live in is an\noddball. Myself included."
+    }
+  ]
+}

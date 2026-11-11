@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000046_04_msg0001",
+      "style": 84,
+      "name": "Hey there. A lot of people round\nthese parts have a lot of nice\nthings to say about you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000046_04_msg0002",
+      "style": 84,
+      "name": "Sounds like you've been\nsolving problems and taking\non requests from folks?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000046_04_msg0003",
+      "style": 84,
+      "name": "If I call myself an odd-jobber, I\ncan't afford to get complacent either."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000046_04_msg0004",
+      "style": 84,
+      "name": "Oh, uh, but don't get me wrong, OK?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000046_04_msg0005",
+      "style": 84,
+      "name": "I am not trying to compete\nwith you all or anything."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000046_04_msg0006",
+      "style": 84,
+      "name": "I'm plenty glad that my neighbors are\nliving healthier and happier lives\nthanks to you, that's really enough."
+    }
+  ]
+}

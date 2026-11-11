@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000048_06_msg0001",
+      "style": 84,
+      "name": "Do you remember what\nI told you before?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000048_06_msg0002",
+      "style": 84,
+      "name": "About how important it is to share\nyour happiness and grief with others\nin times of great hardship?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000048_06_msg0003",
+      "style": 84,
+      "name": "There are a lot of things that\nwouldn't be possible without you\nall, and I don't just mean this fight."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000048_06_msg0004",
+      "style": 84,
+      "name": "There isn't anyone else who\ncan do for us what you do..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000048_06_msg0005",
+      "style": 84,
+      "name": "So please, just... Take\ncare of yourselves."
+    }
+  ]
+}

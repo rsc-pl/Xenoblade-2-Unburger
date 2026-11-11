@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701706_msg0001",
+      "style": 84,
+      "name": "Bloody Lobsters? Of course I know\nthem, mo! It's the name of some\nbad guys, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst701706_msg0002",
+      "style": 84,
+      "name": "At Momimi's house, we grow up hearing\nbad kids get taken by Bloody Lobsters,\nmo. They're super scary, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst701706_msg0003",
+      "style": 84,
+      "name": "Silent Specter? I've never heard\nof that, mo. I'm sorry, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst701706_msg0004",
+      "style": 84,
+      "name": "...Did you all perhaps\ndo something bad, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "qst701706_msg0005",
+      "style": 84,
+      "name": "You should buy a blessed vase from\nMomimi's place, mo. It will surely\nbring you peace of mind, mo!!"
+    }
+  ]
+}

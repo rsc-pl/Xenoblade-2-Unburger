@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202103_msg001",
+      "style": 84,
+      "name": "Ooh!? Ooooooh! We got a response!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202103_msg002",
+      "style": 84,
+      "name": "With this, the riddle of the\nstone tablet is solved!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202103_msg003",
+      "style": 84,
+      "name": "Ah, but it looks like it's not\ncompletely solved yet."
+    },
+    {
+      "$id": 4,
+      "label": "qst202103_msg004",
+      "style": 84,
+      "name": "What do you mean?"
+    },
+    {
+      "$id": 5,
+      "label": "qst202103_msg005",
+      "style": 84,
+      "name": "Apparently, this stone tablet\npoints to the World Tree."
+    },
+    {
+      "$id": 6,
+      "label": "qst202103_msg006",
+      "style": 84,
+      "name": "A part of it seems to be\nglowing somehow, but[ML:Dash ]"
+    },
+    {
+      "$id": 7,
+      "label": "qst202103_msg007",
+      "style": 84,
+      "name": "Yes, exactly! As expected of you,\nMeleph. Good eye."
+    },
+    {
+      "$id": 8,
+      "label": "qst202103_msg008",
+      "style": 84,
+      "name": "The light appeared when the stone\ntablet's riddle was solved."
+    },
+    {
+      "$id": 9,
+      "label": "qst202103_msg009",
+      "style": 84,
+      "name": "The location is probably the Data\nManagement Room in the World Tree[ML:Dash ]"
+    },
+    {
+      "$id": 10,
+      "label": "qst202103_msg010",
+      "style": 84,
+      "name": "I think it means that if we\ngo there, there's something[ML:Dash ]"
+    },
+    {
+      "$id": 11,
+      "label": "qst202103_msg011",
+      "style": 84,
+      "name": "Meaning we won't know unless\nwe actually go there, right?"
+    },
+    {
+      "$id": 12,
+      "label": "qst202103_msg012",
+      "style": 84,
+      "name": "Yes!"
+    },
+    {
+      "$id": 13,
+      "label": "qst202103_msg013",
+      "style": 84,
+      "name": "We have to go check it right away!"
+    },
+    {
+      "$id": 14,
+      "label": "qst202103_msg014",
+      "style": 84,
+      "name": "Hey, Shiki!?"
+    },
+    {
+      "$id": 15,
+      "label": "qst202103_msg015",
+      "style": 84,
+      "name": "She went off alone again."
+    },
+    {
+      "$id": 16,
+      "label": "qst202103_msg016",
+      "style": 84,
+      "name": "No, going to the World Tree\nalone is too dangerous!"
+    },
+    {
+      "$id": 17,
+      "label": "qst202103_msg017",
+      "style": 84,
+      "name": "Let's hurry and chase after her."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk004101_04_msg0001",
+      "style": 84,
+      "name": "Temperantia is the political buffer\nzone between Superbia and Invidia...\nThere must be no fighting here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk004101_04_msg0002",
+      "style": 84,
+      "name": "However, it may be that Superbia\nwas waiting for this very moment."
+    },
+    {
+      "$id": 3,
+      "label": "tlk004101_04_msg0003",
+      "style": 84,
+      "name": "...His Holiness entrusted this to you,\nbut something could still go wrong..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk004101_04_msg0004",
+      "style": 84,
+      "name": "We, too, must proceed\nwith preparations..."
+    }
+  ]
+}

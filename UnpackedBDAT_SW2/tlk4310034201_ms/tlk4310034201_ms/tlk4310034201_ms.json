@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100342_01_msg0001",
+      "style": 84,
+      "name": "They say there are monsters that can\nrally their allies and make them\nstronger."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100342_01_msg0002",
+      "style": 84,
+      "name": "Apparently, you should take those\nmonsters down first."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100342_01_msg0003",
+      "style": 84,
+      "name": "I heard that from a Driver my dad\nknows."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100342_01_msg0004",
+      "style": 84,
+      "name": "You have to study a lot\nif you want to join the\nInvidian army!"
+    }
+  ]
+}

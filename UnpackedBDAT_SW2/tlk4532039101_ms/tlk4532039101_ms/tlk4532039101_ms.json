@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320391_01_msg0001",
+      "style": 84,
+      "name": "His Majesty ordered the Divine Beast\nweapon excavation stopped, but\nRoderich-sama forced it to resume."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320391_01_msg0002",
+      "style": 84,
+      "name": "That's why they didn't send any Driver\nsoldiers with powerful Blades."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320391_01_msg0003",
+      "style": 84,
+      "name": "So of course we were never\ngoing to be able to face\nup to the likes of Iira!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320391_01_msg0004",
+      "style": 84,
+      "name": "He just doesn't know how to\nmanage a crisis at all. Don't\ntell anyone I said that, mind."
+    }
+  ]
+}

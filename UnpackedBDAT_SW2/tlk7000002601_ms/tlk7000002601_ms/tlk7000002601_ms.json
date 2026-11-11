@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000026_01_msg0001",
+      "style": 84,
+      "name": "The glass we make in this workshop\nis produced from rock and sand\ncollected in the Dana Desert."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000026_01_msg0002",
+      "style": 84,
+      "name": "Our glass is used not only for Iiran\nsouvenirs, but also for ritual jewelry\nand ceremonial tools."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000026_01_msg0003",
+      "style": 84,
+      "name": "Lately I heard the army fitted\none of its ships with the glass\nmy teacher poured his soul into."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000026_01_msg0004",
+      "style": 84,
+      "name": "The name of the ship was, uh...\nI think it started with \"Mo\"...?\nSorry, I forgot. Anyway..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000026_01_msg0005",
+      "style": 84,
+      "name": "I'm just an apprentice for now. I\ncan only make things like water\njugs and little glass baubles."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000026_01_msg0006",
+      "style": 84,
+      "name": "But you should see what my instructor\ncan make! It's well made and sturdy,\nbut still utterly exquisite."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320121_05_msg0001",
+      "style": 84,
+      "name": "Now that our homeland is in an\nunprecedented crisis, we need the\npeople of Gula to rise up!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320121_05_msg0002",
+      "style": 84,
+      "name": "I'm thinking of visiting every house\nand having everyone, young and old,\ntouch a Core Crystal!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320121_05_msg0003",
+      "style": 84,
+      "name": "I suggested that to the Ministry of\nInternal Affairs' Investigation\nBureau, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320121_05_msg0004",
+      "style": 84,
+      "name": "But they told me no, on grounds that\nwe'd end up with a pile of citizens\nlying in pools of their own blood."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320121_05_msg0005",
+      "style": 84,
+      "name": "With Alst in this state, I\nthink everyone needs to\nstart doing something..."
+    }
+  ]
+}

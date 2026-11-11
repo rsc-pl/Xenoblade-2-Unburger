@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101901_msg001",
+      "style": 62,
+      "name": "(Temp) Acceptance talk What's wrong?"
+    },
+    {
+      "$id": 2,
+      "label": "qst101901_msg002",
+      "style": 62,
+      "name": "(Temp) I have a request, and I need\nto get some work done up ahead."
+    },
+    {
+      "$id": 3,
+      "label": "qst101901_msg003",
+      "style": 62,
+      "name": "(Temp) I'm already exhausted\nfrom moving the rock."
+    },
+    {
+      "$id": 4,
+      "label": "qst101901_msg004",
+      "style": 62,
+      "name": "(Temp) That's it! Since you're here,\nI'll let the newbie have the job!"
+    },
+    {
+      "$id": 5,
+      "label": "qst101901_msg005",
+      "style": 62,
+      "name": "(Temp) As for the mission..."
+    },
+    {
+      "$id": 6,
+      "label": "qst101901_msg006",
+      "style": 62,
+      "name": "(Temp) Apparently, there are several\nplants in this area that emit a highly\ntoxic gas. Find them and remove them."
+    },
+    {
+      "$id": 7,
+      "label": "qst101901_msg007",
+      "style": 62,
+      "name": "(Temp) I'm counting on you!"
+    },
+    {
+      "$id": 8,
+      "label": "qst101901_msg008",
+      "style": 62,
+      "name": "(Temp) Accepted text"
+    },
+    {
+      "$id": 9,
+      "label": "qst101901_msg009",
+      "style": 62,
+      "name": "This collection method won't work!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_05_msg0001",
+      "style": 84,
+      "name": "Good work."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_05_msg0002",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries have grown\neven bigger."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_05_msg0003",
+      "style": 84,
+      "name": "Things are livelier now. It's really\nimpressive."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_05_msg0004",
+      "style": 84,
+      "name": "Despite all this momentum, we've got\na rather plain new request."
+    }
+  ]
+}

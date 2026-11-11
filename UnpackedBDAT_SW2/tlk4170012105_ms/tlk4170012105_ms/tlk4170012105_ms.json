@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_05_msg0001",
+      "style": 84,
+      "name": "Superbia and Invidia... When those\ntwo go to war, there's no doubt Gula\nwill be caught in the middle."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_05_msg0002",
+      "style": 84,
+      "name": "But Gula itself has no power\nto fight. We'll simply be ruled\nby the victorious nation."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_05_msg0003",
+      "style": 84,
+      "name": "All we can do is pray that whoever\nwins doesn't trample Gula's\ncivilization."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_05_msg0004",
+      "style": 84,
+      "name": "The best thing would be for war not\nto break out and for things to stay\nas they are..."
+    }
+  ]
+}

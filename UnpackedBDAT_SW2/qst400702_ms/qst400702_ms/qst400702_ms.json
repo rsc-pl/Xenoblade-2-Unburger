@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400702_msg0001",
+      "style": 84,
+      "name": "First, check the Invidian\nMerc Missions. Then accept\nthe \"First Mission.\""
+    },
+    {
+      "$id": 2,
+      "label": "tlk400702_msg0002",
+      "style": 84,
+      "name": "If you don't have any spare\nBlades, try bonding with some\nmore and then give it a try."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400702_msg0003",
+      "style": 84,
+      "name": "Looks like you've accepted it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk400702_msg0004",
+      "style": 84,
+      "name": "Now all you can do is wait for the\nBlades you dispatched to return."
+    },
+    {
+      "$id": 5,
+      "label": "tlk400702_msg0005",
+      "style": 84,
+      "name": "It's a simple practice mission,\nso they should be back soon."
+    },
+    {
+      "$id": 6,
+      "label": "tlk400702_msg0006",
+      "style": 84,
+      "name": "Sorry, I didn't explain\nit well enough."
+    },
+    {
+      "$id": 7,
+      "label": "tlk400702_msg0007",
+      "style": 84,
+      "name": "When the Merc Mission is over, the\nBlades will report back to you."
+    },
+    {
+      "$id": 8,
+      "label": "tlk400702_msg0008",
+      "style": 84,
+      "name": "That's when you'll find out\nthe results. And of course,\nyou'll get your reward then."
+    },
+    {
+      "$id": 9,
+      "label": "tlk400702_msg0009",
+      "style": 84,
+      "name": "So, for a Merc Mission to count as\ncomplete, you need to collect\nthe reward."
+    },
+    {
+      "$id": 10,
+      "label": "tlk400702_msg0010",
+      "style": 84,
+      "name": "Now, go ahead and try it."
+    }
+  ]
+}

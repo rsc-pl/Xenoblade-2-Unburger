@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102907_msg001",
+      "style": 62,
+      "name": "My husband often goes to\nthe large public bath in\nthe center of the city."
+    },
+    {
+      "$id": 2,
+      "label": "qst102907_msg002",
+      "style": 62,
+      "name": "He says he was in charge of some\nof the carvings in the bathhouse."
+    },
+    {
+      "$id": 3,
+      "label": "qst102907_msg101",
+      "style": 62,
+      "name": "I'm sure my husband is at the\nlarge public bath in the city\ncenter today as well."
+    }
+  ]
+}

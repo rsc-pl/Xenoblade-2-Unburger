@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201919_msg0001",
+      "style": 84,
+      "name": "Walulu went to the Spirit-Spring\nPlaza Ruins in the middle of Elpis\nSpirit Cavern, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst201919_msg0002",
+      "style": 84,
+      "name": "Walulu doesn't know what's inside,\nbut it was very heavy, so there must\nbe something amazing inside, mo."
+    }
+  ]
+}

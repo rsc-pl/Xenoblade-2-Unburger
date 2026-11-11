@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000015_10_msg0001",
+      "style": 84,
+      "name": "Thank you all for helping\nChairman Morumo so much."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000015_10_msg0002",
+      "style": 84,
+      "name": "I can tell there are circumstances, so\nI won't ask what happened. Instead..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000015_10_msg0003",
+      "style": 84,
+      "name": "From now on, I'll support all of you\nwith everything I have. I promise here\nand now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000015_10_msg0004",
+      "style": 84,
+      "name": "No matter what happened in the\npast, if Chairman Morumo is in\ndebt to someone, then I am, too."
+    }
+  ]
+}

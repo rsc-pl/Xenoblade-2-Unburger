@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000057_04_msg0001",
+      "style": 84,
+      "name": "Aunt Ranea has long, pretty hair,\nand she smells really nice."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000057_04_msg0002",
+      "style": 84,
+      "name": "She has flower oil that makes hair\nshine, and nice-smelling water too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000057_04_msg0003",
+      "style": 84,
+      "name": "But Mom says I shouldn't copy things\nlike that, and won't tell me why."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000057_04_msg0004",
+      "style": 84,
+      "name": "Grown-ups always tell you what\nyou can't do. I don't ever want\nto become like that."
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk054_msg0001",
+      "style": 84,
+      "name": "Say, shopkeeper, is this all\nthe merchandise you have?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk054_msg0002",
+      "style": 84,
+      "name": "Yes... What you see is all we have."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk054_msg0003",
+      "style": 84,
+      "name": "I see... So this shop also lacks\nany exceptional pieces..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk054_msg0004",
+      "style": 84,
+      "name": "Ragou, hunting for weapons again?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk054_msg0005",
+      "style": 84,
+      "name": "I'd prefer not to be\nlumped together with you."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk054_msg0006",
+      "style": 84,
+      "name": "I do not buy up weapons with\nno sense of restraint."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk054_msg0007",
+      "style": 84,
+      "name": "Hey, I have standards too!"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk054_msg0008",
+      "style": 84,
+      "name": "You are too fickle about weapons.\nStart by narrowing down which\nones you actually use."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk054_msg0009",
+      "style": 84,
+      "name": "Oh, shut up..."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk054_msg0010",
+      "style": 84,
+      "name": "That's rich coming from someone\nwielding weapons with four arms!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk054_msg0011",
+      "style": 84,
+      "name": "Hmm."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk054_msg0012",
+      "style": 165,
+      "name": "Let's ask Ragou."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk054_msg0013",
+      "style": 164,
+      "name": "Which weapon is your favorite?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk054_msg0014",
+      "style": 164,
+      "name": "Don't you use projectile weapons?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk054_msg0015",
+      "style": 165,
+      "name": "What should I ask Ragou?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk054_msg0016",
+      "style": 164,
+      "name": "Which weapon's your favorite?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk054_msg0017",
+      "style": 164,
+      "name": "Don't you use any projectiles?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk054_msg0018",
+      "style": 165,
+      "name": "What shall I ask Ragou?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk054_msg0019",
+      "style": 164,
+      "name": "Which weapon most appeals to you?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk054_msg0020",
+      "style": 164,
+      "name": "Do you not use any projectiles?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk054_msg0021",
+      "style": 165,
+      "name": "What should I ask Ragou?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk054_msg0022",
+      "style": 164,
+      "name": "What weapon d'you like best?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk054_msg0023",
+      "style": 164,
+      "name": "Don't you use any projectiles?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk054_msg0101",
+      "style": 84,
+      "name": "My preferred weapon...?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk054_msg0102",
+      "style": 84,
+      "name": "Hmm... I don't really have one."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk054_msg0103",
+      "style": 84,
+      "name": "Anyone who walks the warrior's\npath has no business picking\nfavorites among weapons."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk054_msg0104",
+      "style": 84,
+      "name": "Spear, axe, sword, hammer..."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk054_msg0105",
+      "style": 84,
+      "name": "Only one who can use them all can\ncall himself a true warrior."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk054_msg0106",
+      "style": 84,
+      "name": "Every weapon has its advantages\nand disadvantages..."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk054_msg0107",
+      "style": 84,
+      "name": "The essence of my four-sword style is\nhaving each weapon offset the others'\nstrengths and weaknesses."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk054_msg0108",
+      "style": 84,
+      "name": "So you master four\ndifferent weapons..."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk054_msg0109",
+      "style": 84,
+      "name": "That's Ragou for you, always striving\nto master martial arts. Most people\ncould never pull that off."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk054_msg0110",
+      "style": 84,
+      "name": "Mastering four different\nweapons, huh..."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk054_msg0111",
+      "style": 84,
+      "name": "That's Ragou for you, always striving\nto master the martial arts. Not many\npeople could pull that off."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk054_msg0112",
+      "style": 84,
+      "name": "Mastering four different weapons..."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk054_msg0113",
+      "style": 84,
+      "name": "That's Ragou for you, always striving\nto master the martial arts. Ordinary\npeople couldn't pull that off."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk054_msg0114",
+      "style": 84,
+      "name": "So ye master four different weapons..."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk054_msg0115",
+      "style": 84,
+      "name": "That's Ragou for ya, always striving\nto master the martial arts. Normal\nfolks couldn't pull that off."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk054_msg0116",
+      "style": 84,
+      "name": "It certainly isn't something\nyou can master in a day."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk054_msg0117",
+      "style": 84,
+      "name": "But with enough determination,\nanything is possible."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk054_msg0118",
+      "style": 84,
+      "name": "I shall train you at once."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk054_msg0119",
+      "style": 84,
+      "name": "Huh...?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk054_msg0120",
+      "style": 84,
+      "name": "Must be tough getting dragged into\nthis sort of thing too."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk054_msg0121",
+      "style": 84,
+      "name": "What are you talking about, Benkei?\nYou'll be training with us too."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk054_msg0122",
+      "style": 84,
+      "name": "What? How did I get\ndragged into this!?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk054_msg0123",
+      "style": 84,
+      "name": "Stop talking nonsense!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk054_msg0124",
+      "style": 84,
+      "name": "Training has already begun.\nHurry up and prepare yourself."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk054_msg0125",
+      "style": 84,
+      "name": "Training won't give me more arms,\nyou know. I refuse to participate!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk054_msg0201",
+      "style": 84,
+      "name": "I leave ranged weapons to my Driver."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk054_msg0202",
+      "style": 84,
+      "name": "Uh, I don't think you're\nquite getting the point."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk054_msg0203",
+      "style": 84,
+      "name": "He's asking why you give your\nDriver a ranged weapon when\nyou won't use one yourself."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk054_msg0204",
+      "style": 84,
+      "name": "It's your own weapon, why\ndon't YOU try using it?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk054_msg0205",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk054_msg0206",
+      "style": 84,
+      "name": "...It's not my style."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk054_msg0207",
+      "style": 84,
+      "name": "As a warrior, I prefer to\nface my opponents in\nhonorable, direct combat."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk054_msg0208",
+      "style": 84,
+      "name": "How pretentious..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk054_msg0209",
+      "style": 84,
+      "name": "What's your take on this?"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk054_msg0210",
+      "style": 84,
+      "name": "That's so like Ragou."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk054_msg0211",
+      "style": 84,
+      "name": "You prefer the clash of blades\nin a fair, one-on-one duel."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk054_msg0212",
+      "style": 84,
+      "name": "That's typical of Ragou."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk054_msg0213",
+      "style": 84,
+      "name": "You want the thrill of a fair\nfight, blade against blade."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk054_msg0214",
+      "style": 84,
+      "name": "That's quite characteristic\nof you, Ragou."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk054_msg0215",
+      "style": 84,
+      "name": "You prefer honorable combat,\na direct clash of blades."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk054_msg0216",
+      "style": 84,
+      "name": "That's just like you, Ragou!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk054_msg0217",
+      "style": 84,
+      "name": "So ya want a proper one-on-one\nclash, fair and square,\nblade against blade."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk054_msg0218",
+      "style": 84,
+      "name": "...Impressive, my Driver.\nYou truly understand me."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk054_msg0219",
+      "style": 84,
+      "name": "You're fine with that?"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk054_msg0220",
+      "style": 84,
+      "name": "But with four arms to begin with, how\ncan you talk about a fair fight?"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk054_msg0221",
+      "style": 84,
+      "name": "...Hmm, you have a point."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk054_msg0222",
+      "style": 84,
+      "name": "But having more arms doesn't\nmean one's skill is any better."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk054_msg0223",
+      "style": 84,
+      "name": "Even four arms will lose to a\nsingle blade if used poorly..."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk054_msg0224",
+      "style": 84,
+      "name": "And a master of technique can fell\nmany soldiers even bare-handed."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk054_msg0225",
+      "style": 84,
+      "name": "In short, it all comes down\nto how one trains oneself."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk054_msg0226",
+      "style": 84,
+      "name": "That is why martial arts are\nprofound and interesting."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk054_msg0227",
+      "style": 84,
+      "name": "Mmm-hmm..."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk054_msg0228",
+      "style": 84,
+      "name": "Mmm-hmm..."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk054_msg0229",
+      "style": 84,
+      "name": "That's exactly right..."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk054_msg0230",
+      "style": 84,
+      "name": "That's true..."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk054_msg0231",
+      "style": 84,
+      "name": "Wait! You're really okay with this?"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk054_msg0232",
+      "style": 84,
+      "name": "He's being totally\nunreasonable, you know!?"
+    }
+  ]
+}

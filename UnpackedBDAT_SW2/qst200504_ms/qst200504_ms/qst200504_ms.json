@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200504_msg001",
+      "style": 84,
+      "name": "The three, Benito, Gamillo, and\nRiddalca, all live in Fons Maim."
+    },
+    {
+      "$id": 2,
+      "label": "qst200504_msg002",
+      "style": 84,
+      "name": "I don't think you'll have\nmuch trouble finding them."
+    },
+    {
+      "$id": 3,
+      "label": "qst200504_msg0101",
+      "style": 84,
+      "name": "I hope you'll like the\nshop I'm lending you."
+    },
+    {
+      "$id": 4,
+      "label": "qst200504_msg0201",
+      "style": 84,
+      "name": "The shop is in the Fons Maim\nCommercial District. Please see\nit for yourself and decide."
+    }
+  ]
+}

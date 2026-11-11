@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000051_01_msg0001",
+      "style": 84,
+      "name": "Hey, you lot. Have you\never found a Secret Area?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000051_01_msg0002",
+      "style": 84,
+      "name": "They're not easy to find,\nbut when you do, the sight\nis truly astounding."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000051_01_msg0003",
+      "style": 84,
+      "name": "It may be a grand view, or\nperhaps ancient ruins. It\ndepends on the Divine Beast."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000051_01_msg0004",
+      "style": 84,
+      "name": "Secret Areas are great. I'd love to\nsee one myself someday. And then..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000051_01_msg0005",
+      "style": 84,
+      "name": "I'd savor good drink and a full meal\nwith that story to go with them. Ahh,\nwhat a dream!"
+    }
+  ]
+}

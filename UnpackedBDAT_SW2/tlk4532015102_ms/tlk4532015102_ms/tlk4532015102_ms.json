@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320151_02_msg0001",
+      "style": 84,
+      "name": "Emperor Nefer has returned safely."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320151_02_msg0002",
+      "style": 84,
+      "name": "However... the loss of Wadatsumi-sama\nis worrying."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320151_02_msg0003",
+      "style": 84,
+      "name": "Meleph-sama has also been away for a\nlong time on an important mission."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320151_02_msg0004",
+      "style": 84,
+      "name": "We and the Imperial Guard must make\nsure to protect him."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300023_03_msg0001",
+      "style": 84,
+      "name": "No matter how much Avaritia develops,\nthe Twelve Nopon Siblings never get\nany new products, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300023_03_msg0002",
+      "style": 84,
+      "name": "Motata-san said it'd be after the\neleven siblings returned from their\njourney for materials, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300023_03_msg0003",
+      "style": 84,
+      "name": "Invidia and Superbia... and I\nheard they went to lands I've\nnever even heard of, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300023_03_msg0004",
+      "style": 84,
+      "name": "I was also told that unless someone\ngoes to get them, they'll surely\nnever come back, mo."
+    }
+  ]
+}

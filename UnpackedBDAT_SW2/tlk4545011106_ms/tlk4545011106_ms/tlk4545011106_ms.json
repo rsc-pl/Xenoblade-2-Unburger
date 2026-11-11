@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45450111_06_msg0001",
+      "style": 84,
+      "name": "I started up my dancing again.\nNot full time or anything, but\nin between my other work."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45450111_06_msg0002",
+      "style": 84,
+      "name": "What I really want is to\nbecome better than Harhal."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45450111_06_msg0003",
+      "style": 84,
+      "name": "Otherwise, when I see Harhal again\nsomeday, I won't look very impressive,\nwill I?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45450111_06_msg0004",
+      "style": 84,
+      "name": "It's thanks to you that I can spend my\ntime feeling fulfilled again."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45450111_06_msg0005",
+      "style": 84,
+      "name": "So...thank you."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 163,
+      "name": "New Blade: M.O.M.O. Joins the Fight"
+    },
+    {
+      "$id": 2,
+      "style": 159,
+      "name": "It seems Tora has something useful.\nOnce Hana has joined your party,\nvisit his house in Torigo."
+    },
+    {
+      "$id": 3,
+      "style": 163,
+      "name": "New Mode: Merc Group Action"
+    },
+    {
+      "$id": 4,
+      "style": 159,
+      "name": "You can now control Blades directly\nand fight in action battles.\nAfter completing a certain Merc Group\nmission, visit Merc Group HQ."
+    },
+    {
+      "$id": 5,
+      "style": 163,
+      "name": "New Styles for Homura & Hikari"
+    },
+    {
+      "$id": 6,
+      "style": 159,
+      "name": "Homura and Hikari now have new styles.\nYou can switch them in Options.\nScan a Homura or Hikari amiibo, or earn\nthem as a first Merc Group Action reward."
+    },
+    {
+      "$id": 7,
+      "style": 163,
+      "name": "Events Enhanced"
+    },
+    {
+      "$id": 8,
+      "style": 159,
+      "name": "Compared to the original version,\nevents now have higher resolution\nand frame rates. Some also include\nscene-matched vibration effects."
+    },
+    {
+      "$id": 9,
+      "style": 163,
+      "name": "Benefits from amiibo Scans"
+    },
+    {
+      "$id": 10,
+      "style": 159,
+      "name": "Receive daily bonuses such as EXP\nand items (up to three amiibo a day).\nScanning a Homura or Hikari amiibo\nalso unlocks their new styles."
+    }
+  ]
+}

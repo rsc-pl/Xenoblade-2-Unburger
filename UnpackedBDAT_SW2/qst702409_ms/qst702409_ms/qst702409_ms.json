@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702409_msg0001",
+      "style": 84,
+      "name": "Lieutenant, we've spoken\nto most of the promising\npeople in the capital."
+    },
+    {
+      "$id": 2,
+      "label": "qst702409_msg0002",
+      "style": 84,
+      "name": "Ah, thank you! Adel-sama,\nand everyone."
+    },
+    {
+      "$id": 3,
+      "label": "qst702409_msg0003",
+      "style": 84,
+      "name": "But, to be honest, we don't know\nwho or how many will come."
+    },
+    {
+      "$id": 4,
+      "label": "qst702409_msg0004",
+      "style": 84,
+      "name": "I think someone will come soon,\nso can we wait here for a bit?"
+    },
+    {
+      "$id": 5,
+      "label": "qst702409_msg0005",
+      "style": 84,
+      "name": "I want to see if the people we chose\nmeet your approval, Lieutenant."
+    },
+    {
+      "$id": 6,
+      "label": "qst702409_msg0006",
+      "style": 84,
+      "name": "Yes, of course."
+    },
+    {
+      "$id": 7,
+      "label": "qst702409_msg0007",
+      "style": 84,
+      "name": "Hey! I couldn't forget how\ncool you all were in the\ncapital, so I came over."
+    },
+    {
+      "$id": 8,
+      "label": "qst702409_msg0008",
+      "style": 84,
+      "name": "Thank you for choosing the\nresistance! I knew you would come!"
+    },
+    {
+      "$id": 9,
+      "label": "qst702409_msg0009",
+      "style": 84,
+      "name": "So this is the resistance's base, huh?"
+    },
+    {
+      "$id": 10,
+      "label": "qst702409_msg0010",
+      "style": 84,
+      "name": "It's a fine fortress, every bit as\ngood as the Iiran army's."
+    },
+    {
+      "$id": 11,
+      "label": "qst702409_msg0011",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]You! What's with that sloppy\nway of talking?!"
+    },
+    {
+      "$id": 12,
+      "label": "qst702409_msg0012",
+      "style": 84,
+      "name": "Wh-who are you?!"
+    },
+    {
+      "$id": 13,
+      "label": "qst702409_msg0013",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]You don't say \"Who are you?\" to a\nsuperior! It's \"Who might you be?\"!"
+    },
+    {
+      "$id": 14,
+      "label": "qst702409_msg014",
+      "style": 84,
+      "name": "A-Adel... Was Veronica-san\nalways like that?"
+    },
+    {
+      "$id": 15,
+      "label": "qst702409_msg015",
+      "style": 84,
+      "name": "Yes. She used to be a drill instructor\nin the Invidian army. That's how she\nalways is around her subordinates."
+    },
+    {
+      "$id": 16,
+      "label": "qst702409_msg016",
+      "style": 84,
+      "name": "An instructor, huh..."
+    },
+    {
+      "$id": 17,
+      "label": "qst702409_msg017",
+      "style": 84,
+      "name": "And who are you!"
+    },
+    {
+      "$id": 18,
+      "label": "qst702409_msg018",
+      "style": 84,
+      "name": "Y-yes! My name is Luc, and I've come\nto volunteer for the resistance!"
+    },
+    {
+      "$id": 19,
+      "label": "qst702409_msg019",
+      "style": 84,
+      "name": "The response to a superior is \"Sir\"!"
+    },
+    {
+      "$id": 20,
+      "label": "qst702409_msg020",
+      "style": 84,
+      "name": "S-sir!"
+    },
+    {
+      "$id": 21,
+      "label": "qst702409_msg021",
+      "style": 84,
+      "name": "But I'll give you credit for joining\nthe resistance at a time like this!\nYou're in! Now get moving!"
+    },
+    {
+      "$id": 22,
+      "label": "qst702409_msg022",
+      "style": 84,
+      "name": "Sir! Yes, sir!"
+    },
+    {
+      "$id": 23,
+      "label": "qst702409_msg023",
+      "style": 84,
+      "name": "Is Luc going to be okay?"
+    },
+    {
+      "$id": 24,
+      "label": "qst702409_msg024",
+      "style": 84,
+      "name": "W-well, she seems to like him,\nso he'll probably be fine."
+    },
+    {
+      "$id": 25,
+      "label": "qst702409_msg026",
+      "style": 84,
+      "name": "This is Isabella-san, an active\nadventurer who travels the world."
+    },
+    {
+      "$id": 26,
+      "label": "qst702409_msg027",
+      "style": 84,
+      "name": "Are you the boss here? I look\nforward to working with you."
+    },
+    {
+      "$id": 27,
+      "label": "qst702409_msg028",
+      "style": 84,
+      "name": "I see. Just what I'd expect from\nsomeone you all found, Adel-sama.\nYou've got spirit... and courage too."
+    },
+    {
+      "$id": 28,
+      "label": "qst702409_msg029",
+      "style": 84,
+      "name": "From now on, I'm counting on you\nas a member of the resistance."
+    },
+    {
+      "$id": 29,
+      "label": "qst702409_msg030",
+      "style": 84,
+      "name": "That's only two so far..."
+    },
+    {
+      "$id": 30,
+      "label": "qst702409_msg031",
+      "style": 84,
+      "name": "Are we really going to get\nsix people like this?"
+    },
+    {
+      "$id": 31,
+      "label": "qst702409_msg032",
+      "style": 84,
+      "name": "Heh heh heh... The main act\nhas finally arrived, mo."
+    },
+    {
+      "$id": 32,
+      "label": "qst702409_msg033",
+      "style": 84,
+      "name": "Oh! Those Nopon brothers came!"
+    },
+    {
+      "$id": 33,
+      "label": "qst702409_msg034",
+      "style": 84,
+      "name": "Hmm, Nopon... Bringing all four of you\nat once shows the right attitude."
+    },
+    {
+      "$id": 34,
+      "label": "qst702409_msg035",
+      "style": 84,
+      "name": "What are your names?"
+    },
+    {
+      "$id": 35,
+      "label": "qst702409_msg036",
+      "style": 84,
+      "name": "Hmph, I'm glad you asked, mo.\nThen clean out those ears of yours..."
+    },
+    {
+      "$id": 36,
+      "label": "qst702409_msg037",
+      "style": 84,
+      "name": "More importantly, what\nare you all wearing?!"
+    },
+    {
+      "$id": 37,
+      "label": "qst702409_msg038",
+      "style": 84,
+      "name": "Eek! You're the one who told us\nto introduce ourselves, mo!"
+    },
+    {
+      "$id": 38,
+      "label": "qst702409_msg039",
+      "style": 84,
+      "name": "You all need to be whipped into shape,\nstarting with how you dress! Go change\ninto your uniforms!"
+    },
+    {
+      "$id": 39,
+      "label": "qst702409_msg040",
+      "style": 84,
+      "name": "Y-yes, mo~!"
+    },
+    {
+      "$id": 40,
+      "label": "qst702409_msg042",
+      "style": 84,
+      "name": "D-does this suit me, mo?"
+    },
+    {
+      "$id": 41,
+      "label": "qst702409_msg043",
+      "style": 84,
+      "name": "Hmph, I suppose it will do."
+    },
+    {
+      "$id": 42,
+      "label": "qst702409_msg044",
+      "style": 84,
+      "name": "But now that you've joined\nthe resistance, things won't\nbe the same as before..."
+    },
+    {
+      "$id": 43,
+      "label": "qst702409_msg045",
+      "style": 84,
+      "name": "I'll train you hard, so be prepared!"
+    },
+    {
+      "$id": 44,
+      "label": "qst702409_msg046",
+      "style": 84,
+      "name": "Eek! I told you we shouldn't\nhave done this, mo!"
+    },
+    {
+      "$id": 45,
+      "label": "qst702409_msg047",
+      "style": 84,
+      "name": "B-be quiet, mo!"
+    },
+    {
+      "$id": 46,
+      "label": "qst702409_msg048",
+      "style": 84,
+      "name": "Your first order is to clean\nthe base! If you slack off,\nyou won't get any food today!"
+    },
+    {
+      "$id": 47,
+      "label": "qst702409_msg049",
+      "style": 84,
+      "name": "R-roger, mo! Everyone! We\nhave to avoid going without\nfood at all costs, mo!"
+    },
+    {
+      "$id": 48,
+      "label": "qst702409_msg050",
+      "style": 84,
+      "name": "Are those four going\nto be okay like that?"
+    },
+    {
+      "$id": 49,
+      "label": "qst702409_msg051",
+      "style": 84,
+      "name": "Don't worry. They may not look it,\nbut they definitely take action."
+    },
+    {
+      "$id": 50,
+      "label": "qst702409_msg052",
+      "style": 84,
+      "name": "They might surprise us."
+    },
+    {
+      "$id": 51,
+      "label": "qst702409_msg053",
+      "style": 84,
+      "name": "The six people you gathered\nall have plenty of grit."
+    },
+    {
+      "$id": 52,
+      "label": "qst702409_msg054",
+      "style": 84,
+      "name": "With them, the morale of the\nresistance should slowly improve."
+    },
+    {
+      "$id": 53,
+      "label": "qst702409_msg055",
+      "style": 84,
+      "name": "We won't be able to return to the\nresistance for a while... Please take\ncare of things while we're gone!"
+    },
+    {
+      "$id": 54,
+      "label": "qst702409_msg056",
+      "style": 84,
+      "name": "Yes! Adel-sama and everyone,\nplease be careful!"
+    }
+  ]
+}

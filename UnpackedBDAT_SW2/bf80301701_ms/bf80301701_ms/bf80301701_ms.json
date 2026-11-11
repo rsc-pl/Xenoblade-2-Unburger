@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "47890101",
+      "style": 82,
+      "name": "Yaaawn..."
+    },
+    {
+      "$id": 2,
+      "label": "47890102",
+      "style": 82,
+      "name": "Hm?"
+    },
+    {
+      "$id": 3,
+      "label": "47890103",
+      "style": 82,
+      "name": "Hm? Hmmmmmmmm?"
+    },
+    {
+      "$id": 4,
+      "label": "47890104",
+      "style": 82,
+      "name": "...!"
+    },
+    {
+      "$id": 5,
+      "label": "47890105",
+      "style": 82,
+      "name": "I'm Uka!"
+    },
+    {
+      "$id": 6,
+      "label": "47890106",
+      "style": 82,
+      "name": "This is Suke-tan, and this is Kaku-tan!"
+    },
+    {
+      "$id": 7,
+      "label": "47890107",
+      "style": 82,
+      "name": "We'll do our best to help you from now on!"
+    }
+  ]
+}

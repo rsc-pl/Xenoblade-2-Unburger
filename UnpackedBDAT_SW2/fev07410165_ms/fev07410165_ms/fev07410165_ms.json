@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev07_410_165_msg0001",
+      "style": 84,
+      "name": "Meleph-sama! We have\nbeen waiting for you."
+    },
+    {
+      "$id": 2,
+      "label": "fev07_410_165_msg0002",
+      "style": 84,
+      "name": "You've been briefed, yes? I want you\nto head to the Cliffs of Mors."
+    },
+    {
+      "$id": 3,
+      "label": "fev07_410_165_msg0003",
+      "style": 84,
+      "name": "Yes! All preparations\nare complete."
+    },
+    {
+      "$id": 4,
+      "label": "fev07_410_165_msg0004",
+      "style": 84,
+      "name": "This will be a challenging\nvoyage... Are you certain\nyou can handle it?"
+    },
+    {
+      "$id": 5,
+      "label": "fev07_410_165_msg0005",
+      "style": 84,
+      "name": "No problem!"
+    },
+    {
+      "$id": 6,
+      "label": "fev07_410_165_msg0006",
+      "style": 84,
+      "name": "By Emperor Nefer's direct order,\nwe've assembled only the finest\nsailors for this mission!"
+    },
+    {
+      "$id": 7,
+      "label": "fev07_410_165_msg0007",
+      "style": 84,
+      "name": "That is most appreciated..."
+    },
+    {
+      "$id": 8,
+      "label": "fev07_410_165_msg0008",
+      "style": 84,
+      "name": "Well then, shall we depart?"
+    },
+    {
+      "$id": 9,
+      "label": "fev07_410_165_msg0009",
+      "style": 84,
+      "name": "Yes!"
+    }
+  ]
+}

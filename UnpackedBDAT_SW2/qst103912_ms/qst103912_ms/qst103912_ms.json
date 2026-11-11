@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103912_msg0001",
+      "style": 84,
+      "name": "You want to borrow a ship to start\na regular shipping route, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst103912_msg0002",
+      "style": 84,
+      "name": "A money transfer from\nAvaritia to Iyasaki Village?"
+    },
+    {
+      "$id": 3,
+      "label": "qst103912_msg0003",
+      "style": 84,
+      "name": "What a touching story, mo!\nI'll lend you a ship, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst103912_msg0004",
+      "style": 84,
+      "name": "...I never said it'd be free, mo.\nYou'll have to pay 2,000G\nup front, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst103912_msg0021",
+      "style": 84,
+      "name": "2,000G received, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst103912_msg0022",
+      "style": 84,
+      "name": "I'll have the ship delivered to the\nAvaritia Trading Company, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst103912_msg0023",
+      "style": 84,
+      "name": "However, if you break\nit, you pay for it, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst103912_msg0024",
+      "style": 84,
+      "name": "It looks like a long route, so make\nsure you protect the ship, mo."
+    },
+    {
+      "$id": 9,
+      "label": "qst103912_msg0041",
+      "style": 84,
+      "name": "If you don't pay, I can't\nlend you a ship, mo."
+    },
+    {
+      "$id": 10,
+      "label": "qst103912_msg0071",
+      "style": 84,
+      "name": "To borrow the ship, you'll need\nto pay an initial fee of\n2,000G, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst103912_msg0072",
+      "style": 165,
+      "name": "Pay 2,000G?"
+    },
+    {
+      "$id": 12,
+      "label": "qst103912_msg0073",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 13,
+      "label": "qst103912_msg0074",
+      "style": 165,
+      "name": "Don't pay"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000050_02_msg0001",
+      "style": 84,
+      "name": "Ah, Adel-sama! This is sudden, but\nplease hear about something\nunfortunate that happened recently..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000050_02_msg0002",
+      "style": 84,
+      "name": "There's an obviously suspicious cave\nfarther inland here in Aletta."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000050_02_msg0003",
+      "style": 84,
+      "name": "There's a hollow in the entrance for\nsomething to fit into, so we can't get\ninside, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000050_02_msg0004",
+      "style": 84,
+      "name": "Doesn't it bother you,\nknowing that it's there and\nnot being able to get in?!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000050_02_msg0005",
+      "style": 84,
+      "name": "But I don't know of any key that would\nfit that hollow."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000050_02_msg0006",
+      "style": 84,
+      "name": "Yet surely, it'll be brim-full with\ntreasure. And anyone able to open it\nwould claim it for themselves..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000050_02_msg0007",
+      "style": 84,
+      "name": "What a shame... If I sold that\ntreasure, I could have bought a huge\namount of food..."
+    }
+  ]
+}

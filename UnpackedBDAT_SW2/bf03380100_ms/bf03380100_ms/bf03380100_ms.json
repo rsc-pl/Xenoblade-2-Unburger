@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf03380100_0010",
+      "style": 82,
+      "name": "Hm? What's wrong?"
+    },
+    {
+      "$id": 2,
+      "label": "bf03380100_0020",
+      "style": 82,
+      "name": "Come out. You heard what\nwe just said, didn't you?"
+    },
+    {
+      "$id": 3,
+      "label": "bf03380100_0030",
+      "style": 82,
+      "name": "Could you... save Grandpa?"
+    },
+    {
+      "$id": 4,
+      "label": "bf03380100_0040",
+      "style": 82,
+      "name": "Of course."
+    },
+    {
+      "$id": 5,
+      "label": "bf03380100_0050",
+      "style": 82,
+      "name": "He can be saved. Yes, all you need to\ndo is lend us just a little power."
+    }
+  ]
+}

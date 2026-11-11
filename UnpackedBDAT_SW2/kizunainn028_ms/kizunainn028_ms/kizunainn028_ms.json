@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn028_msg0001",
+      "style": 84,
+      "name": "Tora wants to check something, mo."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn028_msg0002",
+      "style": 84,
+      "name": "If you have time, I want you to go\nback to the Central Control Room\nin the Abandoned Factory, mo."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn028_msg0003",
+      "style": 84,
+      "name": "Please do, mo!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000039_05_msg0001",
+      "style": 84,
+      "name": "I thought I would never see him\nagain, so to meet once more like\nthis...it's almost like a miracle."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000039_05_msg0002",
+      "style": 84,
+      "name": "Life is strange. At the very end, such\na wonderful miracle happened."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000039_05_msg0003",
+      "style": 84,
+      "name": "The days when I clung to the teachings\nof Acedia to escape the pain of losing\nTeo feel like a distant memory now"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000039_05_msg0004",
+      "style": 84,
+      "name": "Perhaps this is the salvation\nthe teachings spoke of...?"
+    }
+  ]
+}

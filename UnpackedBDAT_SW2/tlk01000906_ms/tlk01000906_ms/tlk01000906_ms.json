@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000906_msg0001",
+      "style": 84,
+      "name": "History is so hard...\nIt makes me sleepy..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000906_msg0002",
+      "style": 84,
+      "name": "Hassane-sensei wants to go to Elpis\nSpirit Cavern. If we go for a class\ntrip, maybe I won't get sleepy."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000906_msg0003",
+      "style": 84,
+      "name": "Oh, no no! I'll get in\ntrouble if I keep talking!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000906_msg0101",
+      "style": 84,
+      "name": "We get to salvage in class!\nThe other day, I pulled up\na Fairy-Tale Belt Pulley!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000906_msg0102",
+      "style": 84,
+      "name": "When you salvage something yourself,\neverything looks like treasure, but\nit's not actually that rare, is it?"
+    }
+  ]
+}

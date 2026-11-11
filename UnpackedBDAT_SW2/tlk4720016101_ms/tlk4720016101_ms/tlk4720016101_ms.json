@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47200161_01_msg0001",
+      "style": 84,
+      "name": "Whew! I'm taking a break\nfrom fetching water."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47200161_01_msg0002",
+      "style": 84,
+      "name": "My house is higher up, so I have to\ncarry water home. Whew, it's tough."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47200161_01_msg0003",
+      "style": 84,
+      "name": "Aunt Correl gets water right in her\nkitchen, doesn't she? Lucky...\nThat sounds so easy."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202203_0010",
+      "style": 82,
+      "name": "Now she's over there..."
+    },
+    {
+      "$id": 2,
+      "label": "qst202203_0020",
+      "style": 82,
+      "name": "Raiko's surprisingly fast, isn't she?"
+    },
+    {
+      "$id": 3,
+      "label": "qst202203_0030",
+      "style": 82,
+      "name": "Don't stand there impressed.\nWe need to hurry after her."
+    },
+    {
+      "$id": 4,
+      "label": "qst202203_0040",
+      "style": 82,
+      "name": "I know. She's probably bawling\nher eyes out."
+    },
+    {
+      "$id": 5,
+      "label": "qst202203_0050",
+      "style": 82,
+      "name": "I'm worried about her..."
+    },
+    {
+      "$id": 6,
+      "label": "qst202203_0060",
+      "style": 82,
+      "name": "Yeah. Let's hurry."
+    }
+  ]
+}

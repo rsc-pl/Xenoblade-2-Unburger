@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360112_01_msg0001",
+      "style": 84,
+      "name": "Right, check! Left, check!\nFront, check! All okay, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360112_01_msg0002",
+      "style": 84,
+      "name": "I'm checking every nook\nand cranny of Goldmund for\nany abnormalities, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360112_01_msg0003",
+      "style": 84,
+      "name": "I won't overlook even the slightest\nchange, and if there's anything,\nI'll repair it immediately!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42360112_01_msg0004",
+      "style": 84,
+      "name": "Lomlom and the repair crew are\nresponsible for everyone on Goldmund.\nThere's no room for sloppy work, mo!"
+    }
+  ]
+}

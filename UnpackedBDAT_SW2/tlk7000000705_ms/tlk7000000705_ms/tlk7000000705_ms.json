@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000007_05_msg0001",
+      "style": 84,
+      "name": "Laura-sama, everyone... Thank you so\nmuch for the medicine."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000007_05_msg0002",
+      "style": 84,
+      "name": "I can walk and run around now,\nand I don't even get any chest\npains. It's the best feeling!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000007_05_msg0003",
+      "style": 84,
+      "name": "I promised Joey and Marco that I'd\ngo exploring with them in the city\njust as soon as it's safe."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000007_05_msg0004",
+      "style": 84,
+      "name": "I haven't really been much further\nthan my house, because I was sick.\nSo I can't wait to see more of Iira!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000007_05_msg0005",
+      "style": 84,
+      "name": "You all gave me hope. I bet\nyou're just the people to give\nsome hope to the whole of Iira."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000007_05_msg0006",
+      "style": 84,
+      "name": "Promise you'll win\nthrough! Pretty please?"
+    }
+  ]
+}

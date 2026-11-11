@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006501_02_msg0001",
+      "style": 84,
+      "name": "It's not like I've\nforgiven those brats."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006501_02_msg0002",
+      "style": 84,
+      "name": "They might look like they're working\nhard, but they're the ones who stole,\nyou know?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk006501_02_msg0003",
+      "style": 84,
+      "name": "Even if your home is gone and you're\njust trying to survive, stealing\nis still wrong."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006501_02_msg0004",
+      "style": 84,
+      "name": "I don't know what they'll pull next.\nI can't let my guard down yet."
+    }
+  ]
+}

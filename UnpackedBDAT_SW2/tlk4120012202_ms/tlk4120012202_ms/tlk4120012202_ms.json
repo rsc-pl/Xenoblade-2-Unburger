@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200122_02_msg0001",
+      "style": 84,
+      "name": "There, there, Armu-chan...\nIt's all okay now."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200122_02_msg0002",
+      "style": 84,
+      "name": "...What do you mean, \"what's wrong\"?!\nThe water tower fell, and all the\nArmu-chan got scared and terrified!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200122_02_msg0003",
+      "style": 84,
+      "name": "The ranch is all muddy\nand messy now, too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200122_02_msg0004",
+      "style": 84,
+      "name": "This is all Iira's fault! If\nyou're going to come rescue\nyour friends, do it peacefully!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200122_02_msg0005",
+      "style": 84,
+      "name": "There, there, there, there!\nIt's all okay now, Armu-chan..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400071_02_msg0001",
+      "style": 84,
+      "name": "The higher-ups are having a\nmeeting to end the war, they say."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400071_02_msg0002",
+      "style": 84,
+      "name": "But I don't think it will really\nend unless the Blades disappear."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400071_02_msg0003",
+      "style": 84,
+      "name": "As long as there are Blades, it's\nthe same as having weapons!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400071_02_msg0004",
+      "style": 84,
+      "name": "Down with Blades! If you\nwant true peace, you should\nget rid of Blades, too!"
+    }
+  ]
+}

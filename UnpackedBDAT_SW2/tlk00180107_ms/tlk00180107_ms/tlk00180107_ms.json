@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001801_07_msg0001",
+      "style": 84,
+      "name": "Leave this city to me and Kiku, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001801_07_msg0002",
+      "style": 84,
+      "name": "Kiku got a secret upgrade, mo!\nIt's about 100,000 horsepower, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001801_07_msg0003",
+      "style": 84,
+      "name": "So no matter what disaster\ncomes, we can fend it off, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001801_07_msg0004",
+      "style": 84,
+      "name": "Tora and the others, go do what\nyou need to do without worrying, mo."
+    }
+  ]
+}

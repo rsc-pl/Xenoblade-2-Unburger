@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000001_01_msg0001",
+      "style": 84,
+      "name": "There are all kinds of shops in the\nshopping district, mo. The Chamber of\nCommerce supports them, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000001_01_msg0002",
+      "style": 84,
+      "name": "There are plenty of problems one\nperson can't solve, mo. That's why\neveryone puts heads together, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000001_01_msg0003",
+      "style": 84,
+      "name": "One for all, all for one. Working\ntogether is what the Chamber of\nCommerce is about, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000001_01_msg0004",
+      "style": 84,
+      "name": "Morumo is its chairman, mo. I also\nrepresent the shopping district, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000001_01_msg0005",
+      "style": 84,
+      "name": "If you ever want your own shop, come\nsee Morumo, mo! I'll always be happy\nto advise you, mooo!"
+    }
+  ]
+}

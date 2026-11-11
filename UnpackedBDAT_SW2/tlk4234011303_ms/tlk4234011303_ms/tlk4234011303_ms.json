@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4234011303_msg0001",
+      "style": 84,
+      "name": "Salvaging here is fun, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4234011303_msg0002",
+      "style": 84,
+      "name": "You can salvage different things\nthan in Avaritia, so there are\nlots of new discoveries, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4234011303_msg0003",
+      "style": 84,
+      "name": "Thank you for inviting\nme to be a teacher, mo!"
+    }
+  ]
+}

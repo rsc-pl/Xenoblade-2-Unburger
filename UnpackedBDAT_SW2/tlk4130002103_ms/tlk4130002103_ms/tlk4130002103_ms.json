@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300021_03_msg0001",
+      "style": 84,
+      "name": "Superbia tried to start\nanother war, didn't they?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300021_03_msg0002",
+      "style": 84,
+      "name": "Apparently Iira was behind it, so\nI'm glad it ended in a truce."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300021_03_msg0003",
+      "style": 84,
+      "name": "If it had become a real war,\nInvidia would have likely\nattacked Gula as well."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300021_03_msg0004",
+      "style": 84,
+      "name": "It's conceivable that this\ncity, with its large base,\nwould have become a battlefield."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300021_03_msg0005",
+      "style": 84,
+      "name": "...If that happened, this place\nwould be destroyed like my\nancestors' city, the White Chair."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41300021_03_msg0006",
+      "style": 84,
+      "name": "For Gulans, a truce is\nvery welcome indeed."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104711_msg101",
+      "style": 62,
+      "name": "Thank you for your help the other day."
+    },
+    {
+      "$id": 2,
+      "label": "qst104711_msg201",
+      "style": 62,
+      "name": "Having you here is very reassuring."
+    },
+    {
+      "$id": 3,
+      "label": "qst104711_msg301",
+      "style": 62,
+      "name": "We will guard the inside\nof the consulate."
+    },
+    {
+      "$id": 4,
+      "label": "qst104711_msg401",
+      "style": 62,
+      "name": "As expected, you are strong."
+    }
+  ]
+}

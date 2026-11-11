@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst00100104_msg0001",
+      "style": 84,
+      "name": "Right clear... Left\nclear... Front clear, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst00100104_msg0002",
+      "style": 84,
+      "name": "Kebikebi was angry, but when\nI gave him half of my Nopopon\nRoll, he forgave me, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst00100104_msg0003",
+      "style": 84,
+      "name": "I'm glad I didn't eat\nthe whole thing, mo..."
+    }
+  ]
+}

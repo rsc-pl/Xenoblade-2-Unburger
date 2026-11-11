@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4542014202_msg0001",
+      "style": 84,
+      "name": "You put Nish and Jillwood's wishes\nfirst, didn't you? I'm sure your\ndecision wasn't wrong."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4542014202_msg0002",
+      "style": 84,
+      "name": "Nish is strong. I'm sure he'll manage\nin another mercenary band. Don't\nworry."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4542014202_msg0003",
+      "style": 84,
+      "name": "Everyone in the Hræsvelgr Mercenaries\nwill help Jillwood's hatred fade away,\nlittle by little. All right?"
+    }
+  ]
+}

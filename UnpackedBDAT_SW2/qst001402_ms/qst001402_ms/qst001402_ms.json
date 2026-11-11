@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001402_msg0001",
+      "style": 84,
+      "name": "Oh, oh! You're back, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst001402_msg0002",
+      "style": 84,
+      "name": "A capable Driver really is\nsomething else, mo! That was\nreasonably speedy, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst001402_msg0003",
+      "style": 84,
+      "name": "Time is money, mo! Speed\nis money too, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst001402_msg0004",
+      "style": 84,
+      "name": "Your life's worth is decided\nby how much you earn, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst001402_msg0005",
+      "style": 84,
+      "name": "Well then, with that pearl of\nwisdom, Pididi will speedily haul\nthe cargo to Alba Margen, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst001402_msg0006",
+      "style": 84,
+      "name": "No more idle chatter,\nmo! Thank you, mo!"
+    }
+  ]
+}

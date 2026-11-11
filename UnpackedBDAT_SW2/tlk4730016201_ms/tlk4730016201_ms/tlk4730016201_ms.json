@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300162_01_msg0001",
+      "style": 84,
+      "name": "Our village's biggest success story,\nRex, is back!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300162_01_msg0002",
+      "style": 84,
+      "name": "What do you think? Good wood, right?\nLiberalitas has few trees, so we raise\neach one carefully and use it all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300162_01_msg0003",
+      "style": 84,
+      "name": "The village buildings are the same.\nWe repair and maintain them, then pass\nthem down to our children."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_01_msg0004",
+      "style": 84,
+      "name": "That building at town's edge\nis getting old, so they're\ndeciding what to use it for."
+    }
+  ]
+}

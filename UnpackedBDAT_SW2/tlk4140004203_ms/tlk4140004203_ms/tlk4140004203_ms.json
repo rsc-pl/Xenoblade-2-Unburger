@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004203_msg0001",
+      "style": 84,
+      "name": "Bamibami's doing a great job."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004203_msg0002",
+      "style": 84,
+      "name": "All talk aside, those fighting skills\nare impressive, even among Nopon."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004203_msg0003",
+      "style": 84,
+      "name": "Just as you'd expect from\nsomeone hired as a spy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4140004203_msg0004",
+      "style": 84,
+      "name": "As long as the Damp Shimeji in the\ncaves doesn't run out, trust shouldn't\nbe a problem."
+    }
+  ]
+}

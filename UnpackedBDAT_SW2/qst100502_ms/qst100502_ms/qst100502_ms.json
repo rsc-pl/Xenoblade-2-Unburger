@@ -1,0 +1,474 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100502_msg0001",
+      "style": 84,
+      "name": "...Mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst100502_msg0002",
+      "style": 84,
+      "name": "You see, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "qst100502_msg0003",
+      "style": 84,
+      "name": "...A test, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst100502_msg0004",
+      "style": 84,
+      "name": "Those without knowledge\ncan go home, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst100502_msg0005",
+      "style": 84,
+      "name": "...Read, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst100502_msg0101",
+      "style": 84,
+      "name": "...Come back later, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst100502_msg0110",
+      "style": 84,
+      "name": "You came again, mo?"
+    },
+    {
+      "$id": 8,
+      "label": "qst100502_msg0111",
+      "style": 84,
+      "name": "...A test, mo."
+    },
+    {
+      "$id": 9,
+      "label": "qst100502_msg0201",
+      "style": 84,
+      "name": "You pass, mo."
+    },
+    {
+      "$id": 10,
+      "label": "qst100502_msg0202",
+      "style": 84,
+      "name": "Don't get excited over this, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst100502_msg0203",
+      "style": 84,
+      "name": "Now then, assistant."
+    },
+    {
+      "$id": 12,
+      "label": "qst100502_msg0204",
+      "style": 84,
+      "name": "...I just appointed you, mo."
+    },
+    {
+      "$id": 13,
+      "label": "qst100502_msg0205",
+      "style": 84,
+      "name": "Your mission, mo."
+    },
+    {
+      "$id": 14,
+      "label": "qst100502_msg0206",
+      "style": 84,
+      "name": "Open the door on the top floor\nand investigate inside, mo."
+    },
+    {
+      "$id": 15,
+      "label": "qst100502_msg0207",
+      "style": 84,
+      "name": "No one in Avaritia could open it..."
+    },
+    {
+      "$id": 16,
+      "label": "qst100502_msg0208",
+      "style": 84,
+      "name": "We don't know, so open it, mo."
+    },
+    {
+      "$id": 17,
+      "label": "qst100502_msg0209",
+      "style": 84,
+      "name": "Our origin..."
+    },
+    {
+      "$id": 18,
+      "label": "qst100502_msg0210",
+      "style": 84,
+      "name": "Hehe..."
+    },
+    {
+      "$id": 19,
+      "label": "qst100502_msg0211",
+      "style": 84,
+      "name": "However, there is no key, mo."
+    },
+    {
+      "$id": 20,
+      "label": "qst100502_msg0212",
+      "style": 84,
+      "name": "Location unknown, mo. Find it, mo."
+    },
+    {
+      "$id": 21,
+      "label": "qst100502_msg0213",
+      "style": 84,
+      "name": "I'm counting on you, mo."
+    },
+    {
+      "$id": 22,
+      "label": "qst100502_msg0301",
+      "style": 84,
+      "name": "Open the door on the top floor\nand investigate inside, mo."
+    },
+    {
+      "$id": 23,
+      "label": "qst100502_msg0302",
+      "style": 84,
+      "name": "The key's location is\nunknown, mo. Find it, mo."
+    },
+    {
+      "$id": 24,
+      "label": "qst100502_msg0401",
+      "style": 84,
+      "name": "Assistant, report, mo."
+    },
+    {
+      "$id": 25,
+      "label": "qst100502_msg0402",
+      "style": 84,
+      "name": "Your mission is to investigate\nwhat's behind the door, mo."
+    },
+    {
+      "$id": 26,
+      "label": "qst100502_msg0403",
+      "style": 84,
+      "name": "Proceed, mo."
+    },
+    {
+      "$id": 27,
+      "label": "qst100502_msg0501",
+      "style": 84,
+      "name": "Assistant, report, mo."
+    },
+    {
+      "$id": 28,
+      "label": "qst100502_msg0502",
+      "style": 84,
+      "name": "A Nopon statue with an\neyepatch... and a strange hat..."
+    },
+    {
+      "$id": 29,
+      "label": "qst100502_msg0503",
+      "style": 84,
+      "name": "Captain Nopopon...!"
+    },
+    {
+      "$id": 30,
+      "label": "qst100502_msg0504",
+      "style": 84,
+      "name": "The statue of the legendary pirate\nNopon, Captain Nopopon, mo!!"
+    },
+    {
+      "$id": 31,
+      "label": "qst100502_msg0521",
+      "style": 84,
+      "name": "To think there was a trace of the\nCaptain here! Hooray, hooray, mo!!"
+    },
+    {
+      "$id": 32,
+      "label": "qst100502_msg0522",
+      "style": 84,
+      "name": "...Ahem. I got carried away, mo."
+    },
+    {
+      "$id": 33,
+      "label": "qst100502_msg0523",
+      "style": 84,
+      "name": "And the indentations on the\nstomach... A circle, and a square..."
+    },
+    {
+      "$id": 34,
+      "label": "qst100502_msg0524",
+      "style": 84,
+      "name": "We probably need two types of parts\nto fit into the indentations, mo."
+    },
+    {
+      "$id": 35,
+      "label": "qst100502_msg0525",
+      "style": 84,
+      "name": "Find them and fit them in, mo."
+    },
+    {
+      "$id": 36,
+      "label": "qst100502_msg0601",
+      "style": 84,
+      "name": "Find the round and square\nparts and fit them into\nthe indentations, mo."
+    },
+    {
+      "$id": 37,
+      "label": "qst100502_msg0602",
+      "style": 84,
+      "name": "The two parts' locations are\nunknown, mo. Find them, mo."
+    },
+    {
+      "$id": 38,
+      "label": "qst100502_msg0701",
+      "style": 84,
+      "name": "Assistant, report, mo."
+    },
+    {
+      "$id": 39,
+      "label": "qst100502_msg0702",
+      "style": 84,
+      "name": "Your mission is to fit the two\nparts into the statue, mo."
+    },
+    {
+      "$id": 40,
+      "label": "qst100502_msg0703",
+      "style": 84,
+      "name": "Proceed, mo."
+    },
+    {
+      "$id": 41,
+      "label": "qst100502_msg0801",
+      "style": 84,
+      "name": "Assistant, report, mo."
+    },
+    {
+      "$id": 42,
+      "label": "qst100502_msg0802",
+      "style": 84,
+      "name": "Coordinates... Hræsvelgr..."
+    },
+    {
+      "$id": 43,
+      "label": "qst100502_msg0803",
+      "style": 84,
+      "name": "Investigate, mo."
+    },
+    {
+      "$id": 44,
+      "label": "qst100502_msg0804",
+      "style": 84,
+      "name": "Hehe... We're getting closer, mo."
+    },
+    {
+      "$id": 45,
+      "label": "qst100502_msg0901",
+      "style": 84,
+      "name": "Assistant, report, mo."
+    },
+    {
+      "$id": 46,
+      "label": "qst100502_msg0902",
+      "style": 84,
+      "name": "Sparkling treasure... Captain\nNopopon's journal..."
+    },
+    {
+      "$id": 47,
+      "label": "qst100502_msg0903",
+      "style": 84,
+      "name": "You can have the sparkling things,\nmo. Show me the journal, mo."
+    },
+    {
+      "$id": 48,
+      "label": "qst100502_msg0904",
+      "style": 84,
+      "name": "Homf homf... Mmmm...?!"
+    },
+    {
+      "$id": 49,
+      "label": "qst100502_msg0905",
+      "style": 84,
+      "name": "This is... MOMOMOMOMOMOMOMO!!"
+    },
+    {
+      "$id": 50,
+      "label": "qst100502_msg0906",
+      "style": 84,
+      "name": "This journal... it's a mix of ancient\nand modern Nopon writing, mo!"
+    },
+    {
+      "$id": 51,
+      "label": "qst100502_msg0907",
+      "style": 84,
+      "name": "If I decipher this... I'll be able\nto read the ancient Nopon language\non the statue, mo~!"
+    },
+    {
+      "$id": 52,
+      "label": "qst100502_msg0908",
+      "style": 84,
+      "name": "...Ahem. I got a bit too excited, mo."
+    },
+    {
+      "$id": 53,
+      "label": "qst100502_msg0909",
+      "style": 84,
+      "name": "Investigate the statue, mo.\nAssistant, come too, mo."
+    },
+    {
+      "$id": 54,
+      "label": "qst100502_msg0910",
+      "style": 84,
+      "name": "W-wait for me, mo~! Hurry\nup and come, mo~!!"
+    },
+    {
+      "$id": 55,
+      "label": "qst100502_msg1001",
+      "style": 84,
+      "name": "I've deciphered it, mo."
+    },
+    {
+      "$id": 56,
+      "label": "qst100502_msg1002",
+      "style": 84,
+      "name": "This statue was made by the\nancient Nopon tribe in praise\nof Captain Nopopon, mo."
+    },
+    {
+      "$id": 57,
+      "label": "qst100502_msg1003",
+      "style": 84,
+      "name": "By deciphering the statue and\nCaptain Nopopon's journal..."
+    },
+    {
+      "$id": 58,
+      "label": "qst100502_msg1004",
+      "style": 84,
+      "name": "I've discovered a shocking\ntruth that will go down\nin Nopon history, mo~!"
+    },
+    {
+      "$id": 59,
+      "label": "qst100502_msg1005",
+      "style": 84,
+      "name": "It turns out... the ancient Nopon\ntribe didn't use 'mo,' mo!"
+    },
+    {
+      "$id": 60,
+      "label": "qst100502_msg1006",
+      "style": 84,
+      "name": "When I deciphered the ancient Nopon\nwriting, none of the sentences\nhad 'mo,' mo!"
+    },
+    {
+      "$id": 61,
+      "label": "qst100502_msg1007",
+      "style": 84,
+      "name": "And... that's not all, mo..."
+    },
+    {
+      "$id": 62,
+      "label": "qst100502_msg1008",
+      "style": 84,
+      "name": "Captain Nopopon's journal\nsays this, mo..."
+    },
+    {
+      "$id": 63,
+      "label": "qst100502_msg1009",
+      "style": 84,
+      "name": "'I have grown tired of fighting\nto obtain treasure... So I\ncame up with an idea.'"
+    },
+    {
+      "$id": 64,
+      "label": "qst100502_msg1010",
+      "style": 84,
+      "name": "'Nopon's looks can make those from\nother lands see us as cute.'"
+    },
+    {
+      "$id": 65,
+      "label": "qst100502_msg1011",
+      "style": 84,
+      "name": "'I want to use that cuteness for\nsmooth relations with other countries\nto build a new Nopon era, mo.'"
+    },
+    {
+      "$id": 66,
+      "label": "qst100502_msg1012",
+      "style": 84,
+      "name": "'In my years of negotiations, I also\nlearned that adding \"mo\" to sentence\nendings makes us seem even cuter, mo!'"
+    },
+    {
+      "$id": 67,
+      "label": "qst100502_msg1013",
+      "style": 84,
+      "name": "'Nopopon will use the cuteness\nof being fluffy and this new\nway of speaking...'"
+    },
+    {
+      "$id": 68,
+      "label": "qst100502_msg1014",
+      "style": 84,
+      "name": "'...to make the brand-new\nNopon Guild big, mo~ I'll\ndo my best, momomo~!'"
+    },
+    {
+      "$id": 69,
+      "label": "qst100502_msg1015",
+      "style": 84,
+      "name": "...That is all, mo."
+    },
+    {
+      "$id": 70,
+      "label": "qst100502_msg1016",
+      "style": 84,
+      "name": "That's right! Pirate Captain Nopopon\nfounded modern Nopon language by\nstarting the use of 'mo,' mo~!"
+    },
+    {
+      "$id": 71,
+      "label": "qst100502_msg1017",
+      "style": 84,
+      "name": "...Ahem. This discovery\nis a stroke of luck, mo."
+    },
+    {
+      "$id": 72,
+      "label": "qst100502_msg1018",
+      "style": 84,
+      "name": "Assistant... Th-thank you, mo~~!"
+    },
+    {
+      "$id": 73,
+      "label": "qst100502_msg1019",
+      "style": 84,
+      "name": "This is an amazing discovery that\nwill rewrite Nopon history, mo~!"
+    },
+    {
+      "$id": 74,
+      "label": "qst100502_msg1020",
+      "style": 84,
+      "name": "Just as Captain Nopopon said,\nNopon have to be cute, mo!"
+    },
+    {
+      "$id": 75,
+      "label": "qst100502_msg1021",
+      "style": 84,
+      "name": "The mystery of the door is\nsolved, so I'll stop trying\nto be cool and silent, mo~!"
+    },
+    {
+      "$id": 76,
+      "label": "qst100502_msg1022",
+      "style": 84,
+      "name": "Whoopee! I'll go tell everyone, mo~!"
+    }
+  ]
+}

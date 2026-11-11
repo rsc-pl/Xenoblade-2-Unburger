@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005602_msg001",
+      "style": 84,
+      "name": "Excuse me! I have a question!"
+    },
+    {
+      "$id": 2,
+      "label": "qst005602_msg002",
+      "style": 84,
+      "name": "Yes, yes, why the loud voice, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "qst005602_msg003",
+      "style": 84,
+      "name": "I heard that Rogirogi-san\nhas an ancient text about\nan ancient stone tablet..."
+    },
+    {
+      "$id": 4,
+      "label": "qst005602_msg004",
+      "style": 84,
+      "name": "I'd like to see that\nancient text for a bit."
+    },
+    {
+      "$id": 5,
+      "label": "qst005602_msg005",
+      "style": 84,
+      "name": "I have tons of ancient\ntexts like that, mo..."
+    },
+    {
+      "$id": 6,
+      "label": "qst005602_msg006",
+      "style": 84,
+      "name": "Tell me more about the ancient\ntablet you're researching, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst005602_msg007",
+      "style": 84,
+      "name": "The tablet is transparent, thin,\nand it floats in the air."
+    },
+    {
+      "$id": 8,
+      "label": "qst005602_msg008",
+      "style": 84,
+      "name": "...Are you sure that's\na stone tablet, mo?"
+    },
+    {
+      "$id": 9,
+      "label": "qst005602_msg009",
+      "style": 84,
+      "name": "Of course! It's definitely a tablet\ncontaining ancient information!"
+    },
+    {
+      "$id": 10,
+      "label": "qst005602_msg010",
+      "style": 84,
+      "name": "Thin and floating in\nthe air, mo? ...Ah!"
+    },
+    {
+      "$id": 11,
+      "label": "qst005602_msg011",
+      "style": 84,
+      "name": "I certainly have an ancient text\nwith a picture like that, mo!"
+    },
+    {
+      "$id": 12,
+      "label": "qst005602_msg012",
+      "style": 84,
+      "name": "That's it! I want to see that one."
+    },
+    {
+      "$id": 13,
+      "label": "qst005602_msg013",
+      "style": 84,
+      "name": "...10000G, mo."
+    },
+    {
+      "$id": 14,
+      "label": "qst005602_msg014",
+      "style": 84,
+      "name": "You want me to pay to see it?"
+    },
+    {
+      "$id": 15,
+      "label": "qst005602_msg015",
+      "style": 84,
+      "name": "That ancient text was hard to get,\nmo. It's a very valuable item, mo!"
+    },
+    {
+      "$id": 16,
+      "label": "qst005602_msg016",
+      "style": 84,
+      "name": "If you don't like it,\nyou can leave, mo..."
+    },
+    {
+      "$id": 17,
+      "label": "qst005602_msg017",
+      "style": 84,
+      "name": "Well, I guess it's wrong of us\nto expect to see a valuable\nbook for free. Rex, please!"
+    },
+    {
+      "$id": 18,
+      "label": "qst005602_msg018",
+      "style": 84,
+      "name": "Whaaat?!"
+    },
+    {
+      "$id": 19,
+      "label": "qst005602_msg019",
+      "style": 84,
+      "name": "Did you bring the money this time, mo?"
+    },
+    {
+      "$id": 20,
+      "label": "qst005602_msg020",
+      "style": 165,
+      "name": "Pay 10000G?"
+    },
+    {
+      "$id": 21,
+      "label": "qst005602_msg021",
+      "style": 84,
+      "name": "Thank you for your business, mo!\nHere's the ancient text, mo! Take\nyour time looking at it, mo."
+    },
+    {
+      "$id": 22,
+      "label": "qst005602_msg022",
+      "style": 84,
+      "name": "Hmm, hmm. It certainly has a\npicture of that tablet..."
+    },
+    {
+      "$id": 23,
+      "label": "qst005602_msg023",
+      "style": 84,
+      "name": "But it's full of unreadable\ncharacters. I can't make\nsense of it at all."
+    },
+    {
+      "$id": 24,
+      "label": "qst005602_msg024",
+      "style": 84,
+      "name": "It's okay, leave it to me!"
+    },
+    {
+      "$id": 25,
+      "label": "qst005602_msg025",
+      "style": 84,
+      "name": "What did it say?"
+    },
+    {
+      "$id": 26,
+      "label": "qst005602_msg026",
+      "style": 84,
+      "name": "...It seems to be an\nexplanation of that tablet."
+    },
+    {
+      "$id": 27,
+      "label": "qst005602_msg027",
+      "style": 84,
+      "name": "The characters are faded and hard\nto read in many places, but..."
+    },
+    {
+      "$id": 28,
+      "label": "qst005602_msg028",
+      "style": 84,
+      "name": "I was able to figure out that part\nof the tablet's name is XE36."
+    },
+    {
+      "$id": 29,
+      "label": "qst005602_msg029",
+      "style": 84,
+      "name": "The tablet has a name?\nThat's strange..."
+    },
+    {
+      "$id": 30,
+      "label": "qst005602_msg030",
+      "style": 84,
+      "name": "Oh! Shiki, that's not a name!"
+    },
+    {
+      "$id": 31,
+      "label": "qst005602_msg031",
+      "style": 84,
+      "name": "Oh!!"
+    },
+    {
+      "$id": 32,
+      "label": "qst005602_msg032",
+      "style": 84,
+      "name": "XE36 must be part of\nthe twelve-digit code!"
+    },
+    {
+      "$id": 33,
+      "label": "qst005602_msg033",
+      "style": 84,
+      "name": "You did it, Shiki!"
+    },
+    {
+      "$id": 34,
+      "label": "qst005602_msg034",
+      "style": 84,
+      "name": "I don't have that kind\nof money right now..."
+    },
+    {
+      "$id": 35,
+      "label": "qst005602_msg035",
+      "style": 84,
+      "name": "Whaaat?!"
+    },
+    {
+      "$id": 36,
+      "label": "qst005602_msg036",
+      "style": 84,
+      "name": "Wait a moment! I'll get the money!"
+    },
+    {
+      "$id": 37,
+      "label": "qst005602_msg037",
+      "style": 84,
+      "name": "Rex will!"
+    },
+    {
+      "$id": 38,
+      "label": "qst005602_msg038",
+      "style": 84,
+      "name": "Whaaat?!"
+    },
+    {
+      "$id": 39,
+      "label": "qst005602_msg039",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 40,
+      "label": "qst005602_msg040",
+      "style": 165,
+      "name": "Don't pay"
+    }
+  ]
+}

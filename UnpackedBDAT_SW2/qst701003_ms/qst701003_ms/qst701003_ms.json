@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701003_msg0001",
+      "style": 84,
+      "name": "...I owe Morumo, that's true.\nBut I won't help. I don't want to."
+    },
+    {
+      "$id": 2,
+      "label": "qst701003_msg0002",
+      "style": 84,
+      "name": "I don't trust those who flee the\ncapital, nor those who help them.\nAdel-sama, that includes you."
+    },
+    {
+      "$id": 3,
+      "label": "qst701003_msg0003",
+      "style": 84,
+      "name": "You say all the right things, but you\ndon't intend to protect Iira, do you?\nThat's why you help people flee."
+    },
+    {
+      "$id": 4,
+      "label": "qst701003_msg0004",
+      "style": 84,
+      "name": "Those who say they want to save\neveryone end up saving no one.\nYour ideals can't save anyone."
+    },
+    {
+      "$id": 5,
+      "label": "qst701003_msg0005",
+      "style": 84,
+      "name": "...We're done talking. I've\nfulfilled my obligation. Go home."
+    },
+    {
+      "$id": 6,
+      "label": "qst701003_msg0101",
+      "style": 84,
+      "name": "Those who say they want to save\neveryone end up saving no one.\nYour ideals can't save anyone."
+    },
+    {
+      "$id": 7,
+      "label": "qst701003_msg0102",
+      "style": 84,
+      "name": "...We're done talking. I've\nfulfilled my obligation. Go home."
+    },
+    {
+      "$id": 8,
+      "label": "qst701003_msg0201",
+      "style": 84,
+      "name": "...These are the materials I asked\nfor. Keep it up with the rest."
+    },
+    {
+      "$id": 9,
+      "label": "qst701003_msg0202",
+      "style": 84,
+      "name": "In the meantime, I'll proceed\nwith the shelter's design."
+    }
+  ]
+}

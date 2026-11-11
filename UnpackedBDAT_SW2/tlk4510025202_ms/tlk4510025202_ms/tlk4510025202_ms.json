@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100252_02_msg0001",
+      "style": 84,
+      "name": "Father? Mother? Everyone?\nWhy did you all leave\nbefore me?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100252_02_msg0002",
+      "style": 84,
+      "name": "How can I live on all alone?\nI don't understand...\nWhat should I do?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45100252_02_msg0003",
+      "style": 84,
+      "name": "If I wait here, will someone\ncome help me? Will someone\nsave me?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45100252_02_msg0004",
+      "style": 84,
+      "name": "Someone[ML:Dash ]tell me this\nis just a dream[ML:Dash ]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000016_03_msg0001",
+      "style": 84,
+      "name": "Ah! Nii-chans!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000016_03_msg0002",
+      "style": 84,
+      "name": "I'm already designing my next\ninvention!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000016_03_msg0003",
+      "style": 84,
+      "name": "That old inventor has his quirks, but\nwhen it comes to machinery, he's\nreally amazing!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000016_03_msg0004",
+      "style": 84,
+      "name": "These days, I'm the one nagging him\nfor advice about my inventions!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000016_03_msg0005",
+      "style": 84,
+      "name": "You suggested it, so I sort of became\nhis apprentice, but now I'm really\nglad I did!"
+    }
+  ]
+}

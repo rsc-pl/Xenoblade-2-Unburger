@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350351_04_msg0001",
+      "style": 84,
+      "name": "We're accepting refugees from Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350351_04_msg0002",
+      "style": 84,
+      "name": "Not just a few of them, either. We're\neven having to use the Divine Beast\nships' cabins as temporary lodgings."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350351_04_msg0003",
+      "style": 84,
+      "name": "But... Acedia had far, far more people\nthan this, didn't it?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350351_04_msg0004",
+      "style": 84,
+      "name": "Only a handful managed\nto escape..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45350351_04_msg0005",
+      "style": 84,
+      "name": "I hope they're safe somewhere... Maybe\nthey're actually alive in the Land of\nMors..."
+    }
+  ]
+}

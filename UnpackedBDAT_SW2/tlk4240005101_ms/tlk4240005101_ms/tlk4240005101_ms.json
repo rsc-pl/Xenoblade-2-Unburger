@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240005101_msg0001",
+      "style": 84,
+      "name": "I tell my daughter many stories\nabout when I was young, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240005101_msg0002",
+      "style": 84,
+      "name": "The fun times, the happy times,\nthe time I got burned playing\nwith fire at night..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240005101_msg0003",
+      "style": 84,
+      "name": "Sharing embarrassing experiences as\nlessons is part of a mother's duty,\nmo."
+    }
+  ]
+}

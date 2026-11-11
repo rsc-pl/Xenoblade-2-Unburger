@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100141_04_msg0001",
+      "style": 62,
+      "name": "Long before Vandham became a merc,\nhe was from Invidia's capital."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100141_04_msg0002",
+      "style": 62,
+      "name": "Vandham is a pseudonym. His real name\nis Aquila Barone Sol Esteriore."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100141_04_msg0003",
+      "style": 62,
+      "name": "He was a big shot from the Barone\nfamily, one of Invidia's noble houses."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100141_04_msg0004",
+      "style": 62,
+      "name": "By the way, the name Vandham\ncame from a famous person\nhe admired as a child."
+    }
+  ]
+}

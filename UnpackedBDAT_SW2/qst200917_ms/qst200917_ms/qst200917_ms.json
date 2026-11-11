@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200917_msg001",
+      "style": 84,
+      "name": "Kupon-san, we've retrieved your cargo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200917_msg002",
+      "style": 84,
+      "name": "Mo mo?! ...You really\nbrought it back, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200917_msg003",
+      "style": 84,
+      "name": "For us right now, it's\na piece of cake!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200917_msg004",
+      "style": 84,
+      "name": "Then let's go to Tuuli\nBakery together, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200917_msg005",
+      "style": 84,
+      "name": "I absolutely refuse to go with you,\nmo! Kupon is going on ahead, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200917_msg006",
+      "style": 84,
+      "name": "...He's gone."
+    },
+    {
+      "$id": 7,
+      "label": "qst200917_msg007",
+      "style": 84,
+      "name": "I wonder if he had\nsome urgent business?"
+    },
+    {
+      "$id": 8,
+      "label": "qst200917_msg008",
+      "style": 84,
+      "name": "...Well, I can't say I don't\nunderstand how he feels..."
+    },
+    {
+      "$id": 9,
+      "label": "qst200917_msg009",
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 10,
+      "label": "qst200917_msg010",
+      "style": 84,
+      "name": "Anyway, let's head back\nto Torigo too."
+    },
+    {
+      "$id": 11,
+      "label": "qst200917_msg011",
+      "style": 84,
+      "name": "You're right!"
+    }
+  ]
+}

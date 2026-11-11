@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300011_03_msg0001",
+      "style": 84,
+      "name": "Superbia and Invidia were on the\nverge of conflict, weren't they?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300011_03_msg0002",
+      "style": 84,
+      "name": "But I'm glad a war didn't break out."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300011_03_msg0003",
+      "style": 84,
+      "name": "This is all thanks to\nMalbeni-sama mediating."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300011_03_msg0004",
+      "style": 84,
+      "name": "If war had broken out, I might\nhave had to go back to Gula\nand fight for Superbia."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300011_03_msg0005",
+      "style": 84,
+      "name": "I'm really glad it\ndidn't come to war..."
+    }
+  ]
+}

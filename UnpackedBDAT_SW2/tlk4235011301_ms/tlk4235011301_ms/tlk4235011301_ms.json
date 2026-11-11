@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350113_01_msg0001",
+      "style": 84,
+      "name": "...Want to buy a board game,\nmo? It's fun even if you\nplay by yourself, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350113_01_msg0004",
+      "style": 84,
+      "name": "I don't think this is\nthe time for a detour."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350113_01_msg0005",
+      "style": 84,
+      "name": "Welcome, mo. Owner-san, which\nboard game do you like, mo?"
+    }
+  ]
+}

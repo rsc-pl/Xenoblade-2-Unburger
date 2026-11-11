@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf09030100_0010",
+      "style": 82,
+      "name": "Your Majesty, are you hurt?"
+    },
+    {
+      "$id": 2,
+      "label": "bf09030100_0020",
+      "style": 82,
+      "name": "What just happened?"
+    },
+    {
+      "$id": 3,
+      "label": "bf09030100_0030",
+      "style": 82,
+      "name": "The Divine Beast just released a vast\namount of energy from its chest!"
+    },
+    {
+      "$id": 4,
+      "label": "bf09030100_0040",
+      "style": 82,
+      "name": "That may be why the power is dropping."
+    },
+    {
+      "$id": 5,
+      "label": "bf09030100_0050",
+      "style": 82,
+      "name": "Your Majesty!"
+    },
+    {
+      "$id": 6,
+      "label": "bf09030100_0060",
+      "style": 82,
+      "name": "We've located the Divine Beast that strayed\nfrom its orbit."
+    },
+    {
+      "$id": 7,
+      "label": "bf09030100_0070",
+      "style": 82,
+      "name": "Where is it?"
+    },
+    {
+      "$id": 8,
+      "label": "bf09030100_0080",
+      "style": 82,
+      "name": "Look outside."
+    },
+    {
+      "$id": 9,
+      "label": "bf09030100_0090",
+      "style": 82,
+      "name": "Ah, that's..."
+    },
+    {
+      "$id": 10,
+      "label": "bf09030100_0100",
+      "style": 82,
+      "name": "Again...?"
+    },
+    {
+      "$id": 11,
+      "label": "bf09030100_0110",
+      "style": 82,
+      "name": "This is bad. If any more energy\nis released, Superbia will..."
+    }
+  ]
+}

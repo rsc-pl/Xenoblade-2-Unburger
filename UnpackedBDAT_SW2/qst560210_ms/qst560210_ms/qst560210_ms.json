@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst560210_msg0001",
+      "style": 84,
+      "name": "I am a bard traveling\nwith three sisters, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst560210_msg0002",
+      "style": 84,
+      "name": "Meeting you here must be fate."
+    },
+    {
+      "$id": 3,
+      "label": "qst560210_msg0003",
+      "style": 84,
+      "name": "I'd like to hear one of your\nadventure stories, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst560210_msg0004",
+      "style": 84,
+      "name": "Trade for an Ether Custom Master?"
+    },
+    {
+      "$id": 5,
+      "label": "qst560210_msg0005",
+      "style": 84,
+      "name": "Tell 500,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst560210_msg0006",
+      "style": 84,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst560210_msg0101",
+      "style": 84,
+      "name": "What a wonderful adventure story, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst560210_msg0102",
+      "style": 84,
+      "name": "It was worth sneaking onto\nthe sisters' ship, mo!"
+    },
+    {
+      "$id": 9,
+      "label": "qst560210_msg0103",
+      "style": 84,
+      "name": "...Please pretend you didn't hear\nthat, mo. Shibushibu-san will\ntorment me, mo."
+    },
+    {
+      "$id": 10,
+      "label": "qst560210_msg0201",
+      "style": 84,
+      "name": "What a shame, mo..."
+    },
+    {
+      "$id": 11,
+      "label": "qst560210_msg0202",
+      "style": 84,
+      "name": "I'm a bard traveling with the sisters\nwithout permission... Our next\ndestination is up to them, mo."
+    },
+    {
+      "$id": 12,
+      "label": "qst560210_msg0203",
+      "style": 84,
+      "name": "So I'd like you to tell me a\nstory while I'm here, mo."
+    }
+  ]
+}

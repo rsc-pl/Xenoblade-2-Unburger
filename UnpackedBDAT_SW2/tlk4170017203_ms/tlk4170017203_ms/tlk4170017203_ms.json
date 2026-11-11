@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700172_03_msg0001",
+      "style": 84,
+      "name": "When the Invidian and\nSuperbian armies came, we\nshowed them our protest."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700172_03_msg0002",
+      "style": 84,
+      "name": "I'm sure there are those who don't\nlike the fact that Blade management\nis concentrated in Acedia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700172_03_msg0003",
+      "style": 84,
+      "name": "You're a Driver, so you must think so\ntoo, right? Being managed by a foreign\ncountry is nothing but a hassle."
+    }
+  ]
+}

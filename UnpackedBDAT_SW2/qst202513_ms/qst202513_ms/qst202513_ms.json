@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202513_msg0001",
+      "style": 84,
+      "name": "This is my room!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202513_msg0002",
+      "style": 84,
+      "name": "Well, it's just the room I'm using\nwhile I'm staying in Theoscaldia[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst202513_msg0003",
+      "style": 84,
+      "name": "Wasn't this some kind of storeroom?"
+    },
+    {
+      "$id": 4,
+      "label": "qst202513_msg0004",
+      "style": 84,
+      "name": "For experiments and work, a place\nthis rundown is just right."
+    },
+    {
+      "$id": 5,
+      "label": "qst202513_msg0005",
+      "style": 84,
+      "name": "\"Rundown\"[ML:Dash ]"
+    },
+    {
+      "$id": 6,
+      "label": "qst202513_msg0006",
+      "style": 84,
+      "name": "Well then, KOS-MOS Re:,\nI'll get it ready now, so\nplease wait here a moment."
+    },
+    {
+      "$id": 7,
+      "label": "qst202513_msg0007",
+      "style": 84,
+      "name": "Understood, Astelle."
+    },
+    {
+      "$id": 8,
+      "label": "qst202513_msg0008",
+      "style": 84,
+      "name": "It'll take a little time\nto modify it."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000009_05_msg0001",
+      "style": 84,
+      "name": "My older brother and I are here, so\nyou can relax. We won't let even one\nmouse through."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000009_05_msg0002",
+      "style": 84,
+      "name": "We're not just protecting a gate.\nWe're guarding the future of\neveryone in Iira's capital."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000009_05_msg0003",
+      "style": 84,
+      "name": "It's worth protecting, isn't it? My\nolder brother said it gives him a\nwarrior's shiver."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000009_05_msg0004",
+      "style": 84,
+      "name": "To be honest, I'm still a\nlittle bit apprehensive\nabout meeting the enemy."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000009_05_msg0005",
+      "style": 84,
+      "name": "But you're carrying heavier burdens\nand diving right into their midst. I\ncan't sit here complaining."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000009_05_msg0006",
+      "style": 84,
+      "name": "Everyone... good fortune in battle!"
+    }
+  ]
+}

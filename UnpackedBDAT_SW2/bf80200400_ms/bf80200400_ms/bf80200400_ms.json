@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "89890101",
+      "style": 82,
+      "name": "I'll lend you my strength."
+    },
+    {
+      "$id": 2,
+      "label": "89890102",
+      "style": 82,
+      "name": "Are you the one who sought my power?"
+    },
+    {
+      "$id": 3,
+      "label": "90890101",
+      "style": 82,
+      "name": "I'll lend you my strength."
+    },
+    {
+      "$id": 4,
+      "label": "90890102",
+      "style": 82,
+      "name": "Are you the one who sought my power?"
+    },
+    {
+      "$id": 5,
+      "label": "91890101",
+      "style": 82,
+      "name": "I'll do my very best to be of use to you!"
+    },
+    {
+      "$id": 6,
+      "label": "91890102",
+      "style": 82,
+      "name": "Leave your back to me!"
+    },
+    {
+      "$id": 7,
+      "label": "92890101",
+      "style": 82,
+      "name": "I'll do my very best to be of use to you!"
+    },
+    {
+      "$id": 8,
+      "label": "92890102",
+      "style": 82,
+      "name": "Leave your back to me!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400045_03_msg0001",
+      "style": 84,
+      "name": "Toriri's new employer is Ion-chan, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400045_03_msg0002",
+      "style": 84,
+      "name": "I was so bored without work, sliding\ndown the waterway by the stairs to\nKaram Ruins, when I got the offer, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400045_03_msg0003",
+      "style": 84,
+      "name": "The job of ticket-taker at\nthe Bajena Playhouse...\nIt's quite rewarding, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400045_03_msg0004",
+      "style": 84,
+      "name": "Ion-chan seems to be paying Toriri's\nsalary out of pocket money, so I feel\na little guilty, mo."
+    }
+  ]
+}

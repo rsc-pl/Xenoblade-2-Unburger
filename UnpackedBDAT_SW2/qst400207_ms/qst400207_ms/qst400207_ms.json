@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400207_msg0001",
+      "style": 84,
+      "name": "More importantly, did you know?"
+    },
+    {
+      "$id": 2,
+      "label": "qst400207_msg0002",
+      "style": 84,
+      "name": "When a Blade is born, you have\nto apply to the Holy See of\nAcedia and get them registered!"
+    },
+    {
+      "$id": 3,
+      "label": "qst400207_msg0003",
+      "style": 84,
+      "name": "H-huh... Is that so..."
+    },
+    {
+      "$id": 4,
+      "label": "qst400207_msg0004",
+      "style": 84,
+      "name": "R-really? My, you know\na lot, don't you..."
+    },
+    {
+      "$id": 5,
+      "label": "qst400207_msg0005",
+      "style": 84,
+      "name": "So that guy who got scouted\nto be a Driver will probably\nhave to go there soon."
+    },
+    {
+      "$id": 6,
+      "label": "qst400207_msg0006",
+      "style": 84,
+      "name": "When I grow up, I want\nto be a Driver and go to\nthe Holy See of Acedia!"
+    }
+  ]
+}

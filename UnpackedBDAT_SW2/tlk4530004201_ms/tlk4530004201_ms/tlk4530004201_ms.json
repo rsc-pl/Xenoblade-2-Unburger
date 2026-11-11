@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4530004201_msg0001",
+      "style": 84,
+      "name": "Powapowa's fur is perfectly fluffy\ntoday too, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4530004201_msg0002",
+      "style": 84,
+      "name": "If anyone comes back from a mission,\nI'll be the first to welcome them, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4530004201_msg0003",
+      "style": 84,
+      "name": "Then I let them fluff Powapowa's fur\nto soothe their worn-out hearts, mo!"
+    }
+  ]
+}

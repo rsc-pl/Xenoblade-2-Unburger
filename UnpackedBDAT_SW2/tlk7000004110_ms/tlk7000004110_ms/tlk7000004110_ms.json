@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000041_10_msg0001",
+      "style": 84,
+      "name": "Thanks to you, we were able to\nsuccessfully send food to the militia!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000041_10_msg0002",
+      "style": 84,
+      "name": "You really are amazing. You're not\nsoldiers or officials, yet you work so\nhard for other people."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000041_10_msg0003",
+      "style": 84,
+      "name": "Before I met you guys, all I\never thought about was how to\nget out of doing work..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000041_10_msg0004",
+      "style": 84,
+      "name": "But if the work you do helps\nmake other people happy, maybe\nwork isn't so bad after all?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000041_10_msg0005",
+      "style": 84,
+      "name": "So let's keep doing our best\ntogether from now on!\nAh... maybe that's too much trouble."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000041_10_msg0006",
+      "style": 84,
+      "name": "I'm kidding! I'm kidding! I was just\nkidding!"
+    }
+  ]
+}

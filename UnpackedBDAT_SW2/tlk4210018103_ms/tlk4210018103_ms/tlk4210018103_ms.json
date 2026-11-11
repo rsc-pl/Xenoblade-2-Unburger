@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_03_msg0001",
+      "style": 84,
+      "name": "Yay, yay! Grandpa, Grandpa!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_03_msg0002",
+      "style": 84,
+      "name": "It's night, so I can play with\nGrandpa, mo! I'm sleepy, but I'm\nhappy, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_03_msg0003",
+      "style": 84,
+      "name": "You know, Grandpa's friends with the\nimportant people here, mo! That's why\nhe could bring goods, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100181_03_msg0004",
+      "style": 84,
+      "name": "Ahem, ahem! Magomago is going to\nbecome a merchant like Grandpa, mo!"
+    }
+  ]
+}

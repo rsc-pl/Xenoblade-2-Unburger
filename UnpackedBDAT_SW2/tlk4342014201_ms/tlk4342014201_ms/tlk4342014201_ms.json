@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4342014201_msg0001",
+      "style": 84,
+      "name": "I thought Bamibami was suspicious\nfrom the very beginning!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4342014201_msg0002",
+      "style": 84,
+      "name": "Nopon prefer eating and playing\nto working any day of the week."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4342014201_msg0003",
+      "style": 84,
+      "name": "But acting serious, talking about\ngroup action and cooperation? That had\nto be suspicious."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4342014201_msg0004",
+      "style": 84,
+      "name": "But changing sides for money is, in a\nway, the most Nopon-like thing of all."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001102_msg001",
+      "style": 84,
+      "name": "Hmm, and who are you?"
+    },
+    {
+      "$id": 2,
+      "label": "qst001102_msg002",
+      "style": 84,
+      "name": "What? I asked you to\nget some materials?"
+    },
+    {
+      "$id": 3,
+      "label": "qst001102_msg003",
+      "style": 84,
+      "name": "Is that so... My apologies.\nAt my age, I've decided to\nstop dwelling on the past."
+    },
+    {
+      "$id": 4,
+      "label": "qst001102_msg004",
+      "style": 84,
+      "name": "Anyway, you brought me a Pione Stone\nand Gorilla Bristle (Prov.)..."
+    },
+    {
+      "$id": 5,
+      "label": "qst001102_msg005",
+      "style": 84,
+      "name": "I have no memory of what\nI was trying to make...\nbut I'll give it a go."
+    },
+    {
+      "$id": 6,
+      "label": "qst001102_msg006",
+      "style": 84,
+      "name": "Hmm-hmm..."
+    },
+    {
+      "$id": 7,
+      "label": "qst001102_msg007",
+      "style": 84,
+      "name": "I've got it! A brilliant idea to make\nsomething even better from this!"
+    },
+    {
+      "$id": 8,
+      "label": "qst001102_msg008",
+      "style": 84,
+      "name": "If I add a few more materials,\nI can create a masterpiece\nthat is one-of-a-kind!"
+    },
+    {
+      "$id": 9,
+      "label": "qst001102_msg009",
+      "style": 84,
+      "name": "An accessory that does ○○○○!"
+    },
+    {
+      "$id": 10,
+      "label": "qst001102_msg010",
+      "style": 84,
+      "name": "I'll call it ○○○○. You want\nto see it, don't you?"
+    },
+    {
+      "$id": 11,
+      "label": "qst001102_msg011",
+      "style": 84,
+      "name": "Could you bring me some Sea\nLizard Scales (temp) and\nSeabird Feathers (temp)?"
+    },
+    {
+      "$id": 12,
+      "label": "qst001102_msg012",
+      "style": 84,
+      "name": "You should be able to get\nSea Lizard Scales (temp)\nby defeating △△ in ××."
+    },
+    {
+      "$id": 13,
+      "label": "qst001102_msg013",
+      "style": 84,
+      "name": "You should be able to get\nSeabird Feathers (temp)\nby defeating ■■ in ××."
+    },
+    {
+      "$id": 14,
+      "label": "qst001102_msg014",
+      "style": 84,
+      "name": "Good. That's reassuring to hear.\nI'm counting on you."
+    }
+  ]
+}

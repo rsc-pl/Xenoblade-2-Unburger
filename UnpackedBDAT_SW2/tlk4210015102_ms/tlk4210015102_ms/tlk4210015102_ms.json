@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100151_02_msg0001",
+      "style": 84,
+      "name": "I've never seen a Phonex\nthat came from Liberalitas."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100151_02_msg0002",
+      "style": 84,
+      "name": "A Phonex from somewhere with so much\nfood must be plump, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100151_02_msg0003",
+      "style": 84,
+      "name": "A Phonex like that would stand out.\nI wouldn't forget seeing one, so I'm\nsure I haven't."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf01110100_0010",
+      "style": 82,
+      "name": "So, that's how it is. I'm heading out."
+    },
+    {
+      "$id": 2,
+      "label": "bf01110100_0020",
+      "style": 82,
+      "name": "I'll be back in two or three\ndays, so don't worry."
+    },
+    {
+      "$id": 3,
+      "label": "bf01110100_0030",
+      "style": 82,
+      "name": "Don't you 'that's how it is' me!"
+    },
+    {
+      "$id": 4,
+      "label": "bf01110100_0040",
+      "style": 82,
+      "name": "Why would you take a job\nyou know nothing about?"
+    },
+    {
+      "$id": 5,
+      "label": "bf01110100_0050",
+      "style": 82,
+      "name": "You don't even know\nwho your employer is!"
+    },
+    {
+      "$id": 6,
+      "label": "bf01110100_0060",
+      "style": 82,
+      "name": "It's a job straight from the Chairman.\nIt'll be fine."
+    },
+    {
+      "$id": 7,
+      "label": "bf01110100_0070",
+      "style": 82,
+      "name": "Anyway, I'm off. Gramps,\njust relax here and wait."
+    },
+    {
+      "$id": 8,
+      "label": "bf01110100_0080",
+      "style": 82,
+      "name": "H-hey! Wait, Rex! Rex!"
+    }
+  ]
+}

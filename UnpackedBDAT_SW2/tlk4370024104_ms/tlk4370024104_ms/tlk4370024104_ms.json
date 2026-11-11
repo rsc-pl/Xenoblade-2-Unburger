@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700241_04_msg0001",
+      "style": 84,
+      "name": "It's best if you switch around your\nAssist Cores to best suit your Blades\nand the enemies you're up against."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700241_04_msg0002",
+      "style": 84,
+      "name": "Like if you're up against\nenemies that only appear at\nnight, equip Night Vision."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700241_04_msg0003",
+      "style": 84,
+      "name": "Or if you move around a lot to\nget into better positions,\nMovement Heal is what you want."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700241_04_msg0004",
+      "style": 84,
+      "name": "Planning for another fight with\nHeaven's Holy Grail taught me a lot\nabout Assist Cores."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43700241_04_msg0005",
+      "style": 84,
+      "name": "I know so much about Assist\nCores now, I've even got friends\ncoming to me for advice."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43700241_04_msg0006",
+      "style": 84,
+      "name": "I'm surprised I can work this hard\nmyself."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43700241_04_msg0007",
+      "style": 84,
+      "name": "Guess I have to thank Heaven's\nHoly Grail for that too!"
+    }
+  ]
+}

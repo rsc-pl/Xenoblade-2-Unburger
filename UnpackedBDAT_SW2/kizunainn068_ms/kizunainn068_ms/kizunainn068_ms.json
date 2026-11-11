@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn068_msg001",
+      "style": 84,
+      "name": "Hey, there's a nice spot nearby.\nWant to go there with me?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn068_msg002",
+      "style": 84,
+      "name": "The innkeeper says it's called\nthe Airborne Throne."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn068_msg003",
+      "style": 84,
+      "name": "If the two of us go, I'm\nsure it will be fun."
+    }
+  ]
+}

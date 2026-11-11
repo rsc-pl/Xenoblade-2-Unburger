@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000045_02_msg0001",
+      "style": 84,
+      "name": "Those huge one-eyed things were scary,\nmo~."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000045_02_msg0002",
+      "style": 84,
+      "name": "And it wasn't just Rikoko. Everyone\nwas scared, so the whole city has\ngotten gloomy, mo~."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000045_02_msg0003",
+      "style": 84,
+      "name": "At times like this, those traveling\nperformers would cheer everyone up\nwith bright music, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000045_02_msg0004",
+      "style": 84,
+      "name": "Rikoko wants to cheer everyone up with\nthis flute too, but playing alone is\nstill too embarrassing, mo~."
+    }
+  ]
+}

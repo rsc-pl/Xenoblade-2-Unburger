@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300011_01_msg0001",
+      "style": 84,
+      "name": "Mo-mo... Salvagers are so cool, mo..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300011_01_msg0002",
+      "style": 84,
+      "name": "Rimurimu wanted to be a\nsalvager too, instead of\njust being on watch duty, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300011_01_msg0003",
+      "style": 84,
+      "name": "But, but... I'm happy just relaxing\nhere and looking at the Cloud Sea, mo."
+    }
+  ]
+}

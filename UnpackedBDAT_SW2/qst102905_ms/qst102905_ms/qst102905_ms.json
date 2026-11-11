@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102905_msg001",
+      "style": 62,
+      "name": "This is just a childish trick."
+    },
+    {
+      "$id": 2,
+      "label": "qst102905_msg101",
+      "style": 62,
+      "name": "I'm more interested in what great\ndeeds that architect accomplished."
+    }
+  ]
+}

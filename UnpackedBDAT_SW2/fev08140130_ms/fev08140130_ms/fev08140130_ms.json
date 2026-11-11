@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev08_140_130_msg0001",
+      "style": 84,
+      "name": "I think we've rested long\nenough. Time to get moving."
+    },
+    {
+      "$id": 2,
+      "label": "fev08_140_130_msg0002",
+      "style": 84,
+      "name": "We're getting closer to the\nWorld Tree bit by bit."
+    },
+    {
+      "$id": 3,
+      "label": "fev08_140_130_msg0003",
+      "style": 84,
+      "name": "I hope Master and the others are\nheading for the World Tree too,\nmo..."
+    },
+    {
+      "$id": 4,
+      "label": "fev08_140_130_msg0004",
+      "style": 84,
+      "name": "We can only hope they are."
+    },
+    {
+      "$id": 5,
+      "label": "fev08_140_130_msg0005",
+      "style": 84,
+      "name": "If we don't meet them on the\nway, we should wait for them\nat the base of the World Tree."
+    },
+    {
+      "$id": 6,
+      "label": "fev08_140_130_msg0006",
+      "style": 84,
+      "name": "Yes, that would be the best approach."
+    },
+    {
+      "$id": 7,
+      "label": "fev08_140_130_msg0007",
+      "style": 84,
+      "name": "What's wrong? Are we going or not?"
+    },
+    {
+      "$id": 8,
+      "label": "fev08_140_130_msg0008",
+      "style": 84,
+      "name": "I'm coming, I'm coming!"
+    },
+    {
+      "$id": 9,
+      "label": "fev08_140_130_msg0009",
+      "style": 84,
+      "name": "Honestly... Just because he's\nstarting to feel a little better..."
+    },
+    {
+      "$id": 10,
+      "label": "fev08_140_130_msg0010",
+      "style": 84,
+      "name": "It appears we'll need to pass\nthrough that cave ahead."
+    },
+    {
+      "$id": 11,
+      "label": "fev08_140_130_msg0011",
+      "style": 84,
+      "name": "You're right. Let's get going!"
+    }
+  ]
+}

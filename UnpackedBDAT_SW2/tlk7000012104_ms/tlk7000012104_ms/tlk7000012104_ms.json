@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000121_04_msg0001",
+      "style": 84,
+      "name": "I stowed away on a regular ship to\nmake some money in Iira, but now\nthings have gotten serious..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000121_04_msg0002",
+      "style": 84,
+      "name": "...Uck! Did I say that out loud?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000121_04_msg0003",
+      "style": 84,
+      "name": "Well, whatever. I was thinking of\ngiving up that life anyway..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000121_04_msg0004",
+      "style": 84,
+      "name": "I've been living alone for a\nlong time now...and I've done\nsome pretty bad things."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000121_04_msg0005",
+      "style": 84,
+      "name": "It's tough for a little girl to\ngrow up by herself here in Gula."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000121_04_msg0006",
+      "style": 84,
+      "name": "But if you think you can turn\nthings around, I think I can dare\nto dream too, just a little!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500188_01_msg0001",
+      "style": 84,
+      "name": "I'm taking a break. I've been working\nall day."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500188_01_msg0002",
+      "style": 84,
+      "name": "I'd like to retire, but then I\ncouldn't afford to eat."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500188_01_msg0003",
+      "style": 84,
+      "name": "There's nothing to be done\nabout it as long as this\ncountry's closed off..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500188_01_msg0004",
+      "style": 84,
+      "name": "It's just like me... only growing\nolder..."
+    }
+  ]
+}

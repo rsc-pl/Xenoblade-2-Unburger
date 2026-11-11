@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300103_msg101",
+      "style": 84,
+      "name": "So you're making rations? If\nthere's anything I can do to\nhelp, I'll let Zuo know."
+    },
+    {
+      "$id": 2,
+      "label": "qst300103_msg103",
+      "style": 84,
+      "name": "You got the Mokmo Onions! You\nshould go to the cooking area\nand make the Dried Scented Char."
+    },
+    {
+      "$id": 3,
+      "label": "qst300103_msg104",
+      "style": 84,
+      "name": "[ML:Dash ]That's quite a strong scent.\nApparently that means it's nutritious,\nbut this smell is intense."
+    },
+    {
+      "$id": 4,
+      "label": "qst300103_msg001",
+      "style": 84,
+      "name": "Hey, you. I hear you're\ncollecting various ingredients."
+    },
+    {
+      "$id": 5,
+      "label": "qst300103_msg002",
+      "style": 84,
+      "name": "Then you should try looking for\nsomething called a Mokmo Onion!"
+    },
+    {
+      "$id": 6,
+      "label": "qst300103_msg003",
+      "style": 84,
+      "name": "Sorry to spring this on you. It's\nnutritious and high-grade, so\nI thought it'd be perfect for rations."
+    },
+    {
+      "$id": 7,
+      "label": "qst300103_msg004",
+      "style": 84,
+      "name": "It's on Lasqam Island in Gula, but\nyou have to dig very deep to get it,\nso it rarely appears on the market."
+    },
+    {
+      "$id": 8,
+      "label": "qst300103_msg005",
+      "style": 84,
+      "name": "I think you can reach where it\ngrows without getting lost, but\nfinding it depends on your skill."
+    },
+    {
+      "$id": 9,
+      "label": "qst300103_msg006",
+      "style": 84,
+      "name": "With a Mokmo Onion, Breath\nCharcoal, and a Steel Char, you\ncan make Dried Scented Char."
+    },
+    {
+      "$id": 10,
+      "label": "qst300103_msg007",
+      "style": 84,
+      "name": "I'll give you the Breath Charcoal\nand Steel Char, so please do your\nbest to find the Mokmo Onion."
+    },
+    {
+      "$id": 11,
+      "label": "qst300103_msg008",
+      "style": 84,
+      "name": "Do your best to find it."
+    }
+  ]
+}

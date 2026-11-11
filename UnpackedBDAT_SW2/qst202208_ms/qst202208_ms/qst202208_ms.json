@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202208_msg001",
+      "style": 84,
+      "name": "Um, there's something I'd like to ask."
+    },
+    {
+      "$id": 2,
+      "label": "qst202208_msg002",
+      "style": 84,
+      "name": "What is it, mo...?!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202208_msg003",
+      "style": 84,
+      "name": "Y-You're the Shocky-Shocky Blade?!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202208_msg004",
+      "style": 84,
+      "name": "Eh?!"
+    },
+    {
+      "$id": 5,
+      "label": "qst202208_msg005",
+      "style": 84,
+      "name": "D-Don't come any closer, mo!\nI don't want to get shocked, mo!!"
+    },
+    {
+      "$id": 6,
+      "label": "qst202208_msg006",
+      "style": 84,
+      "name": "Oh, it's all right now. I won't\nshock you, I just want to talk[ML:Dash ]"
+    },
+    {
+      "$id": 7,
+      "label": "qst202208_msg007",
+      "style": 84,
+      "name": "Mo mo? Don't come closer, mo?!\nI don't want to get shocked, mo!!"
+    },
+    {
+      "$id": 8,
+      "label": "qst202208_msg008",
+      "style": 84,
+      "name": "It seems it would be best\nto ask someone else."
+    },
+    {
+      "$id": 9,
+      "label": "qst202208_msg009",
+      "style": 84,
+      "name": "......"
+    },
+    {
+      "$id": 10,
+      "label": "qst202208_msg010",
+      "style": 84,
+      "name": "Raiko, there's no need\nto be discouraged."
+    },
+    {
+      "$id": 11,
+      "label": "qst202208_msg011",
+      "style": 84,
+      "name": "Eventually, others will come to\nunderstand the effort you've put in."
+    },
+    {
+      "$id": 12,
+      "label": "qst202208_msg012",
+      "style": 84,
+      "name": "You're right[ML:Dash ] I'll keep trying my best!"
+    }
+  ]
+}

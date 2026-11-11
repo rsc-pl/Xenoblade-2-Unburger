@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200222_msg0001",
+      "style": 84,
+      "name": "Harhal, what are you doing here?\nWon't you tell me everything?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200222_msg0002",
+      "style": 84,
+      "name": "You're not the kind of person\nwho'd do this."
+    },
+    {
+      "$id": 3,
+      "label": "qst200222_msg0003",
+      "style": 84,
+      "name": "[ML:Dash ]Those eyes of yours...\nThey're just like Dad's."
+    },
+    {
+      "$id": 4,
+      "label": "qst200222_msg0004",
+      "style": 84,
+      "name": "[ML:Dash ]Understood. I'll talk."
+    },
+    {
+      "$id": 5,
+      "label": "qst200222_msg0005",
+      "style": 84,
+      "name": "Using Pollen Orbs as ingredients,\nI'm making an even more powerful\nFraudrinco."
+    },
+    {
+      "$id": 6,
+      "label": "qst200222_msg0006",
+      "style": 84,
+      "name": "What on earth for?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200222_msg0007",
+      "style": 84,
+      "name": "Nopon mostly eat Pollen Orbs, right?\nBoost the effect, make a drink,\nand people get hooked too."
+    },
+    {
+      "$id": 8,
+      "label": "qst200222_msg0008",
+      "style": 84,
+      "name": "That's one outrageous idea[ML:Dash ]"
+    },
+    {
+      "$id": 9,
+      "label": "qst200222_msg0009",
+      "style": 84,
+      "name": "…………"
+    },
+    {
+      "$id": 10,
+      "label": "qst200222_msg0010",
+      "style": 84,
+      "name": "What's wrong, Harhal? Won't\nyou tell us the rest?"
+    },
+    {
+      "$id": 11,
+      "label": "qst200222_msg0011",
+      "style": 84,
+      "name": "No. I can't tell you any more[ML:Dash ]\nJust go."
+    },
+    {
+      "$id": 12,
+      "label": "qst200222_msg0012",
+      "style": 84,
+      "name": "Sorry, but I have nothing more to say."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000054_02_msg0001",
+      "style": 84,
+      "name": "Everyone, have you already met the\nking of Iira?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000054_02_msg0002",
+      "style": 84,
+      "name": "I hear the king was once a military\nofficer who won many victories through\nhis exceptional leadership."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000054_02_msg0003",
+      "style": 84,
+      "name": "Adel-sama's gift as leader\ncomes from his own ability,\nand from his father too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000054_02_msg0004",
+      "style": 84,
+      "name": "Perhaps that's why many in the\nresistance want Adel-sama to become\nthe next king of Iira."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000054_02_msg0005",
+      "style": 84,
+      "name": "I'm pretty sure he doesn't share\nthose sentiments, though."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000054_02_msg0006",
+      "style": 84,
+      "name": "That's Adel-sama for you."
+    }
+  ]
+}

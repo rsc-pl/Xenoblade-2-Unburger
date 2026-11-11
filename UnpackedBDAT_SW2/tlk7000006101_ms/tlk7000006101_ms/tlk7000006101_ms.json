@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000061_01_msg0001",
+      "style": 84,
+      "name": "There's nothing wrong with enjoying\nan adventure. I understand getting\nexcited."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000061_01_msg0002",
+      "style": 84,
+      "name": "We didn't come to Gula\nfor fun and games."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000061_01_msg0003",
+      "style": 84,
+      "name": "There's no point staying here at the\nport forever..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000061_01_msg0004",
+      "style": 84,
+      "name": "Uh, Rita? Are you even listening?!"
+    }
+  ]
+}

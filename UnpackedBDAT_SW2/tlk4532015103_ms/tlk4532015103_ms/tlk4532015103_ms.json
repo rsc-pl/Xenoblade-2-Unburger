@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320151_03_msg0001",
+      "style": 84,
+      "name": "At this rate, the Superbia\nDivine Beast's ether will\nsoon be exhausted..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320151_03_msg0002",
+      "style": 84,
+      "name": "Yet still His Majesty refuses\nto take refuge in Gula."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320151_03_msg0003",
+      "style": 84,
+      "name": "Perhaps it's because he can't abandon\nhis people and because he trusts you\nall."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320151_03_msg0004",
+      "style": 84,
+      "name": "We feel the same way ourselves."
+    }
+  ]
+}

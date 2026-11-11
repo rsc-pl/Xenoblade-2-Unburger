@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000041_02_msg0001",
+      "style": 84,
+      "name": "This warehouse was damaged, too,\nbut thankfully more than half of\nthe stuff inside was fine."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000041_02_msg0002",
+      "style": 84,
+      "name": "Now, following a decree from the king,\nwe're getting ready to give out food\nand medicines to the whole country."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000041_02_msg0003",
+      "style": 84,
+      "name": "I'm usually a slacker, but by\nIira's crest on my chest, I'll\ngive rescue work my all!"
+    }
+  ]
+}

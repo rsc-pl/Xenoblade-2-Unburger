@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100041_05_msg0001",
+      "style": 62,
+      "name": "The port's packed with people now~\nNo one gets a moment to breathe."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100041_05_msg0002",
+      "style": 62,
+      "name": "People from Acedia, who rarely come\nhere, and even Superbians who were\nsupposed to be at war..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100041_05_msg0003",
+      "style": 62,
+      "name": "In the end, when people\ncan't handle things alone,\nthey have to rely on others."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100041_05_msg0004",
+      "style": 62,
+      "name": "Now then, once this chaos ends,\ncan people keep holding hands?"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701306_msg0001",
+      "style": 84,
+      "name": "I know how thick-skinned he is.\nWe've known each other a long time."
+    },
+    {
+      "$id": 2,
+      "label": "qst701306_msg0002",
+      "style": 84,
+      "name": "He wouldn't die even if a woman\nstabbed him. He's that kind of man."
+    },
+    {
+      "$id": 3,
+      "label": "qst701306_msg0003",
+      "style": 84,
+      "name": "But this time, I have a\nbad feeling. I don't think\nit's possible, but..."
+    },
+    {
+      "$id": 4,
+      "label": "qst701306_msg0101",
+      "style": 84,
+      "name": "...Wait, don't say anything."
+    },
+    {
+      "$id": 5,
+      "label": "qst701306_msg0102",
+      "style": 84,
+      "name": "Just by looking at your faces,\nI can tell it's not good news.\nWhat did that fool do?"
+    },
+    {
+      "$id": 6,
+      "label": "qst701306_msg0103",
+      "style": 84,
+      "name": "Did an old flame find him? Or did he\nget involved with someone else's\nwoman? Did he fall for a honey trap?"
+    },
+    {
+      "$id": 7,
+      "label": "qst701306_msg0104",
+      "style": 84,
+      "name": "There's no way he's dead...\nright?"
+    },
+    {
+      "$id": 8,
+      "label": "qst701306_msg0105",
+      "style": 84,
+      "name": "...Right?"
+    }
+  ]
+}

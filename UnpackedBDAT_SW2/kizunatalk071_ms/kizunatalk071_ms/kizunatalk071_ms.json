@@ -1,0 +1,606 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk071_msg0001",
+      "style": 84,
+      "name": "Uka, we've arrived, mo."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk071_msg0002",
+      "style": 84,
+      "name": "Hey, Tora-tan, what are we\ndoing in a place like this?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk071_msg0003",
+      "style": 84,
+      "name": "We're going to talk to the Divine\nBeast Tortoga, mo."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk071_msg0004",
+      "style": 84,
+      "name": "Tora-tan, you can talk with\nDivine Beasts? I respect that!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk071_msg0005",
+      "style": 84,
+      "name": "Tora won't be the one talking.\nYou will, Uka, mo."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk071_msg0006",
+      "style": 84,
+      "name": "What!? I can't possibly do that!"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk071_msg0007",
+      "style": 84,
+      "name": "I once tried it with Uzushio in\nAvaritia, and I nearly got swallowed!"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk071_msg0008",
+      "style": 84,
+      "name": "That's because it wasn't\nNopon language, mo."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk071_msg0009",
+      "style": 84,
+      "name": "Is that so?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk071_msg0010",
+      "style": 84,
+      "name": "Tortoga here hears the Superbian\nEmpire's language every day, mo."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk071_msg0011",
+      "style": 84,
+      "name": "So if we speak in our own\nlanguage, it will understand us?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk071_msg0012",
+      "style": 84,
+      "name": "That's right, mo."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk071_msg0013",
+      "style": 84,
+      "name": "Tora realized Uka may not\nhave been speaking in the\nother side's language, mo."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk071_msg0014",
+      "style": 84,
+      "name": "Hmm, I wonder if that was the reason?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk071_msg0021",
+      "style": 165,
+      "name": "What should I say to Uka?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk071_msg0022",
+      "style": 164,
+      "name": "You won't know until\nyou try. Go for it!"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk071_msg0023",
+      "style": 164,
+      "name": "I think feelings are more\nimportant than language."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk071_msg0024",
+      "style": 165,
+      "name": "What should I say to Uka?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk071_msg0025",
+      "style": 164,
+      "name": "You should just try it\nand see what happens."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk071_msg0026",
+      "style": 164,
+      "name": "Don't you think what you feel matters\nmore than the words you use?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk071_msg0027",
+      "style": 165,
+      "name": "What should I say to Uka?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk071_msg0028",
+      "style": 164,
+      "name": "You should try it. What\nhave you got to lose?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk071_msg0029",
+      "style": 164,
+      "name": "I think feelings matter\nmore than language..."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk071_msg0030",
+      "style": 165,
+      "name": "What should I say to Uka?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk071_msg0031",
+      "style": 164,
+      "name": "It's worth a try. Give it a shot."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk071_msg0032",
+      "style": 164,
+      "name": "It's the emotions behind the words\nthat matter most, don'tcha think?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk071_msg0101",
+      "style": 84,
+      "name": "You're right. I can try again\nas many times as it takes."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk071_msg0102",
+      "style": 84,
+      "name": "Well then, let's begin..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk071_msg0103",
+      "style": 84,
+      "name": "Tortoga-san, nice to\nmeet you. I'm Uka."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk071_msg0104",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk071_msg0105",
+      "style": 84,
+      "name": "Are you upset that the Superbian\nEmpire remodeled you without asking?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk071_msg0106",
+      "style": 84,
+      "name": "It must feel awful to\nbe forced like that..."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk071_msg0107",
+      "style": 84,
+      "name": "You'd prefer to live more peacefully,\nright? What do you think?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk071_msg0108",
+      "style": 84,
+      "name": "Looks like it's not\ngetting through to him..."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk071_msg0109",
+      "style": 84,
+      "name": "I don't think it's understanding\nwhat we're saying."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk071_msg0110",
+      "style": 84,
+      "name": "So conversation is impossible..."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk071_msg0111",
+      "style": 84,
+      "name": "This didn't work, did it?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk071_msg0112",
+      "style": 84,
+      "name": "Huh!?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk071_msg0113",
+      "style": 84,
+      "name": "Maybe he can hear Uka's voice but\njust can't answer back?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk071_msg0114",
+      "style": 84,
+      "name": "?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk071_msg0115",
+      "style": 84,
+      "name": "The Superbian Empire's\nterrible technology has\nstolen his power to speak!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk071_msg0116",
+      "style": 84,
+      "name": "I won't forgive you, Empire!"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk071_msg0117",
+      "style": 84,
+      "name": "No, no, I don't think\nthey would go that far."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk071_msg0118",
+      "style": 84,
+      "name": "I don't think they would go that far."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk071_msg0119",
+      "style": 84,
+      "name": "That's definitely not what\nhappened. Trust me, Uka."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk071_msg0120",
+      "style": 84,
+      "name": "He still has his tongue,\nand even the Empire wouldn't\nbe that cruel, ya know?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk071_msg0121",
+      "style": 84,
+      "name": "Oh, I guess I was mistaken..."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk071_msg0122",
+      "style": 84,
+      "name": "I thought I found a hint, but it\ndidn't work this time either..."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk071_msg0123",
+      "style": 84,
+      "name": "Too bad, mo..."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk071_msg0124",
+      "style": 84,
+      "name": "Tora slept on it all night to come\nup with this method for Uka..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk071_msg0125",
+      "style": 84,
+      "name": "Uka, I hope it goes well next time!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk071_msg0126",
+      "style": 84,
+      "name": "Uka, I'm sure someday you'll\nbe able to talk freely."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk071_msg0127",
+      "style": 84,
+      "name": "Just keep trying. I'm sure\nyou'll get it eventually, Uka."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk071_msg0128",
+      "style": 84,
+      "name": "With Uka's unbreakable\nspirit, the day will come\nwhen you can talk with them."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk071_msg0129",
+      "style": 84,
+      "name": "Thank you all so much!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk071_msg0130",
+      "style": 84,
+      "name": "I couldn't talk with\nTortoga, but everyone's\nkindness touched my heart."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk071_msg0131",
+      "style": 84,
+      "name": "Uka will keep trying to live up to\neveryone's hopes!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk071_msg0132",
+      "style": 84,
+      "name": "And my ultimate goal is to\nbefriend the Immovable Gonzalez\nand have a picnic with him!"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk071_msg0133",
+      "style": 84,
+      "name": "I'll do my best!"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk071_msg0134",
+      "style": 84,
+      "name": "This is going to take\nquite some time..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk071_msg0135",
+      "style": 84,
+      "name": "A picnic... What kind of food\nwould she pack for that..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk071_msg0136",
+      "style": 84,
+      "name": "I wonder if my lifespan\nwill last that long..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk071_msg0137",
+      "style": 84,
+      "name": "Since he's immovable, won't he\nbe unable to go on a picnic?"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk071_msg0201",
+      "style": 84,
+      "name": "Oh! That's true!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk071_msg0202",
+      "style": 84,
+      "name": "What matters is the desire to connect!\nIt's not about technicalities!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk071_msg0203",
+      "style": 84,
+      "name": "Then let's ask Saika, mo."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk071_msg0204",
+      "style": 84,
+      "name": "Why?"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk071_msg0205",
+      "style": 84,
+      "name": "Saika can call forth Luxuria's\nDivine Beast, so she must be able to\ncommunicate with it, mo."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk071_msg0206",
+      "style": 84,
+      "name": "She did make Genbu emerge from\nthe Cloud Sea. It could work."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk071_msg0207",
+      "style": 84,
+      "name": "That's a good idea. Maybe\nwe should do it like when\nwe went to Luxuria."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk071_msg0208",
+      "style": 84,
+      "name": "Hmm... That was a blind spot.\nIt's worth asking her."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk071_msg0209",
+      "style": 84,
+      "name": "Good idea. Saika might\nactually be able to do it."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk071_msg0210",
+      "style": 84,
+      "name": "Saika-san, I'd really\nappreciate your help!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk071_msg0211",
+      "style": 84,
+      "name": "Thing is, my abilities might\nonly work with Genbu, ya know?"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk071_msg0212",
+      "style": 84,
+      "name": "No, I want to try. Could you teach me?"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk071_msg0213",
+      "style": 84,
+      "name": "Sure."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk071_msg0214",
+      "style": 84,
+      "name": "First, place your hand on your chest."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk071_msg0215",
+      "style": 84,
+      "name": "Then, visualize the Divine Beast\nand try speaking to it gently."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk071_msg0216",
+      "style": 84,
+      "name": "...Hello? Can you hear Uka's voice?"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk071_msg0217",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk071_msg0218",
+      "style": 84,
+      "name": "...Hello? Please talk to Uka!"
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk071_msg0219",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk071_msg0220",
+      "style": 84,
+      "name": "...Do you hear anything?"
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk071_msg0221",
+      "style": 84,
+      "name": "...There's no response at all."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk071_msg0222",
+      "style": 84,
+      "name": "Eh? ...You can't hear anything?"
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk071_msg0223",
+      "style": 84,
+      "name": "That's right, I can't hear a thing."
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk071_msg0224",
+      "style": 84,
+      "name": "Perhaps it's because I don't\nhave ears like Saika-san?"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk071_msg0225",
+      "style": 84,
+      "name": "Ears?"
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk071_msg0226",
+      "style": 84,
+      "name": "Because Uka's ears aren't\npointed like Saika-san's."
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk071_msg0227",
+      "style": 84,
+      "name": "I don't think that's related...\nBut Kaku-tan and Suke-tan's\nears are pointed too."
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk071_msg0228",
+      "style": 84,
+      "name": "Y-you're right!"
+    },
+    {
+      "$id": 92,
+      "label": "kizunatalk071_msg0229",
+      "style": 84,
+      "name": "Kaku-tan and Suke-tan can\nhear the Divine Beasts, but\nthey aren't telling Uka!"
+    },
+    {
+      "$id": 93,
+      "label": "kizunatalk071_msg0234",
+      "style": 84,
+      "name": "This is such a betrayal!"
+    },
+    {
+      "$id": 94,
+      "label": "kizunatalk071_msg0235",
+      "style": 84,
+      "name": "They both seem confused... It\nwas just a little joke..."
+    },
+    {
+      "$id": 95,
+      "label": "kizunatalk071_msg0230",
+      "style": 84,
+      "name": "*sigh* It looks like the\nday Uka can talk with\nanimals is still far off."
+    },
+    {
+      "$id": 96,
+      "label": "kizunatalk071_msg0231",
+      "style": 84,
+      "name": "*sigh* I wonder when the\nday will come that Uka can\ntalk with animals..."
+    },
+    {
+      "$id": 97,
+      "label": "kizunatalk071_msg0232",
+      "style": 84,
+      "name": "*sigh* The day when Uka can\ntalk with animals seems like\nit will be far in the future."
+    },
+    {
+      "$id": 98,
+      "label": "kizunatalk071_msg0233",
+      "style": 84,
+      "name": "*sigh* When will the day come\nwhen Uka can talk to animals..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst610204_msg0001",
+      "style": 84,
+      "name": "Mo-mo! Thanks for helping me last\ntime, mo~."
+    },
+    {
+      "$id": 2,
+      "label": "qst610204_msg0002",
+      "style": 84,
+      "name": "As you know, Jizo is a cylinder\ncraftsman, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst610204_msg0003",
+      "style": 84,
+      "name": "Bring me the materials and I'll make\nyou an amazing cylinder, mo~."
+    },
+    {
+      "$id": 4,
+      "label": "qst610204_msg0004",
+      "style": 84,
+      "name": "That turned out pretty well, mo. Good\nluck Salvaging, mo~."
+    }
+  ]
+}

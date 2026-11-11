@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000141_01_msg0001",
+      "style": 84,
+      "name": "This place takes me back."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000141_01_msg0002",
+      "style": 84,
+      "name": "I was born here, as a Blade."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000141_01_msg0003",
+      "style": 84,
+      "name": "Though not much has\nchanged in 800 years."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000141_01_msg0004",
+      "style": 84,
+      "name": "That's proof that the Kingdom of Iira\nhas prospered."
+    }
+  ]
+}

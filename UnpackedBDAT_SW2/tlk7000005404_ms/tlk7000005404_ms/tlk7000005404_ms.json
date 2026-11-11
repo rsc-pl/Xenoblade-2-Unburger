@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000054_01_msg0001",
+      "style": 84,
+      "name": "Thanks to your efforts, the king\ngranted the resistance army\nofficial military status in Iira."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000054_01_msg0002",
+      "style": 84,
+      "name": "Now we can get on with forging\ncloser connections with the army."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000054_01_msg0003",
+      "style": 84,
+      "name": "Until now, some heartless people\nlooked down on us as just a ragtag\ngroup, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000054_01_msg0004",
+      "style": 84,
+      "name": "From now on, everyone will surely act\nwith pride in the name 'resistance.'"
+    }
+  ]
+}

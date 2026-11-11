@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000038_04_msg0001",
+      "style": 84,
+      "name": "Iira looks incredible right now, mo!\nIt's almost unreal, mo!!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000038_04_msg0002",
+      "style": 84,
+      "name": "But... no matter how much Iira\nchanges, Popolo's daily life stays the\nsame, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000038_04_msg0003",
+      "style": 84,
+      "name": "Taking care of Chairman Morumo and\nrestocking his fluffy potatoes..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000038_04_msg0004",
+      "style": 84,
+      "name": "I'll join everyone in the shopping\nward and overcome every hardship, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000038_04_msg0005",
+      "style": 84,
+      "name": "After coming this far, I've actually\nmade up my mind, mo."
+    }
+  ]
+}

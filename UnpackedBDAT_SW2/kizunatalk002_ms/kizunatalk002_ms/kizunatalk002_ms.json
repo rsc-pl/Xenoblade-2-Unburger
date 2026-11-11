@@ -1,0 +1,474 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk002_msg001",
+      "style": 84,
+      "name": "Kagutsuchi, I found something\ninteresting in that shop over there."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk002_msg002",
+      "style": 84,
+      "name": "Interesting?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk002_msg003",
+      "style": 84,
+      "name": "Yes, here it is."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk002_msg004",
+      "style": 84,
+      "name": "What is that? It looks\nquite grotesque..."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk002_msg005",
+      "style": 84,
+      "name": "Isn't that an Avaritia Monkfish?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk002_msg006",
+      "style": 84,
+      "name": "You're familiar with\nthis, Meleph-sama?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk002_msg007",
+      "style": 84,
+      "name": "It's a high-class ingredient you can\nonly get around here. It tastes great."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk002_msg008",
+      "style": 84,
+      "name": "People eat this monstrous fish?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk002_msg009",
+      "style": 84,
+      "name": "Its appearance is questionable,\nbut I hear it's really delicious."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk002_msg010",
+      "style": 84,
+      "name": "Since we have this opportunity, I'd\nlike to cook something with it, but\nI don't know how to prepare it..."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk002_msg011",
+      "style": 84,
+      "name": "Meleph-san, if you know how to\nprepare it, would you teach me?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk002_msg231",
+      "style": 165,
+      "name": "How should I answer..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk002_msg012",
+      "style": 164,
+      "name": "I'm not very good at cooking..."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk002_msg013",
+      "style": 164,
+      "name": "...Leave it to me."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk002_msg101",
+      "style": 84,
+      "name": "It's alright. I'll handle\nthe troublesome parts."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk002_msg102",
+      "style": 84,
+      "name": "Meleph-san, I'd just need you\nto explain the cooking method\nand handle the seasoning."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk002_msg103",
+      "style": 84,
+      "name": "If that's all, then\nperhaps... I can manage."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk002_msg104",
+      "style": 84,
+      "name": "Are you sure, Meleph-sama? Can\nyou really handle the seasoning?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk002_msg105",
+      "style": 84,
+      "name": "D-don't worry. My taste\nbuds are quite reliable..."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk002_msg106",
+      "style": 84,
+      "name": "So, could you first explain\nhow to prepare it...?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk002_msg107",
+      "style": 84,
+      "name": "...I see. While it's commonly\ngrilled or served raw, I hear it's\nabsolutely delicious in a stew."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk002_msg108",
+      "style": 84,
+      "name": "That sounds great... Then,\nMeleph-san, could you prepare\nthe broth for the stew?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk002_msg109",
+      "style": 84,
+      "name": "Understood. If I recall correctly,\nthe stock is made from the liver."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk002_msg110",
+      "style": 84,
+      "name": "Then I think I can leave\nthat part to you. I'll go\nget the other ingredients."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk002_msg111",
+      "style": 84,
+      "name": "...Got it."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk002_msg112",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk002_msg113",
+      "style": 84,
+      "name": "...Kagutsuchi?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk002_msg114",
+      "style": 84,
+      "name": "Yes, what is it?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk002_msg115",
+      "style": 84,
+      "name": "Do we have to start by cutting\nup this revolting fish?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk002_msg116",
+      "style": 84,
+      "name": "Well, yes. Can you do it?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk002_msg117",
+      "style": 84,
+      "name": "No... To begin with, I don't even\nknow which part is the liver."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk002_msg118",
+      "style": 84,
+      "name": "Anyway, let's try cutting\nit open with a knife."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk002_msg119",
+      "style": 84,
+      "name": "R-right..."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk002_msg120",
+      "style": 84,
+      "name": "...Kagutsuchi?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk002_msg121",
+      "style": 84,
+      "name": "What is it this time?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk002_msg122",
+      "style": 84,
+      "name": "The heart... The heart\nis still beating!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk002_msg123",
+      "style": 84,
+      "name": "What should I do? Should\nI finish it off?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk002_msg124",
+      "style": 84,
+      "name": "Y-yes, probably. We wouldn't\nwant it to fight back."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk002_msg125",
+      "style": 84,
+      "name": "Kagutsuchi!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk002_msg126",
+      "style": 84,
+      "name": "Its eyes... It's looking at me. Its\nmouth is moving like it's trying to\ntell me something..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk002_msg127",
+      "style": 84,
+      "name": "It must resent me for taking its\nheart."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk002_msg128",
+      "style": 84,
+      "name": "It's no good... I can't keep\ntormenting the dead..."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk002_msg129",
+      "style": 84,
+      "name": "Kagutsuchi, I'll leave\nthe rest to you."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk002_msg130",
+      "style": 84,
+      "name": "Wait just a minute! You\ncan't just dump this on me!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk002_msg131",
+      "style": 84,
+      "name": "I'm sorry!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk002_msg132",
+      "style": 84,
+      "name": "Meleph-sama! Fleeing before the\nenemy is a grave offense!!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk002_msg201",
+      "style": 84,
+      "name": "Um, Meleph-sama, are you\nreally sure about this?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk002_msg202",
+      "style": 84,
+      "name": "Ah, don't worry."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk002_msg203",
+      "style": 84,
+      "name": "So, shall we begin by\ngutting the fish?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk002_msg204",
+      "style": 84,
+      "name": "What?"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk002_msg205",
+      "style": 84,
+      "name": "What's wrong?"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk002_msg206",
+      "style": 84,
+      "name": "...Gut it? This thing?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk002_msg207",
+      "style": 84,
+      "name": "That's right. We can't\ncook it as it is."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk002_msg208",
+      "style": 84,
+      "name": "...Fine. Everything's a challenge.\nLet's do this."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk002_msg209",
+      "style": 84,
+      "name": "You can do it, Meleph-sama!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk002_msg210",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk002_msg211",
+      "style": 84,
+      "name": "...Kagutsuchi."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk002_msg212",
+      "style": 84,
+      "name": "Yes?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk002_msg213",
+      "style": 84,
+      "name": "Hold down this thing's head."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk002_msg214",
+      "style": 84,
+      "name": "What?! No, I'd rather\nnot... touch it..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk002_msg215",
+      "style": 84,
+      "name": "It's hard to deliver the final\nblow when it's staring at me."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk002_msg216",
+      "style": 84,
+      "name": "No, but..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk002_msg217",
+      "style": 84,
+      "name": "I'm begging you! Please\ncover its eyes for me!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk002_msg218",
+      "style": 84,
+      "name": "Very well. I cannot allow myself\nto be defeated by a mere fish!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk002_msg219",
+      "style": 84,
+      "name": "Kyaaaaaaaaa!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk002_msg220",
+      "style": 84,
+      "name": "What's wrong?!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk002_msg221",
+      "style": 84,
+      "name": "Our eyes met!\nCould it still be alive?!"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk002_msg222",
+      "style": 84,
+      "name": "Impossible!? Then I'll finish\nit off before it attacks!"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk002_msg223",
+      "style": 84,
+      "name": "It's opening its mouth!?"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk002_msg224",
+      "style": 84,
+      "name": "Meleph-sama, the enemy intends to\neat us! Quickly, finish it off!"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk002_msg225",
+      "style": 84,
+      "name": "Here I go, Blue Flame Sword!"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk002_msg226",
+      "style": 84,
+      "name": "Wait a minute! If you do that,\nthe ingredients will..."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk002_msg227",
+      "style": 84,
+      "name": "...Well, Kagutsuchi?"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk002_msg228",
+      "style": 84,
+      "name": "As expected of Meleph-sama. The\nenemy has vanished without a trace."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk002_msg229",
+      "style": 84,
+      "name": "Hmph, mission accomplished."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk002_msg230",
+      "style": 84,
+      "name": "What are you doing! There's\nnothing left to eat!!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46310171_03_msg0001",
+      "style": 84,
+      "name": "Malbeni-sama is performing a ritual.\nNo one is permitted to interrupt."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46310171_03_msg0002",
+      "style": 84,
+      "name": "I can't give details,\nbut you'll know soon.\nIt's a rite to bring peace."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46310171_03_msg0003",
+      "style": 84,
+      "name": "One day you'll see\nthe Holy See's greatness\nand bow your heads."
+    }
+  ]
+}

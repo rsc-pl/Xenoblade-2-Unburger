@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000002_03_msg0001",
+      "style": 84,
+      "name": "Welcome, welcome, mooo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000002_03_msg0002",
+      "style": 84,
+      "name": "We're holding a 10% off sale to\ncelebrate the birth of a new\nKnight-sama, mooo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000002_03_msg0003",
+      "style": 84,
+      "name": "Ah, custome- I mean, Knight-sama, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000002_03_msg0004",
+      "style": 84,
+      "name": "Th-this isn't taking advantage of a\nhappy occasion, mo? I just want to\ncelebrate the new Knight-sama, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000002_03_msg0005",
+      "style": 84,
+      "name": "Mo? We can do even more? As expected\nof Knight-sama, so generous, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000002_03_msg0006",
+      "style": 84,
+      "name": "Then I'll go all out and make it 20%\noff starting now, mooo! Welcome, mooo!"
+    }
+  ]
+}

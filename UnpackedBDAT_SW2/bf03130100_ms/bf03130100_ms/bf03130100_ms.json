@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf03130100_0010",
+      "style": 82,
+      "name": "I was asked to investigate an abnormal power reading\nnear Great Steam Vent."
+    },
+    {
+      "$id": 2,
+      "label": "bf03130100_0020",
+      "style": 82,
+      "name": "How do ya feel about helping us out?"
+    },
+    {
+      "$id": 3,
+      "label": "bf03130100_0040",
+      "style": 82,
+      "name": "Sure. But I expect to get paid for the work."
+    },
+    {
+      "$id": 4,
+      "label": "bf03130100_0050",
+      "style": 82,
+      "name": "Well said! Alright then, let's go!"
+    }
+  ]
+}

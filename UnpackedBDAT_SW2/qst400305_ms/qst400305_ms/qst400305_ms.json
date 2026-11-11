@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400305_msg0001",
+      "style": 84,
+      "name": "That must be the one\nChepaan-san mentioned."
+    },
+    {
+      "$id": 2,
+      "label": "qst400305_msg0002",
+      "style": 84,
+      "name": "Just as I heard, it looks tough."
+    },
+    {
+      "$id": 3,
+      "label": "qst400305_msg0003",
+      "style": 84,
+      "name": "Tora wants to fight too,\nbut all I'd be good for is\na decoy or bait, mo..."
+    },
+    {
+      "$id": 4,
+      "label": "qst400305_msg0101",
+      "style": 84,
+      "name": "We don't need you to do that!\nLeave it to us! Right, Homura?"
+    },
+    {
+      "$id": 5,
+      "label": "qst400305_msg0102",
+      "style": 84,
+      "name": "Yes!"
+    },
+    {
+      "$id": 6,
+      "label": "qst400305_msg0103",
+      "style": 84,
+      "name": "But don't rely only on my\npower. Please make use of\neveryone's strength."
+    },
+    {
+      "$id": 7,
+      "label": "qst400305_msg0104",
+      "style": 84,
+      "name": "That way, even if Rex is the\nonly Driver, our fighting\nstrength will be doubled."
+    },
+    {
+      "$id": 8,
+      "label": "qst400305_msg0105",
+      "style": 84,
+      "name": "Yeah... you're right."
+    },
+    {
+      "$id": 9,
+      "label": "qst400305_msg0106",
+      "style": 84,
+      "name": "Alright, let's go!"
+    }
+  ]
+}

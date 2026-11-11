@@ -1,0 +1,576 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk074_msg0001",
+      "style": 84,
+      "name": "This is the place."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk074_msg0002",
+      "style": 84,
+      "name": "Welcome! Looking for something, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk074_msg0003",
+      "style": 84,
+      "name": "Yes, I'm looking for historical\ntexts and ancient documents. I\nheard you received some recently."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk074_msg0004",
+      "style": 84,
+      "name": "You have good ears, customer, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk074_msg0005",
+      "style": 84,
+      "name": "We've received many rare books you\nwon't find in other shops, mo."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk074_msg0006",
+      "style": 84,
+      "name": "Really? You're getting my hopes up!"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk074_msg0007",
+      "style": 84,
+      "name": "Take your time looking, mo. I'm\nsure you'll be satisfied, mo."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk074_msg0008",
+      "style": 84,
+      "name": "Of course, that's what I\nintend to do. Now, let's\nsee, the selection is..."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk074_msg0009",
+      "style": 84,
+      "name": "Huh, not just books, but also\nstone tablets and scrolls too."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk074_msg0010",
+      "style": 84,
+      "name": "Ah, what's this! A history\nof Superbian architecture?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk074_msg0011",
+      "style": 84,
+      "name": "They even have something like this.\nNice, this looks interesting."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk074_msg0012",
+      "style": 84,
+      "name": "Hey, Pelala, did you get what I\nordered, mo?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk074_msg0014",
+      "style": 84,
+      "name": "Well well, thank you for\nyour regular patronage."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk074_msg0015",
+      "style": 84,
+      "name": "It came in recently,\nmo... Let's see..."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk074_msg0016",
+      "style": 84,
+      "name": "Ah, there it is! The book that young\nlady is holding, mo."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk074_msg0017",
+      "style": 84,
+      "name": "Hm?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk074_msg0018",
+      "style": 84,
+      "name": "...Excuse me, mo. You there."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk074_msg0019",
+      "style": 84,
+      "name": "That's the book I've been looking\nfor, mo. Hand it over, mo."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk074_msg0020",
+      "style": 84,
+      "name": "What? Sorry... I was planning\nto read this myself..."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk074_msg0021",
+      "style": 84,
+      "name": "Sorry, but I ordered that first, mo."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk074_msg0022",
+      "style": 84,
+      "name": "Hand it over quickly, mo."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk074_msg0023",
+      "style": 84,
+      "name": "I refuse. I was the first\nto get my hands on it."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk074_msg0024",
+      "style": 84,
+      "name": "Slow on the uptake, mo. I\nsaid that book is mine, mo."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk074_msg0025",
+      "style": 84,
+      "name": "Who exactly are you calling dense?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk074_msg0026",
+      "style": 84,
+      "name": "Are you aware of who you're\naddressing with such disrespect?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk074_msg0027",
+      "style": 84,
+      "name": "I don't know who you are,\nand I don't care, mo."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk074_msg0028",
+      "style": 84,
+      "name": "Now hand over the book, mo!"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk074_msg0029",
+      "style": 84,
+      "name": "Geez, what a stubborn Nopon. Alright,\nI'll let you have the book."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk074_msg0030",
+      "style": 84,
+      "name": "Finally, mo! You should have\ndone that from the start..."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk074_msg0031",
+      "style": 84,
+      "name": "But wait! That is, only\nif you can defeat me in\na contest of knowledge!"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk074_msg0032",
+      "style": 84,
+      "name": "Hmm... So you want to challenge my\nknowledge, mo?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk074_msg0033",
+      "style": 84,
+      "name": "Interesting... I'll turn\nthe tables on you, mo!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk074_msg0101",
+      "style": 84,
+      "name": "Well then, what subject\nshall we select?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk074_msg0102",
+      "style": 84,
+      "name": "To keep it fair, let's ask\nthat Driver over there to\nchoose the topic, mo."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk074_msg0034",
+      "style": 165,
+      "name": "What would be a good topic?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk074_msg0035",
+      "style": 164,
+      "name": "How about the history of Avaritia?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk074_msg0036",
+      "style": 164,
+      "name": "How about the history of Invidia?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk074_msg0103",
+      "style": 165,
+      "name": "What would be a good topic?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk074_msg0104",
+      "style": 164,
+      "name": "The history of Avaritia, of course."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk074_msg0105",
+      "style": 164,
+      "name": "The history of Invidia, of course."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk074_msg0106",
+      "style": 165,
+      "name": "What would be a good topic?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk074_msg0107",
+      "style": 164,
+      "name": "The history of Avaritia, perhaps?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk074_msg0108",
+      "style": 164,
+      "name": "The history of Invidia, perhaps?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk074_msg0109",
+      "style": 165,
+      "name": "What would be a good topic?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk074_msg0110",
+      "style": 164,
+      "name": "The history of Avaritia, I reckon."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk074_msg0111",
+      "style": 164,
+      "name": "The history of Invidia, I reckon."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk074_msg0201",
+      "style": 84,
+      "name": "Excellent choice! Shall we begin?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk074_msg0037",
+      "style": 84,
+      "name": "Avaritia was reportedly founded\nby a Nopon merchant..."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk074_msg0038",
+      "style": 84,
+      "name": "Naturally, that much is common\nknowledge, mo. And that Nopon\nwas a Driver too, mo."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk074_msg0039",
+      "style": 84,
+      "name": "So, about that Nopon Driver..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk074_msg0040",
+      "style": 84,
+      "name": "Do you know that he used his\nBlade not as a tool for battle,\nbut as a tool for business?"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk074_msg0041",
+      "style": 84,
+      "name": "In the turbulent war period, he\nmaximized his Blade's capabilities..."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk074_msg0042",
+      "style": 84,
+      "name": "They say he actively went to\nplaces struck by war or disaster\nand profited through trade, mo."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk074_msg0043",
+      "style": 84,
+      "name": "Additionally, this Nopon..."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk074_msg0044",
+      "style": 84,
+      "name": "He is also said to be a\ndescendant of Captain Nopopon..."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk074_msg0045",
+      "style": 84,
+      "name": "Captain Nopopon commanded\nthe entire Cloud Sea..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk074_msg0047",
+      "style": 84,
+      "name": "He is called the man who gave\nrise to what later became the\nNopon Trade Guild, mo."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk074_msg0202",
+      "style": 84,
+      "name": "Being the descendant of such\nan illustrious figure..."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk074_msg0203",
+      "style": 84,
+      "name": "It's hardly surprising\nthat he established the\nAvaritia Trading Company."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk074_msg0301",
+      "style": 84,
+      "name": "All right. Let's get started, mo!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk074_msg0048",
+      "style": 84,
+      "name": "The modern nation of Invidia..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk074_msg0049",
+      "style": 84,
+      "name": "...is governed by six great\nnoble lines, foremost among\nthem the Duchy of Selosia."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk074_msg0050",
+      "style": 84,
+      "name": "But long ago, it was\ngoverned not by six noble\nhouses, but by nine, mo!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk074_msg0051",
+      "style": 84,
+      "name": "Among them was the Duchy of\nEnvia, which held power nearly\nequal to Selosia's, mo."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk074_msg0052",
+      "style": 84,
+      "name": "But the leader of Envia, a man\nnamed Hannes, died suddenly in\nmysterious circumstances..."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk074_msg0053",
+      "style": 84,
+      "name": "His eldest son, Giani, succeeded him,\nbut died of illness just a few\nyears later, mo."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk074_msg0054",
+      "style": 84,
+      "name": "Next in line was Giani's younger\nbrother Philip, but he too died of\nillness before his twentieth birthday."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk074_msg0055",
+      "style": 84,
+      "name": "Thus the Duchy of Envia\nfell from power..."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk074_msg0056",
+      "style": 84,
+      "name": "The Duke of Selosia then united the\nother great nobles and began calling\nhimself King of Invidia, mo."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk074_msg0057",
+      "style": 84,
+      "name": "Many mysteries yet remain\nsurrounding the deaths of\nthe Envian heirs..."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk074_msg0058",
+      "style": 84,
+      "name": "Some still say it was a plot by the\nother great nobles, mo."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk074_msg0059",
+      "style": 84,
+      "name": "But the tale does not end there."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk074_msg0060",
+      "style": 84,
+      "name": "Indeed. Before his death, Hannes,\nEnvia's head, had a hidden child\nwith a Gulan woman, mo."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk074_msg0061",
+      "style": 84,
+      "name": "And it is often claimed that\ntheir descendants live on to\nthis day, somewhere in Gula."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk074_msg0062",
+      "style": 84,
+      "name": "If this theory were to be proven..."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk074_msg0063",
+      "style": 84,
+      "name": "It would be a major incident\naffecting the current Invidian\nroyal family's survival, mo..."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk074_msg0064",
+      "style": 84,
+      "name": "Impressive! You certainly deserve\nyour reputation as a scholar."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk074_msg0065",
+      "style": 84,
+      "name": "Not at all! Your knowledge is\nimpressive too, mo."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk074_msg0066",
+      "style": 84,
+      "name": "Not many can keep up with\nmy talks on history, mo."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk074_msg0067",
+      "style": 84,
+      "name": "Shall we consider this a draw?"
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk074_msg0068",
+      "style": 84,
+      "name": "That's right, mo. That's right, mo.\nNeither of us came out on top, mo."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk074_msg0069",
+      "style": 84,
+      "name": "Um... So who will be\nbuying the book, mo?"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk074_msg0070",
+      "style": 84,
+      "name": "...You can have the book, mo."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk074_msg0071",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk074_msg0072",
+      "style": 84,
+      "name": "If you're the one reading it, I'm\nsure the book will be happy too, mo."
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk074_msg0073",
+      "style": 84,
+      "name": "Thank you. I'll take good care of it."
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk074_msg0074",
+      "style": 84,
+      "name": "If we get another chance, I'd like\nanother heated battle, mo."
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk074_msg0075",
+      "style": 84,
+      "name": "Yeah. By then, I'll have\nlearned a lot more."
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk074_msg0076",
+      "style": 84,
+      "name": "Then I'll take this book, please."
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk074_msg0077",
+      "style": 84,
+      "name": "Thank you for your purchase,\nmo! That'll be 70,000G, mo."
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk074_msg0078",
+      "style": 84,
+      "name": "Wow, that's more affordable\nthan I expected..."
+    },
+    {
+      "$id": 92,
+      "label": "kizunatalk074_msg0079",
+      "style": 84,
+      "name": "Oh!"
+    },
+    {
+      "$id": 93,
+      "label": "kizunatalk074_msg0401",
+      "style": 84,
+      "name": "...I just realized I don't\nhave any money on me."
+    }
+  ]
+}

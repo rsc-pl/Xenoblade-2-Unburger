@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4130012101_msg0001",
+      "style": 84,
+      "name": "Oh! Glad you came! Thanks to you,\nthe work is moving along. Thanks\nfor helping with the repairs!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4130012101_msg0002",
+      "style": 84,
+      "name": "By the way, about those Tirkin,\nthey're helping with guard duty\nover at Rahim's place."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4130012101_msg0003",
+      "style": 84,
+      "name": "You gave them a good scolding and they\nwere feeling down, so I invited them.\nThey're a pretty reasonable bunch."
+    }
+  ]
+}

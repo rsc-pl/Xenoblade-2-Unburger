@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000022_03_msg0001",
+      "style": 84,
+      "name": "There's a limit to how many\npeople and supplies we can\npack into this one shelter."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000022_03_msg0002",
+      "style": 84,
+      "name": "We need far more shelters, and far\nmore space. I also want to test their\nstrength as thoroughly as possible."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000022_03_msg0003",
+      "style": 84,
+      "name": "We can't stop just because\nwe finished one decent shelter."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000022_03_msg0004",
+      "style": 84,
+      "name": "There's a lot to be done and\ntime isn't on our side."
+    }
+  ]
+}

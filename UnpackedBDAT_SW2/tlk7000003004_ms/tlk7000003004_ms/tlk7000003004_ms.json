@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000030_04_msg0001",
+      "style": 84,
+      "name": "So, you're all leaving?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000030_04_msg0002",
+      "style": 84,
+      "name": "I...have to stay here. This city\nis the only home I have left."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000030_04_msg0003",
+      "style": 84,
+      "name": "The restaurant is just\nscraping by, but I still\nhave a few regular customers."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000030_04_msg0004",
+      "style": 84,
+      "name": "They barge into the restaurant without\ncaring how depressed I am. Honestly,\nthey're a real nuisance."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000030_04_msg0005",
+      "style": 84,
+      "name": "But thanks to that, I feel just a\nlittle... just a little more positive."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000030_04_msg0006",
+      "style": 84,
+      "name": "So I feel like one more little push\nmight be enough for me to recover..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000030_04_msg0007",
+      "style": 84,
+      "name": "Sorry for hinting at something when\nyou're just about to leave..."
+    },
+    {
+      "$id": 8,
+      "label": "tlk70000030_04_msg0008",
+      "style": 84,
+      "name": "Adel-sama, Laura-sama, everyone...\nPlease come back safely."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001005_msg001",
+      "style": 84,
+      "name": "I'm glad everyone is\nsafe. What a relief."
+    },
+    {
+      "$id": 2,
+      "label": "qst001005_msg002",
+      "style": 84,
+      "name": "From now on, an adult should\ngo with them so they can\nhandle any monster attacks."
+    },
+    {
+      "$id": 3,
+      "label": "qst001005_msg003",
+      "style": 84,
+      "name": "...Well, I'll discuss that with\nYuu-san. You guys really saved us."
+    },
+    {
+      "$id": 4,
+      "label": "qst001005_msg004",
+      "style": 84,
+      "name": "Oh, right... Please take this."
+    },
+    {
+      "$id": 5,
+      "label": "qst001005_msg005",
+      "style": 84,
+      "name": "It's not much, but it's a token of\nour gratitude for what you did."
+    },
+    {
+      "$id": 6,
+      "label": "qst001005_msg006",
+      "style": 84,
+      "name": "We should be the ones thanking you.\nYou were a great help, thanks!"
+    }
+  ]
+}

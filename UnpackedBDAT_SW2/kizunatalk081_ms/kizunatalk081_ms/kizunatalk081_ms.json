@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk081_msg0001",
+      "style": 84,
+      "name": "Something the matter, Menou?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk081_msg0002",
+      "style": 84,
+      "name": "Menou, everything okay?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk081_msg0003",
+      "style": 84,
+      "name": "Menou? Is something troubling you?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk081_msg0004",
+      "style": 84,
+      "name": "What's bothering you, Menou?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk081_msg0005",
+      "style": 84,
+      "name": "Take a look at this."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk081_msg0006",
+      "style": 84,
+      "name": "...Have you thought about\nwhat these ruins' walls and\nfloors might be made of?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk081_msg0007",
+      "style": 84,
+      "name": "Just ordinary stone, mo?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk081_msg0008",
+      "style": 84,
+      "name": "I initially thought they\nwere just quarried stones\nput together too, but..."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk081_msg0009",
+      "style": 84,
+      "name": "With natural materials, processed and\nput together, you'd expect some flaws,\nsome deformations somewhere..."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk081_msg0010",
+      "style": 84,
+      "name": "With this ruin shooting into the\nsky, even small ground-level\nvariations would make it tilt over."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk081_msg0011",
+      "style": 84,
+      "name": "So how do you think they\nactually built this place?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk081_msg0012",
+      "style": 84,
+      "name": "Then how do you figure they\nconstructed these ruins?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk081_msg0013",
+      "style": 84,
+      "name": "So what's your explanation for\nhow these ruins came to be?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk081_msg0014",
+      "style": 84,
+      "name": "So how'd they manage to\nbuild something like this?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk081_msg0015",
+      "style": 84,
+      "name": "They stacked perfectly cut materials\nfrom the ground to the sky\nwithout the slightest misalignment."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk081_msg0016",
+      "style": 84,
+      "name": "And the durability is\njust extraordinary."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk081_msg0017",
+      "style": 84,
+      "name": "Over hundreds, thousands, or tens of\nthousands of years, the walls and\nfloors didn't break or become brittle."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk081_msg0019",
+      "style": 84,
+      "name": "People back then were amazing, mo!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk081_msg0020",
+      "style": 84,
+      "name": "We couldn't possibly achieve this\nwith our current technology."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk081_msg0021",
+      "style": 84,
+      "name": "I wonder what minerals and materials\nthey used to build these ruins..."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk081_msg0022",
+      "style": 84,
+      "name": "The World Tree is just one\nmystery after another..."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk081_msg0023",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk081_msg0024",
+      "style": 164,
+      "name": "You seem super enthusiastic\nabout all this."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk081_msg0025",
+      "style": 164,
+      "name": "Doesn't seem to be any\nbugs around here."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk081_msg0026",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk081_msg0027",
+      "style": 164,
+      "name": "You're quite pumped\nabout this, aren't you?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk081_msg0028",
+      "style": 164,
+      "name": "This place is bug-free, I see."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk081_msg0029",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk081_msg0030",
+      "style": 164,
+      "name": "You appear quite\nexhilarated at the moment."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk081_msg0031",
+      "style": 164,
+      "name": "Appears to be a bug-free environment."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk081_msg0032",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk081_msg0033",
+      "style": 164,
+      "name": "You're super excited\nright now, aren't ya?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk081_msg0034",
+      "style": 164,
+      "name": "Not a bug in sight 'round here..."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk081_msg0101",
+      "style": 84,
+      "name": "Of course!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk081_msg0102",
+      "style": 84,
+      "name": "I'm curious about how it's built, but\nI love adventure too!"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk081_msg0103",
+      "style": 84,
+      "name": "Just imagining the thoughts of the\nancient people who built this place...\ndoesn't that make your heart race?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk081_msg0104",
+      "style": 84,
+      "name": "Unknown writing, mysterious devices\nand traps..."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk081_msg0105",
+      "style": 84,
+      "name": "All these artifacts crafted from\nmaterials completely foreign to us..."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk081_msg0106",
+      "style": 84,
+      "name": "Just being here gets me excited\nand fired up!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk081_msg0107",
+      "style": 84,
+      "name": "I totally get it!"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk081_msg0108",
+      "style": 84,
+      "name": "Yeah, I can relate to that feeling."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk081_msg0109",
+      "style": 84,
+      "name": "Heh... I suppose I can\nappreciate that sentiment."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk081_msg0110",
+      "style": 84,
+      "name": "Too right, I totally understand."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk081_msg0111",
+      "style": 84,
+      "name": "Building something this enormous\nmust have required countless\nworkers toiling together..."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk081_msg0112",
+      "style": 84,
+      "name": "Just constructing these floors\nand walls must have taken an\nunbelievable amount of time..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk081_msg0113",
+      "style": 84,
+      "name": "All the feelings of so many people\nare carefully preserved here."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk081_msg0114",
+      "style": 84,
+      "name": "So this place is a crystallization\nof the ancients' feelings."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk081_msg0115",
+      "style": 84,
+      "name": "So this place is a crystallization\nof the ancients' feelings?"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk081_msg0116",
+      "style": 84,
+      "name": "I see, so this place is\nthe crystallization of\nancient people's thoughts."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk081_msg0117",
+      "style": 84,
+      "name": "So this place is the crystallization\nof ancient people's thoughts, eh."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk081_msg0118",
+      "style": 84,
+      "name": "Wow, that's pretty passionate."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk081_msg0119",
+      "style": 84,
+      "name": "You'd never find a crystallization\nof feelings this beautiful in Alst."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk081_msg0120",
+      "style": 84,
+      "name": "Let's search every inch of these ruins\nand take home all the feelings\nthe ancients left behind!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk081_msg0201",
+      "style": 84,
+      "name": "Hold on! Why do you sound\ndisappointed about that!?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk081_msg0202",
+      "style": 84,
+      "name": "I was just relieved that the World\nTree's interior doesn't seem like\nthe place where bugs would thrive!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk081_msg0203",
+      "style": 84,
+      "name": "With a name like \"World Tree,\"\nI was bracing myself for a\nbug-infested nightmare, but..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk081_msg0204",
+      "style": 84,
+      "name": "So that's why you were\nexploring in good spirits."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk081_msg0205",
+      "style": 84,
+      "name": "So that's why you were\nexploring in such a good mood."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk081_msg0206",
+      "style": 84,
+      "name": "So that's why you were\nexploring in high spirits."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk081_msg0207",
+      "style": 84,
+      "name": "That's why you were buzzing\nwith excitement during\nthe exploration, eh?"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk081_msg0208",
+      "style": 84,
+      "name": "Exactly!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk081_msg0209",
+      "style": 84,
+      "name": "I love minerals, but I hate bugs\njust as much."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk081_msg0210",
+      "style": 84,
+      "name": "The more I love minerals,\nthe more I hate bugs."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk081_msg0211",
+      "style": 84,
+      "name": "You really hate bugs, huh. I\nwonder what would happen if\nMenou went into the Cloud Sea..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk081_msg0212",
+      "style": 84,
+      "name": "That makes absolutely no sense."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk081_msg0213",
+      "style": 84,
+      "name": "What a peculiar correlation\nyou've developed there."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk081_msg0214",
+      "style": 84,
+      "name": "How does that make any sense..."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk081_msg0215",
+      "style": 84,
+      "name": "Master, sorry to keep you\nwaiting, mo!"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk081_msg0216",
+      "style": 84,
+      "name": "Thanks, Hana, mo! My stomach's\nalready growling, mo!"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk081_msg0217",
+      "style": 84,
+      "name": "I brought back the best\ningredients, mo!"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk081_msg0218",
+      "style": 84,
+      "name": "What kind of ingredients could\npossibly be found here?"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk081_msg0219",
+      "style": 84,
+      "name": "What did you manage to find?"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk081_msg0220",
+      "style": 84,
+      "name": "What'd you collect? I'm\nhungry too, you know."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk081_msg0221",
+      "style": 84,
+      "name": "What kind of ingredients did you find?"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk081_msg0222",
+      "style": 84,
+      "name": "What'd you bring back?\nShare some with me!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk081_msg0223",
+      "style": 84,
+      "name": "Jabara bugs, mo! Apparently\nthey're delicious fried!"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk081_msg0224",
+      "style": 84,
+      "name": "Kyaaaaaaa!!"
+    }
+  ]
+}

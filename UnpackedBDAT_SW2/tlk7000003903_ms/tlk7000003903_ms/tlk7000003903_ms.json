@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000039_03_msg0001",
+      "style": 84,
+      "name": "I liked playing with mud and clay\neven as a child, so it's no surprise\nthat I wound up as a potter."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000039_03_msg0002",
+      "style": 84,
+      "name": "No two hand-crafted pots are alike,\nyou see? The colors, shapes,\ntextures...all subtly different."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000039_03_msg0003",
+      "style": 84,
+      "name": "Just as this land of Iira\ntaught me that variety can\nbe a great treasure..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000039_03_msg0004",
+      "style": 84,
+      "name": "I too want to teach people about the\njoy of things that are unique. That's\nwhat I try to achieve with my craft."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000039_03_msg0005",
+      "style": 84,
+      "name": "Though I suppose I never got\nthrough to the person I wanted\nto understand me the most..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350122_01_msg0001",
+      "style": 84,
+      "name": "This place feels so good on a\nsunny day. The breeze is so\ngentle, the sun is so warm~"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350122_01_msg0002",
+      "style": 84,
+      "name": "If it weren't for the\noccasional shouting, it\nwould be perfect, you know?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350122_01_msg0003",
+      "style": 84,
+      "name": "There are people in clunky\narmor who are always shouting\nin a rhythmic way."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350122_01_msg0004",
+      "style": 84,
+      "name": "I don't know what they're doing, but\nit makes it hard to take a nap."
+    }
+  ]
+}

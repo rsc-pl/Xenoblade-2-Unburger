@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320142_01_msg0001",
+      "style": 84,
+      "name": "After the stuff that happened, we\ndecided not to let the kids go out\nto play without a grown-up on hand."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320142_01_msg0002",
+      "style": 84,
+      "name": "I thought the children would object,\nas if we were keeping watch on them..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320142_01_msg0003",
+      "style": 84,
+      "name": "Instead, they were thrilled to get a\nclose look at how mercenaries fight,\nso they agreed to have us along."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320142_01_msg0004",
+      "style": 84,
+      "name": "But you need to watch out\nfor Jillwood."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320142_01_msg0005",
+      "style": 84,
+      "name": "I can't shake the feeling he's\nbound to get himself into trouble."
+    }
+  ]
+}

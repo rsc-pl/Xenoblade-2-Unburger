@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240008101_msg0001",
+      "style": 84,
+      "name": "Hee hee hee! The power of science!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240008101_msg0002",
+      "style": 84,
+      "name": "I used to be in Acedia,\nbut now my lab, tools, and\nmoney are all gone, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240008101_msg0003",
+      "style": 84,
+      "name": "I have no choice but to continue my\nresearch here, crushing, mixing, and\nburning ores and herbs, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4240008101_msg0004",
+      "style": 84,
+      "name": "I don't have enough research\nfunds... mo. I want to do my\nresearch inside a building... mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk4240008101_msg0005",
+      "style": 84,
+      "name": "I want to continue my research while\nearning money with a job that utilizes\nmy knowledge and abilities... mo."
+    }
+  ]
+}

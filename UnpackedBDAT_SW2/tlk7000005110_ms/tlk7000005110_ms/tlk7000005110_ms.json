@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000051_10_msg0001",
+      "style": 84,
+      "name": "Well if it isn't our savior!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000051_10_msg0002",
+      "style": 84,
+      "name": "Ivan told me how you beefed\nup our food supplies."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000051_10_msg0003",
+      "style": 84,
+      "name": "Now I can eat without holding back. I\neat twice as much as most people, so\nI've felt a little guilty."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000051_10_msg0004",
+      "style": 84,
+      "name": "Anyway, thanks!"
+    }
+  ]
+}

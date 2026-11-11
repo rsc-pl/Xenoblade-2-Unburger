@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400021_03_msg0001",
+      "style": 84,
+      "name": "I hear there's an amazing\nsculptor in Invidia!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400021_03_msg0002",
+      "style": 84,
+      "name": "Apparently, no one can match this\nsculptor at carving Queen Lagert,\nthe current Queen of Invidia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400021_03_msg0003",
+      "style": 84,
+      "name": "I'd love for someone like\nthat to create a sculpture\nusing Gulan wood, just once!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400021_03_msg0004",
+      "style": 84,
+      "name": "I wonder if that will ever\nhappen, if our trade with\nInvidia progresses."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41400021_03_msg0005",
+      "style": 84,
+      "name": "How about calling the piece \"Fierce\nKing Carving\"? What do you think!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030111_msg0001",
+      "style": 84,
+      "name": "*huff... huff... huff...*\n*pant... pant...*"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030111_msg0002",
+      "style": 84,
+      "name": "How could this happen to\nme, the man who built up\nthe Avaritia Trading Company..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030111_msg0003",
+      "style": 84,
+      "name": "If I'm being treated like\nthis, there's no way *that\nperson* will remain silent..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00030111_msg0004",
+      "style": 84,
+      "name": "*huff... huff... huff...*\n*pant... pant...*"
+    }
+  ]
+}

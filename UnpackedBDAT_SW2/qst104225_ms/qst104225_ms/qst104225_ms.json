@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104225_msg0001",
+      "style": 84,
+      "name": "Bzzzzzt! A question for Rex-sensei!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104225_msg0002",
+      "style": 84,
+      "name": "Rex-sensei, can you easily find\namazing treasure in the Cloud Sea?"
+    },
+    {
+      "$id": 3,
+      "label": "qst104225_msg0021",
+      "style": 84,
+      "name": "Of course! I could probably find\nvaluable treasure even if I\nsalvaged with my eyes closed."
+    },
+    {
+      "$id": 4,
+      "label": "qst104225_msg0022",
+      "style": 84,
+      "name": "Wow! I want to see you\nsalvage, Rex-sensei!"
+    },
+    {
+      "$id": 5,
+      "label": "qst104225_msg0041",
+      "style": 84,
+      "name": "It's not that easy... You won't\nfind amazing treasure unless\nyou dive many, many times."
+    },
+    {
+      "$id": 6,
+      "label": "qst104225_msg0042",
+      "style": 84,
+      "name": "I see... I thought you just\ndived once and came back\nwith tons of treasure."
+    },
+    {
+      "$id": 7,
+      "label": "qst104225_msg0043",
+      "style": 84,
+      "name": "I've never seen Rex-sensei\nsalvage before! Show me!"
+    },
+    {
+      "$id": 8,
+      "label": "qst104225_msg0101",
+      "style": 84,
+      "name": "Because you're our teacher,\nRex-nii-chan."
+    },
+    {
+      "$id": 9,
+      "label": "qst104225_msg0201",
+      "style": 84,
+      "name": "You should answer Martis's question."
+    },
+    {
+      "$id": 10,
+      "label": "qst104225_msg0202",
+      "style": 84,
+      "name": "You should answer Kazuna's question."
+    }
+  ]
+}

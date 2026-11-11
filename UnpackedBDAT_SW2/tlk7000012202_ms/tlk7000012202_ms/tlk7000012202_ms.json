@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000122_02_msg0001",
+      "style": 84,
+      "name": "Hey, hey. Your formation\nis a complete mess!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000122_02_msg0002",
+      "style": 84,
+      "name": "Well, no worries... Here comes\na lecture direct from a pro\nadventurer! That's yours truly..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000122_02_msg0003",
+      "style": 84,
+      "name": "The basics of formation are dividing\nthe roles into attacker and supporter."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000122_02_msg0004",
+      "style": 84,
+      "name": "The attacker is the main offensive\nforce and takes all the enemy's\nattacks..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000122_02_msg0005",
+      "style": 84,
+      "name": "The supporter backs up the attacker\nand won't be targeted by the enemy."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000122_02_msg0006",
+      "style": 84,
+      "name": "Of course, an expert adventurer like\nme can defeat any enemy alone!"
+    }
+  ]
+}

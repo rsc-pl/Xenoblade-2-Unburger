@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn064_msg001",
+      "style": 84,
+      "name": "Hey, Seori."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn064_msg002",
+      "style": 84,
+      "name": "I heard there's a great spot\nat Rita Oasis with a nice view."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn064_msg003",
+      "style": 84,
+      "name": "You want to go see it, right?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn064_msg004",
+      "style": 84,
+      "name": "Huh? I wouldn't go that far, but[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn064_msg005",
+      "style": 84,
+      "name": "All right! Let's get ready now\nand all go together!"
+    },
+    {
+      "$id": 6,
+      "label": "kizunainn064_msg006",
+      "style": 84,
+      "name": "Onee-chan, you just want to go[ML:Dash ]"
+    }
+  ]
+}

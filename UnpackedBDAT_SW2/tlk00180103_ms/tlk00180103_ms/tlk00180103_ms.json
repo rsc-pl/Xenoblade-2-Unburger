@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001801_03_msg0001",
+      "style": 84,
+      "name": "I put Kiku through so much, mo..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001801_03_msg0002",
+      "style": 84,
+      "name": "If only I'd been more reliable...\nNow all I feel is regret, mo..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001801_03_msg0003",
+      "style": 84,
+      "name": "Kiku... I am so sorry, mo..."
+    }
+  ]
+}

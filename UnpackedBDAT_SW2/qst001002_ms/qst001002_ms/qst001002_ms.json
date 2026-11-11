@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001002_msg0001",
+      "style": 84,
+      "name": "The kids are being attacked!\nLet's go help them!"
+    },
+    {
+      "$id": 2,
+      "label": "qst001002_msg0002",
+      "style": 84,
+      "name": "The kids are being attacked!\nWe have to go help!"
+    },
+    {
+      "$id": 3,
+      "label": "qst001002_msg0003",
+      "style": 84,
+      "name": "Everyone is being attacked,\nmo! We have to help, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst001002_msg0004",
+      "style": 84,
+      "name": "The children are being\nattacked! We must help them!"
+    },
+    {
+      "$id": 5,
+      "label": "qst001002_msg0005",
+      "style": 84,
+      "name": "The kids are being attacked!\nWe're going to help!"
+    }
+  ]
+}

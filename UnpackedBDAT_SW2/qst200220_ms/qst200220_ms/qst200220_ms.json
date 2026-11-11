@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200220_msg0001",
+      "style": 84,
+      "name": "A Superbian woman named Harhal\nshould be secretly bringing in\nPollen Orb ingredients."
+    },
+    {
+      "$id": 2,
+      "label": "qst200220_msg0002",
+      "style": 84,
+      "name": "Do you know any details?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200220_msg0003",
+      "style": 84,
+      "name": "Yeah, I know. A Superbian woman\nstands out around here, you see."
+    },
+    {
+      "$id": 4,
+      "label": "qst200220_msg0004",
+      "style": 84,
+      "name": "The cargo was transported near\nOld Gerugeim Gate Ruins."
+    },
+    {
+      "$id": 5,
+      "label": "qst200220_msg0005",
+      "style": 84,
+      "name": "Seems like the woman is\nmaking something there."
+    },
+    {
+      "$id": 6,
+      "label": "qst200220_msg0006",
+      "style": 84,
+      "name": "Pollen Orbs, right?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200220_msg0007",
+      "style": 84,
+      "name": "Who knows[ML:Dash ] I haven't found out\nexactly what she's making."
+    },
+    {
+      "$id": 8,
+      "label": "qst200220_msg0008",
+      "style": 84,
+      "name": "I see[ML:Dash ] Thanks for the info."
+    },
+    {
+      "$id": 9,
+      "label": "qst200220_msg0009",
+      "style": 84,
+      "name": "For Old Gerugeim Gate Ruins,\nGenbu Great Snowfield is the closest\nroute."
+    },
+    {
+      "$id": 10,
+      "label": "qst200220_msg0010",
+      "style": 84,
+      "name": "Yeah. Took us a while, but we finally\ngot a lead on Harhal."
+    },
+    {
+      "$id": 11,
+      "label": "qst200220_msg0011",
+      "style": 84,
+      "name": "Yeah! Finally, we'll meet Harhal\nface-to-face!! Let's get fired up!!"
+    }
+  ]
+}

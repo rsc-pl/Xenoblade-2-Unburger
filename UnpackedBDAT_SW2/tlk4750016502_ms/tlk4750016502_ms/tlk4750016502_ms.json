@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4750016502_msg0001",
+      "style": 84,
+      "name": "Well then... Let me tell you\na story from long ago."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4750016502_msg0002",
+      "style": 84,
+      "name": "I'm sure you know of the stone\nmonument at the village outskirts,\nour resident Village Guardian?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4750016502_msg0003",
+      "style": 84,
+      "name": "Adel-sama rests beneath it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4750016502_msg0004",
+      "style": 84,
+      "name": "Thanks to Adel-sama's protection,\nthis village has avoided conflict\nand lived in peace."
+    },
+    {
+      "$id": 5,
+      "label": "tlk4750016502_msg0005",
+      "style": 84,
+      "name": "The Luxurian royal family is said\nto descend from Adel-sama, but\nbetween us, it isn't direct..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk4750016502_msg0006",
+      "style": 84,
+      "name": "What?! You knew that already?\nYou know more than I do, and\nI'm the village chief..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001007_msg001",
+      "style": 84,
+      "name": "Thanks."
+    },
+    {
+      "$id": 2,
+      "label": "qst001007_msg002",
+      "style": 84,
+      "name": "Because of you, everyone\nmade it back safely."
+    },
+    {
+      "$id": 3,
+      "label": "qst001007_msg003",
+      "style": 84,
+      "name": "Gorsa-san wants to thank you,\nso please go talk to him."
+    }
+  ]
+}

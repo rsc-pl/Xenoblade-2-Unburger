@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350114_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Remureim Inn, where trading\nmerchants come to rest, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350114_01_msg0005",
+      "style": 84,
+      "name": "I don't think this is\nthe time for a detour."
+    }
+  ]
+}

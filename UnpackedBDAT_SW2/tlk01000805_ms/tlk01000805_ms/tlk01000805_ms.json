@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000805_msg0001",
+      "style": 84,
+      "name": "They say Smaia-sensei can cure any\nkind of illness! That's amazing!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000805_msg0002",
+      "style": 84,
+      "name": "If I take the teacher's class\nand study hard, I wonder if I\ncan become a doctor too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000805_msg0101",
+      "style": 84,
+      "name": "Kyukyu-sensei is so cute, right...?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000805_msg0102",
+      "style": 84,
+      "name": "An experiment failed and singed some\nof Kyukyu-sensei's fur. I wonder if\nKyukyu-sensei is okay..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000805_msg0103",
+      "style": 84,
+      "name": "...Huh? Class? I-I'm paying attention!"
+    }
+  ]
+}

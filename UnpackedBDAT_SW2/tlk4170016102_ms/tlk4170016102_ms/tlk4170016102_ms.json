@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700161_02_msg0001",
+      "style": 84,
+      "name": "I hear the Divine Beast Liberalitas\nis somewhere in the Cloud Sea,\nbut I've never seen it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700161_02_msg0002",
+      "style": 84,
+      "name": "I thought I might be able to see it\nif I went through the Cloudway, so\nI went to Lud Cloudway, but..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700161_02_msg0003",
+      "style": 84,
+      "name": "I just kept getting attacked by\nabsurdly strong monsters, and I\nsaw no trace of the Divine Beast."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700161_02_msg0004",
+      "style": 84,
+      "name": "If you happen to see it... I want to\nsee it with my own eyes, so you don't\nhave to tell me what it was like."
+    }
+  ]
+}

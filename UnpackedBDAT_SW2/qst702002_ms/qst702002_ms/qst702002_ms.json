@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702002_msg0001",
+      "style": 84,
+      "name": "Kai and Kei..."
+    },
+    {
+      "$id": 2,
+      "label": "qst702002_msg0002",
+      "style": 84,
+      "name": "And Nei..."
+    },
+    {
+      "$id": 3,
+      "label": "qst702002_msg0003",
+      "style": 84,
+      "name": "I hope they are at the campsite\nin Gula's Seigle Hills..."
+    },
+    {
+      "$id": 4,
+      "label": "qst702002_msg0004",
+      "style": 84,
+      "name": "Ah... Please, let them all be safe..."
+    }
+  ]
+}

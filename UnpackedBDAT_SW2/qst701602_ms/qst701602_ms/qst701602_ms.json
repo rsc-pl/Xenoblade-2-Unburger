@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701602_msg0001",
+      "style": 84,
+      "name": "A cooking contest..."
+    },
+    {
+      "$id": 2,
+      "label": "qst701602_msg0002",
+      "style": 84,
+      "name": "If I'm going to participate, I want\nto make delicious food and win..."
+    },
+    {
+      "$id": 3,
+      "label": "qst701602_msg0003",
+      "style": 84,
+      "name": "Now I really want to win..."
+    },
+    {
+      "$id": 4,
+      "label": "qst701602_msg0004",
+      "style": 84,
+      "name": "You're all going back to\nthe inn to discuss what kind\nof food to make, right?"
+    },
+    {
+      "$id": 5,
+      "label": "qst701602_msg0005",
+      "style": 84,
+      "name": "I'll get ready too.\nI don't intend to lose."
+    },
+    {
+      "$id": 6,
+      "label": "qst701602_msg0101",
+      "style": 84,
+      "name": "It seems everyone is ready."
+    },
+    {
+      "$id": 7,
+      "label": "qst701602_msg0102",
+      "style": 84,
+      "name": "I am also ready."
+    },
+    {
+      "$id": 8,
+      "label": "qst701602_msg0103",
+      "style": 84,
+      "name": "The Adel Cup cooking contest,\nshall we begin soon?"
+    },
+    {
+      "$id": 9,
+      "label": "qst701602_msg0104",
+      "style": 165,
+      "name": "Begin the cooking contest?"
+    },
+    {
+      "$id": 10,
+      "label": "qst701602_msg0105",
+      "style": 165,
+      "name": "Yes."
+    },
+    {
+      "$id": 11,
+      "label": "qst701602_msg0106",
+      "style": 165,
+      "name": "No."
+    },
+    {
+      "$id": 12,
+      "label": "qst701602_msg0201",
+      "style": 84,
+      "name": "How are the preparations\nfor the cooking contest?"
+    },
+    {
+      "$id": 13,
+      "label": "qst701602_msg0202",
+      "style": 84,
+      "name": "It seems the ingredients\naren't all here yet."
+    },
+    {
+      "$id": 14,
+      "label": "qst701602_msg0203",
+      "style": 84,
+      "name": "I'm all ready, but I'll wait\nuntil everyone is ready."
+    }
+  ]
+}

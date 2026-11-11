@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650201_msg0001",
+      "style": 84,
+      "name": "Dad, I'm home, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst650201_msg0002",
+      "style": 84,
+      "name": "I got word that a letter arrived for\nme, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst650201_msg0003",
+      "style": 84,
+      "name": "That's right, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst650201_msg0004",
+      "style": 84,
+      "name": "It's a strange letter. The sender\ndidn't write a name, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst650201_msg0005",
+      "style": 84,
+      "name": "Suspicious, mooo..."
+    },
+    {
+      "$id": 6,
+      "label": "qst650201_msg0006",
+      "style": 84,
+      "name": "What's inside is even more suspicious,\nmo. I'll read a bit of it, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst650201_msg0007",
+      "style": 84,
+      "name": "Let's see, mo..."
+    },
+    {
+      "$id": 8,
+      "label": "qst650201_msg0008",
+      "style": 84,
+      "name": "\"To... Tora...\""
+    },
+    {
+      "$id": 9,
+      "label": "qst650201_msg0009",
+      "style": 84,
+      "name": "The handwriting is so bad I already\ndon't feel like reading, mo..."
+    },
+    {
+      "$id": 10,
+      "label": "qst650201_msg0010",
+      "style": 84,
+      "name": "I'm sure whoever wrote this is a\nstupid, useless Nopon, but you should\nput up with it and keep reading, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst650201_msg0011",
+      "style": 84,
+      "name": "All right, mo..."
+    },
+    {
+      "$id": 12,
+      "label": "qst650201_msg0012",
+      "style": 84,
+      "name": "\"To Tora...\""
+    },
+    {
+      "$id": 13,
+      "label": "qst650201_msg0013",
+      "style": 84,
+      "name": "\"The following... Blade...\""
+    },
+    {
+      "$id": 14,
+      "label": "qst650201_msg0014",
+      "style": 84,
+      "name": "\"After... making Hana... gather the\ndata...\""
+    },
+    {
+      "$id": 15,
+      "label": "qst650201_msg0015",
+      "style": 84,
+      "name": "\"In Superbia...\""
+    },
+    {
+      "$id": 16,
+      "label": "qst650201_msg0016",
+      "style": 84,
+      "name": "\"Come... to Bulge Harbor...\""
+    },
+    {
+      "$id": 17,
+      "label": "qst650201_msg0017",
+      "style": 84,
+      "name": "I don't really get this letter."
+    },
+    {
+      "$id": 18,
+      "label": "qst650201_msg0018",
+      "style": 84,
+      "name": "Could it be someone Tora and Hana\nknow?"
+    },
+    {
+      "$id": 19,
+      "label": "qst650201_msg0019",
+      "style": 84,
+      "name": "You said the sender's unknown, but\ndoes anyone come to mind?"
+    },
+    {
+      "$id": 20,
+      "label": "qst650201_msg0020",
+      "style": 84,
+      "name": "I don't know any Nopon who writes this\nbadly, mo!"
+    },
+    {
+      "$id": 21,
+      "label": "qst650201_msg0021",
+      "style": 84,
+      "name": "But if they know about Tora and Hana,\nthey must be someone we know, mo..."
+    },
+    {
+      "$id": 22,
+      "label": "qst650201_msg0022",
+      "style": 84,
+      "name": "Master, are you curious, mo?"
+    },
+    {
+      "$id": 23,
+      "label": "qst650201_msg0023",
+      "style": 84,
+      "name": "Of course! How could I not be, mo?"
+    },
+    {
+      "$id": 24,
+      "label": "qst650201_msg0024",
+      "style": 84,
+      "name": "Well then, why don't we just try\ndoing what the letter says?"
+    },
+    {
+      "$id": 25,
+      "label": "qst650201_msg0025",
+      "style": 84,
+      "name": "Really, mo?"
+    },
+    {
+      "$id": 26,
+      "label": "qst650201_msg0026",
+      "style": 84,
+      "name": "Of course!"
+    },
+    {
+      "$id": 27,
+      "label": "qst650201_msg0027",
+      "style": 84,
+      "name": "Gathering Blade data should be quick\nwith all of us here!"
+    },
+    {
+      "$id": 28,
+      "label": "qst650201_msg0028",
+      "style": 84,
+      "name": "I think we should hear the details\nbefore deciding..."
+    },
+    {
+      "$id": 29,
+      "label": "qst650201_msg0029",
+      "style": 84,
+      "name": "The handwriting's awful, but I'll try\nreading it, mo."
+    },
+    {
+      "$id": 30,
+      "label": "qst650201_msg0030",
+      "style": 84,
+      "name": "\"Data on Beam Blast, the Special of an\nordinary girl-type Blade who uses a\nCannon.\""
+    },
+    {
+      "$id": 31,
+      "label": "qst650201_msg0031",
+      "style": 84,
+      "name": "\"Data on Assault Rush, the Special of\nan ordinary boy-type Blade who uses\nKnuckles.\""
+    },
+    {
+      "$id": 32,
+      "label": "qst650201_msg0032",
+      "style": 84,
+      "name": "\"Data on Dual Fang, the Special of an\nordinary dog-type Blade who uses Twin\nRings.\""
+    },
+    {
+      "$id": 33,
+      "label": "qst650201_msg0033",
+      "style": 84,
+      "name": "\"Data on Tomahawk Boomerang, the\nSpecial of an ordinary boy-type Blade\nwho uses an Axe.\""
+    },
+    {
+      "$id": 34,
+      "label": "qst650201_msg0034",
+      "style": 84,
+      "name": "\"Data on Aerial Shield, the Special of\nan ordinary girl-type Blade who uses a\nHammer.\""
+    },
+    {
+      "$id": 35,
+      "label": "qst650201_msg0035",
+      "style": 84,
+      "name": "\"Data on Flash Bomb, the Special of an\nordinary girl-type Blade who uses a\nBall.\""
+    },
+    {
+      "$id": 36,
+      "label": "qst650201_msg0036",
+      "style": 84,
+      "name": "\"Data on Beam Halberd, the Special of\nan ordinary burly-type Blade who uses\na Lance.\""
+    },
+    {
+      "$id": 37,
+      "label": "qst650201_msg0037",
+      "style": 84,
+      "name": "\"Data on Multi-Raid, the Special of an\nordinary boy-type Blade who uses a\nKatana.\""
+    },
+    {
+      "$id": 38,
+      "label": "qst650201_msg0038",
+      "style": 84,
+      "name": "It says we need these eight pieces of\ndata, mo."
+    },
+    {
+      "$id": 39,
+      "label": "qst650201_msg0039",
+      "style": 84,
+      "name": "That's a lot..."
+    },
+    {
+      "$id": 40,
+      "label": "qst650201_msg0040",
+      "style": 84,
+      "name": "But Boss said we'd give it a try, mo?"
+    },
+    {
+      "$id": 41,
+      "label": "qst650201_msg0041",
+      "style": 84,
+      "name": "Ugh..."
+    },
+    {
+      "$id": 42,
+      "label": "qst650201_msg0042",
+      "style": 84,
+      "name": "Fine! I'm a man too! I'll do it all!"
+    },
+    {
+      "$id": 43,
+      "label": "qst650201_msg0043",
+      "style": 84,
+      "name": "Just as expected of Boss! A man among\nmen, mo!"
+    },
+    {
+      "$id": 44,
+      "label": "qst650201_msg0044",
+      "style": 84,
+      "name": "Well... Rex doesn't have to shoulder\nthis alone."
+    },
+    {
+      "$id": 45,
+      "label": "qst650201_msg0045",
+      "style": 84,
+      "name": "Nia and I will help too."
+    },
+    {
+      "$id": 46,
+      "label": "qst650201_msg0046",
+      "style": 84,
+      "name": "Meleph is a man among men too, mo! If\nthe Drivers work together, we'll be\ndone in no time, mo!"
+    },
+    {
+      "$id": 47,
+      "label": "qst650201_msg0047",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 48,
+      "label": "qst650201_msg0048",
+      "style": 84,
+      "name": "A-anyway, let's give it a try."
+    },
+    {
+      "$id": 49,
+      "label": "qst650201_msg0049",
+      "style": 84,
+      "name": "Once we're done, we just go to Bulge\nHarbor in Superbia, right?"
+    },
+    {
+      "$id": 50,
+      "label": "qst650201_msg0050",
+      "style": 84,
+      "name": "That's what it said, mo. There are a\nlot, so let's split them up and do\nthem in order, mo!"
+    },
+    {
+      "$id": 51,
+      "label": "qst650201_msg0051",
+      "style": 84,
+      "name": "Well then, Dad, I'm off, mo."
+    },
+    {
+      "$id": 52,
+      "label": "qst650201_msg0052",
+      "style": 84,
+      "name": "We don't know what kind of suspicious\nNopon might be waiting for us, so\nwe'll be careful, mo."
+    },
+    {
+      "$id": 53,
+      "label": "qst650201_msg0101",
+      "style": 84,
+      "name": "\"To Tora...\""
+    },
+    {
+      "$id": 54,
+      "label": "qst650201_msg0102",
+      "style": 84,
+      "name": "\"After having Hana gather the\nfollowing Blade data...\""
+    },
+    {
+      "$id": 55,
+      "label": "qst650201_msg0103",
+      "style": 84,
+      "name": "\"After having Hana gather the data\""
+    },
+    {
+      "$id": 56,
+      "label": "qst650201_msg0104",
+      "style": 84,
+      "name": "\"Then go to Bulge Harbor in Superbia.\""
+    }
+  ]
+}

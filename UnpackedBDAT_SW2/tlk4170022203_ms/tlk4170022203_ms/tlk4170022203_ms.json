@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700222_01_msg0001",
+      "style": 84,
+      "name": "I'm always just cutting down\ntrees here, so I'm a bit out\nof touch with the world."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700222_01_msg0002",
+      "style": 84,
+      "name": "But the craftsmen in Torigo use\nthe wood from here to make wonderful\nfurniture and instruments..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700222_01_msg0003",
+      "style": 84,
+      "name": "And the customers are\nhappy to use them..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700222_01_msg0004",
+      "style": 84,
+      "name": "Don't you think that's enough?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700222_01_msg0005",
+      "style": 84,
+      "name": "That's why, no matter what happens,\nI think I'll just keep cutting\ndown trees here every day."
+    }
+  ]
+}

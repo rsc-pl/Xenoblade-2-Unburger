@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200141_02_msg0001",
+      "style": 84,
+      "name": "They say there are a lot of\nkids here who lost their homes\nin the war, just like me..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200141_02_msg0002",
+      "style": 84,
+      "name": "It's not just Iraada Village...\nlots of sad things are happening\nall over Alst..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200141_02_msg0003",
+      "style": 84,
+      "name": "Dad told me that the Hræsvelgr\nMerc Group exists to stop those\nsad things from happening."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200141_02_msg0004",
+      "style": 84,
+      "name": "Is that really true?"
+    }
+  ]
+}

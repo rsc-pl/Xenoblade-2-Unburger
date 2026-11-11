@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst710602_msg0001",
+      "style": 84,
+      "name": "I've been waiting, mo! What kind\nof food did you bring me, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst710602_msg0101",
+      "style": 84,
+      "name": "Mo... I'm satisfied, mo...\nThank you, thank you, mo..."
+    },
+    {
+      "$id": 3,
+      "label": "qst710602_msg0102",
+      "style": 84,
+      "name": "Morimori feels like this was more than\nMorimori's stomach could hold, but it\nmust be imagination, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst710602_msg0103",
+      "style": 84,
+      "name": "...Now for sweets too, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst710602_msg0104",
+      "style": 84,
+      "name": "For a lady like Morimori, there's\nalways room for dessert, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "qst710602_msg0105",
+      "style": 84,
+      "name": "I'm looking forward to\nwhat kind of food you'll\nbring me next time, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst710602_msg0201",
+      "style": 84,
+      "name": "Morimori is still starving, mo!\nMorimori wants to eat lots more, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst710602_msg0202",
+      "style": 84,
+      "name": "Morimori especially likes Feris\nQuotelettas, mo! If you get one,\nplease bring it to me, mo!"
+    }
+  ]
+}

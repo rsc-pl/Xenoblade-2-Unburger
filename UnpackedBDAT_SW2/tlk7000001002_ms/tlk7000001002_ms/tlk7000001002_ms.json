@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000010_02_msg0001",
+      "style": 84,
+      "name": "People say everyone fought\nwell, but to me, it was\npathetic. No other word for it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000010_02_msg0002",
+      "style": 84,
+      "name": "What I do know is, that I don't\nknow what would have happened\nif you guys weren't here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000010_02_msg0003",
+      "style": 84,
+      "name": "I had to stay here, but I heard Onyx's\nsquad helped clear rubble and make\nrepairs."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000010_02_msg0004",
+      "style": 84,
+      "name": "I mean, it was by order of the\nKing. But I still think it's a\npretty nice thing of them to do."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000010_02_msg0005",
+      "style": 84,
+      "name": "Usually they just stand about around\nthe palace, the big meatheads."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000010_02_msg0006",
+      "style": 84,
+      "name": "I wonder how Calcedo is doing. I hear\nhe's well, but I don't want to\ninterfere too much..."
+    }
+  ]
+}

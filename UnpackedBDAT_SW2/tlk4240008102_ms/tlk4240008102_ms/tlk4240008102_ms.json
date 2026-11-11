@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240008102_msg0001",
+      "style": 84,
+      "name": "Let's see... crush, mix, and burn\nBelloat Grass and Lemon Stone..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240008102_msg0002",
+      "style": 84,
+      "name": "I made a nice-smelling powder, but\nit won't turn into gold... mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240008102_msg0003",
+      "style": 84,
+      "name": "Oh, class? Right, Kyukyu\nis a teacher, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4240008102_msg0004",
+      "style": 84,
+      "name": "I was so engrossed in experimenting\nwith new materials... mo. I'll\nteach properly now, mo."
+    }
+  ]
+}

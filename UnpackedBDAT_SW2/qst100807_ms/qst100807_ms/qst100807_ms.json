@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100807_msg0001",
+      "style": 84,
+      "name": "You can only pick the Healing\nHerb in the morning."
+    },
+    {
+      "$id": 2,
+      "label": "qst100807_msg0002",
+      "style": 84,
+      "name": "Are you asking me to go\nand pick it with you?"
+    },
+    {
+      "$id": 3,
+      "label": "qst100807_msg0003",
+      "style": 84,
+      "name": "You're also saying I shouldn't\ngo to dangerous places because\nI'm not good at fighting..."
+    },
+    {
+      "$id": 4,
+      "label": "qst100807_msg0101",
+      "style": 84,
+      "name": "You picked it for me... I'm\nsorry, please wait a moment."
+    }
+  ]
+}

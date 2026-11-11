@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006401_01_msg0001",
+      "style": 84,
+      "name": "Have you found Pittman's ship?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk006401_01_msg0002",
+      "style": 84,
+      "name": "In Gula's Torigo?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk006401_01_msg0003",
+      "style": 84,
+      "name": "Well, it's the closest\nDivine Beast right now, so\nI guess that's natural..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006401_01_msg0004",
+      "style": 84,
+      "name": "Hurry up and catch the culprit, and\nbring the Divine Beast ship back here."
+    },
+    {
+      "$id": 5,
+      "label": "tlk006401_01_msg0005",
+      "style": 84,
+      "name": "Pittman's getting all teary-eyed."
+    }
+  ]
+}

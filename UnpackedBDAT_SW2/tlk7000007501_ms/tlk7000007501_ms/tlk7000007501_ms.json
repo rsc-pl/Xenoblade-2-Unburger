@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000075_01_msg001",
+      "style": 84,
+      "name": "There are certain items that have\nparticularly special effects.\nThey're known as \"precious items\"."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000075_01_msg002",
+      "style": 84,
+      "name": "But 'special' can mean many\nthings: stronger effects, or\neffects that last forever."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000075_01_msg003",
+      "style": 84,
+      "name": "Naturally, those items aren't sold to\nthe general public. Only a handful of\npeople with special knowledge..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000075_01_msg004",
+      "style": 84,
+      "name": "Only people with special knowledge,\nsuch as Adel-sama or Emperor Yuugo,\nhave the ability to craft them."
+    }
+  ]
+}

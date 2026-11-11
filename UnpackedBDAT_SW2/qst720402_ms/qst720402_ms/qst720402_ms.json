@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720402_msg0001",
+      "style": 84,
+      "name": "Okay, as for where you can\nfind the ingredients..."
+    },
+    {
+      "$id": 2,
+      "label": "qst720402_msg0002",
+      "style": 84,
+      "name": "Grimdark Crabs can be gathered\nby the waterside in Iira."
+    },
+    {
+      "$id": 3,
+      "label": "qst720402_msg0003",
+      "style": 84,
+      "name": "Feris Beastmeat keeps well, and you\ncan get it from the Soul Feris\nliving nearby."
+    },
+    {
+      "$id": 4,
+      "label": "qst720402_msg0004",
+      "style": 84,
+      "name": "You can pick Milky Nuts\non the grasslands."
+    },
+    {
+      "$id": 5,
+      "label": "qst720402_msg0005",
+      "style": 84,
+      "name": "Same goes for the Weeping Wheat."
+    },
+    {
+      "$id": 6,
+      "label": "qst720402_msg0006",
+      "style": 84,
+      "name": "Alright everyone, I'm counting on you."
+    }
+  ]
+}

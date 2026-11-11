@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100306_msg0001",
+      "style": 84,
+      "name": "Momo! You're...!"
+    },
+    {
+      "$id": 2,
+      "label": "qst100306_msg0002",
+      "style": 84,
+      "name": "The one who gave Pupun food,\ndefeated the Vacuum Grog, and\ngathered the repair materials!"
+    },
+    {
+      "$id": 3,
+      "label": "qst100306_msg0003",
+      "style": 84,
+      "name": "Thanks to your help, I was able\nto successfully complete 40\nhours of flight training, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst100306_msg0004",
+      "style": 84,
+      "name": "I got my license, too... I'm a\nfull-fledged Nopon pilot, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst100306_msg0005",
+      "style": 84,
+      "name": "What is it, mo?"
+    },
+    {
+      "$id": 6,
+      "label": "qst100306_msg0006",
+      "style": 84,
+      "name": "...A reward for the food?\n...The cost of the materials?"
+    },
+    {
+      "$id": 7,
+      "label": "qst100306_msg0007",
+      "style": 84,
+      "name": "Ah, um... I haven't started working\nyet... And the training fees..."
+    },
+    {
+      "$id": 8,
+      "label": "qst100306_msg0008",
+      "style": 84,
+      "name": "Ah! I feel like my skills\nare getting rusty, mo!"
+    },
+    {
+      "$id": 9,
+      "label": "qst100306_msg0009",
+      "style": 84,
+      "name": "If I take a break between flights,\nmy skills will get rusty, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst100306_msg0010",
+      "style": 84,
+      "name": "I have to go fly right now,\nmo! Well then, goodbye, mo!"
+    }
+  ]
+}

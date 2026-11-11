@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200417_msg0001",
+      "style": 84,
+      "name": "Fumo... fumo... ngugu..."
+    },
+    {
+      "$id": 2,
+      "label": "qst200417_msg0002",
+      "style": 84,
+      "name": "Punin-san is sleeping soundly."
+    },
+    {
+      "$id": 3,
+      "label": "qst200417_msg0003",
+      "style": 84,
+      "name": "For someone who was making\na fuss about not being able\nto sleep, he's out cold."
+    },
+    {
+      "$id": 4,
+      "label": "qst200417_msg0004",
+      "style": 84,
+      "name": "...Quiet. They're here..."
+    }
+  ]
+}

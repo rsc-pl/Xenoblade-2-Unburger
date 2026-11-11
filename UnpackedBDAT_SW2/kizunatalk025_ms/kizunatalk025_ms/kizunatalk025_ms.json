@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk025_msg0001",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk025_msg0002",
+      "style": 84,
+      "name": "Meleph-san, so you were here."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk025_msg0003",
+      "style": 84,
+      "name": "...Is something wrong?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk025_msg0004",
+      "style": 84,
+      "name": "No, I was just thinking."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk025_msg0005",
+      "style": 84,
+      "name": "...Are you worried about something?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk025_msg0006",
+      "style": 84,
+      "name": "Yes, just... I'm a little concerned\nabout my younger brother."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk025_msg0007",
+      "style": 84,
+      "name": "You mean Emperor Nefer?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk025_msg0008",
+      "style": 84,
+      "name": "Yes... I'm worried that he might\nbe pushing himself too hard."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk025_msg0009",
+      "style": 84,
+      "name": "The Emperor is quite\nyoung, isn't he..."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk025_msg0012",
+      "style": 84,
+      "name": "Indeed. Perhaps too young to bear\nthe weight of ruling a country..."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk025_msg0013",
+      "style": 84,
+      "name": "Don't you two ever\ntalk with each other?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk025_msg0014",
+      "style": 84,
+      "name": "I report to him regularly as\nSpecial Commissioner, but..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk025_msg0015",
+      "style": 84,
+      "name": "No, I mean as siblings,\nnot as officials."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk025_msg0016",
+      "style": 84,
+      "name": "Don't you have normal\nfamily conversations?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk025_msg0017",
+      "style": 84,
+      "name": "Sibling conversations..."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk025_msg0018",
+      "style": 84,
+      "name": "It's embarrassing, but neither\nHis Majesty nor I know how to\nhave a normal conversation."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk025_msg0019",
+      "style": 84,
+      "name": "You don't need to overthink it."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk025_msg0020",
+      "style": 84,
+      "name": "Any topic that isn't\nwork-related will do."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk025_msg0021",
+      "style": 84,
+      "name": "Why not just visit him?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk025_msg0022",
+      "style": 84,
+      "name": "No, he has so many responsibilities..."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk025_msg0023",
+      "style": 84,
+      "name": "Chatting with me...\nwould only be a bother."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk025_msg0024",
+      "style": 165,
+      "name": "How should I respond?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk025_msg0025",
+      "style": 164,
+      "name": "He'd be happy to see his older sister."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk025_msg0026",
+      "style": 164,
+      "name": "Are you avoiding seeing him, perhaps?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk025_msg0101",
+      "style": 84,
+      "name": "Emperor Nefer would be delighted if\nhis older sister came to see him!"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk025_msg0102",
+      "style": 84,
+      "name": "...Thank you, Homura."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk025_msg0103",
+      "style": 84,
+      "name": "However, my brother and I aren't\na normal family after all."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk025_msg0104",
+      "style": 84,
+      "name": "He is the Emperor of Superbia;\nI am his Special Commissioner..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk025_msg0105",
+      "style": 84,
+      "name": "Our positions and life paths\nare completely different."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk025_msg0106",
+      "style": 84,
+      "name": "We could never have normal\nsibling conversations..."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk025_msg0107",
+      "style": 84,
+      "name": "That's not true. Do you\nreally think rank changes\nfamily or sibling ties?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk025_msg0108",
+      "style": 84,
+      "name": "Hikari!? Where did you come from..."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk025_msg0109",
+      "style": 84,
+      "name": "I got a bit impatient."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk025_msg0110",
+      "style": 84,
+      "name": "You and Emperor Nefer are\nactual family, right?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk025_msg0111",
+      "style": 84,
+      "name": "Then emperor or not, he's first and\nforemost your younger brother."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk025_msg0112",
+      "style": 84,
+      "name": "So why complicate things?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk025_msg0113",
+      "style": 84,
+      "name": "Still... I haven't thought of us\nas sister and brother in ages."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk025_msg0114",
+      "style": 84,
+      "name": "Homura and I hadn't spoken for a long\ntime either."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk025_msg0115",
+      "style": 84,
+      "name": "But we quickly became close."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk025_msg0116",
+      "style": 84,
+      "name": "No, that's because you're the same..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk025_msg0117",
+      "style": 84,
+      "name": "Shut up!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk025_msg0118",
+      "style": 84,
+      "name": "Just caring about your brother\nalready makes you family enough."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk025_msg0119",
+      "style": 84,
+      "name": "So forget all that rank\nand status nonsense."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk025_msg0120",
+      "style": 84,
+      "name": "Just act like a normal\nolder sister already!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk025_msg0121",
+      "style": 84,
+      "name": "Hmm..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk025_msg0122",
+      "style": 84,
+      "name": "Is that really so simple..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk025_msg0123",
+      "style": 84,
+      "name": "Absolutely! It's not even a question."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk025_msg0124",
+      "style": 84,
+      "name": "Talk about lots of fun things, and\nlet him depend on you plenty."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk025_msg0125",
+      "style": 84,
+      "name": "...Alright then. I'll work on being\na proper older sister to him."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk025_msg0126",
+      "style": 84,
+      "name": "Promise me you'll do it the\nnext time you see him."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk025_msg0127",
+      "style": 84,
+      "name": "Understood... I give you my word."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk025_msg0128",
+      "style": 84,
+      "name": "Ah, that's a relief."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk025_msg0129",
+      "style": 84,
+      "name": "You and Rex both overthink things,\nand it makes me impatient."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk025_msg0130",
+      "style": 84,
+      "name": "Heh[ML:Dash ] thank you for the advice, Hikari."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk025_msg0131",
+      "style": 84,
+      "name": "You're very welcome."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk025_msg0201",
+      "style": 84,
+      "name": "Meleph-san, could it be you don't want\nto see Emperor Nefer?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk025_msg0202",
+      "style": 84,
+      "name": "No, that's not the case at all."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk025_msg0203",
+      "style": 84,
+      "name": "I do want to meet him and\ntake my time talking."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk025_msg0204",
+      "style": 84,
+      "name": "But our respective ranks\ncreate barriers between us..."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk025_msg0205",
+      "style": 84,
+      "name": "You mean because he's Emperor?"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk025_msg0206",
+      "style": 84,
+      "name": "Exactly."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk025_msg0207",
+      "style": 84,
+      "name": "When my brother took the throne,\nI volunteered to be his shield."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk025_msg0208",
+      "style": 84,
+      "name": "And at that time, we put aside\nbeing family to each other."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk025_msg0209",
+      "style": 84,
+      "name": "Meleph-san..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk025_msg0210",
+      "style": 84,
+      "name": "Don't get me wrong. I have\nno regrets about my choice."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk025_msg0211",
+      "style": 84,
+      "name": "I can protect my brother\nand Superbia. As his sister,\nno joy is greater."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk025_msg0212",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk025_msg0213",
+      "style": 84,
+      "name": "As a Blade, I have no family, so\nI deeply admire family bonds."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk025_msg0214",
+      "style": 84,
+      "name": "You and Emperor Nefer already share\na very strong bond, don't you?"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk025_msg0215",
+      "style": 84,
+      "name": "So why don't you go to see him?"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk025_msg0216",
+      "style": 84,
+      "name": "If you care about each other, isn't it\nokay to sit down and talk?"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk025_msg0217",
+      "style": 84,
+      "name": "If it were me... I'd want\nto take my time and talk."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk025_msg0218",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk025_msg0219",
+      "style": 84,
+      "name": "I'm sure Emperor Nefer also wants\nto talk with his older sister."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk025_msg0220",
+      "style": 84,
+      "name": "After all, that's what\nfamily is about, right?"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk025_msg0221",
+      "style": 84,
+      "name": "Bonds aren't something that can\nbe cut so easily, are they?"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk025_msg0222",
+      "style": 84,
+      "name": "...Homura..."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk025_msg0223",
+      "style": 84,
+      "name": "First, go see him and talk."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk025_msg0224",
+      "style": 84,
+      "name": "Emperor or retainer,\nnone of that matters."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk025_msg0225",
+      "style": 84,
+      "name": "You don't need an excuse to talk\nto your own younger brother!"
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk025_msg0226",
+      "style": 84,
+      "name": "I'm certain Emperor Nefer\nfeels the same way."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk025_msg0227",
+      "style": 84,
+      "name": "Hah, you have a point.\nHomura might be right."
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk025_msg0228",
+      "style": 84,
+      "name": "Maybe I'm the one who built\nthis barrier between us."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk025_msg0229",
+      "style": 84,
+      "name": "Then your first step is\nto tear down that wall!"
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk025_msg0230",
+      "style": 84,
+      "name": "Yes, I'll do my best.\nThank you, Homura."
+    }
+  ]
+}

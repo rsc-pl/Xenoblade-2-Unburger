@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000031_03_msg0001",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000031_03_msg0002",
+      "style": 84,
+      "name": "...You again? You're starting to show\na little promise."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000031_03_msg0003",
+      "style": 84,
+      "name": "But that doesn't mean I want to get\nchummy with you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000031_03_msg0004",
+      "style": 84,
+      "name": "It'd be different if you were skilled\nand had earned the trust of many\npeople, though..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000031_03_msg0005",
+      "style": 84,
+      "name": "Sorry. Come back another day."
+    }
+  ]
+}

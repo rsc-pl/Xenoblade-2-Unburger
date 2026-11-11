@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_04_msg0001",
+      "style": 84,
+      "name": "Good work."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_04_msg0002",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries have grown\na little bigger, haven't they?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_04_msg0003",
+      "style": 84,
+      "name": "Looks like we'll manage somehow even\nwithout Vandham-san."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_04_msg0004",
+      "style": 84,
+      "name": "Now, would you care to take a\nlook at the new jobs available?"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42420151_01_msg0001",
+      "style": 84,
+      "name": "I was relaxing on the roof at\nnight, gazing at the sky, when\nsomeone stepped on me."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42420151_01_msg0002",
+      "style": 84,
+      "name": "Whoever it was seemed to be wearing\niron shoes. It hurt a whole lot."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42420151_01_msg0003",
+      "style": 84,
+      "name": "I asked a soldier of the Superbian\nEmpire to find the culprit for me."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42420151_01_msg0004",
+      "style": 84,
+      "name": "Someone that strong... I don't think\nanyone but Meleph-sama could make\nan arrest."
+    }
+  ]
+}

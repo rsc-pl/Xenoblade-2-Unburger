@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300164_02_msg0001",
+      "style": 84,
+      "name": "The village is as always,\nbut the air feels wrong...\nI have a bad feeling."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300164_02_msg0002",
+      "style": 84,
+      "name": "I've heard Iira is causing trouble.\nDo you think they might come here too?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300164_02_msg0003",
+      "style": 84,
+      "name": "We don't have soldiers here. We\ncan't fight like Superbia. We can\nonly pray to the Guardian..."
+    }
+  ]
+}

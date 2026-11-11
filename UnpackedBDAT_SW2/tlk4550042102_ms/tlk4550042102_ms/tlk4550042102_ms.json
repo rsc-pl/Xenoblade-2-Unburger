@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500421_02_msg0001",
+      "style": 84,
+      "name": "Hohohoh... Just a few bites of\nchoclit, before she comes back..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500421_02_msg0002",
+      "style": 84,
+      "name": "Wha-?! Who's there?! Don't talk\nto me out of the blue like that!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500421_02_msg0003",
+      "style": 84,
+      "name": "You gave me such a fright,\nI thought my heart might\nstop then and there!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500421_02_msg0004",
+      "style": 84,
+      "name": "I'm just glad it wasn't the one I'm\nhiding from... Getting caught would be\nterrifying."
+    }
+  ]
+}

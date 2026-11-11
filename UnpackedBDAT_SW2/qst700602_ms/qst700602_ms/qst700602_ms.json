@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700602_msg0001",
+      "style": 84,
+      "name": "The machine parts I need are\nthree Sunset Brackets and\none Electro Shaft, okay!"
+    },
+    {
+      "$id": 2,
+      "label": "qst700602_msg0002",
+      "style": 84,
+      "name": "I'm going to review the blueprints\nagain, so I'm counting on all of you,\nNii-chan!"
+    },
+    {
+      "$id": 3,
+      "label": "qst700602_msg0101",
+      "style": 84,
+      "name": "Harijii Hills is near Felt Village,\nwhich is just past the Dana Desert\nfrom the capital!"
+    },
+    {
+      "$id": 4,
+      "label": "qst700602_msg0102",
+      "style": 84,
+      "name": "If I set up the \"Automatic\nBug-Catching Machine DX\" there,\nI'm sure a lot of bugs will gather!"
+    },
+    {
+      "$id": 5,
+      "label": "qst700602_msg0103",
+      "style": 84,
+      "name": "This is my first invention, so\nno matter what the result is,\nplease be sure to tell me!"
+    }
+  ]
+}

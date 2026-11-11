@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510181_03_msg0001",
+      "style": 84,
+      "name": "Only the Prince's Blade can control\nGenbu's course and bearing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510181_03_msg0002",
+      "style": 84,
+      "name": "It should have been locked in\nsubmerged mode until the anomaly\noccurred, but..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510181_03_msg0003",
+      "style": 84,
+      "name": "What state is the Sanctus Chain in\nright now?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510181_03_msg0004",
+      "style": 84,
+      "name": "No, but... We can't stand here\nworrying. We need to keep the\nevacuation moving."
+    }
+  ]
+}

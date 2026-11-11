@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660401_msg0001",
+      "style": 84,
+      "name": "Looks like you've survived many\nbrushes with death."
+    },
+    {
+      "$id": 2,
+      "label": "qst660401_msg0002",
+      "style": 84,
+      "name": "Would you tell me your stories?\nI want to put them to song."
+    },
+    {
+      "$id": 3,
+      "label": "qst660401_msg0003",
+      "style": 84,
+      "name": "I'll give you something in return."
+    },
+    {
+      "$id": 4,
+      "label": "qst660401_msg0004",
+      "style": 165,
+      "name": "Trade for an Epic Core Crystal?"
+    },
+    {
+      "$id": 5,
+      "label": "qst660401_msg0005",
+      "style": 165,
+      "name": "Tell 200,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst660401_msg0006",
+      "style": 165,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst660401_msg0101",
+      "style": 84,
+      "name": "Thank you for the thrilling story.\nThat was exciting."
+    },
+    {
+      "$id": 8,
+      "label": "qst660401_msg0102",
+      "style": 84,
+      "name": "I look forward to performing\nthis for Queen Lagert."
+    },
+    {
+      "$id": 9,
+      "label": "qst660401_msg0103",
+      "style": 84,
+      "name": "Please tell me more sometime."
+    },
+    {
+      "$id": 10,
+      "label": "qst660401_msg0201",
+      "style": 84,
+      "name": "I see... I thought it\nwould make a good song..."
+    },
+    {
+      "$id": 11,
+      "label": "qst660401_msg0202",
+      "style": 84,
+      "name": "If you change your mind, let me know."
+    }
+  ]
+}

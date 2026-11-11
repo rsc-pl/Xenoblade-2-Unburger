@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst711902_msg0001",
+      "style": 84,
+      "name": "It's you all... What is it?"
+    },
+    {
+      "$id": 2,
+      "label": "qst711902_msg0002",
+      "style": 84,
+      "name": "From what I can sense, you haven't\nperformed five Blade Combos yet."
+    },
+    {
+      "$id": 3,
+      "label": "qst711902_msg0003",
+      "style": 84,
+      "name": "A Blade Combo can be performed by\nusing a level I Special, followed\nby a level II or higher Special."
+    },
+    {
+      "$id": 4,
+      "label": "qst711902_msg0004",
+      "style": 84,
+      "name": "The enemy and location don't matter.\nI can sense it wherever you are, so\nshow me what you can do."
+    },
+    {
+      "$id": 5,
+      "label": "qst711902_msg0101",
+      "style": 84,
+      "name": "Yes, splendid... It seems\nyou've performed the Blade\nCombo 5 or more times."
+    },
+    {
+      "$id": 6,
+      "label": "qst711902_msg0102",
+      "style": 84,
+      "name": "Gororo, too... Ah, that's my Driver.\nI should have good news for him."
+    },
+    {
+      "$id": 7,
+      "label": "qst711902_msg0103",
+      "style": 84,
+      "name": "I can tell him a group has passed\nthe \"first stage\" with flying colors."
+    },
+    {
+      "$id": 8,
+      "label": "qst711902_msg0104",
+      "style": 84,
+      "name": "Did I not mention it? This test\nis merely the first stage...\nThe real test starts now."
+    },
+    {
+      "$id": 9,
+      "label": "qst711902_msg0105",
+      "style": 84,
+      "name": "With your level of skill, I'd like\nyou to take the next test right away."
+    },
+    {
+      "$id": 10,
+      "label": "qst711902_msg0106",
+      "style": 84,
+      "name": "I will be waiting here, so when you're\nready, feel free to call on me."
+    },
+    {
+      "$id": 11,
+      "label": "qst711902_msg0107",
+      "style": 84,
+      "name": "Until next time. I'm looking forward\nto seeing how you do."
+    }
+  ]
+}

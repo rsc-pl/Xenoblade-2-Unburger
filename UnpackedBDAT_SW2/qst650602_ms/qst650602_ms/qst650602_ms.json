@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650602_0001",
+      "style": 82,
+      "name": "Leave the rest to M.O.M.O.!"
+    },
+    {
+      "$id": 2,
+      "label": "qst650602_0002",
+      "style": 82,
+      "name": "Gold Crown!!"
+    },
+    {
+      "$id": 3,
+      "label": "qst650602_0025",
+      "style": 82,
+      "name": "Take this!"
+    },
+    {
+      "$id": 4,
+      "label": "qst650602_0003",
+      "style": 82,
+      "name": "W-whaaa!"
+    },
+    {
+      "$id": 5,
+      "label": "qst650602_0004",
+      "style": 82,
+      "name": "They're way out of our league!"
+    }
+  ]
+}

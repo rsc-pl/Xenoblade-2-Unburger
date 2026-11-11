@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst500205_msg0001",
+      "style": 84,
+      "name": "Mo-mo-mo?! I believed you'd come,\nmooo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst500205_msg0002",
+      "style": 84,
+      "name": "I felt a one-sided kinship with the\nEmperor, entered the audience chamber,\nand the soldiers chased me, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst500205_msg0003",
+      "style": 84,
+      "name": "I'm okay now, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst500205_msg0004",
+      "style": 84,
+      "name": "But I've had enough, mooo. I want to\nhide in a quiet Invidian cave again\nand eat mushrooms, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "qst500205_msg0005",
+      "style": 84,
+      "name": "But the Fortis Trade Guild travel\nguide says never return to a place\nyou've already visited, mo..."
+    },
+    {
+      "$id": 6,
+      "label": "qst500205_msg0006",
+      "style": 84,
+      "name": "It's sad, but I'll find another cave,\nmo."
+    },
+    {
+      "$id": 7,
+      "label": "qst500205_msg0007",
+      "style": 84,
+      "name": "Anyway, maybe we meet\nagain. Best of luck!"
+    }
+  ]
+}

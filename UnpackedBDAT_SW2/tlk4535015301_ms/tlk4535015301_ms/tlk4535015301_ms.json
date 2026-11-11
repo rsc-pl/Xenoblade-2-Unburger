@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350153_01_msg0001",
+      "style": 84,
+      "name": "The Divine Beast weapons Superbia\npossesses are necessary to defend\nourselves against the Invidian threat."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350153_01_msg0002",
+      "style": 84,
+      "name": "The four-legged Divine Beast weapon\njust over there, known as Tortoga, was\ncompleted by my great predecessor."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350153_01_msg0003",
+      "style": 84,
+      "name": "We created one called Cetus\njust recently, as well."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350153_01_msg0004",
+      "style": 84,
+      "name": "We researchers work\ntirelessly day and night\nto develop these creations."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45350153_01_msg0005",
+      "style": 84,
+      "name": "Right now, we're trying\nto enhance the capabilities\nof the flying type."
+    }
+  ]
+}

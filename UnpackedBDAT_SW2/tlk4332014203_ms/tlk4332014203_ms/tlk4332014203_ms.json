@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320142_03_msg0001",
+      "style": 84,
+      "name": "Jillwood never lets up."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320142_03_msg0002",
+      "style": 84,
+      "name": "We adults need to keep a close eye\non him."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320142_03_msg0003",
+      "style": 84,
+      "name": "If he grows up right, someday he'll be\nable to accept what happened with his\nparents and Nish."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320142_03_msg0004",
+      "style": 84,
+      "name": "He just hasn't realized how his\nparents felt yet..."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701903_msg0001",
+      "style": 84,
+      "name": "Oh, it's you. How's it going?"
+    },
+    {
+      "$id": 2,
+      "label": "qst701903_msg0002",
+      "style": 84,
+      "name": "I heard you're a big deal now.\nAre you here to kill time, or is\nthis another sweet job for me?"
+    },
+    {
+      "$id": 3,
+      "label": "qst701903_msg0003",
+      "style": 84,
+      "name": "...What? You want me to\ntake you to Invidia?"
+    },
+    {
+      "$id": 4,
+      "label": "qst701903_msg0004",
+      "style": 84,
+      "name": "Hmm... alright. I owe\nyou one, after all."
+    },
+    {
+      "$id": 5,
+      "label": "qst701903_msg0005",
+      "style": 84,
+      "name": "And it seems the old master and\nWotta are in your debt as well."
+    },
+    {
+      "$id": 6,
+      "label": "qst701903_msg0006",
+      "style": 84,
+      "name": "So, let me get this straight... First\nI head to Aletta and take your group\nto Invidia."
+    },
+    {
+      "$id": 7,
+      "label": "qst701903_msg0007",
+      "style": 84,
+      "name": "Then, when they're done,\nI bring them back to\nAletta. That about right?"
+    },
+    {
+      "$id": 8,
+      "label": "qst701903_msg0008",
+      "style": 84,
+      "name": "Roger that. I'll start preparations.\nCome to Aletta port after you've had\na good night's sleep or two, okay?"
+    },
+    {
+      "$id": 9,
+      "label": "qst701903_msg0009",
+      "style": 84,
+      "name": "See you then! ♪"
+    },
+    {
+      "$id": 10,
+      "label": "qst701903_msg0101",
+      "style": 84,
+      "name": "All this for one little girl, huh?"
+    },
+    {
+      "$id": 11,
+      "label": "qst701903_msg0102",
+      "style": 84,
+      "name": "They all looked so full of life.\nYou've got some good friends."
+    }
+  ]
+}

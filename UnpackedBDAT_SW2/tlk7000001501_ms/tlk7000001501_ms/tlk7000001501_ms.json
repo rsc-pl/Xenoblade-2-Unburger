@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000015_01_msg0001",
+      "style": 84,
+      "name": "Hello, welcome. Are you looking for\nany instruments?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000015_01_msg0002",
+      "style": 84,
+      "name": "Beginners are fine too. The Iiran\nViella is easy to handle, so I\nrecommend it."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000015_01_msg0003",
+      "style": 84,
+      "name": "It's not got many strings, so it's\nsimple to learn. There are also lots\nof good beginner songs. It's a winner!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000015_01_msg0004",
+      "style": 84,
+      "name": "Once you've learned some pieces,\nyou can join an ensemble! It's a\ngood way to improve in a hurry."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000015_01_msg0005",
+      "style": 84,
+      "name": "We've even got a special event where\npeople play the Iiran Viella to\nexpress thanks to the Divine Beast."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000015_01_msg0006",
+      "style": 84,
+      "name": "Its rich, spreading tone is stunning.\nListen if you get the chance, and if\nyou're interested, pick one up."
+    }
+  ]
+}

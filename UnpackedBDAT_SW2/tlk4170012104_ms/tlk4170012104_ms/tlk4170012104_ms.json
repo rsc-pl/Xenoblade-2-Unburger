@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_04_msg0001",
+      "style": 84,
+      "name": "Iraada Village was occupied by\nbandits, but rebuilding it now\nlooks hopeless."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_04_msg0002",
+      "style": 84,
+      "name": "All the villagers were wiped out,\nand every building was destroyed.\nThere's nothing to do but give up."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_04_msg0003",
+      "style": 84,
+      "name": "That village was always small and\nhad no garrison stationed there,\nbut to do something so terrible..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_04_msg0004",
+      "style": 84,
+      "name": "To the people of Iraada Village...\nmay you rest in peace..."
+    }
+  ]
+}

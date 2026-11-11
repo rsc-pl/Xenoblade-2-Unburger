@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000077_04_msg0001",
+      "style": 84,
+      "name": "Hey there! You're pretty\nfamous these days!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000077_04_msg0002",
+      "style": 84,
+      "name": "Honestly, I never imagined the\npeople who made that awful food\nwould become so successful!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000077_04_msg0003",
+      "style": 84,
+      "name": "I still can't quite believe\nthere was one of you fine folk\nwho could cook like that..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000077_04_msg0004",
+      "style": 84,
+      "name": "The cook's personality seemed to seep\nright through that food."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000077_04_msg0005",
+      "style": 84,
+      "name": "Call it rough, call it\nrude, call it brutal..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000077_04_msg0006",
+      "style": 84,
+      "name": "Huh? What's wrong with that\nblonde young lady? Her face is\nred as an oni!"
+    }
+  ]
+}

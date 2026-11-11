@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202320_msg007",
+      "style": 84,
+      "name": "To revive Slaughter Beast King Andras,\nyou must destroy the four sealstones."
+    },
+    {
+      "$id": 2,
+      "label": "qst202320_msg001",
+      "style": 84,
+      "name": "According to the poem,\ntheir locations are[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst202320_msg002",
+      "style": 84,
+      "name": "The stone of earth in a deep,\ngreen forest... The stone of\nfire in a hot, barren wasteland[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst202320_msg003",
+      "style": 84,
+      "name": "The stone of water in a watery land of\neternal spring... The stone of wind in\na small land blessed by sea breezes[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "qst202320_msg004",
+      "style": 84,
+      "name": "So sings the poem."
+    },
+    {
+      "$id": 6,
+      "label": "qst202320_msg005",
+      "style": 84,
+      "name": "While you destroy the four sealstones,\nI will ask my master where\nSlaughter Beast King Andras is sealed."
+    },
+    {
+      "$id": 7,
+      "label": "qst202320_msg006",
+      "style": 84,
+      "name": "Good luck[ML:Dash ]"
+    },
+    {
+      "$id": 8,
+      "label": "qst202320_msg101",
+      "style": 84,
+      "name": "The place where the Thanatobeast\nis sealed is called Zataris Spring\nin Temperantia."
+    },
+    {
+      "$id": 9,
+      "label": "qst202320_msg102",
+      "style": 84,
+      "name": "When you have safely\ndefeated it and returned,\nplease tell me the story."
+    },
+    {
+      "$id": 10,
+      "label": "qst202320_msg103",
+      "style": 84,
+      "name": "I will write a poem about\nYaegiri-san's deeds!"
+    }
+  ]
+}

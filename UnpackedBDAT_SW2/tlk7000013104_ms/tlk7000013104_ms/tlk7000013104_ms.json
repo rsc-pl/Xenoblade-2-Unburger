@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000131_04_msg0001",
+      "style": 84,
+      "name": "Awww, Milt and Satahiko\naren't with you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000131_04_msg0002",
+      "style": 84,
+      "name": "Oh..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000131_04_msg0003",
+      "style": 84,
+      "name": "I see. They're staying behind in the\ncapital."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000131_04_msg0004",
+      "style": 84,
+      "name": "But I still want to play\nwith them again..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000131_04_msg0005",
+      "style": 84,
+      "name": "Maybe I'll ask Dad to take me to the\ncapital next time."
+    }
+  ]
+}

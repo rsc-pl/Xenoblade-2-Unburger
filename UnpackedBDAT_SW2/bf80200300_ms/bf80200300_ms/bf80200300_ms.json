@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "85890101",
+      "style": 82,
+      "name": "Now that I'm here, you've got nothing to worry about!"
+    },
+    {
+      "$id": 2,
+      "label": "85890102",
+      "style": 82,
+      "name": "Let's fight together until this soul withers away!"
+    },
+    {
+      "$id": 3,
+      "label": "86890101",
+      "style": 82,
+      "name": "Now that I'm here, you've got nothing to worry about!"
+    },
+    {
+      "$id": 4,
+      "label": "86890102",
+      "style": 82,
+      "name": "Let's fight together until this soul withers away!"
+    },
+    {
+      "$id": 5,
+      "label": "87890101",
+      "style": 82,
+      "name": "So you're my new partner! Nice to meet you!"
+    },
+    {
+      "$id": 6,
+      "label": "87890102",
+      "style": 82,
+      "name": "Let's trust each other so we can work well together!"
+    },
+    {
+      "$id": 7,
+      "label": "88890101",
+      "style": 82,
+      "name": "So you're my new partner! Nice to meet you!"
+    },
+    {
+      "$id": 8,
+      "label": "88890102",
+      "style": 82,
+      "name": "Let's trust each other so we can work well together!"
+    }
+  ]
+}

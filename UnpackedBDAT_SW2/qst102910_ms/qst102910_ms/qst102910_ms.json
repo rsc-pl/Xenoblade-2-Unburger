@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102910_msg001",
+      "style": 62,
+      "name": "For the bath-loving Superbians,\nit's an irreplaceable thing.\nMore important than money."
+    },
+    {
+      "$id": 2,
+      "label": "qst102910_msg002",
+      "style": 62,
+      "name": "You can't take the view and this\nhot spring with you, can you?"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400904_msg0001",
+      "style": 84,
+      "name": "I don't chat with people\nwho aren't customers."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400904_msg0002",
+      "style": 84,
+      "name": "If you buy something,\nI'll be happy to talk."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400904_msg0003",
+      "style": 84,
+      "name": "So, are you buying something?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk400904_msg0004",
+      "style": 84,
+      "name": "Cheapskates..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk400904_msg0005",
+      "style": 84,
+      "name": "I'm definitely not telling\nyou anything now!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk400904_msg0006",
+      "style": 84,
+      "name": "Thanks for your business!\nNow I remember!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk400904_msg0007",
+      "style": 84,
+      "name": "It was an old guy named Timell."
+    },
+    {
+      "$id": 8,
+      "label": "tlk400904_msg0008",
+      "style": 84,
+      "name": "He transports Black Ash and\nother ores mined in Superbia."
+    },
+    {
+      "$id": 9,
+      "label": "tlk400904_msg0009",
+      "style": 84,
+      "name": "He should be working near the\nGeothermal Turbine Tower, just across\nMidubal Bridge."
+    },
+    {
+      "$id": 10,
+      "label": "tlk400904_msg0010",
+      "style": 84,
+      "name": "Be careful if you go to meet him."
+    }
+  ]
+}

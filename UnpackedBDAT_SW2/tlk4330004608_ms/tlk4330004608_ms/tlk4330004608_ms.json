@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_08_msg0001",
+      "style": 84,
+      "name": "While I was busy mastering Roast Meat\nTagliata, it looks like a lot happened\nin Alst."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_08_msg0002",
+      "style": 84,
+      "name": "I had no idea."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_08_msg0003",
+      "style": 84,
+      "name": "I think I'd like to cook some food\nfor the refugees in Fons Maim, give\nthem at least a little bit of joy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_08_msg0004",
+      "style": 84,
+      "name": "Even though I only know how to\nmake Roast Meat Tagliata..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300046_08_msg0005",
+      "style": 84,
+      "name": "If my cooking can help people,\nthat's all I could ask for."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43300046_08_msg0006",
+      "style": 84,
+      "name": "That'd be my way of repaying Queen\nLagert for saving my hometown from\nthe flood, right?"
+    }
+  ]
+}

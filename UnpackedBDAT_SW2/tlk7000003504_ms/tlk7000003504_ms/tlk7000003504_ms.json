@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000035_04_msg0001",
+      "style": 84,
+      "name": "Have you ever thought about\ndoing a performance with us?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000035_04_msg0002",
+      "style": 84,
+      "name": "With Invidians, Gulans, Iirans, and\nBlades all in the mix, don't you think\nwe could come up with a great tune?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000035_04_msg0003",
+      "style": 84,
+      "name": "Well, maybe it's not such a good idea.\nIt'd tank our business if you ended\nup being more popular than us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000035_04_msg0004",
+      "style": 84,
+      "name": "And you definitely would be! After\nall, you're already famous..."
+    }
+  ]
+}

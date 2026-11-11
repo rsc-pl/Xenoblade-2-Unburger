@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201918_msg0001",
+      "style": 84,
+      "name": "Holala buried one near the Doreku\nLeaning Tower in Temperantia, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst201918_msg0002",
+      "style": 84,
+      "name": "After all the trouble I went\nthrough to bury it, are you\ngoing to dig it up, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "qst201918_msg0003",
+      "style": 84,
+      "name": "I want to complain, but I don't\nwant to be kicked like Saisai, so\nI won't argue anymore, mo..."
+    }
+  ]
+}

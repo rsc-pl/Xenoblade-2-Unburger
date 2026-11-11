@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400102_msg0001",
+      "style": 84,
+      "name": "Right, now that's sorted..."
+    },
+    {
+      "$id": 2,
+      "label": "qst400102_msg0002",
+      "style": 84,
+      "name": "I've still got a fair amount of cash\nleft. Since I have the chance, maybe\nI should send some back home."
+    },
+    {
+      "$id": 3,
+      "label": "qst400102_msg0003",
+      "style": 84,
+      "name": "I should go see Meroro-san at\nthe Central Exchange again."
+    }
+  ]
+}

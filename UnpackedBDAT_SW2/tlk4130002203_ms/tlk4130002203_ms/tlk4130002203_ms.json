@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300022_03_msg0004",
+      "style": 84,
+      "name": "Hey, it's you. Are you joining the\nmilitia? ...Haha, just kidding."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300022_03_msg0001",
+      "style": 84,
+      "name": "I heard from someone in Superbia\nthat an Artificial Blade was\nbeing made in secret."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300022_03_msg0002",
+      "style": 84,
+      "name": "I heard you don't need to\nresonate with Artificial Blades.\nI wonder if that's true..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300022_03_msg0003",
+      "style": 84,
+      "name": "I'd love for one to be my Blade and\nhelp out the militia... We're that\nshort-staffed."
+    }
+  ]
+}

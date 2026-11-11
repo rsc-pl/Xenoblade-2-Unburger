@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100071_02_msg0001",
+      "style": 84,
+      "name": "I thought just a little\nwould be okay..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100071_02_msg0002",
+      "style": 84,
+      "name": "You can understand me?!\nHuh, you're an unusual person."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100071_02_msg0003",
+      "style": 84,
+      "name": "I heard that pretty Blade who used\nto come here died..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100071_02_msg0004",
+      "style": 84,
+      "name": "She tried to pet me before, but I ran\naway even though she was trying to\nbe gentle..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk47100071_02_msg0005",
+      "style": 84,
+      "name": "I thought I might let her pet me\na little next time she came...\nIt's sad."
+    }
+  ]
+}

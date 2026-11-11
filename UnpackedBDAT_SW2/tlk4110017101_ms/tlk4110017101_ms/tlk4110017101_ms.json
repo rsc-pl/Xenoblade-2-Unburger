@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_01_msg0001",
+      "style": 84,
+      "name": "Heheheh! What a haul! What a haul!\nMade a ton of cash again today!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_01_msg0002",
+      "style": 84,
+      "name": "Tourists throw coins into the\nCloud Sea from Mira-Maa Viewpoint,\nbut some of them fly over here!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_01_msg0003",
+      "style": 84,
+      "name": "They say your wish comes true if you\nthrow one... And my wish for money\nsure is coming true!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100171_01_msg0004",
+      "style": 84,
+      "name": "Why don't you try throwing one? If\nit lands here instead of the Cloud\nSea, I'll hold onto it for you."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000042_05_msg0001",
+      "style": 84,
+      "name": "It's a shame, but I'm going\nto close up shop here soon."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000042_05_msg0002",
+      "style": 84,
+      "name": "There's no time or space to transport\nthe fish - I've got my hands full just\npreparing to evacuate my own self!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000042_05_msg0003",
+      "style": 84,
+      "name": "After all the effort you put\ninto helping me restock the\nfish, it's hard to let go."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000042_05_msg0004",
+      "style": 84,
+      "name": "I'm not giving up forever, though!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000042_05_msg0005",
+      "style": 84,
+      "name": "I believe you'll defeat Heaven's Holy\nGrail and come back to this city!"
+    }
+  ]
+}

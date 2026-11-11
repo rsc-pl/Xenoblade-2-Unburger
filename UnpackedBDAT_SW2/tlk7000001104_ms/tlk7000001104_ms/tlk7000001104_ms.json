@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000011_04_msg0001",
+      "style": 84,
+      "name": "Hey, good to see you again!\nYou'll be glad to know my nan's\ndoing good. Back on her feet."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000011_04_msg0002",
+      "style": 84,
+      "name": "Now then, kind Driver! How about some\nof our accessories?!"
+    }
+  ]
+}

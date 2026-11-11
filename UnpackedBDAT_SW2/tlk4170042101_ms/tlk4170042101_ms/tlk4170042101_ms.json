@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170042101_msg0001",
+      "style": 84,
+      "name": "Oh, Gula, Gula... Sunlight through\nthe trees, like a mother; a great\ntree, like a father..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170042101_msg0002",
+      "style": 84,
+      "name": "I am putting the natural\nbeauty of Gula into words."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170042101_msg0003",
+      "style": 84,
+      "name": "I want the children here to describe\nthe scenery of their homeland vividly\ntoo, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4170042101_msg0004",
+      "style": 84,
+      "name": "They'd rather experience nature\nfirsthand than put it into words, so\nthey won't listen to me..."
+    }
+  ]
+}

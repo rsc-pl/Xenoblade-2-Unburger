@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100342_03_msg0001",
+      "style": 84,
+      "name": "Those Kujinraman Cookies were\nso delicious!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100342_03_msg0002",
+      "style": 84,
+      "name": "I've always wanted to join the\nInvidian army, but now I'm starting\nto want to become a Driver."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100342_03_msg0003",
+      "style": 84,
+      "name": "I don't know if I have potential\nor not... But I'm determined to try!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100342_03_msg0004",
+      "style": 84,
+      "name": "Then I'll have my Blade bake me\nKujinraman Cookies like the ones\nthose Onee-chans made."
+    }
+  ]
+}

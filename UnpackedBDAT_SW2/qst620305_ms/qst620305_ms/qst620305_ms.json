@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620305_msg0001",
+      "style": 84,
+      "name": "This place is... No, this place is\namazing!"
+    },
+    {
+      "$id": 2,
+      "label": "qst620305_msg0002",
+      "style": 84,
+      "name": "How would a woman feel if someone\nproposed here under the aurora?"
+    },
+    {
+      "$id": 3,
+      "label": "qst620305_msg0003",
+      "style": 84,
+      "name": "Rex-kun, could you ask someone what\nshe thinks?"
+    },
+    {
+      "$id": 4,
+      "label": "qst620305_msg0004",
+      "style": 84,
+      "name": "Hmm... Who should I ask?"
+    },
+    {
+      "$id": 5,
+      "label": "qst620305_msg0005",
+      "style": 84,
+      "name": "Who will you ask?"
+    },
+    {
+      "$id": 6,
+      "label": "qst620305_msg0006",
+      "style": 84,
+      "name": "Homura"
+    },
+    {
+      "$id": 7,
+      "label": "qst620305_msg0007",
+      "style": 84,
+      "name": "Hikari"
+    },
+    {
+      "$id": 8,
+      "label": "qst620305_msg0008",
+      "style": 84,
+      "name": "Someone else"
+    },
+    {
+      "$id": 9,
+      "label": "qst620305_msg0009",
+      "style": 84,
+      "name": "Nia"
+    },
+    {
+      "$id": 10,
+      "label": "qst620305_msg0010",
+      "style": 84,
+      "name": "Hana"
+    },
+    {
+      "$id": 11,
+      "label": "qst620305_msg0011",
+      "style": 84,
+      "name": "Kagutsuchi"
+    },
+    {
+      "$id": 12,
+      "label": "qst620305_msg0012",
+      "style": 84,
+      "name": "Saika"
+    },
+    {
+      "$id": 13,
+      "label": "qst620305_msg0013",
+      "style": 84,
+      "name": "Meleph"
+    },
+    {
+      "$id": 14,
+      "label": "qst620305_msg0101",
+      "style": 84,
+      "name": "Homura, what do you think?"
+    },
+    {
+      "$id": 15,
+      "label": "qst620305_msg0102",
+      "style": 84,
+      "name": "Um..."
+    },
+    {
+      "$id": 16,
+      "label": "qst620305_msg0103",
+      "style": 84,
+      "name": "It's certainly got a little charm!"
+    },
+    {
+      "$id": 17,
+      "label": "qst620305_msg0104",
+      "style": 84,
+      "name": "A little!?"
+    },
+    {
+      "$id": 18,
+      "label": "qst620305_msg0105",
+      "style": 84,
+      "name": "No, very. It is very lovely."
+    },
+    {
+      "$id": 19,
+      "label": "qst620305_msg0201",
+      "style": 84,
+      "name": "Hikari, what do you think?"
+    },
+    {
+      "$id": 20,
+      "label": "qst620305_msg0202",
+      "style": 84,
+      "name": "It's not half bad, I suppose."
+    },
+    {
+      "$id": 21,
+      "label": "qst620305_msg0203",
+      "style": 84,
+      "name": "I'm sure there are at least some girls\nwho would be happy to be proposed to\nhere."
+    },
+    {
+      "$id": 22,
+      "label": "qst620305_msg0204",
+      "style": 84,
+      "name": "Let's just hope Ondina\nis one of them..."
+    },
+    {
+      "$id": 23,
+      "label": "qst620305_msg0301",
+      "style": 84,
+      "name": "Nia, what do you think?"
+    },
+    {
+      "$id": 24,
+      "label": "qst620305_msg0302",
+      "style": 84,
+      "name": "Why'd you have to go and ask me...?"
+    },
+    {
+      "$id": 25,
+      "label": "qst620305_msg0303",
+      "style": 84,
+      "name": "But..."
+    },
+    {
+      "$id": 26,
+      "label": "qst620305_msg0304",
+      "style": 84,
+      "name": "Well, it's not too bad, is it?"
+    },
+    {
+      "$id": 27,
+      "label": "qst620305_msg0305",
+      "style": 84,
+      "name": "If you worked hard to think this\nthrough and prepare it, I think she\nwill accept."
+    },
+    {
+      "$id": 28,
+      "label": "qst620305_msg0306",
+      "style": 84,
+      "name": "Though we are the ones who prepared\nit."
+    },
+    {
+      "$id": 29,
+      "label": "qst620305_msg0307",
+      "style": 84,
+      "name": "Nia, don't say that."
+    },
+    {
+      "$id": 30,
+      "label": "qst620305_msg0401",
+      "style": 84,
+      "name": "Hana, what do you think?"
+    },
+    {
+      "$id": 31,
+      "label": "qst620305_msg0402",
+      "style": 84,
+      "name": "Why did you choose Hana, mo?"
+    },
+    {
+      "$id": 32,
+      "label": "qst620305_msg0403",
+      "style": 84,
+      "name": "Hana lacks experience with this and\nmay not be able to give a satisfactory\nanswer, mo."
+    },
+    {
+      "$id": 33,
+      "label": "qst620305_msg0404",
+      "style": 84,
+      "name": "I thought Hana would answer honestly."
+    },
+    {
+      "$id": 34,
+      "label": "qst620305_msg0405",
+      "style": 84,
+      "name": "Then Hana will answer honestly, mo."
+    },
+    {
+      "$id": 35,
+      "label": "qst620305_msg0406",
+      "style": 84,
+      "name": "This place could work! Mo."
+    },
+    {
+      "$id": 36,
+      "label": "qst620305_msg0407",
+      "style": 84,
+      "name": "A rare gem and rare weather... Few\npeople propose this way, so it feels\nvery unique, mo."
+    },
+    {
+      "$id": 37,
+      "label": "qst620305_msg0408",
+      "style": 84,
+      "name": "It is so unusual that many people\nmight accept the proposal on the spot,\nmo."
+    },
+    {
+      "$id": 38,
+      "label": "qst620305_msg0501",
+      "style": 84,
+      "name": "Kagutsuchi, what do you think?"
+    },
+    {
+      "$id": 39,
+      "label": "qst620305_msg0502",
+      "style": 84,
+      "name": "It seems suitable enough."
+    },
+    {
+      "$id": 40,
+      "label": "qst620305_msg0503",
+      "style": 84,
+      "name": "More importantly, leaving your\ngirlfriend alone while you're\ntraveling is worse."
+    },
+    {
+      "$id": 41,
+      "label": "qst620305_msg0504",
+      "style": 84,
+      "name": "It could ruin something that would\notherwise go well."
+    },
+    {
+      "$id": 42,
+      "label": "qst620305_msg0505",
+      "style": 84,
+      "name": "Guh...!"
+    },
+    {
+      "$id": 43,
+      "label": "qst620305_msg0506",
+      "style": 84,
+      "name": "Y-yeah, you are right. I need to\ndecide quickly..."
+    },
+    {
+      "$id": 44,
+      "label": "qst620305_msg0601",
+      "style": 84,
+      "name": "Saika, what do you think?"
+    },
+    {
+      "$id": 45,
+      "label": "qst620305_msg0602",
+      "style": 84,
+      "name": "I think it's great!"
+    },
+    {
+      "$id": 46,
+      "label": "qst620305_msg0603",
+      "style": 84,
+      "name": "I wish someone would treasure me that\nmuch too."
+    },
+    {
+      "$id": 47,
+      "label": "qst620305_msg0604",
+      "style": 84,
+      "name": "I think Zeke treasures you, Saika."
+    },
+    {
+      "$id": 48,
+      "label": "qst620305_msg0605",
+      "style": 84,
+      "name": "No, no. He still has a long way to\ngo..."
+    },
+    {
+      "$id": 49,
+      "label": "qst620305_msg0606",
+      "style": 84,
+      "name": "Um... You two..."
+    },
+    {
+      "$id": 50,
+      "label": "qst620305_msg0607",
+      "style": 84,
+      "name": "Oops, sorry, I got sidetracked."
+    },
+    {
+      "$id": 51,
+      "label": "qst620305_msg0608",
+      "style": 84,
+      "name": "I think this place is good."
+    },
+    {
+      "$id": 52,
+      "label": "qst620305_msg0701",
+      "style": 84,
+      "name": "Meleph, what do you think?"
+    },
+    {
+      "$id": 53,
+      "label": "qst620305_msg0702",
+      "style": 84,
+      "name": "You put me on the spot asking me..."
+    },
+    {
+      "$id": 54,
+      "label": "qst620305_msg0703",
+      "style": 84,
+      "name": "Perhaps we had better extend\nthe question to Kagutsuchi."
+    },
+    {
+      "$id": 55,
+      "label": "qst620305_msg0704",
+      "style": 84,
+      "name": "Meleph-sama..."
+    },
+    {
+      "$id": 56,
+      "label": "qst620305_msg0705",
+      "style": 84,
+      "name": "Meleph-sama, I think you should simply\nanswer what you think."
+    },
+    {
+      "$id": 57,
+      "label": "qst620305_msg0706",
+      "style": 84,
+      "name": "I see, yes... However..."
+    },
+    {
+      "$id": 58,
+      "label": "qst620305_msg0707",
+      "style": 84,
+      "name": "Think of it simply: is it good or bad?"
+    },
+    {
+      "$id": 59,
+      "label": "qst620305_msg0708",
+      "style": 84,
+      "name": "Ah, indeed..."
+    },
+    {
+      "$id": 60,
+      "label": "qst620305_msg0709",
+      "style": 84,
+      "name": "If I had to choose... good."
+    },
+    {
+      "$id": 61,
+      "label": "qst620305_msg0801",
+      "style": 84,
+      "name": "Okay! I've decided. I'll do it here!"
+    },
+    {
+      "$id": 62,
+      "label": "qst620305_msg0802",
+      "style": 84,
+      "name": "But... I have one concern."
+    },
+    {
+      "$id": 63,
+      "label": "qst620305_msg0803",
+      "style": 84,
+      "name": "We need to defeat those creatures and\nmake this place safe."
+    },
+    {
+      "$id": 64,
+      "label": "qst620305_msg0804",
+      "style": 84,
+      "name": "Exactly. It may be a little trouble,\nbut I'm counting on you!"
+    },
+    {
+      "$id": 65,
+      "label": "qst620305_msg0805",
+      "style": 84,
+      "name": "Leave it to me!"
+    }
+  ]
+}

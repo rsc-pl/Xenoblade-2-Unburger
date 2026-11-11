@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202702_msg0001",
+      "style": 84,
+      "name": "They're a real nuisance,\nmo! I'm so angry, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202702_msg0002",
+      "style": 84,
+      "name": "In the dead of night, young Nopon\ngather on a Berafe Industrial District\nroof and chant strange spells, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst202702_msg0003",
+      "style": 84,
+      "name": "It's creepy, so I wish they'd\ndo it somewhere else, mo!"
+    }
+  ]
+}

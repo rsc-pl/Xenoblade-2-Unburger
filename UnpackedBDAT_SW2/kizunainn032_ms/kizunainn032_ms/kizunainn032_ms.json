@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn032_msg001",
+      "style": 84,
+      "name": "Say, there's all kinds of delicious\nfood in Luxuria too, right?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn032_msg002",
+      "style": 84,
+      "name": "Well, even under these conditions,\nthere's stuff that's decent enough[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn032_msg003",
+      "style": 84,
+      "name": "I'll show ya around. Wanna grab\nsomething to eat?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn032_msg004",
+      "style": 84,
+      "name": "Yeah, I want to go!"
+    }
+  ]
+}

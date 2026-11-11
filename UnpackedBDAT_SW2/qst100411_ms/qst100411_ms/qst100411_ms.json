@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100411_msg0001",
+      "style": 84,
+      "name": "S-Solala! I'm so glad,\nmo! You're alive, mo!!"
+    },
+    {
+      "$id": 2,
+      "label": "qst100411_msg0002",
+      "style": 84,
+      "name": "...Are you Falala-san, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "qst100411_msg0003",
+      "style": 84,
+      "name": "Solala is not your son,\nmo. I'm a Nopon from the\nKingdom of Invidia, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst100411_msg0004",
+      "style": 84,
+      "name": "What are you saying, mo? No matter\nhow you look at it, you're Falala's\nson, Solala, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst100411_msg0005",
+      "style": 84,
+      "name": "Your memory... Could it be from\ndrifting in the Cloud Sea, mo...?"
+    },
+    {
+      "$id": 6,
+      "label": "qst100411_msg0006",
+      "style": 84,
+      "name": "What should I do, mo...? How can\nI make you remember, mo...?"
+    },
+    {
+      "$id": 7,
+      "label": "qst100411_msg0101",
+      "style": 84,
+      "name": "How can I make him remember?"
+    },
+    {
+      "$id": 8,
+      "label": "qst100411_msg0102",
+      "style": 84,
+      "name": "Let him hear my song"
+    },
+    {
+      "$id": 9,
+      "label": "qst100411_msg0103",
+      "style": 84,
+      "name": "Let him eat my cooking"
+    },
+    {
+      "$id": 10,
+      "label": "qst100411_msg0110",
+      "style": 84,
+      "name": "A song... I think I remember\nhearing songs a lot\nwhen I was little..."
+    },
+    {
+      "$id": 11,
+      "label": "qst100411_msg0111",
+      "style": 84,
+      "name": "Listen to this song I've sung for\nyou since you were little, mo..."
+    },
+    {
+      "$id": 12,
+      "label": "qst100411_msg0112",
+      "style": 84,
+      "name": "Rururu~♪ Rururu~♪ Rurirarara~~~~♪"
+    },
+    {
+      "$id": 13,
+      "label": "qst100411_msg0113",
+      "style": 84,
+      "name": "...Do you remember anything, mo?"
+    },
+    {
+      "$id": 14,
+      "label": "qst100411_msg0114",
+      "style": 84,
+      "name": "Hmmm... The song I heard\nwhen I was little..."
+    },
+    {
+      "$id": 15,
+      "label": "qst100411_msg0115",
+      "style": 84,
+      "name": "...was much more off-key, mo!\nYou're not Solala's mother, mo!"
+    },
+    {
+      "$id": 16,
+      "label": "qst100411_msg0116",
+      "style": 84,
+      "name": "Momomo~~?! What is this, mo! My\nimproved singing has backfired!!"
+    },
+    {
+      "$id": 17,
+      "label": "qst100411_msg0117",
+      "style": 84,
+      "name": "Then, then, Falala's specialty dish\nthat you've eaten since you were\nlittle..."
+    },
+    {
+      "$id": 18,
+      "label": "qst100411_msg0130",
+      "style": 84,
+      "name": "Falala's specialty, Spicy Ruushichi,\nI've been eating it since I was\nlittle, mo!"
+    },
+    {
+      "$id": 19,
+      "label": "qst100411_msg0131",
+      "style": 84,
+      "name": "Try some of the one I just made, mo!"
+    },
+    {
+      "$id": 20,
+      "label": "qst100411_msg0132",
+      "style": 84,
+      "name": "*munch*... *gulp*... *gulp*..."
+    },
+    {
+      "$id": 21,
+      "label": "qst100411_msg0133",
+      "style": 84,
+      "name": "...Do you remember anything, mo?"
+    },
+    {
+      "$id": 22,
+      "label": "qst100411_msg0134",
+      "style": 84,
+      "name": "Th-this taste is..."
+    },
+    {
+      "$id": 23,
+      "label": "qst100411_msg0135",
+      "style": 84,
+      "name": "too delicious, mo! My mother's\ncooking was much rougher, mo! This\nis a professional's taste, mo!"
+    },
+    {
+      "$id": 24,
+      "label": "qst100411_msg0136",
+      "style": 84,
+      "name": "Momomo~~?! I got better at it\nfrom making it so much, mo!!"
+    },
+    {
+      "$id": 25,
+      "label": "qst100411_msg0137",
+      "style": 84,
+      "name": "Then, then, what about this\nsong I've sung for you since\nyou were little..."
+    },
+    {
+      "$id": 26,
+      "label": "qst100411_msg0201",
+      "style": 84,
+      "name": "*sob* *sob*... Neither the\nsong nor the food worked...\nWhat should I do...?"
+    },
+    {
+      "$id": 27,
+      "label": "qst100411_msg0202",
+      "style": 84,
+      "name": "Solala is a passionate Nopon\nfrom the Kingdom of Invidia!"
+    },
+    {
+      "$id": 28,
+      "label": "qst100411_msg0203",
+      "style": 84,
+      "name": "Not some greedy Nopon\nfrom Avaritia, and..."
+    },
+    {
+      "$id": 29,
+      "label": "qst100411_msg0204",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]There's no way a Nopon who sings\nso well and cooks such delicious\nfood could be my mother, mo!"
+    },
+    {
+      "$id": 30,
+      "label": "qst100411_msg0205",
+      "style": 84,
+      "name": "Mo... Momo..."
+    },
+    {
+      "$id": 31,
+      "label": "qst100411_msg0206",
+      "style": 84,
+      "name": "I worked so hard to get a\nwonderful singing voice..."
+    },
+    {
+      "$id": 32,
+      "label": "qst100411_msg0207",
+      "style": 84,
+      "name": "I had someone gather the ingredients\nto make Spicy Ruushichi..."
+    },
+    {
+      "$id": 33,
+      "label": "qst100411_msg0208",
+      "style": 84,
+      "name": "I asked around for any\nclues about you, Solala..."
+    },
+    {
+      "$id": 34,
+      "label": "qst100411_msg0209",
+      "style": 84,
+      "name": "That's none of Solala's\nbusiness, mo."
+    },
+    {
+      "$id": 35,
+      "label": "qst100411_msg0210",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Fungofungo, mo!!"
+    },
+    {
+      "$id": 36,
+      "label": "qst100411_msg0211",
+      "style": 84,
+      "name": "Umomomo~~"
+    },
+    {
+      "$id": 37,
+      "label": "qst100411_msg0212",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]This child... is not my child,\nmo! I'm so angry, mo!!"
+    },
+    {
+      "$id": 38,
+      "label": "qst100411_msg0213",
+      "style": 84,
+      "name": "Th-this is..."
+    },
+    {
+      "$id": 39,
+      "label": "qst100411_msg0214",
+      "style": 84,
+      "name": "A blow that looks powerful,\nbut softened by the paw pads\nso it doesn't hurt much..."
+    },
+    {
+      "$id": 40,
+      "label": "qst100411_msg0215",
+      "style": 84,
+      "name": "M-M-... MOOOM!!"
+    },
+    {
+      "$id": 41,
+      "label": "qst100411_msg0216",
+      "style": 84,
+      "name": "Your memory...!? Ah! Solala!"
+    },
+    {
+      "$id": 42,
+      "label": "qst100411_msg0217",
+      "style": 84,
+      "name": "I remember, mo~! I'm sorry, mo~~!"
+    },
+    {
+      "$id": 43,
+      "label": "qst100411_msg0218",
+      "style": 84,
+      "name": "I went out fishing, fell into the\nCloud Sea, and drifted away... I\nwas so scared, so scared, mo~~!"
+    },
+    {
+      "$id": 44,
+      "label": "qst100411_msg0219",
+      "style": 84,
+      "name": "It's okay now, mo! Mother is here, mo!"
+    },
+    {
+      "$id": 45,
+      "label": "qst100411_msg0220",
+      "style": 84,
+      "name": "I'm moved!"
+    },
+    {
+      "$id": 46,
+      "label": "qst100411_msg0221",
+      "style": 84,
+      "name": "*sob*... Watching this\nis making me cry..."
+    },
+    {
+      "$id": 47,
+      "label": "qst100411_msg0222",
+      "style": 84,
+      "name": "Let's celebrate Falala today! Let's\neat some Spicy Ruushichi!"
+    },
+    {
+      "$id": 48,
+      "label": "qst100411_msg0223",
+      "style": 84,
+      "name": "Let us hear Falala's song!"
+    },
+    {
+      "$id": 49,
+      "label": "qst100411_msg0224",
+      "style": 84,
+      "name": "Oh yeah! Nice, nice!"
+    },
+    {
+      "$id": 50,
+      "label": "qst100411_msg0225",
+      "style": 84,
+      "name": "Everyone... Thank you, mo!"
+    },
+    {
+      "$id": 51,
+      "label": "qst100411_msg0226",
+      "style": 84,
+      "name": "Thanks to you all, Solala\nhas returned to me, mo."
+    },
+    {
+      "$id": 52,
+      "label": "qst100411_msg0227",
+      "style": 84,
+      "name": "Thank you so, so much, mo!"
+    },
+    {
+      "$id": 53,
+      "label": "qst100411_msg0228",
+      "style": 84,
+      "name": "I'm sorry for saying so\nmany rude things, mo."
+    },
+    {
+      "$id": 54,
+      "label": "qst100411_msg0229",
+      "style": 84,
+      "name": "You can come and enjoy Falala's\nsong and food anytime, mo!"
+    },
+    {
+      "$id": 55,
+      "label": "qst100411_msg0230",
+      "style": 84,
+      "name": "For you, I'll offer it\nat a special price, mo!"
+    }
+  ]
+}

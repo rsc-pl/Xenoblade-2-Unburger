@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400044_03_msg0001",
+      "style": 84,
+      "name": "You should hurry and go help\nIon-chan."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400044_03_msg0002",
+      "style": 84,
+      "name": "Are you still not fully recovered?\nThen you should rest a little."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400044_03_msg0003",
+      "style": 84,
+      "name": "Once you're feeling better, hurry and\nhelp Ion-chan!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400044_03_msg0004",
+      "style": 84,
+      "name": "The Karam Ruins are beyond the Holy\nGate of Fontana."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43400044_03_msg0005",
+      "style": 84,
+      "name": "Hey! This is a business. I can't\nlet you stay for free. Sorry..."
+    }
+  ]
+}

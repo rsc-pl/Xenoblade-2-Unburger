@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43600142_03_msg0001",
+      "style": 84,
+      "name": "Do you know what I want more\nthan anything else right now?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43600142_03_msg0002",
+      "style": 84,
+      "name": "Money."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43600142_03_msg0003",
+      "style": 84,
+      "name": "No. A guarantee that I'll survive."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43600142_03_msg0004",
+      "style": 84,
+      "name": "I think that the way things\nare going, Alst as we know it\nwill be coming to an end."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43600142_03_msg0005",
+      "style": 84,
+      "name": "The Divine Beasts gathered together\nand started fighting each other..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43600142_03_msg0006",
+      "style": 84,
+      "name": "There's no guarantee any of us\nwill make it out of this alive."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43600142_03_msg0007",
+      "style": 84,
+      "name": "If money could save my life, I'd pay\nevery last bit of my fortune."
+    }
+  ]
+}

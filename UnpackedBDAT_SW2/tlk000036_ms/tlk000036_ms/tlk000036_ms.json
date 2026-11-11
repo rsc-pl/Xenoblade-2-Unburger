@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000036_msg0001",
+      "style": 84,
+      "name": "Once Master gets like this,\nnothing can move him, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000036_msg0002",
+      "style": 84,
+      "name": "Hana will keep an eye on Master,\nso you two can go somewhere and\ndo whatever you like, mo."
+    }
+  ]
+}

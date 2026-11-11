@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000009_04_msg0001",
+      "style": 84,
+      "name": "Laura-sama! Thank you so\nmuch for your help before.\nIt really means a lot"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000009_04_msg0002",
+      "style": 84,
+      "name": "If you hadn't set me straight, I\nbet I'd still be putting pride\nbefore the things that truly matter."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000009_04_msg0003",
+      "style": 84,
+      "name": "I know very well that saying it is\neasier than doing it, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000009_04_msg0004",
+      "style": 84,
+      "name": "But sometimes words are exactly what\nyou need. I can't keep expecting the\npeople around me to read my mind."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000009_04_msg0005",
+      "style": 84,
+      "name": "From now on, I think I'll try talking\nwith my older brother a little more."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000009_04_msg0006",
+      "style": 84,
+      "name": "...He's my only older brother, after\nall."
+    }
+  ]
+}

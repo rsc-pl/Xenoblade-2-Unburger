@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370152_03_msg0001",
+      "style": 84,
+      "name": "Well done, Holy See!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370152_03_msg0002",
+      "style": 84,
+      "name": "If this ceasefire holds,\nwe can cut military spending!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370152_03_msg0003",
+      "style": 84,
+      "name": "Then if we solve the\nanti-Empire problem,\nmy stress will ease too!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45370152_03_msg0004",
+      "style": 84,
+      "name": "Ah! [ML:Dash ]Ahem! N-nothing!\nI was just muttering\nabout the budget review!"
+    }
+  ]
+}

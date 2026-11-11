@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000018_03_msg0001",
+      "style": 84,
+      "name": "Oh, we meet again. As for me,\nI spend every day staring at\nthese fish. Hah hah hah."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000018_03_msg0002",
+      "style": 84,
+      "name": "Wh-what? You're saying I should\njust go home already? W-well..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000018_03_msg0003",
+      "style": 84,
+      "name": "To tell the truth, my wife was\nvexed with me for leaving\nwithout thanking you guys..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000018_03_msg0004",
+      "style": 84,
+      "name": "I made it back to the capital, but now\nI can't bring myself to go home...\nWhat a mess..."
+    }
+  ]
+}

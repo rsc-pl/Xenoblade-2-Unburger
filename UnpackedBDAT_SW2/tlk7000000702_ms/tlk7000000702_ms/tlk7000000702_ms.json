@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000007_02_msg0001",
+      "style": 84,
+      "name": "Cough, cough... I'm all right...\nPlease look after the people who were\ninjured instead."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000007_02_msg0002",
+      "style": 84,
+      "name": "I mean, I'm basically just\nill all the time. This is\nnormal for me, honestly."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000007_02_msg0003",
+      "style": 84,
+      "name": "Come to think of it, are Tiko and\nJoey all right? And Marco too...?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000007_02_msg0004",
+      "style": 84,
+      "name": "They're all dear friends of mine...\nPlease, please let them be safe..."
+    }
+  ]
+}

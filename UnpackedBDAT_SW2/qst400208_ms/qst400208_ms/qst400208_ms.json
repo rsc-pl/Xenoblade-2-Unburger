@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400208_msg0001",
+      "style": 84,
+      "name": "Now let's see... Don't\nknow anything about that."
+    },
+    {
+      "$id": 2,
+      "label": "qst400208_msg0002",
+      "style": 84,
+      "name": "If you want information,\nwhy don't you ask the\ninformant near Peruuni Vegetable?"
+    },
+    {
+      "$id": 3,
+      "label": "qst400208_msg0003",
+      "style": 84,
+      "name": "He's a sharp-eared Nopon, so\nhe might know something."
+    }
+  ]
+}

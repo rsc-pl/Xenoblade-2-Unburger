@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102505_msg001",
+      "style": 62,
+      "name": "We finally beat them all (temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst102505_msg002",
+      "style": 62,
+      "name": "Oh, the door in the back opened (temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102505_msg003",
+      "style": 62,
+      "name": "I think the Dragon Incense is\nin there, but the enemies are\ntoo strong to get it (temp)"
+    },
+    {
+      "$id": 4,
+      "label": "qst102505_msg004",
+      "style": 62,
+      "name": "Let's go back to the\nmercenary village and\nreport to the teacher (temp)"
+    }
+  ]
+}

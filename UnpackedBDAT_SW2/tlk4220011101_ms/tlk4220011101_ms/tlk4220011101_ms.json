@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200111_01_msg0001",
+      "style": 84,
+      "name": "Do you know what Twinklejuice is, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200111_01_msg0002",
+      "style": 84,
+      "name": "Talulu loves it, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200111_01_msg0003",
+      "style": 84,
+      "name": "Eating my favorite things makes me\nfeel stronger than usual, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200111_01_msg0004",
+      "style": 84,
+      "name": "When you go on an adventure,\nyou should take lots of your\nfavorite things with you, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42200111_01_msg0005",
+      "style": 84,
+      "name": "But if you drink too much,\nyou'll get cavities and Mom\nwill get mad, so be careful, mo."
+    }
+  ]
+}

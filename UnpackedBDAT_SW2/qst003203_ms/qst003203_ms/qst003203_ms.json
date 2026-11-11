@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003203_msg0001",
+      "style": 84,
+      "name": "Thank you so much, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst003203_msg0002",
+      "style": 84,
+      "name": "Please wait a moment, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst003203_msg0003",
+      "style": 84,
+      "name": "There is a Nopon girl named\nAlulu-chan, mo. She fell from\nAcedia with Bonono, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst003203_msg0004",
+      "style": 84,
+      "name": "We were traveling together, but\ngot separated on the way, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "qst003203_msg0005",
+      "style": 84,
+      "name": "Bonono is worried she was\nattacked by those things too,\nmo. Please help her as well, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst003203_msg0006",
+      "style": 84,
+      "name": "We got separated, so I don't\nknow where she went, but I\nthink she went downwards, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst003203_msg0007",
+      "style": 84,
+      "name": "Thank you, mo. She must be scared,\nso please find her quickly, mo!"
+    }
+  ]
+}

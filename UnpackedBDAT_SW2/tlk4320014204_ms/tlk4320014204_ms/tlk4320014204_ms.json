@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200142_04_msg0001",
+      "style": 84,
+      "name": "When you buy every item in a shop,\nyou can buy the right to become\nthat shop's owner!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200142_04_msg0002",
+      "style": 84,
+      "name": "Once you obtain it, you'll receive\nbenefits permanently!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200142_04_msg0003",
+      "style": 84,
+      "name": "But as you know, Merc Missions can\nalso increase the goods a shop\ncarries."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200142_04_msg0004",
+      "style": 84,
+      "name": "Be careful! Don't forget that!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200142_04_msg0005",
+      "style": 84,
+      "name": "That's what Father said."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43200142_04_msg0006",
+      "style": 84,
+      "name": "Becoming an owner will be difficult,\nbut good luck."
+    }
+  ]
+}

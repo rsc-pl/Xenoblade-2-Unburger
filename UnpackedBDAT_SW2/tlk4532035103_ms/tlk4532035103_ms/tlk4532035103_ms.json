@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320351_03_msg0001",
+      "style": 84,
+      "name": "No matter what may become of\nAlst, it is our sworn duty to\nensure the safety of the Emperor."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320351_03_msg0002",
+      "style": 84,
+      "name": "Please resolve this situation as soon\nas possible."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320351_03_msg0003",
+      "style": 84,
+      "name": "You're the only ones we can rely on."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320351_03_msg0101",
+      "style": 84,
+      "name": "Special Commissioner Meleph."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320351_03_msg0102",
+      "style": 84,
+      "name": "We of the Cretas Guard will protect\nHis Majesty with our lives."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45320351_03_msg0103",
+      "style": 84,
+      "name": "So please... take care of Alst."
+    }
+  ]
+}

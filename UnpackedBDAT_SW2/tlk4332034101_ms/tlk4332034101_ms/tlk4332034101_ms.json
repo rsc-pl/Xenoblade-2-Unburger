@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320341_01_msg0001",
+      "style": 84,
+      "name": "My, you have an awful lot of\nBlades with you, don't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320341_01_msg0002",
+      "style": 84,
+      "name": "I'd say you still have a long way to\ngo with your weapon skills."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320341_01_msg0003",
+      "style": 84,
+      "name": "If you stick with the same weapon\nthroughout a lot of battles, then\nyour skill with it is sure to grow!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320341_01_msg0004",
+      "style": 84,
+      "name": "That also leads to stronger Arts."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320341_01_msg0005",
+      "style": 84,
+      "name": "The Blade you choose as your partner,\nand the weapon they carry, are both\nquite important."
+    }
+  ]
+}

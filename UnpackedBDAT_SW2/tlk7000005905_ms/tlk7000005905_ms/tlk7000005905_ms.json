@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000059_05_msg0001",
+      "style": 84,
+      "name": "For people of such high rank, you're\nawfully kind to commoners."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000059_05_msg0002",
+      "style": 84,
+      "name": "I always thought rich people,\nknights, and nobles were all\nfoolish, greedy, and worthless."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000059_05_msg0003",
+      "style": 84,
+      "name": "So there are golden eggs like you—\nI mean, good people too♪"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000059_05_msg0004",
+      "style": 84,
+      "name": "Feels like I've found a whole new\nfrontier! I'll be counting on you in\nall sorts of ways from now on♪"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701905_msg0001",
+      "style": 84,
+      "name": "Sorry for the wait. We\ngot the Dragon Incense."
+    },
+    {
+      "$id": 2,
+      "label": "qst701905_msg0002",
+      "style": 84,
+      "name": "Really...? Thank you."
+    },
+    {
+      "$id": 3,
+      "label": "qst701905_msg0003",
+      "style": 84,
+      "name": "Let me! I'll make it!"
+    },
+    {
+      "$id": 4,
+      "label": "qst701905_msg0004",
+      "style": 84,
+      "name": "Do you know the recipe?"
+    },
+    {
+      "$id": 5,
+      "label": "qst701905_msg0005",
+      "style": 84,
+      "name": "I studied it after Marena-san told\nme about the Dragon Incense."
+    },
+    {
+      "$id": 6,
+      "label": "qst701905_msg0006",
+      "style": 84,
+      "name": "I got the other ingredients with\nTiko and Joey, so I'm all set."
+    },
+    {
+      "$id": 7,
+      "label": "qst701905_msg0007",
+      "style": 84,
+      "name": "Then please, go ahead."
+    },
+    {
+      "$id": 8,
+      "label": "qst701905_msg0008",
+      "style": 84,
+      "name": "Leave it to me!"
+    },
+    {
+      "$id": 9,
+      "label": "qst701905_msg0009",
+      "style": 84,
+      "name": "Alright, it's done!"
+    },
+    {
+      "$id": 10,
+      "label": "qst701905_msg0010",
+      "style": 84,
+      "name": "Furia, please drink it."
+    },
+    {
+      "$id": 11,
+      "label": "qst701905_msg0011",
+      "style": 84,
+      "name": "It won't taste bad again,\nwill it...?"
+    },
+    {
+      "$id": 12,
+      "label": "qst701905_msg0012",
+      "style": 84,
+      "name": "I made it sweeter than\nbefore, so it's fine!"
+    },
+    {
+      "$id": 13,
+      "label": "qst701905_msg0013",
+      "style": 84,
+      "name": "Trust me, Laura-sama, and the others.\nDrink it!"
+    },
+    {
+      "$id": 14,
+      "label": "qst701905_msg0014",
+      "style": 84,
+      "name": "Okay..."
+    },
+    {
+      "$id": 15,
+      "label": "qst701905_msg0015",
+      "style": 84,
+      "name": "*gulp*..."
+    },
+    {
+      "$id": 16,
+      "label": "qst701905_msg0016",
+      "style": 84,
+      "name": "Huh...?"
+    },
+    {
+      "$id": 17,
+      "label": "qst701905_msg0101",
+      "style": 84,
+      "name": "My body feels so light..."
+    },
+    {
+      "$id": 18,
+      "label": "qst701905_msg0102",
+      "style": 84,
+      "name": "Amazing! This medicine is amazing!"
+    },
+    {
+      "$id": 19,
+      "label": "qst701905_msg0103",
+      "style": 84,
+      "name": "I feel super good!"
+    },
+    {
+      "$id": 20,
+      "label": "qst701905_msg0104",
+      "style": 84,
+      "name": "Super good! Yay!"
+    },
+    {
+      "$id": 21,
+      "label": "qst701905_msg0105",
+      "style": 84,
+      "name": "It's super effective!"
+    },
+    {
+      "$id": 22,
+      "label": "qst701905_msg0106",
+      "style": 84,
+      "name": "We did it!"
+    },
+    {
+      "$id": 23,
+      "label": "qst701905_msg0107",
+      "style": 84,
+      "name": "Oh... Furia..."
+    },
+    {
+      "$id": 24,
+      "label": "qst701905_msg0108",
+      "style": 84,
+      "name": "Mother!"
+    },
+    {
+      "$id": 25,
+      "label": "qst701905_msg0109",
+      "style": 84,
+      "name": "I'm so glad..."
+    },
+    {
+      "$id": 26,
+      "label": "qst701905_msg0110",
+      "style": 84,
+      "name": "Furia, how are you feeling?"
+    },
+    {
+      "$id": 27,
+      "label": "qst701905_msg0111",
+      "style": 84,
+      "name": "I feel so much better!"
+    },
+    {
+      "$id": 28,
+      "label": "qst701905_msg0112",
+      "style": 84,
+      "name": "I can stand up just fine, and I\nhave the energy to walk again..."
+    },
+    {
+      "$id": 29,
+      "label": "qst701905_msg0113",
+      "style": 84,
+      "name": "At this rate, it looks like we can\ntake shelter at Fred-san's inn."
+    },
+    {
+      "$id": 30,
+      "label": "qst701905_msg0114",
+      "style": 84,
+      "name": "Yes!"
+    },
+    {
+      "$id": 31,
+      "label": "qst701905_msg0201",
+      "style": 84,
+      "name": "I'm overflowing with so much energy..."
+    },
+    {
+      "$id": 32,
+      "label": "qst701905_msg0202",
+      "style": 84,
+      "name": "I think this is the\nbest I've ever felt."
+    },
+    {
+      "$id": 33,
+      "label": "qst701905_msg0203",
+      "style": 84,
+      "name": "I feel like I can\nstand, walk, and run!"
+    },
+    {
+      "$id": 34,
+      "label": "qst701905_msg0204",
+      "style": 84,
+      "name": "Haha, just don't get too carried away."
+    },
+    {
+      "$id": 35,
+      "label": "qst701905_msg0205",
+      "style": 84,
+      "name": "Okay!"
+    },
+    {
+      "$id": 36,
+      "label": "qst701905_msg0206",
+      "style": 84,
+      "name": "At this rate, we might even\nbe able to get a ride on\nWotta-san's Divine Beast ship."
+    },
+    {
+      "$id": 37,
+      "label": "qst701905_msg0301",
+      "style": 84,
+      "name": "Seeing my daughter so full of\nlife... It's like a dream..."
+    },
+    {
+      "$id": 38,
+      "label": "qst701905_msg0302",
+      "style": 84,
+      "name": "This is all thanks to you, Laura-sama,\nAdel-sama... and everyone else."
+    },
+    {
+      "$id": 39,
+      "label": "qst701905_msg0303",
+      "style": 84,
+      "name": "I don't know how I can\never thank you..."
+    },
+    {
+      "$id": 40,
+      "label": "qst701905_msg0304",
+      "style": 84,
+      "name": "...That Dragon Incense only came into\nour hands because so many people we've\nmet lent us their strength..."
+    },
+    {
+      "$id": 41,
+      "label": "qst701905_msg0305",
+      "style": 84,
+      "name": "All we did was deliver it."
+    },
+    {
+      "$id": 42,
+      "label": "qst701905_msg0306",
+      "style": 84,
+      "name": "So please... don't worry\nabout thanking us."
+    },
+    {
+      "$id": 43,
+      "label": "qst701905_msg0307",
+      "style": 84,
+      "name": "Yes, that's right."
+    },
+    {
+      "$id": 44,
+      "label": "qst701905_msg0308",
+      "style": 84,
+      "name": "Seeing Furia healthy and\nhappy is enough for us."
+    },
+    {
+      "$id": 45,
+      "label": "qst701905_msg0309",
+      "style": 84,
+      "name": "...Thank you."
+    },
+    {
+      "$id": 46,
+      "label": "qst701905_msg0310",
+      "style": 84,
+      "name": "Well, that's one problem solved."
+    },
+    {
+      "$id": 47,
+      "label": "qst701905_msg0311",
+      "style": 84,
+      "name": "Shin... After you write\nabout today in your diary,\nplease let me read it."
+    },
+    {
+      "$id": 48,
+      "label": "qst701905_msg0312",
+      "style": 84,
+      "name": "Why?"
+    },
+    {
+      "$id": 49,
+      "label": "qst701905_msg0313",
+      "style": 84,
+      "name": "I want to look back on\nthis wonderful day again."
+    },
+    {
+      "$id": 50,
+      "label": "qst701905_msg0314",
+      "style": 84,
+      "name": "Ask Kagutsuchi."
+    },
+    {
+      "$id": 51,
+      "label": "qst701905_msg0315",
+      "style": 84,
+      "name": "I'm afraid I must refuse as\nwell. Let's have Minochi-san\nwrite a book about it."
+    },
+    {
+      "$id": 52,
+      "label": "qst701905_msg0316",
+      "style": 84,
+      "name": "No... Well, I was planning\nto write about it anyway..."
+    },
+    {
+      "$id": 53,
+      "label": "qst701905_msg0317",
+      "style": 84,
+      "name": "Make sure you write\nabout how cool I was."
+    },
+    {
+      "$id": 54,
+      "label": "qst701905_msg0318",
+      "style": 84,
+      "name": "I don't recall Hikari\ndoing anything..."
+    },
+    {
+      "$id": 55,
+      "label": "qst701905_msg0319",
+      "style": 84,
+      "name": "True."
+    },
+    {
+      "$id": 56,
+      "label": "qst701905_msg0320",
+      "style": 84,
+      "name": "What?! Maybe not for the\nDragon Incense, but I was\nplenty useful before that!"
+    },
+    {
+      "$id": 57,
+      "label": "qst701905_msg0321",
+      "style": 84,
+      "name": "Heh heh, what a lively bunch."
+    },
+    {
+      "$id": 58,
+      "label": "qst701905_msg0322",
+      "style": 84,
+      "name": "Um... Adel-sama."
+    },
+    {
+      "$id": 59,
+      "label": "qst701905_msg0323",
+      "style": 84,
+      "name": "You said not to worry about a\nreward, but there is one thing\nI would like to give you..."
+    },
+    {
+      "$id": 60,
+      "label": "qst701905_msg0324",
+      "style": 84,
+      "name": "What is it?"
+    },
+    {
+      "$id": 61,
+      "label": "qst701905_msg0325",
+      "style": 84,
+      "name": "I used to give these to Furia because\nthey help restore strength, but now\nwe have the Dragon Incense..."
+    },
+    {
+      "$id": 62,
+      "label": "qst701905_msg0326",
+      "style": 84,
+      "name": "Ah... I bought about a hundred jars\nfor my daughter, so I have a lot."
+    },
+    {
+      "$id": 63,
+      "label": "qst701905_msg0327",
+      "style": 84,
+      "name": "So I was hoping you might\ntake some for your wife."
+    },
+    {
+      "$id": 64,
+      "label": "qst701905_msg0328",
+      "style": 84,
+      "name": "Thank you for your concern.\nMy wife will be delighted."
+    },
+    {
+      "$id": 65,
+      "label": "qst701905_msg0329",
+      "style": 84,
+      "name": "Your wife? You're married?"
+    },
+    {
+      "$id": 66,
+      "label": "qst701905_msg0330",
+      "style": 84,
+      "name": "Ah, did I not mention it?"
+    },
+    {
+      "$id": 67,
+      "label": "qst701905_msg0331",
+      "style": 84,
+      "name": "She's at our home in Aletta."
+    },
+    {
+      "$id": 68,
+      "label": "qst701905_msg0332",
+      "style": 84,
+      "name": "She's with child. I think\nshe'll be giving birth soon..."
+    },
+    {
+      "$id": 69,
+      "label": "qst701905_msg0333",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]WHAAAAT?!"
+    },
+    {
+      "$id": 70,
+      "label": "qst701905_msg0334",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Really?!"
+    },
+    {
+      "$id": 71,
+      "label": "qst701905_msg0335",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]I had no idea..."
+    },
+    {
+      "$id": 72,
+      "label": "qst701905_msg0336",
+      "style": 84,
+      "name": "I didn't tell you? My apologies."
+    },
+    {
+      "$id": 73,
+      "label": "qst701905_msg0337",
+      "style": 84,
+      "name": "So you see, I must defeat Metsu\nfor Iira, and for my family."
+    },
+    {
+      "$id": 74,
+      "label": "qst701905_msg0338",
+      "style": 84,
+      "name": "No, no! This is no time to be\nrunning around helping people!"
+    },
+    {
+      "$id": 75,
+      "label": "qst701905_msg0339",
+      "style": 84,
+      "name": "You have to go back to Aletta!"
+    },
+    {
+      "$id": 76,
+      "label": "qst701905_msg0340",
+      "style": 84,
+      "name": "It's alright."
+    },
+    {
+      "$id": 77,
+      "label": "qst701905_msg0341",
+      "style": 84,
+      "name": "If anything happens, Veritas\nand Montos are there, as are\nthe rest of the resistance."
+    },
+    {
+      "$id": 78,
+      "label": "qst701905_msg0342",
+      "style": 84,
+      "name": "They'll handle it."
+    },
+    {
+      "$id": 79,
+      "label": "qst701905_msg0343",
+      "style": 84,
+      "name": "That may be, but..."
+    },
+    {
+      "$id": 80,
+      "label": "qst701905_msg0344",
+      "style": 84,
+      "name": "But first, let's all work together\nand defeat Metsu so it never comes\nto that."
+    },
+    {
+      "$id": 81,
+      "label": "qst701905_msg0345",
+      "style": 84,
+      "name": "You're right. That is\nsomething only we can do."
+    },
+    {
+      "$id": 82,
+      "label": "qst701905_msg0346",
+      "style": 84,
+      "name": "I know, but..."
+    },
+    {
+      "$id": 83,
+      "label": "qst701905_msg0347",
+      "style": 84,
+      "name": "...Yes."
+    },
+    {
+      "$id": 84,
+      "label": "qst701905_msg0348",
+      "style": 84,
+      "name": "For everyone we've come to know..."
+    },
+    {
+      "$id": 85,
+      "label": "qst701905_msg0349",
+      "style": 84,
+      "name": "And for everyone in Iira, and even\npeople across Alst we've never met..."
+    },
+    {
+      "$id": 86,
+      "label": "qst701905_msg0350",
+      "style": 84,
+      "name": "We have to defeat Metsu."
+    },
+    {
+      "$id": 87,
+      "label": "qst701905_msg0351",
+      "style": 84,
+      "name": "Yes, that's the Laura I know."
+    },
+    {
+      "$id": 88,
+      "label": "qst701905_msg0352",
+      "style": 84,
+      "name": "It's alright... With these\ncomrades, we can win."
+    },
+    {
+      "$id": 89,
+      "label": "qst701905_msg0353",
+      "style": 84,
+      "name": "Yes... Everyone, let's\ngive it our all!"
+    },
+    {
+      "$id": 90,
+      "label": "qst701905_msg0354",
+      "style": 84,
+      "name": "Yeah!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst610404_msg0001",
+      "style": 84,
+      "name": "If you make the ultimate fish dish,\nI'll taste it."
+    },
+    {
+      "$id": 2,
+      "label": "qst610404_msg0101",
+      "style": 84,
+      "name": "Hmm..."
+    },
+    {
+      "$id": 3,
+      "label": "qst610404_msg0102",
+      "style": 84,
+      "name": "If it isn't the ultimate fish dish,\nthe Fire Dragons' name will be\ndisgraced."
+    },
+    {
+      "$id": 4,
+      "label": "qst610404_msg0103",
+      "style": 84,
+      "name": "Hurry and let me taste the ultimate\nfish dish."
+    }
+  ]
+}

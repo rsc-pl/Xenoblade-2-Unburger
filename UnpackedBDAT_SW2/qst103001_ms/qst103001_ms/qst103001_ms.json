@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst1030001_msg001",
+      "style": 62,
+      "name": "Acceptance talk (temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst1030001_msg002",
+      "style": 62,
+      "name": "Reminder talk (temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst1030001_msg003",
+      "style": 62,
+      "name": "I'm thinking right now.\nDon't talk to me. (temp)"
+    }
+  ]
+}

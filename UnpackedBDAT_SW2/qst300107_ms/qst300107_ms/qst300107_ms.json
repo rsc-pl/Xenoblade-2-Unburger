@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300107_msg001",
+      "style": 84,
+      "name": "It's a Dodobos Ansel! [ML:Dash ]This is bad."
+    },
+    {
+      "$id": 2,
+      "label": "qst300107_msg002",
+      "style": 84,
+      "name": "They love Mokmo Onions,\nso they'll sniff them out\nand attack in a swarm."
+    },
+    {
+      "$id": 3,
+      "label": "qst300107_msg003",
+      "style": 84,
+      "name": "You can wipe out the whole\nswarm, but if you defeat\nthe leader, they'll flee[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst300107_msg004",
+      "style": 84,
+      "name": "Vandham-san always took them\nout so quickly that I can't\ntell which one the leader is."
+    },
+    {
+      "$id": 5,
+      "label": "qst300107_msg005",
+      "style": 84,
+      "name": "We'll just have to take them down\none by one until we find it!"
+    }
+  ]
+}

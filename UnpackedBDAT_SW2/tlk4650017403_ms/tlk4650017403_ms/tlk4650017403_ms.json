@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500174_03_msg0001",
+      "style": 84,
+      "name": "Fan-sama's death still casts\nsorrow over the whole country,\nbut..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500174_03_msg0002",
+      "style": 84,
+      "name": "But keeping the school closed\nhurts the children too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500174_03_msg0003",
+      "style": 84,
+      "name": "Many children want it reopened.\nOnce the cathedral rite ends,\nwe'll reopen the school."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46500174_03_msg0004",
+      "style": 84,
+      "name": "Thinking of the children's joy\nmakes me smile too."
+    }
+  ]
+}

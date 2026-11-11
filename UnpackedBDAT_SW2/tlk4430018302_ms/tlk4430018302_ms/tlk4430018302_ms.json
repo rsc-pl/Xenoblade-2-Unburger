@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300183_02_msg0001",
+      "style": 84,
+      "name": "It's been so long since I had meat.\nIt's delicious!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300183_02_msg0002",
+      "style": 84,
+      "name": "You have to remember, it's hard\nto get edible meat around here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300183_02_msg0003",
+      "style": 84,
+      "name": "Thanks to foreign trade resuming,\nwe can get meat now! Still only\na little, but progress!"
+    }
+  ]
+}

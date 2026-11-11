@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620306_msg0001",
+      "style": 84,
+      "name": "Please take down those\nGogols over there!"
+    },
+    {
+      "$id": 2,
+      "label": "qst620306_msg0002",
+      "style": 84,
+      "name": "Once the monsters are gone, I'll\nbe able to propose to Ondina under\nthe light of the aurora..."
+    },
+    {
+      "$id": 3,
+      "label": "qst620306_msg0003",
+      "style": 84,
+      "name": "I'm counting on you!"
+    }
+  ]
+}

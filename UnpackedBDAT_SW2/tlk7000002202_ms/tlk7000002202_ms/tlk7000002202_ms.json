@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000022_02_msg0001",
+      "style": 84,
+      "name": "The power of that Blade, Metsu... It\nwas extraordinary."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000022_02_msg0002",
+      "style": 84,
+      "name": "Just thinking that he's still out\nthere unchecked sends a chill down my\nspine!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000022_02_msg0003",
+      "style": 84,
+      "name": "It seems humans will have to manage\nand control Blades after all."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000022_02_msg0004",
+      "style": 84,
+      "name": "The old age of coexistence is over.\nUnless we change how we respond, Iira\nhas no future."
+    }
+  ]
+}

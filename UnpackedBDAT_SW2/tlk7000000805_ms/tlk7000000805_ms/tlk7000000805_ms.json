@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000008_05_msg0001",
+      "style": 84,
+      "name": "I said the squad had gone\ndownhill, but lately, everyone\nis doing their duty properly."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000008_05_msg0002",
+      "style": 84,
+      "name": "I guess with the state of the\nworld lately, even those layabouts\nhad to change their tune."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000008_05_msg0003",
+      "style": 84,
+      "name": "Sure, we've had a few leave, but we've\nalso been getting some new blood. And\nthat's real good for the squad."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000008_05_msg0004",
+      "style": 84,
+      "name": "Not because it means more decent\nsoldiers. It's good that more people\nrealize what they want to protect."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000008_05_msg0005",
+      "style": 84,
+      "name": "It's too late to realize after losing\nit. One fool like me is enough.\nGwahaha!"
+    }
+  ]
+}

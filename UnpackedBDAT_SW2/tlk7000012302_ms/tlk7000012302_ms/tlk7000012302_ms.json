@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000123_02_msg0001",
+      "style": 84,
+      "name": "Dorara may not look it, but has lots\nof stamina, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000123_02_msg0002",
+      "style": 84,
+      "name": "So if I become the Driver I dream of\nbeing, I'll stand right up front and\ntake the enemy's attacks, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000123_02_msg0003",
+      "style": 84,
+      "name": "Mo-mo!? But come to think of it,\nDorara can't beat enemies just by\ntaking their attacks, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000123_02_msg0004",
+      "style": 84,
+      "name": "Then Dorara needs companions who'll\nattack the enemy and companions who'll\nheal Dorara, mooo~!"
+    }
+  ]
+}

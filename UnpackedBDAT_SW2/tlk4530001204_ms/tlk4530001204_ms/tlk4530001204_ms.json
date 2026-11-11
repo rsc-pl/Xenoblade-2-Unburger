@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300012_04_msg0001",
+      "style": 62,
+      "name": "They say Divine Beasts are\nrampaging and causing confusion\nall over."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300012_04_msg0002",
+      "style": 62,
+      "name": "My business partners are\ntaking time off to check\nwhether their families are safe."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300012_04_msg0003",
+      "style": 62,
+      "name": "Maybe I should visit home\nand show my mother I'm well\nfor once."
+    }
+  ]
+}

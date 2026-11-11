@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201917_msg0001",
+      "style": 84,
+      "name": "Alala and the others were just asked\nby Saisai to bury the barrels, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst201917_msg0002",
+      "style": 84,
+      "name": "Alala buried one near\nSauros's Bed in Gula, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst201917_msg0003",
+      "style": 84,
+      "name": "I can't tell you a more\nspecific location, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst201917_msg0004",
+      "style": 84,
+      "name": "...I-It's definitely\nnot because I forgot, mo!"
+    }
+  ]
+}

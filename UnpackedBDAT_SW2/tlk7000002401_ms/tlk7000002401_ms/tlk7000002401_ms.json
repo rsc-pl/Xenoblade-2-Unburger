@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000024_01_msg0001",
+      "style": 84,
+      "name": "Hey, hey. Whoever you are, we're not\nhere for you to stare at, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000024_01_msg0002",
+      "style": 84,
+      "name": "You were sent by the old folks in the\nshopping district to chase us off\nagain, weren't you, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000024_01_msg0003",
+      "style": 84,
+      "name": "This is the playground Ryuuryuu and\nthe others found, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000024_01_msg0004",
+      "style": 84,
+      "name": "If you really want us to move, then\nyou find us a new playground, mo!"
+    }
+  ]
+}

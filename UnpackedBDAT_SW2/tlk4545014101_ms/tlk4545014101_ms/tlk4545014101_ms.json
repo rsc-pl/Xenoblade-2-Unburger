@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300049_01_msg0001",
+      "style": 62,
+      "name": "Hah hah haa! So you came here because\nyou want to use the inn, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300049_01_msg0002",
+      "style": 62,
+      "name": "Good, good! Use it as much as you\nlike! I don't care what you use it\nfor!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300049_01_msg0003",
+      "style": 62,
+      "name": "Hah hah haa! That was a pleasant way\nto wake up, wasn't it? Our inn is on\nanother level of comfort!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300049_01_msg0004",
+      "style": 62,
+      "name": "Won't you stay the night?\nIt's been building up, hasn't it?\nFatigue, I mean."
+    }
+  ]
+}

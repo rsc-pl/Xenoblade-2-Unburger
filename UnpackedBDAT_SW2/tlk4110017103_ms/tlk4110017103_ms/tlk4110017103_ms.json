@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_03_msg0001",
+      "style": 84,
+      "name": "Tourists toss coins from Mira-Maa\nViewpoint into the Cloud Sea, so some\nof them land over here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_03_msg0002",
+      "style": 84,
+      "name": "But fewer coins have been coming this\nway lately. I wonder if everyone's\ngotten bored of it?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_03_msg0003",
+      "style": 84,
+      "name": "Well, with the money I've saved,\nI can return to Gula soon. Maybe\nI'll leave with my dad..."
+    }
+  ]
+}

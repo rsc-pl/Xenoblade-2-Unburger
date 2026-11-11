@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102305_msg001",
+      "style": 62,
+      "name": "Before accepting trial task"
+    },
+    {
+      "$id": 2,
+      "label": "qst102305_msg002",
+      "style": 62,
+      "name": "During trial (task not complete)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102305_msg003",
+      "style": 62,
+      "name": "Reporting trial completion\n(task complete)"
+    },
+    {
+      "$id": 4,
+      "label": "qst102305_msg004",
+      "style": 62,
+      "name": "After trial task completion"
+    }
+  ]
+}

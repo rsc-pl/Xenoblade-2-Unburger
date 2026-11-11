@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103911_msg0001",
+      "style": 84,
+      "name": "I've heard about it from the Avaritia\nTrading Company, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst103911_msg0002",
+      "style": 84,
+      "name": "Pukapu will sell you a long-distance\nDivine Beast ship, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103911_msg0009",
+      "style": 84,
+      "name": "The ship costs 300,000G, and the\nmooring fee is 500G... so the\ntotal comes to 300,500G, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst103911_msg0003",
+      "style": 84,
+      "name": "With this, you are now a ship\nowner, mo! Congratulations, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst103911_msg0004",
+      "style": 84,
+      "name": "Pukapu will handle the registration\nwith the Avaritia Trading Company, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst103911_msg0005",
+      "style": 84,
+      "name": "I wish you a safe journey, mo.\nBye-bye, mo~!"
+    },
+    {
+      "$id": 7,
+      "label": "qst103911_msg0010",
+      "style": 84,
+      "name": "This is a big purchase, so I\nunderstand if you need time\nto think, mo."
+    },
+    {
+      "$id": 8,
+      "label": "qst103911_msg0011",
+      "style": 165,
+      "name": "Pay 300,500G?"
+    },
+    {
+      "$id": 9,
+      "label": "qst103911_msg0012",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 10,
+      "label": "qst103911_msg0013",
+      "style": 165,
+      "name": "Don't pay"
+    }
+  ]
+}

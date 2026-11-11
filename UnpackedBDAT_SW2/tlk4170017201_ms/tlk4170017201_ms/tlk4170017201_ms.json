@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700172_01_msg0001",
+      "style": 84,
+      "name": "I think the world would be\nbetter off without Blades."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700172_01_msg0002",
+      "style": 84,
+      "name": "What's this? You have\na Blade with you...!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700172_01_msg0003",
+      "style": 84,
+      "name": "A Superbian Blade killed my family!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700172_01_msg0004",
+      "style": 84,
+      "name": "Acedia manages all the Blades\nin Alst. That's as good as this\ncountry killing my family!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700172_01_msg0005",
+      "style": 84,
+      "name": "Taking in refugees is probably\nyour way of atoning... but I'll\nsuck you dry to the bone!"
+    }
+  ]
+}

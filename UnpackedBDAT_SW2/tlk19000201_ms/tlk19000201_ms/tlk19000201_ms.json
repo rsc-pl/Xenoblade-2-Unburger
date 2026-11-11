@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk190002_01_msg0001",
+      "style": 84,
+      "name": "Rex, you can take your time."
+    },
+    {
+      "$id": 2,
+      "label": "tlk190002_01_msg0002",
+      "style": 84,
+      "name": "I'm tired, so I'm going\nto take a nap here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk190002_01_msg0003",
+      "style": 84,
+      "name": "Got it. I'll be back in a bit."
+    },
+    {
+      "$id": 4,
+      "label": "tlk190002_01_msg0004",
+      "style": 84,
+      "name": "That's right, I don't need\nany souvenirs, so you\ndon't have to buy any."
+    },
+    {
+      "$id": 5,
+      "label": "tlk190002_01_msg0005",
+      "style": 84,
+      "name": "Yeah, yeah..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk190002_01_msg0006",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]He definitely wants something..."
+    }
+  ]
+}

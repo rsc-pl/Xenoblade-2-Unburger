@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00040103_msg0001",
+      "style": 84,
+      "name": "Huh? Punin-san, what\nare you doing here?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00040103_msg0002",
+      "style": 84,
+      "name": "Mo-mo!?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00040103_msg0003",
+      "style": 84,
+      "name": "W-well, I was given some time off,\nso I thought I'd take a trip..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00040103_msg0004",
+      "style": 84,
+      "name": "Oh..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk00040103_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]That's suspicious."
+    }
+  ]
+}

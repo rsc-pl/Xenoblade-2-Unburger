@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000052_03_msg0001",
+      "style": 84,
+      "name": "Oh! Adel-sama! I heard that\nthe capital's been attacked!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000052_03_msg0002",
+      "style": 84,
+      "name": "So... it really happened... What an\nawful thing to do..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000052_03_msg0003",
+      "style": 84,
+      "name": "At least Aletta hasn't fallen\ninto large-scale disorder yet.\nIt's still fairly safe here."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000052_03_msg0004",
+      "style": 84,
+      "name": "But everyone at the manor and your\nwife are very worried about Adel-sama\nand the others."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000052_03_msg0005",
+      "style": 84,
+      "name": "They're deeply concerned but they\nwon't, and can't, tell you to come\nhome. They understand that."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000052_03_msg0006",
+      "style": 84,
+      "name": "If it comes to that, we'll follow your\norders and open the manor's supplies\nto people in need."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000052_03_msg0007",
+      "style": 84,
+      "name": "I'll make sure that we're\nmentally and logistically\nprepared for that, Adel-sama."
+    },
+    {
+      "$id": 8,
+      "label": "tlk70000052_03_msg0008",
+      "style": 84,
+      "name": "Please, Adel-sama... Don't\noverextend yourself trying to\nresolve this situation too quickly."
+    }
+  ]
+}

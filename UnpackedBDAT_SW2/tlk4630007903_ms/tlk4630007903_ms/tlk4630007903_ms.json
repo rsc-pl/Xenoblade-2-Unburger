@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46300079_03_msg0001",
+      "style": 84,
+      "name": "No problems with this shipment.\nNot while I'm on watch."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46300079_03_msg0002",
+      "style": 84,
+      "name": "That's my job, after all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46300079_03_msg0003",
+      "style": 84,
+      "name": "Once I'm entrusted with work,\nI stake my life on it.\nThat's my nature."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102606_msg001",
+      "style": 62,
+      "name": "Examine the message"
+    },
+    {
+      "$id": 2,
+      "label": "qst102606_msg002",
+      "style": 62,
+      "name": "Use a Field Skill for\nthe next objective"
+    },
+    {
+      "$id": 3,
+      "label": "qst102606_msg101",
+      "style": 62,
+      "name": "A: Success"
+    },
+    {
+      "$id": 4,
+      "label": "qst102606_msg201",
+      "style": 62,
+      "name": "B: Failure"
+    },
+    {
+      "$id": 5,
+      "label": "qst102606_msg301",
+      "style": 62,
+      "name": "Let's head to the destination"
+    },
+    {
+      "$id": 6,
+      "label": "qst102606_msg401",
+      "style": 62,
+      "name": "I wonder what killed this person..."
+    }
+  ]
+}

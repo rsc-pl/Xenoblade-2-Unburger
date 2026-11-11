@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300021_04_msg0001",
+      "style": 84,
+      "name": "I hear a pair of Blades called the\nCore Crystal hunters showed up in\nthis city."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300021_04_msg0002",
+      "style": 84,
+      "name": "And apparently Special Commissioner\nMeleph personally defeated one of\nthem!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300021_04_msg0003",
+      "style": 84,
+      "name": "She's so incredible..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300021_04_msg0004",
+      "style": 84,
+      "name": "Maybe now it'll be a bit safer\nto transport Core Crystals?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300021_04_msg0005",
+      "style": 84,
+      "name": "My older brother must be relieved."
+    }
+  ]
+}

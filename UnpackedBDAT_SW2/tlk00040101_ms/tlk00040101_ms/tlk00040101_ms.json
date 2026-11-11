@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00040101_msg0001",
+      "style": 84,
+      "name": "Now, hurry up and go\nsee Chairman Bahn, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00040101_msg0002",
+      "style": 165,
+      "name": "Should I ask Punin-san a question?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00040101_msg0003",
+      "style": 165,
+      "name": "Ask where the Chairman's room is."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00040101_msg0004",
+      "style": 165,
+      "name": "Ask how Punin-san has been recently."
+    },
+    {
+      "$id": 5,
+      "label": "tlk00040101_msg0005",
+      "style": 84,
+      "name": "The Chairman's office is\nthrough the Avaritia Bazaar\nand up the stairs, mo."
+    },
+    {
+      "$id": 6,
+      "label": "tlk00040101_msg0006",
+      "style": 84,
+      "name": "Don't stand around loitering!\nYou're young, so run along, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk00040101_msg0007",
+      "style": 84,
+      "name": "So-so, I suppose, mo... My wife\nleft me, but other than that,\nnothing's really changed, mo."
+    },
+    {
+      "$id": 8,
+      "label": "tlk00040101_msg0008",
+      "style": 84,
+      "name": "Every day, I'm Chairman Bahn's\nerrand... Er, I mean, I'm busy\nevery day as his right-hand man, mo."
+    },
+    {
+      "$id": 9,
+      "label": "tlk00040101_msg0009",
+      "style": 84,
+      "name": "They say the poor have no\nfree time, but I'd love a\nvacation now and then, mo..."
+    },
+    {
+      "$id": 10,
+      "label": "tlk00040101_msg0010",
+      "style": 84,
+      "name": "Still, a reward worth 100\nmonths of Punin's salary...\nI'm incredibly jealous, mo..."
+    },
+    {
+      "$id": 11,
+      "label": "tlk00040101_msg0011",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] If this goes well, I should treat\nhim to about ten Samo..."
+    }
+  ]
+}

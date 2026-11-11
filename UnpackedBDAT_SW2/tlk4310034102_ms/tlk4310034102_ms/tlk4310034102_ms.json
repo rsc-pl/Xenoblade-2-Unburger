@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100341_02_msg0001",
+      "style": 84,
+      "name": "Well, I heard this from my dad."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100341_02_msg0002",
+      "style": 84,
+      "name": "Last year, Core Crystals shipped out\nof Fons Maim's port were stolen by a\npair of Blades."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100341_02_msg0003",
+      "style": 84,
+      "name": "Even the strong mercenaries were\nbeaten, and Dad was injured too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100341_02_msg0004",
+      "style": 84,
+      "name": "If you've got lots of Core Crystals,\nthey might attack you too. You should\nget away fast."
+    }
+  ]
+}

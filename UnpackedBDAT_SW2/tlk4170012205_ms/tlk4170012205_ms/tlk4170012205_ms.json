@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700122_05_msg0001",
+      "style": 84,
+      "name": "The Nopopo Daikon that Umama grows...\nThey're absolutely exquisite."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700122_05_msg0002",
+      "style": 84,
+      "name": "Their shape is a bit distinctive, and\nI feel guilty when I cut them...but\nit's also a good stress reliever..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700122_05_msg0003",
+      "style": 84,
+      "name": "Above all, they taste great...\nThey're perfect inside and out."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700122_05_msg0004",
+      "style": 84,
+      "name": "I'm so glad I lent that field\nto Umama."
+    }
+  ]
+}

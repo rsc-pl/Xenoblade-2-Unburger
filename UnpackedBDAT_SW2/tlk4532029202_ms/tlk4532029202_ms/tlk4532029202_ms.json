@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320292_02_msg0001",
+      "style": 84,
+      "name": "I thought I wanted to get out\nof here and back to Superbia\nas soon as possible..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320292_02_msg0002",
+      "style": 84,
+      "name": "But right now, with everywhere in\nthe middle of conflict, it might\nactually be safer to stay here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320292_02_msg0003",
+      "style": 84,
+      "name": "I just hope my mum back home's all\nright. Do you think she followed\nmy advice and fled to Gula...?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320292_02_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

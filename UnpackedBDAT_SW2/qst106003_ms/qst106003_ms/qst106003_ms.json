@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst106003_msg0001",
+      "style": 84,
+      "name": "First, go and collect\nthe Golden Cogs, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst106003_msg0002",
+      "style": 84,
+      "name": "This is just the beginning, mo.\nLet's get it done quickly, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst106003_msg0101",
+      "style": 84,
+      "name": "I'm currently preparing\nfor the modification, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst106003_msg0102",
+      "style": 84,
+      "name": "Don't worry about me, I want you\nto go ahead with the outfit, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst106003_msg0201",
+      "style": 84,
+      "name": "Have you gathered the\nmaterials for the outfit, mo?"
+    },
+    {
+      "$id": 6,
+      "label": "qst106003_msg0202",
+      "style": 84,
+      "name": "Please give them to Kiku, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst106003_msg0301",
+      "style": 84,
+      "name": "Now, go to the Goldmund\nFlight Deck in Avaritia and\nspeak to Fuwafuwa-san, mo."
+    },
+    {
+      "$id": 8,
+      "label": "qst106003_msg0302",
+      "style": 84,
+      "name": "Enroll for a trial day at Bluesky\nNopon University and get a broad\neducation, mo."
+    },
+    {
+      "$id": 9,
+      "label": "qst106003_msg0303",
+      "style": 84,
+      "name": "By doing so, Hana will... earn\nthe right to be modified, mo."
+    },
+    {
+      "$id": 10,
+      "label": "qst106003_msg0304",
+      "style": 84,
+      "name": "Enrolling in the university is the\nmost important thing of all, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst106003_msg0401",
+      "style": 84,
+      "name": "The preparations for Hana's\nmodification are perfect, mo."
+    },
+    {
+      "$id": 12,
+      "label": "qst106003_msg0402",
+      "style": 84,
+      "name": "Once that charging device is full,\nwe'll be ready to proceed, mo."
+    },
+    {
+      "$id": 13,
+      "label": "qst106003_msg0403",
+      "style": 84,
+      "name": "The quickest way is probably\nto use the mercenary group\nto collect E-Packs, mo."
+    }
+  ]
+}

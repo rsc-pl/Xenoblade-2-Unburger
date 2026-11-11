@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300054_02_msg0001",
+      "style": 84,
+      "name": "I was wondering where old Gramps had\ngot to. Didn't expect to find him\nliving inside your helmet, Rex!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300054_02_msg0004",
+      "style": 84,
+      "name": "I was wondering where old Gramps\nhad got to... Who'd have thought\nhe'd end up living in Rex's helmet?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300054_02_msg0002",
+      "style": 84,
+      "name": "Seems a lot cuter than I recall,\ntoo. The stern old face I remember\ncould've passed for a monster!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300054_02_msg0003",
+      "style": 84,
+      "name": "Well, you two went through a\nlot. And somehow Rex became a\nDriver since I last saw him, eh?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300054_02_msg0005",
+      "style": 84,
+      "name": "Seems a lot cuter than I recall,\ntoo. The stern old face I remember\ncould've passed for a monster!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300054_02_msg0006",
+      "style": 84,
+      "name": "You must have been through a lot.\nRex has become a Driver before\nI knew it, too!"
+    }
+  ]
+}

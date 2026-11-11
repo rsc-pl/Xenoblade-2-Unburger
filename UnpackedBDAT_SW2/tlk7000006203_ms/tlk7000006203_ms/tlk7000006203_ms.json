@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000062_03_msg0001",
+      "style": 84,
+      "name": "Know the Superbian Royal Ship?\nGula has no technology to\nmake a Divine Beast ship..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000062_03_msg0002",
+      "style": 84,
+      "name": "What's more, Iira has even\nmore advanced technology..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000062_03_msg0003",
+      "style": 84,
+      "name": "Did you know? Iira inherited many lost\nancient technologies and is Alst's\nleading technological power."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000062_03_msg0004",
+      "style": 84,
+      "name": "It's my dream to go to\nIira one day and study\nits technology firsthand."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200811_0010",
+      "style": 82,
+      "name": "Sorry to keep you waiting.\nI'll heal you now."
+    },
+    {
+      "$id": 2,
+      "label": "qst200811_0020",
+      "style": 82,
+      "name": "How is it? Does it look like it'll heal?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200811_0030",
+      "style": 82,
+      "name": "...Yeah, it should be fine. I think it'll\ngradually regain its strength now."
+    },
+    {
+      "$id": 4,
+      "label": "qst200811_0040",
+      "style": 82,
+      "name": "I see. Then we can rest easy now."
+    },
+    {
+      "$id": 5,
+      "label": "qst200811_0050",
+      "style": 82,
+      "name": "That's great, Hotaru."
+    },
+    {
+      "$id": 6,
+      "label": "qst200811_0060",
+      "style": 82,
+      "name": "Yes. I'm sure this child\nis saying thank you too."
+    },
+    {
+      "$id": 7,
+      "label": "qst200811_0070",
+      "style": 82,
+      "name": "I see..."
+    },
+    {
+      "$id": 8,
+      "label": "qst200811_0080",
+      "style": 82,
+      "name": "Even if it's a tree, it's a relief\nto know it's safe."
+    },
+    {
+      "$id": 9,
+      "label": "qst200811_0090",
+      "style": 82,
+      "name": "Of course. They are all\nliving just like us."
+    },
+    {
+      "$id": 10,
+      "label": "qst200811_0100",
+      "style": 82,
+      "name": "I learned something from\nyou this time, Hotaru..."
+    },
+    {
+      "$id": 11,
+      "label": "qst200811_0110",
+      "style": 82,
+      "name": "Thank you."
+    },
+    {
+      "$id": 12,
+      "label": "qst200811_0120",
+      "style": 82,
+      "name": "Yes."
+    }
+  ]
+}

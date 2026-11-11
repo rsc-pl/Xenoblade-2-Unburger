@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100122_04_msg0001",
+      "style": 62,
+      "name": "Ah! Thanks for helping my\nolder brother with his work!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100122_04_msg0002",
+      "style": 62,
+      "name": "But... my older brother's been acting\nstrange lately. It's like something\nabout him has changed."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100122_04_msg0003",
+      "style": 62,
+      "name": "He's kind of scary... He never\nused to have such dark eyes."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100122_04_msg0004",
+      "style": 62,
+      "name": "Hey... what happened\nto my older brother?"
+    }
+  ]
+}

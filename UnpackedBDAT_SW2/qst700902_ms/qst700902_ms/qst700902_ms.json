@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700902_msg0001",
+      "style": 84,
+      "name": "Footprints. I wonder how far they go."
+    },
+    {
+      "$id": 2,
+      "label": "qst700902_msg0101",
+      "style": 84,
+      "name": "Footprints... which means\nit's probably not a ghost."
+    },
+    {
+      "$id": 3,
+      "label": "qst700902_msg0201",
+      "style": 84,
+      "name": "Footprints. I wonder\nwhere they are heading."
+    },
+    {
+      "$id": 4,
+      "label": "qst700902_msg0301",
+      "style": 84,
+      "name": "As I thought, these are not human\nfootprints. ...We should be careful."
+    },
+    {
+      "$id": 5,
+      "label": "qst700902_msg0401",
+      "style": 84,
+      "name": "Ah, footprints! They seem\nto continue onward."
+    },
+    {
+      "$id": 6,
+      "label": "qst700902_msg0501",
+      "style": 84,
+      "name": "See, there are no ghosts.\nLet's follow them."
+    },
+    {
+      "$id": 7,
+      "label": "qst700902_msg0601",
+      "style": 84,
+      "name": "Monster footprints. I'm not\nkeen on it, but it looks\nlike we're playing tag."
+    },
+    {
+      "$id": 8,
+      "label": "qst700902_msg0701",
+      "style": 84,
+      "name": "As I expected. If we follow\nthese footprints, we should be\nable to identify our opponent."
+    },
+    {
+      "$id": 9,
+      "label": "qst700902_msg0801",
+      "style": 84,
+      "name": "Something has trampled this area\nover and over. Let's go a little\nfarther."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200808_msg0001",
+      "style": 84,
+      "name": "What is it? Do you need something?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200808_msg0002",
+      "style": 84,
+      "name": "We need a splint. Could\nyou spare one for us?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200808_msg0003",
+      "style": 84,
+      "name": "A splint? What are you\ngoing to use it for?"
+    },
+    {
+      "$id": 4,
+      "label": "qst200808_msg0004",
+      "style": 84,
+      "name": "Well, actually..."
+    },
+    {
+      "$id": 5,
+      "label": "qst200808_msg0005",
+      "style": 84,
+      "name": "Ho, I see..."
+    },
+    {
+      "$id": 6,
+      "label": "qst200808_msg0006",
+      "style": 84,
+      "name": "But to heal a Safroge tree,\nyou'll need a very sturdy splint."
+    },
+    {
+      "$id": 7,
+      "label": "qst200808_msg0007",
+      "style": 84,
+      "name": "Can't you make one here, mo?"
+    },
+    {
+      "$id": 8,
+      "label": "qst200808_msg0008",
+      "style": 84,
+      "name": "No, no, that's not it."
+    },
+    {
+      "$id": 9,
+      "label": "qst200808_msg0009",
+      "style": 84,
+      "name": "It's just that to support a\nheavy tree, you need special\nmaterials and processing."
+    },
+    {
+      "$id": 10,
+      "label": "qst200808_msg0010",
+      "style": 84,
+      "name": "Let's see..."
+    },
+    {
+      "$id": 11,
+      "label": "qst200808_msg0011",
+      "style": 84,
+      "name": "Gather five pieces of Healing\nTeak from around Gula, and\nI can make one for you."
+    },
+    {
+      "$id": 12,
+      "label": "qst200808_msg0012",
+      "style": 84,
+      "name": "Thank you. We'll go\ngather them right away!"
+    },
+    {
+      "$id": 13,
+      "label": "qst200808_msg0013",
+      "style": 84,
+      "name": "Now, shall we go...?"
+    },
+    {
+      "$id": 14,
+      "label": "qst200808_msg0014",
+      "style": 84,
+      "name": "Huh? Where's Hotaru?"
+    },
+    {
+      "$id": 15,
+      "label": "qst200808_msg0015",
+      "style": 84,
+      "name": "Ah, he's over there, staring\nat the processing work, mo."
+    },
+    {
+      "$id": 16,
+      "label": "qst200808_msg0016",
+      "style": 84,
+      "name": "I wonder what he's doing...?"
+    }
+  ]
+}

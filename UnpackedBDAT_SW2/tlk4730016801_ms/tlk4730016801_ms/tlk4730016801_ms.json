@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4730016801_msg0001",
+      "style": 84,
+      "name": "Hey! I am wondering what\nwe should do with this building."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4730016801_msg0002",
+      "style": 84,
+      "name": "It's falling apart in places, so we\nneed to repair it, but we haven't\ndecided what to use it for..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4730016801_msg0003",
+      "style": 84,
+      "name": "Could use it for storage, but that'd\nbe a waste. If we turn it into a\nhouse, there's no one to live in it!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4730016801_msg0004",
+      "style": 84,
+      "name": "Unless Rex brings a wife here\nand settles down. That would\nsolve all our problems!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk4730016801_msg0104",
+      "style": 84,
+      "name": "Unless Rex brings a wife here\nand settles down. That would\nsolve all our problems!"
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk502201_msg0001",
+      "style": 84,
+      "name": "Mo-mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk502201_msg0002",
+      "style": 165,
+      "name": "What should we ask?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk502201_msg0003",
+      "style": 165,
+      "name": "Ask about Salvager Ranks"
+    },
+    {
+      "$id": 4,
+      "label": "tlk502201_msg0004",
+      "style": 165,
+      "name": "Ask if Mochimochi needs any help"
+    },
+    {
+      "$id": 5,
+      "label": "tlk502201_msg0005",
+      "style": 84,
+      "name": "Mo-mo-mo?!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk502201_msg0006",
+      "style": 84,
+      "name": "So you know about that? You're quite\nthe sly one, mo."
+    },
+    {
+      "$id": 7,
+      "label": "tlk502201_msg0007",
+      "style": 84,
+      "name": "Mochimochi has watched Salvagers since\nbirth, so I can judge their skill\nreally well, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk502201_msg0008",
+      "style": 84,
+      "name": "Mochimochi's motto is fairness and\nimpartiality, mo. That's why I rank\nSalvagers, mo."
+    },
+    {
+      "$id": 9,
+      "label": "tlk502201_msg0009",
+      "style": 84,
+      "name": "Hmm... So you want Mochimochi to rank\nyou, mo."
+    },
+    {
+      "$id": 10,
+      "label": "tlk502201_msg0010",
+      "style": 84,
+      "name": "All right, I'll do it, mo!"
+    },
+    {
+      "$id": 11,
+      "label": "tlk502201_msg0011",
+      "style": 84,
+      "name": "But I want the ranking fee paid in\ncash, mo!"
+    },
+    {
+      "$id": 12,
+      "label": "tlk502201_msg0012",
+      "style": 84,
+      "name": "Mo?! Why are you looking at me with\nsuch scorn, mo?"
+    },
+    {
+      "$id": 13,
+      "label": "tlk502201_msg0013",
+      "style": 84,
+      "name": "B-but! When you rank up, you get a\nreward as a present, mo!"
+    },
+    {
+      "$id": 14,
+      "label": "tlk502201_msg0014",
+      "style": 84,
+      "name": "Come on, pay the fee generously, mo!"
+    },
+    {
+      "$id": 15,
+      "label": "tlk502201_msg0015",
+      "style": 165,
+      "name": "Pay 100G?"
+    },
+    {
+      "$id": 16,
+      "label": "tlk502201_msg0016",
+      "style": 84,
+      "name": "Thanks for your business, mo!"
+    },
+    {
+      "$id": 17,
+      "label": "tlk502201_msg0017",
+      "style": 84,
+      "name": "Let's see... Promising Youngster Rex's\nSalvager Rank is..."
+    },
+    {
+      "$id": 18,
+      "label": "tlk502201_msg0018",
+      "style": 84,
+      "name": "Congratulations! Rank E, mo!"
+    },
+    {
+      "$id": 19,
+      "label": "tlk502201_msg0019",
+      "style": 84,
+      "name": "If you ask Mochimochi, you're still a\nfledgling, mo!"
+    },
+    {
+      "$id": 20,
+      "label": "tlk502201_msg0020",
+      "style": 84,
+      "name": "A fledgling among fledglings, mo."
+    },
+    {
+      "$id": 21,
+      "label": "tlk502201_msg0021",
+      "style": 84,
+      "name": "But I promised, so here's your\npresent, mo!"
+    },
+    {
+      "$id": 22,
+      "label": "tlk502201_msg0022",
+      "style": 84,
+      "name": "Do lots more salvaging, then come back\nto Mochimochi, mo!"
+    },
+    {
+      "$id": 23,
+      "label": "tlk502201_msg0023",
+      "style": 84,
+      "name": "Then I'll rank you again, mo! For a\nfee!"
+    },
+    {
+      "$id": 24,
+      "label": "tlk502201_msg0024",
+      "style": 84,
+      "name": "Not even ranked, mo?!"
+    },
+    {
+      "$id": 25,
+      "label": "tlk502201_msg0025",
+      "style": 84,
+      "name": "You're a young Salvager known around\nthe Avaritia Trading Company, yet you\nhaven't been salvaging lately, mo?"
+    },
+    {
+      "$id": 26,
+      "label": "tlk502201_msg0026",
+      "style": 84,
+      "name": "Haa... I can't understand trying to\nget ranked with skills like that,\nmo..."
+    },
+    {
+      "$id": 27,
+      "label": "tlk502201_msg0027",
+      "style": 84,
+      "name": "Come back when you're ready, mo."
+    },
+    {
+      "$id": 28,
+      "label": "tlk502201_msg0028",
+      "style": 84,
+      "name": "Mo-mo?! I never expected you to choose\nthat, mo!"
+    },
+    {
+      "$id": 29,
+      "label": "tlk502201_msg0029",
+      "style": 84,
+      "name": "If you don't pay, I won't rank you,\nmo! You understand that, mo?!"
+    },
+    {
+      "$id": 30,
+      "label": "tlk502201_msg0051",
+      "style": 84,
+      "name": "I'm not short on money, my family is\nhealthy, and I have no problems, mo!"
+    },
+    {
+      "$id": 31,
+      "label": "tlk502201_msg0052",
+      "style": 84,
+      "name": "If I had to name one thing,\nMeroro-san's son and my son are good\nfriends, mo."
+    },
+    {
+      "$id": 32,
+      "label": "tlk502201_msg0053",
+      "style": 84,
+      "name": "The lazybones disease might rub off on\nhim, mo!"
+    },
+    {
+      "$id": 33,
+      "label": "tlk502201_msg0101",
+      "style": 84,
+      "name": "Want me to rank your Salvager skills,\nmo?"
+    },
+    {
+      "$id": 34,
+      "label": "tlk502201_msg0102",
+      "style": 84,
+      "name": "I'm looking forward to seeing how much\nRex has improved, mooo."
+    },
+    {
+      "$id": 35,
+      "label": "tlk502201_msg0103",
+      "style": 84,
+      "name": "Then please pay the fee, mo!"
+    },
+    {
+      "$id": 36,
+      "label": "tlk502201_msg0104",
+      "style": 84,
+      "name": "Lastly, as promised, here's your\nrank-up gift, mo!"
+    },
+    {
+      "$id": 37,
+      "label": "tlk502201_msg0201",
+      "style": 84,
+      "name": "Want me to rank your Salvager skills,\nmo?"
+    },
+    {
+      "$id": 38,
+      "label": "tlk502201_msg0202",
+      "style": 84,
+      "name": "I'm looking forward to seeing how much\nRex has improved, mooo."
+    },
+    {
+      "$id": 39,
+      "label": "tlk502201_msg0203",
+      "style": 84,
+      "name": "Then please pay the fee, mo!"
+    },
+    {
+      "$id": 40,
+      "label": "tlk502201_msg0204",
+      "style": 84,
+      "name": "Let's see... Fledgling Salvager Rex's\nrank is..."
+    },
+    {
+      "$id": 41,
+      "label": "tlk502201_msg0205",
+      "style": 84,
+      "name": "Congratulations! You've reached Rank\nD, mo!"
+    },
+    {
+      "$id": 42,
+      "label": "tlk502201_msg0206",
+      "style": 84,
+      "name": "Looks like you're getting the hang of\nit, mo."
+    },
+    {
+      "$id": 43,
+      "label": "tlk502201_msg0207",
+      "style": 84,
+      "name": "By the way, Bahn-sama is Rank D too,\nmo. His Salvager skill was actually\npretty average, mo..."
+    },
+    {
+      "$id": 44,
+      "label": "tlk502201_msg0208",
+      "style": 84,
+      "name": "Do lots more salvaging, then come back\nto Mochimochi, mo!"
+    },
+    {
+      "$id": 45,
+      "label": "tlk502201_msg0209",
+      "style": 84,
+      "name": "Then I'll rank you again, mo! For a\nfee!"
+    },
+    {
+      "$id": 46,
+      "label": "tlk502201_msg0210",
+      "style": 84,
+      "name": "And finally, here's your rank-up gift,\nmo!"
+    },
+    {
+      "$id": 47,
+      "label": "tlk502201_msg0211",
+      "style": 84,
+      "name": "Hmm... Sadly, it looks like ranking up\nis still a ways off, mo."
+    },
+    {
+      "$id": 48,
+      "label": "tlk502201_msg0212",
+      "style": 84,
+      "name": "Your rank changes based on the types\nof treasure chests you get from\nsalvaging, mo."
+    },
+    {
+      "$id": 49,
+      "label": "tlk502201_msg0213",
+      "style": 84,
+      "name": "Do lots more salvaging, then come back\nto Mochimochi, mo!"
+    },
+    {
+      "$id": 50,
+      "label": "tlk502201_msg0214",
+      "style": 84,
+      "name": "Mo-mo?! You noticed I raised the price\na little, mo?!"
+    },
+    {
+      "$id": 51,
+      "label": "tlk502201_msg0215",
+      "style": 84,
+      "name": "But unless you pay, I won't rank you,\nmo!"
+    },
+    {
+      "$id": 52,
+      "label": "tlk502201_msg0301",
+      "style": 84,
+      "name": "Let's see... Bahn-Class Salvager Rex's\nrank is..."
+    },
+    {
+      "$id": 53,
+      "label": "tlk502201_msg0302",
+      "style": 84,
+      "name": "Congratulations! You've reached Rank\nC, mo!"
+    },
+    {
+      "$id": 54,
+      "label": "tlk502201_msg0303",
+      "style": 84,
+      "name": "Mochimochi's father is Rank C too, mo.\nCatching up at your age means you're\nvery skilled, mo."
+    },
+    {
+      "$id": 55,
+      "label": "tlk502201_msg0304",
+      "style": 84,
+      "name": "Rank C is actually quite high among\nSalvagers in the Avaritia Trading\nCompany, mo."
+    },
+    {
+      "$id": 56,
+      "label": "tlk502201_msg0305",
+      "style": 84,
+      "name": "You can get rich enough from salvaging\nto eat mushrooms every day, mo!"
+    },
+    {
+      "$id": 57,
+      "label": "tlk502201_msg0401",
+      "style": 84,
+      "name": "Let's see... Mushroom-Feast Salvager\nRex's rank is..."
+    },
+    {
+      "$id": 58,
+      "label": "tlk502201_msg0402",
+      "style": 84,
+      "name": "Congratulations! You've reached Rank\nB, mo!"
+    },
+    {
+      "$id": 59,
+      "label": "tlk502201_msg0403",
+      "style": 84,
+      "name": "In Mochimochi's whole life, I've only\nseen two Rank B Salvagers, mo."
+    },
+    {
+      "$id": 60,
+      "label": "tlk502201_msg0404",
+      "style": 84,
+      "name": "Bahn-sama's father, and Mochimochi's\ngreat-grandmother, mo!"
+    },
+    {
+      "$id": 61,
+      "label": "tlk502201_msg0405",
+      "style": 84,
+      "name": "My great-grandmother was incredibly\nskilled. Every salvage brought back a\nshining white treasure chest, mo..."
+    },
+    {
+      "$id": 62,
+      "label": "tlk502201_msg0406",
+      "style": 84,
+      "name": "She's passed away now, so she's known\nas a legendary Salvager, mo."
+    },
+    {
+      "$id": 63,
+      "label": "tlk502201_msg0501",
+      "style": 84,
+      "name": "Let's see... Legendary Salvager Rex's\nrank is..."
+    },
+    {
+      "$id": 64,
+      "label": "tlk502201_msg0502",
+      "style": 84,
+      "name": "Congratulations! You've reached Rank\nA, mo!"
+    },
+    {
+      "$id": 65,
+      "label": "tlk502201_msg0503",
+      "style": 84,
+      "name": "In all Mochimochi's life, I've never\nseen a Salvager as skilled as Rex, mo."
+    },
+    {
+      "$id": 66,
+      "label": "tlk502201_msg0504",
+      "style": 84,
+      "name": "You have a divine aura, mo. You're so\nshiny it's dazzling, mo."
+    },
+    {
+      "$id": 67,
+      "label": "tlk502201_msg0505",
+      "style": 84,
+      "name": "And now I feel an irresistible urge to\nworship you, mo..."
+    },
+    {
+      "$id": 68,
+      "label": "tlk502201_msg0506",
+      "style": 84,
+      "name": "Blessed, mo... Blessed, mo..."
+    },
+    {
+      "$id": 69,
+      "label": "tlk502201_msg0507",
+      "style": 84,
+      "name": "It's worth celebrating, but sadly\nthere's no rank above Rank A, mo."
+    },
+    {
+      "$id": 70,
+      "label": "tlk502201_msg0508",
+      "style": 84,
+      "name": "Lastly, here's your rank-up gift, mo!"
+    },
+    {
+      "$id": 71,
+      "label": "tlk502201_msg0509",
+      "style": 84,
+      "name": "Now I'm very honored that you let\nMochimochi rank you, mo."
+    },
+    {
+      "$id": 72,
+      "label": "tlk502201_msg0510",
+      "style": 84,
+      "name": "Thank you, mo!"
+    },
+    {
+      "$id": 73,
+      "label": "tlk502201_msg0511",
+      "style": 165,
+      "name": "Pay 200G?"
+    },
+    {
+      "$id": 74,
+      "label": "tlk502201_msg0512",
+      "style": 165,
+      "name": "Pay 500G?"
+    },
+    {
+      "$id": 75,
+      "label": "tlk502201_msg0513",
+      "style": 165,
+      "name": "Pay 1000G?"
+    },
+    {
+      "$id": 76,
+      "label": "tlk502201_msg0514",
+      "style": 165,
+      "name": "Pay 2000G?"
+    },
+    {
+      "$id": 77,
+      "label": "tlk502201_msg0515",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 78,
+      "label": "tlk502201_msg0516",
+      "style": 165,
+      "name": "Don't pay"
+    },
+    {
+      "$id": 79,
+      "label": "tlk502201_msg0601",
+      "style": 84,
+      "name": "Mochimochi doesn't feel like talking\nunless there's a Salvager around,\nmo..."
+    }
+  ]
+}

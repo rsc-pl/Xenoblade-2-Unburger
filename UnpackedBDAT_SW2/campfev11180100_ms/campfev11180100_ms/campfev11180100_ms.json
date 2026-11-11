@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_180_100_msg0001",
+      "style": 84,
+      "name": "Ah..."
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_180_100_msg0002",
+      "style": 84,
+      "name": "Laura-sama..."
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_180_100_msg0003",
+      "style": 84,
+      "name": "Words aren't what Laura needs\nright now..."
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_180_100_msg0004",
+      "style": 84,
+      "name": "If we search Torigo Village\nand find some kind of clue..."
+    }
+  ]
+}

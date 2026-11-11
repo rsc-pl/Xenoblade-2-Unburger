@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00000594_01_msg0001",
+      "style": 84,
+      "name": "Is this... a water tower?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00000594_01_msg0002",
+      "style": 84,
+      "name": "Before it became like this, I\nwonder if this place had trees\nand flowers, like Gula."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00000594_01_msg0101",
+      "style": 84,
+      "name": "This is a water tower, right? Why\nwould something like this be here?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00000594_01_msg0201",
+      "style": 84,
+      "name": "Gula had one of these too, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk00000594_01_msg0202",
+      "style": 84,
+      "name": "Maybe Eden was a place\nlike Gula, mo?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk00000594_01_msg0301",
+      "style": 84,
+      "name": "Did the people who lived in Eden\nalso store water in water towers?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk00000594_01_msg0302",
+      "style": 84,
+      "name": "It seems we share some common culture."
+    },
+    {
+      "$id": 8,
+      "label": "tlk00000594_01_msg0401",
+      "style": 84,
+      "name": "In Alst, we'd store water in this..."
+    },
+    {
+      "$id": 9,
+      "label": "tlk00000594_01_msg0402",
+      "style": 84,
+      "name": "But I wonder what the people\nhere put inside it..."
+    }
+  ]
+}

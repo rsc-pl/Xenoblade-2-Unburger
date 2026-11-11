@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200309_msg0001",
+      "style": 84,
+      "name": "What's that? Did I see\na Gogol, you ask?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200309_msg0002",
+      "style": 84,
+      "name": "I saw it, all right. It startled me\nso badly my legs gave out."
+    },
+    {
+      "$id": 3,
+      "label": "qst200309_msg0003",
+      "style": 84,
+      "name": "To be honest... I only got a\nglimpse, so I couldn't tell you\nwhat kind of Gogol it was..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200309_msg0004",
+      "style": 84,
+      "name": "Oh, that's right. I think it was a\nbit smaller than a normal Gogol."
+    },
+    {
+      "$id": 5,
+      "label": "qst200309_msg0005",
+      "style": 84,
+      "name": "But still, it's a rare thing for a\nGogol to appear inside the city."
+    },
+    {
+      "$id": 6,
+      "label": "qst200309_msg0006",
+      "style": 84,
+      "name": "Gogols are clever monsters, you\nsee, so they don't usually get close\nto places with lots of people."
+    },
+    {
+      "$id": 7,
+      "label": "qst200309_msg0007",
+      "style": 84,
+      "name": "There might be some reason for it."
+    },
+    {
+      "$id": 8,
+      "label": "qst200309_msg0008",
+      "style": 84,
+      "name": "Well, that's about all I know."
+    },
+    {
+      "$id": 9,
+      "label": "qst200309_msg0009",
+      "style": 84,
+      "name": "You should try asking other\npeople for more details."
+    }
+  ]
+}

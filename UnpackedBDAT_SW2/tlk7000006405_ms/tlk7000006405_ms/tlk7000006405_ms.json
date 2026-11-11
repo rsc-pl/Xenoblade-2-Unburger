@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000064_05_msg0001",
+      "style": 84,
+      "name": "Rumors about Heaven's Holy Grail have\nreached Gula too, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000064_05_msg0002",
+      "style": 84,
+      "name": "Because of that, more people from Iira\nseem to be evacuating to Gula lately,\nmo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000064_05_msg0003",
+      "style": 84,
+      "name": "But Gula is full of nature. Fierce\nmonsters live deep inland. Outsiders\nmay have a hard time, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000064_05_msg0004",
+      "style": 84,
+      "name": "Still, once those people from Shiya\ncalled Zantoo or something are gone,\nGula should grow more peaceful, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000064_05_msg0005",
+      "style": 84,
+      "name": "Then people might gather again around\nthe ruins of Torigo Village, where\nthere are fewer monsters, mooo."
+    }
+  ]
+}

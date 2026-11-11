@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310141_01_msg0001",
+      "style": 84,
+      "name": "When you take a request, always\nput the client first."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310141_01_msg0002",
+      "style": 84,
+      "name": "We mercenaries are paid by our\nclients to do our work, after all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310141_01_msg0003",
+      "style": 84,
+      "name": "Neglecting or insulting a\nclient affects the reputation\nof the entire Merc Group."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41310141_01_msg0004",
+      "style": 84,
+      "name": "You might not have a problem, but\nit doesn't hurt to remember this."
+    }
+  ]
+}

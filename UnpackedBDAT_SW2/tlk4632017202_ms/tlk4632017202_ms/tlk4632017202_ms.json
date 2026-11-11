@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320172_02_msg0001",
+      "style": 84,
+      "name": "To think I will never again hear\nFan-sama's beautiful singing voice..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320172_02_msg0002",
+      "style": 84,
+      "name": "At night, she would sometimes\nsing alone."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320172_02_msg0003",
+      "style": 84,
+      "name": "They say her voice can restrain the\npower of Blades, but in my case it\nbrought tranquility to my heart..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46320172_02_msg0004",
+      "style": 84,
+      "name": "Oh, but I shouldn't get\ndistracted while I'm on guard\nduty! Excuse me, please."
+    }
+  ]
+}

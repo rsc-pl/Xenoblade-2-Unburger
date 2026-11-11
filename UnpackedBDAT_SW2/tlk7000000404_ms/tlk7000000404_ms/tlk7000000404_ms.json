@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000004_04_msg0001",
+      "style": 84,
+      "name": "Old Bry sure looked happy.\nSeeing Laura-sama and Shin-sama\nreminded him of Ornella-san."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000004_04_msg0002",
+      "style": 84,
+      "name": "And I can see you all have strong\nbonds between Blades and Drivers.\nEven an Iiran like me can see that!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000004_04_msg0003",
+      "style": 84,
+      "name": "I'm glad Iira has a new Knight-sama,\nbut I'm happiest Laura-sama received\nthe accolade."
+    }
+  ]
+}

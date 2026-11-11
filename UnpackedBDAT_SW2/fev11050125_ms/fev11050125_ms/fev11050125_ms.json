@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_050_125_msg0001",
+      "style": 84,
+      "name": "This place is perfect for camping."
+    },
+    {
+      "$id": 2,
+      "label": "fev11_050_125_msg0002",
+      "style": 84,
+      "name": "Yeah... I'll handle the cooking."
+    },
+    {
+      "$id": 3,
+      "label": "fev11_050_125_msg0003",
+      "style": 84,
+      "name": "Ooh, I can't wait!\nWhat're you gonna make?"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_050_125_msg0004",
+      "style": 84,
+      "name": "Hmm. Well, with what we\ncan find around here..."
+    },
+    {
+      "$id": 5,
+      "label": "fev11_050_125_msg0005",
+      "style": 84,
+      "name": "If we stew some Iiran Trout with\nOnitama Onions and Sour Avocados..."
+    },
+    {
+      "$id": 6,
+      "label": "fev11_050_125_msg0006",
+      "style": 84,
+      "name": "How about some Trout Ruushichi?"
+    },
+    {
+      "$id": 7,
+      "label": "fev11_050_125_msg0007",
+      "style": 84,
+      "name": "Sounds delicious! You're\neating too, right?"
+    },
+    {
+      "$id": 8,
+      "label": "fev11_050_125_msg0008",
+      "style": 84,
+      "name": "...Sure."
+    },
+    {
+      "$id": 9,
+      "label": "fev11_050_125_msg0009",
+      "style": 84,
+      "name": "Okay, let's go find the\ningredients together."
+    },
+    {
+      "$id": 10,
+      "label": "fev11_050_125_msg0010",
+      "style": 84,
+      "name": "We can find Iiran Trout, Onitama\nOnions, and Sour Avocados nearby.\nNo need for a long trip."
+    }
+  ]
+}

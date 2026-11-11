@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200111_05_msg0001",
+      "style": 84,
+      "name": "I saw the World Tree light\nup like a big bright lamp!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200111_05_msg0002",
+      "style": 84,
+      "name": "A Divine Beast-san was passing nearby.\nI wonder if that had anything to do\nwith it?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200111_05_msg0003",
+      "style": 84,
+      "name": "If a huge tree like that fell, all the\ncreatures swimming in the Cloud Sea\nwould be shocked, huh?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200111_05_msg0004",
+      "style": 84,
+      "name": "But Mummy said the World Tree is\nsturdy, so it should be all right.\nI hope she's right..."
+    }
+  ]
+}

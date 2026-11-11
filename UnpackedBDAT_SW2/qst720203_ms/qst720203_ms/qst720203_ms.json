@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720303_msg0001",
+      "style": 84,
+      "name": "A fire-breathing monster... good\nthing Wadatsumi was with us."
+    },
+    {
+      "$id": 2,
+      "label": "qst720303_msg0002",
+      "style": 84,
+      "name": "Something like that is\nno trouble at all."
+    },
+    {
+      "$id": 3,
+      "label": "qst720303_msg0003",
+      "style": 84,
+      "name": "Looks like this thing was the\nsource of the scorch marks."
+    },
+    {
+      "$id": 4,
+      "label": "qst720303_msg0004",
+      "style": 84,
+      "name": "That's right... to think such\na dangerous monster was this\nclose to Torigo Village."
+    },
+    {
+      "$id": 5,
+      "label": "qst720303_msg0005",
+      "style": 84,
+      "name": "It might have been driven out of\nits home in a turf war, too."
+    },
+    {
+      "$id": 6,
+      "label": "qst720303_msg0006",
+      "style": 84,
+      "name": "Or maybe humans stole its home."
+    },
+    {
+      "$id": 7,
+      "label": "qst720303_msg0007",
+      "style": 84,
+      "name": "To them, we're probably\nthe real monsters."
+    },
+    {
+      "$id": 8,
+      "label": "qst720303_msg0008",
+      "style": 84,
+      "name": "Exactly."
+    },
+    {
+      "$id": 9,
+      "label": "qst720303_msg0009",
+      "style": 84,
+      "name": "One day, humans will have to fight\neach other over the finite supply\nof Divine Beasts."
+    },
+    {
+      "$id": 10,
+      "label": "qst720303_msg0010",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] No, that day has already..."
+    }
+  ]
+}

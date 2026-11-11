@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104007_msg001",
+      "style": 62,
+      "name": "Thank you for everything\nthe other day."
+    },
+    {
+      "$id": 2,
+      "label": "qst104007_msg002",
+      "style": 62,
+      "name": "Thanks to you, we were able\nto return to Invidia safely."
+    },
+    {
+      "$id": 3,
+      "label": "qst104007_msg003",
+      "style": 62,
+      "name": "After drinking the completed medicine,\nmy older brother recovered as if he'd\nnever been bedridden at all."
+    },
+    {
+      "$id": 4,
+      "label": "qst104007_msg004",
+      "style": 62,
+      "name": "This is all thanks to your help."
+    },
+    {
+      "$id": 5,
+      "label": "qst104007_msg005",
+      "style": 62,
+      "name": "Um, this is just a small token of\nmy gratitude... Please accept it."
+    },
+    {
+      "$id": 6,
+      "label": "qst104007_msg006",
+      "style": 62,
+      "name": "It's a reward for your help."
+    },
+    {
+      "$id": 7,
+      "label": "qst104007_msg007",
+      "style": 62,
+      "name": "Next time we meet, please let me\nintroduce you to my older brother\nas my benefactor."
+    }
+  ]
+}

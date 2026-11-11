@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000122_03_msg0001",
+      "style": 84,
+      "name": "Ack... After coming up with\nthis new Special, and me being\na pro adventurer and all..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000122_03_msg0002",
+      "style": 84,
+      "name": "Oh, you came at just the right time."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000122_03_msg0003",
+      "style": 84,
+      "name": "Would you like to perform the\n'Beautiful Rose Ensemble' with me?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000122_03_msg0004",
+      "style": 84,
+      "name": "Don't get it? In terms ordinary people\nlike you can understand, it's\nconsecutive attacks using Specials."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000122_03_msg0005",
+      "style": 84,
+      "name": "Chain Specials together and\nelement orbs will appear, letting\nyou fight with the upper hand."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000122_03_msg0006",
+      "style": 84,
+      "name": "But even I get tired of using\nSpecials one after another, so I\nneeded someone to keep up with me."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000122_03_msg0007",
+      "style": 84,
+      "name": "Hmm... You seem quite skilled, but you\nappear to be lacking a little\nelegance."
+    },
+    {
+      "$id": 8,
+      "label": "tlk70000122_03_msg0008",
+      "style": 84,
+      "name": "Sorry, but maybe doing the\nRose-in-Bloom with you can\nwait till another time."
+    }
+  ]
+}

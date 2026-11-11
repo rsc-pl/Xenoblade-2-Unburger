@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420341_07_msg0001",
+      "style": 84,
+      "name": "Ohhh, how am I ever going to\nfind the manpower for this?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420341_07_msg0002",
+      "style": 84,
+      "name": "Actually, we started trying something\nnew recently."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420341_07_msg0003",
+      "style": 84,
+      "name": "Basically, we find things people lost\non their travels. It's mainly targeted\nat adventurers and merchants."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420341_07_msg0004",
+      "style": 84,
+      "name": "After all, we travel to all\nsorts of places for our\nmercenary work, you know?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk43420341_07_msg0005",
+      "style": 84,
+      "name": "So if we search for people's lost\nthings while we're there, it lets us\nearn extra rewards more efficiently."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43420341_07_msg0006",
+      "style": 84,
+      "name": "Problem is, it's become such a popular\nservice, we'll need a specialist team\nto keep up with all the requests..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43420341_07_msg0007",
+      "style": 84,
+      "name": "That'd be a huge help! I'm counting\non you!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202705_msg0001",
+      "style": 84,
+      "name": "The World Ruin Cult, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202705_msg0002",
+      "style": 84,
+      "name": "Mo mo, I'm sorry, mo.\nI don't know, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst202705_msg0003",
+      "style": 84,
+      "name": "But I do know of a cooking class\ncalled Schweigen Grenze, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202705_msg0004",
+      "style": 84,
+      "name": "[ML:Dash ]But this information\nis not helpful, mo[ML:Dash ]"
+    }
+  ]
+}

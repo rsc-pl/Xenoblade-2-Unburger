@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201815_msg0001",
+      "style": 84,
+      "name": "The Demon King has made its nest\naround Unin Island in the Liberalitas\nArchipelago."
+    },
+    {
+      "$id": 2,
+      "label": "qst201815_msg0002",
+      "style": 84,
+      "name": "Uka-dono, please lend\nus your strength!"
+    }
+  ]
+}

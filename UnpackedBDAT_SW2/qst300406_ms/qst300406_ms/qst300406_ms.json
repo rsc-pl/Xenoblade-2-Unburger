@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300406_msg001",
+      "style": 62,
+      "name": "Talk to the captain at the entrance\nto the Divine Beast battleship"
+    },
+    {
+      "$id": 2,
+      "label": "qst300406_msg0001",
+      "style": 84,
+      "name": "What is it?"
+    },
+    {
+      "$id": 3,
+      "label": "qst300406_msg0002",
+      "style": 84,
+      "name": "Jeweled Signet? I'm afraid\nI don't know of it[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst300406_msg0003",
+      "style": 84,
+      "name": "We are busy preparing for departure.\nI must ask you to leave."
+    },
+    {
+      "$id": 5,
+      "label": "qst300406_msg0101",
+      "style": 84,
+      "name": "Even as a companion of\nSpecial Commissioner-dono, I can't\napprove of you coming and going[ML:Dash ]"
+    }
+  ]
+}

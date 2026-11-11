@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101713_msg001",
+      "style": 62,
+      "name": "I was rejected."
+    },
+    {
+      "$id": 2,
+      "label": "qst101713_msg002",
+      "style": 62,
+      "name": "Shall I (Nanakoori) give\nthe lesson instead?"
+    },
+    {
+      "$id": 3,
+      "label": "qst101713_msg003",
+      "style": 62,
+      "name": "Choice: What should I do?"
+    },
+    {
+      "$id": 4,
+      "label": "qst101713_msg004",
+      "style": 62,
+      "name": "Leave it to Nanakoori"
+    },
+    {
+      "$id": 5,
+      "label": "qst101713_msg005",
+      "style": 62,
+      "name": "I want the songstress Nopon"
+    },
+    {
+      "$id": 6,
+      "label": "qst101713_msg006",
+      "style": 62,
+      "name": "I'm sorry for being pushy.\nGood luck with your work."
+    },
+    {
+      "$id": 7,
+      "label": "qst101713_msg007",
+      "style": 62,
+      "name": "I still want the songstress\nNopon to give the lesson."
+    },
+    {
+      "$id": 8,
+      "label": "qst101713_msg008",
+      "style": 62,
+      "name": "I suppose I'll go."
+    },
+    {
+      "$id": 9,
+      "label": "qst101713_msg009",
+      "style": 62,
+      "name": "But I have work in Avaritia,\nso I can't stay for long. I'll\ncome see you sometimes."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100413_msg0001",
+      "style": 84,
+      "name": "That's all of them posted!\nLet's go tell Falala-san."
+    },
+    {
+      "$id": 2,
+      "label": "qst100413_msg0002",
+      "style": 84,
+      "name": "Alright! All done! Let's\ngo back and tell her."
+    },
+    {
+      "$id": 3,
+      "label": "qst100413_msg0003",
+      "style": 84,
+      "name": "That's the last one. Well then,\nlet's go back and report!"
+    },
+    {
+      "$id": 4,
+      "label": "qst100413_msg0004",
+      "style": 84,
+      "name": "All posted, mo! Let's go back\nto Falala-san's place, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst100413_msg0005",
+      "style": 84,
+      "name": "Hmm, mission complete... Time\nto report to the client."
+    }
+  ]
+}

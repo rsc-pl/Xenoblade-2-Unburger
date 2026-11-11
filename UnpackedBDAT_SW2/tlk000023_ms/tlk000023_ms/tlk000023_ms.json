@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000023_msg0001",
+      "style": 84,
+      "name": "To think that I would end up traveling\non the same Divine Beast ship as\nHeaven's Holy Grail and her Driver."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000023_msg0002",
+      "style": 84,
+      "name": "Rest assured. I have no intention\nof causing any trouble."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000023_msg0003",
+      "style": 84,
+      "name": "For now, I shall simply observe\nwhere you are all headed."
+    }
+  ]
+}

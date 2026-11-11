@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev02_360_125_msg0001",
+      "style": 84,
+      "name": "Looks like there's a\nhangar up ahead..."
+    },
+    {
+      "$id": 2,
+      "label": "fev02_360_125_msg0002",
+      "style": 84,
+      "name": "I think we might find an exit there."
+    },
+    {
+      "$id": 3,
+      "label": "fev02_360_125_msg0003",
+      "style": 84,
+      "name": "Mo-mo-mooo! It's locked and won't\nopen, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "fev02_360_125_msg0004",
+      "style": 84,
+      "name": "Even Hana's strength doesn't seem\nto be enough, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "fev02_360_125_msg0005",
+      "style": 84,
+      "name": "We were almost there...!"
+    },
+    {
+      "$id": 6,
+      "label": "fev02_360_125_msg0006",
+      "style": 84,
+      "name": "Rex, look over there."
+    },
+    {
+      "$id": 7,
+      "label": "fev02_360_125_msg0007",
+      "style": 84,
+      "name": "Suspicious... Is that a switch?"
+    },
+    {
+      "$id": 8,
+      "label": "fev02_360_125_msg0008",
+      "style": 84,
+      "name": "At this point, that's our only option."
+    },
+    {
+      "$id": 9,
+      "label": "fev02_360_125_msg0009",
+      "style": 84,
+      "name": "If the door opens, we might be able\nto escape through the hangar."
+    },
+    {
+      "$id": 10,
+      "label": "fev02_360_125_msg0010",
+      "style": 84,
+      "name": "Then it's settled. Let's get moving!"
+    },
+    {
+      "$id": 11,
+      "label": "fev02_360_125_msg0011",
+      "style": 84,
+      "name": "Looks like we'll have to exit this\nroom and find an alternate route."
+    }
+  ]
+}

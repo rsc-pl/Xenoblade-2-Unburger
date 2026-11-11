@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001901_05_msg0001",
+      "style": 84,
+      "name": "You've been to Acedia, haven't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001901_05_msg0002",
+      "style": 84,
+      "name": "What's it like there? Is\nit a place where kids can\nbe safe on their own?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001901_05_msg0003",
+      "style": 84,
+      "name": "The kids are excited for seminary,\nbut so few from this village have\never gone there that I still worry."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001901_05_msg0004",
+      "style": 84,
+      "name": "I just hope it's a place where\nthe kids can fit in easily."
+    }
+  ]
+}

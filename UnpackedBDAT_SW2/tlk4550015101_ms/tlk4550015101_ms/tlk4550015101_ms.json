@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500151_01_msg0001",
+      "style": 84,
+      "name": "Welcoooome to Adirno Music! We sell\ninstruments made in Superbia! Take a\nlooong look around!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500151_01_msg0004",
+      "style": 84,
+      "name": "Owneeeeeer! ♪ Such a pleasure\nto seeeeeee you! ♪ Enjoy your\nvisit to Adirno Musiiiiic! ♪"
+    }
+  ]
+}

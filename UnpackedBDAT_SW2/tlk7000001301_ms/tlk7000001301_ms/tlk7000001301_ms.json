@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000013_01_msg0001",
+      "style": 84,
+      "name": "All sorts live here in this city, but\neveryone carries their own worries\naround, and that makes us all alike."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000013_01_msg0002",
+      "style": 84,
+      "name": "So if someone ever comes to ask you\nfor help, would you hear them out?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000013_01_msg0003",
+      "style": 84,
+      "name": "That empathy is something the people\nyou help will never forget. They'll\nsupport you, rain or shine."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000013_01_msg0004",
+      "style": 84,
+      "name": "On top of that, once you make a\nname for yourself, new doors open\nup on account of your rep."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000013_01_msg0005",
+      "style": 84,
+      "name": "But don't let fame go to your head.\nAnd never think others are beneath\nyou. It only causes pain."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000013_01_msg0006",
+      "style": 84,
+      "name": "Please remember that well."
+    }
+  ]
+}

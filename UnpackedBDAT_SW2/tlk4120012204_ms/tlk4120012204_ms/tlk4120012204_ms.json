@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200122_04_msg0001",
+      "style": 84,
+      "name": "Armu-chan look completely different\ndepending on the climate and\necosystem of the country they live in!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200122_04_msg0002",
+      "style": 84,
+      "name": "That's right! You can tell what state\na country is in just by looking at\nits Armu-chan!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200122_04_msg0003",
+      "style": 84,
+      "name": "In Superbia, they're more\naggressive! In Luxuria,\nthey're super fluffy!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200122_04_msg0004",
+      "style": 84,
+      "name": "Aah! I'd love to travel the world\nmeeting all kinds of Armu-chan\nat least once!"
+    }
+  ]
+}

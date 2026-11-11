@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46310171_01_msg0001",
+      "style": 84,
+      "name": "Ah, you must be the travelers\nZeke-dono was escorting. Welcome\nto the cathedral of Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46310171_01_msg0002",
+      "style": 84,
+      "name": "Oh, I see there is a\nsalvager among your number!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk46310171_01_msg0003",
+      "style": 84,
+      "name": "His Holiness Malbeni also gathered\nrelics from across Alst as a salvager\nwhen he was young."
+    }
+  ]
+}

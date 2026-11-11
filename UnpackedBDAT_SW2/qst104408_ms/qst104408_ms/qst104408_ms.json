@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104408_msg001",
+      "style": 62,
+      "name": "Thank you. Next, please\ngo and be a conversation\npartner for Becca-san."
+    },
+    {
+      "$id": 2,
+      "label": "qst104408_msg002",
+      "style": 62,
+      "name": "Please go and be a conversation\npartner for Becca-san."
+    }
+  ]
+}

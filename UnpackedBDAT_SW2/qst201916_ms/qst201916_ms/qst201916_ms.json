@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201916_msg0001",
+      "style": 84,
+      "name": "My precious clam hair ornament\nbroke because of that\nblack-furred Nopon-chan..."
+    },
+    {
+      "$id": 2,
+      "label": "qst201916_msg0002",
+      "style": 84,
+      "name": "It was a precious birthday gift..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201916_msg0003",
+      "style": 84,
+      "name": "My dad said he got it from a\nsalvager friend of his..."
+    },
+    {
+      "$id": 4,
+      "label": "qst201916_msg0004",
+      "style": 84,
+      "name": "He said it was so pretty,\nhe thought it might suit me!"
+    }
+  ]
+}

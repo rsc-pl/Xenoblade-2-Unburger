@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103313_msg0001",
+      "style": 84,
+      "name": "I must prepare to receive my wife's\nbody... Karaya... Ah, damn it!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103313_msg0002",
+      "style": 84,
+      "name": "If it was going to come to\nthis, I should have taken more\ndrastic measures sooner..."
+    }
+  ]
+}

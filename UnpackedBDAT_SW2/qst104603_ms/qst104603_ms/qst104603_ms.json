@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104603_msg001",
+      "style": 62,
+      "name": "What should we do?"
+    },
+    {
+      "$id": 2,
+      "label": "qst104603_msg002",
+      "style": 62,
+      "name": "Please give me a painting set."
+    },
+    {
+      "$id": 3,
+      "label": "qst104603_msg003",
+      "style": 62,
+      "name": "I've painted a picture."
+    },
+    {
+      "$id": 4,
+      "label": "qst104603_msg004",
+      "style": 62,
+      "name": "Can't be helped."
+    },
+    {
+      "$id": 5,
+      "label": "qst104603_msg005",
+      "style": 62,
+      "name": "Placeholder reminder"
+    },
+    {
+      "$id": 6,
+      "label": "qst104603_msg006",
+      "style": 62,
+      "name": "Thank you."
+    },
+    {
+      "$id": 7,
+      "label": "qst104603_msg007",
+      "style": 62,
+      "name": "Keep up the good work."
+    },
+    {
+      "$id": 8,
+      "label": "qst104603_msg008",
+      "style": 62,
+      "name": "Sorry, but could you paint it\nwhen the weather is better?"
+    },
+    {
+      "$id": 9,
+      "label": "qst104603_msg009",
+      "style": 62,
+      "name": "You still have one, don't you?\nPlease use that to paint."
+    }
+  ]
+}

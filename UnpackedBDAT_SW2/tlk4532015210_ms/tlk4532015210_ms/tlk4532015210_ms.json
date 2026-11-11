@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320152_10_msg0001",
+      "style": 84,
+      "name": "Oh, where am I going to\nfind a good teacher?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320152_10_msg0002",
+      "style": 84,
+      "name": "Well, my dream is to become\na cool and powerful Driver\nlike Meleph-sama."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320152_10_msg0003",
+      "style": 84,
+      "name": "I'd love to be able to wield\na Blade as magnificent as\nKagutsuchi-sama someday!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320152_10_msg0004",
+      "style": 84,
+      "name": "But I don't know anyone with\nthe skills to train me to\nreach that kind of level."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320152_10_msg0005",
+      "style": 84,
+      "name": "I'm looking for a great teacher who\ncould train me to become stronger!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45320152_10_msg0006",
+      "style": 84,
+      "name": "Oh, you know someone\nwho could help me?!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk45320152_10_msg0007",
+      "style": 84,
+      "name": "That's great! Please introduce me to\na good teacher!"
+    }
+  ]
+}

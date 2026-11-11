@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200406_msg0001",
+      "style": 84,
+      "name": "Do you want to know about\nthe loan shark, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200406_msg0002",
+      "style": 84,
+      "name": "Unfortunately, Gachichi knows\nnothing, mo. If you want to know,\nbest ask someone else, mo."
+    }
+  ]
+}

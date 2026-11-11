@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104002_msg001",
+      "style": 62,
+      "name": "Huh? Where did Lavina\nand her group go?"
+    },
+    {
+      "$id": 2,
+      "label": "qst104002_msg002",
+      "style": 62,
+      "name": "Huh? Where did Lavina\nand her group go?"
+    },
+    {
+      "$id": 3,
+      "label": "qst104002_msg003",
+      "style": 62,
+      "name": "Hmm... Where have they gone?"
+    },
+    {
+      "$id": 4,
+      "label": "qst104002_msg004",
+      "style": 62,
+      "name": "Hm? Where'd Lavina and the others go?"
+    },
+    {
+      "$id": 5,
+      "label": "qst104002_msg005",
+      "style": 62,
+      "name": "Mo? Where did Lavina\nand her group go, mo?"
+    },
+    {
+      "$id": 6,
+      "label": "qst104002_msg006",
+      "style": 62,
+      "name": "Hey, are you by any chance\nlooking for a girl named Lavina?"
+    },
+    {
+      "$id": 7,
+      "label": "qst104002_msg007",
+      "style": 62,
+      "name": "I have a message for you from her."
+    },
+    {
+      "$id": 8,
+      "label": "qst104002_msg008",
+      "style": 62,
+      "name": "She said, \"I left something on the\nDivine Beast ship, so I'm going\nback to Iyasaki Port to get it.\""
+    },
+    {
+      "$id": 9,
+      "label": "qst104002_msg101",
+      "style": 62,
+      "name": "Lavina went to Iyasaki Port."
+    },
+    {
+      "$id": 10,
+      "label": "qst104002_msg102",
+      "style": 62,
+      "name": "Forgetting something like\nthat... She seems a bit\nscatterbrained, doesn't she?"
+    }
+  ]
+}

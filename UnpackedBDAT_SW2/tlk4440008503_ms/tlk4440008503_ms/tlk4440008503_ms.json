@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400085_03_msg0001",
+      "style": 84,
+      "name": "I wish someone would tell me what's\ngoing to happen from here..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400085_03_msg0002",
+      "style": 84,
+      "name": "But I'm sure we'll be fine! King\nSeelig is well, and Prince Zeke has\nbecome dependable!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400085_03_msg0003",
+      "style": 84,
+      "name": "Yes... Acting cheerful like Prince\nZeke will surely bring about the best\noutcome."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400085_03_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

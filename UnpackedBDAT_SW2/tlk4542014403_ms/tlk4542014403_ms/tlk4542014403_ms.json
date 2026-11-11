@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420144_03_msg0001",
+      "style": 84,
+      "name": "Thanks to all of you, it feels like\nHræsvelgr is lively again."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420144_03_msg0002",
+      "style": 84,
+      "name": "As the Merc Group grows, the number of\nmissions should grow too. If you want\nmore, you'll have to go find them."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420144_03_msg0003",
+      "style": 84,
+      "name": "The best thing is to talk to people\nwho look like they need help..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420144_03_msg0004",
+      "style": 84,
+      "name": "It might be worth going back to towns\nyou've already visited."
+    }
+  ]
+}

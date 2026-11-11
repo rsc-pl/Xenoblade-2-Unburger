@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202720_msg0001",
+      "style": 84,
+      "name": "A shady religion called World Ruin\nCult <Anfang Euthanasie> is popular\nwith youths. Mimumu's in it, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202720_msg0002",
+      "style": 84,
+      "name": "First, I'd like you to\nask around town and gather\nsome information, mo."
+    }
+  ]
+}

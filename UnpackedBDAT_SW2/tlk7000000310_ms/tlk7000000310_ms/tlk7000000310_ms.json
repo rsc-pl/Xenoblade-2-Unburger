@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000003_10_msg0001",
+      "style": 84,
+      "name": "Tekuteku is very happy the Nopon\nchildren in town enjoyed them too, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000003_10_msg0002",
+      "style": 84,
+      "name": "But that's not the only thing I was\nhappy about, mo..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000003_10_msg0003",
+      "style": 84,
+      "name": "What made Tekuteku happiest was that\nyou and the shop owner worked hard\ntogether with Tekuteku, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000003_10_msg0004",
+      "style": 84,
+      "name": "So please stay friends with Tekuteku\nfrom now on, mo!"
+    }
+  ]
+}

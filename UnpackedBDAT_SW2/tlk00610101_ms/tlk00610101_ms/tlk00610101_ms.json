@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006101_01_msg0001",
+      "style": 84,
+      "name": "...No one's going to help us\nanyway. If that's the case, we\nhave to do it ourselves..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006101_01_msg0002",
+      "style": 84,
+      "name": "It's nothing. I'm busy. Just go away."
+    }
+  ]
+}

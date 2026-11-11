@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43600142_01_msg0001",
+      "style": 84,
+      "name": "It's such a shame..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43600142_01_msg0002",
+      "style": 84,
+      "name": "We were so close to open war\nwith Superbia, but it was\naverted at the last moment."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43600142_01_msg0003",
+      "style": 84,
+      "name": "It would have been my big chance\nto make a huge profit..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43600142_01_msg0004",
+      "style": 84,
+      "name": "I lend money to wounded soldiers and\nto widows and children. It's a good\nopportunity for business."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43600142_01_msg0005",
+      "style": 84,
+      "name": "Just whose side is Queen Lagert on,\nanyway...?"
+    }
+  ]
+}

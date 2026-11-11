@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105905_msg001",
+      "style": 62,
+      "name": "You're back. How'd it go?"
+    },
+    {
+      "$id": 2,
+      "label": "qst105905_msg002",
+      "style": 62,
+      "name": "This is a small Ether Reactor!\nIt must be expensive, how did\nyou manage to trade for it?"
+    },
+    {
+      "$id": 3,
+      "label": "qst105905_msg003",
+      "style": 62,
+      "name": "But this should definitely\nsell for a high price!"
+    },
+    {
+      "$id": 4,
+      "label": "qst105905_msg004",
+      "style": 62,
+      "name": "Now, the question is\nwhere to sell it..."
+    },
+    {
+      "$id": 5,
+      "label": "qst105905_msg005",
+      "style": 62,
+      "name": "Ah, that's right. There was\na shop in Acedia that bought\nthings for a high price."
+    },
+    {
+      "$id": 6,
+      "label": "qst105905_msg006",
+      "style": 62,
+      "name": "I heard the shop moved its base to\nAvaritia after Acedia collapsed."
+    },
+    {
+      "$id": 7,
+      "label": "qst105905_msg007",
+      "style": 62,
+      "name": "I'm sorry to ask again,\nbut could you find that\nshop and sell this for me?"
+    },
+    {
+      "$id": 8,
+      "label": "qst105905_msg008",
+      "style": 62,
+      "name": "Thanks. Be careful out there."
+    },
+    {
+      "$id": 9,
+      "label": "qst105905_msg101",
+      "style": 62,
+      "name": "So, how'd it go? Did you sell it?"
+    },
+    {
+      "$id": 10,
+      "label": "qst105905_msg102",
+      "style": 62,
+      "name": "...I see. Not yet."
+    },
+    {
+      "$id": 11,
+      "label": "qst105905_msg103",
+      "style": 62,
+      "name": "Don't worry about it. I'm\nthe one making the unreasonable\nrequest, after all."
+    }
+  ]
+}

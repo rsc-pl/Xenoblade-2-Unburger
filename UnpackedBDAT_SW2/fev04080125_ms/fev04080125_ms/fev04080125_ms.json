@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev04_080_125_msg0001",
+      "style": 84,
+      "name": "The ships that go to the Superbian\nEmpire leave from the Goldmund Flight\nDeck on the fourth floor, right?"
+    },
+    {
+      "$id": 2,
+      "label": "fev04_080_125_msg0002",
+      "style": 84,
+      "name": "If I remember correctly,\nthere's a reception desk\nwhere I can book a ship..."
+    },
+    {
+      "$id": 3,
+      "label": "fev04_080_125_msg0003",
+      "style": 84,
+      "name": "Right, let's get going!"
+    }
+  ]
+}

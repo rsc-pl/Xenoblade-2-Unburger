@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501706_msg0001",
+      "style": 84,
+      "name": "If I stay here, I hear all\nsorts of stories from tourists,\nrefugees, and clergy."
+    },
+    {
+      "$id": 2,
+      "label": "qst501706_msg0002",
+      "style": 84,
+      "name": "So, what kind of information\nare you looking for?"
+    }
+  ]
+}

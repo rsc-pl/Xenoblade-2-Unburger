@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100125_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Neuromin Textiles!\nTorigo doesn't just sell wooden goods;\nit has fine textiles too!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100125_01_msg0005",
+      "style": 84,
+      "name": "You noticed, owner. Torigo has fine\ntextiles too, not just wooden goods."
+    }
+  ]
+}

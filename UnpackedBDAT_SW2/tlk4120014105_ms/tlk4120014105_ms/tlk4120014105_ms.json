@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200141_05_msg0001",
+      "style": 84,
+      "name": "There's been nothing but bad news\nlately, but there was good news too."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200141_05_msg0002",
+      "style": 84,
+      "name": "They said Lilio and the\nothers are in Avaritia!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200141_05_msg0003",
+      "style": 84,
+      "name": "Dad said he'll take me there once\nthings in Alst settle down..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200141_05_msg0004",
+      "style": 84,
+      "name": "I never thought I'd get to see my\nfriends from Iraada Village again,\nso I'm really looking forward to it."
+    }
+  ]
+}

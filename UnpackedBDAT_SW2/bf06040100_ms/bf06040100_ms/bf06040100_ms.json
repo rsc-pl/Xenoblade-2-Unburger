@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06040100_0010",
+      "style": 82,
+      "name": "What's the deal with this ceasefire?"
+    },
+    {
+      "$id": 2,
+      "label": "bf06040100_0020",
+      "style": 82,
+      "name": "Arbitration, apparently. His\nHoliness Malbeni himself is here."
+    },
+    {
+      "$id": 3,
+      "label": "bf06040100_0030",
+      "style": 82,
+      "name": "We can't exactly refuse to hear him out, right?"
+    },
+    {
+      "$id": 4,
+      "label": "bf06040100_0040",
+      "style": 82,
+      "name": "Do you know how much damage our army suffered?"
+    },
+    {
+      "$id": 5,
+      "label": "bf06040100_0045",
+      "style": 82,
+      "name": "That only their side is\nunscathed... I can't accept that."
+    },
+    {
+      "$id": 6,
+      "label": "bf06040100_0050",
+      "style": 82,
+      "name": "Stop complaining. Everything is\ndecided by those in charge."
+    },
+    {
+      "$id": 7,
+      "label": "bf06040100_0060",
+      "style": 82,
+      "name": "Exactly. We commoners have no options or\ndecision-making power. We just have to obey."
+    }
+  ]
+}

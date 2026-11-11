@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000059_01_msg0001",
+      "style": 84,
+      "name": "Ever fought a monster you\nknow, but it somehow felt\ntougher than usual?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000059_01_msg0002",
+      "style": 84,
+      "name": "In that case, check how your elements\nmatch up—especially opposing elements."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000059_01_msg0003",
+      "style": 84,
+      "name": "If your element is fire and\nthe enemy's is water, you'll\ntake more damage than usual!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000059_01_msg0004",
+      "style": 84,
+      "name": "Knowing this can make a big difference\nin battle, so don't underestimate it."
+    }
+  ]
+}

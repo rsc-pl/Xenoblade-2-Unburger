@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_01_msg0001",
+      "style": 84,
+      "name": "Magomago's grandpa is always busy, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_01_msg0002",
+      "style": 84,
+      "name": "In other places, lots of people\nbring goods, but it's different\nhere, so it's tough, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_01_msg0003",
+      "style": 84,
+      "name": "You can't bring goods unless the\nimportant people give permission, mo.\nAnything? Anything?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100181_01_msg0004",
+      "style": 84,
+      "name": "Hurry up and get dark, mooo!\nGrandpa, finish work already, mooo!"
+    }
+  ]
+}

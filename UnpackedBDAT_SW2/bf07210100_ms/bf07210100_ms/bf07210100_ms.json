@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07210100_0010",
+      "style": 82,
+      "name": "Don't think badly of me. It was\n[System:Ruby rt=Old Man ]God[/System:Ruby] who created us this way."
+    },
+    {
+      "$id": 2,
+      "label": "bf07210100_0020",
+      "style": 82,
+      "name": "So I'll go ask him\ndirectly in your place."
+    },
+    {
+      "$id": 3,
+      "label": "bf07210100_0030",
+      "style": 82,
+      "name": "\"Why are we like this...?\"\nThat's what I'm going to ask."
+    },
+    {
+      "$id": 4,
+      "label": "bf07210100_0040",
+      "style": 82,
+      "name": "Anyway, one Heaven's Holy Grail is enough for me.\nRight, partner...?"
+    },
+    {
+      "$id": 5,
+      "label": "bf07210100_0050",
+      "style": 82,
+      "name": "[ML:undisp ]うっ[ML:Dash ]"
+    }
+  ]
+}

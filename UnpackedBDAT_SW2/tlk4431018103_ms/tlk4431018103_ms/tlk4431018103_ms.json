@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310181_03_msg0001",
+      "style": 84,
+      "name": "Welcome to Teos Aure,\nthe Luxurian capital!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310181_03_msg0002",
+      "style": 84,
+      "name": "The world's in turmoil, but my job\nis the same: keeping the peace,\nand guiding outlanders around."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310181_03_msg0003",
+      "style": 84,
+      "name": "If you're tired from traveling, visit\nAnastasis Inn. For food, try the shops\nin Elmu Square."
+    }
+  ]
+}

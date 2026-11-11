@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000119_02_msg0001",
+      "style": 84,
+      "name": "Oh, hi! Your group's grown\nsince last time, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000119_02_msg0002",
+      "style": 84,
+      "name": "I guess that means you can do some\npretty cool Blade Combos when your\nfriends make combo requests, huh?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000119_02_msg0003",
+      "style": 84,
+      "name": "Did you know? Blade Combos\nhappen when you chain Specials\ntogether in the right way."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000119_02_msg0004",
+      "style": 84,
+      "name": "They can have up to three levels.\nOf course, the more you chain,\nthe more powerful they'll be."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000119_02_msg0005",
+      "style": 84,
+      "name": "To keep a Blade Combo going, you\nmust chain higher-level moves\ntogether within the time limit."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000119_02_msg0006",
+      "style": 84,
+      "name": "That's where combo requests come in!\nAccept one after a Special to keep the\nBlade Combo going with your allies."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000119_02_msg0007",
+      "style": 84,
+      "name": "I can explain Blade Combos pretty\nsimply, but..."
+    },
+    {
+      "$id": 8,
+      "label": "tlk70000119_02_msg0008",
+      "style": 84,
+      "name": "Wish I could accept some combo\nrequests, but I suppose you need\nfriends for that...*sniff*"
+    }
+  ]
+}

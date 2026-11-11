@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst400105_msg0001",
+      "style": 84,
+      "name": "This is the new cylinder, mo. Please\ntest it at the nearby Salvage Point\nand tell me what you think, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst400105_msg0002",
+      "style": 84,
+      "name": "Got it! Leave it to me!"
+    },
+    {
+      "$id": 3,
+      "label": "qst400105_msg0003",
+      "style": 84,
+      "name": "Please test the new cylinder\nat the Salvage Point at the\nend of this pier, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst400105_msg0004",
+      "style": 84,
+      "name": "Looks like you're finished, mo.\nHow was the new cylinder, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "qst400105_msg0005",
+      "style": 165,
+      "name": "Let's be honest..."
+    },
+    {
+      "$id": 6,
+      "label": "qst400105_msg0006",
+      "style": 165,
+      "name": "It was fantastic!"
+    },
+    {
+      "$id": 7,
+      "label": "qst400105_msg0007",
+      "style": 165,
+      "name": "It was okay."
+    },
+    {
+      "$id": 8,
+      "label": "qst400105_msg0008",
+      "style": 165,
+      "name": "It wasn't great."
+    },
+    {
+      "$id": 9,
+      "label": "qst400105_msg0009",
+      "style": 84,
+      "name": "Fantastic... That's great! Other\nsalvagers will be happy to hear\nthat, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst400105_msg0010",
+      "style": 84,
+      "name": "So-so...!? What a vague answer, mo!"
+    },
+    {
+      "$id": 11,
+      "label": "qst400105_msg0011",
+      "style": 84,
+      "name": "But I suppose it takes a few tries\nto get used to a new cylinder, mo."
+    },
+    {
+      "$id": 12,
+      "label": "qst400105_msg0012",
+      "style": 84,
+      "name": "Are you sure it wasn't just your luck,\nmo? This bargain cylinder should get\ngood treasure for anyone, mo."
+    },
+    {
+      "$id": 13,
+      "label": "qst400105_msg0013",
+      "style": 84,
+      "name": "In any case, thank you\nfor your help, mo."
+    },
+    {
+      "$id": 14,
+      "label": "qst400105_msg0014",
+      "style": 84,
+      "name": "And when that one runs out,\nI hope you'll come to my\nshop to buy more, mo!"
+    },
+    {
+      "$id": 15,
+      "label": "qst400105_msg0015",
+      "style": 84,
+      "name": "As thanks, here's a normal\ncylinder, mo. You can salvage\nfrom the same spot, mo!"
+    }
+  ]
+}

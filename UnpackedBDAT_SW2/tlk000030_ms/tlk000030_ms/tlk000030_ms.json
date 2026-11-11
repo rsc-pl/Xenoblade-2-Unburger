@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000030_msg0001",
+      "style": 62,
+      "name": "The Uzushio is about 65\nmeters long, making it the\nlargest ship in Avaritia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000030_msg0002",
+      "style": 62,
+      "name": "Ah— Avaritia itself is also a ship."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000030_msg0003",
+      "style": 62,
+      "name": "The hull of Avaritia\nis 240 meters long."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000030_msg0004",
+      "style": 62,
+      "name": "And the Divine Beast pulling the ship\nis about three times that size."
+    }
+  ]
+}

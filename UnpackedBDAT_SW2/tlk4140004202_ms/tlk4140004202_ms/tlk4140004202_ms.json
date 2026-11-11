@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004202_msg0001",
+      "style": 84,
+      "name": "...Ah. Sorry for worrying you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004202_msg0002",
+      "style": 84,
+      "name": "I have dependable comrades who came\ntogether under Vandham."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004202_msg0003",
+      "style": 84,
+      "name": "Yuu and Zuo... And you all,\ntoo... You're our comrades now."
+    }
+  ]
+}

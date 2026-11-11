@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701307_msg0001",
+      "style": 84,
+      "name": "I don't know where Leon\nwent. I have no choice but\nto rely on you all..."
+    },
+    {
+      "$id": 2,
+      "label": "qst701307_msg0002",
+      "style": 84,
+      "name": "Rainbow Blossom doesn't bloom in\nordinary places. Maybe some grow\nin a secret, hard-to-reach spot."
+    },
+    {
+      "$id": 3,
+      "label": "qst701307_msg0003",
+      "style": 84,
+      "name": "I never thought he'd actually go\nlooking for something like that."
+    },
+    {
+      "$id": 4,
+      "label": "qst701307_msg0004",
+      "style": 84,
+      "name": "If something happened to\nhim... it's my fault."
+    }
+  ]
+}

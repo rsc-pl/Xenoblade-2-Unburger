@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300012_03_msg0001",
+      "style": 84,
+      "name": "I hear Chairman Bahn\nlost his position."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300012_03_msg0002",
+      "style": 84,
+      "name": "It's not surprising, given the\ndark rumors about him, but..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300012_03_msg0003",
+      "style": 84,
+      "name": "I heard he was making something\noutrageous in Superbia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300012_03_msg0004",
+      "style": 84,
+      "name": "And he was trying to hand it\nover to Iira, of all people..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300012_03_msg0005",
+      "style": 84,
+      "name": "That's just unforgivable."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41300012_03_msg0006",
+      "style": 84,
+      "name": "For now, Nilny-san is the acting\nchairman. I wonder when the\nnext one will be decided..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk41300012_03_msg0007",
+      "style": 84,
+      "name": "I just hope they decide soon so\nit doesn't affect our business..."
+    }
+  ]
+}

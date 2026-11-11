@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420341_06_msg0001",
+      "style": 84,
+      "name": "Cole-san's health seems\nto be getting better."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420341_06_msg0002",
+      "style": 84,
+      "name": "There was nothing I could do...\nYou really are impressive."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420341_06_msg0003",
+      "style": 84,
+      "name": "I feel like you've shown me what a\nmercenary ought to be."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420341_06_msg0004",
+      "style": 84,
+      "name": "Reaching out to anyone in need and\ndoing what you believe is right."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43420341_06_msg0005",
+      "style": 84,
+      "name": "No wonder Vandham recognized you."
+    }
+  ]
+}

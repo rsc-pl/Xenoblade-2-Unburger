@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00340108_msg0001",
+      "style": 84,
+      "name": "Maybe it's because everyone now\nrecognizes your strength... I can\nreally feel their motivation!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00340108_msg0002",
+      "style": 84,
+      "name": "Complete some more missions,\nand we'll trust you with\nanother important job."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00340108_msg0003",
+      "style": 84,
+      "name": "Make sure you come back to the\nvillage every now and then!"
+    }
+  ]
+}

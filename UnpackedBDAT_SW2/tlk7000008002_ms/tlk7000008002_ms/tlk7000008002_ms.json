@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000080_02_msg0001",
+      "style": 84,
+      "name": "We don't know when Heaven's Holy Grail\nwill come for the capital..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000080_02_msg0002",
+      "style": 84,
+      "name": "For the meantime, please rest\nup and explore the city."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000080_02_msg0003",
+      "style": 84,
+      "name": "Soldiers are always stationed at\nAquila Watchtower, keeping watch."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000080_02_msg0004",
+      "style": 84,
+      "name": "If Heaven's Holy Grail approaches,\nwe'll be notified right away."
+    }
+  ]
+}

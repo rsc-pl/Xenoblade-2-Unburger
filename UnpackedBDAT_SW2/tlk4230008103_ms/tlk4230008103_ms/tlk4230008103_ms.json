@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300081_03_msg0001",
+      "style": 84,
+      "name": "I want you to see the Nopon\nmerchant spirit, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300081_03_msg0002",
+      "style": 84,
+      "name": "Yajiji's board game shop, Hobby\nNitchimo Satchimo, is just up\nahead, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300081_03_msg0003",
+      "style": 84,
+      "name": "At times like these, play is\nimportant, mo! Board games\ncan soothe the soul, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300081_03_msg0004",
+      "style": 84,
+      "name": "But some people get too heated\nand start fighting... mo.\nLuxurians are too serious, mo."
+    }
+  ]
+}

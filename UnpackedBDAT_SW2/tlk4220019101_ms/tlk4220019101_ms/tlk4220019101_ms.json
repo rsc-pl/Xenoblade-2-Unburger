@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4220019101_msg0001",
+      "style": 84,
+      "name": "Alulu has become a Driver, mo.\nThis is my Blade, Matsuri-chan, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4220019101_msg0002",
+      "style": 84,
+      "name": "That's a fun-sounding name, mo.\nIt makes me want to dance, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4220019101_msg0003",
+      "style": 84,
+      "name": "I've decided, mo. I'll become the\nnumber one Nopon Driver: strong,\ncool, and a great dancer, mo."
+    }
+  ]
+}

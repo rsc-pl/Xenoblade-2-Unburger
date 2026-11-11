@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000123_03_msg0001",
+      "style": 84,
+      "name": "Do you Drivers have a proper grasp of\nyour own 'skills,' mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000123_03_msg0002",
+      "style": 84,
+      "name": "Just as every Driver has different\nstrengths, the skills each can learn\nare different too, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000123_03_msg0003",
+      "style": 84,
+      "name": "And once you learn a skill, its effect\nis always active, so even forgetful\nDorara can relax, mo!"
+    }
+  ]
+}

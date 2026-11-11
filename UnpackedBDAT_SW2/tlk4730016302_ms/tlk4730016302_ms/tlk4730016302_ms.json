@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300163_02_msg0001",
+      "style": 84,
+      "name": "Growing vegetables is the same to me\nas helping raise the children of this\nvillage."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300163_02_msg0002",
+      "style": 84,
+      "name": "Correl sends you Seared Cloud\nSea Shark, doesn't she, Rex?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300163_02_msg0003",
+      "style": 84,
+      "name": "I grow the herbs that dish can't\ndo without."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300163_02_msg0004",
+      "style": 84,
+      "name": "Eat good vegetables and you'll grow\ninto a good kid. Rex proved that.\nHe's the pride of our village."
+    }
+  ]
+}

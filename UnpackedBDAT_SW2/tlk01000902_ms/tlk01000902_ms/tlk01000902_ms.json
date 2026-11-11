@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01000902_msg0001",
+      "style": 84,
+      "name": "Welcome back, Rex-nii-chan!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk01000902_msg0002",
+      "style": 84,
+      "name": "Aunt Correl was so happy, saying\nyou brought home a bride!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk01000902_msg0003",
+      "style": 84,
+      "name": "She's a really beautiful\nlady! Ahh~ Kazuna wants\nto have a wedding too!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk01000902_msg0004",
+      "style": 84,
+      "name": "I-it's not like that!\nDon't tease me, Kazuna!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk01000902_msg0101",
+      "style": 84,
+      "name": "Martis is really good at studying.\nThat's why he got into the seminary."
+    },
+    {
+      "$id": 6,
+      "label": "tlk01000902_msg0102",
+      "style": 84,
+      "name": "But it makes me a bit sad that\nwe won't be able to play together\nwith Kukuri anymore..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk01000902_msg0103",
+      "style": 84,
+      "name": "So until he goes to the\nschool, I'm going to sit\nnext to him and watch him!"
+    }
+  ]
+}

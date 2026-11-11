@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00040105_msg0001",
+      "style": 84,
+      "name": "The Fire Dragons are a world-class\ncooking group, mo! They aren't\nlike average chefs, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00040105_msg0002",
+      "style": 84,
+      "name": "And yet... you've beaten them\nto a pulp... What are you going\nto do about the food, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00040105_msg0003",
+      "style": 84,
+      "name": "At this rate, we'll have no choice\nbut to have the Emperor and Queen\neat the food Punin whipped up, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00040105_msg0004",
+      "style": 84,
+      "name": "No, but, this might be a chance\nfor Punin to be recognized as\na first-class chef, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk00040105_msg0005",
+      "style": 84,
+      "name": "Leave this to Punin and\nhurry to the hangar, mo!!"
+    }
+  ]
+}

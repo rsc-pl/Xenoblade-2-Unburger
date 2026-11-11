@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000025_03_msg0001",
+      "style": 84,
+      "name": "I... I'm really moved!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000025_03_msg0002",
+      "style": 84,
+      "name": "Just seeing you guys stand up to\nthe cronies of Heaven's Holy Grail\nas they wrecked town after town..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000025_03_msg0003",
+      "style": 84,
+      "name": "You were as cool as the Iiran army...\nNo, even cooler!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000025_03_msg0004",
+      "style": 84,
+      "name": "I'm still just a civilian, but\nsomeday I'll join Iira's army\nand help people like you do!"
+    }
+  ]
+}

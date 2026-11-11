@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200153_02_msg0001",
+      "style": 84,
+      "name": "Alba Margen is the biggest\ncity in the whole Empire."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200153_02_msg0002",
+      "style": 84,
+      "name": "Watching from here, you see all\nsorts of people and goods coming\nin and going out of the city."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200153_02_msg0003",
+      "style": 84,
+      "name": "I guess nobody can tell if there are\nbad people in the crowd. Like the ones\nwho caused a ruckus not long ago."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200153_02_msg0004",
+      "style": 84,
+      "name": "If only all bad people were as\neasy to spot as that Brionac lot."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45200153_02_msg0005",
+      "style": 84,
+      "name": "Oh, Brionac is a group of bad people\ntrying to defeat Nefer-sama."
+    }
+  ]
+}

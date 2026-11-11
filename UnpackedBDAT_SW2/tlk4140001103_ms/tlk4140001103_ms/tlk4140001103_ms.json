@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400011_03_msg0001",
+      "style": 84,
+      "name": "Ugh... The Nopon just love Samo.\nThey're always eating Juicy Samo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400011_03_msg0002",
+      "style": 84,
+      "name": "You'd get sick of it, right...?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400011_03_msg0003",
+      "style": 84,
+      "name": "But there's a way to\nsolve that problem."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400011_03_msg0004",
+      "style": 84,
+      "name": "Develop the city."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41400011_03_msg0005",
+      "style": 84,
+      "name": "If the city develops, trade\nwith other cities will begin."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41400011_03_msg0006",
+      "style": 84,
+      "name": "New products using the specialties\nand local products of other cities\nwill start lining the shelves."
+    },
+    {
+      "$id": 7,
+      "label": "tlk41400011_03_msg0007",
+      "style": 84,
+      "name": "Of course... we'll have to secure\ntrade routes, so we'll probably\nneed to rely on a Merc Group."
+    }
+  ]
+}

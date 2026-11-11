@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200409_msg0001",
+      "style": 84,
+      "name": "Um... I'm sorry."
+    },
+    {
+      "$id": 2,
+      "label": "qst200409_msg0002",
+      "style": 84,
+      "name": "I don't know anything\nabout a loan shark."
+    },
+    {
+      "$id": 3,
+      "label": "qst200409_msg0003",
+      "style": 84,
+      "name": "...Ah, but..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200409_msg0004",
+      "style": 84,
+      "name": "Be careful. There's a rumor going\naround about people starting trouble\nover nothing."
+    }
+  ]
+}

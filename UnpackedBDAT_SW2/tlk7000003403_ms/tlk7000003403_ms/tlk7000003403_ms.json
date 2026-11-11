@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000034_03_msg0001",
+      "style": 84,
+      "name": "For a moment I wasn't sure what would\nhappen... But then I realized that's\nexactly when you need music most."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000034_03_msg0002",
+      "style": 84,
+      "name": "In desperate times, music has\nthe power to transcend words\nand speak to the heart."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000034_03_msg0003",
+      "style": 84,
+      "name": "I'm not strong enough to shift rubble,\nbut I CAN use music to lift the weight\nof sorrow from people's hearts."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000034_03_msg0004",
+      "style": 84,
+      "name": "...No matter how heavy the burden on\nmy beloved Sarah's heart may be!"
+    }
+  ]
+}

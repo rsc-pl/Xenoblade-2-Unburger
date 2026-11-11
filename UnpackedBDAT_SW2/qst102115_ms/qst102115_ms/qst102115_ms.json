@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102115_msg001",
+      "style": 84,
+      "name": "By order of Delfina-san,\nI am restricting entry and\nexit from the village."
+    },
+    {
+      "$id": 2,
+      "label": "qst102115_msg002",
+      "style": 84,
+      "name": "You, however, have been\ngiven permission to pass\nfreely. Please, go ahead."
+    }
+  ]
+}

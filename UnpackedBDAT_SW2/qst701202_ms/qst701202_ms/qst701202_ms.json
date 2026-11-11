@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701202_msg0001",
+      "style": 84,
+      "name": "My master, Thales, went to\nTorigo Village on business\nand hasn't returned."
+    },
+    {
+      "$id": 2,
+      "label": "qst701202_msg0002",
+      "style": 84,
+      "name": "I don't think anything has happened,\nbut if you could check on him..."
+    },
+    {
+      "$id": 3,
+      "label": "qst701202_msg0003",
+      "style": 84,
+      "name": "I heard my master's home is on\nthe far side of Torigo Village."
+    },
+    {
+      "$id": 4,
+      "label": "qst701202_msg0004",
+      "style": 84,
+      "name": "If you find him, could you\ntell him that his apprentice,\nSharla, was worried?"
+    },
+    {
+      "$id": 5,
+      "label": "qst701202_msg0104",
+      "style": 84,
+      "name": "Nox Promontory...? That\nmight be the place my master\nsaid was his favorite..."
+    },
+    {
+      "$id": 6,
+      "label": "qst701202_msg0105",
+      "style": 84,
+      "name": "I believe he said it was near the\nport of Gula, towards the tail."
+    },
+    {
+      "$id": 7,
+      "label": "qst701202_msg0106",
+      "style": 84,
+      "name": "Um... is my master perhaps there?"
+    },
+    {
+      "$id": 8,
+      "label": "qst701202_msg0201",
+      "style": 84,
+      "name": "...Reinforced glass? If\nmy master were here, he\ncould prepare it, but..."
+    }
+  ]
+}

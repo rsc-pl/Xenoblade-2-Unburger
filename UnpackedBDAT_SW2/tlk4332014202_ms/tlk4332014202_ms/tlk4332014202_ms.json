@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320142_02_msg0001",
+      "style": 84,
+      "name": "The kids are playing\nat being Mercs again."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320142_02_msg0002",
+      "style": 84,
+      "name": "Lately they've even started copying\nour weapon handling after watching us."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320142_02_msg0003",
+      "style": 84,
+      "name": "Especially that Jillwood..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320142_02_msg0004",
+      "style": 84,
+      "name": "He always tended to obsess over\nstrength, and now it's really showing."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320142_02_msg0005",
+      "style": 84,
+      "name": "I hope it doesn't get him\ninto trouble someday..."
+    }
+  ]
+}

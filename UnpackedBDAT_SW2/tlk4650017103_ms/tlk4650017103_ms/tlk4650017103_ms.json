@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46500171_03_msg0001",
+      "style": 84,
+      "name": "I still have trouble believing that\nFan-sama is no longer with us..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46500171_03_msg0002",
+      "style": 84,
+      "name": "I thought I'd finally make progress\non the sculpture today, but I couldn't\neven raise my arm to carve."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46500171_03_msg0003",
+      "style": 84,
+      "name": "When I'm feeling down, I make a point\nof drinking sweet Odifa."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46500171_03_msg0004",
+      "style": 84,
+      "name": "Here, have some Odifa too.\nIt'll perk you up."
+    }
+  ]
+}

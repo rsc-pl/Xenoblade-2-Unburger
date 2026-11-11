@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350122_02_msg0001",
+      "style": 84,
+      "name": "Do you know Iraada Village? It's a\nsmall village on the edge of Gula."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350122_02_msg0002",
+      "style": 84,
+      "name": "That village is great. The water is\nclear and the villagers are kind."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350122_02_msg0003",
+      "style": 84,
+      "name": "A boy named Lilio in particular\nwas very fond of us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350122_02_msg0004",
+      "style": 84,
+      "name": "I haven't been to Iraada\nVillage recently, but I\nwonder if Lilio is doing well."
+    }
+  ]
+}

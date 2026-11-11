@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320121_03_msg0001",
+      "style": 84,
+      "name": "As a Driver scout, I'm a little\ncurious how the young people I\nrecruited are doing!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320121_03_msg0002",
+      "style": 84,
+      "name": "I wonder what happened to the boy who\njoined our army the other day..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320121_03_msg0003",
+      "style": 84,
+      "name": "Elnoth, I think his name was."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320121_03_msg0004",
+      "style": 84,
+      "name": "Taking on the challenge of becoming a\nDriver for his siblings... Doesn't\nthat show a fiery spirit?!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320121_03_msg0005",
+      "style": 84,
+      "name": "I hope life's treating\nhim well in Superbia..."
+    }
+  ]
+}

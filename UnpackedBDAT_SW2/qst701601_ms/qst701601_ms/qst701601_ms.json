@@ -1,0 +1,426 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701601_msg0001",
+      "style": 84,
+      "name": "Please! Let me eat the\nspecialty dish here!"
+    },
+    {
+      "$id": 2,
+      "label": "qst701601_msg0002",
+      "style": 84,
+      "name": "Martin-san... You've been staying\nhere for so long, but I can't make\nanything decent anymore..."
+    },
+    {
+      "$id": 3,
+      "label": "qst701601_msg0003",
+      "style": 84,
+      "name": "I told you before, didn't I?"
+    },
+    {
+      "$id": 4,
+      "label": "qst701601_msg0004",
+      "style": 84,
+      "name": "I came from Superbia to\nlearn about delicious food."
+    },
+    {
+      "$id": 5,
+      "label": "qst701601_msg0005",
+      "style": 84,
+      "name": "I want to try the signature dish at\nIira's best-known restaurant and learn\nwhat makes it so delicious!"
+    },
+    {
+      "$id": 6,
+      "label": "qst701601_msg0006",
+      "style": 84,
+      "name": "Even though Iira is in\ndanger, I'm sticking around\nwithout running away!"
+    },
+    {
+      "$id": 7,
+      "label": "qst701601_msg0007",
+      "style": 84,
+      "name": "You could at least make\nit for me once, right?"
+    },
+    {
+      "$id": 8,
+      "label": "qst701601_msg0008",
+      "style": 84,
+      "name": "I know, but I just can't do it..."
+    },
+    {
+      "$id": 9,
+      "label": "qst701601_msg0009",
+      "style": 84,
+      "name": "Hey, why is it impossible?"
+    },
+    {
+      "$id": 10,
+      "label": "qst701601_msg0010",
+      "style": 84,
+      "name": "Laura-sama, Adel-sama..."
+    },
+    {
+      "$id": 11,
+      "label": "qst701601_msg0011",
+      "style": 84,
+      "name": "My father and mother, whom I left\nbehind in my hometown of Porta\nVillage, have passed away..."
+    },
+    {
+      "$id": 12,
+      "label": "qst701601_msg0012",
+      "style": 84,
+      "name": "I'm so sad... It's all I can\ndo to get through each day."
+    },
+    {
+      "$id": 13,
+      "label": "qst701601_msg0013",
+      "style": 84,
+      "name": "That's... rough..."
+    },
+    {
+      "$id": 14,
+      "label": "qst701601_msg0014",
+      "style": 84,
+      "name": "But does that mean you can\nkeep serving such bad food?"
+    },
+    {
+      "$id": 15,
+      "label": "qst701601_msg0015",
+      "style": 84,
+      "name": "...It's still better than\nSuperbian food, isn't it?"
+    },
+    {
+      "$id": 16,
+      "label": "qst701601_msg0016",
+      "style": 84,
+      "name": "Well, that's true, but..."
+    },
+    {
+      "$id": 17,
+      "label": "qst701601_msg0017",
+      "style": 84,
+      "name": "Yuugo... Is Superbian food bad?"
+    },
+    {
+      "$id": 18,
+      "label": "qst701601_msg0018",
+      "style": 84,
+      "name": "W-Well... Most people seem\nto think so."
+    },
+    {
+      "$id": 19,
+      "label": "qst701601_msg0019",
+      "style": 84,
+      "name": "I don't think that's the case, but..."
+    },
+    {
+      "$id": 20,
+      "label": "qst701601_msg0020",
+      "style": 84,
+      "name": "I'm not a fan... I much\nprefer Shin's cooking."
+    },
+    {
+      "$id": 21,
+      "label": "qst701601_msg0021",
+      "style": 84,
+      "name": "Naturally."
+    },
+    {
+      "$id": 22,
+      "label": "qst701601_msg0022",
+      "style": 84,
+      "name": "Naturally...?"
+    },
+    {
+      "$id": 23,
+      "label": "qst701601_msg0023",
+      "style": 84,
+      "name": "I may sound selfish saying this, but\nare you going to go on like this\nforever?"
+    },
+    {
+      "$id": 24,
+      "label": "qst701601_msg0024",
+      "style": 84,
+      "name": "Even though the taste is\ngetting worse, customers\nare still coming every day."
+    },
+    {
+      "$id": 25,
+      "label": "qst701601_msg0025",
+      "style": 84,
+      "name": "Isn't a chef supposed to find a way\nto move forward and cook for customers\nwho keep coming back?"
+    },
+    {
+      "$id": 26,
+      "label": "qst701601_msg0026",
+      "style": 84,
+      "name": "But..."
+    },
+    {
+      "$id": 27,
+      "label": "qst701601_msg0027",
+      "style": 84,
+      "name": "That's it!"
+    },
+    {
+      "$id": 28,
+      "label": "qst701601_msg0028",
+      "style": 84,
+      "name": "Kozel... I know how hard this is, but\nwill you let me give you a reason\nto start cooking again?"
+    },
+    {
+      "$id": 29,
+      "label": "qst701601_msg0029",
+      "style": 84,
+      "name": "What is it?"
+    },
+    {
+      "$id": 30,
+      "label": "qst701601_msg0030",
+      "style": 84,
+      "name": "How about we hold a cooking contest?"
+    },
+    {
+      "$id": 31,
+      "label": "qst701601_msg0031",
+      "style": 84,
+      "name": "That's a great idea!"
+    },
+    {
+      "$id": 32,
+      "label": "qst701601_msg0032",
+      "style": 84,
+      "name": "I'll put up the prize money.\nShall we book the inn for it?"
+    },
+    {
+      "$id": 33,
+      "label": "qst701601_msg0033",
+      "style": 84,
+      "name": "The Adel Cup, is it?"
+    },
+    {
+      "$id": 34,
+      "label": "qst701601_msg0034",
+      "style": 84,
+      "name": "That's a bit embarrassing..."
+    },
+    {
+      "$id": 35,
+      "label": "qst701601_msg0035",
+      "style": 84,
+      "name": "That aside, the judges will be\nme and Yuugo... and then..."
+    },
+    {
+      "$id": 36,
+      "label": "qst701601_msg0036",
+      "style": 84,
+      "name": "Let me be a judge too. It's\na great opportunity to learn\nabout delicious food."
+    },
+    {
+      "$id": 37,
+      "label": "qst701601_msg0037",
+      "style": 84,
+      "name": "Of course."
+    },
+    {
+      "$id": 38,
+      "label": "qst701601_msg0038",
+      "style": 84,
+      "name": "But in times like these, I doubt\nanyone would want to participate."
+    },
+    {
+      "$id": 39,
+      "label": "qst701601_msg0039",
+      "style": 84,
+      "name": "There will be."
+    },
+    {
+      "$id": 40,
+      "label": "qst701601_msg0040",
+      "style": 84,
+      "name": "Shin may not look it, but\nhe's a good cook too."
+    },
+    {
+      "$id": 41,
+      "label": "qst701601_msg0041",
+      "style": 84,
+      "name": "No, I'm..."
+    },
+    {
+      "$id": 42,
+      "label": "qst701601_msg0042",
+      "style": 84,
+      "name": "Shin, please participate."
+    },
+    {
+      "$id": 43,
+      "label": "qst701601_msg0043",
+      "style": 84,
+      "name": "It'll help them, and I want to see\njust how good you really are."
+    },
+    {
+      "$id": 44,
+      "label": "qst701601_msg0044",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 45,
+      "label": "qst701601_msg0045",
+      "style": 84,
+      "name": "...I understand."
+    },
+    {
+      "$id": 46,
+      "label": "qst701601_msg0046",
+      "style": 84,
+      "name": "Good, good."
+    },
+    {
+      "$id": 47,
+      "label": "qst701601_msg0047",
+      "style": 84,
+      "name": "If we ask the people of the capital,\na few of them will surely come."
+    },
+    {
+      "$id": 48,
+      "label": "qst701601_msg0048",
+      "style": 84,
+      "name": "Kozel, won't you participate as well?"
+    },
+    {
+      "$id": 49,
+      "label": "qst701601_msg0049",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 50,
+      "label": "qst701601_msg0050",
+      "style": 84,
+      "name": "........."
+    },
+    {
+      "$id": 51,
+      "label": "qst701601_msg0051",
+      "style": 84,
+      "name": "I understand."
+    },
+    {
+      "$id": 52,
+      "label": "qst701601_msg0052",
+      "style": 84,
+      "name": "Now I'm curious to try the\nParagon of Iira's cooking."
+    },
+    {
+      "$id": 53,
+      "label": "qst701601_msg0053",
+      "style": 84,
+      "name": "This is going to be fun."
+    },
+    {
+      "$id": 54,
+      "label": "qst701601_msg0054",
+      "style": 84,
+      "name": "Wait a minute..."
+    },
+    {
+      "$id": 55,
+      "label": "qst701601_msg0055",
+      "style": 84,
+      "name": "What is it?"
+    },
+    {
+      "$id": 56,
+      "label": "qst701601_msg0056",
+      "style": 84,
+      "name": "Aren't you forgetting someone?"
+    },
+    {
+      "$id": 57,
+      "label": "qst701601_msg0057",
+      "style": 84,
+      "name": "Is it Wadatsumi?"
+    },
+    {
+      "$id": 58,
+      "label": "qst701601_msg0058",
+      "style": 84,
+      "name": "Wadatsumi's fish dishes\nare also delicious."
+    },
+    {
+      "$id": 59,
+      "label": "qst701601_msg0059",
+      "style": 84,
+      "name": "It's me!!"
+    },
+    {
+      "$id": 60,
+      "label": "qst701601_msg0060",
+      "style": 84,
+      "name": "Just you watch, Shin."
+    },
+    {
+      "$id": 61,
+      "label": "qst701601_msg0061",
+      "style": 84,
+      "name": "I'm going to win."
+    },
+    {
+      "$id": 62,
+      "label": "qst701601_msg0062",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 63,
+      "label": "qst701601_msg0063",
+      "style": 84,
+      "name": "Ah, you just scoffed!"
+    },
+    {
+      "$id": 64,
+      "label": "qst701601_msg0064",
+      "style": 84,
+      "name": "I'm serious!"
+    },
+    {
+      "$id": 65,
+      "label": "qst701601_msg0065",
+      "style": 84,
+      "name": "Well, if I'm going to participate,\nI want to give it my all."
+    },
+    {
+      "$id": 66,
+      "label": "qst701601_msg0066",
+      "style": 84,
+      "name": "Can we go back to the\ninn and discuss it?"
+    },
+    {
+      "$id": 67,
+      "label": "qst701601_msg0067",
+      "style": 84,
+      "name": "Of course!"
+    },
+    {
+      "$id": 68,
+      "label": "qst701601_msg0068",
+      "style": 84,
+      "name": "Man, I'm looking forward\nto the cooking contest."
+    }
+  ]
+}

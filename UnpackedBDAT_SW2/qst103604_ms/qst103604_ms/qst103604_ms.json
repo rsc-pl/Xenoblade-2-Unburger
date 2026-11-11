@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103604_msg0001",
+      "style": 84,
+      "name": "Let's get out of this city, quick!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103604_msg0002",
+      "style": 84,
+      "name": "Hey! Handle the luggage with care!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103604_msg0003",
+      "style": 84,
+      "name": "Shall I offer my assistance?"
+    },
+    {
+      "$id": 4,
+      "label": "qst103604_msg0004",
+      "style": 84,
+      "name": "Who's there?!"
+    },
+    {
+      "$id": 5,
+      "label": "qst103604_msg0005",
+      "style": 84,
+      "name": "Abandoning Nefer-sama's city,\nwhere might you be traveling?"
+    },
+    {
+      "$id": 6,
+      "label": "qst103604_msg0006",
+      "style": 84,
+      "name": "The Empire's strongest\nBlade... Why are you here!"
+    },
+    {
+      "$id": 7,
+      "label": "qst103604_msg0007",
+      "style": 84,
+      "name": "We were followed... You dead weight."
+    },
+    {
+      "$id": 8,
+      "label": "qst103604_msg0008",
+      "style": 84,
+      "name": "I did nothing..."
+    },
+    {
+      "$id": 9,
+      "label": "qst103604_msg0009",
+      "style": 84,
+      "name": "Fine! This is a chance to reduce the\nEmpire's strength. Let's do it!"
+    }
+  ]
+}

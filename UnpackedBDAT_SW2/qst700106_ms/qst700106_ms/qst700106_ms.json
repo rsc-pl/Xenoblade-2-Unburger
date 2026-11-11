@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700106_msg0001",
+      "style": 84,
+      "name": "You must have been scared. I'll\nsee you home, so don't worry."
+    },
+    {
+      "$id": 2,
+      "label": "qst700106_msg0101",
+      "style": 84,
+      "name": "You're not hurt anywhere? ...Good."
+    },
+    {
+      "$id": 3,
+      "label": "qst700106_msg0102",
+      "style": 84,
+      "name": "Just hold on a little longer."
+    },
+    {
+      "$id": 4,
+      "label": "qst700106_msg0201",
+      "style": 84,
+      "name": "Are you injured at all?\nYou'll be home soon."
+    },
+    {
+      "$id": 5,
+      "label": "qst700106_msg0301",
+      "style": 84,
+      "name": "Were you all right?"
+    },
+    {
+      "$id": 6,
+      "label": "qst700106_msg0302",
+      "style": 84,
+      "name": "Let's take a safe road\nback. No need to worry."
+    },
+    {
+      "$id": 7,
+      "label": "qst700106_msg0401",
+      "style": 84,
+      "name": "That was a close call."
+    },
+    {
+      "$id": 8,
+      "label": "qst700106_msg0402",
+      "style": 84,
+      "name": "Come on, stop staring off\ninto space. Let's go home."
+    },
+    {
+      "$id": 9,
+      "label": "qst700106_msg0501",
+      "style": 84,
+      "name": "You must've been scared.\nYou did well."
+    },
+    {
+      "$id": 10,
+      "label": "qst700106_msg0502",
+      "style": 84,
+      "name": "You're safe now."
+    },
+    {
+      "$id": 11,
+      "label": "qst700106_msg0601",
+      "style": 84,
+      "name": "That was a close one."
+    },
+    {
+      "$id": 12,
+      "label": "qst700106_msg0602",
+      "style": 84,
+      "name": "...Can you walk? Let's take\nit slow on the way back."
+    },
+    {
+      "$id": 13,
+      "label": "qst700106_msg0701",
+      "style": 84,
+      "name": "...You don't seem to be\nhurt anywhere, do you?"
+    },
+    {
+      "$id": 14,
+      "label": "qst700106_msg0702",
+      "style": 84,
+      "name": "Let's go home. Someone's\nwaiting for you."
+    },
+    {
+      "$id": 15,
+      "label": "qst700106_msg0801",
+      "style": 84,
+      "name": "...Your breathing is fast. Calm\ndown, and steady your breath."
+    },
+    {
+      "$id": 16,
+      "label": "qst700106_msg0802",
+      "style": 84,
+      "name": "...Yes, that's it. Come, shall we go?"
+    }
+  ]
+}

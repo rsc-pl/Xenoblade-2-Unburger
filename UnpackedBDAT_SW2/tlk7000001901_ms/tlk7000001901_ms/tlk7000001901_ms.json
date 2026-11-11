@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000019_01_msg0001",
+      "style": 84,
+      "name": "Oh? This side is nothing but\nwarehouses. There's nothing very\ninteresting here, you know?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000019_01_msg0002",
+      "style": 84,
+      "name": "If you're sightseeing, try the shops\non the other side or the garden in the\ncenter of town."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000019_01_msg0003",
+      "style": 84,
+      "name": "The garden in particular was made by a\nfamous local gardener. It's really\nbeautiful."
+    }
+  ]
+}

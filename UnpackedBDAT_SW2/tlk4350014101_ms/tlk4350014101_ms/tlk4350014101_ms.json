@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500141_01_msg0001",
+      "style": 84,
+      "name": "Welcome. Fons Maim is also known as\nthe City of Art. Are you interested\nin art too?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500141_01_msg0004",
+      "style": 84,
+      "name": "Why, Owner-dono. Please take your\ntime and look around."
+    }
+  ]
+}

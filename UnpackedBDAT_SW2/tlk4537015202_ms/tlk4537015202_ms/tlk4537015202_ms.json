@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370152_02_msg0001",
+      "style": 84,
+      "name": "Can I help you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370152_02_msg0002",
+      "style": 84,
+      "name": "As I told you before, please refrain\nfrom involving yourself with me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370152_02_msg0003",
+      "style": 84,
+      "name": "Brionac may be destroyed, but we never\nknow who may be watching, when, or\nwhere..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140002802_msg0001",
+      "style": 84,
+      "name": "You helped us back then... Thank\nyou. Thanks to you, I was able\nto live without regrets."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140002802_msg0002",
+      "style": 84,
+      "name": "After I came back, my father got\nreally angry at me, but... he approved\nof my marriage to Norman-san!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140002802_msg0003",
+      "style": 84,
+      "name": "It seems my attempt to elope\nshowed him how serious I was."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4140002802_msg0004",
+      "style": 84,
+      "name": "I'm glad I had the courage\nto come back to Torigo."
+    }
+  ]
+}

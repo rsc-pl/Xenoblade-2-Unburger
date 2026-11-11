@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_240_150_msg0001",
+      "style": 84,
+      "name": "Alright, with that mission wrapped\nup, shall we head to the ship?"
+    },
+    {
+      "$id": 2,
+      "label": "fev11_240_150_msg0002",
+      "style": 84,
+      "name": "Good. We can settle in and\nexchange information there."
+    },
+    {
+      "$id": 3,
+      "label": "fev11_240_150_msg0003",
+      "style": 84,
+      "name": "The ship is currently\ndocked at Lasqam Harbor."
+    },
+    {
+      "$id": 4,
+      "label": "fev11_240_150_msg0004",
+      "style": 84,
+      "name": "Alright, let's head for the harbor."
+    }
+  ]
+}

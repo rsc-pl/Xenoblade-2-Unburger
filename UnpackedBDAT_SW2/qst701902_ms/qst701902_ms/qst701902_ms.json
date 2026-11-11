@@ -1,0 +1,600 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701902_msg0001",
+      "style": 84,
+      "name": "Lieutenant Veronica, there's something\nI'd like to discuss with you."
+    },
+    {
+      "$id": 2,
+      "label": "qst701902_msg0002",
+      "style": 84,
+      "name": "What is it, Adel-sama?"
+    },
+    {
+      "$id": 3,
+      "label": "qst701902_msg0003",
+      "style": 84,
+      "name": "We need a panacea from Invidia\ncalled Dragon Incense."
+    },
+    {
+      "$id": 4,
+      "label": "qst701902_msg0004",
+      "style": 84,
+      "name": "It's for a sick girl in\nthe capital. Do you think\nit's possible to get it?"
+    },
+    {
+      "$id": 5,
+      "label": "qst701902_msg0005",
+      "style": 84,
+      "name": "It is possible."
+    },
+    {
+      "$id": 6,
+      "label": "qst701902_msg0006",
+      "style": 84,
+      "name": "But it's dangerous to return to\nInvidia now. I'd like to send only\na small, elite group."
+    },
+    {
+      "$id": 7,
+      "label": "qst701902_msg0007",
+      "style": 84,
+      "name": "That makes sense..."
+    },
+    {
+      "$id": 8,
+      "label": "qst701902_msg0008",
+      "style": 84,
+      "name": "Do you have anyone suitable in mind?"
+    },
+    {
+      "$id": 9,
+      "label": "qst701902_msg0009",
+      "style": 84,
+      "name": "Well..."
+    },
+    {
+      "$id": 10,
+      "label": "qst701902_msg0010",
+      "style": 84,
+      "name": "Leave it to Ryuuryuu and the others,\nmo!"
+    },
+    {
+      "$id": 11,
+      "label": "qst701902_msg0011",
+      "style": 84,
+      "name": "Are you sure about this?"
+    },
+    {
+      "$id": 12,
+      "label": "qst701902_msg0012",
+      "style": 84,
+      "name": "Don't think Ryuuryuu and the others\nare the same as before, mo!"
+    },
+    {
+      "$id": 13,
+      "label": "qst701902_msg0013",
+      "style": 84,
+      "name": "We were trained by Lieutenant\nVeronica and have been reborn, mo!"
+    },
+    {
+      "$id": 14,
+      "label": "qst701902_msg0014",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]You're still far too green! All four\nof you together barely make one\ncompetent soldier!"
+    },
+    {
+      "$id": 15,
+      "label": "qst701902_msg0015",
+      "style": 84,
+      "name": "Mo mo mo?!"
+    },
+    {
+      "$id": 16,
+      "label": "qst701902_msg0016",
+      "style": 84,
+      "name": "We're not getting any credit at all,\nmo!?"
+    },
+    {
+      "$id": 17,
+      "label": "qst701902_msg0017",
+      "style": 84,
+      "name": "I have my doubts..."
+    },
+    {
+      "$id": 18,
+      "label": "qst701902_msg0018",
+      "style": 84,
+      "name": "I'll go with them."
+    },
+    {
+      "$id": 19,
+      "label": "qst701902_msg0019",
+      "style": 84,
+      "name": "If I stay like this, I'll be\nnothing but a freeloader."
+    },
+    {
+      "$id": 20,
+      "label": "qst701902_msg0020",
+      "style": 84,
+      "name": "Augusto's knowledge of Invidia\nwill make him a perfect fit."
+    },
+    {
+      "$id": 21,
+      "label": "qst701902_msg0021",
+      "style": 84,
+      "name": "But that still makes only two people."
+    },
+    {
+      "$id": 22,
+      "label": "qst701902_msg0022",
+      "style": 84,
+      "name": "The Dragon Incense is in the\nDragon's Stomach. You'll need\nskilled fighters to get there."
+    },
+    {
+      "$id": 23,
+      "label": "qst701902_msg0023",
+      "style": 84,
+      "name": "If only we had some skilled people..."
+    },
+    {
+      "$id": 24,
+      "label": "qst701902_msg0024",
+      "style": 84,
+      "name": "We'll go too!"
+    },
+    {
+      "$id": 25,
+      "label": "qst701902_msg0025",
+      "style": 84,
+      "name": "Rita-san! Kaede-san! And\nDio-san is with you too."
+    },
+    {
+      "$id": 26,
+      "label": "qst701902_msg0026",
+      "style": 84,
+      "name": "I heard about it from Marena-san.\nI want to help Furia-chan too!"
+    },
+    {
+      "$id": 27,
+      "label": "qst701902_msg0027",
+      "style": 84,
+      "name": "Rita is a Driver, more or\nless, so I should be able\nto add some firepower."
+    },
+    {
+      "$id": 28,
+      "label": "qst701902_msg0028",
+      "style": 84,
+      "name": "Ugh... \"More or less\"..."
+    },
+    {
+      "$id": 29,
+      "label": "qst701902_msg0029",
+      "style": 84,
+      "name": "Zain-san asked me to come along\nand look after these two."
+    },
+    {
+      "$id": 30,
+      "label": "qst701902_msg0030",
+      "style": 84,
+      "name": "If Dio is with them, I'm\nsure they'll be fine."
+    },
+    {
+      "$id": 31,
+      "label": "qst701902_msg0031",
+      "style": 84,
+      "name": "And I am here as well!"
+    },
+    {
+      "$id": 32,
+      "label": "qst701902_msg0032",
+      "style": 84,
+      "name": "Um... Leon-san, are you\na strong fighter?"
+    },
+    {
+      "$id": 33,
+      "label": "qst701902_msg0033",
+      "style": 84,
+      "name": "Hah! You underestimate me.\nI'm famous for having more\nguts than anyone else!"
+    },
+    {
+      "$id": 34,
+      "label": "qst701902_msg0034",
+      "style": 84,
+      "name": "And you'll need my song to inspire\neveryone when they're about to\nlose heart, will you not...?"
+    },
+    {
+      "$id": 35,
+      "label": "qst701902_msg0035",
+      "style": 84,
+      "name": "That sounds rather irritating..."
+    },
+    {
+      "$id": 36,
+      "label": "qst701902_msg0036",
+      "style": 84,
+      "name": "And yet... I'm moved..."
+    },
+    {
+      "$id": 37,
+      "label": "qst701902_msg0037",
+      "style": 84,
+      "name": "That so many people we've met\nwould offer to help us..."
+    },
+    {
+      "$id": 38,
+      "label": "qst701902_msg0038",
+      "style": 84,
+      "name": "...It makes me happy."
+    },
+    {
+      "$id": 39,
+      "label": "qst701902_msg0039",
+      "style": 84,
+      "name": "Mm-hm."
+    },
+    {
+      "$id": 40,
+      "label": "qst701902_msg0040",
+      "style": 84,
+      "name": "Adel-sama... these five,\neffectively, should be able to\nbring back the Dragon Incense."
+    },
+    {
+      "$id": 41,
+      "label": "qst701902_msg0041",
+      "style": 84,
+      "name": "You're right..."
+    },
+    {
+      "$id": 42,
+      "label": "qst701902_msg0042",
+      "style": 84,
+      "name": "Wait a moment, mo!"
+    },
+    {
+      "$id": 43,
+      "label": "qst701902_msg0043",
+      "style": 84,
+      "name": "Chairman Morumo!?"
+    },
+    {
+      "$id": 44,
+      "label": "qst701902_msg0044",
+      "style": 84,
+      "name": "Morumo will go too, mo!"
+    },
+    {
+      "$id": 45,
+      "label": "qst701902_msg0045",
+      "style": 84,
+      "name": "Why...?"
+    },
+    {
+      "$id": 46,
+      "label": "qst701902_msg0046",
+      "style": 84,
+      "name": "Morumo loves the capital, mo."
+    },
+    {
+      "$id": 47,
+      "label": "qst701902_msg0047",
+      "style": 84,
+      "name": "And Morumo loves the people\nwho live there, mo."
+    },
+    {
+      "$id": 48,
+      "label": "qst701902_msg0048",
+      "style": 84,
+      "name": "But I betrayed them..."
+    },
+    {
+      "$id": 49,
+      "label": "qst701902_msg0049",
+      "style": 84,
+      "name": "I want to atone for my sin,\nmo! I'm prepared to be monster\nbait or a decoy, mo!"
+    },
+    {
+      "$id": 50,
+      "label": "qst701902_msg0050",
+      "style": 84,
+      "name": "That's quite the resolve..."
+    },
+    {
+      "$id": 51,
+      "label": "qst701902_msg0051",
+      "style": 84,
+      "name": "With these six, I think\nthey'll be alright."
+    },
+    {
+      "$id": 52,
+      "label": "qst701902_msg0052",
+      "style": 84,
+      "name": "Yes... But I want everyone to\ncome back. No sacrifices."
+    },
+    {
+      "$id": 53,
+      "label": "qst701902_msg0053",
+      "style": 84,
+      "name": "Adel-sama... perhaps you\nshould appoint a leader?"
+    },
+    {
+      "$id": 54,
+      "label": "qst701902_msg0054",
+      "style": 84,
+      "name": "You're right. We know them all, but\nsome of them have only just met."
+    },
+    {
+      "$id": 55,
+      "label": "qst701902_msg0055",
+      "style": 84,
+      "name": "They'll need someone to keep\neveryone organized."
+    },
+    {
+      "$id": 56,
+      "label": "qst701902_msg0056",
+      "style": 84,
+      "name": "Laura, who should it be?"
+    },
+    {
+      "$id": 57,
+      "label": "qst701902_msg0057",
+      "style": 84,
+      "name": "I get to decide?"
+    },
+    {
+      "$id": 58,
+      "label": "qst701902_msg0058",
+      "style": 84,
+      "name": "You're the one who built\nthese connections."
+    },
+    {
+      "$id": 59,
+      "label": "qst701902_msg0059",
+      "style": 84,
+      "name": "You know them best, so I think\nyou should be the one to decide."
+    },
+    {
+      "$id": 60,
+      "label": "qst701902_msg0060",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]Hmm... Who should I put in charge...?"
+    },
+    {
+      "$id": 61,
+      "label": "qst701902_msg0061",
+      "style": 165,
+      "name": "Who will you choose as leader?"
+    },
+    {
+      "$id": 62,
+      "label": "qst701902_msg0101",
+      "style": 165,
+      "name": "Dio"
+    },
+    {
+      "$id": 63,
+      "label": "qst701902_msg0102",
+      "style": 165,
+      "name": "Rita"
+    },
+    {
+      "$id": 64,
+      "label": "qst701902_msg0103",
+      "style": 165,
+      "name": "Ryuuryuu"
+    },
+    {
+      "$id": 65,
+      "label": "qst701902_msg0104",
+      "style": 165,
+      "name": "Augusto"
+    },
+    {
+      "$id": 66,
+      "label": "qst701902_msg0105",
+      "style": 165,
+      "name": "Leon"
+    },
+    {
+      "$id": 67,
+      "label": "qst701902_msg0106",
+      "style": 165,
+      "name": "Morumo"
+    },
+    {
+      "$id": 68,
+      "label": "qst701902_msg0107",
+      "style": 165,
+      "name": "Choose another candidate"
+    },
+    {
+      "$id": 69,
+      "label": "qst701902_msg0201",
+      "style": 84,
+      "name": "Dio, will you be the leader?"
+    },
+    {
+      "$id": 70,
+      "label": "qst701902_msg0202",
+      "style": 84,
+      "name": "Yeah, leave it to me. I'll make sure\nwe bring back the Dragon Incense."
+    },
+    {
+      "$id": 71,
+      "label": "qst701902_msg0211",
+      "style": 84,
+      "name": "Rita, I'm counting on you to lead."
+    },
+    {
+      "$id": 72,
+      "label": "qst701902_msg0212",
+      "style": 84,
+      "name": "Huh, me?!"
+    },
+    {
+      "$id": 73,
+      "label": "qst701902_msg0213",
+      "style": 84,
+      "name": "I don't know if I can... But with\nKaede-chan here, I'll do my best!"
+    },
+    {
+      "$id": 74,
+      "label": "qst701902_msg0221",
+      "style": 84,
+      "name": "Ryuuryuu, I'm entrusting\nyou as leader."
+    },
+    {
+      "$id": 75,
+      "label": "qst701902_msg0222",
+      "style": 84,
+      "name": "Yes, mo!"
+    },
+    {
+      "$id": 76,
+      "label": "qst701902_msg0223",
+      "style": 84,
+      "name": "Ryuuryuu finally got promoted enough\nto command eight subordinates, mo...!"
+    },
+    {
+      "$id": 77,
+      "label": "qst701902_msg0231",
+      "style": 84,
+      "name": "Augusto, I'm asking you to be leader."
+    },
+    {
+      "$id": 78,
+      "label": "qst701902_msg0232",
+      "style": 84,
+      "name": "Me?"
+    },
+    {
+      "$id": 79,
+      "label": "qst701902_msg0233",
+      "style": 84,
+      "name": "Well, I know Invidia well.\nI'll bring it back for sure."
+    },
+    {
+      "$id": 80,
+      "label": "qst701902_msg0241",
+      "style": 84,
+      "name": "Leon, will you be the leader?"
+    },
+    {
+      "$id": 81,
+      "label": "qst701902_msg0242",
+      "style": 84,
+      "name": "Of course, my dear friend!"
+    },
+    {
+      "$id": 82,
+      "label": "qst701902_msg0243",
+      "style": 84,
+      "name": "I'll also use the chance\nto go break things off with\nGiudetta in Fons Maim."
+    },
+    {
+      "$id": 83,
+      "label": "qst701902_msg0251",
+      "style": 84,
+      "name": "Chairman Morumo, I'd like you to lead."
+    },
+    {
+      "$id": 84,
+      "label": "qst701902_msg0252",
+      "style": 84,
+      "name": "Leave it to me, mo! I'm the\nChamber Chair,\nso it'll be a cinch, mo!"
+    },
+    {
+      "$id": 85,
+      "label": "qst701902_msg0253",
+      "style": 84,
+      "name": "I'll assess everyone's strengths,\ngive everyone the right jobs, and\ntell them what to do, mo."
+    },
+    {
+      "$id": 86,
+      "label": "qst701902_msg0301",
+      "style": 84,
+      "name": "The leader is decided, but\nI want you all to work\ntogether and do your best."
+    },
+    {
+      "$id": 87,
+      "label": "qst701902_msg0302",
+      "style": 84,
+      "name": "Of course."
+    },
+    {
+      "$id": 88,
+      "label": "qst701902_msg0303",
+      "style": 84,
+      "name": "As they say, strike while the\niron's hot. Let's get going!"
+    },
+    {
+      "$id": 89,
+      "label": "qst701902_msg0304",
+      "style": 84,
+      "name": "...But who can pilot the\nDivine Beast ship, mo?"
+    },
+    {
+      "$id": 90,
+      "label": "qst701902_msg0305",
+      "style": 84,
+      "name": "I can't."
+    },
+    {
+      "$id": 91,
+      "label": "qst701902_msg0306",
+      "style": 84,
+      "name": "If no one else can, I\ncould give it a try."
+    },
+    {
+      "$id": 92,
+      "label": "qst701902_msg0307",
+      "style": 84,
+      "name": "Please don't. I'd rather not sink."
+    },
+    {
+      "$id": 93,
+      "label": "qst701902_msg0308",
+      "style": 84,
+      "name": "...Looks like we need a skilled pilot."
+    },
+    {
+      "$id": 94,
+      "label": "qst701902_msg0309",
+      "style": 84,
+      "name": "A skilled pilot, you say..."
+    },
+    {
+      "$id": 95,
+      "label": "qst701902_msg0310",
+      "style": 84,
+      "name": "It would have to be Maquia."
+    },
+    {
+      "$id": 96,
+      "label": "qst701902_msg0311",
+      "style": 84,
+      "name": "I'm sure she's at Yajika Harbor."
+    },
+    {
+      "$id": 97,
+      "label": "qst701902_msg0312",
+      "style": 84,
+      "name": "Let's go and see!"
+    }
+  ]
+}

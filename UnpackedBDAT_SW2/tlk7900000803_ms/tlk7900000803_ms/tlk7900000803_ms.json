@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000008_03_msg0001",
+      "style": 62,
+      "name": "...Milt keeps going on and on about\nhis worries, and it's annoying."
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000007_03_msg0002",
+      "style": 62,
+      "name": "So..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk79000007_03_msg0003",
+      "style": 62,
+      "name": "Hurry up and come back, OK?"
+    }
+  ]
+}

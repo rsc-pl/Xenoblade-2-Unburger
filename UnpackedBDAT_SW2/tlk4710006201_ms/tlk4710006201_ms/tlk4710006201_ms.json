@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100062_01_msg0001",
+      "style": 84,
+      "name": "Well, I went back to the village,\nbut Mimi really wanted me to come\nover for a bite of grass."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100062_01_msg0002",
+      "style": 84,
+      "name": "The Demon King is gone, so we come\nhere to eat every day."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100062_01_msg0003",
+      "style": 84,
+      "name": "Thanks to Uka, the true\nhero, we can eat delicious\ngrass. Thank you so much!"
+    }
+  ]
+}

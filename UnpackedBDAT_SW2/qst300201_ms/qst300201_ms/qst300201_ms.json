@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300201_msg001",
+      "style": 62,
+      "name": "(Temp) Quest requirements not met\n(small talk)"
+    },
+    {
+      "$id": 2,
+      "label": "qst300201_msg002",
+      "style": 62,
+      "name": "(Temp) Quest acceptance talk"
+    },
+    {
+      "$id": 3,
+      "label": "qst300201_msg003",
+      "style": 62,
+      "name": "(Temp) Quest accepted talk"
+    },
+    {
+      "$id": 4,
+      "label": "qst300201_msg0001",
+      "style": 84,
+      "name": "Hey, just in time. The Merc\nGroup is running smoothly."
+    },
+    {
+      "$id": 5,
+      "label": "qst300201_msg0002",
+      "style": 84,
+      "name": "But while everyone appreciates what\nyou're doing for the Merc Group[ML:Dash ]"
+    },
+    {
+      "$id": 6,
+      "label": "qst300201_msg0003",
+      "style": 84,
+      "name": "there are some guys who won't\naccept anyone but Vandham-san."
+    },
+    {
+      "$id": 7,
+      "label": "qst300201_msg0004",
+      "style": 84,
+      "name": "Trust isn't something you gain\novernight. I guess that's only\nnatural."
+    },
+    {
+      "$id": 8,
+      "label": "qst300201_msg0005",
+      "style": 84,
+      "name": "So, we all discussed what to do."
+    },
+    {
+      "$id": 9,
+      "label": "qst300201_msg0006",
+      "style": 84,
+      "name": "We'd like you to have a\nsparring match with some\nof our skilled members."
+    },
+    {
+      "$id": 10,
+      "label": "qst300201_msg0007",
+      "style": 84,
+      "name": "If they see your skills firsthand,\nthey should come to accept and\ntrust the new leader."
+    },
+    {
+      "$id": 11,
+      "label": "qst300201_msg0008",
+      "style": 84,
+      "name": "You're very understanding.\nThat's a big help."
+    },
+    {
+      "$id": 12,
+      "label": "qst300201_msg0009",
+      "style": 84,
+      "name": "Then, I'd like you to head\nto the Valiant Training Ground."
+    },
+    {
+      "$id": 13,
+      "label": "qst300201_msg0010",
+      "style": 84,
+      "name": "The guys who want to\nspar are waiting there."
+    },
+    {
+      "$id": 14,
+      "label": "qst300201_msg0011",
+      "style": 84,
+      "name": "Just because they're mercenaries\nhere, don't hold back!"
+    },
+    {
+      "$id": 15,
+      "label": "qst300201_msg0101",
+      "style": 84,
+      "name": "The sparring match is\nat the Valiant Training\nGround. I'm counting on you."
+    }
+  ]
+}

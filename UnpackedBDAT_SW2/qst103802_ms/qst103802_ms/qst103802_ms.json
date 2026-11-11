@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103802_msg001",
+      "style": 62,
+      "name": "That was... the thing they\nwere talking about? If so,\nwe have to follow it!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103802_msg002",
+      "style": 62,
+      "name": "W-was that a ghost? I'm\nnot too keen on this, but\nI guess we have to go."
+    },
+    {
+      "$id": 3,
+      "label": "qst103802_msg003",
+      "style": 62,
+      "name": "Hmm... Who goes there at this hour?"
+    },
+    {
+      "$id": 4,
+      "label": "qst103802_msg004",
+      "style": 62,
+      "name": "There was something just now.\nLet's follow it."
+    }
+  ]
+}

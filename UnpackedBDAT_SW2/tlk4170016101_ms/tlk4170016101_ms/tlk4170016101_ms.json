@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700161_01_msg0001",
+      "style": 84,
+      "name": "You're the passengers from the ship\nthat came from Superbia, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700161_01_msg0002",
+      "style": 84,
+      "name": "Are you heading to Iyasaki\nVillage? If so, you'll need\nto go through the Cloudway."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700161_01_msg0003",
+      "style": 84,
+      "name": "There are two Cloudways. The closer\none is the Lud Cloudway, but that\none's crawling with monsters."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700161_01_msg0004",
+      "style": 84,
+      "name": "To go safely, cross from Baldotas\nIsland to Daram Island, then proceed\nthrough the Norem Cloudway."
+    }
+  ]
+}

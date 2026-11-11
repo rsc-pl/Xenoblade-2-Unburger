@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310186_02_msg0001",
+      "style": 84,
+      "name": "We were ordered to let people enter\nwithout permits, but I'm still not\nused to it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310186_02_msg0002",
+      "style": 84,
+      "name": "I can't help but be suspicious\nof all these unfamiliar faces."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310186_02_msg0003",
+      "style": 84,
+      "name": "I wonder how other countries maintain\npublic order... I have a lot to learn."
+    }
+  ]
+}

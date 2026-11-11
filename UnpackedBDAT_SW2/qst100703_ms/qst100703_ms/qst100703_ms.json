@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100703_msg0202",
+      "style": 84,
+      "name": "Did you finally collect 1,000,000G,\nmo? Will you pay it all back, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst100703_msg0301",
+      "style": 84,
+      "name": "Understood, mo. I'll be waiting\nwhile studying the hateful Bahn's\nbusiness techniques, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst100703_msg0302",
+      "style": 165,
+      "name": "Pay 1,000,000G?"
+    },
+    {
+      "$id": 4,
+      "label": "qst100703_msg0303",
+      "style": 165,
+      "name": "Pay"
+    },
+    {
+      "$id": 5,
+      "label": "qst100703_msg0304",
+      "style": 165,
+      "name": "Don't pay"
+    }
+  ]
+}

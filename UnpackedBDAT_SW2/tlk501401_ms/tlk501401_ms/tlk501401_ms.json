@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst501401_msg0001",
+      "style": 84,
+      "name": "These are Idaten's food boxes,\nprepared at mach speed just for\nIdaten, po!"
+    },
+    {
+      "$id": 2,
+      "label": "qst501401_msg0002",
+      "style": 84,
+      "name": "I'll keep filling them with foods\nIdaten likes, po!"
+    },
+    {
+      "$id": 3,
+      "label": "qst501401_msg0003",
+      "style": 84,
+      "name": "The more preserved food Idaten has,\nthe more Idaten can focus on battle\nwithout worrying, po!"
+    },
+    {
+      "$id": 4,
+      "label": "qst501401_msg0004",
+      "style": 84,
+      "name": "First, let's gather cooked dishes,\npo!"
+    }
+  ]
+}

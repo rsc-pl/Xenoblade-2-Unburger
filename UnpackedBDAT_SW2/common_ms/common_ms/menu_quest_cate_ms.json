@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 22,
+      "name": "Main Story Quests"
+    },
+    {
+      "$id": 2,
+      "style": 22,
+      "name": "Regular Quests"
+    },
+    {
+      "$id": 3,
+      "style": 22,
+      "name": "Blade Quests"
+    }
+  ]
+}

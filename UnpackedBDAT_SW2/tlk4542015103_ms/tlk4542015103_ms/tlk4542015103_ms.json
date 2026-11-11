@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420151_03_msg0001",
+      "style": 84,
+      "name": "Blades born through resonance are\neasily influenced by their Drivers'\nhearts."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420151_03_msg0002",
+      "style": 84,
+      "name": "I think it's best to use a Booster to\nstrengthen the strongest part of your\nown heart even further."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420151_03_msg0003",
+      "style": 84,
+      "name": "But when you want a Blade\nwith a different attribute,\ntry a different Booster."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420151_03_msg0004",
+      "style": 84,
+      "name": "Of course, none of this makes it a\nsure thing. At the end of the day,\nthe Blade you get is down to luck."
+    }
+  ]
+}

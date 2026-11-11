@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000019_05_msg0001",
+      "style": 84,
+      "name": "My idiot of a husband\nreally owes you one."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000019_05_msg0002",
+      "style": 84,
+      "name": "What's more, I'm surprised you\nmanaged to find him so easily!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000019_05_msg0003",
+      "style": 84,
+      "name": "Huh? He was exactly where I predicted?\nThe bond between husband and wife\nreally is strong?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000019_05_msg0004",
+      "style": 84,
+      "name": "P-please stop... It's not like that!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000002_05_msg0001",
+      "style": 84,
+      "name": "Obibi decided to stay here, mo. After\nall, this shop is important to Obibi,\nmo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000002_05_msg0002",
+      "style": 84,
+      "name": "I'm grateful to you, mo. Without you,\nthis shop might not exist anymore, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000002_05_msg0003",
+      "style": 84,
+      "name": "So I'm not actually that worried this\ntime, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000002_05_msg0004",
+      "style": 84,
+      "name": "Because I believe you'll save this\ncity... and Iira, mo."
+    }
+  ]
+}

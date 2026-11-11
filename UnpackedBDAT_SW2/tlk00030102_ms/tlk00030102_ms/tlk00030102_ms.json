@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030102_msg0001",
+      "style": 84,
+      "name": "I have high expectations\nfor you, Rex, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030102_msg0002",
+      "style": 84,
+      "name": "If you're the salvager Punin\nsaid you were, this should\nbe a piece of cake, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030102_msg0003",
+      "style": 84,
+      "name": "Once you return safely, you'll\nreceive the rest of your payment,\nmo. Now go do your best, mo."
+    }
+  ]
+}

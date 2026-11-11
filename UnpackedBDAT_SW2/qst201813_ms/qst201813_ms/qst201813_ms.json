@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201813_msg0001",
+      "style": 84,
+      "name": "Pepe, where could you be...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201813_msg0002",
+      "style": 84,
+      "name": "Hello? You look so sad.\nDid something happen?"
+    },
+    {
+      "$id": 3,
+      "label": "qst201813_msg0003",
+      "style": 84,
+      "name": "Huh?! You can understand Mimi?"
+    },
+    {
+      "$id": 4,
+      "label": "qst201813_msg0004",
+      "style": 84,
+      "name": "Yes! I can."
+    },
+    {
+      "$id": 5,
+      "label": "qst201813_msg0005",
+      "style": 84,
+      "name": "...You do seem different\nfrom other people."
+    },
+    {
+      "$id": 6,
+      "label": "qst201813_msg0006",
+      "style": 84,
+      "name": "You seem more like one of us!"
+    },
+    {
+      "$id": 7,
+      "label": "qst201813_msg0007",
+      "style": 84,
+      "name": "Um, if something is troubling you,\nI, Uka, will be happy to listen."
+    },
+    {
+      "$id": 8,
+      "label": "qst201813_msg0008",
+      "style": 84,
+      "name": "...Well, Mimi has a childhood\nfriend named Pepe."
+    },
+    {
+      "$id": 9,
+      "label": "qst201813_msg0009",
+      "style": 84,
+      "name": "But he left a while ago\nand hasn't come back yet."
+    },
+    {
+      "$id": 10,
+      "label": "qst201813_msg0010",
+      "style": 84,
+      "name": "He doesn't seem to be in\nthis village, but Mimi can't\ngo out to look for him..."
+    },
+    {
+      "$id": 11,
+      "label": "qst201813_msg0011",
+      "style": 84,
+      "name": "I'm worried he might have gotten\ninto an accident somewhere."
+    },
+    {
+      "$id": 12,
+      "label": "qst201813_msg0012",
+      "style": 84,
+      "name": "I see! Uka will handle it!"
+    },
+    {
+      "$id": 13,
+      "label": "qst201813_msg0013",
+      "style": 84,
+      "name": "Really?!"
+    },
+    {
+      "$id": 14,
+      "label": "qst201813_msg0014",
+      "style": 84,
+      "name": "Yes, leave it to me!"
+    },
+    {
+      "$id": 15,
+      "label": "qst201813_msg0015",
+      "style": 84,
+      "name": "Uka has a good idea of what happened."
+    },
+    {
+      "$id": 16,
+      "label": "qst201813_msg0016",
+      "style": 84,
+      "name": "Pepe-san must have been taken\naway by the people of Superbia!"
+    },
+    {
+      "$id": 17,
+      "label": "qst201813_msg0017",
+      "style": 84,
+      "name": "Is that so?!"
+    },
+    {
+      "$id": 18,
+      "label": "qst201813_msg0018",
+      "style": 84,
+      "name": "Yes, I'm sure of it! Putting such\na strange device on a Divine Beast...\nthey must be a rotten bunch!"
+    },
+    {
+      "$id": 19,
+      "label": "qst201813_msg0039",
+      "style": 84,
+      "name": "Uka will definitely rescue him!"
+    },
+    {
+      "$id": 20,
+      "label": "qst201813_msg0019",
+      "style": 84,
+      "name": "But I haven't seen any people from\nSuperbia, so maybe it's not them?"
+    },
+    {
+      "$id": 21,
+      "label": "qst201813_msg0020",
+      "style": 84,
+      "name": "No, it's definitely them!"
+    },
+    {
+      "$id": 22,
+      "label": "qst201813_msg0021",
+      "style": 84,
+      "name": "Poor thing... Pepe-san must be\nshivering with fear right now!"
+    },
+    {
+      "$id": 23,
+      "label": "qst201813_msg0022",
+      "style": 84,
+      "name": "Mimi-san, please wait here!"
+    },
+    {
+      "$id": 24,
+      "label": "qst201813_msg0023",
+      "style": 84,
+      "name": "U-Um... Then... can I count on you?"
+    },
+    {
+      "$id": 25,
+      "label": "qst201813_msg0024",
+      "style": 84,
+      "name": "But searching blindly\nwill take too much time."
+    },
+    {
+      "$id": 26,
+      "label": "qst201813_msg0025",
+      "style": 84,
+      "name": "If only there was someone\nwho knew something..."
+    },
+    {
+      "$id": 27,
+      "label": "qst201813_msg0026",
+      "style": 84,
+      "name": "Then you should go to\nthe Phonex settlement."
+    },
+    {
+      "$id": 28,
+      "label": "qst201813_msg0027",
+      "style": 84,
+      "name": "Pepe might have stopped by\nthere at some point..."
+    },
+    {
+      "$id": 29,
+      "label": "qst201813_msg0028",
+      "style": 84,
+      "name": "A Phonex settlement?"
+    },
+    {
+      "$id": 30,
+      "label": "qst201813_msg0029",
+      "style": 84,
+      "name": "Yes, it's in Port Isheba.\nMimi and Pepe are from there!"
+    },
+    {
+      "$id": 31,
+      "label": "qst201813_msg0030",
+      "style": 84,
+      "name": "Could you guide us there?"
+    },
+    {
+      "$id": 32,
+      "label": "qst201813_msg0031",
+      "style": 84,
+      "name": "I'd like to guide you,\nbut... that's a bit..."
+    },
+    {
+      "$id": 33,
+      "label": "qst201813_msg0032",
+      "style": 84,
+      "name": "There are really scary\nmonsters that appear on\nthe way to the settlement."
+    },
+    {
+      "$id": 34,
+      "label": "qst201813_msg0033",
+      "style": 84,
+      "name": "I was attacked by one once..."
+    },
+    {
+      "$id": 35,
+      "label": "qst201813_msg0034",
+      "style": 84,
+      "name": "Since then, I've been scared and\nhave been staying in this village."
+    },
+    {
+      "$id": 36,
+      "label": "qst201813_msg0035",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 37,
+      "label": "qst201813_msg0036",
+      "style": 84,
+      "name": "Understood."
+    },
+    {
+      "$id": 38,
+      "label": "qst201813_msg0037",
+      "style": 84,
+      "name": "It's in Port Isheba, right?\nWe'll go meet them ourselves!"
+    },
+    {
+      "$id": 39,
+      "label": "qst201813_msg0038",
+      "style": 84,
+      "name": "I'm sorry... Please take care of Pepe."
+    }
+  ]
+}

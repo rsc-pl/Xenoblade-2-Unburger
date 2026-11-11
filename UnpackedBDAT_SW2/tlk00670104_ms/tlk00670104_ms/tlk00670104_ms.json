@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006701_04_msg0001",
+      "style": 84,
+      "name": "I got demoted for my part in\nletting Iira's cronies escape."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006701_04_msg0002",
+      "style": 84,
+      "name": "Back to guarding the\ngood old garrison."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006701_04_msg0003",
+      "style": 84,
+      "name": "But this is easier than being a\ncaptain caught between my superiors\nand subordinates."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006701_04_msg0004",
+      "style": 84,
+      "name": "My pay's taken a huge cut,\nbut this is probably just\nthe right level for me."
+    },
+    {
+      "$id": 5,
+      "label": "tlk006701_04_msg0005",
+      "style": 84,
+      "name": "Meleph-sama!? Why have\nyou returned to Torigo!?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk006701_04_msg0006",
+      "style": 84,
+      "name": "N-no, it is nothing!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk006701_04_msg0007",
+      "style": 84,
+      "name": "I, the unworthy Pax, shall\ndevote myself entirely to my\nguard duties, as is my station!"
+    }
+  ]
+}

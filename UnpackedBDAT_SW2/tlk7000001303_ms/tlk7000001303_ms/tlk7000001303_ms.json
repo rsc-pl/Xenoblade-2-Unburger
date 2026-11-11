@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000013_03_msg0001",
+      "style": 84,
+      "name": "Did Popolo do something? It looked\nlike the chairman was scolding Popolo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000013_03_msg0002",
+      "style": 84,
+      "name": "That usual fit might happen again. I'd\nbetter have plenty of sweet potatoes\nready."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000013_03_msg0003",
+      "style": 84,
+      "name": "I don't mean Popolo is in poor health.\nIt's just an old habit."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000013_03_msg0004",
+      "style": 84,
+      "name": "Popolo pilfers the chairman's\nsnacks when she gets angry\nabout something."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000013_03_msg0005",
+      "style": 84,
+      "name": "But then the fear and shame set in,\nand she always shows up here to\nreplace however much she stole."
+    }
+  ]
+}

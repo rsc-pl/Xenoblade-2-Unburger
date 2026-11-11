@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400011_05_msg0001",
+      "style": 84,
+      "name": "Alst is a complete mess now."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400011_05_msg0002",
+      "style": 84,
+      "name": "But strangely, everyone's still\ngoing about business as usual."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400011_05_msg0003",
+      "style": 84,
+      "name": "There's no looting, and the value\nof money hasn't changed..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400011_05_msg0004",
+      "style": 84,
+      "name": "Maybe the people of Alst\nare surprisingly hopeful."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41400011_05_msg0005",
+      "style": 84,
+      "name": "So keep buying and selling like\nalways, and help keep the city's\neconomy moving."
+    }
+  ]
+}

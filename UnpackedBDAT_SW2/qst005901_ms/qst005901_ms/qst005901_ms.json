@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005901_msg0001",
+      "style": 84,
+      "name": "Nia, take a look at this."
+    },
+    {
+      "$id": 2,
+      "label": "qst005901_msg0002",
+      "style": 84,
+      "name": "What is it...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst005901_msg0003",
+      "style": 84,
+      "name": "Gula was once a prosperous republic..."
+    },
+    {
+      "$id": 4,
+      "label": "qst005901_msg0004",
+      "style": 84,
+      "name": "I've definitely heard that before."
+    },
+    {
+      "$id": 5,
+      "label": "qst005901_msg0005",
+      "style": 84,
+      "name": "A long time ago, various\ntribes in Gula gathered to\nform a republic, right?"
+    },
+    {
+      "$id": 6,
+      "label": "qst005901_msg0006",
+      "style": 84,
+      "name": "Gula was a prosperous nation\nmade up of various tribes?"
+    },
+    {
+      "$id": 7,
+      "label": "qst005901_msg0007",
+      "style": 84,
+      "name": "I see, I see! So it was! Perhaps\nI was the king who ruled Gula!"
+    },
+    {
+      "$id": 8,
+      "label": "qst005901_msg0008",
+      "style": 84,
+      "name": "I'm not too familiar with it, but the\nchief of Torigo might know more."
+    },
+    {
+      "$id": 9,
+      "label": "qst005901_msg0009",
+      "style": 84,
+      "name": "Wait a minute. Republics\ndon't have kings, do they?"
+    },
+    {
+      "$id": 10,
+      "label": "qst005901_msg0010",
+      "style": 84,
+      "name": "Come, my retainers."
+    },
+    {
+      "$id": 11,
+      "label": "qst005901_msg0011",
+      "style": 84,
+      "name": "Let us immediately proceed\nto Torigo and visit the chief\nto ascertain the truth!"
+    },
+    {
+      "$id": 12,
+      "label": "qst005901_msg0012",
+      "style": 84,
+      "name": "He's not listening..."
+    }
+  ]
+}

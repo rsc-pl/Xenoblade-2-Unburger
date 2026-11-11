@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001901_02_msg0001",
+      "style": 84,
+      "name": "You're going to the\nusual spot, aren't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001901_02_msg0002",
+      "style": 84,
+      "name": "You know, at the far end\nof the village, that place\nwith the nice view."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001901_02_msg0003",
+      "style": 84,
+      "name": "Come on back when you're done.\nI'll make a really delicious\nmeal and wait for you."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47600165_01_msg0001",
+      "style": 84,
+      "name": "Ahh, feel that breeze... It\nreminds me of the time I was\nriding on the back of Seiryuu."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47600165_01_msg0002",
+      "style": 84,
+      "name": "It was when I was a little younger.\nSeiryuu invited me on a long ride..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47600165_01_msg0003",
+      "style": 84,
+      "name": "I'd never left Iyasaki Village\nbefore, but he took me to all kinds\nof islands."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47600165_01_msg0004",
+      "style": 84,
+      "name": "I was asked to keep riding, but I get\nseasick easily, so I gave Rex my place\non his back."
+    }
+  ]
+}

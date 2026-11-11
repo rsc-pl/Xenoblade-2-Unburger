@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000010_msg0001",
+      "style": 84,
+      "name": "Oh? And you are...?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000010_msg0002",
+      "style": 84,
+      "name": "We have received word from\nSpecial Commissioner Meleph."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000010_msg0003",
+      "style": 84,
+      "name": "I understand you have found a\nlead on the artificial Blade?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000010_msg0004",
+      "style": 84,
+      "name": "I shall connect you to the Special\nCommissioner. Please wait a moment."
+    }
+  ]
+}

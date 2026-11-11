@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4632017401_msg0001",
+      "style": 84,
+      "name": "I am preaching the teachings\nof Acedia to all who are\nwilling to listen."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4632017401_msg0002",
+      "style": 84,
+      "name": "As long as there is breath in your\nbody, it is never too late to make\na better life for yourself."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4632017401_msg0003",
+      "style": 84,
+      "name": "Malbeni-sama's teachings of Acedia\nsaved even a sinner like me."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4632017401_msg0004",
+      "style": 84,
+      "name": "Now, everyone, toward a brighter\nfuture..."
+    }
+  ]
+}

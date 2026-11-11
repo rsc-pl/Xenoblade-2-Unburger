@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000070_04_msg0001",
+      "style": 84,
+      "name": "Even in a run-down village like this,\nrumors of your exploits reach us."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000070_04_msg0002",
+      "style": 84,
+      "name": "All I do now is farm, but I'm still an\nadventurer, however rusty. I know the\nbasics of combat."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000070_04_msg0003",
+      "style": 84,
+      "name": "I knew enough to pick up on the\nfact that you folks weren't\nrun-of-the-mill travelers, anyway."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000070_04_msg0004",
+      "style": 84,
+      "name": "But it seems people support you for\nmore than just your strength."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000070_04_msg0005",
+      "style": 84,
+      "name": "You're about the only softhearted\npeople who'd come all this way to meet\nsomeone like me."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000070_04_msg0006",
+      "style": 84,
+      "name": "I can't match you, but I'll try hard\nenough that my son won't laugh at me."
+    }
+  ]
+}

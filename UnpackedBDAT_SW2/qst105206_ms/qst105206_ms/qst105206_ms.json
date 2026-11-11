@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105206_msg001",
+      "style": 62,
+      "name": "Thank you. Could you take this\ngame and letter to my acquaintance\nat the inn in Superbia?"
+    },
+    {
+      "$id": 2,
+      "label": "qst105206_msg002",
+      "style": 62,
+      "name": "Could you take this board game and\nthis letter to an acquaintance of\nmine at the inn in Superbia?"
+    }
+  ]
+}

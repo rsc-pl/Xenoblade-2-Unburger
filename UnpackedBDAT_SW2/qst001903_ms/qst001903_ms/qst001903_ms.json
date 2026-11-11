@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001903_msg0001",
+      "style": 84,
+      "name": "Hmm? What do you want with me?"
+    },
+    {
+      "$id": 2,
+      "label": "qst001903_msg0002",
+      "style": 84,
+      "name": "Oh! The job I gave to Sekaka!"
+    },
+    {
+      "$id": 3,
+      "label": "qst001903_msg0003",
+      "style": 84,
+      "name": "I can't believe you\nactually did it. Not bad."
+    },
+    {
+      "$id": 4,
+      "label": "qst001903_msg0004",
+      "style": 84,
+      "name": "Well, it seems he gave up..."
+    },
+    {
+      "$id": 5,
+      "label": "qst001903_msg0005",
+      "style": 84,
+      "name": "I made sure to explain\nit to him clearly."
+    },
+    {
+      "$id": 6,
+      "label": "qst001903_msg0006",
+      "style": 84,
+      "name": "That it would require not\njust salvaging, but a Blade."
+    },
+    {
+      "$id": 7,
+      "label": "qst001903_msg0007",
+      "style": 84,
+      "name": "But you know what? He\nwouldn't listen at all."
+    },
+    {
+      "$id": 8,
+      "label": "qst001903_msg0008",
+      "style": 84,
+      "name": "He flat-out said, \"Impossible isn't\nin the dictionary of Sekaka, the\nMushroom-Feast Salvager, mo!\""
+    },
+    {
+      "$id": 9,
+      "label": "qst001903_msg0009",
+      "style": 84,
+      "name": "...Well, enough about that arrogant\nNopon who doesn't listen."
+    },
+    {
+      "$id": 10,
+      "label": "qst001903_msg0010",
+      "style": 84,
+      "name": "I have to pay you your reward."
+    },
+    {
+      "$id": 11,
+      "label": "qst001903_msg0011",
+      "style": 84,
+      "name": "Here, take it."
+    }
+  ]
+}

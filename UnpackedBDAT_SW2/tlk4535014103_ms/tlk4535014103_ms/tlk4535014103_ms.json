@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350141_03_msg0001",
+      "style": 84,
+      "name": "Well, well. If it\nisn't our new leader."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350141_03_msg0002",
+      "style": 84,
+      "name": "Even with Vandham gone, the job\nrequests just keep coming in."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350141_03_msg0003",
+      "style": 84,
+      "name": "I'll simply carry out my duties as\nusual."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45350141_03_msg0004",
+      "style": 84,
+      "name": "Now, I'll tell you about the requests\nthat came in for the Hræsvelgr\nMercenaries."
+    }
+  ]
+}

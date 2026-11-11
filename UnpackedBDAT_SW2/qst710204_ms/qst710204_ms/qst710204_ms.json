@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst710204_msg0001",
+      "style": 84,
+      "name": "Oh, it's you. I've been waiting.\nDid you catch any fish?"
+    },
+    {
+      "$id": 2,
+      "label": "qst710204_msg0101",
+      "style": 84,
+      "name": "A-amazing!"
+    },
+    {
+      "$id": 3,
+      "label": "qst710204_msg0102",
+      "style": 84,
+      "name": "I can't believe you actually managed\nto collect this many fish..."
+    },
+    {
+      "$id": 4,
+      "label": "qst710204_msg0103",
+      "style": 84,
+      "name": "Alright, give me a moment... This\nwill bring that moat back to life."
+    },
+    {
+      "$id": 5,
+      "label": "qst710204_msg0201",
+      "style": 84,
+      "name": "A moat that size still needs plenty\nmore fish. I'm counting on you."
+    },
+    {
+      "$id": 6,
+      "label": "qst710204_msg0202",
+      "style": 84,
+      "name": "A large fish with ferocious fangs\nwould be good. It would be popular\nwith the brave people of Iira."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000068_05_msg0001",
+      "style": 84,
+      "name": "I'm an idiot, so thinking alone isn't\nmy thing. I asked Nittle-san what I\nshould do from here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000068_05_msg0002",
+      "style": 84,
+      "name": "Then the jobs just kept coming! He's\nstricter than Dad, or maybe he just\nasks for way too much!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000068_05_msg0003",
+      "style": 84,
+      "name": "I'm working with Chairman Morumo and\nNittle-san on a Haiber Village contact\nand an evacuation route to the port."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000068_05_msg0004",
+      "style": 84,
+      "name": "You're all working hard too. If I just\nsit around waiting to be helped,\nnothing will have changed."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000068_05_msg0005",
+      "style": 84,
+      "name": "I can't become like you, but we'll\nwork hard at the things you can't do!"
+    }
+  ]
+}

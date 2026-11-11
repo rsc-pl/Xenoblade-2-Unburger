@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320153_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Bazuain Watchtower."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320153_01_msg0002",
+      "style": 84,
+      "name": "This is a great place to take in the\nwhole right shoulder of Superbia's\nDivine Beast."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320153_01_msg0003",
+      "style": 84,
+      "name": "When monsters approach, we drive them\noff with the cannons in the Second Wing,\nShemesh, which you came through."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320153_01_msg0004",
+      "style": 84,
+      "name": "Senpai and I keep watch every day to\nmake sure nothing seems amiss."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320153_01_msg0005",
+      "style": 84,
+      "name": "By the way, Senpai's slacking off...\nso I always keep watch alone..."
+    }
+  ]
+}

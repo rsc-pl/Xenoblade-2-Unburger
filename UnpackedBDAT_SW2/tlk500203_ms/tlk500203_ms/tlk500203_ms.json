@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst500203_msg0001",
+      "style": 84,
+      "name": "I ate too much, mooo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst500203_msg0002",
+      "style": 84,
+      "name": "But this place is paradise, mo..."
+    },
+    {
+      "$id": 3,
+      "label": "qst500203_msg0003",
+      "style": 84,
+      "name": "I want to live here forever, warm and\ncozy, gobbling mushrooms, mooo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst500203_msg0004",
+      "style": 84,
+      "name": "I feel some cold stares, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "qst500203_msg0005",
+      "style": 84,
+      "name": "The Fortis Trade Guild travel guide\nsays to move on even if you want to\nsettle down, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst500203_msg0006",
+      "style": 84,
+      "name": "So I guess I have to move on, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst500203_msg0007",
+      "style": 84,
+      "name": "Of course, next I'm heading for\nFons Maim, the capital of Invidia, mo."
+    },
+    {
+      "$id": 8,
+      "label": "qst500203_msg0008",
+      "style": 84,
+      "name": "Anyway, maybe we meet\nagain. Best of luck!"
+    }
+  ]
+}

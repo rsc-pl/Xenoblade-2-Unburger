@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_07_msg0001",
+      "style": 84,
+      "name": "How could they! I want to\nsend them to hell, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_07_msg0002",
+      "style": 84,
+      "name": "The investigation team reported a\nmerchant ship doing business without\nTrading Company permission, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_07_msg0003",
+      "style": 84,
+      "name": "If merchants ignore Trading Company\nrules, the market will be thrown into\nchaos, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400013_07_msg0004",
+      "style": 84,
+      "name": "If that happens, our business\nwill be ruined, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42400013_07_msg0005",
+      "style": 84,
+      "name": "Could you perhaps board that\nmerchant ship and send them\nto hell for me, mo?!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42400013_07_msg0006",
+      "style": 84,
+      "name": "I'm expecting good results, mo!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100123_01_msg0001",
+      "style": 84,
+      "name": "So you guys are a Driver\nand Blade, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100123_01_msg0002",
+      "style": 84,
+      "name": "How well do you actually get along?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100123_01_msg0003",
+      "style": 84,
+      "name": "I hear that if your Kizuna peaks\nduring battle, it lets you\nuse a really strong attack!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100123_01_msg0004",
+      "style": 84,
+      "name": "But if your Kizuna is really\nlow, your Blade might not even\nbe able to support you..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100123_01_msg0005",
+      "style": 84,
+      "name": "With a bond like mine and Sanema's,\nwe'd be at peak Kizuna all the time!\nBut it's tough for Driver and Blade."
+    }
+  ]
+}

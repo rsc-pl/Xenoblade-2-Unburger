@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102209_msg0001",
+      "style": 84,
+      "name": "Squad Chief... Everyone..."
+    },
+    {
+      "$id": 2,
+      "label": "qst102209_msg0002",
+      "style": 84,
+      "name": "I'm sorry..."
+    },
+    {
+      "$id": 3,
+      "label": "qst102209_msg0003",
+      "style": 84,
+      "name": "Cordon-san was wounded... all\nI could do was hide him here\nso he wouldn't fall..."
+    },
+    {
+      "$id": 4,
+      "label": "qst102209_msg0004",
+      "style": 84,
+      "name": "I let everyone die again..."
+    },
+    {
+      "$id": 5,
+      "label": "qst102209_msg0005",
+      "style": 84,
+      "name": "Nish... The mission is over."
+    },
+    {
+      "$id": 6,
+      "label": "qst102209_msg0006",
+      "style": 84,
+      "name": "Let's bury everyone nearby...\ngive them a proper farewell, and\nthen return to the village."
+    },
+    {
+      "$id": 7,
+      "label": "qst102209_msg0007",
+      "style": 84,
+      "name": "You too... Let's meet\nat the Mercenary HQ."
+    }
+  ]
+}

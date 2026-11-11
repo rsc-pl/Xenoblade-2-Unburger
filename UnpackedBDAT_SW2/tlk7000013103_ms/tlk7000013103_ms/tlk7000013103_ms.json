@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000131_03_msg0001",
+      "style": 84,
+      "name": "I saw smoke coming from the\ncapital, and big black shadows\nwere flying around..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000131_03_msg0002",
+      "style": 84,
+      "name": "It was really scary.\nIs everything OK now?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000131_03_msg0003",
+      "style": 84,
+      "name": "If you're here, that must mean\nit was all right, right?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000131_03_msg0004",
+      "style": 84,
+      "name": "I'm scared Haiber Village might\nbe attacked the same way..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201627_msg0001",
+      "style": 84,
+      "name": "Do your best, Onee-chan."
+    },
+    {
+      "$id": 2,
+      "label": "qst201627_msg0002",
+      "style": 84,
+      "name": "With your beautiful singing\nvoice, you'll be fine! I'm\ncheering for you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201627_msg0003",
+      "style": 84,
+      "name": "Oh, and feel free to use the\nTorigoriuto! You don't have to\nforce yourself to return it!"
+    }
+  ]
+}

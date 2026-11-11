@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500153_01_msg0001",
+      "style": 84,
+      "name": "If you're visiting the imperial\ncapital, Alba Margen, don't miss our\nfamous hot springs."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500153_01_msg0002",
+      "style": 84,
+      "name": "I'm sure you must have noticed that\nthere's natural steam rising from\nthe ground all over these parts."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500153_01_msg0003",
+      "style": 84,
+      "name": "There are plants too, but we also have\nlots of public steam baths that use\nthe natural steam."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500153_01_msg0004",
+      "style": 84,
+      "name": "Alba Margen is a stiff\ncity, so baths are one of\nour few ways to unwind."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45500153_01_msg0005",
+      "style": 84,
+      "name": "I make sure to visit every\nday, myself. Hahaha!"
+    }
+  ]
+}

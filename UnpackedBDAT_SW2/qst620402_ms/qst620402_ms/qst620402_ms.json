@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620402_msg0001",
+      "style": 84,
+      "name": "Looks like we won't get\nanything from here."
+    },
+    {
+      "$id": 2,
+      "label": "qst620402_msg0002",
+      "style": 84,
+      "name": "It was easy to dive into the Cloud Sea\nfrom here, but that is useless if\nthere is no treasure."
+    },
+    {
+      "$id": 3,
+      "label": "qst620402_msg0003",
+      "style": 84,
+      "name": "Shall we try the other Salvage Points\nTora found?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000052_02_msg0001",
+      "style": 84,
+      "name": "Adel-sama! I need to tell\nyou... I've set a day to\nvisit my grandmother."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000052_02_msg0002",
+      "style": 84,
+      "name": "I'm not going home. I'm going to a\nSuperbian doctor instead. Grandma's\ncondition doesn't seem good..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000052_02_msg0003",
+      "style": 84,
+      "name": "I'll be away from Iira for a time,\nwhile I provide her with support..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000052_02_msg0004",
+      "style": 84,
+      "name": "Everyone at the manor and Montos-san\neven prepared flowers for her.\nSniff... My eyes are leaking..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000052_02_msg0005",
+      "style": 84,
+      "name": "Everyone in Aletta helped me,\nand I have goodbyes to make, so\nI'll stay a little longer..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000052_02_msg0006",
+      "style": 84,
+      "name": "I'm going to burn the scenery of Iira\ninto my memory while I still can."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000052_02_msg0007",
+      "style": 84,
+      "name": "I'll miss it, but this is goodbye to\nAdel-sama for a while too. Thank you\nfor everything, truly!!"
+    }
+  ]
+}

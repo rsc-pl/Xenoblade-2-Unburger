@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_05_msg0001",
+      "style": 84,
+      "name": "According to rumor, Queen Lagert\nate the Fire Dragons' cooking\nat the summit in Acedia..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_05_msg0002",
+      "style": 84,
+      "name": "And apparently, she really liked it..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_03_msg0003",
+      "style": 84,
+      "name": "What was the Fire Dragons' cooking\nlike...? I'd like to try it myself..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_05_msg0004",
+      "style": 84,
+      "name": "And then I'll make something\neven better."
+    }
+  ]
+}

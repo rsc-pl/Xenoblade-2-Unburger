@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200302_msg0001",
+      "style": 84,
+      "name": "The rockfall is at Zalmor's Crevice,\nnear the Genbu Great Snowfield."
+    },
+    {
+      "$id": 2,
+      "label": "qst200302_msg0002",
+      "style": 84,
+      "name": "Please! Save my friends! We\ncan't do anything by ourselves!"
+    },
+    {
+      "$id": 3,
+      "label": "qst200302_msg0101",
+      "style": 84,
+      "name": "To think the rockfall was\nthe work of a Gogol..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200302_msg0102",
+      "style": 84,
+      "name": "But just a little while ago,\na Gogol came here to Teos\nAure and went on a rampage."
+    },
+    {
+      "$id": 5,
+      "label": "qst200302_msg0103",
+      "style": 84,
+      "name": "I don't know where it went."
+    },
+    {
+      "$id": 6,
+      "label": "qst200302_msg0104",
+      "style": 84,
+      "name": "How about you try asking\nthe townspeople?"
+    },
+    {
+      "$id": 7,
+      "label": "qst200302_msg0201",
+      "style": 84,
+      "name": "It seems the Gogol fled the city."
+    },
+    {
+      "$id": 8,
+      "label": "qst200302_msg0202",
+      "style": 84,
+      "name": "If you follow its footprints, you\nmight be able to track it down."
+    },
+    {
+      "$id": 9,
+      "label": "qst200302_msg0203",
+      "style": 84,
+      "name": "Causing rockfalls, attacking\nthe city... We can't let a\ndangerous monster run loose."
+    },
+    {
+      "$id": 10,
+      "label": "qst200302_msg0204",
+      "style": 84,
+      "name": "Please, defeat it and\nbring peace back to us!"
+    }
+  ]
+}

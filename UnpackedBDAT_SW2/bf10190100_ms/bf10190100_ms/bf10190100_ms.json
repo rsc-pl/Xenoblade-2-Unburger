@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf10190100_0010",
+      "style": 82,
+      "name": "S-Stoooooop!!!"
+    },
+    {
+      "$id": 2,
+      "label": "bf10190100_0020",
+      "style": 82,
+      "name": "[ML:undisp ]あ[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "bf10190100_0030",
+      "style": 82,
+      "name": "T-Tora! Hana!"
+    },
+    {
+      "$id": 4,
+      "label": "bf10190100_0040",
+      "style": 82,
+      "name": "[ML:undisp ]瓦礫をかきわけるアドリブ"
+    },
+    {
+      "$id": 5,
+      "label": "bf10190100_0050",
+      "style": 82,
+      "name": "I-I didn't mean for this...\nZeke! Saika!"
+    },
+    {
+      "$id": 6,
+      "label": "bf10190100_0055",
+      "style": 82,
+      "name": "[ML:undisp ]瓦礫をかきわけるアドリブ"
+    },
+    {
+      "$id": 7,
+      "label": "bf10190100_0060",
+      "style": 82,
+      "name": "What are you doing, Rex?"
+    }
+  ]
+}

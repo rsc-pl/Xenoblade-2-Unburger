@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701912_msg0001",
+      "style": 84,
+      "name": "I hear the Dragon's Stomach\nis a pretty tough place."
+    },
+    {
+      "$id": 2,
+      "label": "qst701912_msg0002",
+      "style": 84,
+      "name": "A lot of them lack combat experience.\nMaybe I should have brought\nJericho along."
+    },
+    {
+      "$id": 3,
+      "label": "qst701912_msg0101",
+      "style": 84,
+      "name": "Leave it to me. I'll get the\nDragon Incense for sure."
+    },
+    {
+      "$id": 4,
+      "label": "qst701912_msg0102",
+      "style": 84,
+      "name": "A lot of them lack combat experience.\nMaybe I should have brought\nJericho along."
+    },
+    {
+      "$id": 5,
+      "label": "qst701912_msg0201",
+      "style": 84,
+      "name": "It's been a while since\nI've been on a Divine Beast\nship. I'm exhausted."
+    },
+    {
+      "$id": 6,
+      "label": "qst701912_msg0202",
+      "style": 84,
+      "name": "Deliver the Dragon Incense to\nMarena-san. I'm counting on you."
+    }
+  ]
+}

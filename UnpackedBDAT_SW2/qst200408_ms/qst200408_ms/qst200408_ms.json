@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200408_msg0001",
+      "style": 84,
+      "name": "Loan shark?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200408_msg0002",
+      "style": 84,
+      "name": "Who knows. I don't borrow money."
+    },
+    {
+      "$id": 3,
+      "label": "qst200408_msg0003",
+      "style": 84,
+      "name": "Sorry, but my schedule is\npacked. If you're asking\naround, ask someone else."
+    }
+  ]
+}

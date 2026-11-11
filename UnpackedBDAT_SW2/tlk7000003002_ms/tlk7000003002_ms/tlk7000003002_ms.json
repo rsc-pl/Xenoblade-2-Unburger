@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000030_02_msg0001",
+      "style": 84,
+      "name": "I'm afraid this restaurant\nis finished - and so am I."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000030_02_msg0002",
+      "style": 84,
+      "name": "Right after I lose my mum and\ndad in Porta Village, we get\nattacked here in the city?!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000030_02_msg0003",
+      "style": 84,
+      "name": "Thinking my parents may have been\nattacked like this makes me both sad\nand frightened."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000030_02_msg0004",
+      "style": 84,
+      "name": "And when I start thinking those\nthoughts, I can't bring myself\nto do any cooking at all."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000030_02_msg0005",
+      "style": 84,
+      "name": "Right now, I have no confidence I can\nkeep running this restaurant or keep\nworking as a cook."
+    }
+  ]
+}

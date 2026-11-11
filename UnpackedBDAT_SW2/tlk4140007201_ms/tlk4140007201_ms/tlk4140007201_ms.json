@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400072_01_msg0001",
+      "style": 84,
+      "name": "You have a Blade with you.\n...I have a request."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400072_01_msg0002",
+      "style": 84,
+      "name": "Please don't use your Blade to hurt\npeople... people like us, who are\npowerless."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400072_01_msg0003",
+      "style": 84,
+      "name": "People with the aptitude to be\nDrivers, or soldiers trained to\nfight, can resist, but we can't."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400072_01_msg0004",
+      "style": 84,
+      "name": "We just wanted to live quietly...\nBecause of Blades, we were driven from\nour homes and lost our families..."
+    }
+  ]
+}

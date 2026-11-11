@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst711001_msg0001",
+      "style": 84,
+      "name": "What do you think of this Royal Ship,\nbuilt with the finest technology\nthe Superbian Empire has to offer?"
+    },
+    {
+      "$id": 2,
+      "label": "qst711001_msg0002",
+      "style": 84,
+      "name": "Quite magnificent, isn't it!"
+    },
+    {
+      "$id": 3,
+      "label": "qst711001_msg0003",
+      "style": 84,
+      "name": "The only downside is that\nit's too high-spec, which\nmakes us mechanics cry."
+    },
+    {
+      "$id": 4,
+      "label": "qst711001_msg0004",
+      "style": 84,
+      "name": "Every time we anchor in port, we're\nso busy with maintenance... I haven't\nbeen home in a long time."
+    },
+    {
+      "$id": 5,
+      "label": "qst711001_msg0005",
+      "style": 84,
+      "name": "When you spend a long time flying\nall over Alst with the Royal Ship, you\nstart to miss the taste of home."
+    },
+    {
+      "$id": 6,
+      "label": "qst711001_msg0006",
+      "style": 84,
+      "name": "I tried to make a recipe my\nmother taught me from memory,\nbut it didn't turn out well..."
+    },
+    {
+      "$id": 7,
+      "label": "qst711001_msg0007",
+      "style": 84,
+      "name": "That's it! Is there anyone\namong you who can cook?"
+    },
+    {
+      "$id": 8,
+      "label": "qst711001_msg0008",
+      "style": 84,
+      "name": "I'll teach you the recipe, so could\nyou please make me a dish from my\nhometown, Chirsones?"
+    },
+    {
+      "$id": 9,
+      "label": "qst711001_msg0009",
+      "style": 84,
+      "name": "Well then, I'll be\nlooking forward to it!"
+    }
+  ]
+}

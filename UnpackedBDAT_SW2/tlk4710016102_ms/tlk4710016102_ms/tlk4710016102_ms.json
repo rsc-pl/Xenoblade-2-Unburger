@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100161_02_msg0001",
+      "style": 84,
+      "name": "I've been practicing salvaging so I\ncan be like Rex-nii-chan, but I just\ncan't manage to dive..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100161_02_msg0002",
+      "style": 84,
+      "name": "When I go deep, my ears feel all\nfuzzy and I start feeling sick..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100161_02_msg0003",
+      "style": 84,
+      "name": "But I'm really good at filling\ncylinders with gas! I can fill them\nexactly to the top!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100161_02_msg0004",
+      "style": 84,
+      "name": "Someone even said I was better than\nold man Trope at the cylinder shop!\nThink I might help out there sometime!"
+    }
+  ]
+}

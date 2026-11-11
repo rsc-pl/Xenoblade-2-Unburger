@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650118_msg0001",
+      "style": 84,
+      "name": "Nopon Great Sage-sama told me to serve\nfood to everyone fighting these\nfierce battles, so here I am, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst650118_msg0002",
+      "style": 84,
+      "name": "I've accompanied Nopon Great\nSage-sama for a long time, so I can\nmake all kinds of dishes, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst650118_msg0003",
+      "style": 84,
+      "name": "No..."
+    },
+    {
+      "$id": 4,
+      "label": "qst650118_msg0004",
+      "style": 84,
+      "name": "But it'd be a problem if the food were\nso good you got addicted, so I'll only\nmake things sold in Alst's shops, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst650118_msg0005",
+      "style": 84,
+      "name": "I also buy unwanted items,\nmo. Make good use of that, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst650118_msg0101",
+      "style": 84,
+      "name": "Thanks for your business, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst650118_msg0201",
+      "style": 84,
+      "name": "Come again, mo!"
+    }
+  ]
+}

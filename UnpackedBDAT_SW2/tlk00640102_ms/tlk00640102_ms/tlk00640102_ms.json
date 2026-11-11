@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006401_02_msg0001",
+      "style": 84,
+      "name": "If you're looking for Lilio and the\nothers, I've got them helping out at\nthe port to build up their strength."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006401_02_msg0002",
+      "style": 84,
+      "name": "Hauling cargo, checking manifests,\nmooring Divine Beasts, and so on."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006401_02_msg0003",
+      "style": 84,
+      "name": "Salvaging requires stamina\nand focus. There's no better\ntraining for it, right?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk006401_02_msg0004",
+      "style": 84,
+      "name": "Now it's just a matter of\nhow much they can endure."
+    }
+  ]
+}

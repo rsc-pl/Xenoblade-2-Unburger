@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202904_msg0001",
+      "style": 84,
+      "name": "You want to know where\nKastina-chan went?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202904_msg0002",
+      "style": 84,
+      "name": "Um, you see, she told me!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202904_msg0003",
+      "style": 84,
+      "name": "She said she was going to the forest\nbehind the Old Gerugeim Gate Ruins\nto look for Moonflower!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202904_msg0004",
+      "style": 84,
+      "name": "Kastina-chan is amazing. I'd\nbe too scared to go alone."
+    }
+  ]
+}

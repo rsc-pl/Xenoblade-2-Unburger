@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000045_01_msg0001",
+      "style": 84,
+      "name": "Go straight up these stairs to reach\nSachsum Gardens, the pride of the\ncapital, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000045_01_msg0002",
+      "style": 84,
+      "name": "From there, you can go to Aquila\nWatchtower or Aureus Palace, mo~."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000045_01_msg0003",
+      "style": 84,
+      "name": "Traveling performers often play there\nlately, making the gardens a place to\nrelax for everyone in the city, mo~."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000045_01_msg0004",
+      "style": 84,
+      "name": "Ah! If the gate is closed, go around\nthrough the shopping ward, mo~."
+    }
+  ]
+}

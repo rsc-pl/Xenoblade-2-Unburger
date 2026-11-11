@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310148_02_msg0001",
+      "style": 84,
+      "name": "Who forced open the Holy Gate\nof Fontana?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310148_02_msg0002",
+      "style": 84,
+      "name": "As you can see, this gate is huge and\nbuilt to withstand even Blade attacks."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310148_02_msg0003",
+      "style": 84,
+      "name": "It was built to keep the Cloud Sea out\nwhen Invidia's Divine Beast dives..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310148_02_msg0004",
+      "style": 84,
+      "name": "But if it was forced open...\nJust what kind of special power\ndid that person have?"
+    }
+  ]
+}

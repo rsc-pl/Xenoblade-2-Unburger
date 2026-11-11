@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000141_02_msg0001",
+      "style": 84,
+      "name": "I've heard plenty about all your\nexploits."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000141_02_msg0002",
+      "style": 84,
+      "name": "This is exactly what the\npeople need at a time like\nthis. A beacon of hope."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000141_02_msg0003",
+      "style": 84,
+      "name": "Power alone isn't enough. You need\nvirtue too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000141_02_msg0004",
+      "style": 84,
+      "name": "Shin, it looks like you found a good\nDriver and good companions."
+    }
+  ]
+}

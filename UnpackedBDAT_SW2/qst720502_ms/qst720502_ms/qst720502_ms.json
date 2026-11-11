@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720502_msg0001",
+      "style": 84,
+      "name": "Oh, I can see the bridge.\nThat must be Reto Bridge."
+    },
+    {
+      "$id": 2,
+      "label": "qst720502_msg0002",
+      "style": 84,
+      "name": "It's totally overrun with monsters."
+    },
+    {
+      "$id": 3,
+      "label": "qst720502_msg0003",
+      "style": 84,
+      "name": "Yeah, they look pretty tough."
+    },
+    {
+      "$id": 4,
+      "label": "qst720502_msg0004",
+      "style": 84,
+      "name": "You think so? They don't\nlook like much to me."
+    },
+    {
+      "$id": 5,
+      "label": "qst720502_msg0005",
+      "style": 84,
+      "name": "Whatever you think, people will be\nin trouble without a usable bridge.\nWe have to deal with this now."
+    },
+    {
+      "$id": 6,
+      "label": "qst720502_msg0006",
+      "style": 84,
+      "name": "Don't let your guard down, everyone!"
+    }
+  ]
+}

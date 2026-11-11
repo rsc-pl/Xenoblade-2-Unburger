@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000047_02_msg0001",
+      "style": 84,
+      "name": "Oh, what should I do...? I never\nthought the capital would end up like\nthis..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000047_02_msg0002",
+      "style": 84,
+      "name": "God of Acedia... Please protect us...\nPlease, at least protect my daughter\nFuria!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000047_02_msg0003",
+      "style": 84,
+      "name": "No, this is no time to pray... For\nFuria's sake, I have to stay strong!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000047_02_msg0004",
+      "style": 84,
+      "name": "Don't worry about us. Your energy is\nbetter spent helping the injured or\nassisting with rebuilding efforts."
+    }
+  ]
+}

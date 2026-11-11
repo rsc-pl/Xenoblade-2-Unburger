@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350142_01_msg0001",
+      "style": 84,
+      "name": "Welcome, mo! Play a board\ngame with Tantan, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350142_01_msg0004",
+      "style": 84,
+      "name": "Owner, welcome, mo! Play board games\nwith Tantan all night long, mo!"
+    }
+  ]
+}

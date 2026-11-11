@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650621_msg0001",
+      "style": 84,
+      "name": "M.O.M.O. can be even more helpful\nto everyone!"
+    },
+    {
+      "$id": 2,
+      "label": "qst650621_msg0002",
+      "style": 84,
+      "name": "Just tell me whenever you need me!"
+    }
+  ]
+}

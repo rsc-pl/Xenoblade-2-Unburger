@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4110012701_msg0001",
+      "style": 84,
+      "name": "My leg's all better now! I\ncan run, jump, anything!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4110012701_msg0002",
+      "style": 84,
+      "name": "Now I'm careful not to get attacked\nby monsters when I'm helping out."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4110012701_msg0003",
+      "style": 84,
+      "name": "Oh, and I tried making furniture\nby myself for the first time!\nA little bookshelf!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4110012701_msg0004",
+      "style": 84,
+      "name": "Cutting wood straight is really\nhard... Dad is amazing..."
+    }
+  ]
+}

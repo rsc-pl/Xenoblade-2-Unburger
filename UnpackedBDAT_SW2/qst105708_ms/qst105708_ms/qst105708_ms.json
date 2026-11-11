@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105708_msg0001",
+      "style": 84,
+      "name": "Stop wasting time with Zadazan\nand go meet Don already, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst105708_msg0002",
+      "style": 84,
+      "name": "I'll be waiting here, looking\nforward to your demise, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst105708_msg0101",
+      "style": 84,
+      "name": "You all are no match for\nDon Doon-sama, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst105708_msg0201",
+      "style": 84,
+      "name": "D-D-D-Don Doon-sama...\nwas d-d-d-defeated, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "qst105708_msg0202",
+      "style": 84,
+      "name": "Lindwurm is finished, mo..."
+    }
+  ]
+}

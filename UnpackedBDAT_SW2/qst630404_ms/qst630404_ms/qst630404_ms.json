@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst630404_msg0001",
+      "style": 84,
+      "name": "This grave... Could it belong to an\nInvidian mercenary?"
+    },
+    {
+      "$id": 2,
+      "label": "qst630404_msg0002",
+      "style": 84,
+      "name": "It might be one of Bonavento-san's\nfour..."
+    },
+    {
+      "$id": 3,
+      "label": "qst630404_msg0003",
+      "style": 84,
+      "name": "...Let's look for the others. They\nshould still be somewhere nearby."
+    },
+    {
+      "$id": 4,
+      "label": "qst630404_msg0101",
+      "style": 84,
+      "name": "This grave... It belongs to an\nInvidian mercenary, right...?"
+    },
+    {
+      "$id": 5,
+      "label": "qst630404_msg0102",
+      "style": 84,
+      "name": "Could it be one of Bonavento-san's\ngroup of four...?"
+    },
+    {
+      "$id": 6,
+      "label": "qst630404_msg0103",
+      "style": 84,
+      "name": "...We have to find the others. They\nmay still be nearby."
+    },
+    {
+      "$id": 7,
+      "label": "qst630404_msg0201",
+      "style": 84,
+      "name": "Mo-mo-mo!? Is this the grave of an\nInvidian mercenary, mo!?"
+    },
+    {
+      "$id": 8,
+      "label": "qst630404_msg0202",
+      "style": 84,
+      "name": "What in the world happened to\nBonavento-san and the others, mo..."
+    },
+    {
+      "$id": 9,
+      "label": "qst630404_msg0203",
+      "style": 84,
+      "name": "No, first we have to find\nBonavento-san and the others, mo. They\nmay still be nearby, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst630404_msg0301",
+      "style": 84,
+      "name": "This is... the grave of an Invidian\nmercenary..."
+    },
+    {
+      "$id": 11,
+      "label": "qst630404_msg0302",
+      "style": 84,
+      "name": "It may be one of Bonavento's\nmercenaries, but..."
+    },
+    {
+      "$id": 12,
+      "label": "qst630404_msg0303",
+      "style": 84,
+      "name": "...It is too early to despair. Let's\nlook for the other mercenaries."
+    },
+    {
+      "$id": 13,
+      "label": "qst630404_msg0401",
+      "style": 84,
+      "name": "This is the grave of an Invidian\nmercenary."
+    },
+    {
+      "$id": 14,
+      "label": "qst630404_msg0402",
+      "style": 84,
+      "name": "Maybe it's one of Bonavento's group of\nfour..."
+    },
+    {
+      "$id": 15,
+      "label": "qst630404_msg0403",
+      "style": 84,
+      "name": "We'd better find the others quickly.\nThey may be nearby."
+    }
+  ]
+}

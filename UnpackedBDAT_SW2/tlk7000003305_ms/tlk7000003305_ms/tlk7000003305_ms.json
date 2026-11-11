@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000033_05_msg0001",
+      "style": 84,
+      "name": "Are you going to defeat Heaven's Holy\nGrail now, mo? Is there anything\nMomimi can do to help, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000033_05_msg0002",
+      "style": 84,
+      "name": "Momimi has to go back to\nPignerator Trade Guild HQ, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000033_05_msg0003",
+      "style": 84,
+      "name": "Sadly, we'll have to say goodbye soon,\nmo..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000033_05_msg0004",
+      "style": 84,
+      "name": "...But Momimi had so much fun coming\nto this city in Iira, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000033_05_msg0005",
+      "style": 84,
+      "name": "Momimi loves this city, where Iirans,\nNopon, and Blades are all kind to each\nother, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000033_05_msg0006",
+      "style": 84,
+      "name": "That's why Momimi will definitely come\nback to this city one day, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000033_05_msg0007",
+      "style": 84,
+      "name": "And Momimi believes we'll meet again\nwhen that day comes, mo!"
+    }
+  ]
+}

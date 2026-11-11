@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn006_msg0001",
+      "style": 84,
+      "name": "Everyone, why don't we go visit the\narea around the Forgotten Land?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn006_msg0002",
+      "style": 84,
+      "name": "Is there something there?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn006_msg0003",
+      "style": 84,
+      "name": "It's not that there's anything\nspecific, but I just wanted\nto go there one more time[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn006_msg0004",
+      "style": 84,
+      "name": "Is that no good?"
+    }
+  ]
+}

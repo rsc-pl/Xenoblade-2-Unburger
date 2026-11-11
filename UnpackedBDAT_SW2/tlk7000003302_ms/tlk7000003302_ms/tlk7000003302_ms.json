@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000033_02_msg0001",
+      "style": 84,
+      "name": "Since the attack, all kinds of things\nare still in short supply everywhere,\nand people are struggling, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000033_02_msg0002",
+      "style": 84,
+      "name": "So Momimi arranged for the Pignerator\nTrade Guild to send relief supplies\nfor free, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000033_02_msg0003",
+      "style": 84,
+      "name": "Surprised a merchant would do that,\nmo? 'When in trouble, rely on Samo' is\none of Momimi's family sayings, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000033_02_msg0004",
+      "style": 84,
+      "name": "The meaning? Momimi doesn't really\nknow either, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000033_02_msg0005",
+      "style": 84,
+      "name": "But surely it means that when someone\nis in trouble, everyone should help\neach other, mo!"
+    }
+  ]
+}

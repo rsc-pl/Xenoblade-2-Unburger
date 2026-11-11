@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400078_01_msg0001",
+      "style": 84,
+      "name": "We believed in the path His Holiness\nMalbeni showed us and followed it."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400078_01_msg0002",
+      "style": 84,
+      "name": "But all these refugees... I mean,\nit's not the welcoming of the refugees\nitself that I object to, exactly."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400078_01_msg0003",
+      "style": 84,
+      "name": "But the camp where they all now reside\nused to be a beautiful plaza with\nfountains, and, well, look at it now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46400078_01_msg0004",
+      "style": 84,
+      "name": "If only Acedia had more flat\nland, we could at least build\nthem proper houses..."
+    }
+  ]
+}

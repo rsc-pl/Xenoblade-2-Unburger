@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701913_msg0001",
+      "style": 84,
+      "name": "I've never been to Invidia before!"
+    },
+    {
+      "$id": 2,
+      "label": "qst701913_msg0002",
+      "style": 84,
+      "name": "This is so exciting!"
+    },
+    {
+      "$id": 3,
+      "label": "qst701913_msg0101",
+      "style": 84,
+      "name": "Are you sure I'm the right\nperson to be leader?"
+    },
+    {
+      "$id": 4,
+      "label": "qst701913_msg0102",
+      "style": 84,
+      "name": "...Oh! Maybe you all trust Kaede-chan\nmore than me...?!"
+    },
+    {
+      "$id": 5,
+      "label": "qst701913_msg0201",
+      "style": 84,
+      "name": "Next time, I want to take\nmy time exploring Invidia."
+    },
+    {
+      "$id": 6,
+      "label": "qst701913_msg0202",
+      "style": 84,
+      "name": "Adventuring is so much fun!\nIt's the best, isn't it?"
+    }
+  ]
+}

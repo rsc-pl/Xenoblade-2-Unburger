@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201618_msg0001",
+      "style": 84,
+      "name": "The concert preparations are complete,\nand it's finally showtime, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201618_msg0002",
+      "style": 84,
+      "name": "Let's let the [ML:TownFlag digit=F16 value=1 ] fans hear\nyour beautiful singing\nvoice, Nanakoori-san, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201618_msg0003",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 4,
+      "label": "qst201618_msg0004",
+      "style": 84,
+      "name": "Nanakoori? Are you okay?"
+    },
+    {
+      "$id": 5,
+      "label": "qst201618_msg0005",
+      "style": 84,
+      "name": "Y-Y-Yes! I-I-I'm fine!"
+    },
+    {
+      "$id": 6,
+      "label": "qst201618_msg0006",
+      "style": 84,
+      "name": "You're completely stiff with nerves..."
+    },
+    {
+      "$id": 7,
+      "label": "qst201618_msg0007",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 8,
+      "label": "qst201618_msg0008",
+      "style": 165,
+      "name": "Encourage her to do it as usual"
+    },
+    {
+      "$id": 9,
+      "label": "qst201618_msg0009",
+      "style": 165,
+      "name": "Tell her to breathe and calm down"
+    },
+    {
+      "$id": 10,
+      "label": "qst201618_msg0010",
+      "style": 84,
+      "name": "Y-Yes..."
+    },
+    {
+      "$id": 11,
+      "label": "qst201618_msg0011",
+      "style": 84,
+      "name": "You're right. I practiced a lot,\nso if I just do it like I always\ndo... like I always do..."
+    },
+    {
+      "$id": 12,
+      "label": "qst201618_msg0012",
+      "style": 84,
+      "name": "Y-Yes..."
+    },
+    {
+      "$id": 13,
+      "label": "qst201618_msg0013",
+      "style": 84,
+      "name": "*inhale*... *exhale*... ...Okay."
+    },
+    {
+      "$id": 14,
+      "label": "qst201618_msg0014",
+      "style": 84,
+      "name": "Thanks to you, I've calmed\ndown a bit. Thank you..."
+    },
+    {
+      "$id": 15,
+      "label": "qst201618_msg0015",
+      "style": 84,
+      "name": "I'll try my best at the concert.\nThough I'm not very confident..."
+    }
+  ]
+}

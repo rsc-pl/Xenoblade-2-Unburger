@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000061_02_msg0001",
+      "style": 84,
+      "name": "I think giving something a name is a\nway of recognizing it for yourself."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000061_02_msg0002",
+      "style": 84,
+      "name": "Just as I feel my way toward names for\nthe emotions born in me each day..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000061_02_msg0003",
+      "style": 84,
+      "name": "I want to give names to all the scenes\nand events we encounter from now on."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000061_02_msg0004",
+      "style": 84,
+      "name": "So that each and every one will\nstand as a reminder of the time\nI've spent with Rita..."
+    }
+  ]
+}

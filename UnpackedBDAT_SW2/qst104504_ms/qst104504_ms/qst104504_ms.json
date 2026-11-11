@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104504_msg001",
+      "style": 62,
+      "name": "I'm counting on you, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst104504_msg002",
+      "style": 62,
+      "name": "Thanks, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst104504_msg003",
+      "style": 62,
+      "name": "Please fetch it for me, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst104504_msg004",
+      "style": 62,
+      "name": "Much obliged, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst104504_msg0001",
+      "style": 84,
+      "name": "We're all set with the goods now!\nThank you, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "qst104504_msg0002",
+      "style": 84,
+      "name": "...But, I have one more\nfavor to ask, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst104504_msg0003",
+      "style": 84,
+      "name": "I think the current products will\nsell reasonably well, but..."
+    },
+    {
+      "$id": 8,
+      "label": "qst104504_msg0004",
+      "style": 84,
+      "name": "...we're lacking a product\nthat will really make them\nthink, \"This is it!\", mo."
+    },
+    {
+      "$id": 9,
+      "label": "qst104504_msg0005",
+      "style": 84,
+      "name": "I want to collect Metal Brooches\npopular among soldiers and make\nthem our main attraction, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst104504_msg0006",
+      "style": 84,
+      "name": "Kukun has never heard of a treasure\nwith such a name, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst104504_msg0007",
+      "style": 84,
+      "name": "Even when I asked the soldiers, they\nsaid it was too dangerous for a Nopon\nto get and wouldn't tell me...mo..."
+    },
+    {
+      "$id": 12,
+      "label": "qst104504_msg0008",
+      "style": 84,
+      "name": "Please ask the soldiers and collect\nthem for me, mo. Ten should be plenty,\nmo. Please, mo~!"
+    }
+  ]
+}

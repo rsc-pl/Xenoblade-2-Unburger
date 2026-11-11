@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000024_03_msg0001",
+      "style": 84,
+      "name": "Mo-mo~! That Veronica lady makes\nRyuuryuu and the others work like pack\nanimals, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000024_03_msg0002",
+      "style": 84,
+      "name": "Because of her, we don't have any time\nto play or cause mischief, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000024_03_msg0003",
+      "style": 84,
+      "name": "...But when we work here, all sorts of\npeople keep thanking us, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000024_03_msg0004",
+      "style": 84,
+      "name": "No matter how amazing our pranks were,\nno one had ever thanked us before, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000024_03_msg0005",
+      "style": 84,
+      "name": "That part does make Ryuuryuu a little\nhappy, mo..."
+    }
+  ]
+}

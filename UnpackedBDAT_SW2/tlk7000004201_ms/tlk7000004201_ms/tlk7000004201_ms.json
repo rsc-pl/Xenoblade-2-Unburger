@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000042_01_msg0001",
+      "style": 84,
+      "name": "What do you think? All the fish here\nare lively, aren't they?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000042_01_msg0002",
+      "style": 84,
+      "name": "We supply fish to the palace, so you\ncould call us an official purveyor. I\nguarantee the quality."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000042_01_msg0003",
+      "style": 84,
+      "name": "Hey, what do you mean, my\nfish don't look good enough\nto sell to the palace?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000042_01_msg0004",
+      "style": 84,
+      "name": "See how many big, glossy fish are\nswimming around in the moat? Every one\nof them started out in these pails!"
+    }
+  ]
+}

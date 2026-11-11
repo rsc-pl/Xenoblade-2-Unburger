@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst006102_msg0001",
+      "style": 84,
+      "name": "Do not approach. This area is\nunder military investigation."
+    },
+    {
+      "$id": 2,
+      "label": "qst006102_msg0002",
+      "style": 84,
+      "name": "We're still investigating this stone.\nWe can't have civilians touching it\nand breaking it."
+    },
+    {
+      "$id": 3,
+      "label": "qst006102_msg0101",
+      "style": 84,
+      "name": "Oh, you are a member of the\nroyal family! You would not\nhandle the stone roughly."
+    },
+    {
+      "$id": 4,
+      "label": "qst006102_msg0102",
+      "style": 84,
+      "name": "Please, investigate to\nyour heart's content."
+    },
+    {
+      "$id": 5,
+      "label": "qst006102_msg0103",
+      "style": 84,
+      "name": "You look suspicious. Get lost!"
+    }
+  ]
+}

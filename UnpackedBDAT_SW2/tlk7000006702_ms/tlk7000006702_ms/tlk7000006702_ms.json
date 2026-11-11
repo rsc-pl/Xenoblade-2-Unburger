@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000067_02_msg0001",
+      "style": 84,
+      "name": "It sounds noisy outside. Have bandits\nshown up again?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000067_02_msg0002",
+      "style": 84,
+      "name": "They're some nasty folk. Quite a\nfew times I've had to give shelter\nto people fleeing them..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000067_02_msg0003",
+      "style": 84,
+      "name": "Bandits seem to want Core Crystals.\nMaybe they're selling them on the\nblack market. What a sorry state..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000067_02_msg0004",
+      "style": 84,
+      "name": "I reckon they'll get caught\nbefore too long now that\nShin's here in Iira!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000039_02_msg0001",
+      "style": 84,
+      "name": "It's always hard to say goodbye\nto another living being. Especially\nif they go before their time."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000039_02_msg0002",
+      "style": 84,
+      "name": "But it's important to remember the\ntime they lived. That doesn't go\naway just because it had to end."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000039_02_msg0003",
+      "style": 84,
+      "name": "I trust in the teachings of\nAcedia, which tell us that\nall souls will be saved"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000039_02_msg0004",
+      "style": 84,
+      "name": "So death may be hard, but it's not all\nabout despair. There's salvation to be\nfound even in the worst of times."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000039_02_msg0005",
+      "style": 84,
+      "name": "We make pilgrimages and offer prayers\nso that we may reach that path."
+    }
+  ]
+}

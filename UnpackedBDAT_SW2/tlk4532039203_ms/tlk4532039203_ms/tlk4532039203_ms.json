@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320392_03_msg0001",
+      "style": 84,
+      "name": "This is when the Divine Beast\nweapons should be used, yet\nwe cannot even move them..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320392_03_msg0002",
+      "style": 84,
+      "name": "Is this divine punishment\nfor trying to treat Divine\nBeasts as weapons?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320392_03_msg0003",
+      "style": 84,
+      "name": "I can see light from the heavens\nstarting to envelop us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320392_03_msg0004",
+      "style": 84,
+      "name": "So our fate ends here,\nand we can only wait\nfor death[ML:Dash ]?"
+    }
+  ]
+}

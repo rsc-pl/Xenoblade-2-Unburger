@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200121_02_msg0001",
+      "style": 84,
+      "name": "I have a question for you,\nDriver-san and Blade-san..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200121_02_msg0002",
+      "style": 84,
+      "name": "You fight monsters a lot, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200121_02_msg0003",
+      "style": 84,
+      "name": "Are there any monsters that\nget angry when their health\nstarts to get low?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200121_02_msg0004",
+      "style": 165,
+      "name": "How should we answer?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200121_02_msg0005",
+      "style": 165,
+      "name": "Yes, there are monsters like that"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41200121_02_msg0006",
+      "style": 165,
+      "name": "No, there aren't any\nmonsters like that"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41200121_02_msg0007",
+      "style": 84,
+      "name": "I knew it!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk41200121_02_msg0008",
+      "style": 84,
+      "name": "Monsters are alive too, so of\ncourse they get angry sometimes."
+    },
+    {
+      "$id": 9,
+      "label": "tlk41200121_02_msg0009",
+      "style": 84,
+      "name": "Okay, next question."
+    },
+    {
+      "$id": 10,
+      "label": "tlk41200121_02_msg0010",
+      "style": 84,
+      "name": "Are there really monsters\nthat can block our attacks?"
+    },
+    {
+      "$id": 11,
+      "label": "tlk41200121_02_msg0011",
+      "style": 84,
+      "name": "They do that too?!"
+    },
+    {
+      "$id": 12,
+      "label": "tlk41200121_02_msg0012",
+      "style": 84,
+      "name": "It must be really hard to\nbeat them if you can't\nstop them from guarding."
+    },
+    {
+      "$id": 13,
+      "label": "tlk41200121_02_msg0013",
+      "style": 84,
+      "name": "Thanks for answering my questions!\nI'll go brag to my dad now."
+    },
+    {
+      "$id": 14,
+      "label": "tlk41200121_02_msg0014",
+      "style": 84,
+      "name": "What? There aren't any...?"
+    },
+    {
+      "$id": 15,
+      "label": "tlk41200121_02_msg0015",
+      "style": 84,
+      "name": "But maybe it's just that\nyou haven't met one yet."
+    }
+  ]
+}

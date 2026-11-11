@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102608_msg001",
+      "style": 62,
+      "name": "The way to honor a mercenary's\nsoul is to bury their remains\nwhere they fell."
+    },
+    {
+      "$id": 2,
+      "label": "qst102608_msg002",
+      "style": 62,
+      "name": "We'll make a grave right here."
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Critical Up"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Accuracy Up"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Arts Plus"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Recast Up"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Absorb Damage"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Nullify Reaction"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Debuff Removal"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Back Attack Up"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Draw Aggro"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Taunt"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Stench"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Driver Lockout"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Blade Lockout"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Healing Block"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Monado Armor"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Super Strength"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Instant Death"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Mark"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Invincible"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Instant Death Trigger"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Annul Guard"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Annul Reflect"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Damage Immunity"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Absorb Damage"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Reflect Damage"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Unbeatable"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "You Forget, Right?"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Purifying Flames"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Accelerator"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Reflection"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Flash"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Thanks for the Meal!"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Stop Thinking"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Garrison"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Did I Use That?"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Pierce"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Transmigration"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Gravity Pinwheel"
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Repel, po!"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": "Knockback"
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Blow"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Blade Bonding Down"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Self-Destruct Failed"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Stench Failed"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Blow Failed"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Driver Lockout Failed"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Back Attack Failed"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Blade Lockout Failed"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Bonding Down Failed"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Reinforcements Failed"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Damage Release"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Elemental Rebound"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Elemental Enchant"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Elemental Absorb"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Reduce Blade Combo"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Restore Recast"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Elemental Awakening"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Purge Awakening"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Physical Defense Down"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Ether Defense Down"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Resistance Down"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Wind of Time"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Rage Strike"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Purge Rage"
+    }
+  ]
+}

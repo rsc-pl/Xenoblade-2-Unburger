@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4632027601_msg0001",
+      "style": 84,
+      "name": "Welcome to Goth Isut, the capital\nof the Holy See of Acedia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4632027601_msg0002",
+      "style": 84,
+      "name": "We live peacefully by following the\nteachings of Acedia spread by\nHis Holiness Malbeni."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4632027601_msg0003",
+      "style": 84,
+      "name": "Perhaps the key teaching is that\nit's never too late, even criminals\ncan repent, live anew."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4632027601_msg0004",
+      "style": 84,
+      "name": "Our creed is that faith can guide\nthe hearts of believers back toward\na brighter path."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000123_05_msg0001",
+      "style": 84,
+      "name": "I heard you Drivers are famous in this\ncity, mo! Amazing, mooo~!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000123_05_msg0002",
+      "style": 84,
+      "name": "Someday Dorara will make a name as a\nDriver and become famous too, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000123_05_msg0003",
+      "style": 84,
+      "name": "Speaking of famous, Aquila Watchtower\nin Sachsum Gardens is quietly becoming\na popular tourist spot, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000123_05_msg0004",
+      "style": 84,
+      "name": "The view from the top is amazing, and\napparently you can hop down and reach\nthe city's rooftops too, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000123_05_msg0005",
+      "style": 84,
+      "name": "But it's scary, so Dorara would never\ndo that, mooo~!"
+    }
+  ]
+}

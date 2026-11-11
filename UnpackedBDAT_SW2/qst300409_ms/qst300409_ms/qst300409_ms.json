@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300409_msg001",
+      "style": 62,
+      "name": "FEV after defeating the captain"
+    },
+    {
+      "$id": 2,
+      "label": "qst300409_msg0001",
+      "style": 84,
+      "name": "I don't know who gave you\nthat information, but[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst300409_msg0002",
+      "style": 84,
+      "name": "your actions will lead to the\nruin of Superbia's future[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst300409_msg0021",
+      "style": 165,
+      "name": "What should I ask about?"
+    },
+    {
+      "$id": 5,
+      "label": "qst300409_msg0022",
+      "style": 165,
+      "name": "About the descendant of Hannes"
+    },
+    {
+      "$id": 6,
+      "label": "qst300409_msg0023",
+      "style": 165,
+      "name": "About who gave the order"
+    },
+    {
+      "$id": 7,
+      "label": "qst300409_msg0051",
+      "style": 84,
+      "name": "There is no such person."
+    },
+    {
+      "$id": 8,
+      "label": "qst300409_msg0052",
+      "style": 84,
+      "name": "The one behind it suggested using\nrumors from the War of Succession\nto make the story seem plausible."
+    },
+    {
+      "$id": 9,
+      "label": "qst300409_msg0053",
+      "style": 84,
+      "name": "No use asking. The person responsible\nhas probably gone into hiding\nand fled somewhere by now."
+    },
+    {
+      "$id": 10,
+      "label": "qst300409_msg0071",
+      "style": 84,
+      "name": "I've already sent word that\nyou're in pursuit."
+    },
+    {
+      "$id": 11,
+      "label": "qst300409_msg0072",
+      "style": 84,
+      "name": "By now, the one you're after has\nprobably gone into hiding\nand fled somewhere."
+    },
+    {
+      "$id": 12,
+      "label": "qst300409_msg0073",
+      "style": 84,
+      "name": "All that person did was suggest using\nthe secret-child scandal from the\nWar of Succession[ML:Dash ]"
+    },
+    {
+      "$id": 13,
+      "label": "qst300409_msg0101",
+      "style": 84,
+      "name": "This key is for the room\nwhere the Jeweled Signet\nis kept. Do as you please."
+    },
+    {
+      "$id": 14,
+      "label": "qst300409_msg0102",
+      "style": 84,
+      "name": "I am the captain of this ship."
+    },
+    {
+      "$id": 15,
+      "label": "qst300409_msg0103",
+      "style": 84,
+      "name": "I prioritize the safety of my\nship and crew over a package\nwhose client has disappeared."
+    },
+    {
+      "$id": 16,
+      "label": "qst300409_msg0104",
+      "style": 84,
+      "name": "If you were to seriously oppose\nus, neither the people nor the\nship would remain unscathed[ML:Dash ]"
+    }
+  ]
+}

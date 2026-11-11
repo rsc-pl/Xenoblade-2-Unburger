@@ -1,0 +1,279 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 173,
+      "name": "Defeat all enemies."
+    },
+    {
+      "$id": 2,
+      "style": 173,
+      "name": "Defeat all enemies within the time limit."
+    },
+    {
+      "$id": 3,
+      "style": 173,
+      "name": "Protect the escort target and defeat the enemies."
+    },
+    {
+      "$id": 4,
+      "style": 173,
+      "name": "Defeat the enemies within the time limit\nwhile protecting the escort target."
+    },
+    {
+      "$id": 5,
+      "style": 173,
+      "name": "Collect items."
+    },
+    {
+      "$id": 6,
+      "style": 173,
+      "name": "Collect items within the time limit."
+    },
+    {
+      "$id": 7,
+      "style": 173,
+      "name": "Increases maximum HP."
+    },
+    {
+      "$id": 8,
+      "style": 173,
+      "name": "Increases damage dealt."
+    },
+    {
+      "$id": 9,
+      "style": 173,
+      "name": "Reduces damage taken."
+    },
+    {
+      "$id": 10,
+      "style": 6,
+      "name": "Suitable"
+    },
+    {
+      "$id": 11,
+      "style": 6,
+      "name": "Danger"
+    },
+    {
+      "$id": 12,
+      "style": 6,
+      "name": "No Healing Role"
+    },
+    {
+      "$id": 13,
+      "style": 6,
+      "name": "No Attack Role"
+    },
+    {
+      "$id": 14,
+      "style": 64,
+      "name": "The salvage crane is broken and\nrepairs are planned, but monsters\nare roaming nearby. Could you\nsecure the area first?"
+    },
+    {
+      "$id": 15,
+      "style": 64,
+      "name": "There's a dish the children love,\nand I want them to eat plenty, but\nwe're short of ingredients, mo!\nPlease help gather them, mo!"
+    },
+    {
+      "$id": 16,
+      "style": 64,
+      "name": "Goods from an important business\ndeal were stolen before I knew it, mo!\nPlease get them back, mo!"
+    },
+    {
+      "$id": 17,
+      "style": 64,
+      "name": "I heard of a plant that fetches\na high price, mo! I want to make\na profit from it, mo!\nPlease help me acquire some, mo!"
+    },
+    {
+      "$id": 18,
+      "style": 64,
+      "name": "I'll make a profit from that\nhugely popular delicious fish dish, mo!\nPlease catch the fish we need, mo!"
+    },
+    {
+      "$id": 19,
+      "style": 64,
+      "name": "I'm running out of stories for\nthe newspaper, mo! Please guard\nan informant bringing us an\nespecially interesting story, mo!"
+    },
+    {
+      "$id": 20,
+      "style": 64,
+      "name": "The Momon Trading Company is\ncarrying essentials for Nopon,\nbut its cargo is being targeted, mo!\nPlease protect the shipment, mo!"
+    },
+    {
+      "$id": 21,
+      "style": 64,
+      "name": "My family is finally coming home\nfrom a trip, so I want to prepare a\nbig feast, but lack ingredients, mo!\nSomeone please help, mo!"
+    },
+    {
+      "$id": 22,
+      "style": 64,
+      "name": "Monster attacks have been frequent\nalong a trade route. Please rescue\nthe missing transport group."
+    },
+    {
+      "$id": 23,
+      "style": 64,
+      "name": "Monsters seem to be prowling\naround the lumber-processing plant.\nCould you patrol the area so that\nwe can work safely?"
+    },
+    {
+      "$id": 24,
+      "style": 64,
+      "name": "It's been raining for days in Blakka.\nWe need to go there to prevent\nlandslides, but monsters are running\nwild on the way. Please defeat them."
+    },
+    {
+      "$id": 25,
+      "style": 64,
+      "name": "An order has arrived from Superbia.\nWe need materials for custom-made\nfurniture. Could the Merc Group\ncollect some timber?"
+    },
+    {
+      "$id": 26,
+      "style": 64,
+      "name": "We're going to Lake Iaaru for a\ntest of courage, but there seem to\nbe monsters nearby. Please defeat\nthem first so they don't interrupt!"
+    },
+    {
+      "$id": 27,
+      "style": 64,
+      "name": "A legendary fruit said to cure\nall diseases can be found somewhere\non Gula Plateau. Please defeat the\nmonsters rampaging in that area."
+    },
+    {
+      "$id": 28,
+      "style": 64,
+      "name": "The water tastes and smells strange\ncompared to before, and some people\nhave fallen ill after drinking it.\nPlease inspect Gula's water sources."
+    },
+    {
+      "$id": 29,
+      "style": 64,
+      "name": "So many supplies have been shipped\nout of the military port that the\ncity is running short. Could the\nMerc Group help replenish supplies?"
+    },
+    {
+      "$id": 30,
+      "style": 64,
+      "name": "The water has recently turned\nmuddy, possibly due to pollution\ncaused by monsters. We'd like the\nMerc Group to investigate.\n"
+    },
+    {
+      "$id": 31,
+      "style": 64,
+      "name": "The Lumeria Theater Troupe has\narrived in Kannina while touring\nInvidia. Please gather materials\nfor decorating the theater."
+    },
+    {
+      "$id": 32,
+      "style": 64,
+      "name": "Strong gusts damaged the road\nand fences on the Onda road bridge\nleading to Mantaal. Please help\ngather materials for repairs."
+    },
+    {
+      "$id": 33,
+      "style": 64,
+      "name": "A gauge obtainable only through\nsalvaging has broken down. Please\ncollect the materials needed\nfor repairs."
+    },
+    {
+      "$id": 34,
+      "style": 64,
+      "name": "Grogs have multiplied rapidly\nnear the water source and could\ncause a drinking-water shortage.\nCould the Merc Group eliminate them?"
+    },
+    {
+      "$id": 35,
+      "style": 64,
+      "name": "We're short of plants used in\nspice blends. There are many monsters\nin the wasteland where they grow.\nCould you gather some for us?"
+    },
+    {
+      "$id": 36,
+      "style": 64,
+      "name": "Paras have multiplied rapidly\nand are putting a strain on the\nDivine Beast weapons. Go there\nand eliminate them.\n"
+    },
+    {
+      "$id": 37,
+      "style": 64,
+      "name": "A female dignitary from the industrial\ncity of Ukuriye is due in Alba Margen.\nSuspicious people were seen along her route.\nPlease hurry to the area."
+    },
+    {
+      "$id": 38,
+      "style": 64,
+      "name": "Monsters stole the equipment\nfrom our shop! We know where they\nwent, so please retrieve it before\nthey destroy it."
+    },
+    {
+      "$id": 39,
+      "style": 64,
+      "name": "Just as we were planning to do\nmaintenance, a machine at the dig\nsite broke down. Please send someone\nto collect the parts needed to fix it."
+    },
+    {
+      "$id": 40,
+      "style": 64,
+      "name": "The ether boiler at the mining\nsite is broken. The special parts\nit needs are very rare. Please help\nus collect them."
+    },
+    {
+      "$id": 41,
+      "style": 64,
+      "name": "Mo-mo-mo-mo-mo!!\nIt's so hot I might collapse, mo!\nI want to leave, but monsters\nare in the way, mo!"
+    },
+    {
+      "$id": 42,
+      "style": 64,
+      "name": "Children from the village secretly\nvisited a distant island and left\nsomething behind. It is too dangerous\nto send the children back. Please\nfind it for them."
+    },
+    {
+      "$id": 43,
+      "style": 64,
+      "name": "I lost the bracelet my grandmother\nleft me, you see. Could you defeat\nthe monsters near where I dropped it?"
+    },
+    {
+      "$id": 44,
+      "style": 64,
+      "name": "Aunt Correl hasn't heard from Rex lately.\nMonsters are blocking the connecting\nroute. Could you defeat them?"
+    },
+    {
+      "$id": 45,
+      "style": 64,
+      "name": "A huge Dringworm has apparently\nappeared. Please gather lots of\nvegetables to lure it out."
+    },
+    {
+      "$id": 46,
+      "style": 64,
+      "name": "The Divine Beast shines beautifully\nat night on Yashima Plateau.\nPreparations for the regular Yashima\nFestival are behind schedule.\nCould you help gather materials?"
+    },
+    {
+      "$id": 47,
+      "style": 64,
+      "name": "We want to investigate an area\nto see if we can harness the\nDivine Beast's electrical energy,\nbut need nearby monsters defeated."
+    },
+    {
+      "$id": 48,
+      "style": 64,
+      "name": "Crystal-like flowers from Nararia\nSnowfield are used in medicinal\ndecoctions in Teos Aure. Please\nescort a shipment of the flowers.\n"
+    },
+    {
+      "$id": 49,
+      "style": 64,
+      "name": "The Luxurian army is inspecting\nGogol nests for safety. Gogols are\nfierce, so we'd appreciate your help."
+    },
+    {
+      "$id": 50,
+      "style": 64,
+      "name": "There's supposedly a shop trading\nillicit goods with other countries.\nWe want to investigate, but it's\nrisky. Please escort our agents."
+    },
+    {
+      "$id": 51,
+      "style": 64,
+      "name": "Monsters are rampaging along\nthe route used to transport salt\nfrom Gundesu Rock Salt Cavern.\nPlease drive them off before harm is done."
+    },
+    {
+      "$id": 52,
+      "style": 64,
+      "name": "I dreamed that one day our country\nwould open its borders, but now that\nthe chance is here, I'm afraid[ML:Dash ]\nCould you bring me something that\nlets me experience the outside world?"
+    },
+    {
+      "$id": 53,
+      "style": 64,
+      "name": "A monster not previously recorded\nin Luxuria was recently discovered.\nPlease eliminate it before it affects\nthe ecosystem."
+    }
+  ]
+}

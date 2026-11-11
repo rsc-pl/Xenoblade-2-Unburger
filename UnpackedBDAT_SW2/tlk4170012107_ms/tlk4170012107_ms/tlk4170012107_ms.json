@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_07_msg0001",
+      "style": 84,
+      "name": "Right now, everyone in\nTorigo has come out to build\nhomes for the refugees."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_07_msg0002",
+      "style": 84,
+      "name": "Living in tents inside the\nSuperbian military's Torigo\nBase must be hard on them..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_07_msg0003",
+      "style": 84,
+      "name": "Some grieve and some are angry, but\nthey won't find peace of mind until\nthey have a roof over them."
+    }
+  ]
+}

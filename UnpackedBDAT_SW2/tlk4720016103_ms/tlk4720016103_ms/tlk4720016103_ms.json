@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47200161_03_msg0001",
+      "style": 84,
+      "name": "It looks like the children who went\nto Acedia's seminary have returned\nto the village."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47200161_03_msg0002",
+      "style": 84,
+      "name": "They finally got out of the village.\nWhat a waste. What happened?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47200161_03_msg0003",
+      "style": 84,
+      "name": "The adults seem to know something,\nbut nobody will tell me."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100161_01_msg0004",
+      "style": 84,
+      "name": "If those children don't return\nto Acedia, maybe I'll go instead—\njust kidding."
+    }
+  ]
+}

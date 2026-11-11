@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "48890101",
+      "style": 82,
+      "name": "I am Rinne!"
+    },
+    {
+      "$id": 2,
+      "label": "48890102",
+      "style": 82,
+      "name": "I love money, girls, and tea parties..."
+    },
+    {
+      "$id": 3,
+      "label": "48890103",
+      "style": 82,
+      "name": "Therefore! My dream is to build a harem!"
+    },
+    {
+      "$id": 4,
+      "label": "48890104",
+      "style": 82,
+      "name": "First! We make money, and lots of it!"
+    },
+    {
+      "$id": 5,
+      "label": "48890105",
+      "style": 82,
+      "name": "Make sure you help me!"
+    }
+  ]
+}

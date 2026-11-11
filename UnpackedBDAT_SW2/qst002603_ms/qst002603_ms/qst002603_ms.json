@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002603_msg001",
+      "style": 84,
+      "name": "Wow! You really found my treasure!"
+    },
+    {
+      "$id": 2,
+      "label": "qst002603_msg002",
+      "style": 84,
+      "name": "Thank goodness... I was\nwondering what I'd do if you\ncouldn't find it. Thank you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst002603_msg003",
+      "style": 84,
+      "name": "Oh! I'll give you this as thanks!"
+    },
+    {
+      "$id": 4,
+      "label": "qst002603_msg004",
+      "style": 84,
+      "name": "Hehe, isn't it pretty?\nIt's my favorite!"
+    },
+    {
+      "$id": 5,
+      "label": "qst002603_msg005",
+      "style": 84,
+      "name": "I want to grow up to be a\ncool adult who can help\npeople in trouble too!"
+    },
+    {
+      "$id": 6,
+      "label": "qst002603_msg006",
+      "style": 84,
+      "name": "Next time we meet, let's\nplay in the snow together!"
+    }
+  ]
+}

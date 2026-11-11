@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000066_02_msg0001",
+      "style": 84,
+      "name": "Look! I got a new weapon for the first\ntime in ages. Things have been pretty\ndangerous lately."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000066_02_msg0002",
+      "style": 84,
+      "name": "The weapon shop was surprisingly busy,\ntoo. I guess everyone's thinking the\nsame thing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000066_02_msg0003",
+      "style": 84,
+      "name": "After that attack on the\ncapital, it's no wonder\neveryone wants weapons..."
+    }
+  ]
+}

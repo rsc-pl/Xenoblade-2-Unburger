@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07430100_0010",
+      "style": 82,
+      "name": "[ML:undisp ]うあああーっ！"
+    },
+    {
+      "$id": 2,
+      "label": "bf07430100_0020",
+      "style": 82,
+      "name": "[ML:undisp ]うっ！　あうっ！\nああぁぁー！　あぁぁぁぁーー！"
+    },
+    {
+      "$id": 3,
+      "label": "bf07430100_0030",
+      "style": 82,
+      "name": "Pathetic."
+    },
+    {
+      "$id": 4,
+      "label": "bf07430100_0040",
+      "style": 82,
+      "name": "It's full of noise."
+    }
+  ]
+}

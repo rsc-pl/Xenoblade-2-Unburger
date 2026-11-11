@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000070_03_msg0001",
+      "style": 84,
+      "name": "I see... So the capital was attacked,\njust like Felt Village..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000070_03_msg0002",
+      "style": 84,
+      "name": "We just want to live quietly.\nWhy did this have to happen..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000070_03_msg0003",
+      "style": 84,
+      "name": "At times like this, I wish that\nlegendary Knight-sama were still\nhere..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000070_03_msg0004",
+      "style": 84,
+      "name": "You don't know? Back when that old\ninnkeeper was still a child..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000070_03_msg0005",
+      "style": 84,
+      "name": "Apparently someone from this village\nheld the title of knight."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000070_03_msg0006",
+      "style": 84,
+      "name": "Even I have a hard time believing such\na fine Knight-sama came from a little\nvillage like this."
+    }
+  ]
+}

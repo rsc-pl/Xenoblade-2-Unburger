@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200121_01_msg0001",
+      "style": 84,
+      "name": "My dad was saying that Drivers\ndevelop differently from\nnormal people, you know?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200121_01_msg0002",
+      "style": 84,
+      "name": "He said they think about which\nskills to develop based on the\nexperience they've built up."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200121_01_msg0003",
+      "style": 84,
+      "name": "It's the complete opposite\nof normal people."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200121_01_msg0004",
+      "style": 84,
+      "name": "That's why Drivers need to regularly\nthink about how they want to grow."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200121_01_msg0005",
+      "style": 84,
+      "name": "Don't forget, okay?"
+    }
+  ]
+}

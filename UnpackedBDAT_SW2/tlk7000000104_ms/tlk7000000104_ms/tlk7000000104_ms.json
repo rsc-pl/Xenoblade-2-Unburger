@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000001_04_msg0001",
+      "style": 84,
+      "name": "Your eyes are sparkling, mo! I can\nfeel you're starting to see yourselves\nas heroes, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000001_04_msg0002",
+      "style": 84,
+      "name": "A lot of people in the shopping\ndistrict have been helped by you, mo.\nAs chairman, I'm very grateful, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000001_04_msg0003",
+      "style": 84,
+      "name": "So... I want to do even more to help\nyou, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000001_04_msg0004",
+      "style": 84,
+      "name": "I'm not talking about money or\nbusiness, mo. I mean genuinely\nrepaying the favor, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000001_04_msg0005",
+      "style": 84,
+      "name": "When you're in trouble, I'll\ndefinitely help, mo. I want you to\nremember that, mo!"
+    }
+  ]
+}

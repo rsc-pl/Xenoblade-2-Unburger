@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700704_msg0001",
+      "style": 84,
+      "name": "I want to get to work, but I'm\nout of the necessary sand."
+    },
+    {
+      "$id": 2,
+      "label": "qst700704_msg0002",
+      "style": 84,
+      "name": "And on top of that, my assistant's\nmissing. That foolish son of mine is\nstill far too careless about his work!"
+    },
+    {
+      "$id": 3,
+      "label": "qst700704_msg0003",
+      "style": 84,
+      "name": "Where is he wandering\naround! He won't get off\neasy when he gets back!!"
+    },
+    {
+      "$id": 4,
+      "label": "qst700704_msg0004",
+      "style": 84,
+      "name": "...But if something happened\nto him, that would be\nanother matter..."
+    },
+    {
+      "$id": 5,
+      "label": "qst700704_msg0005",
+      "style": 84,
+      "name": "I just hope he hasn't wandered\ninto the forest deep in\nHarijii Hills..."
+    }
+  ]
+}

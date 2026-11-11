@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000035_02_msg0001",
+      "style": 84,
+      "name": "This country is a weird one. Folk\nare kind even to strangers like us."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000035_02_msg0002",
+      "style": 84,
+      "name": "People are often cold to traveling\nperformers like us. Especially\nin places like Superbia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000035_02_msg0003",
+      "style": 84,
+      "name": "Iira's not like that, though. People\nhere are quick to trust. They don't\nmind that we're different."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000035_02_msg0004",
+      "style": 84,
+      "name": "I can also get behind the notion\nof people and Blades coexisting."
+    }
+  ]
+}

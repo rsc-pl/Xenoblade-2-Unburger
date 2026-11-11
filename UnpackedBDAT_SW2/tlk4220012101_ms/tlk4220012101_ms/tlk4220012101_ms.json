@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200121_01_msg0001",
+      "style": 84,
+      "name": "Popipii came to this city\non a trip, mo! I think it's\na great, lively city, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200121_01_msg0002",
+      "style": 84,
+      "name": "Popipii saw a wonderful\nsight on the way here, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200121_01_msg0003",
+      "style": 84,
+      "name": "A Driver reached out and helped a\nfallen Driver back up, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200121_01_msg0004",
+      "style": 84,
+      "name": "When a friend falls, you go\nto them and lend a hand..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42200121_01_msg0005",
+      "style": 84,
+      "name": "Friends are wonderful, mo!\nThat was a moment more beautiful\nthan any work of art, mo!"
+    }
+  ]
+}

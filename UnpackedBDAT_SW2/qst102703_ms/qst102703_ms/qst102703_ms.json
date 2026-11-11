@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102703_msg0001",
+      "style": 84,
+      "name": "I don't recognize you.\nWhat do you need?"
+    },
+    {
+      "$id": 2,
+      "label": "qst102703_msg0002",
+      "style": 84,
+      "name": "That doctor...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst102703_msg0003",
+      "style": 84,
+      "name": "She headed to Dokuto Spring,\nsaying she was looking for\ningredients for a new medicine."
+    },
+    {
+      "$id": 4,
+      "label": "qst102703_msg0004",
+      "style": 84,
+      "name": "Going to a place like that\nwith only a single mercenary...\nWhat a reckless doctor..."
+    },
+    {
+      "$id": 5,
+      "label": "qst102703_msg0101",
+      "style": 84,
+      "name": "Dokuto Spring is past the\nBattlefield Plain, on\nthe way to the Holy War Wall."
+    },
+    {
+      "$id": 6,
+      "label": "qst102703_msg0102",
+      "style": 84,
+      "name": "As its name implies, it is\na dangerous place surrounded\nby a poisonous swamp."
+    },
+    {
+      "$id": 7,
+      "label": "qst102703_msg0103",
+      "style": 84,
+      "name": "Be careful if you go."
+    },
+    {
+      "$id": 8,
+      "label": "qst102703_msg0201",
+      "style": 84,
+      "name": "Were you able to meet the doctor?"
+    },
+    {
+      "$id": 9,
+      "label": "qst102703_msg0202",
+      "style": 84,
+      "name": "She's a strange one,\nbut she's skilled."
+    },
+    {
+      "$id": 10,
+      "label": "qst102703_msg0203",
+      "style": 84,
+      "name": "When she was assigned as a military\ndoctor, I saw her treat patients\nwith great precision."
+    }
+  ]
+}

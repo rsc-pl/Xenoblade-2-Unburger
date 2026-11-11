@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4130009102_msg0001",
+      "style": 84,
+      "name": "Hey, thanks for visiting!\nThank you for telling us\nwhat her parents said."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4130009102_msg0002",
+      "style": 84,
+      "name": "Riana's father wouldn't even\nspeak to me at first, but\nher mother helped out."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4130009102_msg0003",
+      "style": 84,
+      "name": "She said if we can be happy\ntogether, it might change relations\nbetween Gula and Superbia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4130009102_msg0004",
+      "style": 84,
+      "name": "After that, we had a long talk, and\nhe finally approved of our marriage!\nIt's all thanks to you guys."
+    }
+  ]
+}

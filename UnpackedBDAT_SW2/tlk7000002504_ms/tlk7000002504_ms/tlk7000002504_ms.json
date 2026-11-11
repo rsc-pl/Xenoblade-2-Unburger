@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000025_04_msg0001",
+      "style": 84,
+      "name": "Everyone, and Adel-sama too,\nthank you for your work!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000025_04_msg0002",
+      "style": 84,
+      "name": "This base takes in not only\nvolunteers like me, but people\nwho lost homes in the war."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000025_04_msg0003",
+      "style": 84,
+      "name": "If I'd ended up in the Iiran army,\nI might never have noticed all the\nrefugees who needed help here..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000025_04_msg0004",
+      "style": 84,
+      "name": "I'm truly grateful that you\ninvited me into the resistance."
+    }
+  ]
+}

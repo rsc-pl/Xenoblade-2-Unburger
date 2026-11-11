@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000302_msg001",
+      "style": 84,
+      "name": "Mo mo mo[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst000302_msg002",
+      "style": 84,
+      "name": "For a moment, I didn't know what\nwas going to happen. Thank you\nfor saving me, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst000302_msg003",
+      "style": 84,
+      "name": "I'm so glad the cargo is safe, mo[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "qst000302_msg004",
+      "style": 84,
+      "name": "Mo? Are you curious\nabout the cargo, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "qst000302_msg005",
+      "style": 84,
+      "name": "This is Puffoundation and\nTreesap Conditioner, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst000302_msg006",
+      "style": 84,
+      "name": "I was on my way to Torigo\nto deliver Gula specialty\ncosmetics, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst000302_msg007",
+      "style": 84,
+      "name": "If you hadn't come along, I would\nhave been monster food, mo."
+    },
+    {
+      "$id": 8,
+      "label": "qst000302_msg008",
+      "style": 84,
+      "name": "Oh, right! As a thank you, I'll\nsneak you a few items, mo."
+    },
+    {
+      "$id": 9,
+      "label": "qst000302_msg009",
+      "style": 84,
+      "name": "To be honest, this is all Tsunini\nhas to give right now, mo[ML:Dash ]"
+    },
+    {
+      "$id": 10,
+      "label": "qst000302_msg010",
+      "style": 84,
+      "name": "You really saved me, mo.\nNo, thank *you*, mo!"
+    }
+  ]
+}

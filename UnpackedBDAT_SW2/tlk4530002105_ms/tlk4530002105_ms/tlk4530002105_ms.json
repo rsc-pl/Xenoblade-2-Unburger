@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300021_05_msg0001",
+      "style": 84,
+      "name": "You don't hear much about those\nCore Crystal hunters lately."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300021_05_msg0002",
+      "style": 84,
+      "name": "Maybe they stopped after Special\nCommissioner Meleph taught them a\nlesson?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300021_05_msg0003",
+      "style": 84,
+      "name": "I don't know if anything came of\nthe rumors Iira was behind it,\neither. Just what were they after?"
+    }
+  ]
+}

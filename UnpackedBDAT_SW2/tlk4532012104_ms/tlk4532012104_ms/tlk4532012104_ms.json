@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320121_04_msg0001",
+      "style": 84,
+      "name": "You have a lot of Blades with you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320121_04_msg0002",
+      "style": 84,
+      "name": "Do you switch between Blades while\nfighting?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320121_04_msg0003",
+      "style": 84,
+      "name": "If you switch them well in battle,\nyou'll have more options for elemental\ncombos!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320121_04_msg0004",
+      "style": 84,
+      "name": "Understanding your Blades'\ntraits and planning ahead\nis half the battle!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320121_04_msg0005",
+      "style": 84,
+      "name": "But... giving this kind of advice is\nhard."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45320121_04_msg0006",
+      "style": 84,
+      "name": "As a Driver scout, I mostly deal with\ncomplete rookies, and there's no point\ntelling them about advanced strategy."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45320121_04_msg0007",
+      "style": 84,
+      "name": "I can say things like, \"Resonate with\na Blade through sheer determination!\"\nbut..."
+    }
+  ]
+}

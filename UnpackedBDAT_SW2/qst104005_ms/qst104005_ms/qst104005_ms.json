@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104005_msg001",
+      "style": 62,
+      "name": "Yes, I'm alright. Thank\nyou for saving me."
+    },
+    {
+      "$id": 2,
+      "label": "qst104005_msg002",
+      "style": 62,
+      "name": "Um, Janna and the others..."
+    },
+    {
+      "$id": 3,
+      "label": "qst104005_msg003",
+      "style": 62,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 4,
+      "label": "qst104005_msg004",
+      "style": 62,
+      "name": "Tell her they're safe."
+    },
+    {
+      "$id": 5,
+      "label": "qst104005_msg005",
+      "style": 62,
+      "name": "Tell her they're waiting at the port."
+    },
+    {
+      "$id": 6,
+      "label": "qst104005_msg006",
+      "style": 62,
+      "name": "Is that so? Thank goodness..."
+    },
+    {
+      "$id": 7,
+      "label": "qst104005_msg007",
+      "style": 62,
+      "name": "I see... I must have worried them..."
+    },
+    {
+      "$id": 8,
+      "label": "qst104005_msg008",
+      "style": 62,
+      "name": "Let's hurry back to Janna\nand the others so they\ndon't worry any longer."
+    }
+  ]
+}

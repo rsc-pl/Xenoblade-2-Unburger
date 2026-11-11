@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300083_03_msg0001",
+      "style": 84,
+      "name": "I'll protect her no matter what!\nI won't let anyone hurt her!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300083_03_msg0002",
+      "style": 84,
+      "name": "I've realized it now.\nI truly love her."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300083_03_msg0003",
+      "style": 84,
+      "name": "If anyone harms her,\nI won't forgive them,\nking or god alike!"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102211_msg0001",
+      "style": 84,
+      "name": "So you're the one Nish was talking to."
+    },
+    {
+      "$id": 2,
+      "label": "qst102211_msg0002",
+      "style": 84,
+      "name": "You fought alongside\nVandham, right? I've heard."
+    },
+    {
+      "$id": 3,
+      "label": "qst102211_msg0003",
+      "style": 84,
+      "name": "I'm Kathira. I'm one of\nthe veterans around here."
+    },
+    {
+      "$id": 4,
+      "label": "qst102211_msg0004",
+      "style": 84,
+      "name": "Nice to meet you."
+    },
+    {
+      "$id": 5,
+      "label": "qst102211_msg0020",
+      "style": 84,
+      "name": "Nish is young, but very cautious."
+    },
+    {
+      "$id": 6,
+      "label": "qst102211_msg0021",
+      "style": 84,
+      "name": "Squad Chief Cordon always tells\nme I'm too reckless, so maybe\nwe'll make a good pair."
+    },
+    {
+      "$id": 7,
+      "label": "qst102211_msg0101",
+      "style": 84,
+      "name": "You want a Spoiled Apple?"
+    },
+    {
+      "$id": 8,
+      "label": "qst102211_msg0102",
+      "style": 84,
+      "name": "I've gathered some in the area\nwith the spores, midway through\nthe cavern."
+    },
+    {
+      "$id": 9,
+      "label": "qst102211_msg0301",
+      "style": 84,
+      "name": "Give the ingredients to Nish,\nokay? Ah, I'm starving~!"
+    },
+    {
+      "$id": 10,
+      "label": "qst102211_msg0201",
+      "style": 84,
+      "name": "Phew, I'm stuffed! That was delicious!"
+    },
+    {
+      "$id": 11,
+      "label": "qst102211_msg0202",
+      "style": 84,
+      "name": "The next mission is going\nto be tough, but I feel\nlike I can handle it now."
+    }
+  ]
+}

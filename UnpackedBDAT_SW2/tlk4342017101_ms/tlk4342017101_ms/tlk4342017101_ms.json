@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420171_01_msg0001",
+      "style": 84,
+      "name": "I heard that the streets of Acedia are\nas beautiful as a work of art. I'm\nhere from Invidia for sightseeing."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420171_01_msg0002",
+      "style": 84,
+      "name": "The cathedral is majestic and the\nstreets are laid out beautifully..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420171_01_msg0003",
+      "style": 84,
+      "name": "But the refugee camp... Well,\nI suppose there's not much\nthat can be done about it..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420171_01_msg0004",
+      "style": 84,
+      "name": "If they oppose Blades even while being\nhelped, they should do something for\nthemselves."
+    }
+  ]
+}

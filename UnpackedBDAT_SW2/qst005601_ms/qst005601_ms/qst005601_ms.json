@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005601_msg001",
+      "style": 84,
+      "name": "I guess random guessing won't work..."
+    },
+    {
+      "$id": 2,
+      "label": "qst005601_msg002",
+      "style": 84,
+      "name": "We might get lucky if we try enough\ntimes, but it would take a while."
+    },
+    {
+      "$id": 3,
+      "label": "qst005601_msg003",
+      "style": 84,
+      "name": "It's tedious work..."
+    },
+    {
+      "$id": 4,
+      "label": "qst005601_msg004",
+      "style": 84,
+      "name": "I think there must be an\nancient text that mentions\nthis ancient stone tablet."
+    },
+    {
+      "$id": 5,
+      "label": "qst005601_msg005",
+      "style": 84,
+      "name": "You're right... It might be\nfaster to find some books\nand look for clues again."
+    },
+    {
+      "$id": 6,
+      "label": "qst005601_msg006",
+      "style": 84,
+      "name": "Can I ask the mercenaries\nfor help too?"
+    },
+    {
+      "$id": 7,
+      "label": "qst005601_msg007",
+      "style": 84,
+      "name": "Of course! Let's find some clues to\nsolve the mystery of this tablet!"
+    }
+  ]
+}

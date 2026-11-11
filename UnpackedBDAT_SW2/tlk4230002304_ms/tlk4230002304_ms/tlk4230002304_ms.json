@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300023_04_msg0001",
+      "style": 84,
+      "name": "The Twelve Nopon Siblings finally\nhave a new item on the menu, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300023_04_msg0002",
+      "style": 84,
+      "name": "The Sappan Veg Juice is\nespecially super delicious, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300023_04_msg0003",
+      "style": 84,
+      "name": "Twinklejuice was too urban for\nRaserureseri, but this Sappan Veg\nJuice is just right, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300023_04_msg0004",
+      "style": 84,
+      "name": "It's my favorite juice, so much so\nthat I drank too much the other\nday and got a stomach ache, mo!"
+    }
+  ]
+}

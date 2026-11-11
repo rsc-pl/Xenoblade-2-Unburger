@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310141_04_msg0001",
+      "style": 62,
+      "name": "I'm alive today because of\nVandham-san."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310141_04_msg0002",
+      "style": 62,
+      "name": "If it were Vandham-san, I don't\nthink he would have just left the\nimmigrants to fend for themselves."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310141_04_msg0003",
+      "style": 62,
+      "name": "That's why I've decided to accept the\nimmigrants. Though I'd rather not get\ninvolved with people from Superbia."
+    }
+  ]
+}

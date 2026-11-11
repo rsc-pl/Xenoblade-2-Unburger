@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000020_02_msg0001",
+      "style": 84,
+      "name": "I spend a lot of time\nwatching people from here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000020_02_msg0002",
+      "style": 84,
+      "name": "Precisely because we've suffered a\ngreat disaster, people's bonds are\ngrowing stronger."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000020_02_msg0003",
+      "style": 84,
+      "name": "A disaster may be just that, or it may\nbe something much more - a catalyst\nfor change. It all depends on us."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000020_02_msg0004",
+      "style": 84,
+      "name": "Events themselves are never purely\ngood or evil. What matters is the\nheart with which people receive them."
+    }
+  ]
+}

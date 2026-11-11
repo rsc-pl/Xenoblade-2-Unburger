@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000047_03_msg0001",
+      "style": 84,
+      "name": "Watching all of you work so hard has\nopened my eyes..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000047_03_msg0002",
+      "style": 84,
+      "name": "I'm ashamed to admit it, but until now\nI've been escaping into the salvation\ncalled faith."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000047_03_msg0003",
+      "style": 84,
+      "name": "But from now on, I'll think about what\nI can actually do for her..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000047_03_msg0004",
+      "style": 84,
+      "name": "I'm going to live alongside her and\nher illness for the rest of our lives."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000047_03_msg0005",
+      "style": 84,
+      "name": "But if things ever become hopeless,\nI'll ask a trusted person for help,\nnot turn to faith."
+    }
+  ]
+}

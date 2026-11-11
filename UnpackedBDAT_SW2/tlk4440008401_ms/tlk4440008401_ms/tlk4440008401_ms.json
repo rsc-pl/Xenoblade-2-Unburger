@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400084_01_msg0001",
+      "style": 84,
+      "name": "I haven't seen clothes like yours.\nAre you from another country?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400084_01_msg0002",
+      "style": 84,
+      "name": "You must find Luxuria rather\nnippy, no? Feel free to warm\nyourselves up here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400084_01_msg0003",
+      "style": 84,
+      "name": "Hot water is piped here. Water heated\ninside the Divine Beast circulates\nthroughout the capital."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400084_01_msg0004",
+      "style": 84,
+      "name": "It's hard to get a warming meal\naround these parts, so I come here\nevery day just to warm myself up."
+    }
+  ]
+}

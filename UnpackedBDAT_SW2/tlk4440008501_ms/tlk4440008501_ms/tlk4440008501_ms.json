@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400085_01_msg0001",
+      "style": 84,
+      "name": "You've come from the outside,\nhaven't you? Allow me to\nteach you about our city."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400085_01_msg0002",
+      "style": 84,
+      "name": "You see the tower-like structure in\nthe center of Elmu Square? The Divine\nBeast's ether flows through that."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400085_01_msg0003",
+      "style": 84,
+      "name": "We use the energy to heat\nour water, which is circulated\nthroughout the kingdom."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400085_01_msg0004",
+      "style": 84,
+      "name": "So even if there's a blizzard\noutside, the capital stays warm.\nDid you learn something?"
+    }
+  ]
+}

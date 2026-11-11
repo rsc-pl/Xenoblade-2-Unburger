@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev05_320_125_msg0001",
+      "style": 84,
+      "name": "Sorry to have kept you all waiting."
+    },
+    {
+      "$id": 2,
+      "label": "fev05_320_125_msg0002",
+      "style": 84,
+      "name": "Welcome back, mo."
+    },
+    {
+      "$id": 3,
+      "label": "fev05_320_125_msg0003",
+      "style": 84,
+      "name": "How was it, Homura?"
+    },
+    {
+      "$id": 4,
+      "label": "fev05_320_125_msg0004",
+      "style": 84,
+      "name": "Hikari-chan did most of the talking."
+    },
+    {
+      "$id": 5,
+      "label": "fev05_320_125_msg0005",
+      "style": 84,
+      "name": "You two knew each other\nfrom before, right?"
+    },
+    {
+      "$id": 6,
+      "label": "fev05_320_125_msg0006",
+      "style": 84,
+      "name": "Yes..."
+    },
+    {
+      "$id": 7,
+      "label": "fev05_320_125_msg0007",
+      "style": 84,
+      "name": "Everyone."
+    },
+    {
+      "$id": 8,
+      "label": "fev05_320_125_msg0008",
+      "style": 84,
+      "name": "Fan-san."
+    },
+    {
+      "$id": 9,
+      "label": "fev05_320_125_msg0009",
+      "style": 84,
+      "name": "You must be tired after today's\nevents, so please stay with\nus for another night."
+    },
+    {
+      "$id": 10,
+      "label": "fev05_320_125_msg0010",
+      "style": 84,
+      "name": "Indeed... We only had an audience\nwith His Holiness Malbeni, but I\nfeel thoroughly exhausted."
+    },
+    {
+      "$id": 11,
+      "label": "fev05_320_125_msg0011",
+      "style": 84,
+      "name": "Shall we accept their offer to rest?"
+    },
+    {
+      "$id": 12,
+      "label": "fev05_320_125_msg0012",
+      "style": 84,
+      "name": "Yeah, sounds good. Let's\naccept their hospitality."
+    },
+    {
+      "$id": 13,
+      "label": "fev05_320_125_msg0013",
+      "style": 84,
+      "name": "Tora's happy to sleep in a fluffy bed\nagain tonight, mooo!"
+    },
+    {
+      "$id": 14,
+      "label": "fev05_320_125_msg0014",
+      "style": 84,
+      "name": "Then shall we return to the cathedral?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42340111_03_msg0001",
+      "style": 84,
+      "name": "Something terrible happened... mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42340111_03_msg0002",
+      "style": 84,
+      "name": "Kisasa has been training to\nbecome a legendary salvager,\nto be praised and admired, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42340111_03_msg0003",
+      "style": 84,
+      "name": "But the other day, when Mochimochi\njudged my salvaging skills..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42340111_03_msg0004",
+      "style": 84,
+      "name": "I was told I was even worse\nthan a complete amateur\nsalvager apprentice, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42340111_03_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Come to think of it, Kisasa has\nonly been training and has never\nactually done any salvaging, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42340111_03_msg0006",
+      "style": 84,
+      "name": "[ML:Feeling ]To become a legendary salvager, it\nseems I need to do a lot of salvaging\nand recover a lot of treasure, mo."
+    }
+  ]
+}

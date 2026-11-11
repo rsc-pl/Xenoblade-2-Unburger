@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100161_01_msg0001",
+      "style": 84,
+      "name": "Rex-nii-chan's salvaging\nis so cool!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100161_01_msg0002",
+      "style": 84,
+      "name": "I'm going to salvage like Nii-chan!!\n...Even though I can't swim."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100161_01_msg0003",
+      "style": 84,
+      "name": "Aunt Correl said you can do anything\nif you try hard! So I'll keep trying!"
+    }
+  ]
+}

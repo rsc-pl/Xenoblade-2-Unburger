@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst720501_msg0001",
+      "style": 84,
+      "name": "Alright, just like we talked about\nyesterday, let's go take care of\nthe monsters on Reto Bridge."
+    },
+    {
+      "$id": 2,
+      "label": "qst720501_msg0002",
+      "style": 84,
+      "name": "So where is this Reto Bridge, anyway?"
+    },
+    {
+      "$id": 3,
+      "label": "qst720501_msg0003",
+      "style": 84,
+      "name": "It's deep in the Rakina Plains. Not\ntoo far, so let's check it out."
+    }
+  ]
+}

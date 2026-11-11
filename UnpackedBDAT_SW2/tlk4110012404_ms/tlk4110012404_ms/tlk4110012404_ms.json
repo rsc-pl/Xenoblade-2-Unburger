@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100124_04_msg0001",
+      "style": 84,
+      "name": "You know the weird house below us?\nThere's a toy called TIGER! TIGER!\nby the entrance, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100124_04_msg0002",
+      "style": 84,
+      "name": "I helped myself to a game...\nI loved it so much I got completely\nabsorbed."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100124_04_msg0003",
+      "style": 84,
+      "name": "My high score right\nnow is 18,310 points!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100124_04_msg0004",
+      "style": 84,
+      "name": "I wanted to become a botanist, but\nmaybe I should aim to become a\nTIGER! TIGER! pro instead...?"
+    }
+  ]
+}

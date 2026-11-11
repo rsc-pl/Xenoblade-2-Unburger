@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100072_02_msg0001",
+      "style": 84,
+      "name": "I can sense the destinies\nof individual people, but\nnot Acedia as a whole."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100072_02_msg0002",
+      "style": 84,
+      "name": "I wonder what kind of story\nAcedia's destiny will become."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100072_02_msg0003",
+      "style": 84,
+      "name": "Phonexes love hearing\nstories, so I'm very curious\nto learn Acedia's story!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100072_02_msg0004",
+      "style": 84,
+      "name": "My fur is standing on end! It looks\nlike I'll get to see an incredible\nstory of destiny! I can't wait!"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst560209_msg0001",
+      "style": 84,
+      "name": "Welcome, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst560209_msg0002",
+      "style": 84,
+      "name": "I've been waiting here to hear\nyour adventure story, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst560209_msg0003",
+      "style": 84,
+      "name": "You'll live up to my\nexpectations, won't you, mo?"
+    },
+    {
+      "$id": 4,
+      "label": "qst560209_msg0004",
+      "style": 84,
+      "name": "Trade for a Hit Custom Master?"
+    },
+    {
+      "$id": 5,
+      "label": "qst560209_msg0005",
+      "style": 84,
+      "name": "Tell 500,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst560209_msg0006",
+      "style": 84,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst560209_msg0101",
+      "style": 84,
+      "name": "Thank you for the wonderful\nadventure story, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst560209_msg0102",
+      "style": 84,
+      "name": "I'm satisfied, so I want\nto go back to Alst, but\nhow do I get back, mo?"
+    },
+    {
+      "$id": 9,
+      "label": "qst560209_msg0201",
+      "style": 84,
+      "name": "How cruel, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst560209_msg0202",
+      "style": 84,
+      "name": "I'm so sad, mo!"
+    }
+  ]
+}

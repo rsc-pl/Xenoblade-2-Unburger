@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300017_01_msg0001",
+      "style": 84,
+      "name": "Welcome, mo. I sell Core\nChips for Blades, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300017_01_msg0004",
+      "style": 84,
+      "name": "The goods in this shop are\nbeyond the means of a salvager."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300017_01_msg0005",
+      "style": 84,
+      "name": "Unless you're a mercenary or\na Driver, or even a Blade..."
+    }
+  ]
+}

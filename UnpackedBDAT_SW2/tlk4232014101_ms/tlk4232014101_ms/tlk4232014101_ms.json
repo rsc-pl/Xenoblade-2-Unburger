@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4232014101_msg0001",
+      "style": 84,
+      "name": "This mercenary group pays\nmore than the last one, and\neveryone is so nice, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4232014101_msg0002",
+      "style": 84,
+      "name": "Even if another place offered better\nterms, Bamibami has no intention\nof leaving, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4232014101_msg0003",
+      "style": 84,
+      "name": "Because there's no other\nmercenary group that has\nall-you-can-eat mushrooms, mo!"
+    }
+  ]
+}

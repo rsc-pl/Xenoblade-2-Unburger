@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103803_msg001",
+      "style": 62,
+      "name": "It's fast. I can't fall behind!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103803_msg002",
+      "style": 62,
+      "name": "Damn, it's fast! I'll\ndefinitely catch it!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103803_msg003",
+      "style": 62,
+      "name": "It is fast. However, I have no\nintention of letting it escape."
+    },
+    {
+      "$id": 4,
+      "label": "qst103803_msg004",
+      "style": 62,
+      "name": "It's a quick one. But\nI won't lose to it!"
+    }
+  ]
+}

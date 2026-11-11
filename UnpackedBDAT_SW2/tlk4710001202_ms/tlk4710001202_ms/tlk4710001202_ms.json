@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100012_02_msg0001",
+      "style": 84,
+      "name": "Hey, if it isn't the true\nhero's warrior troupe!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100012_02_msg0002",
+      "style": 84,
+      "name": "We Phonex set out for all kinds of\nDivine Beasts together with Nopon..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100012_02_msg0003",
+      "style": 84,
+      "name": "But once we settle down and\nmake a den, we'll stay there\nfor the rest of our lives."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100012_02_msg0004",
+      "style": 84,
+      "name": "So you can imagine why I'm so\nimpressed that you people\ntravel all around the world!"
+    }
+  ]
+}

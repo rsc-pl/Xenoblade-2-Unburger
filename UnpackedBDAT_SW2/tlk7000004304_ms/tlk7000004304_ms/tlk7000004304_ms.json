@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000043_04_msg0001",
+      "style": 84,
+      "name": "Gaaah! How can I get Kozel motivated\nagain?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000043_04_msg0002",
+      "style": 84,
+      "name": "Her eyes always look like a dead\nfish's! It's a chef's job to cook\nthe fish, not be the fish!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000043_04_msg0003",
+      "style": 84,
+      "name": "But I'm not about to back down now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000043_04_msg0004",
+      "style": 84,
+      "name": "If I keep visiting her, she'll\ncome round sooner or later..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000043_04_msg0005",
+      "style": 84,
+      "name": "I'm not going back to Superbia until\nthen! I'll show you a cook's pride!!"
+    }
+  ]
+}

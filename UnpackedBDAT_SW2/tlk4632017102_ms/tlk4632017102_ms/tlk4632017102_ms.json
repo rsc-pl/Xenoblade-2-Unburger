@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320171_02_msg0001",
+      "style": 84,
+      "name": "With Fan-sama's passing,\nthere is much mourning\neven among the refugees."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320171_02_msg0002",
+      "style": 84,
+      "name": "She often came to comfort the people\nhere in place of His Holiness Malbeni\nwhen he was busy."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320171_02_msg0003",
+      "style": 84,
+      "name": "I only hope this doesn't cause the\nprotests against the Blade policies\nto gain momentum..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46320171_02_msg0004",
+      "style": 84,
+      "name": ""
+    }
+  ]
+}

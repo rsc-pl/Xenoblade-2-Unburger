@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104905_msg0001",
+      "style": 84,
+      "name": "Handsome gentleman... Please\nremember how you fought."
+    },
+    {
+      "$id": 2,
+      "label": "qst104905_msg0002",
+      "style": 84,
+      "name": "I will be writing furiously,\nusing your words as a reference!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104905_msg0101",
+      "style": 84,
+      "name": "I'd prefer it if a handsome\ngentleman defeated the monsters..."
+    },
+    {
+      "$id": 4,
+      "label": "qst104905_msg0102",
+      "style": 84,
+      "name": "It's fine if someone else defeats\nthem, but please have a handsome\ngentleman narrate the battle~"
+    }
+  ]
+}

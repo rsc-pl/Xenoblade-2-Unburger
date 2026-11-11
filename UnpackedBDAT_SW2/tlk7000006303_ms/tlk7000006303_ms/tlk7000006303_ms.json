@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000063_03_msg0001",
+      "style": 84,
+      "name": "Hmmm, I think pretty soon\nI'll have done all the\nresearch I can do here..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000063_03_msg0002",
+      "style": 84,
+      "name": "I hear the technology in Iira's\ncapital ranks among the very best in\nAlst."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000063_03_msg0003",
+      "style": 84,
+      "name": "With all its knowledge and texts on\nDivine Beasts and ether, my research\nwould make great progress. Yes."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000063_03_msg0004",
+      "style": 84,
+      "name": "But as you can see, I'm the brainy\nsort of adventurer..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000063_03_msg0005",
+      "style": 84,
+      "name": "Dodging every monster roaming the way\nto Iira is still a dream within a\ndream for me. Yes."
+    }
+  ]
+}

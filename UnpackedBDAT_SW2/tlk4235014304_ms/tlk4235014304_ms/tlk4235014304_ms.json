@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350143_04_msg0001",
+      "style": 84,
+      "name": "Invidia has completely\ndeveloped... mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350143_04_msg0002",
+      "style": 84,
+      "name": "Unfortunately, Kurolo and the others\nhave run out of things to discuss, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350143_04_msg0003",
+      "style": 84,
+      "name": "If we were to raise a topic, it would\nbe how to develop it further, but\nthat's a topic with no answer, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350143_04_msg0004",
+      "style": 84,
+      "name": "Well... you all should just\nquietly focus on the development\nof other countries, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42350143_01_msg0005",
+      "style": 84,
+      "name": "You did a good job for Invidia, mo.\nThank you for your hard work, mo."
+    }
+  ]
+}

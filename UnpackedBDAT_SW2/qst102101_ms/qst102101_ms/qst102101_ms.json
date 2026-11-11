@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102101_msg0001",
+      "style": 84,
+      "name": "How odd."
+    },
+    {
+      "$id": 2,
+      "label": "qst102101_msg0002",
+      "style": 84,
+      "name": "Lately, the Hræsvelgr\nMercenary Corps missions\nhaven't been going smoothly."
+    },
+    {
+      "$id": 3,
+      "label": "qst102101_msg0003",
+      "style": 84,
+      "name": "Subjugation targets are already\ngone, or harvesting spots have\nbeen picked clean..."
+    },
+    {
+      "$id": 4,
+      "label": "qst102101_msg0004",
+      "style": 84,
+      "name": "This has to be intentional sabotage."
+    },
+    {
+      "$id": 5,
+      "label": "qst102101_msg0005",
+      "style": 84,
+      "name": "Actually, these incidents started\nright around the time our number\nof mercenaries increased..."
+    },
+    {
+      "$id": 6,
+      "label": "qst102101_msg0006",
+      "style": 84,
+      "name": "A spy among the new recruits...?"
+    },
+    {
+      "$id": 7,
+      "label": "qst102101_msg0007",
+      "style": 84,
+      "name": "I'd rather not think it, but I\nhave to rule out the possibility."
+    },
+    {
+      "$id": 8,
+      "label": "qst102101_msg0008",
+      "style": 84,
+      "name": "As discreetly as possible..."
+    },
+    {
+      "$id": 9,
+      "label": "qst102101_msg0009",
+      "style": 84,
+      "name": "You carry on Vandham's will...\nI suppose I can trust you..."
+    },
+    {
+      "$id": 10,
+      "label": "qst102101_msg0010",
+      "style": 84,
+      "name": "Alright, here's the plan."
+    },
+    {
+      "$id": 11,
+      "label": "qst102101_msg0011",
+      "style": 84,
+      "name": "I want you to go on a\nsubjugation mission with\nsome of the new recruits."
+    },
+    {
+      "$id": 12,
+      "label": "qst102101_msg0012",
+      "style": 84,
+      "name": "I need you to watch them for any\nsuspicious activity. Can you do that?"
+    },
+    {
+      "$id": 13,
+      "label": "qst102101_msg0013",
+      "style": 84,
+      "name": "Right. Let me call the other three."
+    },
+    {
+      "$id": 14,
+      "label": "qst102101_msg0101",
+      "style": 84,
+      "name": "Good, you're all here."
+    },
+    {
+      "$id": 15,
+      "label": "qst102101_msg0102",
+      "style": 84,
+      "name": "First, let's have some\nintroductions..."
+    },
+    {
+      "$id": 16,
+      "label": "qst102101_msg0103",
+      "style": 84,
+      "name": "I'm Rex! I'm a salvager!\nNice to meet you!"
+    },
+    {
+      "$id": 17,
+      "label": "qst102101_msg0104",
+      "style": 84,
+      "name": "I'm Bamibami, mo.\nNice to meet you, mo."
+    },
+    {
+      "$id": 18,
+      "label": "qst102101_msg0105",
+      "style": 84,
+      "name": "Judith."
+    },
+    {
+      "$id": 19,
+      "label": "qst102101_msg0106",
+      "style": 84,
+      "name": "...Arthem."
+    },
+    {
+      "$id": 20,
+      "label": "qst102101_msg0107",
+      "style": 84,
+      "name": "I have a subjugation mission\nfor the four of you."
+    },
+    {
+      "$id": 21,
+      "label": "qst102101_msg0108",
+      "style": 84,
+      "name": "We've confirmed twelve\nSpike Unins in the area."
+    },
+    {
+      "$id": 22,
+      "label": "qst102101_msg0109",
+      "style": 84,
+      "name": "They're nasty creatures... I need\nyou to take out every last one."
+    },
+    {
+      "$id": 23,
+      "label": "qst102101_msg0110",
+      "style": 84,
+      "name": "That's a lot..."
+    },
+    {
+      "$id": 24,
+      "label": "qst102101_msg0111",
+      "style": 84,
+      "name": "Which is why you'll need\nto work together on this."
+    },
+    {
+      "$id": 25,
+      "label": "qst102101_msg0112",
+      "style": 84,
+      "name": "I refuse."
+    },
+    {
+      "$id": 26,
+      "label": "qst102101_msg0113",
+      "style": 84,
+      "name": "I came to this mercenary corps\nso I could do things my way."
+    },
+    {
+      "$id": 27,
+      "label": "qst102101_msg0114",
+      "style": 84,
+      "name": "Teaming up with people whose skills\nI don't even know? No thanks."
+    },
+    {
+      "$id": 28,
+      "label": "qst102101_msg0115",
+      "style": 84,
+      "name": "Um, Judith-san? Please don't\ndisrupt the group, mo."
+    },
+    {
+      "$id": 29,
+      "label": "qst102101_msg0116",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenary Corps,\nunder the banner of cooperation..."
+    },
+    {
+      "$id": 30,
+      "label": "qst102101_msg0117",
+      "style": 84,
+      "name": "Let's split up."
+    },
+    {
+      "$id": 31,
+      "label": "qst102101_msg0118",
+      "style": 84,
+      "name": "I was still talking, mo...!"
+    },
+    {
+      "$id": 32,
+      "label": "qst102101_msg0119",
+      "style": 84,
+      "name": "Agreed."
+    },
+    {
+      "$id": 33,
+      "label": "qst102101_msg0120",
+      "style": 84,
+      "name": "For a Superbian, you\nactually make a good point."
+    },
+    {
+      "$id": 34,
+      "label": "qst102101_msg0121",
+      "style": 84,
+      "name": "Three each, then."
+    },
+    {
+      "$id": 35,
+      "label": "qst102101_msg0122",
+      "style": 84,
+      "name": "But if we get separated..."
+    },
+    {
+      "$id": 36,
+      "label": "qst102101_msg0123",
+      "style": 84,
+      "name": "This way is more efficient."
+    },
+    {
+      "$id": 37,
+      "label": "qst102101_msg0124",
+      "style": 84,
+      "name": "Hmph... Fine. After you're done, let's\nmeet at the camp overlooking Faaren\nWaters, mo."
+    },
+    {
+      "$id": 38,
+      "label": "qst102101_msg0125",
+      "style": 84,
+      "name": "That place? Fine."
+    },
+    {
+      "$id": 39,
+      "label": "qst102101_msg0126",
+      "style": 84,
+      "name": "Understood."
+    },
+    {
+      "$id": 40,
+      "label": "qst102101_msg0127",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] Hmmm... Is this \"freedom,\"\nor are they just all\nincredibly stubborn...?"
+    },
+    {
+      "$id": 41,
+      "label": "qst102101_msg0128",
+      "style": 84,
+      "name": "...I wish you the best of luck."
+    }
+  ]
+}

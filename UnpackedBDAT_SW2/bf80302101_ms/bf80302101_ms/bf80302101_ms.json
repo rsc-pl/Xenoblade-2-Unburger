@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "51890101",
+      "style": 82,
+      "name": "Don-don-doko-don♪ Don-doko-don♪"
+    },
+    {
+      "$id": 2,
+      "label": "51890102",
+      "style": 82,
+      "name": "Raiko is born!!"
+    },
+    {
+      "$id": 3,
+      "label": "51890103",
+      "style": 82,
+      "name": "Rrrrrrumble...!"
+    },
+    {
+      "$id": 4,
+      "label": "51890104",
+      "style": 82,
+      "name": "BOOM!!!"
+    },
+    {
+      "$id": 5,
+      "label": "51890105",
+      "style": 82,
+      "name": "Sniff... Waaaaaaah!!"
+    },
+    {
+      "$id": 6,
+      "label": "51890106",
+      "style": 82,
+      "name": "Things don't always work out, but I'll do my best!!"
+    }
+  ]
+}

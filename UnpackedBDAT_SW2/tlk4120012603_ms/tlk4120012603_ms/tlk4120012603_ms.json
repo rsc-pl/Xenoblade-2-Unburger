@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200126_03_msg0001",
+      "style": 84,
+      "name": "People who evacuated from\nAcedia and Superbia have\ncome to Torigo Base."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200126_03_msg0002",
+      "style": 84,
+      "name": "We're holding a Torigoriuto\nconcert soon, to soothe their\nsadness, even just a little."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200126_03_msg0003",
+      "style": 84,
+      "name": "I'll be performing, too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200126_03_msg0004",
+      "style": 84,
+      "name": "...It might be tough for them now,\nbut I hope they can enjoy it."
+    }
+  ]
+}

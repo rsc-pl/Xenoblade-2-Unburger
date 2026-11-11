@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9301801_01_msg0001",
+      "style": 84,
+      "name": "Even a tea party costs money."
+    },
+    {
+      "$id": 2,
+      "label": "tlk9301801_01_msg0002",
+      "style": 84,
+      "name": "Leave it to me and I'll rake in\nthe money!"
+    }
+  ]
+}

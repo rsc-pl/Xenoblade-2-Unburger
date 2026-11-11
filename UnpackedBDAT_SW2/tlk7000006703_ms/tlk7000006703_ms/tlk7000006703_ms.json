@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000067_03_msg0001",
+      "style": 84,
+      "name": "My inn may be small, but\nI still get customers."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000067_03_msg0002",
+      "style": 84,
+      "name": "I get to hear plenty of stories\nfrom travelers, too. It's one\nof life's little pleasures..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000067_03_msg0003",
+      "style": 84,
+      "name": "Never understood what the\ndeal with Acedia is though."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000067_03_msg0004",
+      "style": 84,
+      "name": "I've heard that while God's salvation\nis spread, scientists also come and go\nfrom the Holy See."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000067_03_msg0005",
+      "style": 84,
+      "name": "That combination of \"science and God\"\njust doesn't sit right with me."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000067_03_msg0006",
+      "style": 84,
+      "name": "Science is about using human effort to\nuncover how the world works, right? It\nseems incompatible with salvation..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000067_03_msg0007",
+      "style": 84,
+      "name": "Maybe I only feel that way because I'm\nuneducated."
+    }
+  ]
+}

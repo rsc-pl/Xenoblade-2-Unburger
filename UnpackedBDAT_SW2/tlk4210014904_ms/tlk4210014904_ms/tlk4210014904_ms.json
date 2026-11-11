@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100149_04_msg0001",
+      "style": 84,
+      "name": "Ch-Chamomo won't say anything, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100149_04_msg0002",
+      "style": 84,
+      "name": "E-especially about former\nChairman Bahn, I won't say\na single thing, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100149_04_msg0003",
+      "style": 84,
+      "name": "The previous chairman told me to\nhelp, that's all. Chamomo didn't take\npart in any of the bad stuff, mo."
+    }
+  ]
+}

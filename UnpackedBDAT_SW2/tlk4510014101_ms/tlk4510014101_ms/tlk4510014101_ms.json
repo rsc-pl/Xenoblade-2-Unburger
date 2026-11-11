@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100141_01_msg0001",
+      "style": 84,
+      "name": "I can't thank the mercenaries\nhere enough. Thanks to them, me\nand my dad can live in peace!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100141_01_msg0002",
+      "style": 84,
+      "name": "My dad's a scientist. Invidia was\nafter him to make him develop\nweapons..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45100141_01_msg0004",
+      "style": 84,
+      "name": "They almost caught us, but\nthe mercenaries from here\nshowed up and saved us!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45100141_01_msg0005",
+      "style": 84,
+      "name": "They even gave us a place to live and\nfood to eat... I'm really grateful."
+    }
+  ]
+}

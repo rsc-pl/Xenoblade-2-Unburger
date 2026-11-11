@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000131_10_msg0001",
+      "style": 84,
+      "name": "You helped out my dad before, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000131_10_msg0002",
+      "style": 84,
+      "name": "Thanks!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000131_10_msg0003",
+      "style": 84,
+      "name": "My mom and dad were so happy they\nmade me an extra big dinner!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000131_10_msg0004",
+      "style": 84,
+      "name": "It was so good..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000131_10_msg0005",
+      "style": 84,
+      "name": "When I grow up, I'll become strong\nenough to help people, just like you,\nOnii-san and Onee-san."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000131_10_msg0006",
+      "style": 84,
+      "name": "First, I have to learn archery\nfrom my father..."
+    }
+  ]
+}

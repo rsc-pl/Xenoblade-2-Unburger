@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45420151_02_msg0001",
+      "style": 84,
+      "name": "The other night, after I'd\nbeen drinking, I got questioned\nby these military types."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45420151_02_msg0002",
+      "style": 84,
+      "name": "They were asking if I had anything\nto do with that mechanical girl."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45420151_02_msg0003",
+      "style": 84,
+      "name": "Come on, that'd never happen.\nI wouldn't start a huge fight\nin the heart of the capital!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45420151_02_msg0004",
+      "style": 84,
+      "name": "The imperial army got badly\nbeaten by her, so now they're\ndesperate to find her."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45420151_02_msg0005",
+      "style": 84,
+      "name": "Be careful they don't mistake you for\naccomplices too."
+    }
+  ]
+}

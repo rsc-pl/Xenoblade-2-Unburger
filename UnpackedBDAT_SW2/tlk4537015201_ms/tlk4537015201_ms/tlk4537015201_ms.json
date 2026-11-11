@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370152_01_msg0001",
+      "style": 84,
+      "name": "With the tensions with Invidia\nriding high for so long, our\nmilitary expenses just keep going up."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370152_01_msg0002",
+      "style": 84,
+      "name": "Sooner or later, the funds we earn\nfrom Gula and the surrounding minor\nnations won't be enough to cover them."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370152_01_msg0003",
+      "style": 84,
+      "name": "If we don't do something about this\nsoon, our national coffers will run\ndry and our people will starve!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45370152_01_msg0004",
+      "style": 84,
+      "name": "Solving difficult problems is the duty\nof our Imperial Senate. Now, what\nshould I propose to the Senate..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45400251_03_msg0001",
+      "style": 84,
+      "name": "I want to send Shenka to visit\nGula someday so she can try\nthe confections there."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45400251_03_msg0002",
+      "style": 84,
+      "name": "Apparently Superbian cuisine is\nconsidered bad food by the rest of\nAlst."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45400251_03_msg0003",
+      "style": 84,
+      "name": "So I want to give Shenka the chance\nto try Gulan cuisine, which is\nsupposed to be quite delicious."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45400251_03_msg0004",
+      "style": 84,
+      "name": "I'm sure it would help her\nto improve her own recipes."
+    }
+  ]
+}

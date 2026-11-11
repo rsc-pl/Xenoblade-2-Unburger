@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000075_03_msg001",
+      "style": 84,
+      "name": "It's not my first time losing a\ncomrade in battle. I thought I\nknew how to deal with this."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000075_03_msg002",
+      "style": 84,
+      "name": "But somehow I can't seem to accept\nthat Meknes is just...gone."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000075_03_msg003",
+      "style": 84,
+      "name": "I guess it was all so sudden that\nmy brain hasn't caught up..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000075_03_msg004",
+      "style": 84,
+      "name": "If only I could at least understand\nwhat was going through that person's\nmind..."
+    }
+  ]
+}

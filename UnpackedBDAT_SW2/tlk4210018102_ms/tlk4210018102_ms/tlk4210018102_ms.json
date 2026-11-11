@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_02_msg0001",
+      "style": 84,
+      "name": "Yay, mo! More time to play\nwith Grandpa, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_02_msg0002",
+      "style": 84,
+      "name": "They say they're dropping the rule\nthat you need permission to bring in\ngoods, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_02_msg0003",
+      "style": 84,
+      "name": "Magomago thought it was a pain,\ntoo, mo! A brilliant decision, mo!"
+    }
+  ]
+}

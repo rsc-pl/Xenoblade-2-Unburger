@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4234011301_msg0001",
+      "style": 84,
+      "name": "Toatoa is studying history\nfrom salvaged items, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4234011301_msg0002",
+      "style": 84,
+      "name": "No one knows if salvaged items\nwere actually used in the way\ntheir names suggest, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4234011301_msg0003",
+      "style": 84,
+      "name": "For example, the Giant's Black Ring\nis said to be a giant's ring, but...\nthe giant has never been found, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4234011301_msg0004",
+      "style": 84,
+      "name": "See? Doesn't that spark your sense\nof adventure, mo? It's fun, mo!"
+    }
+  ]
+}

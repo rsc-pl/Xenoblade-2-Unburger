@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200404_msg0001",
+      "style": 84,
+      "name": "A loan shark? You shouldn't\nborrow money from that guy."
+    },
+    {
+      "$id": 2,
+      "label": "qst200404_msg0002",
+      "style": 84,
+      "name": "He's in league with a\ndoctor named Celian."
+    },
+    {
+      "$id": 3,
+      "label": "qst200404_msg0003",
+      "style": 84,
+      "name": "The doctor charges high medical\nfees, and if they can't pay, sends\nthem to his favorite loan shark..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200404_msg0004",
+      "style": 84,
+      "name": "It's truly terrifying..."
+    },
+    {
+      "$id": 5,
+      "label": "qst200404_msg0005",
+      "style": 84,
+      "name": "You all be careful not to\nend up under Celian's care."
+    },
+    {
+      "$id": 6,
+      "label": "qst200404_msg0101",
+      "style": 84,
+      "name": "Be careful of that doctor, Celian."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000122_05_msg0001",
+      "style": 84,
+      "name": "So you're heading for Iira's Core...\nOne last piece of advice from this\nexpert adventurer... no, from me."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000122_05_msg0002",
+      "style": 84,
+      "name": "Cross Dana Desert from the capital.\nAt Lake Alegria, you should see a\nnarrow forest path nearby."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000122_05_msg0003",
+      "style": 84,
+      "name": "Follow the path and make for\nthe series of stone pillars\nlining a large stairway."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000122_05_msg0004",
+      "style": 84,
+      "name": "There's a gate to the core beyond,\nbut it's long been sealed. No one\nknows what's inside now."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000122_05_msg0005",
+      "style": 84,
+      "name": "Hah... I've been imitating Prince\nAdel, who's rumored to be a prodigal,\nbut it doesn't seem to suit me..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000122_05_msg0006",
+      "style": 84,
+      "name": "But you... I believe you'll be able\nto save Iira because you truly are\nheroes... Please protect this country!"
+    }
+  ]
+}

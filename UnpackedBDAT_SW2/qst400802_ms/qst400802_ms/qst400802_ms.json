@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400802_msg0001",
+      "style": 84,
+      "name": "Saw him, mo! Saw him, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk400802_msg0002",
+      "style": 84,
+      "name": "A scruffy-looking boy ran up\nthe stairs like a flash, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk400802_msg0003",
+      "style": 84,
+      "name": "Popipii has traveled to many\ncountries, and there are kids\nlike that everywhere, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk400802_msg0004",
+      "style": 84,
+      "name": "In Superbia, in Invidia, and even\nin Acedia, the gap between rich\nand poor is still there, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk400802_msg0005",
+      "style": 84,
+      "name": "It's a shame, mo..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk400802_msg0006",
+      "style": 84,
+      "name": "Wait, are you chasing him\nbecause he stole something, mo?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk400802_msg0007",
+      "style": 84,
+      "name": "*Sigh*... When you're traveling,\nit's a rule to keep your valuables\non you at all times, mo."
+    },
+    {
+      "$id": 8,
+      "label": "tlk400802_msg0008",
+      "style": 84,
+      "name": "I'm sorry... I'll be more\ncareful from now on..."
+    }
+  ]
+}

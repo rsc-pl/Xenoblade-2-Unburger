@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00350105_msg0001",
+      "style": 84,
+      "name": "Now that I'm the one teaching,\nI have no idea how to teach anyone."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00350105_msg0002",
+      "style": 84,
+      "name": "The others don't seem as sharp as\nwhen the Boss was teaching them..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00350105_msg0003",
+      "style": 84,
+      "name": "It's probably my teaching\nmethod that's bad."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00350105_msg0004",
+      "style": 84,
+      "name": "...*sigh* I hope the\nBoss comes back soon."
+    }
+  ]
+}

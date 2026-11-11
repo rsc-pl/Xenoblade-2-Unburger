@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000048_04_msg0001",
+      "style": 84,
+      "name": "Kai's been acting odd lately.\nHe won't eat with me. Truth is,\nI think he's avoiding me."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000048_04_msg0002",
+      "style": 84,
+      "name": "Augusto told me, 'At times like this,\ngive him good food or a woman and\nhe'll be fine the next day.'"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000048_04_msg0003",
+      "style": 84,
+      "name": "That would only work for Augusto. He's\npractically made of booze, women, and\ngood food."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000048_04_msg0004",
+      "style": 84,
+      "name": "That woke me up. I should listen more\nclosely to my son, not other people."
+    }
+  ]
+}

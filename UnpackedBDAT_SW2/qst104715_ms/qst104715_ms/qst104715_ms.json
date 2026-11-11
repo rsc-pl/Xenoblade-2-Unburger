@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104715_msg001",
+      "style": 62,
+      "name": "Are the monsters outside dealt with?"
+    },
+    {
+      "$id": 2,
+      "label": "qst104715_msg101",
+      "style": 62,
+      "name": "Thank you, you saved us."
+    }
+  ]
+}

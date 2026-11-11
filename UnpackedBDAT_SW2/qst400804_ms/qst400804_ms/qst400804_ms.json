@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400804_msg0001",
+      "style": 84,
+      "name": "Sorry, I didn't see him...\nI was absorbed in my work."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400804_msg0002",
+      "style": 84,
+      "name": "But if you're sure he came this\nway, why not ask someone else?"
+    }
+  ]
+}

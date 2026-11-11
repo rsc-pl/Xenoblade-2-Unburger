@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_02_msg0001",
+      "style": 84,
+      "name": "It's been nearly 50 years since Gula\nwas placed under Superbian rule."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_02_msg0002",
+      "style": 84,
+      "name": "Gula used to have its own army. My old\nman was one of its leading figures.\nHardly anything remains of it now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_02_msg0003",
+      "style": 84,
+      "name": "The Gulan army was disbanded after\nour defeat. Now there are only small\nself-defense corps for each tribe."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_02_msg0004",
+      "style": 84,
+      "name": "At a glance, it might seem like we're\nbeing ruled, but you could also say\nwe're protected from other nations."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41700121_02_msg0005",
+      "style": 84,
+      "name": "Superbia leaves Gulan culture alone.\nAs long as it protects that, life in\nGula is comfortable enough."
+    }
+  ]
+}

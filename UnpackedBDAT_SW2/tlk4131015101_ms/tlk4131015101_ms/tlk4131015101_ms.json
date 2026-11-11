@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310151_01_msg0001",
+      "style": 84,
+      "name": "Hey, there! Thank you so much for\nall your help the other day."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310151_01_msg0002",
+      "style": 84,
+      "name": "Dad is being interrogated, but it\nseems he's testifying honestly."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310151_01_msg0003",
+      "style": 84,
+      "name": "They say there are extenuating\ncircumstances, so... maybe someday\nhe can return to my younger brothers."
+    }
+  ]
+}

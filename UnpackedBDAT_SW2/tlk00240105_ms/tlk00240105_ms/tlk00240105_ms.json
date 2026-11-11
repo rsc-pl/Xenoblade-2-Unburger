@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00240105_msg0001",
+      "style": 84,
+      "name": "...Ah! I'm sorry, I was\nlost in my book..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00240105_msg0002",
+      "style": 84,
+      "name": "I just can't stop thinking\nabout Uncle Vandham..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00240105_msg0003",
+      "style": 84,
+      "name": "Grandpa told me it's good to\nread at times like this, so\nI've been reading a lot."
+    }
+  ]
+}

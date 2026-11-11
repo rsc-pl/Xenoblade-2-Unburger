@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000018_01_msg0001",
+      "style": 84,
+      "name": "Hey! Are you Drivers\nand Blades, perhaps?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000018_01_msg0002",
+      "style": 84,
+      "name": "Have you ever come across places you\nthought you could reach but couldn't,\nor paths you couldn't go down?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000018_01_msg0003",
+      "style": 84,
+      "name": "At times like those, I'd recommend\nyou make use of the Blades' powers."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000018_01_msg0004",
+      "style": 84,
+      "name": "Even when a Driver's strength alone\nhits a dead end, a Blade's power may\nopen a new path."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000018_01_msg0005",
+      "style": 84,
+      "name": "I'm not a Driver, of course! But if\nthere was a Blade with fishing powers,\nyou bet I'd want its help. Heh."
+    }
+  ]
+}

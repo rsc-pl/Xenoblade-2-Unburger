@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst710501_msg0001",
+      "style": 84,
+      "name": "I'm compiling an encyclopedia of\nunique monsters from various regions."
+    },
+    {
+      "$id": 2,
+      "label": "qst710501_msg0002",
+      "style": 84,
+      "name": "I've been to Shiya, Superbia,\nLiberalitas, Invidia, and\nEstham, and now I'm here."
+    },
+    {
+      "$id": 3,
+      "label": "qst710501_msg0003",
+      "style": 84,
+      "name": "The main remaining Divine Beasts\nare Iira and Gula, but..."
+    },
+    {
+      "$id": 4,
+      "label": "qst710501_msg0004",
+      "style": 84,
+      "name": "There aren't many skilled fighters\nwho can take on unique monsters,\nso it's hard to get information."
+    },
+    {
+      "$id": 5,
+      "label": "qst710501_msg0005",
+      "style": 84,
+      "name": "But I'm prepared to spend\ndecades compiling it."
+    },
+    {
+      "$id": 6,
+      "label": "qst710501_msg0006",
+      "style": 84,
+      "name": "So which comes first: finishing the\nencyclopedia, or me dying first..."
+    },
+    {
+      "$id": 7,
+      "label": "qst710501_msg0007",
+      "style": 84,
+      "name": "If you can, I'd like\nyou all to help me."
+    },
+    {
+      "$id": 8,
+      "label": "qst710501_msg0008",
+      "style": 84,
+      "name": "Based on my research, there are still\n16 unique monsters missing from\nthe encyclopedia."
+    },
+    {
+      "$id": 9,
+      "label": "qst710501_msg0009",
+      "style": 84,
+      "name": "If you see a monster with a\nunique name in any region,\nthat's a unique monster."
+    },
+    {
+      "$id": 10,
+      "label": "qst710501_msg0010",
+      "style": 84,
+      "name": "Unique monsters are quite tough, but\nI'm counting on your strength to help\nme achieve my lifelong dream."
+    },
+    {
+      "$id": 11,
+      "label": "qst710501_msg0011",
+      "style": 84,
+      "name": "Now, first, please check the\nstatus of the unique monsters\nyou've defeated so far."
+    },
+    {
+      "$id": 12,
+      "label": "qst710501_msg0101",
+      "style": 84,
+      "name": "You all... when you defeat a unique\nmonster, please let me know."
+    },
+    {
+      "$id": 13,
+      "label": "qst710501_msg0102",
+      "style": 84,
+      "name": "Now, these are the unique monsters\nI've heard about so far."
+    },
+    {
+      "$id": 14,
+      "label": "qst710501_msg0103",
+      "style": 84,
+      "name": "There must still be many unique\nmonsters in Iira and Gula that\nneither I nor you know about."
+    }
+  ]
+}

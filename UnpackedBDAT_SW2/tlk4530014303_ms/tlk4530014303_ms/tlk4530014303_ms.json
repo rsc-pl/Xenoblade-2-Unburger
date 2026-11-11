@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300143_02_msg0001",
+      "style": 84,
+      "name": "A mercenary's work always\nkeeps him close to death."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300143_02_msg0002",
+      "style": 84,
+      "name": "I guess even the leader of the\nHræsvelgr Mercenaries is no exception."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300143_02_msg0003",
+      "style": 84,
+      "name": "Vandham was a fine man, a strong\nfighter and a charismatic leader,\nbut death came for him all the same."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300143_02_msg0004",
+      "style": 84,
+      "name": "No time to grieve, especially if\nyou're going to succeed him."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300143_02_msg0005",
+      "style": 84,
+      "name": "For now, just keep moving forward\nwithout stopping."
+    }
+  ]
+}

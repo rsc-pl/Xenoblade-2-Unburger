@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400079_03_msg0001",
+      "style": 84,
+      "name": "We are under strict orders\nto deny entry to the cathedral."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400079_03_msg0002",
+      "style": 84,
+      "name": "Please do not disturb\nMalbeni-sama's supreme rite."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400079_03_msg0003",
+      "style": 84,
+      "name": "If you have no business here,\nI advise leaving Acedia."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104710_msg001",
+      "style": 62,
+      "name": "You've arrived as well. The\nrefugees went to the camp set\nup in the garrison. Let's go too."
+    },
+    {
+      "$id": 2,
+      "label": "qst104710_msg101",
+      "style": 62,
+      "name": "There might be trouble at the upcoming\nmeeting between the people of Torigo\nand the refugees at the consulate."
+    },
+    {
+      "$id": 3,
+      "label": "qst104710_msg102",
+      "style": 62,
+      "name": "I want you to join as bodyguards."
+    },
+    {
+      "$id": 4,
+      "label": "qst104710_msg201",
+      "style": 62,
+      "name": "We will guard the inside\nof the consulate."
+    },
+    {
+      "$id": 5,
+      "label": "qst104710_msg0001",
+      "style": 84,
+      "name": "I wonder if Father and\nEnju-chan are okay..."
+    },
+    {
+      "$id": 6,
+      "label": "qst104710_msg0101",
+      "style": 84,
+      "name": "Father and the others are\nokay? Thank goodness!"
+    }
+  ]
+}

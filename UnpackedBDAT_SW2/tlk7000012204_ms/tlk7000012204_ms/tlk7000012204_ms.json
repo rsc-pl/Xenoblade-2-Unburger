@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000122_04_msg0001",
+      "style": 84,
+      "name": "Wow! You guys are lucky!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000122_04_msg0002",
+      "style": 84,
+      "name": "Hm? Why are you lucky? Isn't it\nobvious? Because you got to meet me\ntoday!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000122_04_msg0003",
+      "style": 84,
+      "name": "For such lucky people, I have\na present for you: some\nvaluable information!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000122_04_msg0004",
+      "style": 84,
+      "name": "Ever seen any stone tablets\nstrewn about Iira?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000122_04_msg0005",
+      "style": 84,
+      "name": "Rumor has it that whoever collects all\nof them can have any wish they want\ngranted, or even bring back the dead."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000122_04_msg0006",
+      "style": 84,
+      "name": "Perhaps if you manage to\ncollect them all, you'll end\nup with even more good luck?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000122_04_msg0007",
+      "style": 84,
+      "name": "Well, an expert adventurer like me,\nblessed with everything, has no need\nfor such things! Hahaha!"
+    }
+  ]
+}

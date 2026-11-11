@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000044_02_msg0001",
+      "style": 84,
+      "name": "Morimori really wants to eat more, but\nMorimori is holding back for now, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000044_02_msg0002",
+      "style": 84,
+      "name": "Food doesn't taste good at all when so\nmany people are suffering, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000044_02_msg0003",
+      "style": 84,
+      "name": "Morimori loves food, but Morimori also\nloves Iira, full of cheerful, kind\npeople, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000044_02_msg0004",
+      "style": 84,
+      "name": "I hope this becomes a city where\neveryone can happily eat again soon,\nmo."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_240_175_msg0001",
+      "style": 84,
+      "name": "Hey, what's that huge\nthing in the harbor?"
+    },
+    {
+      "$id": 2,
+      "label": "fev11_240_175_msg0002",
+      "style": 84,
+      "name": "Ah, that is the Empire's Royal Ship."
+    },
+    {
+      "$id": 3,
+      "label": "fev11_240_175_msg0003",
+      "style": 84,
+      "name": "Whoa! That thing's a...?!"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_240_175_msg0004",
+      "style": 84,
+      "name": "I see. So a ship's imposing presence\nreflects the nation's strength."
+    },
+    {
+      "$id": 5,
+      "label": "fev11_240_175_msg0005",
+      "style": 84,
+      "name": "Since we're here, why\ndon't we all go aboard?"
+    },
+    {
+      "$id": 6,
+      "label": "fev11_240_175_msg0006",
+      "style": 84,
+      "name": "No way! I'm no good with all\nthat formal stuff. I can't even\nswallow fancy court food."
+    },
+    {
+      "$id": 7,
+      "label": "fev11_240_175_msg0007",
+      "style": 84,
+      "name": "If you'd like, I can have them prepare\nsome food from your homeland..."
+    },
+    {
+      "$id": 8,
+      "label": "fev11_240_175_msg0008",
+      "style": 84,
+      "name": "I appreciate it, but I'll\npass. Let's go, Kasumi!"
+    },
+    {
+      "$id": 9,
+      "label": "fev11_240_175_msg0009",
+      "style": 84,
+      "name": "Yes, Laura-sama."
+    },
+    {
+      "$id": 10,
+      "label": "fev11_240_175_msg0010",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] Formality really isn't her thing.\nDoesn't look like that'll ever\nchange..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510182_02_msg0001",
+      "style": 84,
+      "name": "I wonder if outsiders will understand\nus... or look at us coldly..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510182_02_msg0002",
+      "style": 84,
+      "name": "The Luxurian royal family claims\nAdel-sama as its founder... and that\nwas a lie..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510182_02_msg0003",
+      "style": 84,
+      "name": "Everyone seems dismayed by\nthe news, but I'm not\nactually all that bothered."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510182_02_msg0004",
+      "style": 84,
+      "name": "My prayers for Adel-sama are sincere.\nI'm sure they reach somewhere."
+    }
+  ]
+}

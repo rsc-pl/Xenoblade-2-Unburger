@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240009101_msg0001",
+      "style": 84,
+      "name": "I was able to hear a lot of\nstories from my mother, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240009101_msg0002",
+      "style": 84,
+      "name": "I was somehow relieved to know\nthat my mother worried and had\nhard times just like Mimumu, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240009101_msg0003",
+      "style": 84,
+      "name": "I didn't need the World Ruin Cult\n<Anfang Euthanasie>, mo. Thank you\nfor helping me, mo!"
+    }
+  ]
+}

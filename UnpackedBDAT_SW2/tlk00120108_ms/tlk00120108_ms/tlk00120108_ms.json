@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001201_08_msg0001",
+      "style": 84,
+      "name": "An attack from the heavens is\nraining down upon Alst..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001201_08_msg0002",
+      "style": 84,
+      "name": "Fortunately, Luxuria has been\nspared, but Metsu is trying to\ndestroy Alst, isn't he?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk001201_08_msg0003",
+      "style": 84,
+      "name": "We can neither defend against\nthe Devices nor stop them."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001201_08_msg0004",
+      "style": 84,
+      "name": "We have no choice but to leave this\nto you... Alst's future is in\nyour hands."
+    }
+  ]
+}

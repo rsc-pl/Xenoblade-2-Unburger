@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000015_05_msg0001",
+      "style": 84,
+      "name": "Maam is suspicious of\nMakumaku-san, but I think\nMakumaku-san can be trusted."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000015_05_msg0002",
+      "style": 84,
+      "name": "Since Macmac-san came, the shopping\ndistrict's atmosphere changed again.\nIt's no longer Morumo's one-man show."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000015_05_msg0003",
+      "style": 84,
+      "name": "Everyone has started attending the\nChamber of Commerce meetings\nregularly too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000015_05_msg0004",
+      "style": 84,
+      "name": "It's true that better communication\nhas improved a lot of things, but\npeople are just more invested now."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000015_05_msg0005",
+      "style": 84,
+      "name": "And... I think Makumaku-san is the one\nwho planted that seed."
+    }
+  ]
+}

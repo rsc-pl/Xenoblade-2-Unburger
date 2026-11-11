@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103208_msg001",
+      "style": 62,
+      "name": "Interception preparations\nare complete!"
+    },
+    {
+      "$id": 2,
+      "label": "qst103208_msg002",
+      "style": 62,
+      "name": "Leave the next one to us!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103208_msg003",
+      "style": 62,
+      "name": "Please hurry to the factory."
+    },
+    {
+      "$id": 4,
+      "label": "qst103208_msg004",
+      "style": 62,
+      "name": "Excuse me, please take care of\nthe enemies that got away!"
+    }
+  ]
+}

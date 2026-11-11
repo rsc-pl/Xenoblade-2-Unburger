@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02250100_0010",
+      "style": 82,
+      "name": "With this, I won't be found out, right?"
+    },
+    {
+      "$id": 2,
+      "label": "bf02250100_0020",
+      "style": 82,
+      "name": "Thanks, Tora!"
+    },
+    {
+      "$id": 3,
+      "label": "bf02250100_0030",
+      "style": 82,
+      "name": "Now, let's go look for Boss's friend, mo."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104210_msg0001",
+      "style": 84,
+      "name": "Thank you for your invitation~\nI've come all the way to\nIyasaki Village~!"
+    },
+    {
+      "$id": 2,
+      "label": "qst104210_msg0002",
+      "style": 84,
+      "name": "I hope the students will learn\nmany things from the texts~!"
+    }
+  ]
+}

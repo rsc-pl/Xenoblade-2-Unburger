@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000027_03_msg0001",
+      "style": 84,
+      "name": "Not only Knight Laura-sama, but even\nShin-sama, Iira's secret treasure, has\nreturned..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000027_03_msg0002",
+      "style": 84,
+      "name": "Who would have thought I would\nbe here to witness such a\nremarkable event in history?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000027_03_msg0003",
+      "style": 84,
+      "name": "Laura-sama, Shin-sama, and of course\nAdel-sama! Please continue to guide\nthis country!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000027_03_msg0004",
+      "style": 84,
+      "name": "Nittle will etch your gallant figures\ninto memory and pass this historic\nmoment down through the ages!"
+    }
+  ]
+}

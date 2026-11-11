@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 3,
+      "name": "Merc Group Action"
+    },
+    {
+      "$id": 2,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]Merc Group Action[/System:Color] is unlocked.\nControl Blades to complete missions.\nStart from the [System:Color name=tutorial ]Merc Group menu[/System:Color]."
+    },
+    {
+      "$id": 3,
+      "style": 160,
+      "name": "Completing a Merc Group Action mission\nalso completes its Merc Group mission."
+    },
+    {
+      "$id": 4,
+      "style": 160,
+      "name": "Enemies defeated in Merc Group Action\n[System:Color name=tutorial ]do not count[/System:Color] toward quest defeat objectives."
+    },
+    {
+      "$id": 5,
+      "style": 3,
+      "name": "Normal Attacks"
+    },
+    {
+      "$id": 6,
+      "style": 160,
+      "name": "Switch Blades using the [System:Color name=tutorial ][ML:icon icon=ZL ] button[/System:Color] and [System:Color name=tutorial ][ML:icon icon=ZR ] button\n[/System:Color], or the [System:Color name=tutorial ][ML:icon icon=left ] button[/System:Color] and [System:Color name=tutorial ][ML:icon icon=right ] button[/System:Color]."
+    },
+    {
+      "$id": 7,
+      "style": 160,
+      "name": "Press the [System:Color name=tutorial ][ML:icon icon=A ] button[/System:Color] to perform a normal attack.\nKeep pressing it to unleash more powerful [System:Color name=tutorial ]combo attacks[/System:Color]."
+    },
+    {
+      "$id": 8,
+      "style": 3,
+      "name": "Role Arts"
+    },
+    {
+      "$id": 9,
+      "style": 160,
+      "name": "Keep landing normal attacks.\nYou can then press the [System:Color name=tutorial ][ML:icon icon=B ] button[/System:Color]\nto activate [System:Color name=tutorial ]Role Arts[/System:Color]."
+    },
+    {
+      "$id": 10,
+      "style": 160,
+      "name": "Using Role Arts creates [System:Color name=tutorial ]Ether Pods[/System:Color] with various bonus effects."
+    },
+    {
+      "$id": 11,
+      "style": 3,
+      "name": "Ether Pods"
+    },
+    {
+      "$id": 12,
+      "style": 160,
+      "name": "Attacking or using Role Arts creates [System:Color name=tutorial ]Ether Pods[/System:Color].\nCollect them to gain various [System:Color name=tutorial ]bonuses[/System:Color].\nThey decrease over time, so maintaining them is key."
+    },
+    {
+      "$id": 13,
+      "style": 160,
+      "name": "Red Attack Pods [System:Color name=tutorial ]increase damage dealt[/System:Color]."
+    },
+    {
+      "$id": 14,
+      "style": 160,
+      "name": "Blue Armor Pods [System:Color name=tutorial ]reduce damage taken[/System:Color]."
+    },
+    {
+      "$id": 15,
+      "style": 160,
+      "name": "Yellow Recast Pods [System:Color name=tutorial ]increase Art recharge speed[/System:Color]."
+    },
+    {
+      "$id": 16,
+      "style": 160,
+      "name": "Green Heal Pods [System:Color name=tutorial ]restore a Blade's HP[/System:Color]."
+    },
+    {
+      "$id": 17,
+      "style": 3,
+      "name": "Special Arts"
+    },
+    {
+      "$id": 18,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]Normal attacks[/System:Color] fill the [System:Color name=tutorial ]Special Gauge[/System:Color],\nlighting up character icons as it fills."
+    },
+    {
+      "$id": 19,
+      "style": 160,
+      "name": "When the Special Gauge is full,\npress the [System:Color name=tutorial ][ML:icon icon=X ] button[/System:Color] to use a powerful [System:Color name=tutorial ]Special Art[/System:Color]."
+    },
+    {
+      "$id": 20,
+      "style": 3,
+      "name": "Fever Time"
+    },
+    {
+      "$id": 21,
+      "style": 160,
+      "name": "When the Fever Gauge is full,\npress the [ML:icon icon=plus ][System:Color name=tutorial ] button[/System:Color] to activate [System:Color name=tutorial ]Fever Time[/System:Color]!"
+    },
+    {
+      "$id": 22,
+      "style": 160,
+      "name": "During Fever Time, [System:Color name=tutorial ]Special Arts recharge faster[/System:Color] and\n[System:Color name=tutorial ]attack speed increases[/System:Color], while the [System:Color name=tutorial ]number of Ether Pods[/System:Color] grows.\nYou can also [System:Color name=tutorial ]knock enemies Down[/System:Color]."
+    },
+    {
+      "$id": 23,
+      "style": 160,
+      "name": "Vandham's Guidebook"
+    },
+    {
+      "$id": 24,
+      "style": 160,
+      "name": "You can review these explanations at\nany time while Merc Group Action is paused."
+    },
+    {
+      "$id": 25,
+      "style": 160,
+      "name": "If you get stuck, try reviewing\nwhat you have learned."
+    },
+    {
+      "$id": 26,
+      "style": 3,
+      "name": "Mission Types"
+    },
+    {
+      "$id": 27,
+      "style": 160,
+      "name": "There are several types of missions,\nwith different completion conditions.\nKeep these in mind when forming a team."
+    },
+    {
+      "$id": 28,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]Defeat[/System:Color]: [System:Color name=tutorial ]defeat all enemies[/System:Color].\n[System:Color name=tutorial ]Escort[/System:Color]: [System:Color name=tutorial ]protect the target from being destroyed.\nCollection[/System:Color]: [System:Color name=tutorial ]collect items by defeating enemies[/System:Color]."
+    },
+    {
+      "$id": 29,
+      "style": 160,
+      "name": "Completing the objective of each type\nis the condition for clearing the mission."
+    },
+    {
+      "$id": 30,
+      "style": 3,
+      "name": "Field Gimmick"
+    },
+    {
+      "$id": 31,
+      "style": 160,
+      "name": "[System:Color name=tutorial ]Field Gimmicks[/System:Color] appear in\nMerc Group Action missions."
+    },
+    {
+      "$id": 32,
+      "style": 160,
+      "name": "Activating a Field Gimmick grants various benefits.\nThey can be activated with [System:Color name=tutorial ]Field Skills[/System:Color],\nso consider that when forming your team."
+    },
+    {
+      "$id": 33,
+      "style": 3,
+      "name": "Roles"
+    },
+    {
+      "$id": 34,
+      "style": 160,
+      "name": "Blades each have a [System:Color name=tutorial ]Role[/System:Color].\nThe combination of Roles can greatly change the difficulty.\nIf you get stuck, try changing your team."
+    },
+    {
+      "$id": 35,
+      "style": 160,
+      "name": "The [System:Color name=tutorial ]Attack Role[/System:Color] has [System:Color name=tutorial ]high offensive power[/System:Color].\nIt has the highest attack power of any Role\nand helps shorten battles."
+    },
+    {
+      "$id": 36,
+      "style": 160,
+      "name": "The [System:Color name=tutorial ]Defense Role[/System:Color] has [System:Color name=tutorial ]high defensive power[/System:Color].\nIt more easily draws enemy attention,\nprotecting allies and escort targets."
+    },
+    {
+      "$id": 37,
+      "style": 160,
+      "name": "The [System:Color name=tutorial ]Healing Role[/System:Color] [System:Color name=tutorial ]heals allies' wounds[/System:Color]\nand specializes in keeping the team fighting.\nChoosing Roles for the mission is key."
+    },
+    {
+      "$id": 38,
+      "style": 3,
+      "name": "Elemental Orbs"
+    },
+    {
+      "$id": 39,
+      "style": 160,
+      "name": "Landing Special Arts can attach up to\nthree [System:Color name=tutorial ]Elemental Orbs[/System:Color] to enemies."
+    },
+    {
+      "$id": 40,
+      "style": 160,
+      "name": "Special Arts can damage Elemental Orbs.\nDestroy one to trigger an [System:Color name=tutorial ]Elemental Burst[/System:Color]\nand deal even more damage. A Special Art\nof the opposite element can [System:Color name=tutorial ]break one in a single hit[/System:Color]."
+    },
+    {
+      "$id": 41,
+      "style": 160,
+      "name": "Combining Attack Pods with the\ndamage bonus from knocking enemies Down\ncan let you deal enormous damage."
+    },
+    {
+      "$id": 42,
+      "style": 3,
+      "name": "Link Skills"
+    },
+    {
+      "$id": 43,
+      "style": 160,
+      "name": "In Merc Group Action battles,\n[System:Color name=tutorial ]Link Skills[/System:Color] can activate when\nspecific pairs are in your team."
+    },
+    {
+      "$id": 44,
+      "style": 160,
+      "name": "You can check which pairs activate\na Link Skill and what it does\nwhen selecting Blades to deploy."
+    },
+    {
+      "$id": 45,
+      "style": 3,
+      "name": "Guard"
+    },
+    {
+      "$id": 46,
+      "style": 160,
+      "name": "Press the [System:Color name=tutorial ][ML:icon icon=Y ] button[/System:Color] to [System:Color name=tutorial ]guard[/System:Color].\nGuarding [System:Color name=tutorial ]greatly reduces damage taken[/System:Color].\nTime it against powerful attacks to fight efficiently."
+    },
+    {
+      "$id": 47,
+      "style": 3,
+      "name": "Switching Blades"
+    },
+    {
+      "$id": 48,
+      "style": 3,
+      "name": "Attack Pod"
+    },
+    {
+      "$id": 49,
+      "style": 3,
+      "name": "Armor Pod"
+    },
+    {
+      "$id": 50,
+      "style": 3,
+      "name": "Heal Pod"
+    },
+    {
+      "$id": 51,
+      "style": 3,
+      "name": "Recast Pod"
+    },
+    {
+      "$id": 52,
+      "style": 3,
+      "name": "Attack Role"
+    },
+    {
+      "$id": 53,
+      "style": 3,
+      "name": "Defense Role"
+    },
+    {
+      "$id": 54,
+      "style": 3,
+      "name": "Healing Role"
+    }
+  ]
+}

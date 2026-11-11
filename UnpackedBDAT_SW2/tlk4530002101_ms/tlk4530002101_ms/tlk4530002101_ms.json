@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300021_01_msg0001",
+      "style": 84,
+      "name": "I moved my family here from\nSuperbia because I heard it was\na really safe place to live..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300021_01_msg0002",
+      "style": 84,
+      "name": "I never expected Iira and Kagutsuchi-\nsama, the jewel of Superbia, to fight\nhere."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300021_01_msg0003",
+      "style": 84,
+      "name": "I just want my wife and daughter to\nhave a peaceful life, but at this\nrate, it seems this isn't it..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300021_01_msg0004",
+      "style": 84,
+      "name": "I hope all this gets sorted out\nsooner rather than later. It feels\nlike the whole city's on edge."
+    }
+  ]
+}

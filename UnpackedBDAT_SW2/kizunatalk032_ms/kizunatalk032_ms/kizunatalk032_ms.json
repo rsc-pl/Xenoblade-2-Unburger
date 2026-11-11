@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk032_msg0001",
+      "style": 84,
+      "name": "Hmm... what's this? \"The\nhero's favorite dish\"?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk032_msg0002",
+      "style": 84,
+      "name": "What's up, Nia? Did you find\nsomething you want to eat?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk032_msg0003",
+      "style": 84,
+      "name": "Hey! Great find, Nia!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk032_msg0004",
+      "style": 84,
+      "name": "This is a famous dish hero Adel\nis said to have loved long ago!"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk032_msg0005",
+      "style": 84,
+      "name": "They say it's made with traditional\nspices from 500 years ago."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk032_msg0006",
+      "style": 84,
+      "name": "Well, Luxuria is freezing,\nso it makes sense Adel\nwould like spicy food."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk032_msg0007",
+      "style": 84,
+      "name": "Spicy food...?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk032_msg0008",
+      "style": 84,
+      "name": "Adel liked this sort of thing?\nEven the hero had strange tastes..."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk032_msg0009",
+      "style": 84,
+      "name": "That's rude, Nia. It's\nactually quite delicious."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk032_msg0010",
+      "style": 84,
+      "name": "Don't tell me you can't\nhandle spicy food?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk032_msg0011",
+      "style": 84,
+      "name": "What... is it wrong to\nnot like spicy food?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk032_msg0012",
+      "style": 84,
+      "name": "Hahaha! You may act tough, but\nyou're still a kid at heart..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk032_msg0013",
+      "style": 84,
+      "name": "What's that supposed to mean!?\nAre you picking a fight, Turtle!?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk032_msg0014",
+      "style": 84,
+      "name": "Calm down. I'll treat you,\nso just give it a try."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk032_msg0015",
+      "style": 84,
+      "name": "What about you, Hikari? Want some?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk032_msg0016",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk032_msg0017",
+      "style": 84,
+      "name": "Huh? What's up?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk032_msg0018",
+      "style": 84,
+      "name": "About this dish..."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk032_msg0019",
+      "style": 84,
+      "name": "Adel... couldn't handle\nspicy food, you know."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk032_msg0020",
+      "style": 84,
+      "name": "What?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk032_msg0021",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk032_msg0022",
+      "style": 165,
+      "name": "What exactly does that mean?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk032_msg0023",
+      "style": 164,
+      "name": "Wasn't Hero Adel-yaki your favorite?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk032_msg0024",
+      "style": 164,
+      "name": "So the advertising\nslogan is just lying?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk032_msg0101",
+      "style": 84,
+      "name": "That's right. I've never\nseen him eating it."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk032_msg0102",
+      "style": 84,
+      "name": "Adel would get a stomachache from\neven the mildest spicy food."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk032_msg0103",
+      "style": 84,
+      "name": "Haha! So even the great hero\nhad some childish traits..."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk032_msg0104",
+      "style": 84,
+      "name": "That's a lie! If I hear that..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk032_msg0105",
+      "style": 84,
+      "name": "My whole image of the hero\nAdel is crumbling away!"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk032_msg0106",
+      "style": 84,
+      "name": "Hey, hey, Hikari, don't you have\nany more interesting stories?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk032_msg0107",
+      "style": 84,
+      "name": "Interesting stories, hmm...\nI wonder if there were any?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk032_msg0108",
+      "style": 84,
+      "name": "What was the hero's actual\nfavorite food then?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk032_msg0109",
+      "style": 84,
+      "name": "...I believe Adel was fond\nof pan-fried Tartari."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk032_msg0110",
+      "style": 84,
+      "name": "That's just like Rex!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk032_msg0111",
+      "style": 84,
+      "name": "Yeah."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk032_msg0112",
+      "style": 84,
+      "name": "He would get really excited\nwhenever it was on the menu."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk032_msg0113",
+      "style": 84,
+      "name": "Seems the hero had quite\nchildish taste in food..."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk032_msg0114",
+      "style": 84,
+      "name": "What else can you tell us?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk032_msg0115",
+      "style": 84,
+      "name": "Hold on, hold on! That's enough!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk032_msg0116",
+      "style": 84,
+      "name": "Don't ruin my image of the\nhero Adel any more than this!"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk032_msg0117",
+      "style": 84,
+      "name": "What's the big deal? It just shows\nthe hero was human too, right?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk032_msg0118",
+      "style": 84,
+      "name": "You're childish too, Turtle-chan.\nYou two are pretty alike, huh?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk032_msg0119",
+      "style": 84,
+      "name": "Don't be ridiculous! That doesn't\nmake me feel any better!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk032_msg0120",
+      "style": 84,
+      "name": "Damn it."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk032_msg0121",
+      "style": 84,
+      "name": "I'll have to reread The\nHistory of Hero Adel and\nrebuild my image of him..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk032_msg0201",
+      "style": 84,
+      "name": "That's right. It's a complete\nfabrication. Total nonsense."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk032_msg0202",
+      "style": 84,
+      "name": "What, it's a fraud?\nWhat a terrible shop."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk032_msg0203",
+      "style": 84,
+      "name": "...Hold on a second. We\nhaven't proven it's fake yet."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk032_msg0204",
+      "style": 84,
+      "name": "Eh?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk032_msg0205",
+      "style": 84,
+      "name": "Even if it wasn't Adel's favorite,\nit still has history and tradition!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk032_msg0206",
+      "style": 84,
+      "name": "It's a 500-year-old traditional\nrecipe! A little exaggeration\nis forgivable!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk032_msg0207",
+      "style": 84,
+      "name": "Maybe Adel took a bite when Hikari\nwasn't around and said, \"Yum!\""
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk032_msg0208",
+      "style": 84,
+      "name": "Don't get so worked up, Turtle-chan."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk032_msg0209",
+      "style": 84,
+      "name": "I'm not worked up."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk032_msg0210",
+      "style": 84,
+      "name": "Look, I..."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk032_msg0211",
+      "style": 84,
+      "name": "It's wrong to dismiss a\ndish with real history as\nfake without evidence!"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk032_msg0212",
+      "style": 84,
+      "name": "...Oh, I get it now."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk032_msg0213",
+      "style": 84,
+      "name": "Zeke, you like this dish, don't you?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk032_msg0214",
+      "style": 84,
+      "name": "...Ugh."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk032_msg0215",
+      "style": 84,
+      "name": "And you only liked it\nbecause they called it\nAdel's favorite, didn't you?"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk032_msg0216",
+      "style": 84,
+      "name": "...Uhh."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk032_msg0217",
+      "style": 84,
+      "name": "Wow, so obvious! That's why\nyou were getting worked up?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk032_msg0218",
+      "style": 84,
+      "name": "You're like a little kid!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk032_msg0219",
+      "style": 84,
+      "name": "S-So what if I am?!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk032_msg0220",
+      "style": 84,
+      "name": "I've eaten this since I was a kid,\nbelieving it was Adel's favorite!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk032_msg0221",
+      "style": 84,
+      "name": "This has been the dream food\nof children for 500 years!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk032_msg0222",
+      "style": 84,
+      "name": "I won't let a single Blade's\noffhand comment overturn all that!"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk032_msg0223",
+      "style": 84,
+      "name": "But the truth is that Adel\ncouldn't handle spicy food..."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk032_msg0224",
+      "style": 84,
+      "name": "So there's no way he would willingly\neat it, not even a single bite."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk032_msg0225",
+      "style": 84,
+      "name": "Aaaagh!"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk032_msg0226",
+      "style": 84,
+      "name": "My memories... my innocent\nchildhood beliefs..."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk032_msg0227",
+      "style": 84,
+      "name": "Now... I can't trust anyone anymore..."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk032_msg0228",
+      "style": 84,
+      "name": "Don't take it so hard, Turtle-chan."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk032_msg0229",
+      "style": 84,
+      "name": "I'll treat you, so cheer up, okay?!"
+    }
+  ]
+}

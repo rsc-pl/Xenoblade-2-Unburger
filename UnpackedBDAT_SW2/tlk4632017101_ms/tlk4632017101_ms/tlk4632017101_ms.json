@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46320171_01_msg0001",
+      "style": 84,
+      "name": "This is the refugee camp distribution\ncenter, but we only distribute rations\nduring the day. Are you travelers?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk46320171_01_msg0002",
+      "style": 84,
+      "name": "By order of His Holiness\nMalbeni, we provide shelter\nand sustenance to the needy."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46320171_01_msg0003",
+      "style": 84,
+      "name": "Yet lately, refugee protests\nagainst the Holy See's Blade\npolicies have grown fierce..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk46320171_01_msg0004",
+      "style": 84,
+      "name": "More people are saying we should stop\nthe rations, make refugees work, and\nhave them buy food with their wages."
+    }
+  ]
+}

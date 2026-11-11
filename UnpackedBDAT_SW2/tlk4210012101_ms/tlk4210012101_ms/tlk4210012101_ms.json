@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100121_01_msg0001",
+      "style": 84,
+      "name": "Takaka loves high places, mo! It\ntook a whole year of hard work to\nfinally climb up on this roof, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100121_01_msg0002",
+      "style": 84,
+      "name": "Takaka's goal is to climb to the\nvery top of that windmill, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100121_01_msg0003",
+      "style": 84,
+      "name": "But Takaka still hasn't figured\nout how to climb it... mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100121_01_msg0004",
+      "style": 84,
+      "name": "Drivers are lucky at times like\nthis, mo. Using Blade power to reach\nhigh places is so enviable, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42100121_01_msg0005",
+      "style": 84,
+      "name": "Takaka wants to be a Driver too... mo."
+    }
+  ]
+}

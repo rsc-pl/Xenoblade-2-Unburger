@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201712_msg0003",
+      "style": 84,
+      "name": "I see... There are two\nbroken parts, sir."
+    },
+    {
+      "$id": 2,
+      "label": "qst201712_msg1001",
+      "style": 84,
+      "name": "If I replace these parts, the\nrepairs will be complete, sir."
+    },
+    {
+      "$id": 3,
+      "label": "qst201712_msg2001",
+      "style": 84,
+      "name": "What kind of parts do you need?"
+    },
+    {
+      "$id": 4,
+      "label": "qst201712_msg2002",
+      "style": 84,
+      "name": "A Search Monitor and\na Delta Box, sir."
+    },
+    {
+      "$id": 5,
+      "label": "qst201712_msg2003",
+      "style": 84,
+      "name": "I believe these parts can be\nobtained through salvaging, sir."
+    },
+    {
+      "$id": 6,
+      "label": "qst201712_msg0004",
+      "style": 84,
+      "name": "Then it's my turn! Let's go\nget those parts right away!"
+    },
+    {
+      "$id": 7,
+      "label": "qst201712_msg0005",
+      "style": 84,
+      "name": "Sir, yes, sir!"
+    }
+  ]
+}

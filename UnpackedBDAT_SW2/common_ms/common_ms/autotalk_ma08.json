@@ -1,0 +1,859 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 62,
+      "name": "Don't cause any trouble."
+    },
+    {
+      "$id": 2,
+      "style": 62,
+      "name": "Well, I'm off."
+    },
+    {
+      "$id": 3,
+      "style": 62,
+      "name": "Come home soon, okay?"
+    },
+    {
+      "$id": 4,
+      "style": 62,
+      "name": "Go and report to the captain."
+    },
+    {
+      "$id": 5,
+      "style": 62,
+      "name": "Understood."
+    },
+    {
+      "$id": 6,
+      "style": 62,
+      "name": "Ugh, another rough day..."
+    },
+    {
+      "$id": 7,
+      "style": 62,
+      "name": "Fancy a drink on the way home?"
+    },
+    {
+      "$id": 8,
+      "style": 62,
+      "name": "I'm so hungry, mo~!"
+    },
+    {
+      "$id": 9,
+      "style": 62,
+      "name": "Welcome home!"
+    },
+    {
+      "$id": 10,
+      "style": 62,
+      "name": "It's good to be back!"
+    },
+    {
+      "$id": 11,
+      "style": 62,
+      "name": "I know a really nice place."
+    },
+    {
+      "$id": 12,
+      "style": 62,
+      "name": "Want to go together?"
+    },
+    {
+      "$id": 13,
+      "style": 62,
+      "name": "Okay! Same place tomorrow!"
+    },
+    {
+      "$id": 14,
+      "style": 62,
+      "name": "Shouldn't you be tending\nto the shop out front?"
+    },
+    {
+      "$id": 15,
+      "style": 62,
+      "name": "I haven't been feeling so well lately,\nso my son's been handling things..."
+    },
+    {
+      "$id": 16,
+      "style": 62,
+      "name": "Oh, what a bother!"
+    },
+    {
+      "$id": 17,
+      "style": 62,
+      "name": "Urk..."
+    },
+    {
+      "$id": 18,
+      "style": 62,
+      "name": "Instead of hanging around here,\nshouldn't you go to a medical\nfacility?"
+    },
+    {
+      "$id": 19,
+      "style": 62,
+      "name": "Daddy, are you going to the war too?"
+    },
+    {
+      "$id": 20,
+      "style": 62,
+      "name": "Do you have to?"
+    },
+    {
+      "$id": 21,
+      "style": 62,
+      "name": "Daaad! Mooom!"
+    },
+    {
+      "$id": 22,
+      "style": 62,
+      "name": "Where are you, mo?"
+    },
+    {
+      "$id": 23,
+      "style": 62,
+      "name": "Now that's a big castle..."
+    },
+    {
+      "$id": 24,
+      "style": 62,
+      "name": "There's nothing like that in Gula,\nthat's for sure."
+    },
+    {
+      "$id": 25,
+      "style": 62,
+      "name": "Where have the children run off to,\nmo?"
+    },
+    {
+      "$id": 26,
+      "style": 62,
+      "name": "Just focus on the job, all right?"
+    },
+    {
+      "$id": 27,
+      "style": 62,
+      "name": "We've got to fix this before\nnightfall."
+    },
+    {
+      "$id": 28,
+      "style": 62,
+      "name": "It'll be a disaster if someone falls."
+    },
+    {
+      "$id": 29,
+      "style": 62,
+      "name": "I wonder how my friend in Gula is\ndoing..."
+    },
+    {
+      "$id": 30,
+      "style": 62,
+      "name": "Can I buy one sweet?"
+    },
+    {
+      "$id": 31,
+      "style": 62,
+      "name": "Oh, all right then.\nBut just one!"
+    },
+    {
+      "$id": 32,
+      "style": 62,
+      "name": "I feel for the soldiers..."
+    },
+    {
+      "$id": 33,
+      "style": 62,
+      "name": "What's wrong with that person?"
+    },
+    {
+      "$id": 34,
+      "style": 62,
+      "name": "Ah, too much to drink. Same as always."
+    },
+    {
+      "$id": 35,
+      "style": 62,
+      "name": "I could really go for an open-air\nbath..."
+    },
+    {
+      "$id": 36,
+      "style": 62,
+      "name": "The atmosphere is tenser than I\nexpected, mo."
+    },
+    {
+      "$id": 37,
+      "style": 62,
+      "name": "Where did I put it...?"
+    },
+    {
+      "$id": 38,
+      "style": 62,
+      "name": "I can't get in without the key!"
+    },
+    {
+      "$id": 39,
+      "style": 62,
+      "name": "This open-air bath is the best in the\nimperial capital."
+    },
+    {
+      "$id": 40,
+      "style": 62,
+      "name": "I could come here every day and\nnever get tired of it."
+    },
+    {
+      "$id": 41,
+      "style": 62,
+      "name": "That big Divine Beast weapon is\ngone now, huh?"
+    },
+    {
+      "$id": 42,
+      "style": 62,
+      "name": "Maybe it went back to the palace?"
+    },
+    {
+      "$id": 43,
+      "style": 62,
+      "name": "Hurry, mo!\nSomeone's coming, mo!!"
+    },
+    {
+      "$id": 44,
+      "style": 62,
+      "name": "Quiet!\nJust a little longer."
+    },
+    {
+      "$id": 45,
+      "style": 62,
+      "name": "Where should we go today?"
+    },
+    {
+      "$id": 46,
+      "style": 62,
+      "name": "I want to look at board games!"
+    },
+    {
+      "$id": 47,
+      "style": 62,
+      "name": "Got anything new?"
+    },
+    {
+      "$id": 48,
+      "style": 62,
+      "name": "As a matter of fact, I got a new\nshipment in just yesterday."
+    },
+    {
+      "$id": 49,
+      "style": 62,
+      "name": "How does it taste?"
+    },
+    {
+      "$id": 50,
+      "style": 62,
+      "name": "Yes! It's delicious, mo!"
+    },
+    {
+      "$id": 51,
+      "style": 62,
+      "name": "Do you have any books\non military tactics?"
+    },
+    {
+      "$id": 52,
+      "style": 62,
+      "name": "Allow me to take a look..."
+    },
+    {
+      "$id": 53,
+      "style": 62,
+      "name": "When I grow up,\nI want to be a salvager!"
+    },
+    {
+      "$id": 54,
+      "style": 62,
+      "name": "I want to be a soldier, mo!"
+    },
+    {
+      "$id": 55,
+      "style": 62,
+      "name": "Over here this time, huh...?"
+    },
+    {
+      "$id": 56,
+      "style": 62,
+      "name": "Let's just get this over with."
+    },
+    {
+      "$id": 57,
+      "style": 62,
+      "name": "Hm, what should I make today..."
+    },
+    {
+      "$id": 58,
+      "style": 62,
+      "name": "I recommend these vegetables."
+    },
+    {
+      "$id": 59,
+      "style": 62,
+      "name": "♪～"
+    },
+    {
+      "$id": 60,
+      "style": 62,
+      "name": "♪～♪～"
+    },
+    {
+      "$id": 61,
+      "style": 62,
+      "name": "Granny, come on!\nHurry up!"
+    },
+    {
+      "$id": 62,
+      "style": 62,
+      "name": "I'm coming,\nI'm coming."
+    },
+    {
+      "$id": 63,
+      "style": 62,
+      "name": "Wow! Whoa!\nSuperbia is AWESOME."
+    },
+    {
+      "$id": 64,
+      "style": 62,
+      "name": "I can't believe how\nbright it is at night!"
+    },
+    {
+      "$id": 65,
+      "style": 62,
+      "name": "Come on, Nii-chan! Give me some too!"
+    },
+    {
+      "$id": 66,
+      "style": 62,
+      "name": "No way!"
+    },
+    {
+      "$id": 67,
+      "style": 62,
+      "name": "That's not right!"
+    },
+    {
+      "$id": 68,
+      "style": 62,
+      "name": "Waaah!\nI'm sorry..."
+    },
+    {
+      "$id": 69,
+      "style": 62,
+      "name": "Does this bring back memories?"
+    },
+    {
+      "$id": 70,
+      "style": 62,
+      "name": "It reminds me of my days\nin the army band..."
+    },
+    {
+      "$id": 71,
+      "style": 62,
+      "name": "Even the posts on the notice board\nhave gotten grim lately..."
+    },
+    {
+      "$id": 72,
+      "style": 62,
+      "name": "They're so lucky..."
+    },
+    {
+      "$id": 73,
+      "style": 62,
+      "name": "The security here's impressive!"
+    },
+    {
+      "$id": 74,
+      "style": 62,
+      "name": "This is the main base. Of course it\nis, mo!"
+    },
+    {
+      "$id": 75,
+      "style": 62,
+      "name": "Dammit... Drank too much..."
+    },
+    {
+      "$id": 76,
+      "style": 62,
+      "name": "That's what you get for not knowing\nyour limits..."
+    },
+    {
+      "$id": 77,
+      "style": 62,
+      "name": "Today we'll be patrolling around\nthe research labs!"
+    },
+    {
+      "$id": 78,
+      "style": 62,
+      "name": "Yes, sir!"
+    },
+    {
+      "$id": 79,
+      "style": 62,
+      "name": "Which bath should I go to today?"
+    },
+    {
+      "$id": 80,
+      "style": 62,
+      "name": "It's so bright, mo!"
+    },
+    {
+      "$id": 81,
+      "style": 62,
+      "name": "Are you sure it won't explode, mo?"
+    },
+    {
+      "$id": 82,
+      "style": 62,
+      "name": "A lot of cargo to move today?"
+    },
+    {
+      "$id": 83,
+      "style": 62,
+      "name": "Yep, quite a lot today, too."
+    },
+    {
+      "$id": 84,
+      "style": 62,
+      "name": "...I'm completely lost."
+    },
+    {
+      "$id": 85,
+      "style": 62,
+      "name": "Am I late for my first day!?"
+    },
+    {
+      "$id": 86,
+      "style": 62,
+      "name": "This door doesn't open, mo?"
+    },
+    {
+      "$id": 87,
+      "style": 62,
+      "name": "Yeah, I've rarely seen it open..."
+    },
+    {
+      "$id": 88,
+      "style": 62,
+      "name": "Here, let me help."
+    },
+    {
+      "$id": 89,
+      "style": 62,
+      "name": "Thank you!"
+    },
+    {
+      "$id": 90,
+      "style": 62,
+      "name": "What kind of place is Avaritia?"
+    },
+    {
+      "$id": 91,
+      "style": 62,
+      "name": "It's a very bustling place, mo! You\nshould go and see for yourself, mo!"
+    },
+    {
+      "$id": 92,
+      "style": 62,
+      "name": "Still working at this hour?"
+    },
+    {
+      "$id": 93,
+      "style": 62,
+      "name": "Yeah, it's taking a while..."
+    },
+    {
+      "$id": 94,
+      "style": 62,
+      "name": "How are you doing over there?"
+    },
+    {
+      "$id": 95,
+      "style": 62,
+      "name": "Nearly done!"
+    },
+    {
+      "$id": 96,
+      "style": 62,
+      "name": "Just what you'd expect\nfrom a military facility, mo."
+    },
+    {
+      "$id": 97,
+      "style": 62,
+      "name": "Let's head back before\nanyone shows up."
+    },
+    {
+      "$id": 98,
+      "style": 62,
+      "name": "What is this graffiti...?\nSome kind of new code?"
+    },
+    {
+      "$id": 99,
+      "style": 62,
+      "name": "Want to go shopping together?"
+    },
+    {
+      "$id": 100,
+      "style": 62,
+      "name": "I suppose so..."
+    },
+    {
+      "$id": 101,
+      "style": 62,
+      "name": "You've got quite a build!"
+    },
+    {
+      "$id": 102,
+      "style": 62,
+      "name": "Why don't you come have\na bite to eat at my place?"
+    },
+    {
+      "$id": 103,
+      "style": 62,
+      "name": "I'm sorry.\nI tried my best, but..."
+    },
+    {
+      "$id": 104,
+      "style": 62,
+      "name": "The kids up there get to play\nsomewhere spacious. Lucky them."
+    },
+    {
+      "$id": 105,
+      "style": 62,
+      "name": "Hey, that's dangerous!\nCome back here!"
+    },
+    {
+      "$id": 106,
+      "style": 62,
+      "name": "Look, Dad! There's some kind\nof entrance down below!"
+    },
+    {
+      "$id": 107,
+      "style": 62,
+      "name": "I've been seeing a lot more Drivers\naround the palace recently."
+    },
+    {
+      "$id": 108,
+      "style": 62,
+      "name": "I hear they've been\nrecruiting from all over."
+    },
+    {
+      "$id": 109,
+      "style": 62,
+      "name": "I can't hear you! Speak from your\ndiaphragm!"
+    },
+    {
+      "$id": 110,
+      "style": 62,
+      "name": "Sir!\nYes, sir!"
+    },
+    {
+      "$id": 111,
+      "style": 62,
+      "name": "Sir!\nYes, sir!"
+    },
+    {
+      "$id": 112,
+      "style": 62,
+      "name": "Sir!\nYes, sir!"
+    },
+    {
+      "$id": 113,
+      "style": 62,
+      "name": "Sir!\nYes, sir!"
+    },
+    {
+      "$id": 114,
+      "style": 62,
+      "name": "Tomorrow's training will be even\nharder! Aren't you all thrilled?!"
+    },
+    {
+      "$id": 115,
+      "style": 62,
+      "name": "Sir!\nYes, sir!!!"
+    },
+    {
+      "$id": 116,
+      "style": 62,
+      "name": "Sir!\nYes, sir!!!"
+    },
+    {
+      "$id": 117,
+      "style": 62,
+      "name": "Sir!\nYes, sir!!!"
+    },
+    {
+      "$id": 118,
+      "style": 62,
+      "name": "Sir!\nYes, sir!!!"
+    },
+    {
+      "$id": 119,
+      "style": 62,
+      "name": "Sir!\nYes, sir!!!"
+    },
+    {
+      "$id": 120,
+      "style": 62,
+      "name": "Ugh, I give up..."
+    },
+    {
+      "$id": 121,
+      "style": 62,
+      "name": "One! Two! Three!"
+    },
+    {
+      "$id": 122,
+      "style": 62,
+      "name": "Anyone who can't keep up with the reps\ngets sent to Gula!"
+    },
+    {
+      "$id": 123,
+      "style": 62,
+      "name": "How many ships today...?"
+    },
+    {
+      "$id": 124,
+      "style": 62,
+      "name": "I hear they're researching a new\nmodel."
+    },
+    {
+      "$id": 125,
+      "style": 62,
+      "name": "Does it look fixable?"
+    },
+    {
+      "$id": 126,
+      "style": 62,
+      "name": "This part keeps breaking, doesn't\nit..."
+    },
+    {
+      "$id": 127,
+      "style": 62,
+      "name": "I hear we have enemies\nwithin our own borders now."
+    },
+    {
+      "$id": 128,
+      "style": 62,
+      "name": "That's unsettling."
+    },
+    {
+      "$id": 129,
+      "style": 62,
+      "name": "Be ready for battle.\nMake sure you know how to use this."
+    },
+    {
+      "$id": 130,
+      "style": 62,
+      "name": "I will."
+    },
+    {
+      "$id": 131,
+      "style": 62,
+      "name": "Let's play ball!"
+    },
+    {
+      "$id": 132,
+      "style": 62,
+      "name": "Yeah!\nAnd after that, we can play soldiers!"
+    },
+    {
+      "$id": 133,
+      "style": 62,
+      "name": "What should I do...? I think I dropped\nthe key somewhere around here..."
+    },
+    {
+      "$id": 134,
+      "style": 62,
+      "name": "It's the key to the harbor gate... The\ncaptain will be furious!"
+    },
+    {
+      "$id": 135,
+      "style": 62,
+      "name": "I can't believe it... Did I really\ndrop it off the bridge...?"
+    },
+    {
+      "$id": 136,
+      "style": 62,
+      "name": "Fabelle's going to make fun of me\nagain... Sigh... I'll look tomorrow."
+    },
+    {
+      "$id": 137,
+      "style": 62,
+      "name": "That's a huge vehicle!"
+    },
+    {
+      "$id": 138,
+      "style": 62,
+      "name": "The Divine Beast battleships that came\nto Gula were even bigger, you know..."
+    },
+    {
+      "$id": 139,
+      "style": 62,
+      "name": "I'll get this cargo to the city,\ndouble-time, mo!"
+    },
+    {
+      "$id": 140,
+      "style": 62,
+      "name": "This crate is so heavy, mo..."
+    },
+    {
+      "$id": 141,
+      "style": 62,
+      "name": "That's quite a load of cargo you've\ngot."
+    },
+    {
+      "$id": 142,
+      "style": 62,
+      "name": "There's nothing shady here, mo!\nCheck it all you want, mo!!"
+    },
+    {
+      "$id": 143,
+      "style": 62,
+      "name": "It's much brighter than a torch, isn't\nit?"
+    },
+    {
+      "$id": 144,
+      "style": 62,
+      "name": "The city itself is even brighter."
+    },
+    {
+      "$id": 145,
+      "style": 62,
+      "name": "It's so dusty here, mo!"
+    },
+    {
+      "$id": 146,
+      "style": 62,
+      "name": "Sand in my mouth, mo!\nPtooey! Ptooey!"
+    },
+    {
+      "$id": 147,
+      "style": 62,
+      "name": "Please use the far lift\nfor transporting Armu."
+    },
+    {
+      "$id": 148,
+      "style": 62,
+      "name": "Why? Is this one off-limits?"
+    },
+    {
+      "$id": 149,
+      "style": 62,
+      "name": "Be careful when you're\noperating this machinery."
+    },
+    {
+      "$id": 150,
+      "style": 62,
+      "name": "Are you sure you haven't\nforgotten any cargo?"
+    },
+    {
+      "$id": 151,
+      "style": 62,
+      "name": "Be on your best behavior."
+    },
+    {
+      "$id": 152,
+      "style": 62,
+      "name": "I'm always keeping watch..."
+    },
+    {
+      "$id": 153,
+      "style": 62,
+      "name": "Doing maintenance on this geothermal\nplant is life-threatening work."
+    },
+    {
+      "$id": 154,
+      "style": 62,
+      "name": "We've asked the army to exterminate\nthem, but they can't get rid of them\nall."
+    },
+    {
+      "$id": 155,
+      "style": 62,
+      "name": "We use the gondola to get around here.\nToo many monsters on the ground..."
+    },
+    {
+      "$id": 156,
+      "style": 62,
+      "name": "It's so hot... I can feel the heat of\nSuperbia's Divine Beast!"
+    },
+    {
+      "$id": 157,
+      "style": 62,
+      "name": "If I fell in there... Just thinking\nabout it gives me chills."
+    },
+    {
+      "$id": 158,
+      "style": 62,
+      "name": "I'm actually afraid of heights... I\ndon't know why they stationed me up\nhere..."
+    },
+    {
+      "$id": 159,
+      "style": 62,
+      "name": "Let's both be careful not to fall."
+    },
+    {
+      "$id": 160,
+      "style": 62,
+      "name": "The industrial lift is on the left.\nThe passenger elevator is a bit\nfurther in."
+    },
+    {
+      "$id": 161,
+      "style": 62,
+      "name": "Let's hurry to Alba Margen, mo!"
+    },
+    {
+      "$id": 162,
+      "style": 62,
+      "name": "Let's go, mo!"
+    },
+    {
+      "$id": 163,
+      "style": 62,
+      "name": "Well, well... Did you get in through\nthat little gap?"
+    },
+    {
+      "$id": 164,
+      "style": 62,
+      "name": "Don't fall out of the elevator."
+    },
+    {
+      "$id": 165,
+      "style": 62,
+      "name": "Let me go back to my country!"
+    },
+    {
+      "$id": 166,
+      "style": 62,
+      "name": "...There are procedures for\nthat sort of thing."
+    },
+    {
+      "$id": 167,
+      "style": 62,
+      "name": "Where has everyone gone...?"
+    },
+    {
+      "$id": 168,
+      "style": 62,
+      "name": "Aren't you hungry?"
+    },
+    {
+      "$id": 169,
+      "style": 62,
+      "name": "...I'll be fine..."
+    }
+  ]
+}

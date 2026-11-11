@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000503_msg0001",
+      "style": 62,
+      "name": "You wish to go to the Cliffs of Mors?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000503_msg0002",
+      "style": 62,
+      "name": "You ask for the impossible..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000503_msg0003",
+      "style": 62,
+      "name": "However, as per King Seelig's\norders, we shall do our utmost."
+    }
+  ]
+}

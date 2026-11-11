@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "deb999998_0001",
+      "style": 2,
+      "name": "Test of pre-combination\nevent."
+    },
+    {
+      "$id": 2,
+      "label": "deb999998_0002",
+      "style": 2,
+      "name": "Grandpa's off to mow the\nmountain lawns"
+    },
+    {
+      "$id": 3,
+      "label": "deb999998_0003",
+      "style": 2,
+      "name": "Grandma has chosen her\nriver."
+    },
+    {
+      "$id": 4,
+      "label": "deb999998_0004",
+      "style": 2,
+      "name": "Time passed them by.\nBut finally..."
+    }
+  ]
+}

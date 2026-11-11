@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104203_msg0001",
+      "style": 84,
+      "name": "Now, it's Rex-sensei's turn."
+    },
+    {
+      "$id": 2,
+      "label": "qst104203_msg0002",
+      "style": 84,
+      "name": "This is a practice run for the\nchildren, but also a chance to\nsee how much Rex has grown!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104203_msg0003",
+      "style": 84,
+      "name": "To think that baby has become\nso splendid... Maybe I should\nhave called Correl over, too."
+    }
+  ]
+}

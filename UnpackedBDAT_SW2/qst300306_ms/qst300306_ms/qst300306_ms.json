@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300306_msg001",
+      "style": 62,
+      "name": "Interview 2 FEV"
+    },
+    {
+      "$id": 2,
+      "label": "qst300306_msg002",
+      "style": 62,
+      "name": "Option 1: You're from Superbia, right?"
+    },
+    {
+      "$id": 3,
+      "label": "qst300306_msg003",
+      "style": 62,
+      "name": "Option 2: About what you're good at"
+    },
+    {
+      "$id": 4,
+      "label": "qst300306_msg004",
+      "style": 62,
+      "name": "Option 3: Why did you\nchoose our Merc Group?"
+    },
+    {
+      "$id": 5,
+      "label": "qst300306_msg005",
+      "style": 62,
+      "name": "Response 1: ...Yes. Is there a\nproblem with being from Superbia?"
+    },
+    {
+      "$id": 6,
+      "label": "qst300306_msg006",
+      "style": 62,
+      "name": "Response 2: ...That's a secret."
+    },
+    {
+      "$id": 7,
+      "label": "qst300306_msg007",
+      "style": 62,
+      "name": "Response 3: ...That's a secret."
+    },
+    {
+      "$id": 8,
+      "label": "qst300306_msg008",
+      "style": 62,
+      "name": "Ask for more details (FS)"
+    },
+    {
+      "$id": 9,
+      "label": "qst300306_msg009",
+      "style": 62,
+      "name": "Response 1: Continued"
+    },
+    {
+      "$id": 10,
+      "label": "qst300306_msg010",
+      "style": 62,
+      "name": "Response 2: Continued"
+    },
+    {
+      "$id": 11,
+      "label": "qst300306_msg011",
+      "style": 62,
+      "name": "Response 3: Continued"
+    },
+    {
+      "$id": 12,
+      "label": "qst300306_msg0001",
+      "style": 84,
+      "name": "Zemgred Cathedra[ML:Dash ] My full name is\nlonger, but you may call me Zemgred."
+    },
+    {
+      "$id": 13,
+      "label": "qst300306_msg0002",
+      "style": 84,
+      "name": "Ah, no. Please call me that."
+    },
+    {
+      "$id": 14,
+      "label": "qst300306_msg0003",
+      "style": 84,
+      "name": "I am from Fons Maim, and my house is\nan old noble one, but now that it has\ndeclined, I am just a commoner."
+    },
+    {
+      "$id": 15,
+      "label": "qst300306_msg0004",
+      "style": 84,
+      "name": "I have experience surviving\ndifficult situations. You can\nleave the money management to me."
+    },
+    {
+      "$id": 16,
+      "label": "qst300306_msg0005",
+      "style": 84,
+      "name": "Then, I'll ask you some questions."
+    },
+    {
+      "$id": 17,
+      "label": "qst300306_msg0006",
+      "style": 84,
+      "name": "Hehe, ask me anything[ML:Dash ] Um,\nplease don't hesitate."
+    },
+    {
+      "$id": 18,
+      "label": "qst300306_msg0051",
+      "style": 165,
+      "name": "What should I ask?"
+    },
+    {
+      "$id": 19,
+      "label": "qst300306_msg0052",
+      "style": 165,
+      "name": "Motivation"
+    },
+    {
+      "$id": 20,
+      "label": "qst300306_msg0053",
+      "style": 165,
+      "name": "Skills"
+    },
+    {
+      "$id": 21,
+      "label": "qst300306_msg0054",
+      "style": 165,
+      "name": "Future goals"
+    },
+    {
+      "$id": 22,
+      "label": "qst300306_msg0055",
+      "style": 165,
+      "name": "Nothing in particular"
+    },
+    {
+      "$id": 23,
+      "label": "qst300306_msg0101",
+      "style": 84,
+      "name": "I need money[ML:Dash ] I mean, yes."
+    },
+    {
+      "$id": 24,
+      "label": "qst300306_msg0102",
+      "style": 84,
+      "name": "Is there a reason?"
+    },
+    {
+      "$id": 25,
+      "label": "qst300306_msg0103",
+      "style": 84,
+      "name": "[ML:Dash ]My house was an old noble one, but\nit declined when I was a child."
+    },
+    {
+      "$id": 26,
+      "label": "qst300306_msg0104",
+      "style": 84,
+      "name": "To restore my house, I need money."
+    },
+    {
+      "$id": 27,
+      "label": "qst300306_msg0105",
+      "style": 84,
+      "name": "Now, I'll let you hire me!\n[ML:Dash ]No, please hire me."
+    },
+    {
+      "$id": 28,
+      "label": "qst300306_msg0201",
+      "style": 84,
+      "name": "I have lost my home and my fortune.\nAll that remains is a long name and\nthe ability to raise funds."
+    },
+    {
+      "$id": 29,
+      "label": "qst300306_msg0202",
+      "style": 84,
+      "name": "Could you tell me more specifically?"
+    },
+    {
+      "$id": 30,
+      "label": "qst300306_msg0203",
+      "style": 84,
+      "name": "When I was young, I lived\na good life as a noble."
+    },
+    {
+      "$id": 31,
+      "label": "qst300306_msg0204",
+      "style": 84,
+      "name": "That's why I can tell\nquality goods apart."
+    },
+    {
+      "$id": 32,
+      "label": "qst300306_msg0205",
+      "style": 84,
+      "name": "In other words, I can acquire\ncheap and truly good items\nand avoid wasting money."
+    },
+    {
+      "$id": 33,
+      "label": "qst300306_msg0301",
+      "style": 84,
+      "name": "I plan to restore my house.\nI can't let it die out with me."
+    },
+    {
+      "$id": 34,
+      "label": "qst300306_msg0302",
+      "style": 84,
+      "name": "What are your goals\nfor this Merc Group?"
+    },
+    {
+      "$id": 35,
+      "label": "qst300306_msg0303",
+      "style": 84,
+      "name": "I want to eliminate waste and run\nthings in a smart and elegant way."
+    },
+    {
+      "$id": 36,
+      "label": "qst300306_msg0304",
+      "style": 84,
+      "name": "I've been watching since I got here.\nThere's a lot of waste in how you use\nweapons, food, and supplies."
+    },
+    {
+      "$id": 37,
+      "label": "qst300306_msg0305",
+      "style": 84,
+      "name": "Your ranks grew so quickly that\nyou're probably too busy to notice\nthe details."
+    },
+    {
+      "$id": 38,
+      "label": "qst300306_msg0401",
+      "style": 84,
+      "name": "That's it for the interview."
+    },
+    {
+      "$id": 39,
+      "label": "qst300306_msg0402",
+      "style": 84,
+      "name": "We'll tell you the results later,\nso you can head home now."
+    },
+    {
+      "$id": 40,
+      "label": "qst300306_msg0403",
+      "style": 84,
+      "name": "You'll lose out if you don't hire me[ML:Dash ]\nSorry. I still haven't shaken\nmy old noble ways[ML:Dash ]"
+    },
+    {
+      "$id": 41,
+      "label": "qst300306_msg0404",
+      "style": 84,
+      "name": "Um, that's all the candidates.\nYou need time to choose, right?\nLet me know when you've decided."
+    },
+    {
+      "$id": 42,
+      "label": "qst300306_msg0501",
+      "style": 84,
+      "name": "Is there anything else\nyou'd like to ask?"
+    }
+  ]
+}

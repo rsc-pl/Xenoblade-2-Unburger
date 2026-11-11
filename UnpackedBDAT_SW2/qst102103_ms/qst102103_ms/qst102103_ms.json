@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102103_msg0001",
+      "style": 84,
+      "name": "This is the worst. Especially\nsince you started talking to me."
+    },
+    {
+      "$id": 2,
+      "label": "qst102103_msg0002",
+      "style": 84,
+      "name": "(What should I ask?)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102103_msg0003",
+      "style": 165,
+      "name": "How did the mission go for you?"
+    },
+    {
+      "$id": 4,
+      "label": "qst102103_msg0004",
+      "style": 165,
+      "name": "Are you used to the\nmercenary corps yet?"
+    },
+    {
+      "$id": 5,
+      "label": "qst102103_msg0101",
+      "style": 84,
+      "name": "I shouldn't have taken this job..."
+    },
+    {
+      "$id": 6,
+      "label": "qst102103_msg0102",
+      "style": 84,
+      "name": "I just want to go home already.\nWhat is that Superbian\ndoing...?"
+    },
+    {
+      "$id": 7,
+      "label": "qst102103_msg0201",
+      "style": 84,
+      "name": "Not at all."
+    },
+    {
+      "$id": 8,
+      "label": "qst102103_msg0202",
+      "style": 84,
+      "name": "There are way too many people\nfrom other countries..."
+    },
+    {
+      "$id": 9,
+      "label": "qst102103_msg0203",
+      "style": 84,
+      "name": "I don't get why so many\nof them gather here..."
+    },
+    {
+      "$id": 10,
+      "label": "qst102103_msg0204",
+      "style": 84,
+      "name": "And on top of that, they're all\noverly-friendly people like you."
+    }
+  ]
+}

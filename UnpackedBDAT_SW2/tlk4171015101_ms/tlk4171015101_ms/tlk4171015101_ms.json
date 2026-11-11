@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4171015101_msg0001",
+      "style": 84,
+      "name": "I'm so happy to be living with my\nsons. I never thought I would be\nable to live like this again."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4171015101_msg0002",
+      "style": 84,
+      "name": "It's all thanks to you\nand Elnoth. Thank you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4171015101_msg0003",
+      "style": 84,
+      "name": "I'll work hard so we'll be fine when\nElnoth returns from the Empire, and\nwe'll all live together as family."
+    }
+  ]
+}

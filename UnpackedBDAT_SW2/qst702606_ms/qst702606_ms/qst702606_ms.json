@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702606_msg0001",
+      "style": 84,
+      "name": "The great gold-collecting machine is\nbeyond Dodon's abilities now, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst702606_msg0002",
+      "style": 84,
+      "name": "I'd like someone who's good with\nmachines to modify it, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst702606_msg0003",
+      "style": 84,
+      "name": "Some weird inventor in the\ncapital, or anyone will do, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst702606_msg0101",
+      "style": 84,
+      "name": "The great gold-collecting machine...\nIt looks the same, but the inside\nseems heavily modified, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst702606_msg0102",
+      "style": 84,
+      "name": "Please show it to Parvi, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "qst702606_msg0201",
+      "style": 84,
+      "name": "Unlike last time, it\ncollected something, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst702606_msg0202",
+      "style": 84,
+      "name": "It must be gold, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst702606_msg0203",
+      "style": 84,
+      "name": "Please hurry and check, mo!"
+    },
+    {
+      "$id": 9,
+      "label": "qst702606_msg0301",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 10,
+      "label": "qst702606_msg0302",
+      "style": 84,
+      "name": "Dodon thinks that was good work, mo..."
+    },
+    {
+      "$id": 11,
+      "label": "qst702606_msg0303",
+      "style": 84,
+      "name": "But I want to hear what\nParvi thinks, mo."
+    }
+  ]
+}

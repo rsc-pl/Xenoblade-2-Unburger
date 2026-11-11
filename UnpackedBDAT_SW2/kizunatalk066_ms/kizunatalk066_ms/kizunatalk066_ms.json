@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk066_msg0001",
+      "style": 84,
+      "name": "What a breathtaking view this is."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk066_msg0002",
+      "style": 84,
+      "name": "I can't help but wonder\nhow they constructed such\nan impressive structure."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk066_msg0003",
+      "style": 84,
+      "name": "Ngh..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk066_msg0004",
+      "style": 84,
+      "name": "This place is really hard\non Blades, isn't it?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk066_msg0005",
+      "style": 84,
+      "name": "I get what you mean. This place\nis really rough on us Blades."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk066_msg0006",
+      "style": 84,
+      "name": "Indeed, this is a harsh\nplace for Blades."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk066_msg0007",
+      "style": 84,
+      "name": "This is a tough place for Blades.\nI know that myself, too..."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk066_msg0008",
+      "style": 84,
+      "name": "Not at all! I can\nhandle this just fine."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk066_msg0009",
+      "style": 84,
+      "name": "Well, but... Are you okay, Tokiha?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk066_msg0010",
+      "style": 84,
+      "name": "Tokiha, you shouldn't\npush yourself too hard."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk066_msg0011",
+      "style": 84,
+      "name": "But... You're clearly straining\nyourself, aren't you?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk066_msg0012",
+      "style": 84,
+      "name": "But you're just being stubborn,\nright? You're not looking too good."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk066_msg0013",
+      "style": 84,
+      "name": "It's... not a problem."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk066_msg0014",
+      "style": 84,
+      "name": "Anyway, why did you want to come here?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk066_msg0015",
+      "style": 84,
+      "name": "Still though, what made it\nnecessary to visit this place?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk066_msg0016",
+      "style": 84,
+      "name": "Nevertheless, why did\nyou need to come here?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk066_msg0017",
+      "style": 84,
+      "name": "So what brought ya here anyway?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk066_msg0018",
+      "style": 84,
+      "name": "Well... What do you\nthink my reason is?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk066_msg0019",
+      "style": 165,
+      "name": "How should I answer?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk066_msg0020",
+      "style": 164,
+      "name": "You wanted to meet the hero Adel?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk066_msg0021",
+      "style": 164,
+      "name": "Because you like painful things?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk066_msg0022",
+      "style": 165,
+      "name": "How should I answer?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk066_msg0023",
+      "style": 164,
+      "name": "Because you wanted to\nmeet the hero Adel?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk066_msg0024",
+      "style": 164,
+      "name": "You just...enjoy pain or something?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk066_msg0025",
+      "style": 165,
+      "name": "How should I answer?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk066_msg0026",
+      "style": 164,
+      "name": "Because you wanted to\nmeet the hero Adel?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk066_msg0027",
+      "style": 164,
+      "name": "Because you like painful things?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk066_msg0028",
+      "style": 165,
+      "name": "How should I answer?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk066_msg0029",
+      "style": 164,
+      "name": "Ya wanted to meet the\nhero Adel, right?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk066_msg0030",
+      "style": 164,
+      "name": "Ya like painful things, don'tcha?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk066_msg0101",
+      "style": 84,
+      "name": "Yes, exactly..."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk066_msg0102",
+      "style": 84,
+      "name": "To be exact, it wasn't to meet him.\nI wanted to learn more about him."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk066_msg0201",
+      "style": 84,
+      "name": "Wha-!?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk066_msg0202",
+      "style": 84,
+      "name": "Don't misunderstand! I absolutely\ndo not enjoy that sort of thing!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk066_msg0203",
+      "style": 84,
+      "name": "I won't deny that being here brings\nme more pain than I expected..."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk066_msg0204",
+      "style": 84,
+      "name": "I'm simply enduring it as\npart of my training, but..."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk066_msg0205",
+      "style": 84,
+      "name": "I definitely do NOT enjoy pain\nor suffering of any kind!"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk066_msg0206",
+      "style": 84,
+      "name": "Nngh!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk066_msg0207",
+      "style": 84,
+      "name": "I-I see... But then, why come here?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk066_msg0208",
+      "style": 84,
+      "name": "Y-Yeah, that's right... Then\nwhy did you want to come here?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk066_msg0209",
+      "style": 84,
+      "name": "I was clearly off the mark... But\nwhy did you want to come here?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk066_msg0210",
+      "style": 84,
+      "name": "I see, ya have decent hobbies.\nSo, why'd ya want to come here?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk066_msg0211",
+      "style": 84,
+      "name": "Well..."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk066_msg0212",
+      "style": 84,
+      "name": "I wanted to learn even a\nlittle about the hero Adel."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk066_msg0301",
+      "style": 84,
+      "name": "Homura, Hikari, Kagutsuchi, as\nwell as Shin and Metsu... they're\nall linked to the hero Adel."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk066_msg0302",
+      "style": 84,
+      "name": "By knowing the past, I wanted\nto understand the present..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk066_msg0303",
+      "style": 84,
+      "name": "I thought knowing history would make\nthe meaning of our fight clearer."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk066_msg0304",
+      "style": 84,
+      "name": "Then my lance can pierce\nthose I must strike down\nwithout doubt or hesitation."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk066_msg0305",
+      "style": 84,
+      "name": "Tokiha, you're too serious. I don't\nthink you need to go that far."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk066_msg0306",
+      "style": 84,
+      "name": "Tokiha, you're too serious. You don't\nhave to go that far..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk066_msg0307",
+      "style": 84,
+      "name": "Tokiha, being too serious\ncan be a problem too. You're\nnot yourself right now."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk066_msg0308",
+      "style": 84,
+      "name": "Ain't Tokiha bein' too serious?\nYa don't have to go that far..."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk066_msg0309",
+      "style": 84,
+      "name": "Not at all! This is\nthe least I can do."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk066_msg0310",
+      "style": 84,
+      "name": "It's my duty to serve as my\nDriver's sword and shield."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk066_msg0311",
+      "style": 84,
+      "name": "I need to have absolute\nclarity in my purpose."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk066_msg0312",
+      "style": 84,
+      "name": "Now, let's investigate Elpis\nSpirit Cavern a bit more."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk066_msg0313",
+      "style": 84,
+      "name": "Ugh..."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk066_msg0314",
+      "style": 84,
+      "name": "...No, don't worry about\nme. Let's move forward."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk066_msg0315",
+      "style": 84,
+      "name": "I know how strong\nTokiha's will is, but..."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk066_msg0316",
+      "style": 84,
+      "name": "We should probably head\nback for today though..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk066_msg0317",
+      "style": 84,
+      "name": "I know how determined\nTokiha is, but..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk066_msg0318",
+      "style": 84,
+      "name": "We need to leave soon or\nTokiha might collapse..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk066_msg0319",
+      "style": 84,
+      "name": "I know how strong\nTokiha's resolve is, but..."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk066_msg0320",
+      "style": 84,
+      "name": "I need to stop her, or she'll\npush herself past her limit."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk066_msg0321",
+      "style": 84,
+      "name": "I get how strong\nTokiha's will is, but..."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk066_msg0322",
+      "style": 84,
+      "name": "We should head back soon, or\nTokiha's gonna collapse."
+    }
+  ]
+}

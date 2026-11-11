@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300143_02_msg0001",
+      "style": 84,
+      "name": "In the mercenaries, one wrong move\nand it could be the end for you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300143_02_msg0002",
+      "style": 84,
+      "name": "Even the Boss of the Hræsvelgr\nMerc Group doesn't get any\nspecial treatment there..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300143_02_msg0003",
+      "style": 84,
+      "name": "A skilled, bold, charismatic man...\nAnd yet death comes for everyone\njust the same."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300143_02_msg0004",
+      "style": 84,
+      "name": "There's no time to grieve. Especially\nnot for the one who succeeds him."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300143_02_msg0005",
+      "style": 84,
+      "name": "Don't stop. Just keep running forward.\nThat's all you can do."
+    }
+  ]
+}

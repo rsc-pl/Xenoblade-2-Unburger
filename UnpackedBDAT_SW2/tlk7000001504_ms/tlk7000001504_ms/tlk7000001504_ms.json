@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000015_01_msg0001",
+      "style": 84,
+      "name": "For a moment I really thought\nthat the chairman would jump.\nI was frozen with fear."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000015_01_msg0002",
+      "style": 84,
+      "name": "He said he just wanted to take in the\nview, but I think that must have been\na lie to keep me from worrying."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000015_01_msg0003",
+      "style": 84,
+      "name": "I knew deep down, but we were all\ntaking too much from chairman, making\ntoo many selfish demands on him."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000015_01_msg0004",
+      "style": 84,
+      "name": "The burden must have gotten too great."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000015_01_msg0005",
+      "style": 84,
+      "name": "The chairman has done so much\nfor us - it's time for us to\nsupport him in return."
+    }
+  ]
+}

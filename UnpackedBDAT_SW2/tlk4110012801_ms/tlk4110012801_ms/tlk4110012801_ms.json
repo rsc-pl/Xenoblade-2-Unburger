@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4110012801_msg0001",
+      "style": 84,
+      "name": "Moonlight Banana Au Lait is yummy!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4110012801_msg0002",
+      "style": 84,
+      "name": "But a whole one is too much, so\nI always split it with Karze!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4110012801_msg0003",
+      "style": 84,
+      "name": "Hey Karze! Let's play Pipe Jenga\nlater! I won't lose this time!"
+    }
+  ]
+}

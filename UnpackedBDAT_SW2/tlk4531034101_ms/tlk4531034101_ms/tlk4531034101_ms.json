@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310341_01_msg0001",
+      "style": 84,
+      "name": "Welcome to Hræsvelgr."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310341_01_msg0002",
+      "style": 84,
+      "name": "That's also the name of the mercenary\nband led by Vandham-san, as well as\nthis settlement."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310341_01_msg0003",
+      "style": 84,
+      "name": "As you can see, there are mercenaries\nand Drivers of all kinds here. And\nchildren too."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310341_01_msg0004",
+      "style": 84,
+      "name": "Naturally, you're\nwelcome here as well."
+    }
+  ]
+}

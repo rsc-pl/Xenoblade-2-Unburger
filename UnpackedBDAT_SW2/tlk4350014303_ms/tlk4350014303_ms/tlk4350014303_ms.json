@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300143_03_msg0001",
+      "style": 84,
+      "name": "Youngster, listen well."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300143_03_msg0002",
+      "style": 84,
+      "name": "You always seem to use the same\nBlades, don't you?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300143_03_msg0003",
+      "style": 84,
+      "name": "Your Merc Group has grown enough to\nhandle plenty of Blades now."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300143_03_msg0004",
+      "style": 84,
+      "name": "Well then, I'd urge you to try taking\nall sorts of different Blades along\nwith you on your adventures."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300143_03_msg0005",
+      "style": 84,
+      "name": "That way, you'll grow as a Driver too."
+    }
+  ]
+}

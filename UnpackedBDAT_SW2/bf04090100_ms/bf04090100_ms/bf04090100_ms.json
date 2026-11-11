@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf04090100_0010",
+      "style": 82,
+      "name": "Right, so we're setting sail tomorrow."
+    },
+    {
+      "$id": 2,
+      "label": "bf04090100_0020",
+      "style": 82,
+      "name": "Everyone, make sure\nyou're ready by then!"
+    },
+    {
+      "$id": 3,
+      "label": "bf04090100_0030",
+      "style": 82,
+      "name": "Understood."
+    },
+    {
+      "$id": 4,
+      "label": "bf04090100_0040",
+      "style": 82,
+      "name": "Understood, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "bf04090100_0050",
+      "style": 82,
+      "name": "The tea here is lovely."
+    },
+    {
+      "$id": 6,
+      "label": "bf04090100_0060",
+      "style": 82,
+      "name": "They gather rare things here from all over the world.\nDo you like it?"
+    },
+    {
+      "$id": 7,
+      "label": "bf04090100_0070",
+      "style": 82,
+      "name": "Yes. If there's time before we leave,\nI think I'll have another cup later."
+    },
+    {
+      "$id": 8,
+      "label": "bf04090100_0080",
+      "style": 82,
+      "name": "Yeah, after a voyage, it's nice\nbeing able to sleep at an inn."
+    },
+    {
+      "$id": 9,
+      "label": "bf04090100_0090",
+      "style": 82,
+      "name": "I can get some good rest at\nan inn I'm used to, too."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006101_08_msg0001",
+      "style": 84,
+      "name": "Lately, I've been helping\nout the salvagers."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006101_08_msg0002",
+      "style": 84,
+      "name": "I'm still just an apprentice, but\nI'm diving right into the Cloud\nSea and getting the job done!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk006101_08_msg0003",
+      "style": 84,
+      "name": "At this rate, it might not be long\nbefore we achieve our goal..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006101_08_msg0004",
+      "style": 84,
+      "name": "Oh, it's nothing! Pretend\nyou didn't hear that!"
+    }
+  ]
+}

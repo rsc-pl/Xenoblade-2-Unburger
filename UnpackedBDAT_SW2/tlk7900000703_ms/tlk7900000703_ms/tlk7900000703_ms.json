@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000007_03_msg0001",
+      "style": 62,
+      "name": "Adel-sama!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000007_03_msg0002",
+      "style": 62,
+      "name": "Please make sure you come back!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk79000007_03_msg0003",
+      "style": 62,
+      "name": "Sata and I will be waiting right here!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk79000007_03_msg0101",
+      "style": 62,
+      "name": "Defeat Metsu and make sure you bring\nAdel-sama back."
+    },
+    {
+      "$id": 5,
+      "label": "tlk79000007_03_msg0102",
+      "style": 62,
+      "name": "I'll protect Sata no matter what..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk79000007_03_msg0103",
+      "style": 62,
+      "name": "Promise!"
+    }
+  ]
+}

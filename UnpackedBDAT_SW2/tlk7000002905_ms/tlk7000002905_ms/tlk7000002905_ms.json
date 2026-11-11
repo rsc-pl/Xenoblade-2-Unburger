@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000029_05_msg0001",
+      "style": 84,
+      "name": "I've lived a long life, but never\nthought I'd see Iira in its awakened\nform..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000029_05_msg0002",
+      "style": 84,
+      "name": "I expect the road ahead of you will\nbe long and hard, and there is little\nan old man like me can do to help."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000029_05_msg0003",
+      "style": 84,
+      "name": "I can calm and encourage those gripped\nby fear. So please don't worry about\nus."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000029_05_msg0004",
+      "style": 84,
+      "name": "There are people here who believe in\nthe king and in you. We may not be\nwarriors but we're not powerless!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000029_05_msg0005",
+      "style": 84,
+      "name": "Please be careful. We must meet again."
+    }
+  ]
+}

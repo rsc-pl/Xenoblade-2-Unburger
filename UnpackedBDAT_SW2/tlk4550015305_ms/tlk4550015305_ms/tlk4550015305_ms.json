@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45500153_05_msg0001",
+      "style": 84,
+      "name": "Here's a bit of gossip\nI heard at the baths."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45500153_05_msg0002",
+      "style": 84,
+      "name": "Apparently His Majesty's Blade-sama\nhasn't been seen around lately."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45500153_05_msg0003",
+      "style": 84,
+      "name": "Some say he was sent to assassinate\nthe Queen of Invidia, or married her\nas a sign of friendship..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45500153_05_msg0004",
+      "style": 84,
+      "name": "Rumors like that are flying around."
+    }
+  ]
+}

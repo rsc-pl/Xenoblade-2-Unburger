@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000137_02_msg0001",
+      "style": 84,
+      "name": "I suggested that His Majesty might\nreturn to Superbia and rest..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000137_02_msg0002",
+      "style": 84,
+      "name": "But he just shook his head at me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000137_02_msg0003",
+      "style": 84,
+      "name": "His Majesty said stopping\nHeaven's Holy Grail was more\nimportant than anything else."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000137_02_msg0004",
+      "style": 84,
+      "name": "His Majesty is thinking not only of\nthe Empire, but of all Alst..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000137_02_msg0005",
+      "style": 84,
+      "name": "I can only follow His Majesty."
+    }
+  ]
+}

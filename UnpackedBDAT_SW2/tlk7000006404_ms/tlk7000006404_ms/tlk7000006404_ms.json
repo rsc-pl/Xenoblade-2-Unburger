@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000064_04_msg0001",
+      "style": 84,
+      "name": "Word of your recent exploits has\nreached Punpun's ears too, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000064_04_msg0002",
+      "style": 84,
+      "name": "Are people like you what they call\nphilanthropists, mo? Just like\npacifist Punpun, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000064_04_msg0003",
+      "style": 84,
+      "name": "Mo? You're not anything that grand,\nmo? Mo-mooo... You're all so shy, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000064_04_msg0004",
+      "style": 84,
+      "name": "I hope you'll keep helping more people\nand making them happy, just like you\nhelped Punpun, mo!"
+    }
+  ]
+}

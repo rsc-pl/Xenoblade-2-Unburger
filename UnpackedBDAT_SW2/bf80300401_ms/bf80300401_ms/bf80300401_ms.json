@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "56890101",
+      "style": 82,
+      "name": "Who woke me up?"
+    },
+    {
+      "$id": 2,
+      "label": "56890102",
+      "style": 82,
+      "name": "I'll smash everything to pieces!"
+    },
+    {
+      "$id": 3,
+      "label": "56890103",
+      "style": 82,
+      "name": "Uwaaaaaah!"
+    },
+    {
+      "$id": 4,
+      "label": "56890104",
+      "style": 82,
+      "name": "Take that! And that! And that!"
+    },
+    {
+      "$id": 5,
+      "label": "56890105",
+      "style": 82,
+      "name": "Youuuuu...!!"
+    },
+    {
+      "$id": 6,
+      "label": "56890106",
+      "style": 82,
+      "name": "Hah!"
+    },
+    {
+      "$id": 7,
+      "label": "56890107",
+      "style": 82,
+      "name": "...I'm Mei. Nice to meet you, I guess."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400021_01_msg0001",
+      "style": 84,
+      "name": "When you think of Gula, you think of\nlush green land! Furnishings made from\nGulan wood make perfect souvenirs!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400021_01_msg0002",
+      "style": 84,
+      "name": "It's wonderful, isn't it! Torigo has\nmore trees than any other city\nin Gula."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400021_01_msg0003",
+      "style": 84,
+      "name": "Our specialty products have a quality\nyou won't find in other Gulan cities.\nThey're handmade! Handmade!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400021_01_msg0004",
+      "style": 84,
+      "name": "Once you pick it up, you're\nsure to be captivated!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn040_msg0001",
+      "style": 84,
+      "name": "Aaah, I'm sleepy[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn040_msg0002",
+      "style": 84,
+      "name": "Gotta complain to\nTurtle-chan and Saika[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn040_msg0003",
+      "style": 84,
+      "name": "I'll tell 'em when we\ngo to Selkes Pillar[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn040_msg0004",
+      "style": 84,
+      "name": "Yaaawn... I'm still so sleepy[ML:Dash ]"
+    }
+  ]
+}

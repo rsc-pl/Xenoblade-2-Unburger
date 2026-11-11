@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320391_02_msg0001",
+      "style": 84,
+      "name": "We received word that Superbia\nhas initiated open conflict."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320391_02_msg0002",
+      "style": 84,
+      "name": "We want to send the Divine Beast\nweapon into battle, but with so few\npeople, progress is minimal."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320391_02_msg0003",
+      "style": 84,
+      "name": "I just hope we'll still have\na homeland to go back to at\nthe end of all this..."
+    }
+  ]
+}

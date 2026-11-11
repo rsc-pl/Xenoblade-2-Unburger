@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700321_04_msg0001",
+      "style": 84,
+      "name": "My job lately is to post\nflyers on the notice board."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700321_04_msg0002",
+      "style": 84,
+      "name": "We're short-staffed. I may\nrepresent the Gulan people, but\nI have to do the small jobs too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700321_04_msg0003",
+      "style": 84,
+      "name": "Do you ever look at them?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700321_04_msg0004",
+      "style": 84,
+      "name": "I hope you'll remember\nthat I'm the one who finds\nthe time to post them."
+    }
+  ]
+}

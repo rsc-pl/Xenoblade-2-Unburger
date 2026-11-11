@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004301_msg0001",
+      "style": 84,
+      "name": "Thanks for choosing me! This\nis a really great Merc Group."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004301_msg0002",
+      "style": 84,
+      "name": "The previous leader had a good\nreputation, but I can feel that\nthe new leader is trusted, too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004301_msg0003",
+      "style": 84,
+      "name": "I'll work as hard as I can to live up\nto your expectations!"
+    }
+  ]
+}

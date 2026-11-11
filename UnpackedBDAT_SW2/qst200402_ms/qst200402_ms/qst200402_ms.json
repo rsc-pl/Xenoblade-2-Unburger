@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200402_msg0001",
+      "style": 84,
+      "name": "Are you alright? Are you hurt?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200402_msg0002",
+      "style": 84,
+      "name": "Y-Yes... I'm fine."
+    },
+    {
+      "$id": 3,
+      "label": "qst200402_msg0003",
+      "style": 84,
+      "name": "Thank you very much for helping me."
+    },
+    {
+      "$id": 4,
+      "label": "qst200402_msg0004",
+      "style": 84,
+      "name": "Still, how'd you get mixed up\nwith people like that?"
+    },
+    {
+      "$id": 5,
+      "label": "qst200402_msg0005",
+      "style": 84,
+      "name": "They were collecting a debt..."
+    },
+    {
+      "$id": 6,
+      "label": "qst200402_msg0006",
+      "style": 84,
+      "name": "I accidentally injured someone\nimportant at work."
+    },
+    {
+      "$id": 7,
+      "label": "qst200402_msg0007",
+      "style": 84,
+      "name": "I had to take out a loan to pay\nfor their medical bills, but..."
+    },
+    {
+      "$id": 8,
+      "label": "qst200402_msg0008",
+      "style": 84,
+      "name": "It seems I borrowed from the\nwrong people, and the interest\nkept growing day by day..."
+    },
+    {
+      "$id": 9,
+      "label": "qst200402_msg0009",
+      "style": 84,
+      "name": "Instead of shrinking, the debt keeps\ngrowing. Even cutting living costs,\nI can't keep up with the payments."
+    },
+    {
+      "$id": 10,
+      "label": "qst200402_msg0010",
+      "style": 84,
+      "name": "I see... So that's why\nthey were harassing you."
+    },
+    {
+      "$id": 11,
+      "label": "qst200402_msg0011",
+      "style": 84,
+      "name": "At this rate, I won't be able to\nlive, let alone make payments..."
+    },
+    {
+      "$id": 12,
+      "label": "qst200402_msg0012",
+      "style": 84,
+      "name": "I feel like there's no\npoint in living anymore..."
+    },
+    {
+      "$id": 13,
+      "label": "qst200402_msg0013",
+      "style": 84,
+      "name": "Don't say that! If you\ndie, it's all over!"
+    },
+    {
+      "$id": 14,
+      "label": "qst200402_msg0014",
+      "style": 84,
+      "name": "Nia is right."
+    },
+    {
+      "$id": 15,
+      "label": "qst200402_msg0015",
+      "style": 84,
+      "name": "If you keep going, I'm sure\nsomething good will happen."
+    },
+    {
+      "$id": 16,
+      "label": "qst200402_msg0016",
+      "style": 84,
+      "name": "It's too soon to give up on life."
+    },
+    {
+      "$id": 17,
+      "label": "qst200402_msg0017",
+      "style": 84,
+      "name": "That's right. We'll help\nyou pay back the debt."
+    },
+    {
+      "$id": 18,
+      "label": "qst200402_msg0018",
+      "style": 84,
+      "name": "Everyone... Thank you so much...!"
+    },
+    {
+      "$id": 19,
+      "label": "qst200402_msg0019",
+      "style": 84,
+      "name": "For now, you look pale. You should\ngo home and rest for today."
+    },
+    {
+      "$id": 20,
+      "label": "qst200402_msg0020",
+      "style": 84,
+      "name": "Yes... I think I will."
+    },
+    {
+      "$id": 21,
+      "label": "qst200402_msg0031",
+      "style": 84,
+      "name": "My house is nearby. If\nthere are any developments,\nplease let me know..."
+    },
+    {
+      "$id": 22,
+      "label": "qst200402_msg0032",
+      "style": 84,
+      "name": "Yeah, you can count on us."
+    },
+    {
+      "$id": 23,
+      "label": "qst200402_msg0033",
+      "style": 84,
+      "name": "I'm counting on you...\nWell then, excuse me."
+    },
+    {
+      "$id": 24,
+      "label": "qst200402_msg0021",
+      "style": 84,
+      "name": "...Alright, then. Shall we go ask\naround about this loan shark?"
+    },
+    {
+      "$id": 25,
+      "label": "qst200402_msg0022",
+      "style": 84,
+      "name": "...Would you mind waiting a moment?"
+    },
+    {
+      "$id": 26,
+      "label": "qst200402_msg0023",
+      "style": 84,
+      "name": "What is it, Vasara?"
+    },
+    {
+      "$id": 27,
+      "label": "qst200402_msg0024",
+      "style": 84,
+      "name": "This is merely my intuition, but..."
+    },
+    {
+      "$id": 28,
+      "label": "qst200402_msg0025",
+      "style": 84,
+      "name": "I feel there is more to this case\nthan a simple civilian dispute.\nThere is something else at play..."
+    },
+    {
+      "$id": 29,
+      "label": "qst200402_msg0026",
+      "style": 84,
+      "name": "I would like to assist\nin this investigation."
+    },
+    {
+      "$id": 30,
+      "label": "qst200402_msg0027",
+      "style": 84,
+      "name": "It's unusual to hear you say\nsomething like that, Vasara."
+    },
+    {
+      "$id": 31,
+      "label": "qst200402_msg0028",
+      "style": 84,
+      "name": "Alright. Let's split up\nand gather information."
+    },
+    {
+      "$id": 32,
+      "label": "qst200402_msg0029",
+      "style": 84,
+      "name": "Once we have some information,\nlet's go to Eleanor-san's house\nand discuss. Sound good?"
+    },
+    {
+      "$id": 33,
+      "label": "qst200402_msg0030",
+      "style": 84,
+      "name": "Yes, understood."
+    }
+  ]
+}

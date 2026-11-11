@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350212_02_msg0001",
+      "style": 84,
+      "name": "We have auctions here almost every\nday, but a Core Crystal has never\nbeen put up for sale, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350212_02_msg0002",
+      "style": 84,
+      "name": "This is because there are\nfew Nopon with the aptitude\nto be a Driver, and..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350212_02_msg0003",
+      "style": 84,
+      "name": "Core Crystals are taken to\nAcedia to be refined, so they\ndon't just end up here, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350212_02_msg0004",
+      "style": 84,
+      "name": "So a Driver might get curious and\npeek in here from time to time, but\nhoping will only disappoint you, mo!"
+    }
+  ]
+}

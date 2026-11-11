@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00040105_msg0001",
+      "style": 84,
+      "name": "You never know what you'll find in\nan unknown place. Be very careful."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00040105_msg0003",
+      "style": 84,
+      "name": "Well, those people are Drivers.\nWe know they're strong, so they'll\nmanage no matter what happens."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00040105_msg0004",
+      "style": 84,
+      "name": "So you just focus on your own\nrole, Rex, and don't worry."
+    }
+  ]
+}

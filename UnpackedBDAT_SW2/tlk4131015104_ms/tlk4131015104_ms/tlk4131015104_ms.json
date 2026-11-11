@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310151_04_msg0001",
+      "style": 84,
+      "name": "I heard you crushed Lindwurm, the\nanti-Empire organization!\nImpressive...!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310151_04_msg0002",
+      "style": 84,
+      "name": "After hearing Doon and Bahn were\ncaptured, Senator Stole finally\nstarted talking."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310151_04_msg0003",
+      "style": 84,
+      "name": "It's strange for me to say\nthis, but... thank you."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41310151_04_msg0004",
+      "style": 84,
+      "name": "The Empire being safe means I keep\nmy job and can support my younger\nbrothers!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104705_msg001",
+      "style": 62,
+      "name": "The men went to Iyasaki Port for\nhelp but haven't returned... Could\nyou go and check on them?"
+    },
+    {
+      "$id": 2,
+      "label": "qst104705_msg0001",
+      "style": 84,
+      "name": "Enju-san!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104705_msg0002",
+      "style": 84,
+      "name": "Byakko-san! Yes, please,\nI need your help!"
+    },
+    {
+      "$id": 4,
+      "label": "qst104705_msg0003",
+      "style": 84,
+      "name": "Understood! Everyone,\nprepare for battle!"
+    }
+  ]
+}

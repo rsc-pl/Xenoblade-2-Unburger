@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400071_03_msg0001",
+      "style": 84,
+      "name": "I envy people like you, who can\ntravel the world so freely."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400071_03_msg0002",
+      "style": 84,
+      "name": "I've been here for ten years\nalready. What's the difference\nbetween you and me?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400071_03_msg0003",
+      "style": 84,
+      "name": "Where we were born? Whether\nwe have a Blade? There's\nnothing I can do about that."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400071_03_msg0004",
+      "style": 84,
+      "name": "I must have just been unlucky.\nI was born in the wrong era."
+    }
+  ]
+}

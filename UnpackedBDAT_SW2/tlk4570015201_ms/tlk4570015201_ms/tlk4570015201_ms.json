@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45700152_01_msg0001",
+      "style": 84,
+      "name": "My name's Hamoosh. I'm with\nthe Lost Technology Bureau."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45700152_01_msg0002",
+      "style": 84,
+      "name": "We send what we salvage here to the\nTechnological Research Center for\nstudy."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45700152_01_msg0003",
+      "style": 84,
+      "name": "Superbia's technology is possible\nbecause we have a system like this in\nplace."
+    }
+  ]
+}

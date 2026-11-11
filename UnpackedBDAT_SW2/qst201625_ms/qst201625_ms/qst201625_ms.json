@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201625_msg0001",
+      "style": 84,
+      "name": "Please bring the girl we met\nin Torigo, mo. We'll be waiting\nat the concert venue, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst201623_msg0002",
+      "style": 84,
+      "name": "Since our words aren't\nreaching Nanakoori-san,\nshe's our only hope, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst201625_msg0101",
+      "style": 84,
+      "name": "Mo-mo! You brought her, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst201625_msg0102",
+      "style": 84,
+      "name": "Now, please let her see\nNanakoori-san quickly, mo."
+    }
+  ]
+}

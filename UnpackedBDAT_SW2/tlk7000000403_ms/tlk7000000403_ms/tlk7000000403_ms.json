@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000004_03_msg0001",
+      "style": 84,
+      "name": "Zain keeps a cool face, but it looks\nlike he built the shelter to the very\nlimit of what can work indoors."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000004_03_msg0002",
+      "style": 84,
+      "name": "It's blast-, quake- and fireproof,\nand built to hold even if this inn\ncollapsed under its own weight."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000004_03_msg0003",
+      "style": 84,
+      "name": "Next we need to worry about\nfood, medicine stockpiles, air\nfiltering and the like..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000004_03_msg0004",
+      "style": 84,
+      "name": "No need to worry. As you can see,\nIira's technology already surpasses\neven Superbia's."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000004_03_msg0005",
+      "style": 84,
+      "name": "If we can't handle it ourselves,\nwe can ask the palace engineers.\nThey'll be able to help."
+    }
+  ]
+}

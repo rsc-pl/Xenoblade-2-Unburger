@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47600162_01_msg0001",
+      "style": 84,
+      "name": "How about a dish made with fresh\nvegetables from my fields?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47600162_01_msg0004",
+      "style": 84,
+      "name": "Well, Owner-san. I'm glad you seem\nto like it."
+    }
+  ]
+}

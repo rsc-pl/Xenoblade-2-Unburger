@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000001_01_msg0001",
+      "style": 62,
+      "name": "I don't do well with such formal\nplaces. Shin, please go in my place."
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000001_01_msg0002",
+      "style": 62,
+      "name": "But if it's somewhere other than the\nRoyal Ship, I'll come with you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk79000001_01_msg0003",
+      "style": 62,
+      "name": "Take Laura and Kasumi?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk79000001_01_msg0004",
+      "style": 62,
+      "name": "Yes"
+    },
+    {
+      "$id": 5,
+      "label": "tlk79000001_01_msg0005",
+      "style": 62,
+      "name": "Not yet"
+    },
+    {
+      "$id": 6,
+      "label": "tlk79000001_01_msg0101",
+      "style": 62,
+      "name": "All right, then let's go."
+    },
+    {
+      "$id": 7,
+      "label": "tlk79000001_01_msg0201",
+      "style": 62,
+      "name": "OK, then."
+    },
+    {
+      "$id": 8,
+      "label": "tlk79000001_01_msg0202",
+      "style": 62,
+      "name": "I'll wait around here a bit longer."
+    }
+  ]
+}

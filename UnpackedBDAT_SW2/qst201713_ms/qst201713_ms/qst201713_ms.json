@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201713_msg0010",
+      "style": 84,
+      "name": "This goes here... and this here..."
+    },
+    {
+      "$id": 2,
+      "label": "qst201713_msg0011",
+      "style": 84,
+      "name": "Alright, repairs are complete, sir!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201713_msg0012",
+      "style": 84,
+      "name": "Good work, Newt."
+    },
+    {
+      "$id": 4,
+      "label": "qst201713_msg0013",
+      "style": 84,
+      "name": "No, Rex-dono, without your\nhelp, the repairs would have\nbeen impossible, sir."
+    },
+    {
+      "$id": 5,
+      "label": "qst201713_msg0014",
+      "style": 84,
+      "name": "I am the one who should\nbe grateful, sir!"
+    },
+    {
+      "$id": 6,
+      "label": "qst201713_msg0015",
+      "style": 84,
+      "name": "Don't be so formal. It's only natural\nto help a friend in need, right?"
+    },
+    {
+      "$id": 7,
+      "label": "qst201713_msg0016",
+      "style": 84,
+      "name": "Anyway, now that the repairs\nare done, let's go report\nto the Grand Marshal."
+    },
+    {
+      "$id": 8,
+      "label": "qst201713_msg0017",
+      "style": 84,
+      "name": "Oh, right! Let's go see\nthe Grand Marshal at once!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200143_01_msg0001",
+      "style": 84,
+      "name": "Jillwood's amazing, isn't he?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200143_01_msg0002",
+      "style": 84,
+      "name": "I don't have parents either, but I\ndon't feel like avenging them..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200143_01_msg0003",
+      "style": 84,
+      "name": "It wouldn't change anything, and I\nthink it's something you just have\nto accept."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200143_01_msg0004",
+      "style": 84,
+      "name": "Ah, but maybe I only feel fine as I am\nbecause life here is fun."
+    }
+  ]
+}

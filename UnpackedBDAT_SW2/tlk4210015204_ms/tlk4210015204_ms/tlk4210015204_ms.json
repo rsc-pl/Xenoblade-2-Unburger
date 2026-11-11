@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100152_04_msg0001",
+      "style": 84,
+      "name": "Be careful of the information broker\nin Superbia. That broker's a pro."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100152_04_msg0002",
+      "style": 84,
+      "name": "That broker usually puts on a friendly\nface, but it's a trap. There's nothing\nthe broker won't do for information."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100152_04_msg0003",
+      "style": 84,
+      "name": "Looking into those eyes feels like\nhaving the depths of my heart exposed.\nIt makes me uneasy."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100152_04_msg0004",
+      "style": 84,
+      "name": "That broker even tries to get\ninformation from a fox like me.\nThat's one frightening broker."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104402_msg001",
+      "style": 62,
+      "name": "Thank you. Here is the salve. Please\ngive it to the injured refugees."
+    },
+    {
+      "$id": 2,
+      "label": "qst104402_msg002",
+      "style": 62,
+      "name": "Please give the salve to\nthe injured refugees."
+    }
+  ]
+}

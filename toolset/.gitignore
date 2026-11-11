@@ -1,0 +1,28 @@
+# Private project records and machine-generated files
+/.local/
+/target/
+/dist/
+/.cache/
+/tmp/
+/generated/
+*.tmp
+*.staged
+*.bak
+*.log
+.DS_Store
+
+# Local configuration and credentials
+.env
+.env.*
+*.keys
+*.key
+*.pem
+
+# Local game inputs and derived assets
+*.bdat
+*.nsp
+*.nsz
+*.xci
+*.xcz
+*.iso
+*.rom

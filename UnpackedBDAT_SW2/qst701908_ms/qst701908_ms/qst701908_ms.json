@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701908_msg0001",
+      "style": 84,
+      "name": "*Sigh*..."
+    },
+    {
+      "$id": 2,
+      "label": "qst701908_msg0002",
+      "style": 84,
+      "name": "I really thought a special\nremedy made from Dana Scalers\nwould cure her."
+    },
+    {
+      "$id": 3,
+      "label": "qst701908_msg0003",
+      "style": 84,
+      "name": "I tried really hard to\nmake it taste good, but\nit's just not working..."
+    },
+    {
+      "$id": 4,
+      "label": "qst701908_msg0004",
+      "style": 84,
+      "name": "I wonder if there's another way..."
+    }
+  ]
+}

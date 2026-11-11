@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350212_03_msg0001",
+      "style": 84,
+      "name": "Even without Chairman Bahn, Avaritia\nwill continue to prosper, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350212_03_msg0002",
+      "style": 84,
+      "name": "By buying a lot, selling a lot,\nand solving a lot of problems..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350212_03_msg0003",
+      "style": 84,
+      "name": "As Avaritia develops, more jobs\nwill be created, and that will\nlead to even more products, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350212_03_msg0004",
+      "style": 84,
+      "name": "Cushion will work hard, so\nyou work hard too, and let's\nmake Avaritia prosper, mo."
+    }
+  ]
+}

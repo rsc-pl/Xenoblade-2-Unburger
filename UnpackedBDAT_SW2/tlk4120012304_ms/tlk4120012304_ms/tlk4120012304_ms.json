@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200123_04_msg0001",
+      "style": 84,
+      "name": "Driver's Code, Rule One!\nBe kind to everyone, and try\nto get along with them!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200123_04_msg0002",
+      "style": 84,
+      "name": "Hello! This is the code\nfor becoming a Driver."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200123_04_msg0003",
+      "style": 84,
+      "name": "Yup! My teacher said that to\nresonate with a Core Crystal,\nyou must first train yourself!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200123_04_msg0004",
+      "style": 84,
+      "name": "Someone with a rich heart\nis more likely to resonate\nwith a good Blade!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41200123_04_msg0005",
+      "style": 84,
+      "name": "Driver's Code, Rule Two! If you see\nsomeone in trouble, help them out!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004201_msg0001",
+      "style": 84,
+      "name": "I'm Delfina. I handle the\nadministrative work for the\nHræsvelgr Merc Group. It's a pleasure."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004201_msg0002",
+      "style": 84,
+      "name": "Since Vandham brought you here,\nyou must have potential."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004201_msg0003",
+      "style": 84,
+      "name": "If you're interested in work\nfor the Merc Group, don't\nhesitate to let me know."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702205_msg0001",
+      "style": 84,
+      "name": "I knew I dropped the key, but I was\ntoo busy running to pick it up."
+    },
+    {
+      "$id": 2,
+      "label": "qst702205_msg0002",
+      "style": 84,
+      "name": "Ah, but in a way, it's safe! It's\ndeep inside the Grafton Feris den\nin the Rakina Plains."
+    },
+    {
+      "$id": 3,
+      "label": "qst702205_msg0003",
+      "style": 84,
+      "name": "...I know. I really do regret this."
+    },
+    {
+      "$id": 4,
+      "label": "qst702205_msg0004",
+      "style": 84,
+      "name": "I just can't calm down if I'm\nnot talking..."
+    }
+  ]
+}

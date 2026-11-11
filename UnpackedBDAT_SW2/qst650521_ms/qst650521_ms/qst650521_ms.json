@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650521_msg0001",
+      "style": 84,
+      "name": "Anyone without a mission\nrelaxes here, then."
+    },
+    {
+      "$id": 2,
+      "label": "qst650521_msg0002",
+      "style": 84,
+      "name": "It reminds me of the BLADE Home\nback home... I quite like it here."
+    }
+  ]
+}

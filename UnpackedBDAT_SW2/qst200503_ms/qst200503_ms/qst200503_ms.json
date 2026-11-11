@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200503_msg032",
+      "style": 84,
+      "name": "Hey, you. Are you a Driver?"
+    },
+    {
+      "$id": 2,
+      "label": "qst200503_msg033",
+      "style": 84,
+      "name": "Yeah, I am...\nWhat do you need?"
+    },
+    {
+      "$id": 3,
+      "label": "qst200503_msg034",
+      "style": 84,
+      "name": "I see, that's perfect!"
+    },
+    {
+      "$id": 4,
+      "label": "qst200503_msg035",
+      "style": 84,
+      "name": "I'm looking for someone who can\nretrieve some cargo for me."
+    },
+    {
+      "$id": 5,
+      "label": "qst200503_msg001",
+      "style": 84,
+      "name": "Retrieve cargo...?"
+    },
+    {
+      "$id": 6,
+      "label": "qst200503_msg002",
+      "style": 84,
+      "name": "Yes. About a year ago,\nmy ship ran aground."
+    },
+    {
+      "$id": 7,
+      "label": "qst200503_msg003",
+      "style": 84,
+      "name": "The cargo was left\nbehind inside the ship."
+    },
+    {
+      "$id": 8,
+      "label": "qst200503_msg004",
+      "style": 84,
+      "name": "What kind of cargo is it?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200503_msg005",
+      "style": 84,
+      "name": "...Paintings."
+    },
+    {
+      "$id": 10,
+      "label": "qst200503_msg006",
+      "style": 84,
+      "name": "Paintings?"
+    },
+    {
+      "$id": 11,
+      "label": "qst200503_msg007",
+      "style": 84,
+      "name": "Yeah. The paintings I want back\nare ones I painted myself."
+    },
+    {
+      "$id": 12,
+      "label": "qst200503_msg012",
+      "style": 84,
+      "name": "Then, are you a painter?"
+    },
+    {
+      "$id": 13,
+      "label": "qst200503_msg013",
+      "style": 84,
+      "name": "No, no, that's not my main job."
+    },
+    {
+      "$id": 14,
+      "label": "qst200503_msg014",
+      "style": 84,
+      "name": "Painting is just a hobby,\nbut my love for it is real."
+    },
+    {
+      "$id": 15,
+      "label": "qst200503_msg015",
+      "style": 84,
+      "name": "...Well, they're not very\ngood, but they are paintings\nI'm attached to."
+    },
+    {
+      "$id": 16,
+      "label": "qst200503_msg036",
+      "style": 84,
+      "name": "I thought about giving up on them,\nbut even after a year, I can't."
+    },
+    {
+      "$id": 17,
+      "label": "qst200503_msg037",
+      "style": 84,
+      "name": "What do you say? Would you be\nwilling to take on this request?"
+    },
+    {
+      "$id": 18,
+      "label": "qst200503_msg016",
+      "style": 84,
+      "name": "I see. They are important to you..."
+    },
+    {
+      "$id": 19,
+      "label": "qst200503_msg017",
+      "style": 84,
+      "name": "Understood. I will be sure\nto retrieve your paintings."
+    },
+    {
+      "$id": 20,
+      "label": "qst200503_msg018",
+      "style": 84,
+      "name": "Really!? That's a huge help!"
+    },
+    {
+      "$id": 21,
+      "label": "qst200503_msg019",
+      "style": 84,
+      "name": "So, where is the ship\nthat ran aground?"
+    },
+    {
+      "$id": 22,
+      "label": "qst200503_msg020",
+      "style": 84,
+      "name": "Uhm... About that..."
+    },
+    {
+      "$id": 23,
+      "label": "qst200503_msg021",
+      "style": 84,
+      "name": "What is it?"
+    },
+    {
+      "$id": 24,
+      "label": "qst200503_msg022",
+      "style": 84,
+      "name": "I was the owner of the ship,\nbut not the captain, so I left\nthe navigation to the crew."
+    },
+    {
+      "$id": 25,
+      "label": "qst200503_msg038",
+      "style": 84,
+      "name": "I wasn't on the ship at the time."
+    },
+    {
+      "$id": 26,
+      "label": "qst200503_msg039",
+      "style": 84,
+      "name": "So, I don't know the detailed\nroute or where it ran aground..."
+    },
+    {
+      "$id": 27,
+      "label": "qst200503_msg023",
+      "style": 84,
+      "name": "What?!"
+    },
+    {
+      "$id": 28,
+      "label": "qst200503_msg024",
+      "style": 84,
+      "name": "...Then there's no way to find it."
+    },
+    {
+      "$id": 29,
+      "label": "qst200503_msg025",
+      "style": 84,
+      "name": "Yeah... that's the problem.\nWhat am I supposed to do?"
+    },
+    {
+      "$id": 30,
+      "label": "qst200503_msg026",
+      "style": 84,
+      "name": "...Is there anyone from the crew\nat the time who would know?"
+    },
+    {
+      "$id": 31,
+      "label": "qst200503_msg027",
+      "style": 84,
+      "name": "Of course! Someone might remember!"
+    },
+    {
+      "$id": 32,
+      "label": "qst200503_msg028",
+      "style": 84,
+      "name": "Alban-san, could you tell\nus about the former crew?"
+    },
+    {
+      "$id": 33,
+      "label": "qst200503_msg029",
+      "style": 84,
+      "name": "Sure. There are three crew\nmembers living in this city.\nIt should be easy to find them."
+    },
+    {
+      "$id": 34,
+      "label": "qst200503_msg030",
+      "style": 84,
+      "name": "Their names are... Benito,\nGamillo, and Riddalca."
+    },
+    {
+      "$id": 35,
+      "label": "qst200503_msg042",
+      "style": 84,
+      "name": "I'm counting on you."
+    },
+    {
+      "$id": 36,
+      "label": "qst200503_msg031",
+      "style": 84,
+      "name": "Understood. Leave the rest to us."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103903_msg0001",
+      "style": 84,
+      "name": "Hey. Here to send something?"
+    },
+    {
+      "$id": 2,
+      "label": "qst103903_msg0002",
+      "style": 84,
+      "name": "The amount that arrived was\nway too small, you say?"
+    },
+    {
+      "$id": 3,
+      "label": "qst103903_msg0003",
+      "style": 84,
+      "name": "What, you think I'm skimming the\nhandling fees or something?"
+    },
+    {
+      "$id": 4,
+      "label": "qst103903_msg0004",
+      "style": 84,
+      "name": "I send Rex's money after it\nbuilds up to around 90,000G."
+    },
+    {
+      "$id": 5,
+      "label": "qst103903_msg0005",
+      "style": 84,
+      "name": "Iyasaki Village is a long way\noff... Sending it in small\nbits just racks up the fees."
+    },
+    {
+      "$id": 6,
+      "label": "qst103903_msg0006",
+      "style": 84,
+      "name": "The Avaritia Trading Company\ntakes a 2% fee... so for\n90,000G, that's 1,800G."
+    },
+    {
+      "$id": 7,
+      "label": "qst103903_msg0007",
+      "style": 84,
+      "name": "That means at least 88,200G\nshould have been sent from here."
+    },
+    {
+      "$id": 8,
+      "label": "qst103903_msg0008",
+      "style": 84,
+      "name": "From my end, I hand it off\nto a courier named Hugh\nat the port in Torigo."
+    },
+    {
+      "$id": 9,
+      "label": "qst103903_msg0009",
+      "style": 84,
+      "name": "There's no direct route to\nLiberalitas, so we've got no\nchoice but to go via him."
+    },
+    {
+      "$id": 10,
+      "label": "qst103903_msg0010",
+      "style": 84,
+      "name": "You should probably check the\nfees with Hugh in Torigo, too."
+    },
+    {
+      "$id": 11,
+      "label": "qst103903_msg0011",
+      "style": 84,
+      "name": "If anything happens,\nI'll help you out."
+    },
+    {
+      "$id": 12,
+      "label": "qst103903_msg0012",
+      "style": 84,
+      "name": "After all, Rex and the others are\nsome of my best customers."
+    },
+    {
+      "$id": 13,
+      "label": "qst103903_msg0101",
+      "style": 84,
+      "name": "You might think the fees\nare a little high, but..."
+    },
+    {
+      "$id": 14,
+      "label": "qst103903_msg0102",
+      "style": 84,
+      "name": "If something is cheap and good,\nsomeone somewhere is crying."
+    },
+    {
+      "$id": 15,
+      "label": "qst103903_msg0103",
+      "style": 84,
+      "name": "That's no way to do business."
+    },
+    {
+      "$id": 16,
+      "label": "qst103903_msg0201",
+      "style": 84,
+      "name": "You want to set up a direct,\nregular route between Avaritia\nand Iyasaki Village?"
+    },
+    {
+      "$id": 17,
+      "label": "qst103903_msg0202",
+      "style": 84,
+      "name": "Hmm... There aren't enough\ngoods going to Iyasaki Village\nto justify a daily run."
+    },
+    {
+      "$id": 18,
+      "label": "qst103903_msg0203",
+      "style": 84,
+      "name": "But since it's you asking...\nI'll see what I can do."
+    },
+    {
+      "$id": 19,
+      "label": "qst103903_msg0204",
+      "style": 84,
+      "name": "Alright! A once-a-week shipment to\nPort Isheba should be possible!"
+    },
+    {
+      "$id": 20,
+      "label": "qst103903_msg0205",
+      "style": 84,
+      "name": "Whoa, whoa, hold on a\nsecond. There's a problem."
+    },
+    {
+      "$id": 21,
+      "label": "qst103903_msg0206",
+      "style": 84,
+      "name": "Unfortunately, I don't have a\nDivine Beast ship that can\nhandle long-distance transport."
+    },
+    {
+      "$id": 22,
+      "label": "qst103903_msg0207",
+      "style": 84,
+      "name": "If you guys can get a ship, I'll\nstart running the regular route."
+    },
+    {
+      "$id": 23,
+      "label": "qst103903_msg0208",
+      "style": 84,
+      "name": "If you want to buy a ship,\ntalk to Pukapu, the Nopon\non the Goldmund Flight Deck."
+    },
+    {
+      "$id": 24,
+      "label": "qst103903_msg0209",
+      "style": 84,
+      "name": "If you want to borrow one,\nI hear Umon, a Nopon in\nGula, will lend one out."
+    },
+    {
+      "$id": 25,
+      "label": "qst103903_msg0210",
+      "style": 84,
+      "name": "It's a lot to ask, but...\nit's for your hometown.\nGive it your best shot."
+    },
+    {
+      "$id": 26,
+      "label": "qst103903_msg0301",
+      "style": 84,
+      "name": "If you want to buy a ship,\ntalk to Pukapu, the Nopon\non the Goldmund Flight Deck."
+    },
+    {
+      "$id": 27,
+      "label": "qst103903_msg0302",
+      "style": 84,
+      "name": "If you want to borrow one,\nI hear Umon, a Nopon in\nGula, will lend one out."
+    },
+    {
+      "$id": 28,
+      "label": "qst103903_msg0303",
+      "style": 84,
+      "name": "I have faith that you\nguys can pull it off."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000042_01_msg0001",
+      "style": 84,
+      "name": "I've got enough fish now to supply\nChico-san and the town merchants.\nIt's all thanks to you, you know."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000042_01_msg0002",
+      "style": 84,
+      "name": "Things are looking up. I'm actually\npretty surprised how many people were\nthrilled to see me back in business."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000042_01_msg0003",
+      "style": 84,
+      "name": "After all, Iirans tend to prefer\nbeans and Kordeth. I didn't realise\nso many people cared about my fish!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000042_01_msg0004",
+      "style": 84,
+      "name": "I think folks're still scared. Maybe\nseeing the fish thrive helps reassure\nthem we can get back to normal."
+    }
+  ]
+}

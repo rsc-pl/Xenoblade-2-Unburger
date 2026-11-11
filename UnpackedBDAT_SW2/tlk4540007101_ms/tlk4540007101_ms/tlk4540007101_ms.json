@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45400071_01_msg0001",
+      "style": 84,
+      "name": "Just when I was enjoying an Odifa at\nCafe Lutino, my good mood was ruined."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45400071_01_msg0002",
+      "style": 84,
+      "name": "You saw them too, right? All\nthose anti-Blade protesters!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45400071_01_msg0003",
+      "style": 84,
+      "name": "I mean, sure, Blades are used for\nwar. But it's not like they're the\nones causing the conflict, are they?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45400071_01_msg0004",
+      "style": 84,
+      "name": "It'd make more sense to call on\nInvidia to surrender."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41200126_01_msg0001",
+      "style": 84,
+      "name": "Do you know what a Torigoriuto is?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41200126_01_msg0002",
+      "style": 84,
+      "name": "It's the instrument I'm\nplaying right now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41200126_01_msg0003",
+      "style": 84,
+      "name": "I practice as hard as I can every\nnight, but I still have a long way\nto go."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41200126_01_msg0004",
+      "style": 84,
+      "name": "All Gulans love music, you see.\nNo one will acknowledge you unless\nyou get really, really good."
+    }
+  ]
+}

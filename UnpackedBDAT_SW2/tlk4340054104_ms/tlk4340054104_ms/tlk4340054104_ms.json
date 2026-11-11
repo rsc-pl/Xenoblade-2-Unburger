@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400541_04_msg0001",
+      "style": 84,
+      "name": "The water in the paddies\nseems a bit odd."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400541_04_msg0002",
+      "style": 84,
+      "name": "Is it because we used the power of\nthe Invidia Divine Beast, maybe?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400541_04_msg0003",
+      "style": 84,
+      "name": "It'll probably return to normal, but\nthe next Folta harvest may be poor."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400541_04_msg0004",
+      "style": 84,
+      "name": "The sooner it's right\nagain, the better..."
+    }
+  ]
+}

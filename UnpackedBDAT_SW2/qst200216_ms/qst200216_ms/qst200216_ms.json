@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200216_msg0001",
+      "style": 84,
+      "name": "Alright, everything's gathered!\nWell then, I'm setting off soon."
+    },
+    {
+      "$id": 2,
+      "label": "qst200216_msg0002",
+      "style": 84,
+      "name": "The client's eagerly waiting for it."
+    },
+    {
+      "$id": 3,
+      "label": "qst200216_msg0003",
+      "style": 84,
+      "name": "So, where are you\ntransporting this cargo to?"
+    },
+    {
+      "$id": 4,
+      "label": "qst200216_msg0004",
+      "style": 84,
+      "name": "Genbu Port in Luxuria."
+    },
+    {
+      "$id": 5,
+      "label": "qst200216_msg0005",
+      "style": 84,
+      "name": "Do you know anything about the client?"
+    },
+    {
+      "$id": 6,
+      "label": "qst200216_msg0006",
+      "style": 84,
+      "name": "Ships like this carry cargo\nfor all sorts of clients."
+    },
+    {
+      "$id": 7,
+      "label": "qst200216_msg0007",
+      "style": 84,
+      "name": "So, I don't really know what I'm\ncarrying or who the client is."
+    },
+    {
+      "$id": 8,
+      "label": "qst200216_msg0008",
+      "style": 84,
+      "name": "I see[ML:Dash ]"
+    },
+    {
+      "$id": 9,
+      "label": "qst200216_msg0009",
+      "style": 84,
+      "name": "Where will you hand over this cargo?"
+    },
+    {
+      "$id": 10,
+      "label": "qst200216_msg0010",
+      "style": 84,
+      "name": "Once I unload it at the port, my job's\ndone. Why? Something up?"
+    },
+    {
+      "$id": 11,
+      "label": "qst200216_msg0011",
+      "style": 84,
+      "name": "No, don't worry about it."
+    },
+    {
+      "$id": 12,
+      "label": "qst200216_msg0012",
+      "style": 84,
+      "name": "Well then, I'm setting off. Thank\nyou, you really helped me out!"
+    }
+  ]
+}

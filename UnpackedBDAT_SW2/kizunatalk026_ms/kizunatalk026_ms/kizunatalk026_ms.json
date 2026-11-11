@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk026_msg001",
+      "style": 84,
+      "name": "This looks like a good\nspot to take a break..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk026_msg002",
+      "style": 84,
+      "name": "Hikari, can I ask you something?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk026_msg003",
+      "style": 84,
+      "name": "What? Why so formal all of a sudden?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk026_msg004",
+      "style": 84,
+      "name": "I reread my old records. We sparred\nmany times in training, didn't we?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk026_msg005",
+      "style": 84,
+      "name": "And apparently I always came\nout on the losing end..."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk026_msg006",
+      "style": 84,
+      "name": "It can't be helped. You came pretty\nclose, but I guess that's the\ndifference in skill."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk026_msg007",
+      "style": 84,
+      "name": "So, what about it?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk026_msg008",
+      "style": 84,
+      "name": "Well, according to the records,\nit seems I beat you once."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk026_msg009",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk026_msg010",
+      "style": 84,
+      "name": "It doesn't give details,\nbut beating Heaven's Holy\nGrail is quite something."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk026_msg011",
+      "style": 84,
+      "name": "So, I was thinking I'd\nlike to know how I won..."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk026_msg012",
+      "style": 84,
+      "name": "...That's a lie."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk026_msg013",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk026_msg014",
+      "style": 84,
+      "name": "That record is a lie!\nI never lost to you!"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk026_msg015",
+      "style": 84,
+      "name": "I'm not making this up! It's\nright there in my journal."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk026_msg016",
+      "style": 84,
+      "name": "When exactly did this\nhappen? Which fight?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk026_msg017",
+      "style": 84,
+      "name": "At the camp on Iira's frontier,\non the final day of exercises."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk026_msg018",
+      "style": 84,
+      "name": "...That never happened!\nIt's completely made up!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk026_msg021",
+      "style": 165,
+      "name": "How should I respond?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk026_msg019",
+      "style": 164,
+      "name": "Are you saying my records are wrong?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk026_msg020",
+      "style": 164,
+      "name": "Don't make it sound like I'm a liar!"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk026_msg101",
+      "style": 84,
+      "name": "That fight doesn't count!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk026_msg102",
+      "style": 84,
+      "name": "What do you mean it \"doesn't count\"?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk026_msg103",
+      "style": 84,
+      "name": "I'd just sparred with Kasumi, but you\ninsisted, so I agreed to fight you."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk026_msg104",
+      "style": 84,
+      "name": "So it doesn't count as a real match!"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk026_msg105",
+      "style": 84,
+      "name": "I see. You don't want\nto admit your loss?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk026_msg106",
+      "style": 84,
+      "name": "I'm telling you I didn't lose!"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk026_msg107",
+      "style": 84,
+      "name": "You're being so childish."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk026_msg108",
+      "style": 84,
+      "name": "Besides, you barely won\nthe other matches. Hardly\nworth boasting about."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk026_msg109",
+      "style": 84,
+      "name": "Oh? Is that sharp tongue of yours\nalso recorded in your diary?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk026_msg110",
+      "style": 84,
+      "name": "You've got nerve! Why don't we\ntest it right here, right now?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk026_msg111",
+      "style": 84,
+      "name": "W-wait, you two!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk026_msg112",
+      "style": 84,
+      "name": "No fighting, please!"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk026_msg113",
+      "style": 84,
+      "name": "We're not fighting."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk026_msg114",
+      "style": 84,
+      "name": "Exactly. We're just sparring."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk026_msg115",
+      "style": 84,
+      "name": "Get ready! It's time to settle\nthis rivalry once and for all!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk026_msg116",
+      "style": 84,
+      "name": "This time, I'll make it clear\nwhich of us is stronger."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk026_msg117",
+      "style": 84,
+      "name": "Please wait! Can someone stop them?!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk026_msg201",
+      "style": 84,
+      "name": "Isn't that right?"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk026_msg202",
+      "style": 84,
+      "name": "You picked a fight when I\nwas exhausted. That can\nonly be called cowardly."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk026_msg203",
+      "style": 84,
+      "name": "You have some nerve... It says our\nmatches were always close fights."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk026_msg204",
+      "style": 84,
+      "name": "Our abilities were almost even. Is\nit strange I'd win now and then?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk026_msg205",
+      "style": 84,
+      "name": "Wait... why keep such detailed\nrecords of our matches?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk026_msg206",
+      "style": 84,
+      "name": "Let me borrow that\ndiary. I'll correct it!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk026_msg207",
+      "style": 84,
+      "name": "No way! Don't you dare\ntamper with my journal!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk026_msg208",
+      "style": 84,
+      "name": "Um, excuse me..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk026_msg209",
+      "style": 84,
+      "name": "What?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk026_msg210",
+      "style": 84,
+      "name": "What is it?!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk026_msg211",
+      "style": 84,
+      "name": "I don't think you two should be\nfighting."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk026_msg212",
+      "style": 84,
+      "name": "We're not fighting! If you don't\nwant to get hurt, go away!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk026_msg213",
+      "style": 84,
+      "name": "Exactly! This is just skinship!\nStay out of it, Byakko!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk026_msg215",
+      "style": 84,
+      "name": "Kagutsuchi, today you'll finally\nsee just how powerful I really am!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk026_msg216",
+      "style": 84,
+      "name": "Hikari, you'll be the one\nembarrassed in front of everyone!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk026_msg217",
+      "style": 84,
+      "name": "...Um, does that mean\nthey're close after all...?"
+    }
+  ]
+}

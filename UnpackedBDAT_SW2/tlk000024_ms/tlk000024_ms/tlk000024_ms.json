@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000024_msg0001",
+      "style": 84,
+      "name": "It seems you've all been\nthrough quite a bit as well."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000024_msg0002",
+      "style": 84,
+      "name": "I was surprised to see\nhow much you've grown\nsince we fought in Torigo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000024_msg0003",
+      "style": 84,
+      "name": "You were dependable when we fought\ntogether too... Are you starting to\nmaster Heaven's Holy Grail's power?"
+    }
+  ]
+}

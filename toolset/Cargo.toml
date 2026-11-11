@@ -1,0 +1,19 @@
+[package]
+name = "xenoblade-bdat-studio"
+version = "0.1.2"
+edition = "2021"
+description = "Cross-platform BDAT GUI powered by bdat-toolset"
+
+[dependencies]
+iced = { version = "0.14", features = ["tokio", "advanced"] }
+rfd = "0.15"
+serde = { version = "1", features = ["derive"] }
+toml = "0.8"
+dirs = "6"
+tempfile = "3"
+chrono = { version = "0.4", features = ["clock"] }
+
+[profile.release]
+opt-level = 2
+lto = "thin"
+codegen-units = 8

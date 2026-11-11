@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000007_04_msg0001",
+      "style": 62,
+      "name": "Adel-sama!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000007_04_msg0002",
+      "style": 62,
+      "name": "Please make sure you come back!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk79000007_04_msg0003",
+      "style": 62,
+      "name": "Sata and I will be waiting right here!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk79000007_04_msg0101",
+      "style": 62,
+      "name": "I want to become like Adel-sama\nand Laura."
+    },
+    {
+      "$id": 5,
+      "label": "tlk79000007_04_msg0102",
+      "style": 62,
+      "name": "When you Nee-chans defeat Metsu\nand come back here..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk79000007_04_msg0103",
+      "style": 62,
+      "name": "I'll have Sata smiling when I welcome\nyou back."
+    },
+    {
+      "$id": 7,
+      "label": "tlk79000007_04_msg0104",
+      "style": 62,
+      "name": "Seems impossible, but I'll do my best."
+    }
+  ]
+}

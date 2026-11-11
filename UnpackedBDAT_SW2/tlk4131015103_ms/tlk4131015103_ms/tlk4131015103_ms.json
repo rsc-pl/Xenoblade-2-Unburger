@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310151_03_msg0001",
+      "style": 84,
+      "name": "It seems they're not making\nmuch progress with Senator\nStole's interrogation."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310151_03_msg0002",
+      "style": 84,
+      "name": "He seems to be afraid of something,\njust muttering nonsense..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310151_03_msg0003",
+      "style": 84,
+      "name": "The other anti-Empire organization\nthat involves Nopon... Is it\nreally that terrifying?"
+    }
+  ]
+}

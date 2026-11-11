@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202905_msg0001",
+      "style": 84,
+      "name": "Where Kastina went?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202905_msg0002",
+      "style": 84,
+      "name": "Hmm... I haven't seen her\ntoday, so I don't know[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "qst202905_msg0003",
+      "style": 84,
+      "name": "She's always with Celesmia,\nso she might know."
+    }
+  ]
+}

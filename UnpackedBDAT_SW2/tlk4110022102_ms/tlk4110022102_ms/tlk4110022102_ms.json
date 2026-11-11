@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100221_02_msg0001",
+      "style": 84,
+      "name": "If you want to know\nabout Gulan bugs, ask me!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100221_02_msg0002",
+      "style": 165,
+      "name": "Which insect should we ask about?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100221_02_msg0003",
+      "style": 165,
+      "name": "Prairie Dragonfly"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100221_02_msg0004",
+      "style": 165,
+      "name": "Hexafly"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100221_02_msg0005",
+      "style": 165,
+      "name": "Long-Legged Stag Beetle"
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100221_02_msg0006",
+      "style": 84,
+      "name": "The Prairie Dragonfly, huh?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk41100221_02_msg0007",
+      "style": 84,
+      "name": "You can catch those anywhere in Gula."
+    },
+    {
+      "$id": 8,
+      "label": "tlk41100221_02_msg0008",
+      "style": 84,
+      "name": "That's common knowledge,\nisn't it? Don't ask me\nsuch obvious questions."
+    },
+    {
+      "$id": 9,
+      "label": "tlk41100221_02_msg0009",
+      "style": 84,
+      "name": "Huh? Umm, does that even exist?"
+    },
+    {
+      "$id": 10,
+      "label": "tlk41100221_02_msg0010",
+      "style": 84,
+      "name": "I've never caught one in\nGula... Does it really exist?\nIs this a trick question?"
+    },
+    {
+      "$id": 11,
+      "label": "tlk41100221_02_msg0011",
+      "style": 84,
+      "name": "But I can't say for sure it doesn't\nexist... I need to study more..."
+    },
+    {
+      "$id": 12,
+      "label": "tlk41100221_02_msg0012",
+      "style": 84,
+      "name": "The Long-Legged Stag Beetle, huh?"
+    },
+    {
+      "$id": 13,
+      "label": "tlk41100221_02_msg0013",
+      "style": 84,
+      "name": "You can catch them in the area from\nHermit's Hollow to Coolley Lake!"
+    },
+    {
+      "$id": 14,
+      "label": "tlk41100221_02_msg0014",
+      "style": 84,
+      "name": "See? I know my stuff, right?"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000121_05_msg0001",
+      "style": 84,
+      "name": "Is it true you're trying to stop that\nmonster called Heaven's Holy Grail?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000121_05_msg0002",
+      "style": 84,
+      "name": "Heartless people made me unhappy,\nbut Heaven's Holy Grail must be making\nmany others unhappy too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000121_05_msg0003",
+      "style": 84,
+      "name": "So please defeat it, so no more\nchildren ever end up in circumstances\nlike mine..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000121_05_msg0004",
+      "style": 84,
+      "name": "Don't worry, I'm not\ncausing trouble any more."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000121_05_msg0005",
+      "style": 84,
+      "name": "I'm going round the camps in Gula\nand looking for survivors from the\nvillages that have been attacked."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000121_05_msg0006",
+      "style": 84,
+      "name": "See you. I'm counting on you!"
+    }
+  ]
+}

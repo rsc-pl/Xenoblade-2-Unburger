@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000080_10_msg0001",
+      "style": 84,
+      "name": "Laura-sama, congratulations!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000080_10_msg0002",
+      "style": 84,
+      "name": "I was pretty far back in the crowd\nwhile you were being knighted,\nbut I still saw the ceremony."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000080_10_msg0003",
+      "style": 84,
+      "name": "For many years, there was no Driver\ncapable of wielding Iira's secret\ntreasure."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000080_10_msg0004",
+      "style": 84,
+      "name": "It's incredibly reassuring to have\nLaura-sama and Shin-sama in this era."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000080_10_msg0005",
+      "style": 84,
+      "name": "I'll do everything I can to help\ndefeat Heaven's Holy Grail, so please\nask anything of me."
+    }
+  ]
+}

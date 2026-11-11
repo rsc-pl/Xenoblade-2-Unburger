@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00190110_msg0001",
+      "style": 84,
+      "name": "I heard! You helped build\na school, didn't you?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00190110_msg0002",
+      "style": 84,
+      "name": "Thank you... Martis was so down\nafter he couldn't go to seminary."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00190110_msg0003",
+      "style": 84,
+      "name": "The village chief was so\nproud, too, saying, \"Rex is\nthe pride of our village\"..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00190110_msg0004",
+      "style": 84,
+      "name": "Seeing you grow up into such a fine\nyoung man... and making such wonderful\nfriends... I'm so happy."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45710153_04_msg0001",
+      "style": 84,
+      "name": "You may not guess it to look at\nhim, but Chairman Bahn was always\nvery devoted to his parents."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45710153_04_msg0002",
+      "style": 84,
+      "name": "You could say he had a big heart... He\nsaid he got that from his father..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45710153_04_msg0003",
+      "style": 84,
+      "name": "He really was obsessed with money,\nthough. He must've known how\ndangerous that was."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45710153_04_msg0004",
+      "style": 84,
+      "name": "Meanwhile, look at me! Now\nI've used up all my savings,\nI'm unemployed and penniless!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45710153_04_msg0005",
+      "style": 84,
+      "name": "With a face like this, no one\nin Alba Margen hires me. Should\nI return to Avaritia...?"
+    }
+  ]
+}

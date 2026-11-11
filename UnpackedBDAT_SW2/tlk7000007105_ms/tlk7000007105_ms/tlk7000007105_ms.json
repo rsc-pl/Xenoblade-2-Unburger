@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000071_05_msg0001",
+      "style": 84,
+      "name": "Going to stop Heaven's Holy Grail? No,\nI'm not stopping you... I'm just angry\nat how powerless I am."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000071_05_msg0002",
+      "style": 84,
+      "name": "But you're different from me. Though\nDrivers and Blades, I think you've had\nmore adventures than any adventurer."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000071_05_msg0003",
+      "style": 84,
+      "name": "You have such strength, and you're\nso pure in your pursuit... To tell\nyou the truth, I'm a little jealous."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000071_05_msg0004",
+      "style": 84,
+      "name": "No, never mind. I think I'll go help\nguide the evacuees!"
+    }
+  ]
+}

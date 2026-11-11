@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000601_01_msg0001",
+      "style": 84,
+      "name": "My, to meet again in a place like\nthis is quite the coincidence, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk000601_01_msg0002",
+      "style": 84,
+      "name": "The inn I always patronize\nis called Jakolo's, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000601_01_msg0003",
+      "style": 84,
+      "name": "It's in Berafe Industrial District,\nand the hot springs are so pleasant,\nit's a wonderful place, mo~!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000601_01_msg0004",
+      "style": 84,
+      "name": "I'll tell them to give you\na cheap room, so please be\nsure to stop by, mo."
+    }
+  ]
+}

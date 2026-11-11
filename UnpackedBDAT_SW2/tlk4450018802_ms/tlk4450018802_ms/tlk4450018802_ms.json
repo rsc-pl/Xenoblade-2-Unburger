@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500188_02_msg0001",
+      "style": 84,
+      "name": "I'm on a break. I deserve\nit - I've been working\nsolidly through lunchtime."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500188_02_msg0002",
+      "style": 84,
+      "name": "I wonder what'll happen\nnow that we've got a steady\ninflux of outlanders?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500188_02_msg0003",
+      "style": 84,
+      "name": "That's just what a youngster like you\nwould say. Bringing in the new isn't\nnecessarily always a good thing..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500188_02_msg0004",
+      "style": 84,
+      "name": "Will Luxuria decay long after I'm\ngone, or even sooner...?"
+    }
+  ]
+}

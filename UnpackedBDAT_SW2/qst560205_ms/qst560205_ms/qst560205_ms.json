@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660205_msg0001",
+      "style": 84,
+      "name": "I have been waiting\nfor someone like you."
+    },
+    {
+      "$id": 2,
+      "label": "qst660205_msg0002",
+      "style": 84,
+      "name": "I am a battle bard... My duty is to\nput memories of battle to song..."
+    },
+    {
+      "$id": 3,
+      "label": "qst660205_msg0003",
+      "style": 84,
+      "name": "Of course, I will reward\nyou. Would you share your\nmemories of battle with me?"
+    },
+    {
+      "$id": 4,
+      "label": "qst660205_msg0004",
+      "style": 165,
+      "name": "Trade for an Accessory Expander Kit?"
+    },
+    {
+      "$id": 5,
+      "label": "qst660205_msg0005",
+      "style": 165,
+      "name": "Tell 200,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst660205_msg0006",
+      "style": 165,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst660205_msg0101",
+      "style": 84,
+      "name": "Thank you."
+    },
+    {
+      "$id": 8,
+      "label": "qst660205_msg0102",
+      "style": 84,
+      "name": "You've been through battles of an\nintensity I've never seen before."
+    },
+    {
+      "$id": 9,
+      "label": "qst660205_msg0103",
+      "style": 84,
+      "name": "Please tell me more sometime.\nI'll be waiting here."
+    },
+    {
+      "$id": 10,
+      "label": "qst660205_msg0201",
+      "style": 84,
+      "name": "You're not in the mood...?"
+    },
+    {
+      "$id": 11,
+      "label": "qst660205_msg0202",
+      "style": 84,
+      "name": "But I will wait forever... for\nthe time when you will tell me\nyour memories of battle..."
+    },
+    {
+      "$id": 12,
+      "label": "qst660205_msg0301",
+      "style": 84,
+      "name": "I would love to hear more of\nyour memories of battle, but..."
+    },
+    {
+      "$id": 13,
+      "label": "qst660205_msg0302",
+      "style": 84,
+      "name": "I have run out of rewards to give you."
+    },
+    {
+      "$id": 14,
+      "label": "qst660205_msg0303",
+      "style": 84,
+      "name": "How unfortunate..."
+    }
+  ]
+}

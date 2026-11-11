@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200241_01_msg0001",
+      "style": 84,
+      "name": "You can see a red tree from\nhere, mo. There's no other\nvermilion as vibrant as that, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200241_01_msg0002",
+      "style": 84,
+      "name": "Its name is the Safroge Tree, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200241_01_msg0003",
+      "style": 84,
+      "name": "Harula wanted to see that tree every\nday and moved from Avaritia to\nFons Maim, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200241_01_msg0004",
+      "style": 84,
+      "name": "Harula has fallen in love\nwith that tree, mo!"
+    }
+  ]
+}

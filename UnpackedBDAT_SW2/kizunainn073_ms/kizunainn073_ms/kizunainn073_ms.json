@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn073_msg001",
+      "style": 84,
+      "name": "Um..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn073_msg002",
+      "style": 84,
+      "name": "Actually[ML:Dash ] I found a house in Torigo\nTown that caught my interest."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn073_msg003",
+      "style": 84,
+      "name": "No one lives there. It seems to be\nan empty house, but[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn073_msg004",
+      "style": 84,
+      "name": "I just can't stop thinking about it.\nWould you come take a look with me?"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000064_01_msg0001",
+      "style": 84,
+      "name": "Punpun has been to Iira's capital\njust once, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000064_01_msg0002",
+      "style": 84,
+      "name": "It was a lovely city. The shopping\ndistrict was lively, and the beautiful\ngardens really stood out, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000064_01_msg0003",
+      "style": 84,
+      "name": "And more than anything...\nAdventurers, Drivers, and Blades..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000064_01_msg0004",
+      "style": 84,
+      "name": "Everyone lived together in harmony,\nwhich made pacifist Punpun feel right\nat home, mo!"
+    }
+  ]
+}

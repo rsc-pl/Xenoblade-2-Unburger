@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650601_msg0001",
+      "style": 84,
+      "name": "[ML:Dash ]Please be careful."
+    },
+    {
+      "$id": 2,
+      "label": "qst650601_msg0002",
+      "style": 84,
+      "name": "Three armed lifeforms are hiding here."
+    },
+    {
+      "$id": 3,
+      "label": "qst650601_msg0003",
+      "style": 84,
+      "name": "Amazing, M.O.M.O.!\nYou really do have keen\nobservation abilities!"
+    },
+    {
+      "$id": 4,
+      "label": "qst650601_msg0004",
+      "style": 84,
+      "name": "You idiots! We know you're there!\nGet out here already!"
+    },
+    {
+      "$id": 5,
+      "label": "qst650601_msg0005",
+      "style": 84,
+      "name": "How the hell did they spot us?"
+    },
+    {
+      "$id": 6,
+      "label": "qst650601_msg0006",
+      "style": 84,
+      "name": "Boss, these guys have brought\na whole lot of Blades with them!"
+    },
+    {
+      "$id": 7,
+      "label": "qst650601_msg0007",
+      "style": 84,
+      "name": "Maybe that's why[ML:Dash ]"
+    },
+    {
+      "$id": 8,
+      "label": "qst650601_msg0008",
+      "style": 84,
+      "name": "I see. Then we'll take their money\nand the Blades along with it."
+    },
+    {
+      "$id": 9,
+      "label": "qst650601_msg0009",
+      "style": 84,
+      "name": "Whoa, did you hear\nwhat those guys just said?"
+    },
+    {
+      "$id": 10,
+      "label": "qst650601_msg0010",
+      "style": 84,
+      "name": "They're declaring their intention\nto kill the Drivers."
+    },
+    {
+      "$id": 11,
+      "label": "qst650601_msg0011",
+      "style": 84,
+      "name": "They'll have to pay\nfor that arrogance."
+    }
+  ]
+}

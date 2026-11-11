@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01001006_msg0001",
+      "style": 84,
+      "name": "Hmm... I see..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk01001006_msg0002",
+      "style": 84,
+      "name": "...No talking! Hassane-sensei\nis very strict."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01001006_msg0003",
+      "style": 84,
+      "name": "The history lessons are really\ninteresting and fun, though."
+    },
+    {
+      "$id": 4,
+      "label": "tlk01001006_msg0101",
+      "style": 84,
+      "name": "Toatoa-sensei's classes are fun when\nwe do practical exercises, but..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk01001006_msg0102",
+      "style": 84,
+      "name": "The lessons at school\nsometimes just end with\nlectures on salvaged items."
+    }
+  ]
+}

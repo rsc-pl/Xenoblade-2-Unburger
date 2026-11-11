@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100161_03_msg0001",
+      "style": 84,
+      "name": "My best friend is making a salvager\ndebut just like Rex-nii-chan!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100161_03_msg0002",
+      "style": 84,
+      "name": "Of course I'm going too! I'll stay\nright beside my best friend and offer\nall the support I can!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100161_03_msg0003",
+      "style": 84,
+      "name": "The village adults approved us.\nThey said we won't embarrass\nourselves outside anymore!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100161_03_msg0004",
+      "style": 84,
+      "name": "All we had left was to board\na trade ship to Avaritia, but—"
+    },
+    {
+      "$id": 5,
+      "label": "tlk47100161_03_msg0005",
+      "style": 84,
+      "name": "But the Divine Beast seems odd,\nso the ships are stopped for now."
+    }
+  ]
+}

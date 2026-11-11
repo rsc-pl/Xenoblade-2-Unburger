@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000006_01_msg0001",
+      "style": 62,
+      "name": "I can faintly sense that His Majesty\nis troubled."
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000006_01_msg0002",
+      "style": 62,
+      "name": "This incident must be weighing\nheavily on him."
+    },
+    {
+      "$id": 3,
+      "label": "tlk79000006_01_msg0003",
+      "style": 62,
+      "name": "Even if he doesn't put it into words,\nI can tell because I stay by his side."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "50890101",
+      "style": 82,
+      "name": "I'm Shiki."
+    },
+    {
+      "$id": 2,
+      "label": "50890102",
+      "style": 82,
+      "name": "Books alone can't satisfy my intellectual curiosity."
+    },
+    {
+      "$id": 3,
+      "label": "50890103",
+      "style": 82,
+      "name": "Now, let's travel the world..."
+    },
+    {
+      "$id": 4,
+      "label": "50890104",
+      "style": 82,
+      "name": "and gather every kind of knowledge!"
+    }
+  ]
+}

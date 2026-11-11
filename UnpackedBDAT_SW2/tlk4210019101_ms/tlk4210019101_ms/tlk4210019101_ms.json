@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210019101_msg0001",
+      "style": 84,
+      "name": "Alulu-chan's Blade is so cool,\nmo. I'm so jealous, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210019101_msg0002",
+      "style": 84,
+      "name": "I heard that if you can't resonate\nwith a Blade, your nose gushes\nblood and it's a huge mess, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210019101_msg0003",
+      "style": 84,
+      "name": "A-ah... that's scary, mo... I'm so\nglad Alulu-chan is safe, mo..."
+    }
+  ]
+}

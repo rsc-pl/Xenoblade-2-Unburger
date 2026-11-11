@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400021_06_msg0001",
+      "style": 84,
+      "name": "A lot of refugees from Acedia\nhave come to this city!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400021_06_msg0002",
+      "style": 84,
+      "name": "This is a once-in-a-lifetime chance!\nLet's teach the people of Acedia\nthe wonder of wood products!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400021_06_msg0003",
+      "style": 84,
+      "name": "If they see my wood products,\nI'm sure their sadness\nwill be blown away!"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43320242_04_msg0001",
+      "style": 84,
+      "name": "You heard about this?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43320242_04_msg0002",
+      "style": 84,
+      "name": "I've never been to Temperantia,\nso I don't know if this is true,\nbut..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43320242_04_msg0003",
+      "style": 84,
+      "name": "I heard Brutal Divine Beast Kurodile\nis sealed away over there."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43320242_04_msg0004",
+      "style": 84,
+      "name": "About 300 years ago, it apparently\ntook hundreds of Ice-type Blades\nto seal it away."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43320242_04_msg0005",
+      "style": 84,
+      "name": "I heard there are many other\ndangerous monsters over there."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43320242_04_msg0006",
+      "style": 84,
+      "name": "It's been a long time since anyone\nlived there."
+    },
+    {
+      "$id": 7,
+      "label": "tlk43320242_04_msg0007",
+      "style": 84,
+      "name": "Maybe it's only natural that vicious\nmonsters gather somewhere like that..."
+    }
+  ]
+}

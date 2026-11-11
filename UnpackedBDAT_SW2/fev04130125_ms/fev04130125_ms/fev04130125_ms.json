@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev04_130_125_msg0001",
+      "style": 84,
+      "name": "We finally made it."
+    },
+    {
+      "$id": 2,
+      "label": "fev04_130_125_msg0002",
+      "style": 84,
+      "name": "It really is relaxing to be back on\nsolid ground, mooo!"
+    },
+    {
+      "$id": 3,
+      "label": "fev04_130_125_msg0003",
+      "style": 84,
+      "name": "That was quite a long\nvoyage, wasn't it..."
+    },
+    {
+      "$id": 4,
+      "label": "fev04_130_125_msg0004",
+      "style": 84,
+      "name": "I'm surprised there's so little here,\nmo."
+    },
+    {
+      "$id": 5,
+      "label": "fev04_130_125_msg0005",
+      "style": 84,
+      "name": "Perhaps it's because this\nport is situated some\ndistance from the city."
+    },
+    {
+      "$id": 6,
+      "label": "fev04_130_125_msg0006",
+      "style": 84,
+      "name": "You're probably right. Our\nnext step is to make our way\nto the imperial capital."
+    },
+    {
+      "$id": 7,
+      "label": "fev04_130_125_msg0007",
+      "style": 84,
+      "name": "From what I heard on the ship, we\njust leave the port on the right,\nand it's straight from there."
+    },
+    {
+      "$id": 8,
+      "label": "fev04_130_125_msg0008",
+      "style": 84,
+      "name": "It seems close, but it's\nunfamiliar territory, so we\nneed to proceed carefully."
+    },
+    {
+      "$id": 9,
+      "label": "fev04_130_125_msg0009",
+      "style": 84,
+      "name": "Right. Let's head out\nonce we're prepared."
+    }
+  ]
+}

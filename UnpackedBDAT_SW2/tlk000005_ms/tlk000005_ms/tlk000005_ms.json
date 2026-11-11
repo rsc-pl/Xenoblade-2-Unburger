@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000005_msg0001",
+      "style": 62,
+      "name": "Welcome. Will you be staying?\nWe have rooms available."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000005_msg0002",
+      "style": 62,
+      "name": "Please come again."
+    }
+  ]
+}

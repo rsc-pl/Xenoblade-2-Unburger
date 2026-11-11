@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000023_03_msg0001",
+      "style": 84,
+      "name": "Ah! It's good to see you youngsters.\nYou were a great help with those\nlittle Nopon, you know."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000023_03_msg0002",
+      "style": 84,
+      "name": "Ever since then, the little\nscamps have been dropping by\nto see me all the time."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000023_03_msg0003",
+      "style": 84,
+      "name": "It feels as if I've acquired\nfour more grandchildren!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000023_03_msg0004",
+      "style": 84,
+      "name": "My main worry is what'll happen\nto them once I'm gone... I won't\nlive forever, after all."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000023_03_msg0005",
+      "style": 84,
+      "name": "They need someone to look after them\nwithout spoiling them. But where\nmight one find such a person...?"
+    }
+  ]
+}

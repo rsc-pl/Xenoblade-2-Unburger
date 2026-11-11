@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4537015302_msg0001",
+      "style": 84,
+      "name": "I've more or less finished studying\nthe ruins here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4537015302_msg0002",
+      "style": 84,
+      "name": "I try to teach the mercenaries\ntheir historical value, but\nthey show little interest."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4537015302_msg0003",
+      "style": 84,
+      "name": "What to do, what to do... I\ncan't really just return to\nSuperbia at this point..."
+    }
+  ]
+}

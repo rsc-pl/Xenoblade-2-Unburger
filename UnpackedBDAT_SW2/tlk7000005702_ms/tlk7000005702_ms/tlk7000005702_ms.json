@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000057_02_msg0001",
+      "style": 84,
+      "name": "There are so many people here!\nLots are from other countries too!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000057_02_msg0002",
+      "style": 84,
+      "name": "Did everyone run away from scary\npeople? Like us?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000057_02_msg0003",
+      "style": 84,
+      "name": "I hope you can go home soon.\nAnd then..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000057_02_msg0004",
+      "style": 84,
+      "name": "I hope everyone gets to see the people\nthey want to see."
+    }
+  ]
+}

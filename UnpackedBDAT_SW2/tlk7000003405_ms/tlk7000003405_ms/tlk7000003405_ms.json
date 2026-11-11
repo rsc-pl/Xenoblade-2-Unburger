@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000034_05_msg0001",
+      "style": 84,
+      "name": "Did you see it?! Sarah's shy smile?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000034_05_msg0002",
+      "style": 84,
+      "name": "I've never heard a 'thank you' worth\nthat much before!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000034_05_msg0003",
+      "style": 84,
+      "name": "Ah, Sarah! Every time I think of you,\nmy heart trembles like a newborn fawn\nand plays endless songs of love!!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000034_05_msg0004",
+      "style": 84,
+      "name": "Love truly is wonderful... The world\nlooks completely different than before\nI met her!!"
+    }
+  ]
+}

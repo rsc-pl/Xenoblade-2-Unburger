@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300054_03_msg0001",
+      "style": 84,
+      "name": "After Nopon, Superbians are the most\ncommon people in Avaritia Trading\nCompany, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300054_03_msg0002",
+      "style": 84,
+      "name": "There are quite a few people like\nme who were born in Superbia but\nchoose to live here instead."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300054_03_msg0003",
+      "style": 84,
+      "name": "Main reason for that is,\nSuperbia's Divine Beast\nisn't an easy place to live."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300054_03_msg0004",
+      "style": 84,
+      "name": "The ground is barren, and\nnot many crops grow there."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45300054_03_msg0005",
+      "style": 84,
+      "name": "A lot move to Gula, but there are\nplenty of jobs here too."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45300054_03_msg0006",
+      "style": 84,
+      "name": "Not getting into the Superbian army\nwas one reason too, though."
+    }
+  ]
+}

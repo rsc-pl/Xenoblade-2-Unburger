@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000050_04_msg0001",
+      "style": 84,
+      "name": "If I hadn't happened to meet Adel-sama\nthat time, I'd be covered in Paras\nright now."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000050_04_msg0002",
+      "style": 84,
+      "name": "Bugs actually have a keen sense\nof smell, and food matters\nto both sides when lives are at stake."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000050_04_msg0003",
+      "style": 84,
+      "name": "Anyway, I'm glad that's all over!\nNow that the stress is gone, I'm\nstarting to get hungry."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000050_04_msg0004",
+      "style": 84,
+      "name": "Huh? It's still too early for a meal?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000050_04_msg0005",
+      "style": 84,
+      "name": "Come on, I know! Of course I wouldn't\nsnack between meals. Ahahaha."
+    }
+  ]
+}

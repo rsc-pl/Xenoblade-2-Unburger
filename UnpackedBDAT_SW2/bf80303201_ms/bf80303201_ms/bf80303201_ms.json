@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "231890101",
+      "style": 82,
+      "name": "I am M.O.M.O.—"
+    },
+    {
+      "$id": 2,
+      "label": "231890102",
+      "style": 82,
+      "name": "Who are you?"
+    },
+    {
+      "$id": 3,
+      "label": "231890103",
+      "style": 82,
+      "name": "I am M.O.M.O.—"
+    },
+    {
+      "$id": 4,
+      "label": "231890104",
+      "style": 82,
+      "name": "One born into the real world\nfrom the hollow world—"
+    },
+    {
+      "$id": 5,
+      "label": "231890105",
+      "style": 82,
+      "name": "And an observer of overlapping worlds."
+    }
+  ]
+}

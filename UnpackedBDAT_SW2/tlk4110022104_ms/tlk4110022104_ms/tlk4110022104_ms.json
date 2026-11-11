@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100221_04_msg0001",
+      "style": 84,
+      "name": "Why'd I get zapped so much...?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100221_04_msg0002",
+      "style": 84,
+      "name": "Was it because I did something bad?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100221_04_msg0003",
+      "style": 84,
+      "name": "Maybe I shouldn't have let the\nLong-Legged Stag Beetle roam free in\nthe house..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100221_04_msg0004",
+      "style": 84,
+      "name": "Mom must have asked\nfor it to be done..."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701504_msg0001",
+      "style": 84,
+      "name": "Sir? Are you there?"
+    },
+    {
+      "$id": 2,
+      "label": "qst701504_msg0002",
+      "style": 84,
+      "name": "Strange. There's no way no one's here.\nThe inn is open."
+    },
+    {
+      "$id": 3,
+      "label": "qst701504_msg0003",
+      "style": 84,
+      "name": "...Did something happen to him?"
+    },
+    {
+      "$id": 4,
+      "label": "qst701504_msg0004",
+      "style": 84,
+      "name": "I'll go take a look.\nMirei-san, please wait here."
+    },
+    {
+      "$id": 5,
+      "label": "qst701504_msg0005",
+      "style": 84,
+      "name": "This might be meddling, but...\nthere were shoe prints outside.\nCould they be a clue?"
+    },
+    {
+      "$id": 6,
+      "label": "qst701504_msg0006",
+      "style": 84,
+      "name": "You're surprisingly sharp-eyed."
+    },
+    {
+      "$id": 7,
+      "label": "qst701504_msg0007",
+      "style": 84,
+      "name": "It's been decades since I saw my\nformer husband. I was so nervous, I\nkept staring at my feet... Heh heh."
+    },
+    {
+      "$id": 8,
+      "label": "qst701504_msg0008",
+      "style": 84,
+      "name": "How am I supposed to face him...?\nEven at my age, I still worry about\nthings like that."
+    },
+    {
+      "$id": 9,
+      "label": "qst701504_msg0009",
+      "style": 84,
+      "name": "It's like I'm back in those days,\neven though there's no turning\nback time..."
+    }
+  ]
+}

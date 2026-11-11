@@ -1,0 +1,684 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk057_msg0001",
+      "style": 84,
+      "name": "Hraaaaah!!!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk057_msg0002",
+      "style": 84,
+      "name": "What's the matter, Jikarao, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk057_msg0003",
+      "style": 84,
+      "name": "You're all fired up, but\nwhat are you planning, mo?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk057_msg0004",
+      "style": 84,
+      "name": "I... want to talk with people."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk057_msg0005",
+      "style": 84,
+      "name": "But everyone gets scared of me."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk057_msg0006",
+      "style": 84,
+      "name": "The truth is, I'm not like that.\nI want everyone to know it..."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk057_msg0007",
+      "style": 84,
+      "name": "It's true Jikarao is a gentle\nBlade, mo. He even avoids\nants crossing his path."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk057_msg0008",
+      "style": 84,
+      "name": "Talking to people so they\ncan learn what kind of Blade\nyou are is a good idea."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk057_msg0009",
+      "style": 84,
+      "name": "I'm sure people will see how kind\nyou are if you talk a bit more."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk057_msg0010",
+      "style": 84,
+      "name": "I hope your personality comes\nacross by talking a lot."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk057_msg0011",
+      "style": 84,
+      "name": "Once they chat with you they'll\nquickly see what you're really like."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk057_msg0012",
+      "style": 84,
+      "name": "But normal conversation looks hard\nfor you, mo. Especially when you get\nthat worked up, mo!"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk057_msg0013",
+      "style": 84,
+      "name": "Yes, everyone just runs away...\nThat's what troubles me..."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk057_msg0014",
+      "style": 84,
+      "name": "Do you have any clever solutions...?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk057_msg0015",
+      "style": 165,
+      "name": "Well..."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk057_msg0016",
+      "style": 164,
+      "name": "What about helping that\ncrying child over there?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk057_msg0017",
+      "style": 164,
+      "name": "How about helping that\ntroubled elderly person?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk057_msg0018",
+      "style": 165,
+      "name": "Let's see[ML:Dash ]"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk057_msg0019",
+      "style": 164,
+      "name": "Why don't you help that crying child?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk057_msg0020",
+      "style": 164,
+      "name": "How about helping that\ntroubled elderly person?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk057_msg0021",
+      "style": 165,
+      "name": "Hmm[ML:Dash ]"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk057_msg0022",
+      "style": 164,
+      "name": "How about helping that\ncrying child over there?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk057_msg0023",
+      "style": 164,
+      "name": "How about assisting that\nelderly person in trouble?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk057_msg0024",
+      "style": 165,
+      "name": "Let's see now..."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk057_msg0025",
+      "style": 164,
+      "name": "Why not help that\ncrying kid over there?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk057_msg0026",
+      "style": 164,
+      "name": "Why not help that elderly\nperson having trouble?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk057_msg0101",
+      "style": 84,
+      "name": "Great idea, mo!"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk057_msg0102",
+      "style": 84,
+      "name": "If you help someone in\nneed, people will surely\nsee how kind you are, mo!"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk057_msg0103",
+      "style": 84,
+      "name": "Got it. I'll help them..."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk057_msg0104",
+      "style": 84,
+      "name": "Tora, please come with me[ML:Dash ]"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk057_msg0105",
+      "style": 84,
+      "name": "Got it, mo!"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk057_msg0106",
+      "style": 84,
+      "name": "Waaah! Uwaaah!!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk057_msg0107",
+      "style": 84,
+      "name": "What's wrong, mo? Why\nare you crying, mo?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk057_msg0108",
+      "style": 84,
+      "name": "My mommy disappeared..."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk057_msg0109",
+      "style": 84,
+      "name": "Are you lost...?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk057_msg0110",
+      "style": 84,
+      "name": "Wah! A-a monster!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk057_msg0111",
+      "style": 84,
+      "name": "No, mo! No monster, mo!"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk057_msg0112",
+      "style": 84,
+      "name": "He may look like a monster,\nbut he isn't one, mo!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk057_msg0113",
+      "style": 84,
+      "name": "I don't eat people. Don't worry!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk057_msg0114",
+      "style": 84,
+      "name": "*sob*"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk057_msg0115",
+      "style": 84,
+      "name": "...Saying things like that only\nscares them more, mo!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk057_msg0116",
+      "style": 84,
+      "name": "S-sorry... Tora, please\nlook after the child."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk057_msg0117",
+      "style": 84,
+      "name": "I'll go look for the\nchild's parents..."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk057_msg0118",
+      "style": 84,
+      "name": "Hold on! What are you\ndoing with my child!?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk057_msg0119",
+      "style": 84,
+      "name": "Are you the mother?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk057_msg0120",
+      "style": 84,
+      "name": "Monster!? Somebody help!!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk057_msg0121",
+      "style": 84,
+      "name": "What? ...No, that's wrong."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk057_msg0122",
+      "style": 84,
+      "name": "Help, someone! This monster is\ntrying to devour my child!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk057_msg0123",
+      "style": 84,
+      "name": "No... No!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk057_msg0124",
+      "style": 84,
+      "name": "I'm not a monster... I'm not!!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk057_msg0125",
+      "style": 84,
+      "name": "Jikarao, calm down, mo!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk057_msg0126",
+      "style": 84,
+      "name": "Eeeek! It's attacking me!\nSomeone get help, quick!!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk057_msg0127",
+      "style": 84,
+      "name": "...Uuuugh Raaaaaargh!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk057_msg0128",
+      "style": 84,
+      "name": "Kyaaaaa!"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk057_msg0129",
+      "style": 84,
+      "name": "Stop, Jikarao, mo!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk057_msg0130",
+      "style": 84,
+      "name": "You'll only scare them more\nif you get loud, mo!"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk057_msg0131",
+      "style": 84,
+      "name": "Mama!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk057_msg0132",
+      "style": 84,
+      "name": "We need to get out of here, now!"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk057_msg0133",
+      "style": 84,
+      "name": "...That didn't go well, mo."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk057_msg0134",
+      "style": 84,
+      "name": "Sigh... I messed up again..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk057_msg0135",
+      "style": 84,
+      "name": "Don't be so down. Today\njust happened to go wrong."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk057_msg0136",
+      "style": 84,
+      "name": "Just take your time letting\npeople understand you."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk057_msg0137",
+      "style": 84,
+      "name": "Hey, don't take it so hard. Today\njust happened to go wrong."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk057_msg0138",
+      "style": 84,
+      "name": "Just give people time to\nunderstand you better."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk057_msg0139",
+      "style": 84,
+      "name": "Don't be so down. Today was\njust an unfortunate misstep."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk057_msg0140",
+      "style": 84,
+      "name": "You just need to give everyone\ntime to understand you."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk057_msg0141",
+      "style": 84,
+      "name": "No need to look so glum. Today\njust happened to go wrong."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk057_msg0142",
+      "style": 84,
+      "name": "Just give folks time to\nget to know the real you."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk057_msg0143",
+      "style": 84,
+      "name": "Thank you..."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk057_msg0144",
+      "style": 84,
+      "name": "I won't give up."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk057_msg0145",
+      "style": 84,
+      "name": "I'll definitely talk to everyone...!"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk057_msg0201",
+      "style": 84,
+      "name": "Great idea, mo!"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk057_msg0202",
+      "style": 84,
+      "name": "If you help someone in\nneed, people will surely\nsee how kind you are, mo!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk057_msg0203",
+      "style": 84,
+      "name": "Jikarao, come with Tora, mo!"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk057_msg0204",
+      "style": 84,
+      "name": "...Yeah!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk057_msg0205",
+      "style": 84,
+      "name": "Ahhh..."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk057_msg0206",
+      "style": 84,
+      "name": "What's the matter, ma'am, mo?"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk057_msg0207",
+      "style": 84,
+      "name": "Oh, I'm trying to get back home\nbut I'm not feeling too well..."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk057_msg0208",
+      "style": 84,
+      "name": "I already have poor eyesight[ML:Dash ]\nand when I'm unwell, I can't\nsee things properly."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk057_msg0209",
+      "style": 84,
+      "name": "That sounds risky. Let me escort you."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk057_msg0210",
+      "style": 84,
+      "name": "Oh my, how kind. Thank you very much."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk057_msg0211",
+      "style": 84,
+      "name": "Can you walk, mo?"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk057_msg0212",
+      "style": 84,
+      "name": "Yes, I can manage that much..."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk057_msg0213",
+      "style": 84,
+      "name": "Oh my? What could this be?"
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk057_msg0214",
+      "style": 84,
+      "name": "A rock in a place like this?"
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk057_msg0215",
+      "style": 84,
+      "name": "That's part of my body."
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk057_msg0216",
+      "style": 84,
+      "name": "My my, amazing. You have quite\na sturdy body, don't you?"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk057_msg0217",
+      "style": 84,
+      "name": "Yeah, make sure to hold on firmly."
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk057_msg0218",
+      "style": 84,
+      "name": "What the heck is that thing!?"
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk057_msg0219",
+      "style": 84,
+      "name": "It's a monster!"
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk057_msg0220",
+      "style": 84,
+      "name": "My, there seems to be some\ncommotion around us?"
+    },
+    {
+      "$id": 92,
+      "label": "kizunatalk057_msg0221",
+      "style": 84,
+      "name": "It's nothing. Seems there's a monster."
+    },
+    {
+      "$id": 93,
+      "label": "kizunatalk057_msg0222",
+      "style": 84,
+      "name": "Oh dear, how frightening. We\nshould get away quickly..."
+    },
+    {
+      "$id": 94,
+      "label": "kizunatalk057_msg0223",
+      "style": 84,
+      "name": "Don't worry. I'll keep you safe!"
+    },
+    {
+      "$id": 95,
+      "label": "kizunatalk057_msg0224",
+      "style": 84,
+      "name": "My my! How reliable[ML:Dash ]"
+    },
+    {
+      "$id": 96,
+      "label": "kizunatalk057_msg0225",
+      "style": 84,
+      "name": "Is this your house?"
+    },
+    {
+      "$id": 97,
+      "label": "kizunatalk057_msg0226",
+      "style": 84,
+      "name": "Yes, that's right. You've\nbeen such a great help."
+    },
+    {
+      "$id": 98,
+      "label": "kizunatalk057_msg0227",
+      "style": 84,
+      "name": "Excuse me... may I ask your name...?"
+    },
+    {
+      "$id": 99,
+      "label": "kizunatalk057_msg0228",
+      "style": 84,
+      "name": "I am Jikarao."
+    },
+    {
+      "$id": 100,
+      "label": "kizunatalk057_msg0229",
+      "style": 84,
+      "name": "Jikarao-san, thank you very much."
+    },
+    {
+      "$id": 101,
+      "label": "kizunatalk057_msg0230",
+      "style": 84,
+      "name": "Sure thing! Stay well!"
+    },
+    {
+      "$id": 102,
+      "label": "kizunatalk057_msg0231",
+      "style": 84,
+      "name": "Good job, Jikarao."
+    },
+    {
+      "$id": 103,
+      "label": "kizunatalk057_msg0232",
+      "style": 84,
+      "name": "If you keep this up, everyone will\nsurely see how kind you are."
+    },
+    {
+      "$id": 104,
+      "label": "kizunatalk057_msg0233",
+      "style": 84,
+      "name": "You did great, Jikarao."
+    },
+    {
+      "$id": 105,
+      "label": "kizunatalk057_msg0234",
+      "style": 84,
+      "name": "Keep this up and everyone will\nsee how kind you truly are."
+    },
+    {
+      "$id": 106,
+      "label": "kizunatalk057_msg0235",
+      "style": 84,
+      "name": "Jikarao, you managed to help someone."
+    },
+    {
+      "$id": 107,
+      "label": "kizunatalk057_msg0236",
+      "style": 84,
+      "name": "If you keep at this little\nby little, everyone should\nsee how kind you are."
+    },
+    {
+      "$id": 108,
+      "label": "kizunatalk057_msg0237",
+      "style": 84,
+      "name": "Jikarao, you did well."
+    },
+    {
+      "$id": 109,
+      "label": "kizunatalk057_msg0238",
+      "style": 84,
+      "name": "Keep this up, and I think everyone\nwill see how kind you are."
+    },
+    {
+      "$id": 110,
+      "label": "kizunatalk057_msg0239",
+      "style": 84,
+      "name": "Yeah! I'll do my best!"
+    },
+    {
+      "$id": 111,
+      "label": "kizunatalk057_msg0240",
+      "style": 84,
+      "name": "Thank you, everyone!"
+    }
+  ]
+}

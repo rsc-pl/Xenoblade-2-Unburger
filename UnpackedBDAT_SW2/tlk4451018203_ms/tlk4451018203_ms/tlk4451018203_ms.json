@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510182_03_msg0001",
+      "style": 84,
+      "name": "Ah, ah[ML:Dash ]! Is this the return\nof what the records described\nfrom 500 years ago?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510182_03_msg0002",
+      "style": 84,
+      "name": "Is this the end of the world[ML:Dash ]!?\nNo matter where we run,\nit will be useless now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510182_03_msg0003",
+      "style": 84,
+      "name": "Then, for all its problems,\nperhaps ending my days here\nin my native Luxuria is fitting."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510182_03_msg0004",
+      "style": 84,
+      "name": "I will meet that moment while\noffering prayers to the technology\nthat served us to the very end."
+    }
+  ]
+}

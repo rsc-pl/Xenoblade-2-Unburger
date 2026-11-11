@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45340112_06_msg0001",
+      "style": 84,
+      "name": "We're keeping her well-maintained,\nbut there are no plans for the\nUzushio to set sail any time soon."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45340112_06_msg0002",
+      "style": 84,
+      "name": "Well, after what the people of Iira\ndid, fewer people want to be\nthe next to take the Uzushio out."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45340112_06_msg0003",
+      "style": 84,
+      "name": "I really hope next time it moves,\neverything ends peacefully with no\ntrouble."
+    }
+  ]
+}

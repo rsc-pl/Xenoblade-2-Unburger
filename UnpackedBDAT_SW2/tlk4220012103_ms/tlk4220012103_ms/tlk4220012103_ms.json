@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42200121_03_msg0001",
+      "style": 84,
+      "name": "The works of art in this city\nare truly eye-opening, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42200121_03_msg0002",
+      "style": 84,
+      "name": "As expected of Gula, the\nland that has produced so\nmany famous painters, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42200121_03_msg0003",
+      "style": 84,
+      "name": "I heard the print of Bahn-sama I saw\nthe other day was made by a famous\nGulan carver, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42200121_03_msg0004",
+      "style": 84,
+      "name": "I want to ask my mother to buy one\nfor me to display in my room, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42200121_03_msg0005",
+      "style": 84,
+      "name": "Bahn-sama is a skilled merchant\nwhom Popipii admires, mo."
+    }
+  ]
+}

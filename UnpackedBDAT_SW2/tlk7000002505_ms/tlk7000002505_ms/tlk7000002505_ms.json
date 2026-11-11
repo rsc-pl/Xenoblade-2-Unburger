@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000025_05_msg0001",
+      "style": 84,
+      "name": "Word of all your achievements is\nspreading around town!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000025_05_msg0002",
+      "style": 84,
+      "name": "I used to think that the best way to\nhelp people was to join the army."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000025_05_msg0003",
+      "style": 84,
+      "name": "Watching all of you has made me think\nliving as a Driver or Blade is pretty\ncool too!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000025_05_msg0004",
+      "style": 84,
+      "name": "I still don't know whether I have the\naptitude to be a Driver, but..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000025_05_msg0005",
+      "style": 84,
+      "name": "But I'll do my best so someday,\nwhen I get a Core Crystal, people\ncall me second only to Adel-sama!"
+    }
+  ]
+}

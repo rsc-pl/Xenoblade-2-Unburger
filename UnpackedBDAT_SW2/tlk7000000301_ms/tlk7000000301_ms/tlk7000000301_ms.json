@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000003_01_msg0001",
+      "style": 84,
+      "name": "Mo-mooo! This city in Iira is amazing,\nmooo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000003_01_msg0002",
+      "style": 84,
+      "name": "A simple yet solemn palace, beautiful\ngardens, and this splendid moat!\nThere's so much to see, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000003_01_msg0003",
+      "style": 84,
+      "name": "Mo-mo! No, that's not it, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000003_01_msg0004",
+      "style": 84,
+      "name": "Tekuteku may not look it, but\nTekuteku is a merchant with\nthe Fortis Trade Guild, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000003_01_msg0005",
+      "style": 84,
+      "name": "I'm touring the city to broaden my\nhorizons as a merchant, mo!"
+    }
+  ]
+}

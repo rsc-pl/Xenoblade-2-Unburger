@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200507_msg001",
+      "style": 84,
+      "name": "Ah, about Alban-san's ship."
+    },
+    {
+      "$id": 2,
+      "label": "qst200507_msg002",
+      "style": 84,
+      "name": "I was in charge of meals, so I don't\nreally know where it ran aground."
+    },
+    {
+      "$id": 3,
+      "label": "qst200507_msg003",
+      "style": 84,
+      "name": "But I'm sure I saw a village nearby..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300046_02_msg0001",
+      "style": 84,
+      "name": "Damn that head cook..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300046_02_msg0002",
+      "style": 84,
+      "name": "So my dishwashing and peeling are too\nslow...?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300046_02_msg0003",
+      "style": 84,
+      "name": "If it were an axe instead of a knife,\nI wouldn't lose..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300046_02_msg0004",
+      "style": 84,
+      "name": "But I can't give up here."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43300046_02_msg0005",
+      "style": 84,
+      "name": "Not until the lovely Queen Lagert\nhas tasted my cooking...!"
+    }
+  ]
+}

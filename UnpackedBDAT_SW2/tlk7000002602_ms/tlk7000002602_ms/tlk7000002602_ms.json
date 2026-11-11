@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000026_02_msg0001",
+      "style": 84,
+      "name": "I thought I heard someone scream, then\na monster suddenly attacked!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000026_02_msg0002",
+      "style": 84,
+      "name": "I was desperate to protect the\nworkshop... My mind almost went blank."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000026_02_msg0003",
+      "style": 84,
+      "name": "In the end, quite a lot of pieces got\nbroken, but at least I managed to\nprotect the furnace and cooling unit."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000026_02_msg0004",
+      "style": 84,
+      "name": "Once my instructor gets back,\nwe'll be pretty much up and\nrunning as normal, I think."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000026_02_msg0005",
+      "style": 84,
+      "name": "Until then, I'll be holding the fort!"
+    }
+  ]
+}

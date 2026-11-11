@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202714_msg0001",
+      "style": 84,
+      "name": "This is[ML:Dash ] Did a demon\nalready get summoned?!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202714_msg0002",
+      "style": 84,
+      "name": "It looks like another hungry\nmonster arrived[ML:Dash ] We were too late."
+    },
+    {
+      "$id": 3,
+      "label": "qst202714_msg0003",
+      "style": 84,
+      "name": "Mo mo mo! D-Don't come over here, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst202714_msg0004",
+      "style": 84,
+      "name": "At this rate, all the\nNopon will be wiped out."
+    },
+    {
+      "$id": 5,
+      "label": "qst202714_msg0005",
+      "style": 84,
+      "name": "Let's hurry up and defeat it!"
+    }
+  ]
+}

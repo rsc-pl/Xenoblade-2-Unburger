@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700121_03_msg0001",
+      "style": 84,
+      "name": "I heard the Divine Beast battleship\nwas attacked. And to save that\nwanted girl, Nia, no less."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700121_03_msg0002",
+      "style": 84,
+      "name": "They're up against an opponent that\neven Superbia's strongest Driver,\nMeleph-sama, couldn't capture."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700121_03_msg0003",
+      "style": 84,
+      "name": "Torigo's people could never win.\nThe best solution is to keep quiet\nand wait for the problem to pass."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700121_03_msg0004",
+      "style": 84,
+      "name": "I can't stand the thought of the city\nbeing destroyed if we get caught\nin the crossfire."
+    }
+  ]
+}

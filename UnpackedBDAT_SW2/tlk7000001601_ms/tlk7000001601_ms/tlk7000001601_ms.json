@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000016_01_msg0001",
+      "style": 84,
+      "name": "I don't really understand girls,\nNii-chans... You feel the same way,\nright?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000016_01_msg0002",
+      "style": 84,
+      "name": "The other day, I made medicine from\nthe bugs we collected and tried to get\na girl I know to drink it..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000016_01_msg0003",
+      "style": 84,
+      "name": "She said, \"Don't bring that gross\nstuff near me!\" Can you believe it?! I\njust don't understand girls!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000016_01_msg0004",
+      "style": 84,
+      "name": "Bugs are super cool! How can a\nmedicine made of 100% cool things\nbe gross?! I don't get it at all!"
+    }
+  ]
+}

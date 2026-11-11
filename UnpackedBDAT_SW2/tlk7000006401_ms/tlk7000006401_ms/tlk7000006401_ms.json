@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000064_01_msg0001",
+      "style": 84,
+      "name": "You can teach such vicious monsters a\nlesson? Drivers are amazing, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000064_01_msg0002",
+      "style": 84,
+      "name": "As thanks, I'll teach you Drivers a\nsecret technique for battle, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000064_01_msg0003",
+      "style": 84,
+      "name": "When an enemy is knocked down in\nbattle, if you use a technique that\nlaunches it..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000064_01_msg0004",
+      "style": 84,
+      "name": "Then—popooon! You can launch that\nenemy into the air, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000064_01_msg0005",
+      "style": 84,
+      "name": "It's really exhilarating, so try it\nnext time, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000064_01_msg0006",
+      "style": 84,
+      "name": "...or so it said in a book I picked\nup the other day, mo."
+    }
+  ]
+}

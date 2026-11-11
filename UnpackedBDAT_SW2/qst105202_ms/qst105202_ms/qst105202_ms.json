@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst105202_msg001",
+      "style": 62,
+      "name": "Thanks. With this, I can\nupgrade the Cloud Sea Compass."
+    },
+    {
+      "$id": 2,
+      "label": "qst105202_msg002",
+      "style": 62,
+      "name": "The Super Cloud Sea Compass seems\nto be pointing towards Superbia's\nartificial Blade facility."
+    }
+  ]
+}

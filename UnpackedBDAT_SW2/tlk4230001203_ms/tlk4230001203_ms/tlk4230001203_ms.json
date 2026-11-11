@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300012_03_msg0001",
+      "style": 84,
+      "name": "Do you know there's a\nshrine above this, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300012_03_msg0002",
+      "style": 84,
+      "name": "Apparently it's been there since\nGoldmund was first built, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300012_03_msg0003",
+      "style": 84,
+      "name": "Now it's old and no one\ngoes there anymore, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300012_03_msg0004",
+      "style": 84,
+      "name": "Well, ordinary Nopon can't get there,\nso Tondon isn't responsible for\nrepairs, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300012_03_msg0005",
+      "style": 84,
+      "name": "Even if it were broken, there's no\nneed to report it to Tondon, mo."
+    }
+  ]
+}

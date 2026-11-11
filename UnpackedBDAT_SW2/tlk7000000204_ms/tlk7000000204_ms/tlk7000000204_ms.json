@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000002_04_msg0001",
+      "style": 84,
+      "name": "You've all been working so hard, mo. I\nhear about your exploits all the time,\nmo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000002_04_msg0002",
+      "style": 84,
+      "name": "But Obibi isn't losing, mo! Obibi's\nmaking another new product now, mo!\nThat child is helping a bit too, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000002_04_msg0003",
+      "style": 84,
+      "name": "The last hats were for Nopon, but\nIirans generally prefer simple clothes\nin subdued colors, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000002_04_msg0004",
+      "style": 84,
+      "name": "But that would be too ordinary, so I'm\nadding geometric patterns for a more\nstylish product, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000002_04_msg0005",
+      "style": 84,
+      "name": "This next product is sure to be a huge\nhit too, mo!"
+    }
+  ]
+}

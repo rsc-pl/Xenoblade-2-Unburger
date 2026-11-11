@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701911_msg0001",
+      "style": 84,
+      "name": "Maquia, was it? Please bring\nthat skilled pilot here."
+    },
+    {
+      "$id": 2,
+      "label": "qst701911_msg0002",
+      "style": 84,
+      "name": "She's at Yajika Harbor, right?"
+    },
+    {
+      "$id": 3,
+      "label": "qst701911_msg0101",
+      "style": 84,
+      "name": "The six of them have\ndeparted for Invidia."
+    },
+    {
+      "$id": 4,
+      "label": "qst701911_msg0102",
+      "style": 84,
+      "name": "Let's trust that they will return\nsafely with the Dragon Incense."
+    },
+    {
+      "$id": 5,
+      "label": "qst701911_msg0103",
+      "style": 84,
+      "name": "Adel-sama and everyone, please focus\non what you have to do."
+    },
+    {
+      "$id": 6,
+      "label": "qst701911_msg0104",
+      "style": 84,
+      "name": "Or perhaps it would be\nwise to rest and wait."
+    },
+    {
+      "$id": 7,
+      "label": "qst701911_msg0201",
+      "style": 84,
+      "name": "They came through for\nus, just as I expected."
+    },
+    {
+      "$id": 8,
+      "label": "qst701911_msg0202",
+      "style": 84,
+      "name": "Now please deliver that\nDragon Incense to Furia-san.\nI'm counting on you."
+    }
+  ]
+}

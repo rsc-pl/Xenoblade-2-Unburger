@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4241046101_msg0001",
+      "style": 84,
+      "name": "I've thoroughly enjoyed my\ntour of Liberalitas, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4241046101_msg0002",
+      "style": 84,
+      "name": "Going inside the big,\nspiky shell was fun, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4241046101_msg0003",
+      "style": 84,
+      "name": "There were lots of Libra. Sulala got\nexcited again... then fell, hitting\nhard on the head, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4241046101_msg0004",
+      "style": 84,
+      "name": "Getting more excited than Ukiukii and\nputting myself in danger... that's a\nserious problem for a guide, mo."
+    }
+  ]
+}

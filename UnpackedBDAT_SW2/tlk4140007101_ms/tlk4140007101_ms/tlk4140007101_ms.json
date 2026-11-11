@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41400071_01_msg0001",
+      "style": 84,
+      "name": "It's been so many years\nsince I started living here\nas a refugee in Acedia..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41400071_01_msg0002",
+      "style": 84,
+      "name": "Details? I wake up, get rations,\ntake care of chores, then sleep."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41400071_01_msg0003",
+      "style": 84,
+      "name": "Everyone blames Superbia for\nannexing Gula, and- Wait, are\nthose Blades with you?!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41400071_01_msg0004",
+      "style": 84,
+      "name": "The Blade that burned down my house is\none of your allies, right?! Down with\nBlades! Down with Blades!"
+    }
+  ]
+}

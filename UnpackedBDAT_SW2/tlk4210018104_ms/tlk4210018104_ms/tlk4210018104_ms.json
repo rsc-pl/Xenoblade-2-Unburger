@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100181_04_msg0001",
+      "style": 84,
+      "name": "The Divine Beast went whoosh and\nmoved, mo! That surprised me, mo!!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100181_04_msg0002",
+      "style": 84,
+      "name": "But Magomago isn't scared, mo!\nI'm with Grandpa, so I'm fine, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100181_04_msg0003",
+      "style": 84,
+      "name": "Grandpa said it's the Nopon spirit to\nbring in goods at times like this, mo!"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000026_msg0001",
+      "style": 84,
+      "name": "I'm very curious about Fan's power,\nwhich drove back those two formidable\nmembers of Iira, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000026_msg0002",
+      "style": 84,
+      "name": "Can everyone in Acedia use\nsuch mysterious power, mo?"
+    }
+  ]
+}

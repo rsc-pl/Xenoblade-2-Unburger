@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01001005_msg0001",
+      "style": 84,
+      "name": "Smaia-sensei's classes have made me\nthink about how everything around me\nis made."
+    },
+    {
+      "$id": 2,
+      "label": "tlk01001005_msg0002",
+      "style": 84,
+      "name": "Doctors in Superbia are amazing!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk01001005_msg0101",
+      "style": 84,
+      "name": "I like experiments too, but...\nI wonder if we can really make\nsomething that golden."
+    },
+    {
+      "$id": 4,
+      "label": "tlk01001005_msg0102",
+      "style": 84,
+      "name": "Hey! Kyukyu-sensei! We're in\nthe middle of a lesson, so\nact like a proper teacher!"
+    }
+  ]
+}

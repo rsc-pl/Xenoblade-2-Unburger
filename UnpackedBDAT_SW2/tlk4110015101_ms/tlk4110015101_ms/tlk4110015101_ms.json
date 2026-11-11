@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4110015101_msg0001",
+      "style": 84,
+      "name": "With a Blade around, you're safe\nno matter where you fall."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4110015101_msg0002",
+      "style": 84,
+      "name": "Still, I don't want to see\nanything that scary ever again."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4110015101_msg0003",
+      "style": 84,
+      "name": "I wonder if everyone from Acedia\nmanaged to escape okay..."
+    }
+  ]
+}

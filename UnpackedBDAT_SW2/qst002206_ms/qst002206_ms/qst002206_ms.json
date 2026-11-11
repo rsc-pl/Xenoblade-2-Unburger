@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002206_msg0001",
+      "style": 84,
+      "name": "Um... how did the investigation go?"
+    },
+    {
+      "$id": 2,
+      "label": "qst002206_msg0002",
+      "style": 84,
+      "name": "A girl tried to join the Choir\nwhen I did. She's an Invidian\nfrom the refugee camp..."
+    },
+    {
+      "$id": 3,
+      "label": "qst002206_msg0003",
+      "style": 84,
+      "name": "Her name is Albina..."
+    },
+    {
+      "$id": 4,
+      "label": "qst002206_msg0004",
+      "style": 84,
+      "name": "I don't know her..."
+    },
+    {
+      "$id": 5,
+      "label": "qst002206_msg0005",
+      "style": 84,
+      "name": "But..."
+    },
+    {
+      "$id": 6,
+      "label": "qst002206_msg0006",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 7,
+      "label": "qst002206_msg0007",
+      "style": 84,
+      "name": "There was only one spot available\nin the Choir last time... I'm sure\nit's because I was accepted..."
+    },
+    {
+      "$id": 8,
+      "label": "qst002206_msg0008",
+      "style": 84,
+      "name": "Um, could you come with me? I'd\nlike to try and meet Albina-san..."
+    },
+    {
+      "$id": 9,
+      "label": "qst002206_msg0009",
+      "style": 84,
+      "name": "N-no, it's alright, I can go. I'll\nfeel safe if you're with me..."
+    },
+    {
+      "$id": 10,
+      "label": "qst002206_msg0010",
+      "style": 84,
+      "name": "I want to talk to her\nproperly. Let's go..."
+    }
+  ]
+}

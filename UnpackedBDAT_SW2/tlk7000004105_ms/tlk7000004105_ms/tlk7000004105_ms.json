@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000041_05_msg0001",
+      "style": 84,
+      "name": "Since we sent those supplies to\nthe militia, our policy towards\nit has changed a bit, too."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000041_05_msg0002",
+      "style": 84,
+      "name": "Now the king says we should\nopen the warehouse doors\nto anyone in need."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000041_05_msg0003",
+      "style": 84,
+      "name": "Let me know if the militia ever\nruns short of food or medicine\nor anything again, yeah?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000041_05_msg0004",
+      "style": 84,
+      "name": "Ah! I was just being incredibly\nserious about my work, wasn't I? Now\nI'm suddenly exhausted..."
+    }
+  ]
+}

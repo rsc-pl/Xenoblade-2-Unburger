@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn050_msg0001",
+      "style": 84,
+      "name": "Hey, won't you come outside for a bit?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn050_msg0002",
+      "style": 84,
+      "name": "An old lady told me about a place.\nIt looks interesting[ML:Dash ] no, delicious!"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn050_msg0003",
+      "style": 84,
+      "name": "There's a place nearby with lumber\npiled up, right? It's there."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn050_msg0004",
+      "style": 84,
+      "name": "Don't be late, okay!"
+    }
+  ]
+}

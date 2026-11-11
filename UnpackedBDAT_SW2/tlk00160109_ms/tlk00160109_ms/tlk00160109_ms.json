@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001601_09_msg0001",
+      "style": 84,
+      "name": "Thanks to all of you, I am\nfully operational again, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk001601_09_msg0002",
+      "style": 84,
+      "name": "Please allow me to offer you all\nmy sincerest apologies, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001601_09_msg0003",
+      "style": 84,
+      "name": "I caused you all a great deal\nof trouble in Superbia, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk001601_09_msg0004",
+      "style": 84,
+      "name": "I am truly, deeply sorry, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk001601_09_msg0005",
+      "style": 84,
+      "name": "From now on, I will do my very\nbest to serve Master as a\nperfect artificial Blade, mo!"
+    }
+  ]
+}

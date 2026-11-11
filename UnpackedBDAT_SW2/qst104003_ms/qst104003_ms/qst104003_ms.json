@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104003_msg001",
+      "style": 62,
+      "name": "Ugh... It's you... I'm alright.\nIt's not a serious injury."
+    },
+    {
+      "$id": 2,
+      "label": "qst104003_msg002",
+      "style": 62,
+      "name": "But the young lady was\nabducted by ruffians...!"
+    },
+    {
+      "$id": 3,
+      "label": "qst104003_msg003",
+      "style": 62,
+      "name": "I don't know how it leaked, but they\nknew the young lady's identity."
+    },
+    {
+      "$id": 4,
+      "label": "qst104003_msg004",
+      "style": 62,
+      "name": "They're probably after ransom money..."
+    },
+    {
+      "$id": 5,
+      "label": "qst104003_msg005",
+      "style": 62,
+      "name": "It's shameful, but we were too\nweak... We couldn't protect her."
+    },
+    {
+      "$id": 6,
+      "label": "qst104003_msg006",
+      "style": 62,
+      "name": "Please, could you\nrescue the young lady?"
+    },
+    {
+      "$id": 7,
+      "label": "qst104003_msg007",
+      "style": 62,
+      "name": "Thank you."
+    },
+    {
+      "$id": 8,
+      "label": "qst104003_msg008",
+      "style": 62,
+      "name": "I hear there's a place nearby called\nthe Forbidden Zone Garrison."
+    },
+    {
+      "$id": 9,
+      "label": "qst104003_msg009",
+      "style": 62,
+      "name": "The enemy has likely fled there."
+    },
+    {
+      "$id": 10,
+      "label": "qst104003_msg010",
+      "style": 62,
+      "name": "I'm counting on you to\nsave the young lady."
+    },
+    {
+      "$id": 11,
+      "label": "qst104003_msg101",
+      "style": 62,
+      "name": "The ruffians likely fled\nto a place called the\nForbidden Zone Garrison."
+    },
+    {
+      "$id": 12,
+      "label": "qst104003_msg102",
+      "style": 62,
+      "name": "I'm sorry, but I'm in your debt..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000058_04_msg0001",
+      "style": 84,
+      "name": "Meat too! Meat too!!\nMeat too!!! Meat too!!!!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000058_04_msg0002",
+      "style": 84,
+      "name": "No matter how much I spend, there's\nstill money left, mo! When did I last\neat this much meat, mo..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000058_04_msg0003",
+      "style": 84,
+      "name": "But we're not done yet, mo! Dodon and\nParvi's celebration won't stop until\nour stomachs burst, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000058_04_msg0004",
+      "style": 84,
+      "name": "Then once I'm full, I'll dive into a\nsuper-fluffy bed and sleep, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000058_04_msg0005",
+      "style": 84,
+      "name": "This is living it up, mo! It's the\nfirst time I've ever lived it up, mo!!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000058_04_msg0006",
+      "style": 84,
+      "name": "But... what else do you do to live it\nup besides eating meat, mo!!?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000011_01_msg0001",
+      "style": 84,
+      "name": "Driver over there! How about some\naccessories?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000011_01_msg0002",
+      "style": 84,
+      "name": "Take 'em back as souvenirs! Hang 'em\noff your clothes as a decoration! Yup,\nyou can't go wrong with accessories!"
+    }
+  ]
+}

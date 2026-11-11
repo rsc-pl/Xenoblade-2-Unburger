@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4440008601_msg0001",
+      "style": 84,
+      "name": "My concoction... It was a perfect\nsuccess...but it was TOO perfect!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4440008601_msg0002",
+      "style": 84,
+      "name": "My beloved drank the love\npotion, as intended..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4440008601_msg0003",
+      "style": 84,
+      "name": "But right after that, a passing Nopon\ntripped and cried out, drawing his\ngaze..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4440008601_msg0004",
+      "style": 84,
+      "name": "Ever since, he's been head over heels\nfor that Nopon! A Nopon with a spouse\nand children!!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk4440008601_msg0005",
+      "style": 84,
+      "name": "I'm proud to have created such\na potent brew, but this is not\nthe result I had hoped for..."
+    }
+  ]
+}

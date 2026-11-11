@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210018302_msg0001",
+      "style": 84,
+      "name": "Everyone, have you read\nthe books I gave you, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210018302_msg0002",
+      "style": 84,
+      "name": "Martis is the old man, Kazuna\nis the Kapiiba, and Kukuri\nis the Divine Beast..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210018302_msg0003",
+      "style": 84,
+      "name": "Share how it felt to become the people\nin the book, mooo!"
+    }
+  ]
+}

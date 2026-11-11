@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102407_msg001",
+      "style": 62,
+      "name": "Yo, you're late. My guys left on\na big job a while ago (temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst102407_msg002",
+      "style": 62,
+      "name": "It's a pretty big mission,\nbut let's settle this once\nand for all (temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102407_msg101",
+      "style": 62,
+      "name": "I'll be heading there later\ntoo, but it might be over by\nthe time you get there (temp)"
+    }
+  ]
+}

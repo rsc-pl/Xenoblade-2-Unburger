@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk501801_msg0001",
+      "style": 84,
+      "name": "All right, today's auction is about\nto begin, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk501801_msg0002",
+      "style": 84,
+      "name": "Anyone who hasn't registered yet,\nhurry up and apply, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk501801_msg0003",
+      "style": 84,
+      "name": "To take part, bring at least 30,000G,\nmo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk501801_msg0004",
+      "style": 84,
+      "name": "If you don't have enough, I won't let\nyou join. You couldn't buy anything\nanyway, mo..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk501801_msg0005",
+      "style": 84,
+      "name": "Looks like you have enough money...\nNow, who will take part...?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk501801_msg0006",
+      "style": 84,
+      "name": "There are many old books today, so\nbring someone who seems to like those,\nmo."
+    },
+    {
+      "$id": 7,
+      "label": "tlk501801_msg0007",
+      "style": 84,
+      "name": "Without someone determined to get the\nbook no matter what, there's no point\nin joining, mo."
+    },
+    {
+      "$id": 8,
+      "label": "tlk501801_msg0008",
+      "style": 84,
+      "name": "Mo-mo... Someone here looks\npromising, mo."
+    },
+    {
+      "$id": 9,
+      "label": "tlk501801_msg0009",
+      "style": 84,
+      "name": "I'm looking forward to today's\nauction, mo..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "campfev11_1310_msg0001",
+      "style": 84,
+      "name": "Those siblings headed for\nLasqam Harbor, didn't they?"
+    },
+    {
+      "$id": 2,
+      "label": "campfev11_1310_msg0002",
+      "style": 84,
+      "name": "Yes... We should hurry, too."
+    },
+    {
+      "$id": 3,
+      "label": "campfev11_1310_msg0003",
+      "style": 84,
+      "name": "If we make them wait too long,\nthey'll just start to worry again."
+    },
+    {
+      "$id": 4,
+      "label": "campfev11_1310_msg0004",
+      "style": 84,
+      "name": "Right. Let's hurry for their sake."
+    }
+  ]
+}

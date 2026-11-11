@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000067_05_msg0001",
+      "style": 84,
+      "name": "So... You're off then?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000067_05_msg0002",
+      "style": 84,
+      "name": "When warriors have that look, it means\nthey're about to head into a battle\nthey can't back down from."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000067_05_msg0003",
+      "style": 84,
+      "name": "Shin.. I remember how you put your\nown life on the line to save this\nvillage many times 80 years ago."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000067_05_msg0004",
+      "style": 84,
+      "name": "Time marches on, the ages pass\nfrom one generation to the\nnext, but you do not change."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000067_05_msg0005",
+      "style": 84,
+      "name": "That's the kind of person you are. I\nknow that well, because I once admired\nyou."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000067_05_msg0006",
+      "style": 84,
+      "name": "It's a humble inn, but come whenever\nyou need to rest. I'll welcome you as\nbest I can."
+    }
+  ]
+}

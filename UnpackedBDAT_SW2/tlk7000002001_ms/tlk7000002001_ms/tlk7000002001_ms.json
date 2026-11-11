@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000020_01_msg0001",
+      "style": 84,
+      "name": "This splendid garden was created by\nthe first king of Iira."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000020_01_msg0002",
+      "style": 84,
+      "name": "The placement of the stones and\npatterns in the sand are meant to\nreflect the natural world around us."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000020_01_msg0003",
+      "style": 84,
+      "name": "But do you know for what purpose\nthe garden was made, and why this\nlocation in particular was chosen?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000020_01_msg0004",
+      "style": 84,
+      "name": "The garden was meant to make people\nface nature and never forget they are\nonly one part of it..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000020_01_msg0005",
+      "style": 84,
+      "name": "The first Iiran king is said\nto have taught that, and the\ncurrent king keeps it."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000020_01_msg0006",
+      "style": 84,
+      "name": "It is so like Iira's king, who\ncherishes the Divine Beast. A\nwonderful endeavor, isn't it?"
+    }
+  ]
+}

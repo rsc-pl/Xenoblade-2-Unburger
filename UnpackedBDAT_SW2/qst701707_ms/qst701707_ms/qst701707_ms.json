@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701707_msg0001",
+      "style": 84,
+      "name": "Eh? Bloody Lobsters?"
+    },
+    {
+      "$id": 2,
+      "label": "qst701707_msg0002",
+      "style": 84,
+      "name": "An ingredient I've never heard of!!\nAn Iiran specialty!? Bet it'd make\ngood stock. Now I'm interested!"
+    },
+    {
+      "$id": 3,
+      "label": "qst701707_msg0003",
+      "style": 84,
+      "name": "...Eh, not an ingredient?\nA scary organization??"
+    },
+    {
+      "$id": 4,
+      "label": "qst701707_msg0004",
+      "style": 84,
+      "name": "Hmm, then you should ask an expert\nin that field. You know, someone\nwho knows the underworld..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk01001003_msg0001",
+      "style": 84,
+      "name": "Acedia is gone, so I can't go\nto the seminary anymore..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk01001003_msg0002",
+      "style": 84,
+      "name": "I took the exam with Rex's money and\nwas getting ready to go, too..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk01001003_msg0003",
+      "style": 84,
+      "name": "I really wanted to study..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210018301_msg0001",
+      "style": 84,
+      "name": "The legendary hero... The sparkling\nprincess... The tiny fairy..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210018301_msg0002",
+      "style": 84,
+      "name": "Mo-mo! I was completely lost in\nthe world of a book, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210018301_msg0003",
+      "style": 84,
+      "name": "In a book, Lapupu can be a hero,\na princess, or even a fairy, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4210018301_msg0004",
+      "style": 84,
+      "name": "If you become wonderful, you can\nunderstand others' feelings and grow\nkinder. I want to teach that, mo."
+    }
+  ]
+}

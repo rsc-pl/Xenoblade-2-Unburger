@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200141_02_msg0001",
+      "style": 84,
+      "name": "Did Ion really get kidnapped?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200141_02_msg0002",
+      "style": 84,
+      "name": "I'm glad Ion-chan is safe, but when I\nsaw her in town, she looked really\ndown..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200141_02_msg0003",
+      "style": 84,
+      "name": "It must've been really scary."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200141_02_msg0004",
+      "style": 84,
+      "name": "I'll invite her out for a Rainbow\nParfait. A change of pace should help\nher feel better."
+    }
+  ]
+}

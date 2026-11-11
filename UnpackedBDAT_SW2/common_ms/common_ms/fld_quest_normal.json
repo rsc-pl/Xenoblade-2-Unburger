@@ -1,0 +1,7294 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 57,
+      "name": "Big Job Preparations"
+    },
+    {
+      "$id": 2,
+      "style": 62,
+      "name": "Chairman Bahn has hired you to salvage\ngoods from deep in the Cloud Sea. Use\nsome of your new cash to buy supplies."
+    },
+    {
+      "$id": 3,
+      "style": 62,
+      "name": "You bought supplies and stocked up on\nfood, so you're all ready to salvage."
+    },
+    {
+      "$id": 4,
+      "style": 62,
+      "name": "Buy an Abyss Vest at Kirakira\nAccessories."
+    },
+    {
+      "$id": 5,
+      "style": 62,
+      "name": "Speak with Maxim the courier."
+    },
+    {
+      "$id": 6,
+      "style": 62,
+      "name": "Speak with Iruiru, who's waiting\non the Salvage Deck."
+    },
+    {
+      "$id": 7,
+      "style": 62,
+      "name": "Salvage at the Salvage Point on\nthe Salvage Deck."
+    },
+    {
+      "$id": 8,
+      "style": 62,
+      "name": "Report back to Iruiru, who's waiting\non the Salvage Deck."
+    },
+    {
+      "$id": 9,
+      "style": 62,
+      "name": "Head to the third floor and buy food\nsupplies at Fishy Fishy."
+    },
+    {
+      "$id": 10,
+      "style": 62,
+      "name": "Talk to Meroro at the Central\nExchange."
+    },
+    {
+      "$id": 11,
+      "style": 57,
+      "name": "Info Gathering on Nia"
+    },
+    {
+      "$id": 12,
+      "style": 62,
+      "name": "Nia has been captured by the Imperial\nArmy. Ask around in Torigo to find out\nas much about her as you can, fast."
+    },
+    {
+      "$id": 13,
+      "style": 62,
+      "name": "In Torigo, you learned Nia's group is\nheld on a Divine Beast battleship and\nwill be executed tomorrow."
+    },
+    {
+      "$id": 14,
+      "style": 62,
+      "name": "Ask around in Torigo to see if you\ncan gather information about Nia."
+    },
+    {
+      "$id": 15,
+      "style": 57,
+      "name": "Perfect Range Sensor"
+    },
+    {
+      "$id": 16,
+      "style": 62,
+      "name": "Get Tora a Perfect Range Sensor and\nBion Connectors for the artificial\nBlade to help rescue Nia."
+    },
+    {
+      "$id": 17,
+      "style": 62,
+      "name": "Defeat the Juppen Cribe\non Lasqam Island."
+    },
+    {
+      "$id": 18,
+      "style": 62,
+      "name": "Report back to Chepaan, who's waiting\nin Torigo."
+    },
+    {
+      "$id": 19,
+      "style": 62,
+      "name": "You obtained a Perfect Range Sensor!\nOnce you have the Bion Connectors\ntoo, head back to Tora's House."
+    },
+    {
+      "$id": 20,
+      "style": 57,
+      "name": "Get Bion Connectors"
+    },
+    {
+      "$id": 21,
+      "style": 62,
+      "name": "Get Tora a Perfect Range Sensor and\nBion Connectors for the artificial\nBlade to help rescue Nia."
+    },
+    {
+      "$id": 22,
+      "style": 62,
+      "name": "Purchase Bion Connectors or obtain\nthem by salvaging."
+    },
+    {
+      "$id": 23,
+      "style": 62,
+      "name": "You obtained the Bion Connectors!\nOnce you have a Perfect Range Sensor\ntoo, head back to Tora's House."
+    },
+    {
+      "$id": 24,
+      "style": 57,
+      "name": "Umon's Ship"
+    },
+    {
+      "$id": 25,
+      "style": 62,
+      "name": "Help Umon finish the Divine Beast ship\nand borrow it so you can head for the\nWorld Tree."
+    },
+    {
+      "$id": 26,
+      "style": 62,
+      "name": "Get your hands on Puzzletree in\nGula Province."
+    },
+    {
+      "$id": 27,
+      "style": 62,
+      "name": "Head to Dawnlight Grotto in Gula\nProvince and get your hands on some\nDiamond Oak."
+    },
+    {
+      "$id": 28,
+      "style": 62,
+      "name": "Report back to Umon at Umon's\nShipyard in Gula Province."
+    },
+    {
+      "$id": 29,
+      "style": 62,
+      "name": "Head to the Masura Spring area\nin Gula Province at high tide and\nbring back the wayward Divine Beast."
+    },
+    {
+      "$id": 30,
+      "style": 62,
+      "name": "Report back to Umon at Umon's\nShipyard in Gula Province."
+    },
+    {
+      "$id": 31,
+      "style": 62,
+      "name": "You brought the tamed Divine Beast to\nUmon. The World Tree ship is complete.\nAll that's left is to depart."
+    },
+    {
+      "$id": 32,
+      "style": 63,
+      "name": "聞きこみ調査"
+    },
+    {
+      "$id": 33,
+      "style": 62,
+      "name": "Superbianの帝国首都で聞きこみを行い\nキクと　ケンゾー博士の居場所を\n突き止めよう"
+    },
+    {
+      "$id": 34,
+      "style": 62,
+      "name": "イルジーに聞きこみをしよう"
+    },
+    {
+      "$id": 35,
+      "style": 62,
+      "name": "キクとケンゾーの居場所を突き止めた\nHadashal Palaceに向かい\nメレフに報告しよう"
+    },
+    {
+      "$id": 36,
+      "style": 57,
+      "name": "The 1000th Late Arrival"
+    },
+    {
+      "$id": 37,
+      "style": 62,
+      "name": "Rimurimu should relieve Kebikebi. It's\nthe 1000th late arrival on watch. Find\nand bring back Rimurimu."
+    },
+    {
+      "$id": 38,
+      "style": 62,
+      "name": "You got Rimurimu to relieve Kebikebi\non watch duty! Surely he'll keep a\ngood look out from now on..."
+    },
+    {
+      "$id": 39,
+      "style": 62,
+      "name": "Search for Rimurimu, who's somewhere\nin Avaritia."
+    },
+    {
+      "$id": 40,
+      "style": 62,
+      "name": "Get your hands on a Nopopon Roll at\nHoney Syrup Sweets in Avaritia."
+    },
+    {
+      "$id": 41,
+      "style": 62,
+      "name": "Deliver the Nopopon Roll to Rimurimu\non the Salvage Deck in Avaritia."
+    },
+    {
+      "$id": 42,
+      "style": 62,
+      "name": "Haul up that Gottsun Cribe at the\nSalvage Deck, Avaritia to retrieve\nRimurimu's Keepsake Pendant."
+    },
+    {
+      "$id": 43,
+      "style": 62,
+      "name": "Deliver the Keepsake Pendant to\nRimurimu on the Salvage Deck in\nAvaritia."
+    },
+    {
+      "$id": 44,
+      "style": 62,
+      "name": "Report back to Kebikebi at Bower\nLounge in Avaritia."
+    },
+    {
+      "$id": 45,
+      "style": 57,
+      "name": "誰がために"
+    },
+    {
+      "$id": 46,
+      "style": 62,
+      "name": "Delta Vesselの在庫が足りず、今にも\n喧嘩になりそうだ。サルベージで入手し\nHiyayaに届けてあげよう。"
+    },
+    {
+      "$id": 47,
+      "style": 62,
+      "name": "仲裁は間に合わなかったが、事態を収め\nることができた。Hiyayaは「次は在庫管\n理をするも」と言い残し去っていった。"
+    },
+    {
+      "$id": 48,
+      "style": 62,
+      "name": "Avaritiaでサルベージをして\nDelta Vesselを1つ入手しよう"
+    },
+    {
+      "$id": 49,
+      "style": 62,
+      "name": "Avaritia・Central ExchangeのHiyayaに\nDelta Vesselを届けよう"
+    },
+    {
+      "$id": 50,
+      "style": 62,
+      "name": "エネミー名を倒そう"
+    },
+    {
+      "$id": 51,
+      "style": 62,
+      "name": "Avaritia・Central Exchangeの\nHiyayaに話しかけよう"
+    },
+    {
+      "$id": 52,
+      "style": 57,
+      "name": "Into the Open Sky"
+    },
+    {
+      "$id": 53,
+      "style": 62,
+      "name": "Pupun is a trainee Nopon pilot.\nHe's close to getting his license,\nso you offered to help him out."
+    },
+    {
+      "$id": 54,
+      "style": 62,
+      "name": "After many troubles, Pupun completed\nhis 40 hours of training and became a\npilot! But no reward is forthcoming."
+    },
+    {
+      "$id": 55,
+      "style": 62,
+      "name": "Collect some food in Avaritia\nand bring it to Pupun."
+    },
+    {
+      "$id": 56,
+      "style": 62,
+      "name": "Head to Gula and rejoin Pupun."
+    },
+    {
+      "$id": 57,
+      "style": 62,
+      "name": "Defeat the Vacuum Grogs at the\nForgotten Land in Gula."
+    },
+    {
+      "$id": 58,
+      "style": 62,
+      "name": "Speak with Pupun at the\nForgotten Land in Gula."
+    },
+    {
+      "$id": 59,
+      "style": 62,
+      "name": "Search for Pupun, who has made\nan emergency landing somewhere\nin Gula."
+    },
+    {
+      "$id": 60,
+      "style": 62,
+      "name": "Collect Mille-Feuille Rocks in\nInvidia."
+    },
+    {
+      "$id": 61,
+      "style": 62,
+      "name": "Collect Crimson Gears in Avaritia."
+    },
+    {
+      "$id": 62,
+      "style": 62,
+      "name": "Collect Fancy Bolts in Avaritia."
+    },
+    {
+      "$id": 63,
+      "style": 62,
+      "name": "Report back to Pupun on the\nTreetop Path in Gula."
+    },
+    {
+      "$id": 64,
+      "style": 62,
+      "name": "Speak with Pupun at Goldmund Flight\nDeck in Avaritia."
+    },
+    {
+      "$id": 65,
+      "style": 57,
+      "name": "Spread the Rumor"
+    },
+    {
+      "$id": 66,
+      "style": 62,
+      "name": "The singer Falala wants to become\nfamous so she can find her missing\nson. Help spread rumors about her."
+    },
+    {
+      "$id": 67,
+      "style": 62,
+      "name": "Thanks to you, Falala was able to\nreunite with her son. From now on\nshe'll treat you to music and a meal."
+    },
+    {
+      "$id": 68,
+      "style": 62,
+      "name": "Gather three Cranberry Bells in\nGula."
+    },
+    {
+      "$id": 69,
+      "style": 62,
+      "name": "Gather three Panda Pansies in Gula."
+    },
+    {
+      "$id": 70,
+      "style": 62,
+      "name": "Make Serenade at Harapekko Canteen\nin Avaritia."
+    },
+    {
+      "$id": 71,
+      "style": 62,
+      "name": "Give Falala the Serenade\nat Harapekko Canteen in Avaritia."
+    },
+    {
+      "$id": 72,
+      "style": 62,
+      "name": "Try making Serenade again at\nHarapekko Canteen in Avaritia."
+    },
+    {
+      "$id": 73,
+      "style": 62,
+      "name": "Give Falala the Serenade\nat Harapekko Canteen in Avaritia."
+    },
+    {
+      "$id": 74,
+      "style": 62,
+      "name": "Speak with Falala at Harapekko\nCanteen in Avaritia."
+    },
+    {
+      "$id": 75,
+      "style": 62,
+      "name": "Obtain three Rhino Tails in Invidia."
+    },
+    {
+      "$id": 76,
+      "style": 62,
+      "name": "Obtain four pieces of Stra Marbled\nMeat in Gula."
+    },
+    {
+      "$id": 77,
+      "style": 62,
+      "name": "Deliver the ingredients you collected\nto Falala at Harapekko Canteen in\nAvaritia."
+    },
+    {
+      "$id": 78,
+      "style": 62,
+      "name": "Stick a leaflet to the notice board\nin the Central Exchange in Avaritia."
+    },
+    {
+      "$id": 79,
+      "style": 62,
+      "name": "Stick a leaflet to the notice\nboard in Torigo, Gula."
+    },
+    {
+      "$id": 80,
+      "style": 62,
+      "name": "Stick a leaflet to the notice board\nin Fons Maim, Invidia."
+    },
+    {
+      "$id": 81,
+      "style": 62,
+      "name": "Report back to Falala at Harapekko\nCanteen in Avaritia."
+    },
+    {
+      "$id": 82,
+      "style": 62,
+      "name": "Complete the Merc Mission \"On the\nSon's Trail!\" or receive information\nfrom the Sousou Informants."
+    },
+    {
+      "$id": 83,
+      "style": 62,
+      "name": "Go to Fons Maim in Invidia and meet\nthe Nopon who may or may not be\nSolala."
+    },
+    {
+      "$id": 84,
+      "style": 62,
+      "name": "Chase after Solala, who ran off\nsomewhere in Fons Maim in Invidia."
+    },
+    {
+      "$id": 85,
+      "style": 62,
+      "name": "Go to Harapekko Canteen in Avaritia\nto meet Falala."
+    },
+    {
+      "$id": 86,
+      "style": 57,
+      "name": "Uncover the Truth"
+    },
+    {
+      "$id": 87,
+      "style": 62,
+      "name": "Help is needed to uncover the truth\nabout the founding of Avaritia. Go\nand ask for more information."
+    },
+    {
+      "$id": 88,
+      "style": 62,
+      "name": "You unraveled the history of Avaritia\nand the Nopon 'mo'. It's an important\ndiscovery in Nopon history."
+    },
+    {
+      "$id": 89,
+      "style": 62,
+      "name": "Pay a visit to Rododo by Goldmund\nFlight Deck in Avaritia."
+    },
+    {
+      "$id": 90,
+      "style": 62,
+      "name": "Open the door to Goldmund Rooftop\nin Avaritia and poke around inside."
+    },
+    {
+      "$id": 91,
+      "style": 62,
+      "name": "Go ask Rododo about the statue. He's\nby Goldmund Flight Deck in Avaritia."
+    },
+    {
+      "$id": 92,
+      "style": 62,
+      "name": "Find a part that would fit in the\nround cavity on the statue in Poponoe\nShrine, Avaritia, and insert it there."
+    },
+    {
+      "$id": 93,
+      "style": 62,
+      "name": "Explore the coordinates near Old Tree\nVrilante in Hræsvelgr."
+    },
+    {
+      "$id": 94,
+      "style": 62,
+      "name": "Go show Captain Nopopon's Journal to\nRododo near Goldmund Flight Deck\nin Avaritia."
+    },
+    {
+      "$id": 95,
+      "style": 62,
+      "name": "Rododo went to Poponoe Shrine in\nAvaritia. Follow him and discover the\ntruth about Avaritia's prosperity."
+    },
+    {
+      "$id": 96,
+      "style": 57,
+      "name": "Bahn's Hidden Assets?!"
+    },
+    {
+      "$id": 97,
+      "style": 62,
+      "name": "Nilny caused trouble while looking\ninto Bahn's hidden assets and found a\nchest. Work with Nilny to open it."
+    },
+    {
+      "$id": 98,
+      "style": 62,
+      "name": "The supposed hidden-assets chest held\na letter from Bahn's mother. Moved,\nNilny continued the investigation."
+    },
+    {
+      "$id": 99,
+      "style": 62,
+      "name": "Pry open the treasure chest in Bahn's\nBedroom in Avaritia."
+    },
+    {
+      "$id": 100,
+      "style": 62,
+      "name": "Speak with Nilny in Bahn's Bedroom\nin Avaritia."
+    },
+    {
+      "$id": 101,
+      "style": 62,
+      "name": "Interrogate Bahn."
+    },
+    {
+      "$id": 102,
+      "style": 62,
+      "name": "Report back to Nilny in Bahn's\nBedroom in Avaritia."
+    },
+    {
+      "$id": 103,
+      "style": 62,
+      "name": "Obtain one Ether Bottle."
+    },
+    {
+      "$id": 104,
+      "style": 62,
+      "name": "Obtain one Key-Shaped Lever."
+    },
+    {
+      "$id": 105,
+      "style": 62,
+      "name": "Obtain one Filament Globe."
+    },
+    {
+      "$id": 106,
+      "style": 62,
+      "name": "Report back to Nilny in Bahn's\nBedroom in Avaritia."
+    },
+    {
+      "$id": 107,
+      "style": 62,
+      "name": "Examine the small treasure chest in\nBahn's Bedroom in Avaritia."
+    },
+    {
+      "$id": 108,
+      "style": 62,
+      "name": "Give the letter to Nilny in Bahn's\nBedroom in Avaritia."
+    },
+    {
+      "$id": 109,
+      "style": 57,
+      "name": "Nopon Coins Ahoy"
+    },
+    {
+      "$id": 110,
+      "style": 62,
+      "name": "Collect all 11 legendary Nopon Coins\nand help Nuinui restore the renown of\nPignerator Trade Guild."
+    },
+    {
+      "$id": 111,
+      "style": 62,
+      "name": "You paid back Gramps's million G loan.\nNuinui plans to use the money to\nrevive Pignerator Trade Guild."
+    },
+    {
+      "$id": 112,
+      "style": 62,
+      "name": "Collect the 11 Nopon Coins hidden all\nover Alst."
+    },
+    {
+      "$id": 113,
+      "style": 62,
+      "name": "Deliver the 11 Nopon Coins to\nNuinui at Goldmund Observation\nDeck in Avaritia."
+    },
+    {
+      "$id": 114,
+      "style": 62,
+      "name": "Repay the million G loan to Nuinui at\nGoldmund Observation Deck in Avaritia."
+    },
+    {
+      "$id": 115,
+      "style": 57,
+      "name": "One Step Ahead"
+    },
+    {
+      "$id": 116,
+      "style": 62,
+      "name": "A mercenary and his companion were\nseparated while searching for Healing\nHerb for a doctor. Help reunite them."
+    },
+    {
+      "$id": 117,
+      "style": 62,
+      "name": "You defeated a monster, found Healing\nHerb and reunited Kapha and Shal.\nThey'll be much closer from now on."
+    },
+    {
+      "$id": 118,
+      "style": 62,
+      "name": "Make your way to below where Shal\nis at Varnask Great Falls in Gula."
+    },
+    {
+      "$id": 119,
+      "style": 62,
+      "name": "Catch up with Shal at Varnask Great\nFalls in Gula."
+    },
+    {
+      "$id": 120,
+      "style": 62,
+      "name": "Catch up with Shal at the top of\nVarnask Great Falls in Gula."
+    },
+    {
+      "$id": 121,
+      "style": 62,
+      "name": "In the morning, defeat the Kyarusu\nStra after the Healing Herb on\nScenic Plateau in Gula."
+    },
+    {
+      "$id": 122,
+      "style": 62,
+      "name": "In the morning, pick a Healing Herb on\nScenic Plateau in Gula."
+    },
+    {
+      "$id": 123,
+      "style": 62,
+      "name": "Report back to Kapha in front of\nVarnask Great Falls in Gula."
+    },
+    {
+      "$id": 124,
+      "style": 57,
+      "name": "The Driver in Ice"
+    },
+    {
+      "$id": 125,
+      "style": 62,
+      "name": "The Blade Hozumi is looking for a\nBlade who can thaw Hozumi's frozen\nDriver. Melt the ice for Hozumi."
+    },
+    {
+      "$id": 126,
+      "style": 62,
+      "name": "The Driver Dariza was thawed out and\nsafely reunited with Hozumi."
+    },
+    {
+      "$id": 127,
+      "style": 62,
+      "name": "Rescue Dariza on Declessa Altar Hill\nin Luxuria."
+    },
+    {
+      "$id": 128,
+      "style": 62,
+      "name": "Speak with Dariza, who has collapsed\non Declessa Altar Hill in Luxuria."
+    },
+    {
+      "$id": 129,
+      "style": 62,
+      "name": "Collect Amethyst Oonira in Luxuria."
+    },
+    {
+      "$id": 130,
+      "style": 62,
+      "name": "Deliver the Amethyst Oonira to Hozumi\non Declessa Altar Hill in Luxuria."
+    },
+    {
+      "$id": 131,
+      "style": 62,
+      "name": "Stop the two who attacked you on\nDeclessa Altar Hill in Luxuria."
+    },
+    {
+      "$id": 132,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 133,
+      "style": 57,
+      "name": "Furniture Maker's Worry"
+    },
+    {
+      "$id": 134,
+      "style": 62,
+      "name": "Furniture maker Yorgo is worried\nbecause his son Hol hasn't returned.\nGo look for Hol."
+    },
+    {
+      "$id": 135,
+      "style": 62,
+      "name": "Helped collect Gulan Walnut\nfor Hol after he got injured."
+    },
+    {
+      "$id": 136,
+      "style": 62,
+      "name": "Look for Hol around the Zain's\nWaytree in Gula."
+    },
+    {
+      "$id": 137,
+      "style": 62,
+      "name": "Defeat the Nababan Gogols near\nthe Zain's Waytree in Gula and help\nHol."
+    },
+    {
+      "$id": 138,
+      "style": 62,
+      "name": "Speak to Hol by the Zain's Waytree."
+    },
+    {
+      "$id": 139,
+      "style": 62,
+      "name": "Gather Confusion Ivy in Gula."
+    },
+    {
+      "$id": 140,
+      "style": 62,
+      "name": "Report back to Hol, who's waiting\nfor you by the Zain's Waytree."
+    },
+    {
+      "$id": 141,
+      "style": 62,
+      "name": "Go to Torigo Market in Gula and\nreport back to Yorgo."
+    },
+    {
+      "$id": 142,
+      "style": 62,
+      "name": "Get the Gulan Walnut from\nMokumoku in the Winding Root Camp\nin Gula."
+    },
+    {
+      "$id": 143,
+      "style": 62,
+      "name": "Go to Torigo Market in Gula and\nreport back to Yorgo."
+    },
+    {
+      "$id": 144,
+      "style": 57,
+      "name": "Vegetables Won't Grow"
+    },
+    {
+      "$id": 145,
+      "style": 62,
+      "name": "Help Umama grow some nice,\nnutritious vegetables."
+    },
+    {
+      "$id": 146,
+      "style": 62,
+      "name": "Stopping the polluted water helped\nclean the soil, letting you grow\nsome delicious Nopopo Daikon."
+    },
+    {
+      "$id": 147,
+      "style": 62,
+      "name": "Scrounge up some promising fertilizer\ningredients and bring them to Umama\nat Kloom Farm in Gula."
+    },
+    {
+      "$id": 148,
+      "style": 62,
+      "name": "Stay at Forest Inn in Torigo, Gula."
+    },
+    {
+      "$id": 149,
+      "style": 62,
+      "name": "Visit Kloom Farm in Gula and ask\nUmama how the vegetables are doing."
+    },
+    {
+      "$id": 150,
+      "style": 62,
+      "name": "Search the surrounding area to find\nout why vegetables aren't growing well\nat Kloom Farm in Gula."
+    },
+    {
+      "$id": 151,
+      "style": 62,
+      "name": "Stop the dirty water flowing from\nSuperbian Army Torigo Base in Gula."
+    },
+    {
+      "$id": 152,
+      "style": 62,
+      "name": "Report back to Umama at Kloom Farm\nin Gula."
+    },
+    {
+      "$id": 153,
+      "style": 62,
+      "name": "Scrounge up some promising fertilizer\ningredients and bring them to Umama\nat Kloom Farm in Gula."
+    },
+    {
+      "$id": 154,
+      "style": 62,
+      "name": "Stay at Forest Inn in Torigo, Gula."
+    },
+    {
+      "$id": 155,
+      "style": 62,
+      "name": "Visit Kloom Farm in Gula and ask\nUmama how the vegetables are doing."
+    },
+    {
+      "$id": 156,
+      "style": 57,
+      "name": "Whereabouts Unknown"
+    },
+    {
+      "$id": 157,
+      "style": 62,
+      "name": "A vermin researcher and guards haven't\nreturned from a Volff survey. It may\nbe an incident, so investigate."
+    },
+    {
+      "$id": 158,
+      "style": 62,
+      "name": "You slew the dinosaur that killed the\nresearcher and guards by strength and\nskill alone. Are their souls at peace?"
+    },
+    {
+      "$id": 159,
+      "style": 62,
+      "name": "You outwitted and slew the dinosaur\nthat killed the researcher and guards.\nCould their souls now be at peace?"
+    },
+    {
+      "$id": 160,
+      "style": 62,
+      "name": "Search for the missing group by\nVarnask Great Falls in Gula."
+    },
+    {
+      "$id": 161,
+      "style": 62,
+      "name": "Follow the footsteps that lead from\nclose to Varnask Great Falls in Gula."
+    },
+    {
+      "$id": 162,
+      "style": 62,
+      "name": "Keep following the footsteps that lead\nfrom close to Varnask Great Falls in\nGula."
+    },
+    {
+      "$id": 163,
+      "style": 62,
+      "name": "Face off against the giant reptile\nthat emerged from the Sauros's Bed in\nGula."
+    },
+    {
+      "$id": 164,
+      "style": 62,
+      "name": "Decide whether to flee from or fight\nthe giant reptile at the Sauros's Bed\nin Gula."
+    },
+    {
+      "$id": 165,
+      "style": 62,
+      "name": "Escape from the giant reptile."
+    },
+    {
+      "$id": 166,
+      "style": 62,
+      "name": "Defeat the giant reptile at the\nSauros's Bed in Gula."
+    },
+    {
+      "$id": 167,
+      "style": 62,
+      "name": "Report back to Ashe at Superbian Army\nTorigo Base in Gula."
+    },
+    {
+      "$id": 168,
+      "style": 62,
+      "name": "Report back to Ashe at Superbian Army\nTorigo Base in Gula."
+    },
+    {
+      "$id": 169,
+      "style": 62,
+      "name": "Speak with Tishek at Berafe Industrial\nDistrict in Superbia."
+    },
+    {
+      "$id": 170,
+      "style": 62,
+      "name": "Obtain a Buno Fruit at Geothermal\nTurbine Tower in Superbia."
+    },
+    {
+      "$id": 171,
+      "style": 62,
+      "name": "Place the Buno Fruit outside the\nSauros's Bed in Gula."
+    },
+    {
+      "$id": 172,
+      "style": 62,
+      "name": "Defeat the weakened giant reptile at\nthe Sauros's Bed in Gula."
+    },
+    {
+      "$id": 173,
+      "style": 62,
+      "name": "Report back to Ashe at Superbian Army\nTorigo Base in Gula."
+    },
+    {
+      "$id": 174,
+      "style": 57,
+      "name": "Umon's Revival"
+    },
+    {
+      "$id": 175,
+      "style": 62,
+      "name": "You found Umon about to jump from a\nTorigo pier and stopped him for now.\nHe seems deeply troubled."
+    },
+    {
+      "$id": 176,
+      "style": 62,
+      "name": "Umon has regained the will to live and\nplans to develop the shipyard even\nmore."
+    },
+    {
+      "$id": 177,
+      "style": 62,
+      "name": "Gather information about Divine Beasts\nin Torigo."
+    },
+    {
+      "$id": 178,
+      "style": 62,
+      "name": "Look for a washed-up Divine Beast by\nTorigo Flower Patch in Gula."
+    },
+    {
+      "$id": 179,
+      "style": 62,
+      "name": "Defeat the Divine Beast-Hunter Lexos\nthat has been attacking Divine Beasts\nby Torigo Flower Patch in Gula."
+    },
+    {
+      "$id": 180,
+      "style": 62,
+      "name": "Report back to Umon at Grodd\nResidential Zone in Gula."
+    },
+    {
+      "$id": 181,
+      "style": 62,
+      "name": "Build a ship by completing the\nnecessary Merc Missions."
+    },
+    {
+      "$id": 182,
+      "style": 62,
+      "name": "Report back to Umon at Grodd\nResidential Zone in Gula."
+    },
+    {
+      "$id": 183,
+      "style": 62,
+      "name": "Speak with Umon, who headed back to\nUmon's Shipyard in Gula."
+    },
+    {
+      "$id": 184,
+      "style": 62,
+      "name": "Take on the \"Shipbuilding Wood\" Merc\nMission to gather lumber."
+    },
+    {
+      "$id": 185,
+      "style": 62,
+      "name": "Take on the \"Craftsman's Skills\" Merc\nMission to process the lumber."
+    },
+    {
+      "$id": 186,
+      "style": 62,
+      "name": "Take on the \"Divine Beast Shipworks\"\nMerc Mission to assemble the ship."
+    },
+    {
+      "$id": 187,
+      "style": 62,
+      "name": "ついに立派な巨神獣船が完成した！\nウモンに報告しに行こう"
+    },
+    {
+      "$id": 188,
+      "style": 62,
+      "name": "ウモンと造船所に行き\n完成した巨神獣船を見せてあげよう"
+    },
+    {
+      "$id": 189,
+      "style": 57,
+      "name": "Mystery of the Mural"
+    },
+    {
+      "$id": 190,
+      "style": 62,
+      "name": "You found a mysterious mural in\nTorigo. Its meaning is unclear. First,\ntry to figure out how to read it."
+    },
+    {
+      "$id": 191,
+      "style": 62,
+      "name": "You gathered six parts from the mural\nsites and Erebos. Where is the ancient\nNopon treasure they're for?"
+    },
+    {
+      "$id": 192,
+      "style": 62,
+      "name": "Go to the location written on the\nmural and get your hands on the\ntreasure."
+    },
+    {
+      "$id": 193,
+      "style": 62,
+      "name": "You obtained a mysterious part.\nReport back to Erebos."
+    },
+    {
+      "$id": 194,
+      "style": 62,
+      "name": "Find the remaining four parts, which\nare hidden all over Alst, then report\nback to Erebos."
+    },
+    {
+      "$id": 195,
+      "style": 62,
+      "name": "Defeat Erebos at Treita Windmill Plaza\nin Gula."
+    },
+    {
+      "$id": 196,
+      "style": 57,
+      "name": "梵我一如"
+    },
+    {
+      "$id": 197,
+      "style": 62,
+      "name": "Badfella's Cave Fortで、ノポンのJizoが\n飢えていた。Hræsvelgrへ帰して\nあげよう。"
+    },
+    {
+      "$id": 198,
+      "style": 62,
+      "name": "Jizoもブレイドのヴァースハも、\n無事、PossahのいるHræsvelgrへ\n帰ることができた。"
+    },
+    {
+      "$id": 199,
+      "style": 62,
+      "name": "HræsvelgrのPossahの元へ行こう"
+    },
+    {
+      "$id": 200,
+      "style": 62,
+      "name": "Fons Maimにいるヴァースハの元へ\n行こう"
+    },
+    {
+      "$id": 201,
+      "style": 62,
+      "name": "Funnystone Highwayの近くに隠したという\nJizoのヘソクリを探そう"
+    },
+    {
+      "$id": 202,
+      "style": 62,
+      "name": "Fons MaimにいるGamedzeに\nヘソクリを渡そう"
+    },
+    {
+      "$id": 203,
+      "style": 62,
+      "name": "500000G払うか、Divine Beast Quartzをひとつ\nGamedzeに渡そう"
+    },
+    {
+      "$id": 204,
+      "style": 62,
+      "name": "HræsvelgrのPossahの元へ帰ろう"
+    },
+    {
+      "$id": 205,
+      "style": 62,
+      "name": "フォンス・マイムにいる金貸しに\n直談判しに行こう！"
+    },
+    {
+      "$id": 206,
+      "style": 62,
+      "name": "50万G払うか　価値のあるトレジャーを3つ\n集めてフォンス・マイムの金貸しに渡そう！"
+    },
+    {
+      "$id": 207,
+      "style": 62,
+      "name": "傭兵団の村にいる\nジゾーの彼女に会いに行こう！"
+    },
+    {
+      "$id": 208,
+      "style": 57,
+      "name": "希少な水生植物"
+    },
+    {
+      "$id": 209,
+      "style": 62,
+      "name": "希少な水生植物を採集してきて欲しいと\n岩の撤去作業を行っていた傭兵から頼まれた"
+    },
+    {
+      "$id": 210,
+      "style": 62,
+      "name": "採集した植物を依頼人に渡した"
+    },
+    {
+      "$id": 211,
+      "style": 62,
+      "name": "植物を採集しよう"
+    },
+    {
+      "$id": 212,
+      "style": 62,
+      "name": "-削除-"
+    },
+    {
+      "$id": 213,
+      "style": 62,
+      "name": "採集した植物を依頼人に渡そう"
+    },
+    {
+      "$id": 214,
+      "style": 62,
+      "name": "トリゴの畑にいるノガバさんに\n植物の採集方法を聞きに行こう"
+    },
+    {
+      "$id": 215,
+      "style": 62,
+      "name": "教えてもらった採集方法で\n植物を４本入手しよう"
+    },
+    {
+      "$id": 216,
+      "style": 62,
+      "name": "４本集まったようだ\n傭兵団の村に戻っている依頼人に報告しよう"
+    },
+    {
+      "$id": 217,
+      "style": 62,
+      "name": "-削除-"
+    },
+    {
+      "$id": 218,
+      "style": 62,
+      "name": "-削除-"
+    },
+    {
+      "$id": 219,
+      "style": 62,
+      "name": "-削除-"
+    },
+    {
+      "$id": 220,
+      "style": 62,
+      "name": "-削除-"
+    },
+    {
+      "$id": 221,
+      "style": 62,
+      "name": "-削除-"
+    },
+    {
+      "$id": 222,
+      "style": 57,
+      "name": "夢への道のり"
+    },
+    {
+      "$id": 223,
+      "style": 62,
+      "name": "青年はドライバーとして働くため\nアドバイスを貰いたいようだ\n彼の手助けをしよう"
+    },
+    {
+      "$id": 224,
+      "style": 62,
+      "name": "ドライバーになった青年と試験を受けるが\nどれも落ちてしまった。青年には申しわけ\nないが　別の道をすすめる事にした････"
+    },
+    {
+      "$id": 225,
+      "style": 62,
+      "name": "ドライバーになった青年と試験を受けるが\nどれも落ちてしまった。頑張り屋な青年に\n知り合いの傭兵団を紹介する事にした。"
+    },
+    {
+      "$id": 226,
+      "style": 63,
+      "name": "(男性ドライバー)と話そう"
+    },
+    {
+      "$id": 227,
+      "style": 63,
+      "name": "指定された場所に向かおう"
+    },
+    {
+      "$id": 228,
+      "style": 63,
+      "name": "(男性ドライバー)を倒そう"
+    },
+    {
+      "$id": 229,
+      "style": 63,
+      "name": "(男性ドライバー)と話そう"
+    },
+    {
+      "$id": 230,
+      "style": 63,
+      "name": "差し入れに●●を買おう"
+    },
+    {
+      "$id": 231,
+      "style": 63,
+      "name": "特訓をしている(男性ドライバー)に\n差し入れを持って行こう"
+    },
+    {
+      "$id": 232,
+      "style": 63,
+      "name": "(男性ドライバー)と入隊試験場へ向かおう"
+    },
+    {
+      "$id": 233,
+      "style": 63,
+      "name": "(モンスター名)を討伐し\nアイテム(名称未設定)を３個集めよう"
+    },
+    {
+      "$id": 234,
+      "style": 63,
+      "name": "兵士に報告しに行こう"
+    },
+    {
+      "$id": 235,
+      "style": 63,
+      "name": "(男性ドライバー)の結果はどうだったか\n話を聞きに行こう"
+    },
+    {
+      "$id": 236,
+      "style": 63,
+      "name": "(男性ドライバー)と傭兵団の詰め所へ向かおう"
+    },
+    {
+      "$id": 237,
+      "style": 63,
+      "name": "コウモリガワを6体倒そう"
+    },
+    {
+      "$id": 238,
+      "style": 63,
+      "name": "傭兵に報告に行こう"
+    },
+    {
+      "$id": 239,
+      "style": 63,
+      "name": "(男性ドライバー)の結果はどうだったか\n話を聞きに行こう"
+    },
+    {
+      "$id": 240,
+      "style": 57,
+      "name": "Divine Beast Scholar"
+    },
+    {
+      "$id": 241,
+      "style": 62,
+      "name": "A Nopon waiting at the port in Fons\nMaim asked you to go looking for his\nteacher, who researches Divine Beasts."
+    },
+    {
+      "$id": 242,
+      "style": 62,
+      "name": "Pilolo heads to the Dragon's Stomach\nto help Gasture. Will they manage to\nget some Dragon Incense?"
+    },
+    {
+      "$id": 243,
+      "style": 62,
+      "name": "Chase after Gasture, who is headed\ntoward Hræsvelgr in Invidia."
+    },
+    {
+      "$id": 244,
+      "style": 62,
+      "name": "Defeat the Flamii threatening Gasture\nin the caves leading to Hræsvelgr in\nInvidia."
+    },
+    {
+      "$id": 245,
+      "style": 62,
+      "name": "Speak to Gasture in the caves leading\nto Hræsvelgr in Invidia."
+    },
+    {
+      "$id": 246,
+      "style": 62,
+      "name": "Head for the Dragon's Stomach in\nInvidia."
+    },
+    {
+      "$id": 247,
+      "style": 62,
+      "name": "Defeat the Paras in the Dragon's\nStomach in Invidia."
+    },
+    {
+      "$id": 248,
+      "style": 62,
+      "name": "Speak with Gasture in Hræsvelgr,\nInvidia."
+    },
+    {
+      "$id": 249,
+      "style": 62,
+      "name": "Speak with Pilolo at Fons Maim Port\nin Invidia."
+    },
+    {
+      "$id": 250,
+      "style": 57,
+      "name": "Cole's Illness"
+    },
+    {
+      "$id": 251,
+      "style": 62,
+      "name": "Ion asks you, without telling Cole, to\nmake medicine to halt his illness.\nFirst, find a doctor who can make it."
+    },
+    {
+      "$id": 252,
+      "style": 62,
+      "name": "You gathered the necessary ingredients\nand delivered the medicine to Cole. He\nseems to be improving by the day."
+    },
+    {
+      "$id": 253,
+      "style": 62,
+      "name": "Get the mercs to gather information\nabout capable doctors."
+    },
+    {
+      "$id": 254,
+      "style": 62,
+      "name": "Visit the doctor, taking into account\nthe gathered information."
+    },
+    {
+      "$id": 255,
+      "style": 62,
+      "name": "Go and meet Smaia, who went to the\nSuperbian Garrison in Temperantia."
+    },
+    {
+      "$id": 256,
+      "style": 62,
+      "name": "Go and meet Smaia, who headed to\nDokuto Spring in Temperantia."
+    },
+    {
+      "$id": 257,
+      "style": 62,
+      "name": "Collect Ghost Tree Root in\nTemperantia."
+    },
+    {
+      "$id": 258,
+      "style": 62,
+      "name": "Speak to Smaia at Dokuto Spring in\nTemperantia."
+    },
+    {
+      "$id": 259,
+      "style": 62,
+      "name": "Speak with Smaia, who returned to\nAdamar Storage Zone in Superbia."
+    },
+    {
+      "$id": 260,
+      "style": 62,
+      "name": "Collect Gloomwood Root\nat Elpis Spirit Cavern."
+    },
+    {
+      "$id": 261,
+      "style": 62,
+      "name": "Collect Cloud Sea Rock Salt at the\nCliffs of Mors."
+    },
+    {
+      "$id": 262,
+      "style": 62,
+      "name": "Collect root vegetables that seem\nlikely to help him live longer."
+    },
+    {
+      "$id": 263,
+      "style": 62,
+      "name": "Deliver the ingredients to Smaia at\nAdamar Storage Zone in Superbia."
+    },
+    {
+      "$id": 264,
+      "style": 62,
+      "name": "Collect True Dragon Incense in the\nDragon's Stomach in Invidia."
+    },
+    {
+      "$id": 265,
+      "style": 62,
+      "name": "Speak with Smaia at Adamar Storage\nZone in Superbia."
+    },
+    {
+      "$id": 266,
+      "style": 62,
+      "name": "Take on the \"Medicine Knowledge\" Merc\nMission to help Smaia make medicine."
+    },
+    {
+      "$id": 267,
+      "style": 62,
+      "name": "Speak with Smaia at Adamar Storage\nZone in Superbia."
+    },
+    {
+      "$id": 268,
+      "style": 62,
+      "name": "Speak with Ion in the Fons Maim\nTheater District in Invidia."
+    },
+    {
+      "$id": 269,
+      "style": 62,
+      "name": "コールに薬を届けにいこう"
+    },
+    {
+      "$id": 270,
+      "style": 57,
+      "name": "巨神獣兵器の改良"
+    },
+    {
+      "$id": 271,
+      "style": 62,
+      "name": "巨神獣兵器改良のために\n必要な素材の調達を頼まれる。"
+    },
+    {
+      "$id": 272,
+      "style": 62,
+      "name": "最終的に改良は完了するが、\n神獣兵器は暴走し科学者は姿を\nくらませてしまう。"
+    },
+    {
+      "$id": 273,
+      "style": 62,
+      "name": "スペルビアでサルベージをして\n神獣兵器改良のためのパーツを集めよう！"
+    },
+    {
+      "$id": 274,
+      "style": 62,
+      "name": "改良された神獣兵器の\nテストバトルをしよう！"
+    },
+    {
+      "$id": 275,
+      "style": 62,
+      "name": "テストバトルの結果を\n科学者に報告しに行こう！"
+    },
+    {
+      "$id": 276,
+      "style": 62,
+      "name": "スペルビアでサルベージをして\n神獣兵器改良のためのパーツを集めよう！"
+    },
+    {
+      "$id": 277,
+      "style": 62,
+      "name": "改良された神獣兵器の\nテストバトルをしよう！"
+    },
+    {
+      "$id": 278,
+      "style": 62,
+      "name": "テストバトルの結果を\n科学者に報告しに行こう！"
+    },
+    {
+      "$id": 279,
+      "style": 62,
+      "name": "改良した神獣兵器を傭兵団任務で\n港湾都市チルソナスに納品しよう！"
+    },
+    {
+      "$id": 280,
+      "style": 62,
+      "name": "納品完了した！\n王宮軍港にいる科学者に報告しに行こう！"
+    },
+    {
+      "$id": 281,
+      "style": 62,
+      "name": "暴走している神獣兵器を止めよう！"
+    },
+    {
+      "$id": 282,
+      "style": 62,
+      "name": "神獣兵器の暴走を止めた！\n科学者に報告しよう！"
+    },
+    {
+      "$id": 283,
+      "style": 57,
+      "name": "The Nopon Murals"
+    },
+    {
+      "$id": 284,
+      "style": 62,
+      "name": "Help Superbian archaeologist Hassane\nsneak into Invidia and solve the\nmystery of the ancient Nopon mural."
+    },
+    {
+      "$id": 285,
+      "style": 62,
+      "name": "Together with Hassane, you solved the\nriddle contained in the ancient Nopon\nmurals, and got the Ancient Nopon Key."
+    },
+    {
+      "$id": 286,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Smuggle the Scholar\"."
+    },
+    {
+      "$id": 287,
+      "style": 62,
+      "name": "Talk to Hassane near Departure Market\nin Invidia."
+    },
+    {
+      "$id": 288,
+      "style": 62,
+      "name": "At different times of day, check out\nthe mural at the Ruins of Knowledge in\nInvidia to see if it's any different."
+    },
+    {
+      "$id": 289,
+      "style": 62,
+      "name": "At the Ruins of Resilience in Invidia,\ncheck the mural at different times for\nany differences."
+    },
+    {
+      "$id": 290,
+      "style": 62,
+      "name": "At the Ruins of Leadership in Invidia,\ncheck the mural at different times for\nany differences."
+    },
+    {
+      "$id": 291,
+      "style": 62,
+      "name": "Report back to Hassane near the\nDeparture Market in Invidia."
+    },
+    {
+      "$id": 292,
+      "style": 62,
+      "name": "Check the roots of Roone's Great Tree\nat Faaren Central Flower Terraces in\nInvidia."
+    },
+    {
+      "$id": 293,
+      "style": 62,
+      "name": "Report back to Hassane near the\nDeparture Market in Invidia."
+    },
+    {
+      "$id": 294,
+      "style": 57,
+      "name": "Reunion"
+    },
+    {
+      "$id": 295,
+      "style": 62,
+      "name": "You met the young man from Gula again,\nnow a fine Driver. Deliver his support\nmoney to his younger siblings."
+    },
+    {
+      "$id": 296,
+      "style": 62,
+      "name": "After giving anti-imperial group\nintel, the official's killer will be\nexiled and can return to family."
+    },
+    {
+      "$id": 297,
+      "style": 62,
+      "name": "The crime is unforgivable; execution\nmay be unavoidable. Meleph vows to fix\nthe warped ties that caused it."
+    },
+    {
+      "$id": 298,
+      "style": 62,
+      "name": "Deliver the presents to Elnoth's\nsiblings at Garede Residential Zone in\nGula."
+    },
+    {
+      "$id": 299,
+      "style": 62,
+      "name": "Report back to Elnoth at Ayvill\nShopping District in Superbia."
+    },
+    {
+      "$id": 300,
+      "style": 62,
+      "name": "Head toward the crime scene at\nShamayim Hot Spring in Superbia."
+    },
+    {
+      "$id": 301,
+      "style": 62,
+      "name": "Gather information at the crime scene\nat Shamayim Hot Spring in Superbia."
+    },
+    {
+      "$id": 302,
+      "style": 62,
+      "name": "Speak with Stole at Hadashal\nPalace in Superbia."
+    },
+    {
+      "$id": 303,
+      "style": 62,
+      "name": "Report back to Elnoth at Shamayim Hot\nSpring in Superbia."
+    },
+    {
+      "$id": 304,
+      "style": 62,
+      "name": "Speak with Hakim at Shamayim\nMountain in Superbia."
+    },
+    {
+      "$id": 305,
+      "style": 62,
+      "name": "Follow the criminal's tracks in\nSuperbia."
+    },
+    {
+      "$id": 306,
+      "style": 62,
+      "name": "Defeat the imperial troops in the\nsecret meeting spot in Superbia."
+    },
+    {
+      "$id": 307,
+      "style": 62,
+      "name": "Head toward the old underground\nwarehouse at Adamar Storage Zone in\nSuperbia."
+    },
+    {
+      "$id": 308,
+      "style": 62,
+      "name": "Defeat the underground anti-Superbian\ntroops at Adamar Storage Zone in\nSuperbia."
+    },
+    {
+      "$id": 309,
+      "style": 62,
+      "name": "Decide what should be done with\nElnoth's father."
+    },
+    {
+      "$id": 310,
+      "style": 62,
+      "name": "It seems that Elnoth isn't around.\nHear what Yachihoko has to say."
+    },
+    {
+      "$id": 311,
+      "style": 62,
+      "name": "隠れ家に乗り込もう"
+    },
+    {
+      "$id": 312,
+      "style": 62,
+      "name": "はぐれ帝国兵達を倒そう"
+    },
+    {
+      "$id": 313,
+      "style": 62,
+      "name": "用心棒を倒そう"
+    },
+    {
+      "$id": 314,
+      "style": 62,
+      "name": "屈強兵士を倒そう"
+    },
+    {
+      "$id": 315,
+      "style": 62,
+      "name": "敵兵の話を聞こう"
+    },
+    {
+      "$id": 316,
+      "style": 57,
+      "name": "Seeking New Lands"
+    },
+    {
+      "$id": 317,
+      "style": 62,
+      "name": "A Nopon opening the first shop on a\nnew continent asks for a bodyguard.\nMeet up after preparations."
+    },
+    {
+      "$id": 318,
+      "style": 62,
+      "name": "Kukun reached Temperantia safely.\nBusiness should thrive there. Make\ngood use of Dokodoko Trading Post."
+    },
+    {
+      "$id": 319,
+      "style": 62,
+      "name": "Meet up with Kukun on Overlook Hill in\nTemperantia."
+    },
+    {
+      "$id": 320,
+      "style": 62,
+      "name": "Defeat the Arman Balgas in\nTemperantia."
+    },
+    {
+      "$id": 321,
+      "style": 62,
+      "name": "Go meet Kukun at the Superbian\nGarrison in Temperantia."
+    },
+    {
+      "$id": 322,
+      "style": 62,
+      "name": "Collect all the various items in\nTemperantia and bring them to Kukun."
+    },
+    {
+      "$id": 323,
+      "style": 62,
+      "name": "Collect Metal Brooches in Temperantia."
+    },
+    {
+      "$id": 324,
+      "style": 62,
+      "name": "Report back to Kukun at the Superbian\nGarrison in Temperantia."
+    },
+    {
+      "$id": 325,
+      "style": 62,
+      "name": "Speak to the soldier at the Superbian\nGarrison in Temperantia."
+    },
+    {
+      "$id": 326,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 327,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 328,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 329,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 330,
+      "style": 57,
+      "name": "大繁殖期"
+    },
+    {
+      "$id": 331,
+      "style": 62,
+      "name": "エーヴァンゲンから繁殖期に入った雪山\n肉食動物の討伐を頼まれた。ゲンブ頭部\nに兵士を駐屯させるため、力を貸そう。"
+    },
+    {
+      "$id": 332,
+      "style": 62,
+      "name": "雪山肉食動物に加え、神獣寄生虫の討伐\nにも成功した。駐屯し始めた兵士たちに\nよってゲンブ頭部は守られていくだろう"
+    },
+    {
+      "$id": 333,
+      "style": 63,
+      "name": "繁殖期に入り凶暴化した\n雪山肉食動物10匹の討伐をしよう"
+    },
+    {
+      "$id": 334,
+      "style": 62,
+      "name": "討伐が終了した事をエーヴァンゲンに\n報告しに行こう"
+    },
+    {
+      "$id": 335,
+      "style": 62,
+      "name": "エーヴァンゲンに部隊の護衛を任された\n傭兵団にお願いする事にしよう"
+    },
+    {
+      "$id": 336,
+      "style": 62,
+      "name": "傭兵団から応援要請が来た\nゲンブ頭部に急いで駆けつけよう"
+    },
+    {
+      "$id": 337,
+      "style": 62,
+      "name": "襲ってきた小型神獣寄生虫の\n討伐をしよう"
+    },
+    {
+      "$id": 338,
+      "style": 62,
+      "name": "何があったのか兵士長に話を\n聞きに行こう"
+    },
+    {
+      "$id": 339,
+      "style": 62,
+      "name": "安全確保のため入口付近にいる\n小型神獣寄生虫を倒そう"
+    },
+    {
+      "$id": 340,
+      "style": 62,
+      "name": "小型神獣寄生虫を倒した\n兵士長に報告しよう"
+    },
+    {
+      "$id": 341,
+      "style": 62,
+      "name": "薬が足りないようだ\n物資補給の手伝いをしよう"
+    },
+    {
+      "$id": 342,
+      "style": 62,
+      "name": "大型神獣寄生虫が現れたようだ\n急いで討伐に向かおう"
+    },
+    {
+      "$id": 343,
+      "style": 62,
+      "name": "大型神獣寄生虫の討伐が終わった\n兵士長に報告しよう"
+    },
+    {
+      "$id": 344,
+      "style": 57,
+      "name": "Bahn's Revenge"
+    },
+    {
+      "$id": 345,
+      "style": 62,
+      "name": "Investigate the improper flow of money\nrecorded in Bahn's secret ledger."
+    },
+    {
+      "$id": 346,
+      "style": 62,
+      "name": "Bahn sent the money to his father,\nDoon. The Lindwurm matter also seems\nheaded for resolution."
+    },
+    {
+      "$id": 347,
+      "style": 63,
+      "name": "Go to Military Island Lindwurm in the\nLiberalitas Archipelago."
+    },
+    {
+      "$id": 348,
+      "style": 62,
+      "name": "Defeat Zadazan and company in Military\nIsland Lindwurm in the Liberalitas\nArchipelago."
+    },
+    {
+      "$id": 349,
+      "style": 62,
+      "name": "Go to the basement of Military Island\nLindwurm in the Liberalitas\nArchipelago."
+    },
+    {
+      "$id": 350,
+      "style": 62,
+      "name": "Follow Doon to Military Island\nLindwurm in the Liberalitas\nArchipelago."
+    },
+    {
+      "$id": 351,
+      "style": 62,
+      "name": "Defeat Doon on Military Island\nLindwurm in the Liberalitas\nArchipelago."
+    },
+    {
+      "$id": 352,
+      "style": 62,
+      "name": "Go and check on Bahn in Avaritia."
+    },
+    {
+      "$id": 353,
+      "style": 57,
+      "name": "The Supply Situation"
+    },
+    {
+      "$id": 354,
+      "style": 62,
+      "name": "Yuu and the others don't have enough\nsupplies for a Merc Group expedition.\nHelp the Merc Group grow."
+    },
+    {
+      "$id": 355,
+      "style": 62,
+      "name": "Despite trouble, you gathered the\npreserved food and Yuu thanked you.\nThe Merc Group should grow larger now."
+    },
+    {
+      "$id": 356,
+      "style": 62,
+      "name": "After you reported gathering rations,\nYuu thanked you. The Merc Group should\ngrow a little larger now."
+    },
+    {
+      "$id": 357,
+      "style": 62,
+      "name": "See what Zuo at Mercenary HQ in\nInvidia has to say."
+    },
+    {
+      "$id": 358,
+      "style": 62,
+      "name": "Prepare some rations at the Plaza of\nReprieve in Invidia."
+    },
+    {
+      "$id": 359,
+      "style": 62,
+      "name": "See what Memera in Departure Market\nin Invidia has to say."
+    },
+    {
+      "$id": 360,
+      "style": 62,
+      "name": "Search for a Mokmo Onion on\nLasqam Island in Gula."
+    },
+    {
+      "$id": 361,
+      "style": 62,
+      "name": "Prepare some rations at the Plaza of\nReprieve in Invidia."
+    },
+    {
+      "$id": 362,
+      "style": 62,
+      "name": "Defeat the leader of the Dodobos\nAnsels at the Plaza of Reprieve\nin Invidia."
+    },
+    {
+      "$id": 363,
+      "style": 62,
+      "name": "Wipe out the herd of Dodobos Ansels\nat the Plaza of Reprieve, Invidia."
+    },
+    {
+      "$id": 364,
+      "style": 62,
+      "name": "Report back to Zuo at Mercenary HQ\nin Invidia."
+    },
+    {
+      "$id": 365,
+      "style": 62,
+      "name": "Report back to Yuu at Mercenary HQ\nin Invidia."
+    },
+    {
+      "$id": 366,
+      "style": 62,
+      "name": "Report back to Zuo at Mercenary HQ\nin Invidia."
+    },
+    {
+      "$id": 367,
+      "style": 62,
+      "name": "Report back to Yuu at Mercenary HQ\nin Invidia."
+    },
+    {
+      "$id": 368,
+      "style": 57,
+      "name": "A Test of Strength"
+    },
+    {
+      "$id": 369,
+      "style": 62,
+      "name": "Proud mercs want to spar with new\nleader Rex. Cross swords at the\ntraining ground and prove your skill."
+    },
+    {
+      "$id": 370,
+      "style": 62,
+      "name": "Crossing swords made the village mercs\nacknowledge your skill. Keep working\ntoward a better Merc Group."
+    },
+    {
+      "$id": 371,
+      "style": 62,
+      "name": "Speak with Vonvi at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 372,
+      "style": 62,
+      "name": "Spar with Vonvi and the\nothers at the Valiant\nTraining Ground in Invidia."
+    },
+    {
+      "$id": 373,
+      "style": 62,
+      "name": "Speak with Vonvi at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 374,
+      "style": 62,
+      "name": "Speak with Radek at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 375,
+      "style": 62,
+      "name": "Fight Radek and the others at the\nValiant Training Ground in Invidia."
+    },
+    {
+      "$id": 376,
+      "style": 62,
+      "name": "Speak with Radek at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 377,
+      "style": 62,
+      "name": "Speak with Yuu at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 378,
+      "style": 62,
+      "name": "Spar with Yuu and Zuo at the\nValiant Training Ground in Invidia."
+    },
+    {
+      "$id": 379,
+      "style": 62,
+      "name": "Speak with Yuu at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 380,
+      "style": 57,
+      "name": "Torigo Guard's Request"
+    },
+    {
+      "$id": 381,
+      "style": 62,
+      "name": "Gather Melosian Honey and deliver\nit to Militia Chief Mou."
+    },
+    {
+      "$id": 382,
+      "style": 62,
+      "name": "You've done well, but it seems that\nthe Militia will be snowed under for\na while until a new consul arrives."
+    },
+    {
+      "$id": 383,
+      "style": 62,
+      "name": "Gather Melosian Honey at\nSkeet's Nest in Gula."
+    },
+    {
+      "$id": 384,
+      "style": 62,
+      "name": "Deliver the gathered Melosian Honey to\nMilitia Chief Mou outside Shubia\nChief's Residence in Gula."
+    },
+    {
+      "$id": 385,
+      "style": 62,
+      "name": "Look for the Nopon suspected of\nillegally squatting in Torigo, Gula."
+    },
+    {
+      "$id": 386,
+      "style": 62,
+      "name": "Resolve the dispute between Superbian\nsoldiers and Torigo residents at\nTorigo Base Main Gate, Gula."
+    },
+    {
+      "$id": 387,
+      "style": 62,
+      "name": "Resolve the racial discrimination that\nhas spread even to the Gulan children\nat Treita Windmill Plaza in Gula."
+    },
+    {
+      "$id": 388,
+      "style": 62,
+      "name": "Speak to Hula in Grodd Residential\nZone, Gula and get her supplies\nrunning again."
+    },
+    {
+      "$id": 389,
+      "style": 62,
+      "name": "Report back to Militia Chief Mou, who\nis waiting in front of Shubia Chief's\nResidence in Gula."
+    },
+    {
+      "$id": 390,
+      "style": 57,
+      "name": "物見兵"
+    },
+    {
+      "$id": 391,
+      "style": 62,
+      "name": "倒した物見兵に仕事を\n押し付けられてしまった\n戻ってくるまで見張り役をしよう"
+    },
+    {
+      "$id": 392,
+      "style": 62,
+      "name": "見張りをしていると\nエネミーが襲ってきたりと大忙しだった\n見張り役って大変だ"
+    },
+    {
+      "$id": 393,
+      "style": 62,
+      "name": "何処かへ行ってしまった物見兵の\n変わりに見張りの仕事をしよう"
+    },
+    {
+      "$id": 394,
+      "style": 62,
+      "name": "エネミーが港へ近づいてくるのが見えた\n砲兵に頼んで撃退してもらおう"
+    },
+    {
+      "$id": 395,
+      "style": 62,
+      "name": "飛行エネミーの撃退に成功した\nが他にも何が起こるか分からない\n早く見張り台に戻り任務を続けよう"
+    },
+    {
+      "$id": 396,
+      "style": 62,
+      "name": "工場近くでエネミーに襲われている\n女性を見つけた急いで助けに行こう"
+    },
+    {
+      "$id": 397,
+      "style": 62,
+      "name": "エネミーを討伐しよう"
+    },
+    {
+      "$id": 398,
+      "style": 62,
+      "name": "物見兵が未だに戻らないので\n戻ってくるまで見張り台で任務をしよう"
+    },
+    {
+      "$id": 399,
+      "style": 62,
+      "name": "多数のエネミーが襲ってきた\n砲兵に知らせに行こう"
+    },
+    {
+      "$id": 400,
+      "style": 62,
+      "name": "見張り台に逃げたエネミーを追って\n討伐しよう"
+    },
+    {
+      "$id": 401,
+      "style": 57,
+      "name": "受け継がれる聖歌"
+    },
+    {
+      "$id": 402,
+      "style": 62,
+      "name": "聖歌隊の存在を後世に残していくために\n自分たちで歌を作りたい。\n楽器や指導者、絵画を\n集めてきてほしいと依頼される。"
+    },
+    {
+      "$id": 403,
+      "style": 62,
+      "name": "難民たちが歌や楽器の練習を始める。\n少女二人の絵が完成する。"
+    },
+    {
+      "$id": 404,
+      "style": 62,
+      "name": "十二弦ギターを手に入れよう"
+    },
+    {
+      "$id": 405,
+      "style": 62,
+      "name": "パイプトランペットを手に入れよう"
+    },
+    {
+      "$id": 406,
+      "style": 62,
+      "name": "スチームオルガンを手に入れよう"
+    },
+    {
+      "$id": 407,
+      "style": 62,
+      "name": "赤棹三味線を手に入れよう"
+    },
+    {
+      "$id": 408,
+      "style": 62,
+      "name": "集めた楽器を依頼人に渡そう！"
+    },
+    {
+      "$id": 409,
+      "style": 62,
+      "name": "管楽器指導者をインヴィディアで探そう"
+    },
+    {
+      "$id": 410,
+      "style": 62,
+      "name": "弦楽器指導者をグーラで探そう"
+    },
+    {
+      "$id": 411,
+      "style": 62,
+      "name": "声楽指導者をグーラで探そう"
+    },
+    {
+      "$id": 412,
+      "style": 62,
+      "name": "鍵盤指導者をスペルビアで探そう"
+    },
+    {
+      "$id": 413,
+      "style": 62,
+      "name": "これで全員スカウトできた！\n依頼人に報告しよう！"
+    },
+    {
+      "$id": 414,
+      "style": 62,
+      "name": "トリゴの街にいる画家に\n絵を描いてもらおう！"
+    },
+    {
+      "$id": 415,
+      "style": 62,
+      "name": "イラストをトリゴの街にいる\n依頼人に渡そう！"
+    },
+    {
+      "$id": 416,
+      "style": 57,
+      "name": "Mercenary Summit"
+    },
+    {
+      "$id": 417,
+      "style": 62,
+      "name": "Interview candidates to assist Yuu,\nthe Merc Group's subleader. Choose one\nof the three to hire."
+    },
+    {
+      "$id": 418,
+      "style": 62,
+      "name": "Candidates ranged from big-sister\ntypes to soothing types. Whoever you\nhire should be a reliable assistant."
+    },
+    {
+      "$id": 419,
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 420,
+      "style": 62,
+      "name": "Speak with Yuu at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 421,
+      "style": 62,
+      "name": "Speak with Yuu at\nthe Valiant Training\nGround in Invidia."
+    },
+    {
+      "$id": 422,
+      "style": 57,
+      "name": "Best Mercenary Group"
+    },
+    {
+      "$id": 423,
+      "style": 62,
+      "name": "Yuu entrusts you with an important job\nto raise the Merc Group. Go hear out\nthe VIP at the marked spot."
+    },
+    {
+      "$id": 424,
+      "style": 62,
+      "name": "At Vandham's grave, with Yuu and Zuo,\nyou vowed to form the strongest, best\nMerc Group."
+    },
+    {
+      "$id": 425,
+      "style": 62,
+      "name": "Go meet the client in the Lagert\nUnderwater Garden in Invidia."
+    },
+    {
+      "$id": 426,
+      "style": 62,
+      "name": "Complete the Merc Mission \"Gulan\nFugitive\"."
+    },
+    {
+      "$id": 427,
+      "style": 62,
+      "name": "Search for Garlo in\nTorigo, Gula."
+    },
+    {
+      "$id": 428,
+      "style": 62,
+      "name": "Defeat Garlo in\nTorigo, Gula."
+    },
+    {
+      "$id": 429,
+      "style": 62,
+      "name": "Speak with the captain of the Divine\nBeast Warship at Superbian Army Torigo\nBase in Gula."
+    },
+    {
+      "$id": 430,
+      "style": 62,
+      "name": "Search for the Superbian soldier with\nthe Jeweled Signet aboard the Divine\nBeast battleship in Gula."
+    },
+    {
+      "$id": 431,
+      "style": 62,
+      "name": "Defeat Ambush Hassic and his men on\nthe Bridge of the Divine Beast Warship\nin Gula."
+    },
+    {
+      "$id": 432,
+      "style": 62,
+      "name": "Defeat Veteran Safan and his\ncompanion on the Bridge of the Divine\nBeast Warship in Gula."
+    },
+    {
+      "$id": 433,
+      "style": 62,
+      "name": "Retrieve the Jeweled Signet from\ninside the Divine Beast Warship in\nGula."
+    },
+    {
+      "$id": 434,
+      "style": 62,
+      "name": "Deliver the Jeweled Signet to Lagert\nat the Lagert Underwater Garden in\nInvidia."
+    },
+    {
+      "$id": 435,
+      "style": 62,
+      "name": "Report back to Yuu at Mercenary HQ\nin Invidia."
+    },
+    {
+      "$id": 436,
+      "style": 62,
+      "name": "Visit Vandham's grave at Karam Ruins\nin Invidia."
+    },
+    {
+      "$id": 437,
+      "style": 57,
+      "name": "Vandham's Further Wish"
+    },
+    {
+      "$id": 438,
+      "style": 62,
+      "name": "Yuu explained Merc Group Action.\nComplete a mission in that mode."
+    },
+    {
+      "$id": 439,
+      "style": 62,
+      "name": "You completed a Merc Group Action\nmission and unlocked new Merc Group\nmissions."
+    },
+    {
+      "$id": 440,
+      "style": 62,
+      "name": "Complete a Merc Group Action\nmission, then report to Yuu at\nMerc Group HQ in Invidia."
+    },
+    {
+      "$id": 441,
+      "style": 57,
+      "name": "スペルビアの職人"
+    },
+    {
+      "$id": 442,
+      "style": 62,
+      "name": "公衆浴場のボイラーの\n修理の素材を頼まれるクエスト。\n進めていくと技術者を探すことになる。"
+    },
+    {
+      "$id": 443,
+      "style": 62,
+      "name": "修理は完了したけど、\n最初に言われた箇所と違うような"
+    },
+    {
+      "$id": 444,
+      "style": 62,
+      "name": "無事に材料と技術者を用意して\n修理が完了する"
+    },
+    {
+      "$id": 445,
+      "style": 62,
+      "name": "スペルビアの中規模工場にいる\nＢさんに修理の材料をもらいに行こう！"
+    },
+    {
+      "$id": 446,
+      "style": 62,
+      "name": "スペルビア新採掘場のやぐらにいる\nＣさんに会いに行こう！"
+    },
+    {
+      "$id": 447,
+      "style": 62,
+      "name": "スペルビア配管管理室にある\nヒューズバルブを手に入れよう！"
+    },
+    {
+      "$id": 448,
+      "style": 62,
+      "name": "ヒューズバルブを手に入れたぞ！\nやぐらにいるＤさんに渡しに行こう!　"
+    },
+    {
+      "$id": 449,
+      "style": 62,
+      "name": "スペルビア湾岸施設にいるＣさんに\nヒューズバルブを渡しに行こう！"
+    },
+    {
+      "$id": 450,
+      "style": 62,
+      "name": "スペルビア中規模工場にいるＢさんに\n修理の材料をもらいに行こう！"
+    },
+    {
+      "$id": 451,
+      "style": 62,
+      "name": "間違った修理をした（非表示）"
+    },
+    {
+      "$id": 452,
+      "style": 62,
+      "name": "スペルビアの公衆浴場に\nボイラーの修理をしに行くぞ！\n浴場職員のＡさんに話しかけよう！"
+    },
+    {
+      "$id": 453,
+      "style": 57,
+      "name": "The Case of the Crane"
+    },
+    {
+      "$id": 454,
+      "style": 62,
+      "name": "Torigo's crane has been breaking\ndown a lot recently. Fix the crane\nand catch whoever's responsible."
+    },
+    {
+      "$id": 455,
+      "style": 62,
+      "name": "You solved the case of Torigo's\nbroken crane. The Tirkin offenders are\nnow on guard duty protecting the town."
+    },
+    {
+      "$id": 456,
+      "style": 62,
+      "name": "Speak to Mache at Shubia Lumberyard,\nGula and complete the mission\n\"Repair Torigo's Crane\"."
+    },
+    {
+      "$id": 457,
+      "style": 62,
+      "name": "Speak to Pettle at Shubia Lumberyard,\nGula and complete the mission\n\"Crane Criminals\"."
+    },
+    {
+      "$id": 458,
+      "style": 62,
+      "name": "Report back to Yan at Shubia\nLumberyard in Gula and let him know\nthat the case is closed."
+    },
+    {
+      "$id": 459,
+      "style": 57,
+      "name": "How Remittances Work"
+    },
+    {
+      "$id": 460,
+      "style": 62,
+      "name": "The amount of money sent to Aunt\nCorrel is far too small! Go ask the\ncouriers about it."
+    },
+    {
+      "$id": 461,
+      "style": 62,
+      "name": "Too many stops reduced the money. You\nopened a direct route to Iyasaki! That\nshould cut fees from now on."
+    },
+    {
+      "$id": 462,
+      "style": 62,
+      "name": "Go and speak with Maxim at the\nAvaritia Bazaar."
+    },
+    {
+      "$id": 463,
+      "style": 62,
+      "name": "Go to Grodd Residential Zone in\nGula and ask Hugh about the\nhandling fees."
+    },
+    {
+      "$id": 464,
+      "style": 62,
+      "name": "Search for the Boss Nopon at Port\nAnanyam in Superbia."
+    },
+    {
+      "$id": 465,
+      "style": 62,
+      "name": "Go and search for the Boss at Hanzag\nWastes in Superbia."
+    },
+    {
+      "$id": 466,
+      "style": 62,
+      "name": "Go and search for the Boss at the\nStorage Warehouse in Superbia."
+    },
+    {
+      "$id": 467,
+      "style": 62,
+      "name": "Report back to Kebubu at Port\nAnanyam in Superbia and tell him\nthat the Boss was nowhere to be found."
+    },
+    {
+      "$id": 468,
+      "style": 62,
+      "name": "Go to Rijite Port in Liberalitas and\nask Schuchit about the handling fees."
+    },
+    {
+      "$id": 469,
+      "style": 62,
+      "name": "Defeat the Janga Claudes at Rijite\nPort in Liberalitas."
+    },
+    {
+      "$id": 470,
+      "style": 62,
+      "name": "Speak with Schuchit at Rijite Port in\nLiberalitas."
+    },
+    {
+      "$id": 471,
+      "style": 62,
+      "name": "Go consult with Maxim at the\nAvaritia Bazaar."
+    },
+    {
+      "$id": 472,
+      "style": 62,
+      "name": "Go and buy a ship from Pukapu on\nGoldmund Flight Deck at the Avaritia\nTrade Guild."
+    },
+    {
+      "$id": 473,
+      "style": 62,
+      "name": "Complete \"Umon Bounces Back\",\nthen go and borrow a ship from\nUmon in Gula."
+    },
+    {
+      "$id": 474,
+      "style": 62,
+      "name": "Report back to Maxim at the\nAvaritia Bazaar."
+    },
+    {
+      "$id": 475,
+      "style": 57,
+      "name": "Sniff out the Spy"
+    },
+    {
+      "$id": 476,
+      "style": 62,
+      "name": "It seems that a spy may have\ninfiltrated the Merc Group. See if\nyou can identify them."
+    },
+    {
+      "$id": 477,
+      "style": 62,
+      "name": "Bamibami was the spy, but higher pay\nand mushrooms beat the rival group's\noffer. Mushroom use rose afterward."
+    },
+    {
+      "$id": 478,
+      "style": 62,
+      "name": "Defeat Spike Unin in Invidia."
+    },
+    {
+      "$id": 479,
+      "style": 62,
+      "name": "Head to the campsite by the Cobalt\nCliffs in Invidia."
+    },
+    {
+      "$id": 480,
+      "style": 62,
+      "name": "Speak to Judith at the campsite by\nthe Cobalt Cliffs in Invidia."
+    },
+    {
+      "$id": 481,
+      "style": 62,
+      "name": "Speak to Bamibami at the campsite by\nthe Cobalt Cliffs in Invidia."
+    },
+    {
+      "$id": 482,
+      "style": 62,
+      "name": "Report back to Delfina at Departure\nMarket in Hræsvelgr."
+    },
+    {
+      "$id": 483,
+      "style": 62,
+      "name": "Defeat the Invading Spike Unin at\nBluestep Ditch in Invidia."
+    },
+    {
+      "$id": 484,
+      "style": 62,
+      "name": "Report back to Delfina at Departure\nMarket in Hræsvelgr again."
+    },
+    {
+      "$id": 485,
+      "style": 62,
+      "name": "Search for the spy who raided the\nweapon cache in Hræsvelgr, Invidia."
+    },
+    {
+      "$id": 486,
+      "style": 57,
+      "name": "真の財宝"
+    },
+    {
+      "$id": 487,
+      "style": 62,
+      "name": "おとぎ話のお宝を探すため、\n建築家から得た情報をもとに\nスペルビアの各地を調査するクエスト"
+    },
+    {
+      "$id": 488,
+      "style": 62,
+      "name": "結局お宝は見つからず、\n真の財宝はこの秘湯ではないか\nという結論に。"
+    },
+    {
+      "$id": 489,
+      "style": 62,
+      "name": "建築家からの信用を失い、\n嘘の情報を渡される。\n最終的に財宝を\n見つけることはできなった…。"
+    },
+    {
+      "$id": 490,
+      "style": 62,
+      "name": "スペルビア帝都の橋の下に\nあるといわれている建築家の\n石碑を探そう！"
+    },
+    {
+      "$id": 491,
+      "style": 62,
+      "name": "話し手のおにいさんに話を聞いてみよう！"
+    },
+    {
+      "$id": 492,
+      "style": 62,
+      "name": "スペルビアの建築家の家に行ってみよう！"
+    },
+    {
+      "$id": 493,
+      "style": 62,
+      "name": "スペルビア公衆浴場にいる\n建築家に話を聞こう！"
+    },
+    {
+      "$id": 494,
+      "style": 62,
+      "name": "メモAを探そう"
+    },
+    {
+      "$id": 495,
+      "style": 62,
+      "name": "メモBを探そう"
+    },
+    {
+      "$id": 496,
+      "style": 62,
+      "name": "メモCを探そう"
+    },
+    {
+      "$id": 497,
+      "style": 62,
+      "name": "A：建築家に報告しに行こう！"
+    },
+    {
+      "$id": 498,
+      "style": 62,
+      "name": "B：宝箱を空けに行ってしまう\n（非表示）"
+    },
+    {
+      "$id": 499,
+      "style": 62,
+      "name": "建築家に教えてもらった場所に\n行ってみよう！"
+    },
+    {
+      "$id": 500,
+      "style": 62,
+      "name": "建築家に報告しに行こう！"
+    },
+    {
+      "$id": 501,
+      "style": 57,
+      "name": "傭兵の掟"
+    },
+    {
+      "$id": 502,
+      "style": 62,
+      "name": "テンペランティアで消息不明となった\n隠密部隊の捜索を依頼される。"
+    },
+    {
+      "$id": 503,
+      "style": 62,
+      "name": "隠密部隊を発見し\n死亡してしまった傭兵を埋葬する\nインヴィディアに戻り\n依頼人の兵士に報告した。"
+    },
+    {
+      "$id": 504,
+      "style": 62,
+      "name": "隠密部隊を探しに\nテンペランティアに向かおう！"
+    },
+    {
+      "$id": 505,
+      "style": 62,
+      "name": "痕跡の主を探そう！"
+    },
+    {
+      "$id": 506,
+      "style": 62,
+      "name": "隠密部隊を探そう！"
+    },
+    {
+      "$id": 507,
+      "style": 62,
+      "name": "話を聞いてくれそうにない！\nおとなしく話を聞いてもらうために\n隠密部隊を倒そう！"
+    },
+    {
+      "$id": 508,
+      "style": 62,
+      "name": "隠密部隊に事情を話そう！"
+    },
+    {
+      "$id": 509,
+      "style": 62,
+      "name": "傭兵の亡骸があった\nテンペランティアの\nレギロス台地にもどろう！"
+    },
+    {
+      "$id": 510,
+      "style": 62,
+      "name": "墓を作るために女王蜘蛛を倒そう！"
+    },
+    {
+      "$id": 511,
+      "style": 62,
+      "name": "墓ができた\n隠密部隊の傭兵に話を聞こう"
+    },
+    {
+      "$id": 512,
+      "style": 62,
+      "name": "隠密部隊を見つけることができた！\nインヴィディアの兵舎に報告しに行こう！"
+    },
+    {
+      "$id": 513,
+      "style": 57,
+      "name": "お忍びの旅"
+    },
+    {
+      "$id": 514,
+      "style": 62,
+      "name": "インヴィディアのお嬢様ラヴィーナから\n薬の素材を集めてくるように頼まれた。"
+    },
+    {
+      "$id": 515,
+      "style": 62,
+      "name": "ラヴィーナをはぐれ帝国兵から\n助け出し、無事インヴィディアまで\n送り届けることができた。"
+    },
+    {
+      "$id": 516,
+      "style": 62,
+      "name": "エルピス霊堂で\n浮遊生物の皮を1つ手に入れよう！"
+    },
+    {
+      "$id": 517,
+      "style": 62,
+      "name": "Get 1 Stamin-Nass in the\nLiberalitas Archipelago!"
+    },
+    {
+      "$id": 518,
+      "style": 62,
+      "name": "イヤサキ村にいる\nラヴィーナに報告しに行こう！"
+    },
+    {
+      "$id": 519,
+      "style": 62,
+      "name": "ラヴィーナはイヤサキ港にいるらしい。\nイヤサキ港に向かおう！"
+    },
+    {
+      "$id": 520,
+      "style": 62,
+      "name": "駐屯島でとらわれている\nラヴィーナを助けに行こう！"
+    },
+    {
+      "$id": 521,
+      "style": 62,
+      "name": "はぐれ帝国兵たちを倒そう！"
+    },
+    {
+      "$id": 522,
+      "style": 62,
+      "name": "ラヴィーナを救出して\n駐屯島を脱出しよう！"
+    },
+    {
+      "$id": 523,
+      "style": 62,
+      "name": "ラヴィーナをイヤサキ港まで連れていこう！"
+    },
+    {
+      "$id": 524,
+      "style": 62,
+      "name": "傭兵団任務でラヴィーナたちを\nインヴィディアまで護衛しよう！"
+    },
+    {
+      "$id": 525,
+      "style": 62,
+      "name": "インヴィディアの港に\nラヴィーナたちの様子を見に行こう！"
+    },
+    {
+      "$id": 526,
+      "style": 57,
+      "name": "ボランティア活動"
+    },
+    {
+      "$id": 527,
+      "style": 62,
+      "name": "難民キャンプでボランティアの\n手伝いをすることになった"
+    },
+    {
+      "$id": 528,
+      "style": 62,
+      "name": "一通りボランティアをこなした。\nこれで少し難民の生活も良くなるだろう"
+    },
+    {
+      "$id": 529,
+      "style": 62,
+      "name": "セリオスアネモネを5個集めてこよう"
+    },
+    {
+      "$id": 530,
+      "style": 62,
+      "name": "ストピィーを10個集めてこよう"
+    },
+    {
+      "$id": 531,
+      "style": 62,
+      "name": "モスプラッシュを3個集めてこよう"
+    },
+    {
+      "$id": 532,
+      "style": 62,
+      "name": "依頼人に薬の調合をしてもらおう"
+    },
+    {
+      "$id": 533,
+      "style": 62,
+      "name": "怪我した難民に治療薬を渡しにいこう"
+    },
+    {
+      "$id": 534,
+      "style": 62,
+      "name": "依頼人に薬を届けた報告をしよう"
+    },
+    {
+      "$id": 535,
+      "style": 62,
+      "name": "配給所で配給の手伝いをしよう"
+    },
+    {
+      "$id": 536,
+      "style": 62,
+      "name": "配給所で料理を登録しよう"
+    },
+    {
+      "$id": 537,
+      "style": 62,
+      "name": "配給所で配給を手伝った報告をしよう"
+    },
+    {
+      "$id": 538,
+      "style": 62,
+      "name": "ベッカさんの話し相手をしよう"
+    },
+    {
+      "$id": 539,
+      "style": 62,
+      "name": "話し相手をした報告をしよう"
+    },
+    {
+      "$id": 540,
+      "style": 62,
+      "name": "キャンプに散らばっているゴミを回収しよう"
+    },
+    {
+      "$id": 541,
+      "style": 62,
+      "name": "ゴミを片づけた報告をしよう"
+    },
+    {
+      "$id": 542,
+      "style": 57,
+      "name": "Avenging His Parents"
+    },
+    {
+      "$id": 543,
+      "style": 62,
+      "name": "Travel with mercenary Nish, suspected\nof killing Jillwood's parents, and\nlook into the past."
+    },
+    {
+      "$id": 544,
+      "style": 62,
+      "name": "Nish will stay with the Merc Group.\nJillwood isn't convinced, but whether\nthis was the right choice is unclear."
+    },
+    {
+      "$id": 545,
+      "style": 62,
+      "name": "Nish helped cause Jillwood's parents'\ndeaths. Jillwood will become a Driver\nto avenge them."
+    },
+    {
+      "$id": 546,
+      "style": 62,
+      "name": "Talk to Nish at the\nValiant Training\nGround in Hræsvelgr."
+    },
+    {
+      "$id": 547,
+      "style": 62,
+      "name": "Meet up with Cordon at Grave-Robber\nDig Site in Elpis Spirit Cavern."
+    },
+    {
+      "$id": 548,
+      "style": 62,
+      "name": "Defeat Gamuni Tasman at Elpis Spirit\nCavern."
+    },
+    {
+      "$id": 549,
+      "style": 62,
+      "name": "Defeat Dusky Rator at\nElpis Spirit Cavern."
+    },
+    {
+      "$id": 550,
+      "style": 62,
+      "name": "Report back to Cordon at Grave-Robber\nDig Site in Elpis Spirit Cavern."
+    },
+    {
+      "$id": 551,
+      "style": 62,
+      "name": "See how you can help Nish at\nGrave-Robber Dig Site in Elpis\nSpirit Cavern."
+    },
+    {
+      "$id": 552,
+      "style": 62,
+      "name": "Collect Shade Trout at\nElpis Spirit Cavern."
+    },
+    {
+      "$id": 553,
+      "style": 62,
+      "name": "Get your hands on a Spoiled Apple\nat Elpis Spirit Cavern."
+    },
+    {
+      "$id": 554,
+      "style": 62,
+      "name": "Deliver the ingredients you've\ncollected to Nish at Grave-Robber Dig\nSite in Elpis Spirit Cavern."
+    },
+    {
+      "$id": 555,
+      "style": 62,
+      "name": "Receive a mission from Cordon at\nGrave-Robber Dig Site in Elpis\nSpirit Cavern."
+    },
+    {
+      "$id": 556,
+      "style": 62,
+      "name": "Obtain a Shining Stalactite\nat Elpis Spirit Cavern."
+    },
+    {
+      "$id": 557,
+      "style": 62,
+      "name": "Bring the Shining Stalactite to\nCordon at Grave-Robber Dig Site in\nElpis Spirit Cavern."
+    },
+    {
+      "$id": 558,
+      "style": 62,
+      "name": "Go help Cordon and the others in the\nLowest Pillar Chamber on the lowest\nlevel of Elpis Spirit Cavern."
+    },
+    {
+      "$id": 559,
+      "style": 62,
+      "name": "Defeat two Brutal Aspid in the Lowest\nPillar Chamber on the lowest level\nof Elpis Spirit Cavern."
+    },
+    {
+      "$id": 560,
+      "style": 62,
+      "name": "Search for survivors\nin Elpis Spirit Cavern."
+    },
+    {
+      "$id": 561,
+      "style": 62,
+      "name": "Return to Mercenary HQ in Invidia."
+    },
+    {
+      "$id": 562,
+      "style": 57,
+      "name": "曽祖父の最期"
+    },
+    {
+      "$id": 563,
+      "style": 62,
+      "name": "モルスの断崖のスケッチを依頼された"
+    },
+    {
+      "$id": 564,
+      "style": 62,
+      "name": "依頼人にモルスの断崖の\nスケッチを渡した"
+    },
+    {
+      "$id": 565,
+      "style": 62,
+      "name": "モルスの断崖で絵を描きに行こう！"
+    },
+    {
+      "$id": 566,
+      "style": 62,
+      "name": "エネミーを倒そう！"
+    },
+    {
+      "$id": 567,
+      "style": 62,
+      "name": "依頼人が納得する\nモルスの断崖のスケッチを描こう！"
+    },
+    {
+      "$id": 568,
+      "style": 57,
+      "name": "ハンティング"
+    },
+    {
+      "$id": 569,
+      "style": 62,
+      "name": "狩りから戻らない旦那を心配した奥さん\nから探してきてほしいとお願いされた\n準備を整えて迎えに行くことに・・・"
+    },
+    {
+      "$id": 570,
+      "style": 62,
+      "name": "旦那さんを迎えに行くが何やら狩りの\n邪魔をしてしまった様でお詫びに\nお手伝いをしてきた！"
+    },
+    {
+      "$id": 571,
+      "style": 62,
+      "name": "メラリンコリーフを人数分集めよう"
+    },
+    {
+      "$id": 572,
+      "style": 62,
+      "name": "アイテムが揃ったことを報告しに行こう"
+    },
+    {
+      "$id": 573,
+      "style": 62,
+      "name": "旦那を迎えに教えられた場所へいこう"
+    },
+    {
+      "$id": 574,
+      "style": 62,
+      "name": "旦那に話かけよう"
+    },
+    {
+      "$id": 575,
+      "style": 62,
+      "name": "FSを使ってモンスターの行方を辿ろう"
+    },
+    {
+      "$id": 576,
+      "style": 62,
+      "name": "モンスターを発見した。\n早速討伐しよう"
+    },
+    {
+      "$id": 577,
+      "style": 62,
+      "name": "討伐が終わったことを報告しよう"
+    },
+    {
+      "$id": 578,
+      "style": 62,
+      "name": "旦那が見つけたと言う場所へ向かおう"
+    },
+    {
+      "$id": 579,
+      "style": 62,
+      "name": "FSを使って目的のモンスターの行方を\n辿ろう"
+    },
+    {
+      "$id": 580,
+      "style": 62,
+      "name": "見つけたモンスターを討伐しよう"
+    },
+    {
+      "$id": 581,
+      "style": 62,
+      "name": "討伐が終わったことを報告しよう"
+    },
+    {
+      "$id": 582,
+      "style": 62,
+      "name": "奥さんが待っている家へ帰ろう"
+    },
+    {
+      "$id": 583,
+      "style": 57,
+      "name": "よくばりノポン"
+    },
+    {
+      "$id": 584,
+      "style": 62,
+      "name": "困っているスイーツショップ店員がいた\nすぐに食材が無くなるそうだ店員さんの\nために食材を集めよう"
+    },
+    {
+      "$id": 585,
+      "style": 62,
+      "name": "食材を悪党ノポンが盗んでいた！\n捕まえて店員さんのもとへ連れて行った\n当分、お店の手伝いをさせるらしい。"
+    },
+    {
+      "$id": 586,
+      "style": 62,
+      "name": "ハゴロモピーチを5つ集めよう"
+    },
+    {
+      "$id": 587,
+      "style": 62,
+      "name": "アシメチェリーを5つ集めよう"
+    },
+    {
+      "$id": 588,
+      "style": 62,
+      "name": "ナルシナシを5つ集めよう"
+    },
+    {
+      "$id": 589,
+      "style": 62,
+      "name": "集まった果物を店主に届けよう"
+    },
+    {
+      "$id": 590,
+      "style": 62,
+      "name": "FS追跡を使って盗人を追いかけよう"
+    },
+    {
+      "$id": 591,
+      "style": 62,
+      "name": "怪しい人物が三人いた！話を聞いてこよう。"
+    },
+    {
+      "$id": 592,
+      "style": 62,
+      "name": "捕まえたノポンを店員のもとに連れて行こう"
+    },
+    {
+      "$id": 593,
+      "style": 57,
+      "name": "Salvage King"
+    },
+    {
+      "$id": 594,
+      "style": 62,
+      "name": "King Seelig asked you to salvage four\ntreasures somewhere in Alst. Obtain\nthem on his behalf."
+    },
+    {
+      "$id": 595,
+      "style": 62,
+      "name": "After giving all four treasures to\nKing Seelig, Rex was awarded the title\nKing of Salvagers."
+    },
+    {
+      "$id": 596,
+      "style": 62,
+      "name": "Adorn an altar with a Big Hammerhead.\nTry a high-quality cylinder during\ncertain weather in Temperantia."
+    },
+    {
+      "$id": 597,
+      "style": 62,
+      "name": "Report back to Seelig at\nTheoscaldia Palace in Luxuria!"
+    },
+    {
+      "$id": 598,
+      "style": 57,
+      "name": "畑のやっかい者"
+    },
+    {
+      "$id": 599,
+      "style": 62,
+      "name": "畑を荒らされたおじいさんからの依頼\n畑を荒らす敵のせいで野菜が作れない\n退治をしてくれとお願いされた。"
+    },
+    {
+      "$id": 600,
+      "style": 62,
+      "name": "なんとかモンスターの討伐に成功した\n報告すると畑に新しく種をまくから\n野菜が実ったらまたおいでと言われた。"
+    },
+    {
+      "$id": 601,
+      "style": 62,
+      "name": "インヴィディアの街で特殊な\nボンベを調達してこよう"
+    },
+    {
+      "$id": 602,
+      "style": 62,
+      "name": "畑を荒らすモンスターを討伐しよう"
+    },
+    {
+      "$id": 603,
+      "style": 62,
+      "name": "逃げたモンスターを見つけて討伐しに行こう"
+    },
+    {
+      "$id": 604,
+      "style": 62,
+      "name": "討伐が成功したことをおじいさんに報告しよう"
+    },
+    {
+      "$id": 605,
+      "style": 57,
+      "name": "美味なるもの"
+    },
+    {
+      "$id": 606,
+      "style": 62,
+      "name": "最近、深夜になると\nアデルの墓に何かが集まっている。\n村の人たちが不安がっているので、\n墓を調査し正体を確かめてきてほしい。"
+    },
+    {
+      "$id": 607,
+      "style": 62,
+      "name": "墓に出入りしていた者の正体は\nターキンたちで、害はないと報告した。\nこれでイヤサキ村の住人も\n安心できそうだ。"
+    },
+    {
+      "$id": 608,
+      "style": 62,
+      "name": "墓に集まる者の正体を掴むため\n深夜にお守り様へ向かおう"
+    },
+    {
+      "$id": 609,
+      "style": 62,
+      "name": "何者かが霊堂へ降りていった！\n追いかけよう"
+    },
+    {
+      "$id": 610,
+      "style": 62,
+      "name": "何者かは霊洞の更に奥に向かっていった\n引き続き追いかけよう"
+    },
+    {
+      "$id": 611,
+      "style": 62,
+      "name": "霊洞内ではぐれてしまった\n火龍団のターキン達を探してこよう\n（A:ターキンBを探した：非表示）"
+    },
+    {
+      "$id": 612,
+      "style": 62,
+      "name": "B：ターキンCを探した（非表示）"
+    },
+    {
+      "$id": 613,
+      "style": 62,
+      "name": "C：ターキンDを探した（非表示）"
+    },
+    {
+      "$id": 614,
+      "style": 62,
+      "name": "全ての火龍団のターキンを見つけた\nターキンAに報告しにいこう"
+    },
+    {
+      "$id": 615,
+      "style": 62,
+      "name": "レシピに必要な\nシャンデリアンコウを集めてこよう"
+    },
+    {
+      "$id": 616,
+      "style": 62,
+      "name": "シャンデリアンコウが集まった\nターキンAに渡しにいこう"
+    },
+    {
+      "$id": 617,
+      "style": 62,
+      "name": "お守り様に集まっていたのは\nターキン達だった\n依頼人に報告しにいこう"
+    },
+    {
+      "$id": 618,
+      "style": 57,
+      "name": "School is in Session"
+    },
+    {
+      "$id": 619,
+      "style": 62,
+      "name": "Iyasaki's mayor wants to build a\nschool for the children's future. Help\nhim make it happen."
+    },
+    {
+      "$id": 620,
+      "style": 62,
+      "name": "Iyasaki's school opened safely. Then\nyou suddenly had to teach the children\nand learned how hard teaching is."
+    },
+    {
+      "$id": 621,
+      "style": 62,
+      "name": "Iyasaki's school finally opened, but\nyou were suddenly asked to teach! You\nlearned how difficult teaching is."
+    },
+    {
+      "$id": 622,
+      "style": 62,
+      "name": "See what Hammer the carpenter near\nVerde Woodworks in\nLiberalitas has to say."
+    },
+    {
+      "$id": 623,
+      "style": 62,
+      "name": "Collect wood from various places\nand deliver it to Martis near Verde\nWoodworks in Liberalitas."
+    },
+    {
+      "$id": 624,
+      "style": 62,
+      "name": "Collect ore from various places\nand deliver it to Kukuri near Verde\nWoodworks in Liberalitas."
+    },
+    {
+      "$id": 625,
+      "style": 62,
+      "name": "Collect decorations in various places\nand give them to Kazuna near Verde\nWoodworks in Liberalitas."
+    },
+    {
+      "$id": 626,
+      "style": 62,
+      "name": "Report back to Hammer near Verde\nWoodworks in Liberalitas."
+    },
+    {
+      "$id": 627,
+      "style": 62,
+      "name": "Speak to Willas near Verde Woodworks\nin Liberalitas."
+    },
+    {
+      "$id": 628,
+      "style": 62,
+      "name": "Complete the quest\n\"Language Teacher\"."
+    },
+    {
+      "$id": 629,
+      "style": 62,
+      "name": "Complete the quest\n\"Science Teacher\"."
+    },
+    {
+      "$id": 630,
+      "style": 62,
+      "name": "Complete the quest\n\"History Teacher\"."
+    },
+    {
+      "$id": 631,
+      "style": 62,
+      "name": "Report back to Willas near Verde\nWoodworks in Liberalitas."
+    },
+    {
+      "$id": 632,
+      "style": 62,
+      "name": "Talk to Martis near Verde Woodworks\nin Liberalitas."
+    },
+    {
+      "$id": 633,
+      "style": 62,
+      "name": "Talk to Kazuna near Verde Woodworks\nin Liberalitas."
+    },
+    {
+      "$id": 634,
+      "style": 62,
+      "name": "Talk to Kukuri near Verde Woodworks\nin Liberalitas."
+    },
+    {
+      "$id": 635,
+      "style": 62,
+      "name": "Head toward the Salvage Point at\nMesset Point in Liberalitas."
+    },
+    {
+      "$id": 636,
+      "style": 62,
+      "name": "Defeat Quietus Aspid at Messet Point\nin Liberalitas."
+    },
+    {
+      "$id": 637,
+      "style": 62,
+      "name": "Report back to Willas near Verde\nWoodworks, Liberalitas."
+    },
+    {
+      "$id": 638,
+      "style": 62,
+      "name": "Salvage at Messet Point in\nLiberalitas."
+    },
+    {
+      "$id": 639,
+      "style": 57,
+      "name": "サルベージャーランキング"
+    },
+    {
+      "$id": 640,
+      "style": 62,
+      "name": "アーケディアの難民地区にいる\nグーラ人男性から\nフォトニクスコンピューターを\n10000Gで売って来て欲しいと頼まれた"
+    },
+    {
+      "$id": 641,
+      "style": 62,
+      "name": "フォトニクスコンピューターを\n無事に10000G以上で売ることができた"
+    },
+    {
+      "$id": 642,
+      "style": 62,
+      "name": "マゴゴナムに\nフォトニクスコンピューターを\n売りに行く（仮）"
+    },
+    {
+      "$id": 643,
+      "style": 62,
+      "name": "Go ask Meroro about\nSalvager Ranks. (temp)"
+    },
+    {
+      "$id": 644,
+      "style": 62,
+      "name": "レムレムに\nサルベージャーランクについて\n聞きに行く（仮）"
+    },
+    {
+      "$id": 645,
+      "style": 62,
+      "name": "レムレムに\nサルベージャーランクを\nつけてもらう（仮）"
+    },
+    {
+      "$id": 646,
+      "style": 62,
+      "name": "再度マゴゴナムに\nフォトニクスコンピューターを\n売りに行く（仮）"
+    },
+    {
+      "$id": 647,
+      "style": 62,
+      "name": "依頼人に売ったお金を届ける（仮）"
+    },
+    {
+      "$id": 648,
+      "style": 57,
+      "name": "けものみち"
+    },
+    {
+      "$id": 649,
+      "style": 62,
+      "name": "スペルビアで出航する船に乗り込む\n人々の中に四足ブレイドを発見。\nどうやらビャッコはそのブレイドが\n気になるようだ"
+    },
+    {
+      "$id": 650,
+      "style": 62,
+      "name": "傭兵達と協力し\nグーラの難民問題を解決した。"
+    },
+    {
+      "$id": 651,
+      "style": 62,
+      "name": "気になるブレイドを見つけたビャッコ\n何の船なのか近くの船員に聞いてみよう"
+    },
+    {
+      "$id": 652,
+      "style": 62,
+      "name": "スペルビアを出航した船がちゃんと\nグーラに着いているか見にいってみよう"
+    },
+    {
+      "$id": 653,
+      "style": 62,
+      "name": "船は中継地点のリベラリタスに\n寄港しているようだ　確認しに行こう"
+    },
+    {
+      "$id": 654,
+      "style": 62,
+      "name": "二隻の内一隻がリベラリタスのどこかで\n座礁している可能性がある\n探しに行こう"
+    },
+    {
+      "$id": 655,
+      "style": 62,
+      "name": "イヤサキ港へ救援要請に向かった\n乗組員たちを捜そう"
+    },
+    {
+      "$id": 656,
+      "style": 62,
+      "name": "乗組員たちがモンスターに襲われている\n助け出そう"
+    },
+    {
+      "$id": 657,
+      "style": 62,
+      "name": "イヤサキ港へ救援要請に向かおう"
+    },
+    {
+      "$id": 658,
+      "style": 62,
+      "name": "トリゴの港でドライバー達と合流しよう"
+    },
+    {
+      "$id": 659,
+      "style": 62,
+      "name": "トリゴ中継基地の難民キャンプに向かい\nドライバーの話を聞こう"
+    },
+    {
+      "$id": 660,
+      "style": 62,
+      "name": "もうすぐトリゴの民と難民の会合が始まる\n領事館へ向かおう"
+    },
+    {
+      "$id": 661,
+      "style": 62,
+      "name": "会合が始まる\n領事館の中に入ろう"
+    },
+    {
+      "$id": 662,
+      "style": 62,
+      "name": "街に侵入したモンスターを退治しよう"
+    },
+    {
+      "$id": 663,
+      "style": 62,
+      "name": "モンスターを早急に倒し\n街への被害は無かったようだ\n領事館内に戻り、会合を見届けよう"
+    },
+    {
+      "$id": 664,
+      "style": 62,
+      "name": "会合は無事終了した。\nドライバーに話しかけてみよう"
+    },
+    {
+      "$id": 665,
+      "style": 57,
+      "name": "The Writer's Assistant"
+    },
+    {
+      "$id": 666,
+      "style": 62,
+      "name": "Mesulia wants to pick ice flowers, but\nthe area where they grow is chock full\nof monsters. Pick some in her stead."
+    },
+    {
+      "$id": 667,
+      "style": 62,
+      "name": "You obliged Mesulia's various requests\nand she finally finished her book."
+    },
+    {
+      "$id": 668,
+      "style": 62,
+      "name": "Obtain Flowers of Ice at the Argan\nIceblooms in Luxuria."
+    },
+    {
+      "$id": 669,
+      "style": 62,
+      "name": "Deliver the Flowers of Ice to Mesulia\nat the Argan Iceblooms in Luxuria."
+    },
+    {
+      "$id": 670,
+      "style": 62,
+      "name": "Go and meet Mesulia at Anastasis\nInn in Luxuria."
+    },
+    {
+      "$id": 671,
+      "style": 62,
+      "name": "Wipe out the Jairo Leopard by\nLuminaria Pedestal in Luxuria."
+    },
+    {
+      "$id": 672,
+      "style": 62,
+      "name": "Report back to Mesulia at Anastasis\nInn in Luxuria."
+    },
+    {
+      "$id": 673,
+      "style": 62,
+      "name": "Obtain the Legendary Ring at the base\nof Amureto Pillar in Luxuria."
+    },
+    {
+      "$id": 674,
+      "style": 62,
+      "name": "Report back to Mesulia at Anastasis\nInn in Luxuria."
+    },
+    {
+      "$id": 675,
+      "style": 57,
+      "name": "Anti-Empire Group Probe"
+    },
+    {
+      "$id": 676,
+      "style": 62,
+      "name": "Senator Stole has managed to obtain\ninformation about an anti-imperialist\ngroup. Continue the investigations."
+    },
+    {
+      "$id": 677,
+      "style": 62,
+      "name": "Akatsuki said other anti-imperial\ngroups exist. Senator Stole says he\nhas no information, but..."
+    },
+    {
+      "$id": 678,
+      "style": 62,
+      "name": "Investigate the Brionac base inside\nthe Mine No. 2 Entrance in Superbia."
+    },
+    {
+      "$id": 679,
+      "style": 62,
+      "name": "Defeat the Brionac Ryuze attacking\nyou at Mine No. 2 Entrance in\nSuperbia."
+    },
+    {
+      "$id": 680,
+      "style": 62,
+      "name": "Defeat the Brionac rebels attacking\nyou at Mine No. 2 Entrance in\nSuperbia."
+    },
+    {
+      "$id": 681,
+      "style": 62,
+      "name": "Return to Senator Stole at Hadashal\nPalace in Superbia."
+    },
+    {
+      "$id": 682,
+      "style": 62,
+      "name": "Defeat Rebel Wagan at Ayvill\nShopping District in Superbia."
+    },
+    {
+      "$id": 683,
+      "style": 62,
+      "name": "Defeat Turncoat Vihank by the old\nfactory in Superbia."
+    },
+    {
+      "$id": 684,
+      "style": 62,
+      "name": "Defeat Mutineer Aroda by the Cargo\nTransportation Zone in Superbia."
+    },
+    {
+      "$id": 685,
+      "style": 62,
+      "name": "Report back to Senator Stole at\nHadashal Palace in Superbia."
+    },
+    {
+      "$id": 686,
+      "style": 62,
+      "name": "Get information about Akatsuki as part\nof a Merc Mission."
+    },
+    {
+      "$id": 687,
+      "style": 62,
+      "name": "Investigate near the Full-Belly\nCanteen in Superbia."
+    },
+    {
+      "$id": 688,
+      "style": 62,
+      "name": "Defeat Akatsuki and his Driver."
+    },
+    {
+      "$id": 689,
+      "style": 62,
+      "name": "Report back to Senator Stole at\nHadashal Palace in Superbia."
+    },
+    {
+      "$id": 690,
+      "style": 57,
+      "name": "わらしべ長者"
+    },
+    {
+      "$id": 691,
+      "style": 62,
+      "name": "依頼人からもらったものを\n高く売れるものに交換してこよう"
+    },
+    {
+      "$id": 692,
+      "style": 62,
+      "name": "交換していくうちに\nとても高価なものになった。\n依頼人も満足しているようだ"
+    },
+    {
+      "$id": 693,
+      "style": 62,
+      "name": "粗悪なフォトニクスコンピューターを\nスペルビアのジャンクショップで\n何かと交換してもらおう！"
+    },
+    {
+      "$id": 694,
+      "style": 62,
+      "name": "良質な木材を\nグーラの木材屋に見せてみよう！"
+    },
+    {
+      "$id": 695,
+      "style": 62,
+      "name": "パズルツリーを持っていけば\n何かと交換してくれるみたいだぞ！\nグーラ領でパズルツリーを集めてこよう！"
+    },
+    {
+      "$id": 696,
+      "style": 62,
+      "name": "よし！パズルツリーが集まったぞ！\nトリゴの街の木材屋で交換してもらおう！"
+    },
+    {
+      "$id": 697,
+      "style": 62,
+      "name": "上質な貫頭衣を\nインヴィディアのコスメショップで\n交換してもらおう！"
+    },
+    {
+      "$id": 698,
+      "style": 62,
+      "name": "小型エーテル原子炉と\n交換してもらったぞ！\n一旦依頼人に報告しよう！"
+    },
+    {
+      "$id": 699,
+      "style": 62,
+      "name": "アヴァリティアのどこかにいる\n裏サルベージ屋を探そう！"
+    },
+    {
+      "$id": 700,
+      "style": 62,
+      "name": "アヴァリティアで\nサルべージャーランクについて\n知ってる人を探そう！"
+    },
+    {
+      "$id": 701,
+      "style": 62,
+      "name": "アヴァリティアにいる\nキササというノポンから\n裏サルベージ屋の話を聞こう！"
+    },
+    {
+      "$id": 702,
+      "style": 62,
+      "name": "サルベージャーランクを上げて、\nサルべージャーとしての腕前を\n認めてもらおう！"
+    },
+    {
+      "$id": 703,
+      "style": 62,
+      "name": "腕前を認めてもらった！\nさっそく小型エーテル原子炉を\n交換してもらおう！"
+    },
+    {
+      "$id": 704,
+      "style": 62,
+      "name": "小型エーテル原子炉を\n高額で交換してもらったぞ！\nスペルビアの依頼人に報告しに行こう！"
+    },
+    {
+      "$id": 705,
+      "style": 57,
+      "name": "Beyond Parting"
+    },
+    {
+      "$id": 706,
+      "style": 62,
+      "name": "A handmade pendant for a friend moving\nfar away needs materials. Gather\nRosary Moss Balls at the World Tree."
+    },
+    {
+      "$id": 707,
+      "style": 62,
+      "name": "Senator Stole was tied to\nanti-imperial Lindwurm. Someday you\nwill have to settle things with them."
+    },
+    {
+      "$id": 708,
+      "style": 62,
+      "name": "Collect five Rosary Moss Balls at the\nWorld Tree."
+    },
+    {
+      "$id": 709,
+      "style": 62,
+      "name": "Deliver the Rosary Moss Ball to Farwah\nat Ayvill Shopping District in\nSuperbia."
+    },
+    {
+      "$id": 710,
+      "style": 62,
+      "name": "Go and speak with Senator Stole at\nHadashal Palace in Superbia."
+    },
+    {
+      "$id": 711,
+      "style": 62,
+      "name": "Head to Port Ananyam in Superbia."
+    },
+    {
+      "$id": 712,
+      "style": 62,
+      "name": "Defeat the Unidentified Mercs."
+    },
+    {
+      "$id": 713,
+      "style": 62,
+      "name": "Defeat the enemies that come to\nMidubal Bridge in Superbia."
+    },
+    {
+      "$id": 714,
+      "style": 62,
+      "name": "Strike deep into Brionac Occupied Zone\nin Superbia, crushing the last\nremnants of Brionac."
+    },
+    {
+      "$id": 715,
+      "style": 62,
+      "name": "Defeat the Brionac agents."
+    },
+    {
+      "$id": 716,
+      "style": 62,
+      "name": "Report back to Elnoth at Port Ananyam\nin Superbia."
+    },
+    {
+      "$id": 717,
+      "style": 62,
+      "name": "Gather information about Senator Stole\nat Torikia Backstreet in Invidia."
+    },
+    {
+      "$id": 718,
+      "style": 62,
+      "name": "Head to the Great Stairway in Invidia."
+    },
+    {
+      "$id": 719,
+      "style": 62,
+      "name": "Follow Zadazan."
+    },
+    {
+      "$id": 720,
+      "style": 62,
+      "name": "Defeat the Drivers."
+    },
+    {
+      "$id": 721,
+      "style": 62,
+      "name": "Report back to Elnoth at Hadashal\nPalace in Superbia."
+    },
+    {
+      "$id": 722,
+      "style": 62,
+      "name": "Senator Stole isn't around. Elnoth is\nnearby, so see what he has to say."
+    },
+    {
+      "$id": 723,
+      "style": 57,
+      "name": "思い出のゲーム"
+    },
+    {
+      "$id": 724,
+      "style": 62,
+      "name": "難破した時に失くしてしまった\nボードゲームの捜索を依頼された。"
+    },
+    {
+      "$id": 725,
+      "style": 62,
+      "name": "無事に依頼人の父親に届けた。\nルクスリアのボードゲームショップの\nラインナップが増えた。"
+    },
+    {
+      "$id": 726,
+      "style": 62,
+      "name": "金色歯車を2個集めよう！"
+    },
+    {
+      "$id": 727,
+      "style": 62,
+      "name": "ブドウゼンマイを1個集めよう！"
+    },
+    {
+      "$id": 728,
+      "style": 62,
+      "name": "雲海羅針盤を強化してもらおう！"
+    },
+    {
+      "$id": 729,
+      "style": 62,
+      "name": "スペルビアで失くしたボードゲームを\nサルベージしよう！"
+    },
+    {
+      "$id": 730,
+      "style": 62,
+      "name": "アヴァリティアのサルベージショップで\nボンベを強化してもらおう！"
+    },
+    {
+      "$id": 731,
+      "style": 62,
+      "name": "Get one Giant Cloud Sea Fish Tailfin\nin the Liberalitas Archipelago!"
+    },
+    {
+      "$id": 732,
+      "style": 62,
+      "name": "Get one Flying Ray Spine in the\nLiberalitas Archipelago!"
+    },
+    {
+      "$id": 733,
+      "style": 62,
+      "name": "アヴァリティアのサルベージショップ店員に\nボンベ強化の素材を渡そう！"
+    },
+    {
+      "$id": 734,
+      "style": 62,
+      "name": "スペルビアで失くしたボードゲームを\nサルベージしよう！"
+    },
+    {
+      "$id": 735,
+      "style": 62,
+      "name": "ルクスリアの依頼人に報告しに行こう！"
+    },
+    {
+      "$id": 736,
+      "style": 62,
+      "name": "スペルビアの宿屋にいる依頼人の知人に\nボードゲームと手紙を渡しに行こう！"
+    },
+    {
+      "$id": 737,
+      "style": 62,
+      "name": "ルクスリアの依頼人に報告しに行こう！"
+    },
+    {
+      "$id": 738,
+      "style": 57,
+      "name": "王家の真実"
+    },
+    {
+      "$id": 739,
+      "style": 62,
+      "name": "ルクスリア王家が、アデルの血脈でない\nという噂を信じないLiberbrant。\nSerichに証拠を提示してもらい、\n真実を伝えよう。"
+    },
+    {
+      "$id": 740,
+      "style": 62,
+      "name": "Liberbrantは、真実を知った。血は\n繋がらなくとも、アデルの意志は脈々と\n受け継がれているのだ。"
+    },
+    {
+      "$id": 741,
+      "style": 62,
+      "name": "アデルの正当な後継ではない証拠を\nゼーリッヒに提示してもらおう"
+    },
+    {
+      "$id": 742,
+      "style": 62,
+      "name": "開かずの間の鍵はどこに――？\n王宮内を探そう"
+    },
+    {
+      "$id": 743,
+      "style": 62,
+      "name": "反乱を起こした兵士を全て倒し\n事態を収めよう"
+    },
+    {
+      "$id": 744,
+      "style": 62,
+      "name": "反乱を起こした兵士は全て倒した\n兵士Aに報告しよう"
+    },
+    {
+      "$id": 745,
+      "style": 62,
+      "name": "事態は収束したようだ\n開かずの間の鍵を探そう"
+    },
+    {
+      "$id": 746,
+      "style": 62,
+      "name": "政務の間にある\n開かずの間に向かおう"
+    },
+    {
+      "$id": 747,
+      "style": 62,
+      "name": "書類はすでになくなっていた\nゼーリッヒに報告しよう"
+    },
+    {
+      "$id": 748,
+      "style": 62,
+      "name": "反乱を起こした兵士たちを追いかけ\nエルピス霊洞へ向かおう"
+    },
+    {
+      "$id": 749,
+      "style": 62,
+      "name": "反乱を起こした兵士を全て倒し\n書類を取り返そう"
+    },
+    {
+      "$id": 750,
+      "style": 62,
+      "name": "書類は取り返した\nゼーリッヒに返却しよう"
+    },
+    {
+      "$id": 751,
+      "style": 57,
+      "name": "Hana's Extreme Upgrade"
+    },
+    {
+      "$id": 752,
+      "style": 62,
+      "name": "Tatezou has developed new plans to\npower Hana up. Help him collect the\nmaterials that he needs."
+    },
+    {
+      "$id": 753,
+      "style": 62,
+      "name": "After gathering materials and making\nan outfit, powered-up Hana JD is born.\nBut Tatezou is already looking ahead."
+    },
+    {
+      "$id": 754,
+      "style": 62,
+      "name": "Go and speak with Tatezou at\nTora's House in Gula."
+    },
+    {
+      "$id": 755,
+      "style": 62,
+      "name": "Collect ten Golden Cogs in\nTemperantia."
+    },
+    {
+      "$id": 756,
+      "style": 62,
+      "name": "Report back to Tatezou at\nTora's House in Gula."
+    },
+    {
+      "$id": 757,
+      "style": 62,
+      "name": "Collect five Cubic Diamonds in\nSuperbia."
+    },
+    {
+      "$id": 758,
+      "style": 62,
+      "name": "Collect 12 Umbra Stigmas in the Land\nof Mors."
+    },
+    {
+      "$id": 759,
+      "style": 62,
+      "name": "Purchase Genbu-Weave Cloth at\nBoldarde Textiles, Luxuria."
+    },
+    {
+      "$id": 760,
+      "style": 62,
+      "name": "Report back to Kiku at Tora's House\nin Gula."
+    },
+    {
+      "$id": 761,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 762,
+      "style": 62,
+      "name": "■削除予定"
+    },
+    {
+      "$id": 763,
+      "style": 62,
+      "name": "Speak with Tatezou at Tora's House\nin Gula."
+    },
+    {
+      "$id": 764,
+      "style": 62,
+      "name": "Speak with Fuwafuwa at Goldmund\nFlight Deck in Avaritia."
+    },
+    {
+      "$id": 765,
+      "style": 62,
+      "name": "Decode the information on the\nblackboard at Goldmund Flight Deck\nin Avaritia."
+    },
+    {
+      "$id": 766,
+      "style": 62,
+      "name": "Speak with Fuwafuwa at Goldmund\nFlight Deck in Avaritia."
+    },
+    {
+      "$id": 767,
+      "style": 62,
+      "name": "Speak with Fuwafuwa at Goldmund\nFlight Deck in Avaritia."
+    },
+    {
+      "$id": 768,
+      "style": 62,
+      "name": "Decode the information on the\nblackboard at Goldmund Flight Deck\nin Avaritia."
+    },
+    {
+      "$id": 769,
+      "style": 62,
+      "name": "Speak with Fuwafuwa at Goldmund\nFlight Deck in Avaritia."
+    },
+    {
+      "$id": 770,
+      "style": 62,
+      "name": "Defeat the Try Marlin at\nGoldmund Flight Deck in Avaritia."
+    },
+    {
+      "$id": 771,
+      "style": 62,
+      "name": "Report back to Fuwafuwa at\nGoldmund Flight Deck in Avaritia."
+    },
+    {
+      "$id": 772,
+      "style": 62,
+      "name": "Report back to Tatezou at\nTora's House in Gula."
+    },
+    {
+      "$id": 773,
+      "style": 62,
+      "name": "Put energy into the charging device\nat Tora's House in Gula."
+    },
+    {
+      "$id": 774,
+      "style": 62,
+      "name": "Report back to Tatezou at\nTora's House in Gula."
+    },
+    {
+      "$id": 775,
+      "style": 57,
+      "name": "Wildschwein Mercenaries"
+    },
+    {
+      "$id": 776,
+      "style": 62,
+      "name": "ヴィルトシュバイン傭兵団との競争"
+    },
+    {
+      "$id": 777,
+      "style": 62,
+      "name": "ヴィルトシュバイン傭兵団の団長が\nレックスたちの力を認める"
+    },
+    {
+      "$id": 778,
+      "style": 62,
+      "name": "落石があったらしい\nインヴィディア王都の外の様子を\n見に行こう！"
+    },
+    {
+      "$id": 779,
+      "style": 62,
+      "name": "手こずってるみたいだな\n俺たちで壊してみよう！"
+    },
+    {
+      "$id": 780,
+      "style": 62,
+      "name": "ヴィルトシュバイン傭兵団団長に\n話を聞いてみよう！"
+    },
+    {
+      "$id": 781,
+      "style": 62,
+      "name": "ヴィルトシュバイン傭兵団と対決\nインヴィディア王都で\n三つの任務をこなそう！"
+    },
+    {
+      "$id": 782,
+      "style": 62,
+      "name": "千年氷洞でイグーナを10対討伐しよう！"
+    },
+    {
+      "$id": 783,
+      "style": 62,
+      "name": "インヴィディアで\nシャボンサンゴ3個とナナイロナマコ3個を\n集めてこよう！"
+    },
+    {
+      "$id": 784,
+      "style": 62,
+      "name": "インヴィディアで\nグレン鉱石5個とセイラン鉱石5個を\n集めてこよう！"
+    },
+    {
+      "$id": 785,
+      "style": 62,
+      "name": "任務を達成した！\nヴィルトシュバイン傭兵団の\n様子を見に行こう！"
+    },
+    {
+      "$id": 786,
+      "style": 62,
+      "name": "インヴィディアの山頂にいる\n大型エネミーを倒しにいこう！"
+    },
+    {
+      "$id": 787,
+      "style": 62,
+      "name": "A：大型エネミーを倒そう"
+    },
+    {
+      "$id": 788,
+      "style": 62,
+      "name": "B：ヴィルトシュバイン傭兵団を倒そう！"
+    },
+    {
+      "$id": 789,
+      "style": 62,
+      "name": "C：傭兵団員Aを倒そう"
+    },
+    {
+      "$id": 790,
+      "style": 62,
+      "name": "ヴィルトシュバイン傭兵団団長を倒そう！"
+    },
+    {
+      "$id": 791,
+      "style": 62,
+      "name": "今度こそヴィルトシュバイン傭兵団に\n勝利したぞ！\n団長に話を聞こう！"
+    },
+    {
+      "$id": 792,
+      "style": 62,
+      "name": "任務完了の報告をしに\nインヴィディア王都の傭兵団施設に\n向かおう！"
+    },
+    {
+      "$id": 793,
+      "style": 57,
+      "name": "テンペランティア周回警備"
+    },
+    {
+      "$id": 794,
+      "style": 62,
+      "name": "テンペランティアの発掘現場の周回警備。\n5箇所のポイントにいる警備兵に\n異常はないか聞いて回ろう(仮)"
+    },
+    {
+      "$id": 795,
+      "style": 62,
+      "name": "はぐれ帝国兵のスパイが紛れ込んでいた。\nこれからは気を引き締めて\n警備してもらおう(仮)"
+    },
+    {
+      "$id": 796,
+      "style": 62,
+      "name": "ポイント1に向かおう(仮)"
+    },
+    {
+      "$id": 797,
+      "style": 62,
+      "name": "ポイント2に向かおう(仮)"
+    },
+    {
+      "$id": 798,
+      "style": 62,
+      "name": "ポイント3に向かおう(仮)"
+    },
+    {
+      "$id": 799,
+      "style": 62,
+      "name": "ポイント4に向かおう(仮)"
+    },
+    {
+      "$id": 800,
+      "style": 62,
+      "name": "ポイント5に向かおう(仮)"
+    },
+    {
+      "$id": 801,
+      "style": 62,
+      "name": "スパイ帝国兵を倒そう(仮)"
+    },
+    {
+      "$id": 802,
+      "style": 62,
+      "name": "キャンプの兵士に報告しに行こう(仮)"
+    },
+    {
+      "$id": 803,
+      "style": 57,
+      "name": "Vandham's Will"
+    },
+    {
+      "$id": 804,
+      "style": 62,
+      "name": "Zuo says Yuu wants to discuss a\nmessage Vandham left with Yuu. Return\nto the Merc Group village for details."
+    },
+    {
+      "$id": 805,
+      "style": 62,
+      "name": "Vandham entrusted his Merc Group to\nyou, and you're now in charge. Make it\na great group and honor his memory!"
+    },
+    {
+      "$id": 806,
+      "style": 62,
+      "name": "Speak with Yuu at Hræsvelgr in\nInvidia."
+    },
+    {
+      "$id": 807,
+      "style": 62,
+      "name": "Accept the Merc Mission called \"First\nMission\" in the Merc Group menu."
+    },
+    {
+      "$id": 808,
+      "style": 62,
+      "name": "Wait until the Merc Mission is\nfinished."
+    },
+    {
+      "$id": 809,
+      "style": 62,
+      "name": "Collect the reward for the Merc\nMission from the Merc Group menu."
+    },
+    {
+      "$id": 810,
+      "style": 62,
+      "name": "Report back to Yuu at the Mercenary HQ\nin Hræsvelgr, Invidia."
+    },
+    {
+      "$id": 811,
+      "style": 62,
+      "name": "Choose some food to give to the Ardun."
+    },
+    {
+      "$id": 812,
+      "style": 57,
+      "name": "Chasing the Boy Thief"
+    },
+    {
+      "$id": 813,
+      "style": 62,
+      "name": "A young boy stole Suzaku's Core\nCrystal and escaped to Torigo. Ask\naround and search for clues."
+    },
+    {
+      "$id": 814,
+      "style": 62,
+      "name": "It seems the young thief's destination\nwas Umon's Shipyard. Close in and\nscope out the situation."
+    },
+    {
+      "$id": 815,
+      "style": 62,
+      "name": "Ask around near Torigo's port for\ninformation on the young thief."
+    },
+    {
+      "$id": 816,
+      "style": 62,
+      "name": "Go to Nokirua Logging Site in Gula\nand ask Otto about the boy."
+    },
+    {
+      "$id": 817,
+      "style": 62,
+      "name": "Search for footprints the boy may have\nleft behind at Nokirua Logging Site in\nGula."
+    },
+    {
+      "$id": 818,
+      "style": 62,
+      "name": "Ask Otto for help finding footprints\nthe boy left at Nokirua Logging\nSite in Gula."
+    },
+    {
+      "$id": 819,
+      "style": 62,
+      "name": "Follow the boy's footsteps, which lead\naway from Nokirua Logging Site, and\ntry to determine his whereabouts."
+    },
+    {
+      "$id": 820,
+      "style": 57,
+      "name": "Kiku's Whereabouts"
+    },
+    {
+      "$id": 821,
+      "style": 62,
+      "name": "Tora says tracing artificial Blade\nmaterials may lead to Kiku. First\ngather info on Bion Connectors."
+    },
+    {
+      "$id": 822,
+      "style": 62,
+      "name": "Artificial Blade materials went to the\nchest facility on Superbia's Divine\nBeast. Hurry to Meleph at the palace."
+    },
+    {
+      "$id": 823,
+      "style": 62,
+      "name": "Go to Port Ananyam\nto gather information."
+    },
+    {
+      "$id": 824,
+      "style": 62,
+      "name": "Go to the elevator that leads to\nSuperbia's capital and search for the\nyellow barrels."
+    },
+    {
+      "$id": 825,
+      "style": 62,
+      "name": "Go to Ayvill Shopping District in\nSuperbia and speak with the owner of\nthe recycling shop."
+    },
+    {
+      "$id": 826,
+      "style": 62,
+      "name": "Go shopping at Belchett Recycling and\nask for information."
+    },
+    {
+      "$id": 827,
+      "style": 62,
+      "name": "Go shopping at Belchett Recycling and\nask for even more detailed\ninformation."
+    },
+    {
+      "$id": 828,
+      "style": 62,
+      "name": "Go to the Geothermal Turbine Tower in\nSuperbia and speak with Timell."
+    },
+    {
+      "$id": 829,
+      "style": 62,
+      "name": "Go to the Old Industrial District in\nSuperbia and search for the green\nbarrels."
+    },
+    {
+      "$id": 830,
+      "style": 62,
+      "name": "Cast light on the evidence left at the\nOld Industrial Roof Exit in Superbia."
+    },
+    {
+      "$id": 831,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Materials Stakeout\"."
+    },
+    {
+      "$id": 832,
+      "style": 62,
+      "name": "Return to Jarukamaro Inn."
+    },
+    {
+      "$id": 833,
+      "style": 57,
+      "name": "Bahn's Conspiracy"
+    },
+    {
+      "$id": 834,
+      "style": 62,
+      "name": "Bahn is up to something. Go to Acedia\nto gather information and see if you\ncan figure out what he's planning."
+    },
+    {
+      "$id": 835,
+      "style": 62,
+      "name": "Bahn plans to poison banquet food to\nassassinate the leaders. The culprit\nis unknown, but you must stop it."
+    },
+    {
+      "$id": 836,
+      "style": 62,
+      "name": "Ask around in Acedia to see if you can\nfind information about shady figures\nplotting an assassination attempt."
+    },
+    {
+      "$id": 837,
+      "style": 62,
+      "name": "暗殺を企む怪しい人物の情報が無いか\nアーケディア内で聞き込みをしよう"
+    },
+    {
+      "$id": 838,
+      "style": 62,
+      "name": "暗殺を企む怪しい人物の情報が無いか\nアーケディア内で聞き込みをしよう"
+    },
+    {
+      "$id": 839,
+      "style": 62,
+      "name": "暗殺を企む怪しい人物の情報が無いか\nアーケディア内で聞き込みをしよう"
+    },
+    {
+      "$id": 840,
+      "style": 62,
+      "name": "Take a break at Acedia's Elnatauro Inn\nand see if you can make heads or tails\nof the information you gathered."
+    },
+    {
+      "$id": 841,
+      "style": 62,
+      "name": "Make an offering of blood at the\naltar. Or at least, something\nblood-like..."
+    },
+    {
+      "$id": 842,
+      "style": 62,
+      "name": "Fill up the food container\nwith cooked food."
+    },
+    {
+      "$id": 843,
+      "style": 62,
+      "name": "Fill up the food container\nwith sweets."
+    },
+    {
+      "$id": 844,
+      "style": 62,
+      "name": "Fill up the food container\nwith veg-based food."
+    },
+    {
+      "$id": 845,
+      "style": 62,
+      "name": "Fill up the food container with drinks\nwith an interesting mouthfeel."
+    },
+    {
+      "$id": 846,
+      "style": 62,
+      "name": "Bring items with an Excitement\nQuotient of over one hundred."
+    },
+    {
+      "$id": 847,
+      "style": 62,
+      "name": "Make offerings of food to the\nNopon Sage."
+    },
+    {
+      "$id": 848,
+      "style": 57,
+      "name": "Retribution"
+    },
+    {
+      "$id": 849,
+      "style": 62,
+      "name": "Bauri asked you to help Tena\nby becoming the owner of her shop,\nPeruuni Vegetable."
+    },
+    {
+      "$id": 850,
+      "style": 62,
+      "name": "You bought all Peruuni Vegetable goods\nand the deed, becoming its owner. You\nshould reap the benefits now."
+    },
+    {
+      "$id": 851,
+      "style": 62,
+      "name": "Buy one of each item sold at\nPeruuni Vegetable in Torigo Market,\nGula."
+    },
+    {
+      "$id": 852,
+      "style": 62,
+      "name": "Buy the Peruuni Shop Deed at Peruuni\nVegetable in Torigo Market, Gula."
+    },
+    {
+      "$id": 853,
+      "style": 62,
+      "name": "Report back to Bauri in Torigo\nMarket, Gula."
+    },
+    {
+      "$id": 854,
+      "style": 62,
+      "name": "Find a part that would fit in the\nsquare cavity on the statue in Poponoe\nShrine, Avaritia, and insert it there."
+    },
+    {
+      "$id": 855,
+      "style": 57,
+      "name": "Pest Control 1"
+    },
+    {
+      "$id": 856,
+      "style": 64,
+      "name": "Taking note of Mikumari's gut feeling,\nhead to tackle the Invidian monster\nproblem mentioned in the memo."
+    },
+    {
+      "$id": 857,
+      "style": 62,
+      "name": "You defeated the specified monster. If\nyou have defeated them all, head to\nNahaar Central Plaza in Superbia."
+    },
+    {
+      "$id": 858,
+      "style": 62,
+      "name": "Defeat the Magno Barand around\nSternum Arch, Invidia."
+    },
+    {
+      "$id": 859,
+      "style": 57,
+      "name": "Pest Control 2"
+    },
+    {
+      "$id": 860,
+      "style": 64,
+      "name": "Taking note of Mikumari's gut\nfeeling, head to tackle the monster\nproblem at Elpis Spirit Cavern\nmentioned in the memo."
+    },
+    {
+      "$id": 861,
+      "style": 62,
+      "name": "You defeated the specified monster. If\nyou have defeated them all, head to\nNahaar Central Plaza in Superbia."
+    },
+    {
+      "$id": 862,
+      "style": 62,
+      "name": "Defeat the Bodom Tasman at\nLavia Underground Stream,\nElpis Spirit Cavern."
+    },
+    {
+      "$id": 863,
+      "style": 57,
+      "name": "Pest Control 3"
+    },
+    {
+      "$id": 864,
+      "style": 64,
+      "name": "Taking note of Mikumari's gut feeling,\nhead to tackle the monster problem in\nLiberalitas mentioned in the memo."
+    },
+    {
+      "$id": 865,
+      "style": 62,
+      "name": "You defeated the specified monster. If\nyou have defeated them all, head to\nNahaar Central Plaza in Superbia."
+    },
+    {
+      "$id": 866,
+      "style": 62,
+      "name": "Defeat the Cheris Jelly at Lud\nCloudway, Liberalitas Archipelago."
+    },
+    {
+      "$id": 867,
+      "style": 62,
+      "name": "Return to Torigo in Gula and rest at\nForest Inn until the tide is high."
+    },
+    {
+      "$id": 868,
+      "style": 62,
+      "name": "Salvage at the Salvage Point on\nthe Salvage Deck."
+    },
+    {
+      "$id": 869,
+      "style": 62,
+      "name": "Adorn an altar with the Golden Sun\nStatue. Once on the Cliffs of Mors,\nit now lies in the Land of Mors."
+    },
+    {
+      "$id": 870,
+      "style": 62,
+      "name": "Adorn an altar with the Catastrophe\nPuzzle. The Nopon of Avaritia seem\nto have it, and may agree to trade."
+    },
+    {
+      "$id": 871,
+      "style": 62,
+      "name": "Adorn an altar with an Orbital\nSkyreader. You may be able to get one\nif you salvage in Elpis Spirit Cavern."
+    },
+    {
+      "$id": 872,
+      "style": 57,
+      "name": "Passion of the Artisan"
+    },
+    {
+      "$id": 873,
+      "style": 64,
+      "name": "Some lumber has disappeared from\nthe Nokirua Logging Site. Find the\nculprit for Eric the lumberjack.\n(DLC Quest)"
+    },
+    {
+      "$id": 874,
+      "style": 64,
+      "name": "The lumber was stolen by Tirkin.\nHowever, they seem to have been\nartists making beautiful carvings...\n(DLC Quest)"
+    },
+    {
+      "$id": 875,
+      "style": 62,
+      "name": "Get information from Helmi at the\nNokirua Logging Site in Gula."
+    },
+    {
+      "$id": 876,
+      "style": 62,
+      "name": "Get information from Otto at the\nNokirua Logging Site in Gula."
+    },
+    {
+      "$id": 877,
+      "style": 62,
+      "name": "Get information from Paul at the\nNokirua Logging Site in Gula."
+    },
+    {
+      "$id": 878,
+      "style": 62,
+      "name": "Confer with Eric, now arrived\nat the Nokirua Logging Site in Gula."
+    },
+    {
+      "$id": 879,
+      "style": 62,
+      "name": "Investigate the little hut by the\nwaterfall close to Siegle Fell in\nGula."
+    },
+    {
+      "$id": 880,
+      "style": 62,
+      "name": "Defeat the Hermit Tirkin by the\nwaterfall close to Siegle Fell in\nGula."
+    },
+    {
+      "$id": 881,
+      "style": 62,
+      "name": "Report back to Eric at the Nokirua\nLogging Site in Gula."
+    },
+    {
+      "$id": 882,
+      "style": 62,
+      "name": "Ask Irene, at the Torigo Market\nin Gula, to craft you an accessory."
+    },
+    {
+      "$id": 883,
+      "style": 57,
+      "name": "M.I.A. Nopon"
+    },
+    {
+      "$id": 884,
+      "style": 64,
+      "name": "Look for Jizo, who went missing\nafter saying he was going to Invidia\nto observe the life of Ignas.\n(DLC Quest)"
+    },
+    {
+      "$id": 885,
+      "style": 64,
+      "name": "You found Jizo! He went back to\nAvaritia where he works crafting\nspecial cylinders. Call on his services!\n(DLC Quest)"
+    },
+    {
+      "$id": 886,
+      "style": 62,
+      "name": "Find Jizo, who has gone missing\nsomewhere in Invidia."
+    },
+    {
+      "$id": 887,
+      "style": 62,
+      "name": "Make an offering of food to the\nNopon statue."
+    },
+    {
+      "$id": 888,
+      "style": 57,
+      "name": "Abandoned Factory Tour"
+    },
+    {
+      "$id": 889,
+      "style": 64,
+      "name": "Tourer's four customers disappeared\non a tour of the Abandoned Factory.\nHelp Tourer find them.\n(DLC Quest)"
+    },
+    {
+      "$id": 890,
+      "style": 64,
+      "name": "You found all four Nopon customers.\nMiraculously, all four seemed satisfied\nwith their tour experience.\n(DLC Quest)"
+    },
+    {
+      "$id": 891,
+      "style": 62,
+      "name": "Look for the Nopon who likes\nhigh places in the Abandoned Factory\nin Superbia."
+    },
+    {
+      "$id": 892,
+      "style": 62,
+      "name": "Look for the Nopon who likes\nsweltering places in the Abandoned\nFactory in Superbia."
+    },
+    {
+      "$id": 893,
+      "style": 62,
+      "name": "Look for the Nopon who likes\nstrong smells in the Abandoned Factory\nin Superbia."
+    },
+    {
+      "$id": 894,
+      "style": 62,
+      "name": "Look for the Nopon who likes\nclammy attics in the Abandoned Factory\nin Superbia."
+    },
+    {
+      "$id": 895,
+      "style": 62,
+      "name": "Report back to Tourer who is waiting\ndistraught in Port Ananyam in\nSuperbia."
+    },
+    {
+      "$id": 896,
+      "style": 57,
+      "name": "Midnight Feasting"
+    },
+    {
+      "$id": 897,
+      "style": 64,
+      "name": "Ghosts are having loud parties at the\nFull-Belly Canteen in Superbia's Old\nIndustrial District. Go and investigate!\n(DLC Quest)"
+    },
+    {
+      "$id": 898,
+      "style": 64,
+      "name": "The \"ghosts\" turned out to be the Fire\nDragons. You helped them cook, and\nnow they've gone on tour.\n(DLC Quest)"
+    },
+    {
+      "$id": 899,
+      "style": 62,
+      "name": "See what's going on at the Full-Belly\nCanteen in Superbia late at night."
+    },
+    {
+      "$id": 900,
+      "style": 62,
+      "name": "Work together with the Fire Dragons at\nthe Full-Belly Canteen in Superbia to\ncreate a brand-new fish dish."
+    },
+    {
+      "$id": 901,
+      "style": 57,
+      "name": "The Lone Watchman"
+    },
+    {
+      "$id": 902,
+      "style": 64,
+      "name": "Inform Captain Mehmed's \nsubordinate Ishaq of his new orders.\nIshaq is at the Bazuain Watchtower.\n(DLC Quest)"
+    },
+    {
+      "$id": 903,
+      "style": 64,
+      "name": "After the contest with Azami and the\nskirmish with Invidian mercs, Ishaq's\noutlook has markedly improved.\n(DLC Quest)"
+    },
+    {
+      "$id": 904,
+      "style": 62,
+      "name": "Convince Ishaq at Bazuain Watchtower\nin Superbia."
+    },
+    {
+      "$id": 905,
+      "style": 62,
+      "name": "Talk to Ishaq at Bazuain Watchtower\nin Superbia."
+    },
+    {
+      "$id": 906,
+      "style": 62,
+      "name": "Report back to Mehmed\nat Hadashal Military\nPort in Superbia."
+    },
+    {
+      "$id": 907,
+      "style": 62,
+      "name": "Go check on Ishaq at the Divine Beast\nWeapon Dig Site in Temperantia."
+    },
+    {
+      "$id": 908,
+      "style": 62,
+      "name": "Check the area surrounding the Divine\nBeast Weapon Dig Site in Temperantia."
+    },
+    {
+      "$id": 909,
+      "style": 62,
+      "name": "Save the soldiers by defeating the\nenemies at the Divine Beast Weapon Dig\nSite in Temperantia."
+    },
+    {
+      "$id": 910,
+      "style": 62,
+      "name": "Report back to Mehmed at the\nSuperbian Garrison in Temperantia."
+    },
+    {
+      "$id": 911,
+      "style": 57,
+      "name": "This Is Fine, Mo"
+    },
+    {
+      "$id": 912,
+      "style": 64,
+      "name": "Show Pulolo to Tora's house, where \nhe can play Tiger! Tiger!\n(DLC Quest)"
+    },
+    {
+      "$id": 913,
+      "style": 64,
+      "name": "Meroro's son may be a total lazybones,\nbut it seems that's okay. A Nopon \nmother's love knows no bounds!\n(DLC Quest)"
+    },
+    {
+      "$id": 914,
+      "style": 62,
+      "name": "The Tiger! Tiger! cabinet is at Tora's\nHouse, so head on over!"
+    },
+    {
+      "$id": 915,
+      "style": 62,
+      "name": "Play TIGER! TIGER! and get the\nTank Custom III prize."
+    },
+    {
+      "$id": 916,
+      "style": 62,
+      "name": "Give the Tank Custom III to Pulolo\nat Tora's house in Gula."
+    },
+    {
+      "$id": 917,
+      "style": 62,
+      "name": "Head to Pulolo's house in Avaritia."
+    },
+    {
+      "$id": 918,
+      "style": 57,
+      "name": "Cleared of All Charges"
+    },
+    {
+      "$id": 919,
+      "style": 64,
+      "name": "The vegetables growing in Iyasaki are\nbeing stolen by somebody. Guren, \nVasara, and Tokiha are on the case\nto sniff out the thief. (DLC Quest)"
+    },
+    {
+      "$id": 920,
+      "style": 64,
+      "name": "Turns out the culprit was Cloud Sea\nGreat King Maelstrom! The Blades\ntook it down, so Astal can tend his\nveggies in peace. (DLC Quest)"
+    },
+    {
+      "$id": 921,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Catch a Crook\"."
+    },
+    {
+      "$id": 922,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Guard the Field\"."
+    },
+    {
+      "$id": 923,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Extract a Confession\"."
+    },
+    {
+      "$id": 924,
+      "style": 62,
+      "name": "Report back to Astal near Correl's\nHouse in Liberalitas."
+    },
+    {
+      "$id": 925,
+      "style": 62,
+      "name": "Defeat Cloud Sea Great King Maelstrom\nby Correl's House in Liberalitas."
+    },
+    {
+      "$id": 926,
+      "style": 62,
+      "name": "Speak with Astal near Correl's House\nin Liberalitas."
+    },
+    {
+      "$id": 927,
+      "style": 57,
+      "name": "On a Starry Night"
+    },
+    {
+      "$id": 928,
+      "style": 64,
+      "name": "Leonidas's keen to propose to his\ngirlfriend on their holiday to Liberalitas.\nGive him a hand to make the moment\nperfect! (DLC Quest)"
+    },
+    {
+      "$id": 929,
+      "style": 64,
+      "name": "Thanks to the efforts of Rex and his\ncompanions, Leonidas's proposal went\noff without a hitch.\n(DLC Quest)"
+    },
+    {
+      "$id": 930,
+      "style": 62,
+      "name": "Get a Bouquet Stone from Pippito's\nLair, Luxuria."
+    },
+    {
+      "$id": 931,
+      "style": 62,
+      "name": "Give the Bouquet Stone to Leonidas at\nRijite Port, Liberalitas."
+    },
+    {
+      "$id": 932,
+      "style": 62,
+      "name": "Go to Baldotas Island in Liberalitas\nto check out the area."
+    },
+    {
+      "$id": 933,
+      "style": 62,
+      "name": "Go to God-Crossing Island in\nLiberalitas to check out the area."
+    },
+    {
+      "$id": 934,
+      "style": 62,
+      "name": "Take out all the enemies that\nare in the way of the proposal on\nGod-Crossing Island in Liberalitas."
+    },
+    {
+      "$id": 935,
+      "style": 62,
+      "name": "Speak with Leonidas at God-Crossing\nIsland in Liberalitas."
+    },
+    {
+      "$id": 936,
+      "style": 57,
+      "name": "Cloud Sea Compass Mod"
+    },
+    {
+      "$id": 937,
+      "style": 64,
+      "name": "Tora's tinkering has paid off, and the\nCloud Sea Compass is much stronger!\nTravel around to find new Salvage \nPoints. (DLC Quest)"
+    },
+    {
+      "$id": 938,
+      "style": 64,
+      "name": "Discovered a new Salvage Point\nat Balkurus Ruins on the Cliffs of\nMors! (DLC Quest)"
+    },
+    {
+      "$id": 939,
+      "style": 62,
+      "name": "Salvage at Port Isheba in\nLiberalitas."
+    },
+    {
+      "$id": 940,
+      "style": 62,
+      "name": "Salvage at the Forgotten Land in\nGula."
+    },
+    {
+      "$id": 941,
+      "style": 62,
+      "name": "Salvage at the Suspended Pathway\nin the Abandoned Factory in Superbia."
+    },
+    {
+      "$id": 942,
+      "style": 62,
+      "name": "Salvage at Balkurus Ruins at the \nCliffs of Mors."
+    },
+    {
+      "$id": 943,
+      "style": 57,
+      "name": "Emergency?!"
+    },
+    {
+      "$id": 944,
+      "style": 64,
+      "name": "Ibuki caught wind of some big news\nat the inn, but she's managed to forget\nit, as you might expect. Investigate a \nlittle bit with the mercs. (DLC Quest)"
+    },
+    {
+      "$id": 945,
+      "style": 64,
+      "name": "Looks like Ibuki heard a secret about\nKing Seelig, and arriving in time\nto quell the rebellion was pure luck.\n(DLC Quest)"
+    },
+    {
+      "$id": 946,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Ibuki's Big News\"."
+    },
+    {
+      "$id": 947,
+      "style": 62,
+      "name": "Head to the Hall of Sincerity in\nLuxuria."
+    },
+    {
+      "$id": 948,
+      "style": 62,
+      "name": "Defeat the Rebellious Soldiers in  the\nHall of Sincerity in Luxuria."
+    },
+    {
+      "$id": 949,
+      "style": 62,
+      "name": "Report to Seelig at the \nTheoscaldia Audience Hall in Luxuria."
+    },
+    {
+      "$id": 950,
+      "style": 57,
+      "name": "A Smith's Pastime"
+    },
+    {
+      "$id": 951,
+      "style": 64,
+      "name": "Silvio, a retired blacksmith, has been\ndabbling in making accessories. Bring\nhim the materials to get one made!\n(DLC Quest)"
+    },
+    {
+      "$id": 952,
+      "style": 64,
+      "name": "Silvio can't quite remember what\naccessory he'd been planning to make,\nbut he'll happily make you anything.\n(DLC Quest)"
+    },
+    {
+      "$id": 953,
+      "style": 64,
+      "name": "Silvio can't quite remember what\naccessory he'd been planning to make,\nbut he'll happily make you anything.\n(DLC Quest)"
+    },
+    {
+      "$id": 954,
+      "style": 62,
+      "name": "Salvage in Gula to obtain\na Jungle Frame."
+    },
+    {
+      "$id": 955,
+      "style": 62,
+      "name": "Obtain a Pione Stone in Invidia."
+    },
+    {
+      "$id": 956,
+      "style": 62,
+      "name": "Defeat a Rip Volff in Invidia\nto obtain a Volff Fang."
+    },
+    {
+      "$id": 957,
+      "style": 62,
+      "name": "Take the gathered materials to\nSilvio in Departure Market, Invidia."
+    },
+    {
+      "$id": 958,
+      "style": 57,
+      "name": "A Hat Fit for a Lady"
+    },
+    {
+      "$id": 959,
+      "style": 64,
+      "name": "Find Benedict's wayward daughter \nRugena. She went to Avaritia to find\nherself the hat of her dreams.\n(DLC Quest)"
+    },
+    {
+      "$id": 960,
+      "style": 64,
+      "name": "After you got a hat that was acceptable\nto Rugena, she went back to Invidia. You\ncan now make the hat at any time.\n(DLC Quest)"
+    },
+    {
+      "$id": 961,
+      "style": 64,
+      "name": "After you got a hat that was acceptable\nto Rugena, she went back to Invidia. You\ncan now make the hat at any time.\n(DLC Quest)"
+    },
+    {
+      "$id": 962,
+      "style": 62,
+      "name": "Go to the Avaritia Bazaar and search\nfor Rugena."
+    },
+    {
+      "$id": 963,
+      "style": 62,
+      "name": "Speak with the nearby hat shops, or \nfind a Blade with the ability to make\na hat."
+    },
+    {
+      "$id": 964,
+      "style": 62,
+      "name": "Ask Rugena in the Avaritia Bazaar \nabout her vision for the hat."
+    },
+    {
+      "$id": 965,
+      "style": 62,
+      "name": "Tell Hattotto in the Avaritia Bazaar\nabout Rugena's vision for the hat."
+    },
+    {
+      "$id": 966,
+      "style": 62,
+      "name": "Get all the materials Hattotto needs\nto make the hat."
+    },
+    {
+      "$id": 967,
+      "style": 0,
+      "name": "Give the materials to Hattotto in the\nAvaritia Bazaar."
+    },
+    {
+      "$id": 968,
+      "style": 62,
+      "name": "Deliver the hat to Rugena at the\nAvaritia Bazaar."
+    },
+    {
+      "$id": 969,
+      "style": 62,
+      "name": "Have Mei make the hat at\nHammef's house in Liberalitas."
+    },
+    {
+      "$id": 970,
+      "style": 62,
+      "name": "Deliver the hat to Rugena at the\nAvaritia Bazaar."
+    },
+    {
+      "$id": 971,
+      "style": 57,
+      "name": "Making Horerugen"
+    },
+    {
+      "$id": 972,
+      "style": 64,
+      "name": "Hana is very interested in a love potion.\nGet Dokidoki Shisou in Luxuria and try\nmaking one.\n(DLC Quest)"
+    },
+    {
+      "$id": 973,
+      "style": 64,
+      "name": "The love potion didn't work as hoped,\nbut seems to inspire intense trust.\nYou can now make Horerugen freely.\n(DLC Quest)"
+    },
+    {
+      "$id": 974,
+      "style": 62,
+      "name": "Get Dokidoki Shisou at Sealed Quarry\nin Luxuria."
+    },
+    {
+      "$id": 975,
+      "style": 62,
+      "name": "Make Horerugen at the campfire in\nGoldmouth Residential District,\nAvaritia."
+    },
+    {
+      "$id": 976,
+      "style": 57,
+      "name": "A Mercenary's Honor"
+    },
+    {
+      "$id": 977,
+      "style": 64,
+      "name": "A group of mercs haven't returned from\na mission to watch Superbian forces.\nHead to Temperantia to find them and\nbring them back. (DLC Quest)"
+    },
+    {
+      "$id": 978,
+      "style": 64,
+      "name": "The mercenary squad leader Bonavento\ndied, but the other three returned\nsafely before trouble with Superbia\ncould break out. (DLC Quest)"
+    },
+    {
+      "$id": 979,
+      "style": 62,
+      "name": "Search for signs of the mercenaries by\nthe Holy Grail Hammer in Temperantia."
+    },
+    {
+      "$id": 980,
+      "style": 62,
+      "name": "Follow the footprints you discovered\nby the Holy Grail Hammer in\nTemperantia."
+    },
+    {
+      "$id": 981,
+      "style": 62,
+      "name": "Follow the footprints you found at\nAnnihilation Slash in Temperantia."
+    },
+    {
+      "$id": 982,
+      "style": 62,
+      "name": "Defeat the mercs you've tracked\nto near The Great Archway in\nTemperantia."
+    },
+    {
+      "$id": 983,
+      "style": 62,
+      "name": "Defeat the Blood-Crazed Stalker on the\nBattlefield Plain in Temperantia."
+    },
+    {
+      "$id": 984,
+      "style": 62,
+      "name": "Speak with Goffredo at Annihilation\nSlash in Temperantia."
+    },
+    {
+      "$id": 985,
+      "style": 62,
+      "name": "Report back to Modestro at the Invidia\nRoyal Guard Barracks in Invidia."
+    },
+    {
+      "$id": 986,
+      "style": 57,
+      "name": "Merukuribe's Mighty Foe"
+    },
+    {
+      "$id": 987,
+      "style": 64,
+      "name": "A vicious monster has settled on\nMerukuribe Islet in the Liberalitas\nArchipelago. Defeat it for the sailors.\n(DLC Quest)"
+    },
+    {
+      "$id": 988,
+      "style": 64,
+      "name": "There turned out to be three vile beasts\nin all, but they proved no match for\nAlst's mightiest Driver and Blades!\n(DLC Quest)"
+    },
+    {
+      "$id": 989,
+      "style": 62,
+      "name": "Defeat Sea Weiss on Merukuribe Islet\nin Liberalitas."
+    },
+    {
+      "$id": 990,
+      "style": 62,
+      "name": "Defeat the monsters on Merukuribe\nIslet in Liberalitas."
+    },
+    {
+      "$id": 991,
+      "style": 62,
+      "name": "With the Merc Group's help, defeat the\nmonsters on Merukuribe Islet in\nLiberalitas."
+    },
+    {
+      "$id": 992,
+      "style": 62,
+      "name": "With the Merc Group's help, defeat the\nmonsters on Merukuribe Islet in\nLiberalitas."
+    },
+    {
+      "$id": 993,
+      "style": 62,
+      "name": "With the Merc Group's help, defeat the\nmonsters on Merukuribe Islet in\nLiberalitas."
+    },
+    {
+      "$id": 994,
+      "style": 62,
+      "name": "Report back to Carsem at Rijite Port\nin Liberalitas."
+    },
+    {
+      "$id": 995,
+      "style": 57,
+      "name": "Sunken Boosters"
+    },
+    {
+      "$id": 996,
+      "style": 64,
+      "name": "A ship carrying a shipment of Boosters\nsank off Gula's Lasqam Island. Talk\nto Sisoso the Nopon to learn more.\n(DLC Quest)"
+    },
+    {
+      "$id": 997,
+      "style": 64,
+      "name": "Thanks to Sisoso's hard work, the\nBooster Cylinder is complete! Use it to\nsalvage on Lasqam Island, Gula.\n(DLC Quest)"
+    },
+    {
+      "$id": 998,
+      "style": 62,
+      "name": "Speak to Sisoso in Torikia Backstreet\nin Invidia."
+    },
+    {
+      "$id": 999,
+      "style": 62,
+      "name": "Get a Booster Cylinder made by Sisoso.\nHe's in Torikia Backstreet in Invidia."
+    },
+    {
+      "$id": 1000,
+      "style": 57,
+      "name": "The Trendy Patissier"
+    },
+    {
+      "$id": 1001,
+      "style": 64,
+      "name": "The name UO Sweets is spreading\nacross Alst. Work with Idaten to\nestablish a new delivery route.\n(DLC Quest)"
+    },
+    {
+      "$id": 1002,
+      "style": 64,
+      "name": "You've set up a system to deliver\nYuuou's sweets to anyone, anytime.\nBe sure to keep making use of it!\n(DLC Quest)"
+    },
+    {
+      "$id": 1003,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Trial Run 1\"."
+    },
+    {
+      "$id": 1004,
+      "style": 62,
+      "name": "Report back to Jenny in Fons Maim\nCommercial District in Invidia."
+    },
+    {
+      "$id": 1005,
+      "style": 62,
+      "name": "Complete the Merc Mission\n\"Trial Run 2\"."
+    },
+    {
+      "$id": 1006,
+      "style": 62,
+      "name": "Report back to Jenny in Fons Maim\nCommercial District in Invidia."
+    },
+    {
+      "$id": 1007,
+      "style": 57,
+      "name": "Artisanal Accessories"
+    },
+    {
+      "$id": 1008,
+      "style": 64,
+      "name": "The self-proclaimed greatest artisan on\nAlst got it in his head to make you an\naccessory from Ripobik Ellook materials.\n(DLC Quest)"
+    },
+    {
+      "$id": 1009,
+      "style": 64,
+      "name": "The eccentric Barhanen will keep\nmaking you accessories. Bring him\nmaterials from Ripobik Ellook.\n(DLC Quest)"
+    },
+    {
+      "$id": 1010,
+      "style": 62,
+      "name": "Obtain Ellook Horn by defeating\nRipobik Ellook in Luxuria."
+    },
+    {
+      "$id": 1011,
+      "style": 62,
+      "name": "Have Barhanen make you an accessory\nin Teos Aure, Luxuria's royal capital."
+    },
+    {
+      "$id": 1012,
+      "style": 57,
+      "name": "Hot Spring Bonanza"
+    },
+    {
+      "$id": 1013,
+      "style": 64,
+      "name": "Kasane won first prize in a raffle - a\nlifetime's free entry to an Superbian\nhot spring! Visit it with Rinne and\nZakuro. (DLC Quest)"
+    },
+    {
+      "$id": 1014,
+      "style": 64,
+      "name": "The location in question was the Nopon\nPioneers' Secret Hot Spring. The girls\nhad a blast - except, unfortunately,\nRinne... (DLC Quest)"
+    },
+    {
+      "$id": 1015,
+      "style": 62,
+      "name": "Head for the hot spring behind\nJarukamaro Inn in Superbia."
+    },
+    {
+      "$id": 1016,
+      "style": 62,
+      "name": "Head for the Geothermal Plant Lobby\nin Superbia and get the details from\nwhoever's there."
+    },
+    {
+      "$id": 1017,
+      "style": 62,
+      "name": "Complete the mission\n\"Search for Gisisi\"."
+    },
+    {
+      "$id": 1018,
+      "style": 62,
+      "name": "Complete the mission\n\"Search for Olek\"."
+    },
+    {
+      "$id": 1019,
+      "style": 62,
+      "name": "Complete the mission\n\"Search for Salaf\"."
+    },
+    {
+      "$id": 1020,
+      "style": 62,
+      "name": "Speak with Amir in the Geothermal\nPlant Lobby in Superbia."
+    },
+    {
+      "$id": 1021,
+      "style": 62,
+      "name": "Speak with Feline\nby Jarukamaro Inn in Superbia."
+    },
+    {
+      "$id": 1022,
+      "style": 62,
+      "name": "Head for the Nopon Pioneers' Secret\nHot Spring in Superbia."
+    },
+    {
+      "$id": 1023,
+      "style": 57,
+      "name": "Mystery Activation Code"
+    },
+    {
+      "$id": 1024,
+      "style": 64,
+      "name": "By studying a tablet in Mors, you\nlearned about a activation code split in\ntwo parts. Satisfy Shiki's curiosity!\n(DLC Quest)"
+    },
+    {
+      "$id": 1025,
+      "style": 64,
+      "name": "The activation codes activated the\nmost powerful guardian at the World\nTree. Even KOS-MOS Re: seemed\nexasperated. (DLC Quest)"
+    },
+    {
+      "$id": 1026,
+      "style": 62,
+      "name": "Defeat the Sealing Royals in the\nLand of Mors and obtain the\nActivation Codes."
+    },
+    {
+      "$id": 1027,
+      "style": 62,
+      "name": "Enter the Activation Code on the\nancient tablet in the Wall Power\nControl Room in the Land of Mors."
+    },
+    {
+      "$id": 1028,
+      "style": 62,
+      "name": "Enter the Activation Code in the Data\nManagement Room at the World Tree."
+    },
+    {
+      "$id": 1029,
+      "style": 62,
+      "name": "Enter the other Activation Code in\nthe Data Management Room at the\nWorld Tree."
+    },
+    {
+      "$id": 1030,
+      "style": 62,
+      "name": "Investigate Layer 3, Shehakim in the\nWorld Tree."
+    },
+    {
+      "$id": 1031,
+      "style": 62,
+      "name": "Defeat Guardian No-Name near Layer 3,\nShehakim in the World Tree."
+    },
+    {
+      "$id": 1032,
+      "style": 57,
+      "name": "Search for Gisisi"
+    },
+    {
+      "$id": 1033,
+      "style": 64,
+      "name": "Amir asked you to find Gisisi.\nFind Gisisi and get the plant\nback in running order!\n(DLC Quest)"
+    },
+    {
+      "$id": 1034,
+      "style": 64,
+      "name": "You saved Gisisi from the monster.\nThis brings the plant one step closer\nto working again!\n(DLC Quest)"
+    },
+    {
+      "$id": 1035,
+      "style": 62,
+      "name": "Find Gisisi in the Geothermal\nMining Plant in Superbia."
+    },
+    {
+      "$id": 1036,
+      "style": 62,
+      "name": "Defeat the Glaring Angu threatening\nGisisi at the Geothermal Mining\nPlant in Superbia."
+    },
+    {
+      "$id": 1037,
+      "style": 62,
+      "name": "Speak to Gisisi in the Geothermal\nMining Plant in Superbia."
+    },
+    {
+      "$id": 1038,
+      "style": 57,
+      "name": "Search for Olek"
+    },
+    {
+      "$id": 1039,
+      "style": 64,
+      "name": "Amir asked you to find Olek.\nFind Olek and get the plant\nback in running order!\n(DLC Quest)"
+    },
+    {
+      "$id": 1040,
+      "style": 64,
+      "name": "You got rid of the monsters hampering\nthe repairs. This brings the plant one\nstep closer to working again!\n(DLC Quest)"
+    },
+    {
+      "$id": 1041,
+      "style": 62,
+      "name": "Find Olek in the Geothermal Mining\nPlant in Superbia."
+    },
+    {
+      "$id": 1042,
+      "style": 62,
+      "name": "Defeat the Swarm Bee in the\nGeothermal Mining Plant in Superbia."
+    },
+    {
+      "$id": 1043,
+      "style": 62,
+      "name": "Speak to Olek in the Geothermal\nMining Plant in Superbia."
+    },
+    {
+      "$id": 1044,
+      "style": 57,
+      "name": "Search for Salaf"
+    },
+    {
+      "$id": 1045,
+      "style": 64,
+      "name": "Amir asked you to find Salaf.\nFind Salaf and get the plant\nback in running order!\n(DLC Quest)"
+    },
+    {
+      "$id": 1046,
+      "style": 64,
+      "name": "You gathered Fuse Valves for Salaf.\nHe returned to the plant to deliver the\nmaterials to Amir.\n(DLC Quest)"
+    },
+    {
+      "$id": 1047,
+      "style": 62,
+      "name": "Head for the Old Pipe Maintenance Room\narea in Superbia and look for Salaf."
+    },
+    {
+      "$id": 1048,
+      "style": 62,
+      "name": "Collect Fuse Valves in the Old Pipe\nMaintenance Room in Superbia."
+    },
+    {
+      "$id": 1049,
+      "style": 62,
+      "name": "Deliver the Fuse Valves to Salaf\nin the Old Pipe Maintenance Room area\nin Superbia."
+    },
+    {
+      "$id": 1050,
+      "style": 62,
+      "name": "Defeat Turbulent Keene at the Divine\nBeast Weapon Dig Site in Temperantia."
+    },
+    {
+      "$id": 1051,
+      "style": 62,
+      "name": "Defeat Crafty Zofu at the Divine\nBeast Weapon Dig Site in Temperantia."
+    },
+    {
+      "$id": 1052,
+      "style": 62,
+      "name": "Defeat the Rebellious Soldiers in\nSnow-White Passage in Luxuria."
+    },
+    {
+      "$id": 1053,
+      "style": 62,
+      "name": "Defeat the Rebellious Soldiers in\nthe Hall of Righteousness in Luxuria."
+    },
+    {
+      "$id": 1054,
+      "style": 57,
+      "name": "Tora's Secret Collection"
+    },
+    {
+      "$id": 1055,
+      "style": 64,
+      "name": "Tora gave you a Lovely Core Crystal\ninstead of his secret collection.\nTry resonating with a new Blade."
+    },
+    {
+      "$id": 1056,
+      "style": 64,
+      "name": "Instead of his secret collection,\nTora gave you a Lovely Core Crystal.\nYou resonated with the Blade M.O.M.O."
+    },
+    {
+      "$id": 1057,
+      "style": 62,
+      "name": "Use Tora's Lovely Core Crystal\nand resonate with a new Blade\nto welcome them into your party."
+    },
+    {
+      "$id": 1058,
+      "style": 62,
+      "name": "You resonated with M.O.M.O.\nTora seems curious as well.\nHead to his house in Gula."
+    },
+    {
+      "$id": 1059,
+      "style": 57,
+      "name": "Lost Armu"
+    },
+    {
+      "$id": 1060,
+      "style": 64,
+      "name": "As a favor to Tiko, let's go and \ntry to find out what's eating Joey."
+    },
+    {
+      "$id": 1061,
+      "style": 64,
+      "name": "With the Armus returned safely,\nTiko and Joey are back to their\nold, smiling selves."
+    },
+    {
+      "$id": 1062,
+      "style": 62,
+      "name": "Speak to Joey, who hangs out near\nAurium, Main Gate in Iira."
+    },
+    {
+      "$id": 1063,
+      "style": 62,
+      "name": "Investigate the Armu tracks on\nPlanus Bridge in Iira."
+    },
+    {
+      "$id": 1064,
+      "style": 62,
+      "name": "Follow the tracks in Iira to\nrecapture Yonma the Armu."
+    },
+    {
+      "$id": 1065,
+      "style": 62,
+      "name": "Follow the tracks in Iira to\nrecapture Ajijii the Armu."
+    },
+    {
+      "$id": 1066,
+      "style": 62,
+      "name": "Follow the tracks in Iira to\nrecapture Iwashisshi the Armu."
+    },
+    {
+      "$id": 1067,
+      "style": 62,
+      "name": "Speak to Joey, who hangs out near\nAurium, Main Gate in Iira."
+    },
+    {
+      "$id": 1068,
+      "style": 57,
+      "name": "An Oasis for All"
+    },
+    {
+      "$id": 1069,
+      "style": 64,
+      "name": "To reopen the interrupted trade routes,\nand restore access to a place of respite,\nsomeone has to defeat the Gogols that\noccupy Bern, Pilgrims' Springland."
+    },
+    {
+      "$id": 1070,
+      "style": 64,
+      "name": "With the Gogols gone, peace has\nreturned to Bern, Pilgrims' Springland\nand Formide Shopping Street."
+    },
+    {
+      "$id": 1071,
+      "style": 62,
+      "name": "Head for Bern, Pilgrims' Springland\nin Iira."
+    },
+    {
+      "$id": 1072,
+      "style": 62,
+      "name": "Defeat the Leract Gogols in\nBern, Pilgrims' Springland in Iira."
+    },
+    {
+      "$id": 1073,
+      "style": 62,
+      "name": "Defeat the Hewli Gogol in the\nDana Desert in Iira."
+    },
+    {
+      "$id": 1074,
+      "style": 62,
+      "name": "Report back to Morumo\nin Formide Shopping\nStreet in Iira."
+    },
+    {
+      "$id": 1075,
+      "style": 57,
+      "name": "Hapless Adventurer"
+    },
+    {
+      "$id": 1076,
+      "style": 64,
+      "name": "Defeat the monsters blocking\nthe bridge."
+    },
+    {
+      "$id": 1077,
+      "style": 64,
+      "name": "With the monsters out of the way,\nKaym has set off to gather the sand\nhe was sent out for."
+    },
+    {
+      "$id": 1078,
+      "style": 62,
+      "name": "Exit the Cropwoods of Yorn in Iira\nand head toward the bridge."
+    },
+    {
+      "$id": 1079,
+      "style": 62,
+      "name": "Defeat the monsters blocking the\nbridge in the Cropwoods of Yorn in\nIira."
+    },
+    {
+      "$id": 1080,
+      "style": 62,
+      "name": "Report back to Kaym in the village of\nFelt in Iira."
+    },
+    {
+      "$id": 1081,
+      "style": 57,
+      "name": "Passing the Torch"
+    },
+    {
+      "$id": 1082,
+      "style": 64,
+      "name": "Head for Torigo Village to see if\nthe man called Thales is okay."
+    },
+    {
+      "$id": 1083,
+      "style": 64,
+      "name": "With her deceased master's secrets of\nthe craft in hand, Sharla decides to\nhonor his memory and stride into the\nfuture with her head held high."
+    },
+    {
+      "$id": 1084,
+      "style": 62,
+      "name": "Search Torigo Village in Gula for\nany signs of Thales."
+    },
+    {
+      "$id": 1085,
+      "style": 62,
+      "name": "Search Torigo Village in Gula for\nsigns of anything Thales may have\nleft."
+    },
+    {
+      "$id": 1086,
+      "style": 62,
+      "name": "Go to Nox Promontory in Gula."
+    },
+    {
+      "$id": 1087,
+      "style": 62,
+      "name": "Hand over the Glassmaker's Tome\nto Sharla, who's waiting in Iira's\nCreare Workshop Street."
+    },
+    {
+      "$id": 1088,
+      "style": 57,
+      "name": "Each One's Justice"
+    },
+    {
+      "$id": 1089,
+      "style": 64,
+      "name": "Shady items known as Red Pollen Orbs\nhave been appearing all over. Destroy\nany green barrels you find to remove\nthe Red Pollen Orbs from distribution."
+    },
+    {
+      "$id": 1090,
+      "style": 64,
+      "name": "Morumo spread green barrels of Red\nPollen Orbs for profit, but repented\nand vowed to help Formide Shopping\nStreet prosper honestly."
+    },
+    {
+      "$id": 1091,
+      "style": 62,
+      "name": "Destroy the green barrels scattered\nacross Iira and Gula to remove \nRed Pollen Orbs from circulation."
+    },
+    {
+      "$id": 1092,
+      "style": 62,
+      "name": "Report to Makumaku, who is in Iira's\nYajika Harbor, and receive an update\non the situation."
+    },
+    {
+      "$id": 1093,
+      "style": 62,
+      "name": "Find and destroy the green barrels in\nAurium, the royal capital of Iira."
+    },
+    {
+      "$id": 1094,
+      "style": 62,
+      "name": "Defeat the bodyguards on the rooftops\nadjacent to the Creare Workshop\nStreet in Iira."
+    },
+    {
+      "$id": 1095,
+      "style": 62,
+      "name": "Chase down Morumo, who's escaped\nto Formide Shopping Street in Iira."
+    },
+    {
+      "$id": 1096,
+      "style": 57,
+      "name": "My First Adventure"
+    },
+    {
+      "$id": 1097,
+      "style": 64,
+      "name": "Support Rita and Kaede as they\ngo around exploring Gula."
+    },
+    {
+      "$id": 1098,
+      "style": 64,
+      "name": "Thanks to your help, the newbie\nDriver Rita and her Blade Kaede seem\nto have come into their own a little."
+    },
+    {
+      "$id": 1099,
+      "style": 62,
+      "name": "Rendezvous with Rita at the\nRestful Waterside in Gula."
+    },
+    {
+      "$id": 1100,
+      "style": 62,
+      "name": "Satiate Rita's appetite at the\nRestful Waterside in Gula."
+    },
+    {
+      "$id": 1101,
+      "style": 62,
+      "name": "Rendezvous with Rita around the\nOrdia Great Plains in Gula."
+    },
+    {
+      "$id": 1102,
+      "style": 62,
+      "name": "Rendezvous with Rita on the hill\noverlooking the Restful Waterside\nin Gula."
+    },
+    {
+      "$id": 1103,
+      "style": 57,
+      "name": "Imperial Forest Problem"
+    },
+    {
+      "$id": 1104,
+      "style": 64,
+      "name": "Old Oulu, who enjoys walking, asked\nyou to pick up litter. Gather the litter\ndiscarded along Imperial Forest Road."
+    },
+    {
+      "$id": 1105,
+      "style": 64,
+      "name": "The four Nopon siblings who were the\nculprits only littered to alleviate \nOulu's perceived loneliness. You trust\nthey learned their lesson...maybe?"
+    },
+    {
+      "$id": 1106,
+      "style": 62,
+      "name": "Gather up the litter strewn about\nImperial Forest Road in Iira."
+    },
+    {
+      "$id": 1107,
+      "style": 62,
+      "name": "Gather up the litter strewn about\nImperial Forest Road in Iira."
+    },
+    {
+      "$id": 1108,
+      "style": 62,
+      "name": "Track down Ryuuryuu and his partners-\nin-mischief, who have run away to\nAurium, the royal capital of Iira."
+    },
+    {
+      "$id": 1109,
+      "style": 62,
+      "name": "Report back to Oulu, by the\nMedium Gate in Iira."
+    },
+    {
+      "$id": 1110,
+      "style": 57,
+      "name": "Grumbling Apothecary"
+    },
+    {
+      "$id": 1111,
+      "style": 64,
+      "name": "Montos, Adel's retainer reluctantly\nserving as the Resistance's apothecary,\nasked you to gather the medicinal\nherb Medicarin."
+    },
+    {
+      "$id": 1112,
+      "style": 64,
+      "name": "You gathered the Medicarin and\ndelivered it to Montos. With any luck,\nit should last him a while."
+    },
+    {
+      "$id": 1113,
+      "style": 62,
+      "name": "Gather Medicarin at the Tirkin Cliff\nColony in Iira."
+    },
+    {
+      "$id": 1114,
+      "style": 62,
+      "name": "Report back to Montos\nin Aletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1115,
+      "style": 57,
+      "name": "Helping the Helper"
+    },
+    {
+      "$id": 1116,
+      "style": 64,
+      "name": "Since Dio is clumsy with his hands,\ngather Purestone and make\nLovers' Whispers."
+    },
+    {
+      "$id": 1117,
+      "style": 64,
+      "name": "Dio and Leon were satisfied and\ndelighted with Lovers' Whispers.\nLeon even seems sure his confession\nwill succeed."
+    },
+    {
+      "$id": 1118,
+      "style": 62,
+      "name": "Gather materials around Hangnail\nCrossing in Iira to find the\nPurestone."
+    },
+    {
+      "$id": 1119,
+      "style": 62,
+      "name": "Make camp and craft Lovers' Whispers.\n(Craftable with Laura's Craft.)"
+    },
+    {
+      "$id": 1120,
+      "style": 62,
+      "name": "Take Lovers' Whispers to Dio in Iira's\nFormide Shopping Street."
+    },
+    {
+      "$id": 1121,
+      "style": 62,
+      "name": "Meet up with Dio in Sachsum Gardens,\nIira."
+    },
+    {
+      "$id": 1122,
+      "style": 57,
+      "name": "What Matters Most"
+    },
+    {
+      "$id": 1123,
+      "style": 64,
+      "name": "Veritas dropped the key to the Oldo\nfamily vault when he was attacked by\na Grafton Feris. We have to infiltrate\nthe monster's den and retrieve the key!"
+    },
+    {
+      "$id": 1124,
+      "style": 64,
+      "name": "Veritas was overwhelmed when you\nbrought back the vault key, vowing\nthat his descendants would carry the\nmemory of your kindness forever."
+    },
+    {
+      "$id": 1125,
+      "style": 62,
+      "name": "Head to the far side of Rakina Plains\nin Iira, where lies the place known as\nthe Behemoth's Roost."
+    },
+    {
+      "$id": 1126,
+      "style": 62,
+      "name": "Defeat Urbs Armus around\nRakina Plains in Iira and\ngather them up to use as bait."
+    },
+    {
+      "$id": 1127,
+      "style": 62,
+      "name": "Place the bait before the Behemoth's\nRoost in Iira to lure away the\nGrafton Feris."
+    },
+    {
+      "$id": 1128,
+      "style": 62,
+      "name": "Defeat the Grafton Feris in the\nBehemoth's Roost in Iira."
+    },
+    {
+      "$id": 1129,
+      "style": 62,
+      "name": "Retrieve the vault key from the\nBehemoth's Roost in Iira."
+    },
+    {
+      "$id": 1130,
+      "style": 62,
+      "name": "Deliver the vault key to Veritas,\nat Aletta Resistance Garrison\nin Iira."
+    },
+    {
+      "$id": 1131,
+      "style": 57,
+      "name": "Boy's First Invention"
+    },
+    {
+      "$id": 1132,
+      "style": 64,
+      "name": "Marco, a young insect aficionado, has\ndrawn up blueprints for a machine that\nwill help him catch a lot of bugs. Let's\nhelp make the boy's dream a reality!"
+    },
+    {
+      "$id": 1133,
+      "style": 64,
+      "name": "Marco's first invention failed, but\nGennai noticed him and took him on\nas an apprentice. Adel learned the\nvalue of earnest passion."
+    },
+    {
+      "$id": 1134,
+      "style": 62,
+      "name": "Acquire Sunset Brackets in Iira."
+    },
+    {
+      "$id": 1135,
+      "style": 62,
+      "name": "Acquire an Electro Shaft in Iira."
+    },
+    {
+      "$id": 1136,
+      "style": 62,
+      "name": "Hand over the materials to Marco,\nwaiting near Creare Workshop Street\nin Iira."
+    },
+    {
+      "$id": 1137,
+      "style": 62,
+      "name": "Go set up the Automatic Bug-Catching\nMachine DX in Iira's Harijii Hills."
+    },
+    {
+      "$id": 1138,
+      "style": 62,
+      "name": "Defeat the monsters drawn in by the\nAutomatic Bug-Catching Machine DX in\nIira's Harijii Hills."
+    },
+    {
+      "$id": 1139,
+      "style": 62,
+      "name": "Report back to Marco near Creare\nWorkshop Street in Iira."
+    },
+    {
+      "$id": 1140,
+      "style": 57,
+      "name": "Further Feeding Issues"
+    },
+    {
+      "$id": 1141,
+      "style": 64,
+      "name": "Ivan, the militia quartermaster, has\ncome to the capital for supplies, but\ncan't take them back as Tizza Paras\nblock the Braying Canyon. Let's help!"
+    },
+    {
+      "$id": 1142,
+      "style": 64,
+      "name": "You gave Ivan the Pestronella Oil,\nso the supplies should be able to reach\nAletta without further interruption.\nThe militia should be set for food now."
+    },
+    {
+      "$id": 1143,
+      "style": 62,
+      "name": "Defeat the Tizza Paras said to have\nappeared in the Braying Canyon, Iira."
+    },
+    {
+      "$id": 1144,
+      "style": 62,
+      "name": "Gather Pestronella around the Budding\nFairyland in Iira."
+    },
+    {
+      "$id": 1145,
+      "style": 62,
+      "name": "Make camp and craft Pestronella Oil.\n(Uses Kagutsuchi's crafting skill.)"
+    },
+    {
+      "$id": 1146,
+      "style": 62,
+      "name": "Head for the Braying Canyon in Iira to\ntest the effects of Pestronella Oil on\nTizza Paras."
+    },
+    {
+      "$id": 1147,
+      "style": 62,
+      "name": "Give the Pestronella Oil to Ivan at\nHorreum Storage Ward in Iira."
+    },
+    {
+      "$id": 1148,
+      "style": 57,
+      "name": "Seeds of the Future"
+    },
+    {
+      "$id": 1149,
+      "style": 64,
+      "name": "Help with the preparations for\nthe future."
+    },
+    {
+      "$id": 1150,
+      "style": 64,
+      "name": "Wotta's ship makes it possible to\nescape Iira in an emergency. The\npreparations for the future are\nsteadily taking shape."
+    },
+    {
+      "$id": 1151,
+      "style": 62,
+      "name": "Speak with Wotta in the Creare\nWorkshop Street in Iira."
+    },
+    {
+      "$id": 1152,
+      "style": 62,
+      "name": "Speak with Arb in Sachsum Gardens\nin Iira."
+    },
+    {
+      "$id": 1153,
+      "style": 62,
+      "name": "Collect lumber in Gula."
+    },
+    {
+      "$id": 1154,
+      "style": 62,
+      "name": "Enlist the help of a specialist in\nCreare Workshop Street in Iira to\nobtain the glass pane."
+    },
+    {
+      "$id": 1155,
+      "style": 62,
+      "name": "Speak with Maquia at Lasqam Harbor\nin Gula."
+    },
+    {
+      "$id": 1156,
+      "style": 62,
+      "name": "Report back to Wotta in the Creare\nWorkshop Street in Iira."
+    },
+    {
+      "$id": 1157,
+      "style": 62,
+      "name": "Follow Wotta to Yajika Harbor\nin Iira."
+    },
+    {
+      "$id": 1158,
+      "style": 62,
+      "name": "Speak with Arb in Sachsum Gardens\nin Iira."
+    },
+    {
+      "$id": 1159,
+      "style": 57,
+      "name": "Salvage Challenge"
+    },
+    {
+      "$id": 1160,
+      "style": 64,
+      "name": "Dodon, a Salvager, is struggling to find\nanything of value at Lasqam Harbor.\nGather materials to help him make\na Dodon-style Silver Cylinder."
+    },
+    {
+      "$id": 1161,
+      "style": 64,
+      "name": "Dodon used his shiny new Silver\nCylinder to fish up the treasure he\nwanted. Now he's in a hurry to see\nhis partner in Iira."
+    },
+    {
+      "$id": 1162,
+      "style": 62,
+      "name": "Collect Apple Lamps in Gula."
+    },
+    {
+      "$id": 1163,
+      "style": 62,
+      "name": "Collect Steel Lamiboard in Gula."
+    },
+    {
+      "$id": 1164,
+      "style": 62,
+      "name": "Deliver the stuff you've collected to\nDodon at Lasqam Harbor in Gula."
+    },
+    {
+      "$id": 1165,
+      "style": 62,
+      "name": "Defeat the Tacitus Unin that\nDudan fished up at Lasqam Harbor\nin Gula."
+    },
+    {
+      "$id": 1166,
+      "style": 62,
+      "name": "Open the treasure chest."
+    },
+    {
+      "$id": 1167,
+      "style": 62,
+      "name": "Hand the Gravity Clutch over to\nDodon at Lasqam Harbor in Gula."
+    },
+    {
+      "$id": 1168,
+      "style": 57,
+      "name": "Two Faces"
+    },
+    {
+      "$id": 1169,
+      "style": 64,
+      "name": "Find the missing Superbian soldier who\ngoes by the name of Meknes."
+    },
+    {
+      "$id": 1170,
+      "style": 64,
+      "name": "Meknes turned out to be a Shiyan spy,\nbut faced with Yuugo's displeasure he\nentered Adel's employ and went to\nground in the capital."
+    },
+    {
+      "$id": 1171,
+      "style": 62,
+      "name": "Search Iira for the missing soldier,\nMeknes."
+    },
+    {
+      "$id": 1172,
+      "style": 62,
+      "name": "Defeat Conspirator Meknes near\nHaiber Village in Iira."
+    },
+    {
+      "$id": 1173,
+      "style": 62,
+      "name": "Report back to Iris\nat Aletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1174,
+      "style": 57,
+      "name": "Unforgotten Promise"
+    },
+    {
+      "$id": 1175,
+      "style": 64,
+      "name": "Mirei, a potter, asked for your help\nin creating a particular vase. Wouldn't\nit be nice to get the ingredients for her?"
+    },
+    {
+      "$id": 1176,
+      "style": 64,
+      "name": "Teo and Mirei have been reunited,\nafter many, many years. Here's hoping\nthey'll enjoy the time they have left\ntogether."
+    },
+    {
+      "$id": 1177,
+      "style": 62,
+      "name": "Gather Spiral Mistletoe in Iira."
+    },
+    {
+      "$id": 1178,
+      "style": 62,
+      "name": "Gather Silverwing Quartz in Iira."
+    },
+    {
+      "$id": 1179,
+      "style": 62,
+      "name": "Gather Eternity Loam at the\nRotta Forest Reserve in Iira."
+    },
+    {
+      "$id": 1180,
+      "style": 62,
+      "name": "Bring the materials to Mirei, who's\nwaiting near the Main Gate to Aurium,\nin Iira."
+    },
+    {
+      "$id": 1181,
+      "style": 62,
+      "name": "Head for the inn of Haiber Village\nin Iira."
+    },
+    {
+      "$id": 1182,
+      "style": 62,
+      "name": "Find Teo somewhere in Iira."
+    },
+    {
+      "$id": 1183,
+      "style": 62,
+      "name": "Follow the footprints heading away\nfrom Haiber Village in Iira."
+    },
+    {
+      "$id": 1184,
+      "style": 62,
+      "name": "Save Teo, who's collapsed near Reto\nBridge in Iira."
+    },
+    {
+      "$id": 1185,
+      "style": 62,
+      "name": "Return to the inn of Haiber Village\nin Iira."
+    },
+    {
+      "$id": 1186,
+      "style": 57,
+      "name": "Proof of Love"
+    },
+    {
+      "$id": 1187,
+      "style": 64,
+      "name": "To prove his feelings to Sarah, Leon set\nout to find a Rainbow Blossom. Find\nthe secret area where the flower is said\nto bloom to make sure he's okay."
+    },
+    {
+      "$id": 1188,
+      "style": 64,
+      "name": "Leon found the Rainbow Blossom and\nmade it back to the capital unharmed.\nAfter his ordeal, Sarah was able to\nopen up to him... Just a little, at least."
+    },
+    {
+      "$id": 1189,
+      "style": 62,
+      "name": "Search for Leon, who set off for a\nSecret Area somewhere in Iira."
+    },
+    {
+      "$id": 1190,
+      "style": 62,
+      "name": "Defeat the monster attacking Leon at\nthe Blue Water Tower in Iira."
+    },
+    {
+      "$id": 1191,
+      "style": 62,
+      "name": "Report back to Sarah at Dormire Inn\nin Iira."
+    },
+    {
+      "$id": 1192,
+      "style": 57,
+      "name": "Resistance Volunteers"
+    },
+    {
+      "$id": 1193,
+      "style": 64,
+      "name": "Veronica, the deputy commander,\nsays soldiers have been leaving the\nResistance Army. Help deal with the\nshortage of members."
+    },
+    {
+      "$id": 1194,
+      "style": 64,
+      "name": "Six people\nvolunteered for\nthe Resistance\nArmy."
+    },
+    {
+      "$id": 1195,
+      "style": 62,
+      "name": "Search Aurium, Iira's royal capital,\nfor potential recruits."
+    },
+    {
+      "$id": 1196,
+      "style": 62,
+      "name": "Report back to Veronica\nin Aletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1197,
+      "style": 57,
+      "name": "Textile Shop Trouble"
+    },
+    {
+      "$id": 1198,
+      "style": 64,
+      "name": "Obibi, the textile shop owner, is\nstruggling with poor sales to Nopon.\nHelp improve the shop business."
+    },
+    {
+      "$id": 1199,
+      "style": 64,
+      "name": "The hats suggested by Tekuteku\nwere a huge hit with Nopon children\nin the capital. Obibi's worries seem\ncompletely resolved."
+    },
+    {
+      "$id": 1200,
+      "style": 62,
+      "name": "Speak with the Fortis Trade Guild\nNopon wandering around near the\nMain Gate to Aurium, in Iira."
+    },
+    {
+      "$id": 1201,
+      "style": 62,
+      "name": "Head for Obibi's shop\nin Formide Shopping\nStreet in Iira."
+    },
+    {
+      "$id": 1202,
+      "style": 62,
+      "name": "Hand over the materials to Obibi in\nFormide Shopping Street in Iira and\nhave her make the hats."
+    },
+    {
+      "$id": 1203,
+      "style": 57,
+      "name": "Family Bonds"
+    },
+    {
+      "$id": 1204,
+      "style": 64,
+      "name": "Mars is concerned for his family,\nwho remained in Gula. Head for the\nSeigle Hills campsite to find Kai and\nKei, whom you've met before!"
+    },
+    {
+      "$id": 1205,
+      "style": 64,
+      "name": "You tracked down Kai and Kei and\nsuccessfully reunited them with\nMars. They'll make a new life for\nthemselves in the safety of Aletta."
+    },
+    {
+      "$id": 1206,
+      "style": 62,
+      "name": "Go meet with Kai and Kei, last seen\nin the Hidden Hunting Camp in\nGula."
+    },
+    {
+      "$id": 1207,
+      "style": 62,
+      "name": "Search for signs of Kai and Kei at the\nHidden Hunting Camp in Gula."
+    },
+    {
+      "$id": 1208,
+      "style": 62,
+      "name": "Follow the tracks that start at the\nHidden Hunting Camp in Gula."
+    },
+    {
+      "$id": 1209,
+      "style": 62,
+      "name": "Report back to Mars\nin Aletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1210,
+      "style": 57,
+      "name": "Scars of the Gargoyle"
+    },
+    {
+      "$id": 1211,
+      "style": 64,
+      "name": "The Gargoyle attack left the capital in\nruins. Help the clean-up effort to help\nget the city back to its feet!"
+    },
+    {
+      "$id": 1212,
+      "style": 64,
+      "name": "With all the rubble removed and help\nfrom gardener Bry and his son Kaym,\nthe capital regained its former scenery."
+    },
+    {
+      "$id": 1213,
+      "style": 62,
+      "name": "Clear out the rubble in Aurium,\nIira's capital."
+    },
+    {
+      "$id": 1214,
+      "style": 62,
+      "name": "Report to Nittle in Sachsum Gardens\nin Iira."
+    },
+    {
+      "$id": 1215,
+      "style": 62,
+      "name": "Consult with Bry in Sachsum Gardens\nin Iira."
+    },
+    {
+      "$id": 1216,
+      "style": 62,
+      "name": "Search Lisaria Primeval Forest in Iira\nfor signs of Bry's son."
+    },
+    {
+      "$id": 1217,
+      "style": 62,
+      "name": "Defeat the Grief Leopard in Lisaria\nPrimeval Forest in Iira."
+    },
+    {
+      "$id": 1218,
+      "style": 62,
+      "name": "Speak with Kaym in\nLisaria Primeval\nForest in Iira."
+    },
+    {
+      "$id": 1219,
+      "style": 62,
+      "name": "Report back to Nittle in Sachsum\nGardens in Iira."
+    },
+    {
+      "$id": 1220,
+      "style": 57,
+      "name": "Sweetest Tidings"
+    },
+    {
+      "$id": 1221,
+      "style": 64,
+      "name": "Superbian diplomat Vito Holleshorn\nwas to meet a Gulan envoy, but the\nenvoy never came. Search for the envoy\nin the Deep Hoary Weald."
+    },
+    {
+      "$id": 1222,
+      "style": 64,
+      "name": "You helped Hol Jarque in the Deep\nHoary Weald and secured the talks.\nThey should prove fruitful for Superbia\nand the Gulan Republic."
+    },
+    {
+      "$id": 1223,
+      "style": 62,
+      "name": "Head for the Deep Hoary Weald in Gula\nand find the Gulan special envoy."
+    },
+    {
+      "$id": 1224,
+      "style": 62,
+      "name": "Search for Hal Jarque Subordinates\nwho have gone off in search of\nMelosian Honey."
+    },
+    {
+      "$id": 1225,
+      "style": 62,
+      "name": "Defeat the Chatter Skeets to\nrescue Hal Jarque Subordinates."
+    },
+    {
+      "$id": 1226,
+      "style": 62,
+      "name": "Report back to Hol Jarque in the\nHoary Weald Camp in Gula."
+    },
+    {
+      "$id": 1227,
+      "style": 62,
+      "name": "Report back to Vito Holleshorn at\nLasqam Harbor in Gula."
+    },
+    {
+      "$id": 1228,
+      "style": 57,
+      "name": "Lighting the Way"
+    },
+    {
+      "$id": 1229,
+      "style": 64,
+      "name": "Calcedo, who guards the capital\ngates, asks you to repair the lanterns\nthat are not lit."
+    },
+    {
+      "$id": 1230,
+      "style": 64,
+      "name": "After all the unlit lanterns were\nrepaired, Calcedo was promoted and\nno longer had to guard the same\ngate as his older brother."
+    },
+    {
+      "$id": 1231,
+      "style": 62,
+      "name": "Fix the lantern at Aurium's Main Gate\nin Iira to light it."
+    },
+    {
+      "$id": 1232,
+      "style": 62,
+      "name": "Report back to Calcedo at\nAurium's Main Gate in Iira."
+    },
+    {
+      "$id": 1233,
+      "style": 62,
+      "name": "Fix the lantern in\nFormide Shopping Street\nin Iira to light it."
+    },
+    {
+      "$id": 1234,
+      "style": 62,
+      "name": "Fix the lantern in Creare Workshop\nStreet in Iira to light it."
+    },
+    {
+      "$id": 1235,
+      "style": 62,
+      "name": "Fix the lantern in Aurium Residential\nWard in Iira to light it."
+    },
+    {
+      "$id": 1236,
+      "style": 62,
+      "name": "Fix the lantern in Horreum Storage\nWard in Iira to light it."
+    },
+    {
+      "$id": 1237,
+      "style": 62,
+      "name": "Report back to Calcedo at\nAurium's Main Gate in Iira."
+    },
+    {
+      "$id": 1238,
+      "style": 57,
+      "name": "A Small Promise"
+    },
+    {
+      "$id": 1239,
+      "style": 64,
+      "name": "Milt asks you to teach him embroidery.\nGather the materials needed to stitch\nthe desired pattern onto a handkerchief."
+    },
+    {
+      "$id": 1240,
+      "style": 64,
+      "name": "Milt worked hard to overcome his\nweakness at embroidery and set an\nexample for Satahiko. Whatever the\nresult, his sincerity reached Satahiko."
+    },
+    {
+      "$id": 1241,
+      "style": 62,
+      "name": "Gather Golden Sand Cocoons in the\nQuicksand Corridor in Iira."
+    },
+    {
+      "$id": 1242,
+      "style": 62,
+      "name": "Search the grasslands of Iira and\ngather Bladed Holly."
+    },
+    {
+      "$id": 1243,
+      "style": 62,
+      "name": "Search near trees and gather\nCotton Branches in Iira."
+    },
+    {
+      "$id": 1244,
+      "style": 62,
+      "name": "Give the materials to Milt at\nDormire Inn in Iira."
+    },
+    {
+      "$id": 1245,
+      "style": 62,
+      "name": "Make camp and craft a\nGolden Land Talisman.\n(Uses Kasumi's crafting skill.)"
+    },
+    {
+      "$id": 1246,
+      "style": 62,
+      "name": "Give the Golden Land Talisman to\nMilt at Dormire Inn in Iira."
+    },
+    {
+      "$id": 1247,
+      "style": 57,
+      "name": "Manning the Gates"
+    },
+    {
+      "$id": 1248,
+      "style": 64,
+      "name": "A suspicious person has reportedly\nbeen seen on Imperial Forest Road\nnear the capital. Look for clues\nand report to Agate."
+    },
+    {
+      "$id": 1249,
+      "style": 64,
+      "name": "The uninvited visitors turned out to be\nGogols. With the attack repelled,\nAgate and Calcedo are once\nagain guarding the gate as brothers."
+    },
+    {
+      "$id": 1250,
+      "style": 62,
+      "name": "Search for signs of the\nmysterious entity's presence\non Imperial Forest Road in Iira."
+    },
+    {
+      "$id": 1251,
+      "style": 62,
+      "name": "Follow the tracks you found on\nImperial Forest Road in Iira."
+    },
+    {
+      "$id": 1252,
+      "style": 62,
+      "name": "Report back to Agate at the Main\nGates to Aurium in Iira."
+    },
+    {
+      "$id": 1253,
+      "style": 62,
+      "name": "Defeat the attacking Gogols on\nPlanus Bridge in Iira."
+    },
+    {
+      "$id": 1254,
+      "style": 57,
+      "name": "Stubborn Ones' Shelter"
+    },
+    {
+      "$id": 1255,
+      "style": 64,
+      "name": "The people who have stayed behind in\nAurium will need a shelter to escape\nto in case of an emergency. Speak to\nbuilder Zain to see if he can help."
+    },
+    {
+      "$id": 1256,
+      "style": 64,
+      "name": "The shelter was completed\nuneventfully, using the basement\nof the inn, bringing Laura newfound\nhope for the future of Iira."
+    },
+    {
+      "$id": 1257,
+      "style": 62,
+      "name": "Speak with Zain in Creare Workshop\nStreet in Iira."
+    },
+    {
+      "$id": 1258,
+      "style": 62,
+      "name": "Speak with Dio in\nFormide Shopping\nStreet in Iira."
+    },
+    {
+      "$id": 1259,
+      "style": 62,
+      "name": "Acquire information about Rita at\nLasqam Harbor, Gula."
+    },
+    {
+      "$id": 1260,
+      "style": 62,
+      "name": "Search for Rita, who's attempting to\nclimb Gula's neck."
+    },
+    {
+      "$id": 1261,
+      "style": 62,
+      "name": "Head for Creare Workshop Street, Iira\nto meet Zain."
+    },
+    {
+      "$id": 1262,
+      "style": 62,
+      "name": "Gather the materials for Zain and\nbring them to him at Dormire Inn, Iira\nso he can complete the shelter."
+    },
+    {
+      "$id": 1263,
+      "style": 62,
+      "name": "Use the Pestronella Oil."
+    },
+    {
+      "$id": 1264,
+      "style": 57,
+      "name": "What Goes Around"
+    },
+    {
+      "$id": 1265,
+      "style": 64,
+      "name": "Ask around the capital to work out who\nkilled Jericho's sister. You know they\nlead the Bloody Lobsters, and may be\nlying low in Iira somewhere..."
+    },
+    {
+      "$id": 1266,
+      "style": 64,
+      "name": "Dio confessed his guilty past and was\nready to die, but Jericho instead asked\nhim to end the Bloody Lobsters for\ngood, as a means of atonement."
+    },
+    {
+      "$id": 1267,
+      "style": 62,
+      "name": "Gather information on the\nBloody Lobsters around Aurium,\nIira's royal capital."
+    },
+    {
+      "$id": 1268,
+      "style": 62,
+      "name": "Report back to Jericho in Aurium\nResidential Ward, Iira."
+    },
+    {
+      "$id": 1269,
+      "style": 62,
+      "name": "Head to Dio's place\nin Formide Shopping\nStreet, Iira."
+    },
+    {
+      "$id": 1270,
+      "style": 62,
+      "name": "Stop Jericho's sudden assault at\nFormide Shopping Street, Iira."
+    },
+    {
+      "$id": 1271,
+      "style": 57,
+      "name": "The Travails of War"
+    },
+    {
+      "$id": 1272,
+      "style": 64,
+      "name": "The Resistance Army camp is under a\nsurprise monster attack. Defeat all the\nenemies and defend the garrison."
+    },
+    {
+      "$id": 1273,
+      "style": 64,
+      "name": "You drove off the monsters from\nLiberalitas and daily life returned to\nthe Resistance Army camp. Support\nfor Adel grew even stronger."
+    },
+    {
+      "$id": 1274,
+      "style": 62,
+      "name": "Defeat the Travel Unin in\nAletta Harbor in Iira."
+    },
+    {
+      "$id": 1275,
+      "style": 62,
+      "name": "Defeat the Travel Libra at\nAletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1276,
+      "style": 62,
+      "name": "Defeat the Travel Laias at\nAletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1277,
+      "style": 62,
+      "name": "Return to Noel at\nAletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1278,
+      "style": 57,
+      "name": "Seiryuu's Request"
+    },
+    {
+      "$id": 1279,
+      "style": 64,
+      "name": "Iiran soldier Tarath says that Seiryuu\nwants to talk to you. Head for Iira's\nWomb and see what's up."
+    },
+    {
+      "$id": 1280,
+      "style": 64,
+      "name": "Freed from his plight, Seiryuu left\nwearing a broad grin. The incident\nsupposedly involved a woman, but the\ntruth of the matter remains unsolved..."
+    },
+    {
+      "$id": 1281,
+      "style": 62,
+      "name": "Go meet Seiryuu, who is waiting\nin Iira's Womb."
+    },
+    {
+      "$id": 1282,
+      "style": 62,
+      "name": "Defeat the Tenax Ekidno near\nIira's Womb."
+    },
+    {
+      "$id": 1283,
+      "style": 62,
+      "name": "Report back to Seiryuu in\nIira's Womb."
+    },
+    {
+      "$id": 1284,
+      "style": 57,
+      "name": "Dana Desert Legend"
+    },
+    {
+      "$id": 1285,
+      "style": 64,
+      "name": "You came across a fortune-hunting\nadventurer collapsed in the Dana\nDesert. Help her out by offering\nher some water."
+    },
+    {
+      "$id": 1286,
+      "style": 64,
+      "name": "You modified the great Gold-Collecting\nMachine and ran it through Dana\nDesert. It only gathered a paltry sum,\nbut chasing the dream was fun."
+    },
+    {
+      "$id": 1287,
+      "style": 64,
+      "name": "Marco modified the Golden Scorpion\nand ran it through Dana Desert.\nIt gathered many valuable Dana\nScalers, proving the legend true."
+    },
+    {
+      "$id": 1288,
+      "style": 62,
+      "name": "Find items with a high water content\nand deliver them to Parvi near the\nGolden Twin Mesa in Iira."
+    },
+    {
+      "$id": 1289,
+      "style": 62,
+      "name": "Have Yuugo tinker with the Fortune-\nFindermatron 4000, or find a skilled\nmachinist in the capital, Aurium."
+    },
+    {
+      "$id": 1290,
+      "style": 62,
+      "name": "Hand the completed device over to\nParvi at Golden Twin Mesa, Iira."
+    },
+    {
+      "$id": 1291,
+      "style": 62,
+      "name": "Check the Collection Point that the\ndevice made near Golden Twin Mesa,\nIira."
+    },
+    {
+      "$id": 1292,
+      "style": 62,
+      "name": "Report back to Parvi near Golden\nTwin Mesa, Iira."
+    },
+    {
+      "$id": 1293,
+      "style": 57,
+      "name": "Community Spirit"
+    },
+    {
+      "$id": 1294,
+      "style": 64,
+      "name": "Furia is too frail to evacuate. Obtain\nDragon Incense from Invidia for\nher; you may need help from the\nResistance Army."
+    },
+    {
+      "$id": 1295,
+      "style": 64,
+      "name": "Many people you met joined forces\nto obtain Dragon Incense, and Furia\nrecovered. Laura and the others felt\nthe power of people united."
+    },
+    {
+      "$id": 1296,
+      "style": 62,
+      "name": "Talk to Veronica at\nAletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1297,
+      "style": 62,
+      "name": "Talk to Maquia at Yajika Harbor\nin Iira."
+    },
+    {
+      "$id": 1298,
+      "style": 62,
+      "name": "Stay at a camp or Dormire Inn and wait\nfor the dispatched unit to return."
+    },
+    {
+      "$id": 1299,
+      "style": 62,
+      "name": "Talk to Veronica at Aletta Harbor\nin Iira and see if the team has\nmade it back yet."
+    },
+    {
+      "$id": 1300,
+      "style": 62,
+      "name": "Report back to Marena in the Aurium\nResidential Ward in Iira."
+    },
+    {
+      "$id": 1301,
+      "style": 57,
+      "name": "Cooking Contest"
+    },
+    {
+      "$id": 1302,
+      "style": 64,
+      "name": "Adel has proposed a cooking contest.\nParticipants include the eminent chef\nKozel, Shin, and even Hikari! Who\nwill win over the judges' tastebuds?"
+    },
+    {
+      "$id": 1303,
+      "style": 64,
+      "name": "The winner of the first Adel Cup\nCooking Contest was Shin, Iira's secret\ntreasure. Even now, you made another\nprecious memory together."
+    },
+    {
+      "$id": 1304,
+      "style": 64,
+      "name": "The winner of the first Adel Cup Cooking\nContest was Kozel, manager of Café\nAmicus. Even now, you made another\nprecious memory together."
+    },
+    {
+      "$id": 1305,
+      "style": 62,
+      "name": "Head for the basement of Dormire\nInn in Iira and decide on the\ndish that's to be presented."
+    },
+    {
+      "$id": 1306,
+      "style": 62,
+      "name": "Set up camp and make\nShin's Special Tartari.\n(Uses Shin's crafting skill.)"
+    },
+    {
+      "$id": 1307,
+      "style": 62,
+      "name": "Set up camp and make\nWingberry Cake.\n(Uses Shin's crafting skill.)"
+    },
+    {
+      "$id": 1308,
+      "style": 62,
+      "name": "Speak to Kozel in the basement of\nDormire Inn, Iira, to take part in the\ncooking contest."
+    },
+    {
+      "$id": 1309,
+      "style": 57,
+      "name": "Boy and Bug Collecting"
+    },
+    {
+      "$id": 1310,
+      "style": 64,
+      "name": "The insect-loving Marco has asked you\nto help him with his bug collecting."
+    },
+    {
+      "$id": 1311,
+      "style": 64,
+      "name": "Marco seems satisfied with the bugs\nyou found, and hopes to use them for\na medicine. He's also set his sights on\na new invention..."
+    },
+    {
+      "$id": 1312,
+      "style": 62,
+      "name": "Collect insects at different\nlocations, and then give them to Marco\nnear Creare Workshop Street, Iira."
+    },
+    {
+      "$id": 1313,
+      "style": 57,
+      "name": "Bring Back That Fish"
+    },
+    {
+      "$id": 1314,
+      "style": 64,
+      "name": "The Gargoyle attack wiped out\nthe farmed fish. You were asked to\nhelp gather more fish."
+    },
+    {
+      "$id": 1315,
+      "style": 64,
+      "name": "The lively swimming fish encouraged\nFisshi, who realized that staying positive\nis the most important part of rebuilding."
+    },
+    {
+      "$id": 1316,
+      "style": 62,
+      "name": "Collect fish from different lands\nand bring them to Fisshi in Horreum\nStorage Ward, Iira."
+    },
+    {
+      "$id": 1317,
+      "style": 62,
+      "name": "Collect even more fish from different\nlands and bring them to Fisshi in\nHorreum Storage Ward, Iira."
+    },
+    {
+      "$id": 1318,
+      "style": 57,
+      "name": "The Iiran Inventor"
+    },
+    {
+      "$id": 1319,
+      "style": 64,
+      "name": "The inventor Gennai is hoping to\ncreate a new invention, and he needs\nyour help to collect parts for it."
+    },
+    {
+      "$id": 1320,
+      "style": 64,
+      "name": "The parts you collected allowed\nGennai to complete his inventions.\nHe intends to keep creating for as\nlong as his body holds out..."
+    },
+    {
+      "$id": 1321,
+      "style": 62,
+      "name": "Collect machine parts around Iira\nand then bring them to Gennai in\nFormide Shopping Street, Iira."
+    },
+    {
+      "$id": 1322,
+      "style": 62,
+      "name": "Collect machine parts in Gula\nand then bring them to Gennai in\nFormide Shopping Street, Iira."
+    },
+    {
+      "$id": 1323,
+      "style": 57,
+      "name": "Aspiring Performer"
+    },
+    {
+      "$id": 1324,
+      "style": 64,
+      "name": "Rikoko, a Nopon skilled with the flute,\nwants to join the traveling performers.\nAsk them on Rikoko's behalf."
+    },
+    {
+      "$id": 1325,
+      "style": 64,
+      "name": "By correctly conveying Rikoko's\nfeelings and the principles of traveling\nperformers, Rikoko was able to\njoin Azzaro's troupe."
+    },
+    {
+      "$id": 1326,
+      "style": 62,
+      "name": "Talk to Azzaro in Sachsum Gardens,\nIira."
+    },
+    {
+      "$id": 1327,
+      "style": 62,
+      "name": "Talk to Rikoko at Piscatio Bridge,\nIira."
+    },
+    {
+      "$id": 1328,
+      "style": 57,
+      "name": "ユニーク討伐コンプリート"
+    },
+    {
+      "$id": 1329,
+      "style": 64,
+      "name": "モンスター図鑑を編集しているお婆さん\n各地でユニークモンスターを倒して\n図鑑完成の手伝いをしよう（仮）"
+    },
+    {
+      "$id": 1330,
+      "style": 64,
+      "name": "各地でユニークモンスターを討伐し\n図鑑が完成した（仮）"
+    },
+    {
+      "$id": 1331,
+      "style": 62,
+      "name": "各地でユニークモンスターを\nすべて討伐しよう（仮）"
+    },
+    {
+      "$id": 1332,
+      "style": 62,
+      "name": "モンスター婆さんに\n報告しよう（仮）"
+    },
+    {
+      "$id": 1333,
+      "style": 57,
+      "name": "Hungry Gluttonous Nopon"
+    },
+    {
+      "$id": 1334,
+      "style": 64,
+      "name": "Morimori, the biggest eater in the\ncapital, is very hungry. Give Morimori\nfood until satisfied."
+    },
+    {
+      "$id": 1335,
+      "style": 64,
+      "name": "After overeating and growing larger,\nMorimori began hoping for a job\nthat uses the food knowledge gained\nfrom eating so much."
+    },
+    {
+      "$id": 1336,
+      "style": 62,
+      "name": "Feed Morimori food\nin Formide Shopping\nStreet, Iira."
+    },
+    {
+      "$id": 1337,
+      "style": 62,
+      "name": "Feed Morimori\nsweets in Formide\nShopping Street, Iira."
+    },
+    {
+      "$id": 1338,
+      "style": 57,
+      "name": "Short 100,000 Gold"
+    },
+    {
+      "$id": 1339,
+      "style": 64,
+      "name": "Momimi's vases from Pignerator Trade\nGuild just will not sell. Help her raise\nsome money - she claims she only\nneeds 100,000G more."
+    },
+    {
+      "$id": 1340,
+      "style": 64,
+      "name": "Momimi left to lend the 1,000,000G\nto someone large-bodied. Apparently\nthe money will be offered to\nsomeone else."
+    },
+    {
+      "$id": 1341,
+      "style": 62,
+      "name": "Sell valuable Collectibles to Momimi\nin Horreum Storage Ward, Iira, and\nsave up to 500 MnP."
+    },
+    {
+      "$id": 1342,
+      "style": 57,
+      "name": "Husband Won't Return"
+    },
+    {
+      "$id": 1343,
+      "style": 64,
+      "name": "Fisherwoman Chico is on the lookout\nfor her missing husband. If you see him,\nshe wants you to tell him to come back\nto Iira."
+    },
+    {
+      "$id": 1344,
+      "style": 64,
+      "name": "Anglen returned safely to Iira but\nalready left for a new fishing spot.\nStill, the bond between this married\ncouple seems certain."
+    },
+    {
+      "$id": 1345,
+      "style": 62,
+      "name": "Search for Chico's husband around\nCoolley Lake, Gula."
+    },
+    {
+      "$id": 1346,
+      "style": 62,
+      "name": "Talk to Chico in\nFormide Shopping\nStreet, Iira."
+    },
+    {
+      "$id": 1347,
+      "style": 57,
+      "name": "Best Superbian Sniper"
+    },
+    {
+      "$id": 1348,
+      "style": 64,
+      "name": "Sharpshooter Bazuain of the Superbian\nImperial Army is spoiling for a real\nfight. Give him one."
+    },
+    {
+      "$id": 1349,
+      "style": 64,
+      "name": "Defeated by the strength of Laura and\nthe others' bonds, Bazuain now aims to\nbecome a soldier admired by comrades,\ncitizens, and future Superbirians."
+    },
+    {
+      "$id": 1350,
+      "style": 62,
+      "name": "Defeat Bazuain at Lasqam Harbor,\nGula."
+    },
+    {
+      "$id": 1351,
+      "style": 62,
+      "name": "Talk to Bazuain at Lasqam Harbor,\nGula."
+    },
+    {
+      "$id": 1352,
+      "style": 57,
+      "name": "A Taste of Home"
+    },
+    {
+      "$id": 1353,
+      "style": 64,
+      "name": "A ship mechanic whose travels\nhave taken him far is beginning to get\nhomesick. Cook him up something to\nremind him of his hometown, Chirsones."
+    },
+    {
+      "$id": 1354,
+      "style": 64,
+      "name": "Shin's cooking was too refined for\nHassan's discerning palate, but Hikari\nmanaged to remind him of home with\nher distinctly \"original\" flavor."
+    },
+    {
+      "$id": 1355,
+      "style": 62,
+      "name": "Prepare the meal that Hassan\ntaught you."
+    },
+    {
+      "$id": 1356,
+      "style": 62,
+      "name": "Give the meal to\nHassan at Lasqam\nHarbor, Gula."
+    },
+    {
+      "$id": 1357,
+      "style": 62,
+      "name": "Make a meal that Hassan would\napprove of."
+    },
+    {
+      "$id": 1358,
+      "style": 62,
+      "name": "Give the meal to\nHassan at Lasqam\nHarbor, Gula."
+    },
+    {
+      "$id": 1359,
+      "style": 57,
+      "name": "Ancient Sealstone"
+    },
+    {
+      "$id": 1360,
+      "style": 64,
+      "name": "Isabella says the adventurer Blue Kevi\nSeal once sealed away a monster\nand treasure. Search Harijii Hills\nand obtain the treasure."
+    },
+    {
+      "$id": 1361,
+      "style": 64,
+      "name": "Isabella was glad to hear you obtained\nBlue Kevi Seal's treasure. There are\nother Sealstones, so find them, defeat\nthe monsters, and claim the treasure."
+    },
+    {
+      "$id": 1362,
+      "style": 62,
+      "name": "Search around Harijii Hills in Iira,\nfind the Sealstone, break the seal,\nand obtain the treasure."
+    },
+    {
+      "$id": 1363,
+      "style": 62,
+      "name": "Report back to Isabella in Iira's\nYajika Harbor."
+    },
+    {
+      "$id": 1364,
+      "style": 57,
+      "name": "Treasure Map's Truth"
+    },
+    {
+      "$id": 1365,
+      "style": 64,
+      "name": "Sahel bought a treasure map from\na Nopon, but failed to find anything.\nShe wants you to go back and check in\ncase there was something she missed."
+    },
+    {
+      "$id": 1366,
+      "style": 64,
+      "name": "There was indeed treasure buried\nunderground. You brought it back to\nSahel to prove the map's veracity,\nand that was enough for her."
+    },
+    {
+      "$id": 1367,
+      "style": 62,
+      "name": "Search for treasure on the Golden\nTwin Mesa, Iira."
+    },
+    {
+      "$id": 1368,
+      "style": 62,
+      "name": "Report back to Sahel at the\nDana Desert camp in Iira."
+    },
+    {
+      "$id": 1369,
+      "style": 57,
+      "name": "For Lack of a Hunter"
+    },
+    {
+      "$id": 1370,
+      "style": 64,
+      "name": "The Feris in the region of Haiber Village\nhave been getting aggressive of late.\nGather some Feris Beastmeat in Baus's\nstead."
+    },
+    {
+      "$id": 1371,
+      "style": 64,
+      "name": "You collected the Feris Beastmeat and\nhanded it over to Baus. As thanks, he\nfurtively taught you one of innkeeper\nTeo's closely-guarded recipes."
+    },
+    {
+      "$id": 1372,
+      "style": 62,
+      "name": "Collect Feris Beastmeat from Soul\nFeris and the like from around\nHaiber Village, Iira."
+    },
+    {
+      "$id": 1373,
+      "style": 62,
+      "name": "Hand the Feris Beastmeat over to\nBaus in Haiber Village, Iira."
+    },
+    {
+      "$id": 1374,
+      "style": 57,
+      "name": "Parts & Search Machine"
+    },
+    {
+      "$id": 1375,
+      "style": 64,
+      "name": "Adventurer Zenma asks you to gather\na Bat Hinge and Scarlet Coil because\nthe Search Machine is broken."
+    },
+    {
+      "$id": 1376,
+      "style": 64,
+      "name": "Zenma is pleased with the parts you\nfound for him. Now he should be\nable to retrieve all sorts of useful\nmechanical odds and ends."
+    },
+    {
+      "$id": 1377,
+      "style": 62,
+      "name": "Make camp and craft a\nSearch Machine - Silver. (Can be made\nwith Yuugo's crafting.)"
+    },
+    {
+      "$id": 1378,
+      "style": 62,
+      "name": "Gather a Bat Hinge in Gula."
+    },
+    {
+      "$id": 1379,
+      "style": 62,
+      "name": "Gather a Scarlet Coil in Gula."
+    },
+    {
+      "$id": 1380,
+      "style": 62,
+      "name": "Hand over the machine parts to\nZenma at the Hidden Hunting Camp,\nGula."
+    },
+    {
+      "$id": 1381,
+      "style": 57,
+      "name": "Miasma Investigator"
+    },
+    {
+      "$id": 1382,
+      "style": 64,
+      "name": "Hakushi, who researches ether\nand Divine Beasts, asks you to\ndefeat enemies blocking the way\nto the research site."
+    },
+    {
+      "$id": 1383,
+      "style": 64,
+      "name": "You defeated the Espina Feris and told\nHakushi that the coast is clear. He can\nnow continue his research into ether\nand Divine Beasts in relative peace."
+    },
+    {
+      "$id": 1384,
+      "style": 62,
+      "name": "Defeat the Espina Feris that are\ninterfering with Hakushi's research in\nGula."
+    },
+    {
+      "$id": 1385,
+      "style": 62,
+      "name": "Report back to Hakushi at the\nLakeshore Encampment in Gula."
+    },
+    {
+      "$id": 1386,
+      "style": 57,
+      "name": "Punpun's Rival"
+    },
+    {
+      "$id": 1387,
+      "style": 64,
+      "name": "Adventurer Punpun loves napping and\nasks you to punish the monsters that\ntook Punpun's favorite spot."
+    },
+    {
+      "$id": 1388,
+      "style": 64,
+      "name": "You showed the monsters a lesson\nand Punpun was very grateful for the\nassistance. Now she can return safely\nto her favorite napping spot."
+    },
+    {
+      "$id": 1389,
+      "style": 62,
+      "name": "Defeat Miiresu Shrubs at Coolley\nLake, Gula."
+    },
+    {
+      "$id": 1390,
+      "style": 62,
+      "name": "Report back to Punpun at\nCoolley Lake, Gula."
+    },
+    {
+      "$id": 1391,
+      "style": 57,
+      "name": "What Bars the Way"
+    },
+    {
+      "$id": 1392,
+      "style": 64,
+      "name": "Ether miasma on Yuukara Mountain\nPath is drawing monsters in. Defeat\nthem before more gather, then\npurify the miasma."
+    },
+    {
+      "$id": 1393,
+      "style": 64,
+      "name": "The ether miasma was dispersed thanks\nto Kasumi's powers. Future miasmas\nshould prove no problem either."
+    },
+    {
+      "$id": 1394,
+      "style": 62,
+      "name": "Defeat the Cloud Spides around\nthe ether miasma on Yuukara Mountain\nPath in Iira."
+    },
+    {
+      "$id": 1395,
+      "style": 62,
+      "name": "Defeat the additional Cloud Spides\nthat appeared on Yuukara Mountain\nPath in Iira."
+    },
+    {
+      "$id": 1396,
+      "style": 62,
+      "name": "Use Kasumi's power to disperse the\nether miasma on Yuukara Mountain\nPath in Iira."
+    },
+    {
+      "$id": 1397,
+      "style": 57,
+      "name": "Power Unimaginable"
+    },
+    {
+      "$id": 1398,
+      "style": 64,
+      "name": "Reports have surfaced pointing to\npurported traces of Metsu's activity\naround Valhum Hill."
+    },
+    {
+      "$id": 1399,
+      "style": 64,
+      "name": "The traces belonged to a Despair\nLibra. After confirming this, Adel and\nthe others decided to head for the\nRoyal Ship at Lasqam Harbor."
+    },
+    {
+      "$id": 1400,
+      "style": 62,
+      "name": "Head for Valhum Hill in Gula and\ninvestigate the area for signs of\nMetsu's destruction."
+    },
+    {
+      "$id": 1401,
+      "style": 62,
+      "name": "Defeat the Despair Libra at\nValhum Hill in Gula."
+    },
+    {
+      "$id": 1402,
+      "style": 57,
+      "name": "Where's the Boy Gone?"
+    },
+    {
+      "$id": 1403,
+      "style": 64,
+      "name": "A Gulan boy has been sighted near\nthe campsite at Seigle Hills. He may be\na survivor from Torigo Village - let's\ngo ahead and find him!"
+    },
+    {
+      "$id": 1404,
+      "style": 64,
+      "name": "The Gulan siblings Kai and Kei knew\nLaura's mother, Ranea. They were\ninvited to Superbia, but seem to be\nwaiting for their father."
+    },
+    {
+      "$id": 1405,
+      "style": 62,
+      "name": "Head for the campsite at Seigle Hills\nin Gula and look for the boy."
+    },
+    {
+      "$id": 1406,
+      "style": 62,
+      "name": "Find Kai's sister, who supposedly\nwent to see the Royal Ship moored in\nLasqam Harbor."
+    },
+    {
+      "$id": 1407,
+      "style": 62,
+      "name": "Return to Kai, who's waiting at\nLasqam Harbor."
+    },
+    {
+      "$id": 1408,
+      "style": 57,
+      "name": "Resistance Food Problem"
+    },
+    {
+      "$id": 1409,
+      "style": 64,
+      "name": "Aletta does not have enough food\nto feed the large Resistance Army.\nSpeak with Ivan, who handles food,\nand solve the problem."
+    },
+    {
+      "$id": 1410,
+      "style": 64,
+      "name": "You have gathered all the foodstuffs\nthat Ivan asked for. With this, the\nmilitia's supply problems should be\nresolved, for now."
+    },
+    {
+      "$id": 1411,
+      "style": 62,
+      "name": "Speak to Ivan at\nAletta Resistance Garrison in Iira."
+    },
+    {
+      "$id": 1412,
+      "style": 62,
+      "name": "Search the shores of Iira and\ngather Grimdark Crabs."
+    },
+    {
+      "$id": 1413,
+      "style": 62,
+      "name": "Defeat monsters like the Soul Feris\nand gather Feris Beastmeat."
+    },
+    {
+      "$id": 1414,
+      "style": 62,
+      "name": "Search the grasslands of Iira and\ngather Milky Nuts."
+    },
+    {
+      "$id": 1415,
+      "style": 62,
+      "name": "Search the grasslands of Iira and\ngather Weeping Wheat."
+    },
+    {
+      "$id": 1416,
+      "style": 62,
+      "name": "Hand in the gathered foodstuffs\nto Ivan at Aletta Resistance\nGarrison in Iira."
+    },
+    {
+      "$id": 1417,
+      "style": 57,
+      "name": "Reto Bridge Restoration"
+    },
+    {
+      "$id": 1418,
+      "style": 64,
+      "name": "Reconstruction work on Reto Bridge,\nwhich leads to the capital, is being\nhindered by Occupied Gogols.\nDefeat them to clear the way."
+    },
+    {
+      "$id": 1419,
+      "style": 64,
+      "name": "You defeated the Occupied Gogols.\nNow repairs to Reto Bridge can\nmove forward."
+    },
+    {
+      "$id": 1420,
+      "style": 62,
+      "name": "Travel beyond Rakina Plains in\nIira and head for Reto Bridge."
+    },
+    {
+      "$id": 1421,
+      "style": 62,
+      "name": "Defeat the Occupied Gogols that are\npreventing Iira's Reto Bridge from\nbeing rebuilt."
+    },
+    {
+      "$id": 1422,
+      "style": 57,
+      "name": "Desert Crossing Prep"
+    },
+    {
+      "$id": 1423,
+      "style": 64,
+      "name": "You need desert medicine to cross\nDana Desert or you will contract\ndesert fever. Gather the ingredients\nand have Montos make it."
+    },
+    {
+      "$id": 1424,
+      "style": 64,
+      "name": "Montos made you the desert medicine,\nand the preparations for crossing the\nDana Desert are now complete.\nNext stop - Aurium, the royal capital!"
+    },
+    {
+      "$id": 1425,
+      "style": 62,
+      "name": "Search the grasslands of Iira and\ngather Melanicarrots."
+    },
+    {
+      "$id": 1426,
+      "style": 62,
+      "name": "Defeat monsters such as Sommeil Nests\nand gather Nest Extract."
+    },
+    {
+      "$id": 1427,
+      "style": 62,
+      "name": "Return to Aletta Resistance\nGarrison in Iira and have Montos\nmake the desert-crossing medicine."
+    },
+    {
+      "$id": 1428,
+      "style": 62,
+      "name": "Make camp and craft Pestronella Oil\nto give to Ivan.\n(Uses Kagutsuchi's crafting skill.)"
+    },
+    {
+      "$id": 1429,
+      "style": 62,
+      "name": "Give the completed Golden Scorpion to\nParvi, who's waiting near Golden Twin\nMesa in Iira."
+    },
+    {
+      "$id": 1430,
+      "style": 62,
+      "name": "Investigate the collection point\nuncovered by the Golden Scorpion near\nGolden Twin Mesa in Iira."
+    },
+    {
+      "$id": 1431,
+      "style": 57,
+      "name": "Driver Coaching"
+    },
+    {
+      "$id": 1432,
+      "style": 64,
+      "name": "Gororo, a veteran warrior, decided to\ntest you. Break five foes, then inflict\nDown on them with Driver Combos."
+    },
+    {
+      "$id": 1433,
+      "style": 64,
+      "name": "You've passed Gororo's trial, leading\nhim to recognize your potential.\nUnfortunately, this test was not the\nlast one..."
+    },
+    {
+      "$id": 1434,
+      "style": 62,
+      "name": "Inflict Break, then Down, on 5 foes.\n(Down must be inflicted by the\ncharacter you're controlling.)"
+    },
+    {
+      "$id": 1435,
+      "style": 62,
+      "name": "Report back to Gororo in Yajika\nHarbor, Iira."
+    },
+    {
+      "$id": 1436,
+      "style": 57,
+      "name": "Further Driver Coaching"
+    },
+    {
+      "$id": 1437,
+      "style": 64,
+      "name": "Gororo, a veteran warrior, decided to\ntest you further. Perform three full\nDriver Combos to prove yourself."
+    },
+    {
+      "$id": 1438,
+      "style": 64,
+      "name": "You've passed Gororo's second trial,\nleading him to recognize your expertise.\nOnce his preparations are complete,\nyou will doubtless meet again."
+    },
+    {
+      "$id": 1439,
+      "style": 62,
+      "name": "Perform a full Driver Combo 3 times.\n(You have to inflict Smash with the\ncharacter you're controlling.)"
+    },
+    {
+      "$id": 1440,
+      "style": 62,
+      "name": "Report back to Gororo\nin Aletta Resistance Garrison, Iira."
+    },
+    {
+      "$id": 1441,
+      "style": 57,
+      "name": "Blade Coaching"
+    },
+    {
+      "$id": 1442,
+      "style": 64,
+      "name": "Kurogane, a veteran Blade, decided to\ntest you. Reach the second stage of a\nBlade Combo 5 times to prove yourself."
+    },
+    {
+      "$id": 1443,
+      "style": 64,
+      "name": "You've successfully completed the trial,\nbut it seems that Kurogane isn't done\ntesting you yet. Why not try his next\nchallenge on for size?"
+    },
+    {
+      "$id": 1444,
+      "style": 62,
+      "name": "Reach the second stage of a\nBlade Combo 5 times."
+    },
+    {
+      "$id": 1445,
+      "style": 62,
+      "name": "Report back to Kurogane in\nLasqam Harbor, Gula."
+    },
+    {
+      "$id": 1446,
+      "style": 57,
+      "name": "Further Blade Coaching"
+    },
+    {
+      "$id": 1447,
+      "style": 64,
+      "name": "Kurogane, a veteran Blade, decided to\ntest you some more. Reach the third\nstage of a Blade Combo 5 times to\nprove yourself."
+    },
+    {
+      "$id": 1448,
+      "style": 64,
+      "name": "With the second trial down, you have\nbeen recognized as worthy. Kurogane\npromises to put a good word in for you\nonce he joins his partner in Aletta."
+    },
+    {
+      "$id": 1449,
+      "style": 62,
+      "name": "Reach the third stage in a Blade Combo\n5 times."
+    },
+    {
+      "$id": 1450,
+      "style": 62,
+      "name": "Report back to Kurogane in\nLasqam Harbor, Gula."
+    },
+    {
+      "$id": 1451,
+      "style": 57,
+      "name": "Fusion Coaching"
+    },
+    {
+      "$id": 1452,
+      "style": 64,
+      "name": "Gororo and Kurogane have one final\ntest for you. Perform a Fusion Combo\n10 times to prove yourself."
+    },
+    {
+      "$id": 1453,
+      "style": 64,
+      "name": "The dangerous job had vanished\nbecause of Gororo's carelessness, but\nafter many tests Laura and the others\nformed a deep bond with them."
+    },
+    {
+      "$id": 1454,
+      "style": 62,
+      "name": "Perform a Fusion Combo 10 times."
+    },
+    {
+      "$id": 1455,
+      "style": 62,
+      "name": "Report back to Gororo\nin Aletta Resistance Garrison, Iira."
+    },
+    {
+      "$id": 1456,
+      "style": 62,
+      "name": "Collect slate pieces scattered around\nIira and offer them at the Seal\nPedestal."
+    }
+  ]
+}

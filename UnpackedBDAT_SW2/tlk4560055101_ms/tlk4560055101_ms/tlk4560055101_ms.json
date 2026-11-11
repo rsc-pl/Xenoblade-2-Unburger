@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45600551_01_msg0001",
+      "style": 84,
+      "name": "This is a storage area for goods to\nbe transported into Alba Margen."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45600551_01_msg0002",
+      "style": 84,
+      "name": "Superbia's main exports are salvaged\nmaterials and manufactured goods."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45600551_01_msg0003",
+      "style": 84,
+      "name": "Our food, though, is mostly imported.\nWithout the money our tech brings in,\nwe'd barely be able to feed ourselves."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45600551_01_msg0004",
+      "style": 84,
+      "name": "There's always a ton of imported\ngoods sitting around here, ready\nto be carried into the city."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45600551_01_msg0005",
+      "style": 84,
+      "name": "The freight elevator needs permission\nto use, but the personnel elevator\nis open to the public."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45600551_01_msg0006",
+      "style": 84,
+      "name": "Don't hang around somewhere this dull.\nHurry on to the capital."
+    }
+  ]
+}

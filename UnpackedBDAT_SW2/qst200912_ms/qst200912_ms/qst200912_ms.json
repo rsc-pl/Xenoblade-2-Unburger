@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200912_msg001",
+      "style": 84,
+      "name": "Thanks for calling Otto-san for me!"
+    },
+    {
+      "$id": 2,
+      "label": "qst200912_msg002",
+      "style": 84,
+      "name": "Thanks to that, the windmill is\nfixed and we can grind flour again."
+    },
+    {
+      "$id": 3,
+      "label": "qst200912_msg003",
+      "style": 84,
+      "name": "I'd like to say we'll reopen tomorrow,\nbut there's still a problem."
+    },
+    {
+      "$id": 4,
+      "label": "qst200912_msg004",
+      "style": 84,
+      "name": "The shop is repaired, but we don't\nhave the ingredients to make bread."
+    },
+    {
+      "$id": 5,
+      "label": "qst200912_msg005",
+      "style": 84,
+      "name": "Thanks to the Armu,\neverything was ruined."
+    },
+    {
+      "$id": 6,
+      "label": "qst200912_msg007",
+      "style": 84,
+      "name": "A merchant named Kupon should be\ndelivering the ingredients..."
+    },
+    {
+      "$id": 7,
+      "label": "qst200912_msg008",
+      "style": 84,
+      "name": "I don't know where he's gotten to.\nHe still hasn't arrived, even though\nit's past the agreed time."
+    },
+    {
+      "$id": 8,
+      "label": "qst200912_msg009",
+      "style": 84,
+      "name": "Could he have had an\naccident on the way...?"
+    },
+    {
+      "$id": 9,
+      "label": "qst200912_msg010",
+      "style": 84,
+      "name": "What?! You met Kupon-san?!"
+    },
+    {
+      "$id": 10,
+      "label": "qst200912_msg011",
+      "style": 84,
+      "name": "You'll go and get Kupon-san?"
+    },
+    {
+      "$id": 11,
+      "label": "qst200912_msg012",
+      "style": 84,
+      "name": "I see... That's very helpful."
+    },
+    {
+      "$id": 12,
+      "label": "qst200912_msg013",
+      "style": 84,
+      "name": "The area around Hushview Bridge\nis dangerous lately... Be very\ncareful when you go."
+    },
+    {
+      "$id": 13,
+      "label": "qst200912_msg014",
+      "style": 84,
+      "name": "You saw Kupon-san near\nHushview Bridge, right? I\nhope he's still nearby..."
+    },
+    {
+      "$id": 14,
+      "label": "qst200912_msg015",
+      "style": 84,
+      "name": "In any case, be careful."
+    }
+  ]
+}

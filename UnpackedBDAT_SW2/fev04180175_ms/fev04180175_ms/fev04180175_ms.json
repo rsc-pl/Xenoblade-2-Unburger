@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev04_180_175_msg0001",
+      "style": 84,
+      "name": "Waaait, mooooo!!"
+    },
+    {
+      "$id": 2,
+      "label": "fev04_180_175_msg0002",
+      "style": 84,
+      "name": "Master..."
+    },
+    {
+      "$id": 3,
+      "label": "fev04_180_175_msg0003",
+      "style": 84,
+      "name": "We can't let Kiku get away, mo!! Hana\nwill chase at full speed too, mo!"
+    }
+  ]
+}

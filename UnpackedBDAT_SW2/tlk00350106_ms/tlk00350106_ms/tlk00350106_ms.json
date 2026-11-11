@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk003501_02_msg0001",
+      "style": 84,
+      "name": "Invidian cuisine may look a bit\nweird, but it's delicious."
+    },
+    {
+      "$id": 2,
+      "label": "tlk003501_02_msg0002",
+      "style": 84,
+      "name": "And then there's Serios Tea after a\nmeal. Nothing beats that elegant\nmoment."
+    },
+    {
+      "$id": 3,
+      "label": "tlk003501_02_msg0003",
+      "style": 84,
+      "name": "What's with that surprised look?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk003501_02_msg0004",
+      "style": 84,
+      "name": "Just like Invidian cuisine, I may\nnot look it, but I'm refined too."
+    }
+  ]
+}

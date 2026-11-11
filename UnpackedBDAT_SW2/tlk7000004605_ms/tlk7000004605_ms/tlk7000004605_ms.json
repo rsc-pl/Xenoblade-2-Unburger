@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000046_05_msg0001",
+      "style": 84,
+      "name": "Turns out Jericho was deadly serious\nabout wiping out the Bloody Lobsters."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000046_05_msg0002",
+      "style": 84,
+      "name": "I tried to stop him, saying\nI'm retired now, and that\nthis is far too reckless..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000046_05_msg0003",
+      "style": 84,
+      "name": "He said I should rebuild my body first\nand gave me a health-conscious menu."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000046_05_msg0004",
+      "style": 84,
+      "name": "What is with him? Scary... If\nit's a joke, make it clear. If\nhe's serious, do it better."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000046_05_msg0005",
+      "style": 84,
+      "name": "Can I really atone like this? Tell\nJericho that for me too, will you?"
+    }
+  ]
+}

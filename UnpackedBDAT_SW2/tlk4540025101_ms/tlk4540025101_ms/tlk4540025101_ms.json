@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45400251_01_msg0001",
+      "style": 84,
+      "name": "That's an adorable Blade you're\ntraveling with, my dear!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45400251_01_msg0002",
+      "style": 84,
+      "name": "But since you're Drivers and Blades,\nyou knock down enemies and\nlaunch them into the air..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45400251_01_msg0003",
+      "style": 84,
+      "name": "Then smash launched enemies\ndown to deal even greater\ndamage..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45400251_01_msg0004",
+      "style": 84,
+      "name": "You fight savagely like the Invidians,\ndon't you?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45400251_01_msg0005",
+      "style": 84,
+      "name": "You should fight with style and grace,\nlike Special Commissioner Meleph-sama."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45400251_01_msg0006",
+      "style": 84,
+      "name": "Oh, what I wouldn't give to be able\nto have tea with her sometime..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100122_03_msg0001",
+      "style": 84,
+      "name": "You're the one who ran that errand\nfor my older brother! Hey, guess what?\nHe sent us a present!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100122_03_msg0002",
+      "style": 84,
+      "name": "There was a letter in it, too.\nYou and my older brother solved\nthat case together, right?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100122_03_msg0003",
+      "style": 84,
+      "name": "That's so, so cool! My older brother\nreally did great!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100122_03_msg0004",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100122_03_msg0005",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100122_03_msg0006",
+      "style": 62,
+      "name": ""
+    }
+  ]
+}

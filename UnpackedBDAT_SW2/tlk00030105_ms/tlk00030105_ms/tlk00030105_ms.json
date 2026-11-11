@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030105_msg0001",
+      "style": 84,
+      "name": "Oh, ooh! Glad to see you made\nit back, mo! Most importantly,\nyou seem uninjured!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030105_msg0002",
+      "style": 84,
+      "name": "I thought you'd sunk along\nwith the ancient ship, so I'm\nhappy to see you safe, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030105_msg0003",
+      "style": 84,
+      "name": "I'll keep giving you special favors,\nRex, so keep working hard for me,\nmo!!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk00030105_msg0101",
+      "style": 84,
+      "name": "Mo, so busy, mo... My schedule's\na little off, so I need to\nreadjust my plans, mo."
+    }
+  ]
+}

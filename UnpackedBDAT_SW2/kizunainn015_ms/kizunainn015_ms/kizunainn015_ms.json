@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn015_msg0001",
+      "style": 84,
+      "name": "Meleph, I've got a matter\nto discuss with ya[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn015_msg0002",
+      "style": 84,
+      "name": "What is it about?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn015_msg0003",
+      "style": 84,
+      "name": "Well[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn015_msg0004",
+      "style": 84,
+      "name": "Why don't we talk after headin' to\nthe Fons Maim Commercial District?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn015_msg0005",
+      "style": 84,
+      "name": "Very well[ML:Dash ]"
+    }
+  ]
+}

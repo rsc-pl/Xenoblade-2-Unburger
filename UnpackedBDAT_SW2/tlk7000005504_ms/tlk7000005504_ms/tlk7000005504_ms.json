@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000055_04_msg0001",
+      "style": 84,
+      "name": "Noel seems really down\nlately. What with everything\nthat's been going on."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000055_04_msg0002",
+      "style": 84,
+      "name": "He's usually such a carefree\ndolt, it worries me to see him\nworrying for a change..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000055_04_msg0003",
+      "style": 84,
+      "name": "Excuse me, I was out of\nline calling him a dolt\njust then. That was rude."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000055_04_msg0004",
+      "style": 84,
+      "name": "I'm always like this. I say too much\nand make people angry. Why can't I get\nit right..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000055_04_msg0005",
+      "style": 84,
+      "name": "Noel is the first friend I made in the\nresistance. I want to help if he's\ntroubled, but what if he hates me..."
+    }
+  ]
+}

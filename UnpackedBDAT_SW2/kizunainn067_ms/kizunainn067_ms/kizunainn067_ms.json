@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn067_msg0001",
+      "style": 84,
+      "name": "Hey, I heard there's a place nearby\nwith beautiful Safroge trees."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn067_msg0002",
+      "style": 84,
+      "name": "Nearby[ML:Dash ] You can see them at\nBlossomshade Cliff, apparently.\nIt won't take long, right?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn067_msg0003",
+      "style": 84,
+      "name": "Hey hey, why don't we go see\nthem? Let's go see them!"
+    }
+  ]
+}

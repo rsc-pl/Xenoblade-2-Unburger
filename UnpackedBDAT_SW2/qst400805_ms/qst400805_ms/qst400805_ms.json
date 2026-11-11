@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk400805_msg0001",
+      "style": 84,
+      "name": "You're playing tag, right?\nI can't tell you then, it\nwouldn't be fair..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk400805_msg0002",
+      "style": 84,
+      "name": "What? That kid was a thief?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk400805_msg0003",
+      "style": 84,
+      "name": "I see... So that's the boy\nOtto was talking about."
+    },
+    {
+      "$id": 4,
+      "label": "tlk400805_msg0004",
+      "style": 84,
+      "name": "Otto's a woodcutter, and he said he\noften sees a boy outside of town."
+    },
+    {
+      "$id": 5,
+      "label": "tlk400805_msg0005",
+      "style": 84,
+      "name": "He tells him to go back to\ntown because it's dangerous,\nbut the boy always runs away."
+    },
+    {
+      "$id": 6,
+      "label": "tlk400805_msg0006",
+      "style": 84,
+      "name": "I don't know any more than that, so\nwhy don't you ask Otto directly?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk400805_msg0007",
+      "style": 84,
+      "name": "Otto is at the Nokirua Logging Site.\nBe careful on your way."
+    }
+  ]
+}

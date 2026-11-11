@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101301_msg0001",
+      "style": 84,
+      "name": "'Wanted! 10 Melosian\nHoney. Reward offered.'"
+    },
+    {
+      "$id": 2,
+      "label": "qst101301_msg0002",
+      "style": 84,
+      "name": "'Available at Skeet's Nest. Deliver\nin front of Shubia Chief's Residence.\n- Militia Chief Mou'"
+    }
+  ]
+}

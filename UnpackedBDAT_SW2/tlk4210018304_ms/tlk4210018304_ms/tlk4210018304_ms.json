@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210018304_msg0001",
+      "style": 84,
+      "name": "In a book, Lapupu can be a hero,\na princess, or even a fairy, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210018304_msg0002",
+      "style": 84,
+      "name": "But you can't touch or see things\nfrom the world of books... mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210018304_msg0003",
+      "style": 84,
+      "name": "When I get a little bigger, I'll go\non an adventure... and find a real\nfairy, mo!"
+    }
+  ]
+}

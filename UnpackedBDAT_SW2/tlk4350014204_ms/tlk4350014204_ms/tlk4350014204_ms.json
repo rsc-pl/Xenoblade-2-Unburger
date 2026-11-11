@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500142_04_msg0001",
+      "style": 84,
+      "name": "You likely know this already,\nbut requests to the Merc Group\ncome again and again."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500142_04_msg0002",
+      "style": 84,
+      "name": "You'll be asked to help out\nwith things like guard duty,\nescort duty, harvesting..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43500142_04_msg0003",
+      "style": 84,
+      "name": "Remember which missions require the\nleast effort, because it's never a\nbad idea to repeat those ones."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43500142_04_msg0004",
+      "style": 84,
+      "name": "But no matter the mission,\nit's always worth tackling\neach one at least once."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43500142_04_msg0005",
+      "style": 84,
+      "name": "There's always a big reward waiting\nfor you the first time you finish."
+    }
+  ]
+}

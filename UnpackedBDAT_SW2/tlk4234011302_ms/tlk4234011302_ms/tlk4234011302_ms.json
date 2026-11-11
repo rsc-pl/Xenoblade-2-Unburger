@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4234011302_msg0001",
+      "style": 84,
+      "name": "For example, the Old Salvaging\nSuit has a three-layer structure, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4234011302_msg0002",
+      "style": 84,
+      "name": "If you're just diving into the\nCloud Sea, you don't need such a\nsturdy construction, so why, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4234011302_msg0003",
+      "style": 84,
+      "name": "Everyone, imagine the history behind\nhow this was made, mo!\nIt's exciting, mo!!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000071_01_msg0001",
+      "style": 84,
+      "name": "Hey, you all. How's the Sealstone\nsearch going?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000071_01_msg0002",
+      "style": 84,
+      "name": "Forgot already? That adventurer\nsealed Alst's treasures in\nstones, monsters and all."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000071_01_msg0003",
+      "style": 84,
+      "name": "Touch the stone, defeat the\nmonsters that come out, then\nyou get to keep all the goodies."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000071_01_msg0004",
+      "style": 84,
+      "name": "No need to worry! No ordinary\nperson will ever reach that treasure,\nso take your time searching."
+    }
+  ]
+}

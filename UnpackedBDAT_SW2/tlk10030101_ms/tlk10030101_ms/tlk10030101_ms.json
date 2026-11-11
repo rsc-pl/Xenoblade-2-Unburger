@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk10030101_msg0001",
+      "style": 84,
+      "name": "Yo! You doing alright?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk10030101_msg0002",
+      "style": 84,
+      "name": "Thought I was dead? I\nthought I was dead too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk10030101_msg0003",
+      "style": 84,
+      "name": "Benkei told me, \"I'll beat you\nup later, so don't you dare die.\""
+    },
+    {
+      "$id": 4,
+      "label": "tlk10030101_msg0004",
+      "style": 84,
+      "name": "When she asks me like that, I can't\nexactly just go and die, can I?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk10030101_msg0005",
+      "style": 84,
+      "name": "Well then, I'll go with you\nto see the answer you found!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk10030101_msg0006",
+      "style": 84,
+      "name": "Alright? It's alright! Let's go!!"
+    }
+  ]
+}

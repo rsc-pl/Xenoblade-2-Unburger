@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100221_03_msg0001",
+      "style": 84,
+      "name": "I love bugs!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100221_03_msg0002",
+      "style": 84,
+      "name": "When I see a rare bug, I end up\nfollowing it outside the city even if\nI know it's dangerous."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100221_03_msg0003",
+      "style": 84,
+      "name": "It's like my feet just start\nmoving on their own, drifting\ntowards where the bugs are..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100221_03_msg0004",
+      "style": 84,
+      "name": "And then I just unconsciously start\nrummaging through the grass looking\nfor them. You get it, right?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100221_01_msg0005",
+      "style": 84,
+      "name": "But, but! I can't cause you any more\ntrouble, Raiko, so I'm trying to keep\nmy excitement under control."
+    }
+  ]
+}

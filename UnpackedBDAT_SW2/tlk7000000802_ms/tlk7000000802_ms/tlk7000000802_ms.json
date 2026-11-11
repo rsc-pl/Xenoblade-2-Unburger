@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000008_02_msg0001",
+      "style": 84,
+      "name": "Just lighting the lanterns makes the\ntown look young again. Gwahaha!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000008_02_msg0002",
+      "style": 84,
+      "name": "The more Calcedo is pushed, the more\nhe grows. He knows what he wants to\nprotect. I can tell."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000008_02_msg0003",
+      "style": 84,
+      "name": "Finding young, motivated talent this\nclose by was a pleasant surprise."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000008_02_msg0004",
+      "style": 84,
+      "name": "Right under my nose... or should I say\nright under the lantern? Gwahaha!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000008_02_msg0005",
+      "style": 84,
+      "name": "Gwahahaha!"
+    }
+  ]
+}

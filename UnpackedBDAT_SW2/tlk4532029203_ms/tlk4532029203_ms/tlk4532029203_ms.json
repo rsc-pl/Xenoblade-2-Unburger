@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320292_03_msg0001",
+      "style": 84,
+      "name": "Superbia is still holding out,\nbut it could sink at any time."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320292_03_msg0002",
+      "style": 84,
+      "name": "I hope my wife and children\nare all right... Did they\nevacuate safely?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320292_03_msg0003",
+      "style": 84,
+      "name": "At times like this, I can only\nregret that we failed to build\nfriendly ties with Invidia[ML:Dash ]!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320292_03_msg0004",
+      "style": 84,
+      "name": "Please[ML:Dash ]please be safe!"
+    }
+  ]
+}

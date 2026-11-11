@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500184_03_msg0001",
+      "style": 84,
+      "name": "I never would have imagined\nthings would come to this..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500184_03_msg0002",
+      "style": 84,
+      "name": "But I believe in you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44500184_03_msg0003",
+      "style": 84,
+      "name": "Ever since you passed through these\ngates, the country started to change.\nYou're involved, aren't you?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk44500184_03_msg0004",
+      "style": 84,
+      "name": "No, no, don't answer. For Luxuria and\nfor Alst, keep following the right\npath."
+    }
+  ]
+}

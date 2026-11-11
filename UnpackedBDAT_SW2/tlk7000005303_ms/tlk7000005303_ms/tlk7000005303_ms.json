@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000053_03_msg0001",
+      "style": 84,
+      "name": "Seems like that Ivan guy was sneaking\nsnacks in the storehouse again."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000053_03_msg0002",
+      "style": 84,
+      "name": "Karina caught him and treated\nhim like a felon. It turned\ninto a huge fuss."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000053_03_msg0003",
+      "style": 84,
+      "name": "I managed to calm it down, but it\nmade me realize how different the\nvalues are between Superbia and Iira."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000053_03_msg0004",
+      "style": 84,
+      "name": "Ivan can never control his appetite.\nWhat he did was wrong, but he didn't\nreally mean any major harm..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000053_03_msg0005",
+      "style": 84,
+      "name": "I'll talk with Karina\nagain. I want to learn\nmore about Superbia too..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000053_03_msg0006",
+      "style": 84,
+      "name": "The secret to understanding is\naccepting each other's differences.\nThat's what Adel-sama taught me!"
+    }
+  ]
+}

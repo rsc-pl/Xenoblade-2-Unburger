@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320651_10_msg0001",
+      "style": 84,
+      "name": "Hmm... I don't know what I'm supposed\nto do if this is left to me."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320651_10_msg0003",
+      "style": 84,
+      "name": "Apparently, it's become necessary to\ndramatically increase the pace of our\nmineralogy and forestry studies."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320651_10_msg0004",
+      "style": 84,
+      "name": "So we urgently need the latest\ninformation delivered by researchers\nobserving things in the field."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320651_10_msg0005",
+      "style": 84,
+      "name": "I'm in the Operations Testing Bureau,\nnot Information Headquarters. I'm\ncertainly no messenger."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45320651_10_msg0006",
+      "style": 84,
+      "name": "It seems quite illogical\nthat I should be assigned\nto a task of this nature..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk45320651_10_msg0008",
+      "style": 84,
+      "name": "I think it's just a procedural error,\nbut can I leave it to you?"
+    },
+    {
+      "$id": 7,
+      "label": "tlk45320651_10_msg0009",
+      "style": 84,
+      "name": "Looks like you can handle it reliably.\nI'm counting on you!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4530005803_msg0001",
+      "style": 84,
+      "name": "Doctor Smaia came back, said, 'You can\nhave this clinic,' and left again..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4530005803_msg0002",
+      "style": 84,
+      "name": "I mean, I'm sure I can handle\nthings on my own. I've watched\nthe Doctor at work for many years."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4530005803_msg0003",
+      "style": 84,
+      "name": "But a lot of our regular patients\nare saying they're going to miss\nDoctor Smaia's brusque attitude."
+    },
+    {
+      "$id": 4,
+      "label": "tlk4530005803_msg0004",
+      "style": 84,
+      "name": "Should I... try speaking...\nmore briefly too...?"
+    }
+  ]
+}

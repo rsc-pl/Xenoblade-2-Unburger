@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf07370150_0010",
+      "style": 82,
+      "name": "Boss, it's a dead end, mo."
+    },
+    {
+      "$id": 2,
+      "label": "bf07370150_0020",
+      "style": 82,
+      "name": "That crest... It's the same\nas the one on the ancient ship..."
+    },
+    {
+      "$id": 3,
+      "label": "bf07370150_0030",
+      "style": 82,
+      "name": "These beings... don't tell me..."
+    },
+    {
+      "$id": 4,
+      "label": "bf07370150_0040",
+      "style": 82,
+      "name": "They're coming, Rex!"
+    },
+    {
+      "$id": 5,
+      "label": "bf07370150_0050",
+      "style": 82,
+      "name": "[ML:undisp ]く！"
+    }
+  ]
+}

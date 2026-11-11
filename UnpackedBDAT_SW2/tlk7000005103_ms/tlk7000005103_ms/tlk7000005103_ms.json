@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000051_03_msg0001",
+      "style": 84,
+      "name": "You know, I don't have kids.\nI'm not even married."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000051_03_msg0002",
+      "style": 84,
+      "name": "Ask me about a father's worries and I\ncan only say I don't know..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000051_03_msg0003",
+      "style": 84,
+      "name": "Well, if I was the only\none he could think to ask,\nit couldn't be helped."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000051_03_msg0004",
+      "style": 84,
+      "name": "If Mars is having trouble,\nwhether it's handling kids or\nwomen, I'll talk it through."
+    }
+  ]
+}

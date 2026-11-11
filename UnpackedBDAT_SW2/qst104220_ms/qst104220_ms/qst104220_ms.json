@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104220_msg0001",
+      "style": 84,
+      "name": "History is a cycle of past\nsuccesses and mistakes."
+    },
+    {
+      "$id": 2,
+      "label": "qst104220_msg0002",
+      "style": 84,
+      "name": "I will strive to teach them that when\nthey face difficulties in the future,\nthe past can be their guide."
+    }
+  ]
+}

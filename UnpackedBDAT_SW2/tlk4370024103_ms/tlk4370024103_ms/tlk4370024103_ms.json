@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700241_03_msg0001",
+      "style": 84,
+      "name": "You know how there's an Assist\nCore called Opening Art?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700241_03_msg0002",
+      "style": 84,
+      "name": "If I equipped that and struck first,\neven Heaven's Holy Grail should go\ndown in one hit..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700241_03_msg0003",
+      "style": 84,
+      "name": "Wait, why am I even telling you this?!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700241_03_msg0004",
+      "style": 84,
+      "name": "And here I thought I had the\nperfect comeback plan..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43700241_03_msg0005",
+      "style": 84,
+      "name": "But now that I've told you, I'll\nhave to scrap that idea. Well,\nback to the drawing board..."
+    }
+  ]
+}

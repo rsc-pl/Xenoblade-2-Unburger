@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350146_04_msg0001",
+      "style": 84,
+      "name": "The Invidian Divine Beast moved, so\nthere was a huge earthquake, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350146_04_msg0002",
+      "style": 84,
+      "name": "I was almost trapped in the\nDamp Shimeji cave, so I jumped\noutside without thinking, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350146_04_msg0003",
+      "style": 84,
+      "name": "But even jumping outside, Hræsvelgr\nis basically inside a cave anyway, so\nthe danger level was the same, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350146_04_msg0004",
+      "style": 84,
+      "name": "So Hototo calmly returned to\nthe Damp Shimeji cave... mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42350146_04_msg0005",
+      "style": 84,
+      "name": "No matter how critical Alst's state\nis, for Hototo, not eating Damp\nShimeji is a much worse event, mo."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000049_05_msg001",
+      "style": 84,
+      "name": "Somewhere deep down, I knew it\nwould come to this someday."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000049_05_msg002",
+      "style": 84,
+      "name": "My lieges, I will no longer ask you\nto keep yourselves out of danger."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000049_05_msg003",
+      "style": 84,
+      "name": "I ask you only to seize\nvictory in your mission,\nand return here to Aletta."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000049_05_msg004",
+      "style": 84,
+      "name": "I look forward to the day when\nI see you return triumphant."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000049_05_msg005",
+      "style": 84,
+      "name": "And, Adel-sama... I've served you for\nabout twenty years now..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000049_05_msg006",
+      "style": 84,
+      "name": "You let me serve at your side,\nwhen I had only knowledge. I\nhave yet to repay that debt."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000049_05_msg007",
+      "style": 84,
+      "name": "Please don't take away this old man's\nreason for living."
+    }
+  ]
+}

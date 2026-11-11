@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400287_01_msg0001",
+      "style": 84,
+      "name": "Luxurian science has been passed\ndown for generations, so our knowledge\nfar surpasses the Superbians'."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400287_01_msg0002",
+      "style": 84,
+      "name": "You're outsiders, aren't you? Then I\ncan't tell you too much."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400287_01_msg0003",
+      "style": 84,
+      "name": "Thanks to ancient records, we\ncan handle all manner of issues...\nThat is all I will say."
+    }
+  ]
+}

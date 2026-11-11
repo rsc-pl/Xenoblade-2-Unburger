@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103102_msg0001",
+      "style": 84,
+      "name": "Mmm... Mmm-mmm... Just\na moment, please..."
+    },
+    {
+      "$id": 2,
+      "label": "qst103102_msg0002",
+      "style": 84,
+      "name": "Oh, it's you... Forgive me for\nletting you see me in such a state."
+    },
+    {
+      "$id": 3,
+      "label": "qst103102_msg0003",
+      "style": 84,
+      "name": "Travel by ship does not agree with\nme... It's always been this way, but\nwith age, I recover more slowly."
+    },
+    {
+      "$id": 4,
+      "label": "qst103102_msg0004",
+      "style": 84,
+      "name": "Thanks to that, even though I've\nreached this long-awaited land,\nit's painful even to stand..."
+    },
+    {
+      "$id": 5,
+      "label": "qst103102_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Truly?! Oh, thank you!!"
+    },
+    {
+      "$id": 6,
+      "label": "qst103102_msg0006",
+      "style": 84,
+      "name": "Ugh... Mm... When I raise my voice,\nmy headache... My apologies..."
+    },
+    {
+      "$id": 7,
+      "label": "qst103102_msg0007",
+      "style": 84,
+      "name": "According to the villagers... there\nare three locations with murals\nleft by the ancient Nopon tribe."
+    },
+    {
+      "$id": 8,
+      "label": "qst103102_msg0008",
+      "style": 84,
+      "name": "With the knowledge of the Nopon\ntribe, I should be able to decipher\nthe characters drawn on them..."
+    },
+    {
+      "$id": 9,
+      "label": "qst103102_msg0009",
+      "style": 84,
+      "name": "Yes, yes, there is a curious\nstory about the murals here."
+    },
+    {
+      "$id": 10,
+      "label": "qst103102_msg0010",
+      "style": 84,
+      "name": "A villager returning late at\nnight passed by a mural and\nfelt something was amiss..."
+    },
+    {
+      "$id": 11,
+      "label": "qst103102_msg0011",
+      "style": 84,
+      "name": "Thinking it was eerie, they went\nback the next morning to check, but\nnothing seemed to have changed..."
+    },
+    {
+      "$id": 12,
+      "label": "qst103102_msg0012",
+      "style": 84,
+      "name": "Perhaps some mechanism is at work.\nIf you could investigate that too,\nit would be a great help."
+    },
+    {
+      "$id": 13,
+      "label": "qst103102_msg0101",
+      "style": 84,
+      "name": "There are three ancient Nopon\nmurals in this village."
+    },
+    {
+      "$id": 14,
+      "label": "qst103102_msg0102",
+      "style": 84,
+      "name": "I am curious about the claim\nthat something seemed amiss\nwhen viewed at night..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk79000003_01_msg0001",
+      "style": 62,
+      "name": "Adel? Didn't he go\nout to get some air?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk79000003_01_msg0002",
+      "style": 62,
+      "name": "If you're curious, why don't you go?"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst710202_msg0001",
+      "style": 84,
+      "name": "Hey, do you have any fish to spare?"
+    },
+    {
+      "$id": 2,
+      "label": "qst710202_msg0101",
+      "style": 84,
+      "name": "Alright, this is enough.\nI'll transfer the fish to\nthe pail right away."
+    },
+    {
+      "$id": 3,
+      "label": "qst710202_msg0201",
+      "style": 84,
+      "name": "I still need more fish to\nfill this pail. Please!"
+    },
+    {
+      "$id": 4,
+      "label": "qst710202_msg0202",
+      "style": 84,
+      "name": "The ones that shine orange\nare popular. If you catch\none, please give it to me."
+    }
+  ]
+}

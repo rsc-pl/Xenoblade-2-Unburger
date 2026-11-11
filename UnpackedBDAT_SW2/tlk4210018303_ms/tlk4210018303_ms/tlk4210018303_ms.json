@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4210018303_msg0001",
+      "style": 84,
+      "name": "The cloth they make\nhere is so pretty, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4210018303_msg0002",
+      "style": 84,
+      "name": "Lapupu wants to make it into clothes,\nmooo! A frilly, fluffy dress, mo!\nI'll be a princess, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4210018303_msg0003",
+      "style": 84,
+      "name": "Lapupu will save up the money from\nteaching and have one made, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4210018303_msg0004",
+      "style": 84,
+      "name": "Something more to look forward to,\nmo. Thank you for inviting me, mo."
+    }
+  ]
+}

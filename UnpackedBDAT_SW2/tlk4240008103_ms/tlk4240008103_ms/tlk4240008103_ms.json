@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4240008103_msg0001",
+      "style": 84,
+      "name": "Waaah! There are so many ingredients\nfor sale that I've never seen before,\nmo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4240008103_msg0002",
+      "style": 84,
+      "name": "I can buy the ingredients I\nwant with my teacher's salary,\nmo! I'm so happy, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4240008103_msg0003",
+      "style": 84,
+      "name": "And I can finally experiment\nin a place with a roof over my\nhead, mo! I'm so glad, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4240008103_msg0004",
+      "style": 84,
+      "name": "I've been told my lessons are hard\nto understand, mo... I'll work on it,\nmo."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030103_msg0001",
+      "style": 84,
+      "name": "The Uzushio incorporates the latest\ntechnology. It is the finest crane\nship Avaritia has to offer, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030103_msg0002",
+      "style": 84,
+      "name": "Sending out the Uzushio means this\nis a very important job, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030103_msg0003",
+      "style": 84,
+      "name": "So work diligently, mo."
+    }
+  ]
+}

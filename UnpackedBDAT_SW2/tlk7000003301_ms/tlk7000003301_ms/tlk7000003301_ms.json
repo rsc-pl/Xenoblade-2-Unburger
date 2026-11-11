@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000033_01_msg0001",
+      "style": 84,
+      "name": "Did you know, mo? There's a splendid\ngarden on the other side of this moat,\nmo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000033_01_msg0002",
+      "style": 84,
+      "name": "And in one corner is a very tall\nlookout tower. The view from there is\nsaid to be spectacular, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000033_01_msg0003",
+      "style": 84,
+      "name": "Momimi knows it's bad, but standing\nsomewhere that high gets Momimi so\nexcited she wants to jump, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000033_01_msg0004",
+      "style": 84,
+      "name": "And who knows? You might reach roofs,\nbehind buildings, or other unexpected\nplaces, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000033_01_msg0005",
+      "style": 84,
+      "name": "But a fall would really hurt, so don't\njump, mo. Got it? Absolutely don't\njump, mo."
+    }
+  ]
+}

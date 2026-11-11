@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200414_msg0001",
+      "style": 84,
+      "name": "...Eleanor-san? No, why..."
+    },
+    {
+      "$id": 2,
+      "label": "qst200414_msg0002",
+      "style": 84,
+      "name": "It looks like she's been dead\nfor quite some time..."
+    },
+    {
+      "$id": 3,
+      "label": "qst200414_msg0003",
+      "style": 84,
+      "name": "No... Who could have..."
+    },
+    {
+      "$id": 4,
+      "label": "qst200414_msg0004",
+      "style": 84,
+      "name": "There may be clues left behind.\nLet's investigate thoroughly."
+    }
+  ]
+}

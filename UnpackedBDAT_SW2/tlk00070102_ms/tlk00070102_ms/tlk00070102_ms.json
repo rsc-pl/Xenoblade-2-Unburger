@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000701_02_msg0001",
+      "style": 84,
+      "name": "We'll be waiting here, so you all go\nand take a look around Hræsvelgr."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000701_02_msg0002",
+      "style": 84,
+      "name": "When you've had a good look\naround, let Guldon know. He's\npreparing a meal for us."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000701_02_msg0003",
+      "style": 84,
+      "name": "Let's eat some of his\ndelicious food and talk\nabout ourselves, shall we?"
+    }
+  ]
+}

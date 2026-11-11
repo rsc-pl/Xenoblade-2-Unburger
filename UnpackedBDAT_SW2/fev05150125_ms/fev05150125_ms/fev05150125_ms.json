@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev05_150_125_msg0001",
+      "style": 84,
+      "name": "Rex-sama, how was it returning\nto your hometown after so long?"
+    },
+    {
+      "$id": 2,
+      "label": "fev05_150_125_msg0002",
+      "style": 84,
+      "name": "The kids had grown, but the village\nhadn't changed much. It made me\nnostalgic."
+    },
+    {
+      "$id": 3,
+      "label": "fev05_150_125_msg0003",
+      "style": 84,
+      "name": "I'm totally rested and\nready to go! I'll lead you\nall the way to the port!"
+    },
+    {
+      "$id": 4,
+      "label": "fev05_150_125_msg0004",
+      "style": 84,
+      "name": "Yes, I appreciate your help."
+    },
+    {
+      "$id": 5,
+      "label": "fev05_150_125_msg0005",
+      "style": 84,
+      "name": "Though to be honest... the port is\nactually on the next island over."
+    },
+    {
+      "$id": 6,
+      "label": "fev05_150_125_msg0006",
+      "style": 84,
+      "name": "It's not far, so let's get going."
+    }
+  ]
+}

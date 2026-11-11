@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk059_msg001",
+      "style": 84,
+      "name": "Hey Yuuou. Are we really having\nour strategy meeting here?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk059_msg002",
+      "style": 84,
+      "name": "Yuuou... You want to have\nour strategy meeting here?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk059_msg003",
+      "style": 84,
+      "name": "Yuuou, are you seriously planning\nto hold our strategy meeting\nin this kind of place?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk059_msg004",
+      "style": 84,
+      "name": "Hey Yuuou. Ya really want\nto have our strategy meeting\nin a place like this?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk059_msg005",
+      "style": 84,
+      "name": "I thought it might be good to\nchange the mood once in a while[ML:Dash ]"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk059_msg006",
+      "style": 84,
+      "name": "Now, let's first review\nour previous battles."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk059_msg007",
+      "style": 84,
+      "name": "I've been analyzing our battles\nin my own way..."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk059_msg008",
+      "style": 84,
+      "name": "With five Drivers on our\nteam, shouldn't we be\ncoordinating more effectively?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk059_msg009",
+      "style": 84,
+      "name": "I see, mo."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk059_msg010",
+      "style": 84,
+      "name": "For example, Tora's so focused on Hana\nthat he hasn't thought much about\nworking with Boss and the others, mo."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk059_msg011",
+      "style": 84,
+      "name": "Exactly. Up to now, we may\nhave gotten by on Blade-Driver\ncoordination alone..."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk059_msg012",
+      "style": 84,
+      "name": "So Yuuou thinks coordination\nbetween Drivers matters too, mo?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk059_msg013",
+      "style": 84,
+      "name": "!?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk059_msg014",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] Wh-What's that... What is\nthat over at that table!?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk059_msg015",
+      "style": 84,
+      "name": "[ML:Feeling ]Hm? What's wrong, Yuuou, mo?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk059_msg016",
+      "style": 84,
+      "name": "Huh? Oh, no... It's nothing."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk059_msg017",
+      "style": 84,
+      "name": "Right. Going forward,\nBlades must also coordinate\nwith their Drivers..."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk059_msg018",
+      "style": 84,
+      "name": "Wha?!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk059_msg019",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] What that woman over there is\neating[ML:Dash ] Is that a new sweet!?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk059_msg020",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] It looks like a baked sweet[ML:Dash ]\nBut what is inside it is[ML:Dash ]"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk059_msg101",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] Fruit?!"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk059_msg021",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk059_msg022",
+      "style": 164,
+      "name": "Is that woman over\nthere distracting you?"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk059_msg023",
+      "style": 164,
+      "name": "Is our teamwork really\nthat problematic?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk059_msg024",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk059_msg025",
+      "style": 164,
+      "name": "Are you concerned about\nthat woman over there?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk059_msg026",
+      "style": 164,
+      "name": "Is our approach really that flawed?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk059_msg027",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk059_msg028",
+      "style": 164,
+      "name": "That woman over there seems to have\ncaught your attention?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk059_msg029",
+      "style": 164,
+      "name": "Is there a major issue\nwith our approach?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk059_msg030",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk059_msg031",
+      "style": 164,
+      "name": "Is that woman over there\ncatching your attention?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk059_msg032",
+      "style": 164,
+      "name": "Is our teamwork that terrible?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk059_msg033",
+      "style": 84,
+      "name": "No, that's not it. Don't\nconcern yourself with it..."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk059_msg034",
+      "style": 84,
+      "name": "Yuuou really has a sharp eye, mo."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk059_msg102",
+      "style": 84,
+      "name": "But Tora noticed what caught Yuuou's\nattention too, mo."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk059_msg035",
+      "style": 84,
+      "name": "That woman looks familiar, mo..."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk059_msg036",
+      "style": 84,
+      "name": "She must be a spy who's been\nfollowing Tora and friends, mo!!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk059_msg037",
+      "style": 84,
+      "name": "No, no, that's not it at all! She's\ncompletely unrelated to this..."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk059_msg038",
+      "style": 84,
+      "name": "Mo?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk059_msg039",
+      "style": 84,
+      "name": "So what's the matter?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk059_msg040",
+      "style": 84,
+      "name": "So what's going on?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk059_msg041",
+      "style": 84,
+      "name": "So what exactly is the issue?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk059_msg042",
+      "style": 84,
+      "name": "So what's going on then?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk059_msg043",
+      "style": 84,
+      "name": "...It's... that sweet."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk059_msg044",
+      "style": 84,
+      "name": "A sweet? ...What do you mean, mo?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk059_msg045",
+      "style": 84,
+      "name": "...The truth is, I'm intrigued by\nthe sweet that woman is having."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk059_msg046",
+      "style": 84,
+      "name": "That's all? You should\nhave said so sooner, mo!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk059_msg047",
+      "style": 84,
+      "name": "Tora wants sweets too, mo!\nCan we order some, mo!?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk059_msg048",
+      "style": 84,
+      "name": "Well, I guess it can't be helped..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk059_msg049",
+      "style": 84,
+      "name": "Well then, let's all have some sweets\nwhile we continue our discussion."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk059_msg050",
+      "style": 84,
+      "name": "It can't be helped..."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk059_msg051",
+      "style": 84,
+      "name": "Let's all have some sweets while\nwe continue our discussion."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk059_msg052",
+      "style": 84,
+      "name": "Honestly, there's no helping it..."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk059_msg053",
+      "style": 84,
+      "name": "Shall we all have some sweets while\ncontinuing our discussion then?"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk059_msg054",
+      "style": 84,
+      "name": "Oh well, what can ya do..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk059_msg055",
+      "style": 84,
+      "name": "Alright then, let's have some sweets\nwhile we continue our chat."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk059_msg056",
+      "style": 84,
+      "name": "Would it be all right if I ordered\nthree of what that woman is having?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk059_msg057",
+      "style": 84,
+      "name": "※deleted※"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk059_msg058",
+      "style": 84,
+      "name": "Oh... No, it's not like that."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk059_msg059",
+      "style": 84,
+      "name": "As for what you're doing..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk059_msg060",
+      "style": 84,
+      "name": "!!?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk059_msg061",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] Aha!... Just as I\nthought, it IS fruit!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk059_msg062",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] And it's been stewed in some\nkind of liquid... What could\nit be!? Honey? Fruit juice!?"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk059_msg063",
+      "style": 84,
+      "name": "[ML:Feeling ]What's the matter, Yuuou, mo?"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk059_msg064",
+      "style": 84,
+      "name": "Huh!?"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk059_msg065",
+      "style": 84,
+      "name": "Oh, sorry about that.\nNow, where were we..."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk059_msg066",
+      "style": 84,
+      "name": "So here's my proposal. In\nfuture battles, I will..."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk059_msg067",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] It can't be!?"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk059_msg068",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] What... is this!? There's something\ninside besides just fruit!?"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk059_msg069",
+      "style": 84,
+      "name": "[ML:Feeling ]It's... it's cream!"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk059_msg070",
+      "style": 84,
+      "name": "What kind of cream could it be?"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk059_msg071",
+      "style": 84,
+      "name": "Damn it, I need to find\nout... I need to know what\nkind of cream that is!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk059_msg072",
+      "style": 84,
+      "name": "Um, Yuuou?"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk059_msg073",
+      "style": 84,
+      "name": "Um, Yuuou?"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk059_msg074",
+      "style": 84,
+      "name": "Do you have a moment, Yuuou?"
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk059_msg075",
+      "style": 84,
+      "name": "Ah, um, Yuuou?"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk059_msg076",
+      "style": 84,
+      "name": "Hm!?"
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk059_msg077",
+      "style": 84,
+      "name": "Oh, sorry about that.\nAs I was saying..."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk059_msg078",
+      "style": 84,
+      "name": "No, that's not the issue, mo."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk059_msg079",
+      "style": 84,
+      "name": "Yuuou, we could hear everything you\nwere muttering to yourself, mo..."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk059_msg080",
+      "style": 84,
+      "name": "W-what!?"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk059_msg081",
+      "style": 84,
+      "name": "Really, if you want sweets,\njust say so honestly instead\nof trying to look cool, mo."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk059_msg082",
+      "style": 84,
+      "name": "No... That's not..."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk059_msg083",
+      "style": 84,
+      "name": "Don't worry, mo. Tora and friends\nwant dessert too, so it's fine, mo!"
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk059_msg084",
+      "style": 84,
+      "name": "Is everyone okay with that, mo?"
+    },
+    {
+      "$id": 87,
+      "label": "kizunatalk059_msg085",
+      "style": 84,
+      "name": "...Fine then. So what would\nyou like to order, Yuuou?"
+    },
+    {
+      "$id": 88,
+      "label": "kizunatalk059_msg086",
+      "style": 84,
+      "name": "...Oh, whatever. So what\nare you craving, Yuuou?"
+    },
+    {
+      "$id": 89,
+      "label": "kizunatalk059_msg087",
+      "style": 84,
+      "name": "...There's no alternative,\nI suppose. So what would\nyou like to have, Yuuou?"
+    },
+    {
+      "$id": 90,
+      "label": "kizunatalk059_msg088",
+      "style": 84,
+      "name": "...Can't be helped. So what\nd'you want to order, Yuuou?"
+    },
+    {
+      "$id": 91,
+      "label": "kizunatalk059_msg089",
+      "style": 84,
+      "name": "...In that case, let's order three of\nthose sweets that woman is having."
+    }
+  ]
+}

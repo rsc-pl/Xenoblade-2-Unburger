@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4550019102_msg0001",
+      "style": 84,
+      "name": "What science needs is curiosity."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4550019102_msg0002",
+      "style": 84,
+      "name": "First, I'll have everyone investigate\nhow familiar things around them are\nmade."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4550019102_msg0003",
+      "style": 84,
+      "name": "What's a chair made from?\nHow do trees grow? What\ndo they need to thrive?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk4550019102_msg0004",
+      "style": 84,
+      "name": "Kids absorb these things quickly.\nWish my old assistant had been\nsuch a quick learner."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000059_02_msg0001",
+      "style": 84,
+      "name": "How's it going? You're keeping an eye\non elemental matchups, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000059_02_msg0002",
+      "style": 84,
+      "name": "Don't get careless when ahead.\nSome enemies fly into a rage\nafter taking enough damage."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000059_02_msg0003",
+      "style": 84,
+      "name": "Monsters aren't so different to humans\nin that regard. When we're backed into\na corner, we can really go ballistic!"
+    }
+  ]
+}

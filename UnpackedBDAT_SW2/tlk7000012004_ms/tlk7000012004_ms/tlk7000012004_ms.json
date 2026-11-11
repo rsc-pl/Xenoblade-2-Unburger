@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000120_04_msg0001",
+      "style": 84,
+      "name": "Hey... I heard the Iiran capital was\nattacked. Were the residents safe?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000120_04_msg0002",
+      "style": 84,
+      "name": "You thought I'd be more gung-ho\nabout it, did you? Thought I'd\nwant a piece of the action?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000120_04_msg0003",
+      "style": 84,
+      "name": "No, even I got chills when I heard\nabout that Heaven-whatever thing."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000120_04_msg0004",
+      "style": 84,
+      "name": "I hear he's burned cities to the\nground without a trace. Urgh..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000120_04_msg0005",
+      "style": 84,
+      "name": "But I heard you protected the city and\nits people from that thing."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000120_04_msg0006",
+      "style": 84,
+      "name": "I have to say, I'm pretty jealous\nof your strength and bravery..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000120_04_msg0007",
+      "style": 84,
+      "name": "Well, I won't be beaten! I'll\njust have to train even harder!"
+    }
+  ]
+}

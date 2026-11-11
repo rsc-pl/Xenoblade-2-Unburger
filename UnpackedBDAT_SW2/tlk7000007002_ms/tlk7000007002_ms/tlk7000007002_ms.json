@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000070_02_msg0001",
+      "style": 84,
+      "name": "My son and I are barely\ngetting by here, but we're\nmanaging somehow."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000070_02_msg0002",
+      "style": 84,
+      "name": "Oh, by the by, is it true\nFelt Village was destroyed\nby someone called Heaven's Holy Grail?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000070_02_msg0003",
+      "style": 84,
+      "name": "Things were already bad enough\nhere. Without any trade with Felt,\nI'm not sure how we'll manage..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000070_02_msg0004",
+      "style": 84,
+      "name": "The King of Iira is popular in the\ncapital, but even he can't attend to\nremote villages like this."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000070_02_msg0005",
+      "style": 84,
+      "name": "Maybe if we got a new king\nthings'd be different, but who\ncan really say for sure..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00230106_msg0001",
+      "style": 84,
+      "name": "Thanks to you all, it seems\nI'll be able to live a while\nlonger. Thank you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00230106_msg0002",
+      "style": 84,
+      "name": "Lately, Ion has started\nhelping me with my writing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00230106_msg0003",
+      "style": 84,
+      "name": "She helps me think about the\nstaging for the performances."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00230106_msg0004",
+      "style": 84,
+      "name": "Ah... She's a wonderful child..."
+    }
+  ]
+}

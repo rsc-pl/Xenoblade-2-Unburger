@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300052_01_msg0001",
+      "style": 84,
+      "name": "... ...Ah, welcome. I was so absorbed\nin my book I didn't notice. Please,\ntake your time."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300052_01_msg0004",
+      "style": 84,
+      "name": "...Oh. It's the Owner.\nLook around as much as you like."
+    }
+  ]
+}

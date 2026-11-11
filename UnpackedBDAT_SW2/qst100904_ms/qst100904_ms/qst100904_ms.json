@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst100904_msg0001",
+      "style": 84,
+      "name": "Now, Dariza, wake up with\nthe Amethyst Oonira..."
+    },
+    {
+      "$id": 2,
+      "label": "qst100904_msg0002",
+      "style": 84,
+      "name": "Ugh... *cough*!"
+    },
+    {
+      "$id": 3,
+      "label": "qst100904_msg0003",
+      "style": 84,
+      "name": "Dariza! Dariza!! It's\nHozumi, do you recognize me?"
+    },
+    {
+      "$id": 4,
+      "label": "qst100904_msg0004",
+      "style": 84,
+      "name": "I... Where am I...?"
+    },
+    {
+      "$id": 5,
+      "label": "qst100904_msg0005",
+      "style": 84,
+      "name": "Dariza... Thank goodness!\nThanks to everyone..."
+    },
+    {
+      "$id": 6,
+      "label": "qst100904_msg0006",
+      "style": 84,
+      "name": "Hozumi! Prepare for battle!!"
+    },
+    {
+      "$id": 7,
+      "label": "qst100904_msg0007",
+      "style": 84,
+      "name": "Dariza?!"
+    },
+    {
+      "$id": 8,
+      "label": "qst100904_msg0008",
+      "style": 84,
+      "name": "There's a Driver right in front of\nus! The battle isn't over yet!!"
+    },
+    {
+      "$id": 9,
+      "label": "qst100904_msg0009",
+      "style": 84,
+      "name": "Let's go!"
+    },
+    {
+      "$id": 10,
+      "label": "qst100904_msg0010",
+      "style": 84,
+      "name": "Dariza, wait! Listen to me!"
+    }
+  ]
+}

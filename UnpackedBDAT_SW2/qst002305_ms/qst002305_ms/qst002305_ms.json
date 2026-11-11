@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002305_msg0001",
+      "style": 84,
+      "name": "...Excuse me, I'm on guard duty right\nnow, so please let's talk later."
+    },
+    {
+      "$id": 2,
+      "label": "qst002305_msg0002",
+      "style": 84,
+      "name": "Even in our peaceful Acedia, crime\nhas not been completely eradicated."
+    },
+    {
+      "$id": 3,
+      "label": "qst002305_msg0003",
+      "style": 84,
+      "name": "That is why we must keep an\neye on the city like this."
+    },
+    {
+      "$id": 4,
+      "label": "qst002305_msg0004",
+      "style": 84,
+      "name": "So it would be helpful if you\ndidn't talk to me right now."
+    }
+  ]
+}

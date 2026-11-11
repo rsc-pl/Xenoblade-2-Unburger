@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001019_msg0001",
+      "style": 84,
+      "name": "Heheheh... To dodge Metsu's\nattack without even being a\nDriver... quite impressive."
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001019_msg0002",
+      "style": 84,
+      "name": "I look forward to what comes next..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001019_msg0003",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ]Is he praising me?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001019_msg0004",
+      "style": 84,
+      "name": "[ML:Feeling ]Well, thanks."
+    }
+  ]
+}

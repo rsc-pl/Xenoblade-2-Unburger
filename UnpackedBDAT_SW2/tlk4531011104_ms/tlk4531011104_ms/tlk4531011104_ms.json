@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310111_04_msg0001",
+      "style": 84,
+      "name": "Apparently the Uzushio isn't going\nto be setting sail any time soon."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310111_04_msg0002",
+      "style": 84,
+      "name": "Normally I'd gather up a crew, take\nthis ship out to a distant quadrant\nand try to haul up some big prize."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310111_04_msg0003",
+      "style": 84,
+      "name": "But I guess it's not so\nbad to go out salvaging on\nmy own once in a while."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310111_04_msg0004",
+      "style": 84,
+      "name": "Back to basics: collect lots of\ntreasure, take it to the Exchange,\nand earn some pocket change."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf03230100_0010",
+      "style": 82,
+      "name": "Time to head out. Yuu! Zuo!\nTake care of this place, yeah?"
+    },
+    {
+      "$id": 2,
+      "label": "bf03230100_0020",
+      "style": 82,
+      "name": "Got it! Leave the village to us!"
+    },
+    {
+      "$id": 3,
+      "label": "bf03230100_0030",
+      "style": 82,
+      "name": "Boss, you look kind of lively."
+    },
+    {
+      "$id": 4,
+      "label": "bf03230100_0040",
+      "style": 82,
+      "name": "Hehe, yeah. I'm counting on you."
+    }
+  ]
+}

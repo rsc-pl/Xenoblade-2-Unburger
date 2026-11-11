@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000034_02_msg0001",
+      "style": 84,
+      "name": "My friend Azzaro and I first met\nin Invidia. Our meeting was fate,\npredestined in the stars!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000034_02_msg0002",
+      "style": 84,
+      "name": "It was meeting him that convinced\nme that a music-loving heart is\ndown to nature, not nurture."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000034_02_msg0003",
+      "style": 84,
+      "name": "We hit it off immediately. Together\nwe have traveled through Invidia,\nSuperbia, Gula, and now Iira!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000034_02_msg0004",
+      "style": 84,
+      "name": "We heard there was gold dust...\nNo, that it was a rich country!"
+    }
+  ]
+}

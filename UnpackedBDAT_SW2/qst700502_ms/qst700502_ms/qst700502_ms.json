@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700502_msg0001",
+      "style": 84,
+      "name": "One of the materials we need is\nPurestone, a rare ore that can only\nbe gathered at night."
+    },
+    {
+      "$id": 2,
+      "label": "qst700502_msg0002",
+      "style": 84,
+      "name": "As for the location, it should\nbe around Hangnail Crossing."
+    },
+    {
+      "$id": 3,
+      "label": "qst700502_msg0003",
+      "style": 84,
+      "name": "It's usually mixed in with\nthe rocks and can only be\nidentified at night."
+    },
+    {
+      "$id": 4,
+      "label": "qst700502_msg0004",
+      "style": 84,
+      "name": "I knew it wasn't a job for me, but\nthe client's enthusiasm won me over.\nI ended up wanting to help out."
+    },
+    {
+      "$id": 5,
+      "label": "qst700502_msg0005",
+      "style": 84,
+      "name": "Sorry, but give me a hand. In return,\nif you ever need help, I'll do\nwhatever I can."
+    },
+    {
+      "$id": 6,
+      "label": "qst700502_msg0006",
+      "style": 84,
+      "name": "Oh, but when that time comes, make it\nan escort or monster-hunting job.\nDon't expect delicate work from me."
+    },
+    {
+      "$id": 7,
+      "label": "qst700502_msg0101",
+      "style": 84,
+      "name": "Oh, did you manage to\nget the Purestone?"
+    },
+    {
+      "$id": 8,
+      "label": "qst700502_msg0102",
+      "style": 84,
+      "name": "As expected. I was right to ask you."
+    },
+    {
+      "$id": 9,
+      "label": "qst700502_msg0103",
+      "style": 84,
+      "name": "\"Lovers' Whispers\"... it's\nembarrassing to even say, but\nlet me know when it's done."
+    },
+    {
+      "$id": 10,
+      "label": "qst700502_msg0104",
+      "style": 84,
+      "name": "Until then, I'll keep the\nclient calm over here."
+    },
+    {
+      "$id": 11,
+      "label": "qst700502_msg0105",
+      "style": 84,
+      "name": "He's so excited for it to\nbe finished that he's\napparently not sleeping much."
+    }
+  ]
+}

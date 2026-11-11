@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42340111_04_msg0001",
+      "style": 84,
+      "name": "Kisasa realized something, mo.\nJust fighting out in the field isn't\nthe only way to grow, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42340111_04_msg0002",
+      "style": 84,
+      "name": "Carrying luggage, standing\nguard, cooking meals..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42340111_04_msg0003",
+      "style": 84,
+      "name": "No matter how small the\njob or mission, you can\ngrow a little from it, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42340111_04_msg0004",
+      "style": 84,
+      "name": "If you don't have time to go\nfighting, you can just steadily\nbuild up those small efforts, mo."
+    }
+  ]
+}

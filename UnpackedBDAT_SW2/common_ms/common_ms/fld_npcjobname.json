@@ -1,0 +1,544 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 36,
+      "name": "Chamber Chair"
+    },
+    {
+      "$id": 2,
+      "style": 36,
+      "name": "Cloth merchant"
+    },
+    {
+      "$id": 3,
+      "style": 36,
+      "name": "Child Nopon traveler"
+    },
+    {
+      "$id": 4,
+      "style": 36,
+      "name": "Dormire Inn"
+    },
+    {
+      "$id": 5,
+      "style": 36,
+      "name": "Dormire Inn poster girl"
+    },
+    {
+      "$id": 6,
+      "style": 36,
+      "name": "Armu caretaker"
+    },
+    {
+      "$id": 7,
+      "style": 36,
+      "name": "Despondent girl"
+    },
+    {
+      "$id": 8,
+      "style": 36,
+      "name": "Squad leader"
+    },
+    {
+      "$id": 9,
+      "style": 36,
+      "name": "Gatekeeper"
+    },
+    {
+      "$id": 10,
+      "style": 36,
+      "name": "Gatekeeper"
+    },
+    {
+      "$id": 11,
+      "style": 36,
+      "name": "Capital accessory shop"
+    },
+    {
+      "$id": 12,
+      "style": 36,
+      "name": "Capital weapon shop"
+    },
+    {
+      "$id": 13,
+      "style": 36,
+      "name": "Greengrocer"
+    },
+    {
+      "$id": 14,
+      "style": 36,
+      "name": "Young art dealer"
+    },
+    {
+      "$id": 15,
+      "style": 36,
+      "name": "Instrument dealer"
+    },
+    {
+      "$id": 16,
+      "style": 36,
+      "name": "Insect-loving boy"
+    },
+    {
+      "$id": 17,
+      "style": 36,
+      "name": "Inventor"
+    },
+    {
+      "$id": 18,
+      "style": 36,
+      "name": "Angler"
+    },
+    {
+      "$id": 19,
+      "style": 36,
+      "name": "Fishmonger"
+    },
+    {
+      "$id": 20,
+      "style": 36,
+      "name": "Retired elder"
+    },
+    {
+      "$id": 21,
+      "style": 36,
+      "name": "Shipwright"
+    },
+    {
+      "$id": 22,
+      "style": 36,
+      "name": "Carpenter"
+    },
+    {
+      "$id": 23,
+      "style": 36,
+      "name": "Walker"
+    },
+    {
+      "$id": 24,
+      "style": 36,
+      "name": "Four Nopon Bros. Leader"
+    },
+    {
+      "$id": 25,
+      "style": 36,
+      "name": "Passionate youngster"
+    },
+    {
+      "$id": 26,
+      "style": 36,
+      "name": "Apprentice glassmaker"
+    },
+    {
+      "$id": 27,
+      "style": 36,
+      "name": "Loyal retainer"
+    },
+    {
+      "$id": 28,
+      "style": 36,
+      "name": "Roof tile craftsman"
+    },
+    {
+      "$id": 29,
+      "style": 36,
+      "name": "Gardener"
+    },
+    {
+      "$id": 30,
+      "style": 36,
+      "name": "Café Amicus"
+    },
+    {
+      "$id": 31,
+      "style": 36,
+      "name": "Warrior"
+    },
+    {
+      "$id": 32,
+      "style": 36,
+      "name": "Overly serious soldier"
+    },
+    {
+      "$id": 33,
+      "style": 36,
+      "name": "Pignerator Trade Guild"
+    },
+    {
+      "$id": 34,
+      "style": 36,
+      "name": "Traveling performer"
+    },
+    {
+      "$id": 35,
+      "style": 36,
+      "name": "Traveling performer"
+    },
+    {
+      "$id": 36,
+      "style": 36,
+      "name": "Monster granny"
+    },
+    {
+      "$id": 37,
+      "style": 36,
+      "name": "Female historian"
+    },
+    {
+      "$id": 38,
+      "style": 36,
+      "name": "Chamber Chair's Sec."
+    },
+    {
+      "$id": 39,
+      "style": 36,
+      "name": "Potter"
+    },
+    {
+      "$id": 40,
+      "style": 36,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "style": 36,
+      "name": "Slacker soldier"
+    },
+    {
+      "$id": 42,
+      "style": 36,
+      "name": "Fish farmer"
+    },
+    {
+      "$id": 43,
+      "style": 36,
+      "name": "Chef in training"
+    },
+    {
+      "$id": 44,
+      "style": 36,
+      "name": "Capital's biggest eater"
+    },
+    {
+      "$id": 45,
+      "style": 36,
+      "name": "Flute lover"
+    },
+    {
+      "$id": 46,
+      "style": 36,
+      "name": "Jack of all trades"
+    },
+    {
+      "$id": 47,
+      "style": 36,
+      "name": "Concerned mother"
+    },
+    {
+      "$id": 48,
+      "style": 36,
+      "name": "Gulan coordinator"
+    },
+    {
+      "$id": 49,
+      "style": 36,
+      "name": "Apothecary"
+    },
+    {
+      "$id": 50,
+      "style": 36,
+      "name": "Rations officer"
+    },
+    {
+      "$id": 51,
+      "style": 36,
+      "name": "Invidian coordinator"
+    },
+    {
+      "$id": 52,
+      "style": 36,
+      "name": "Adel's retainer"
+    },
+    {
+      "$id": 53,
+      "style": 36,
+      "name": "Adel's devotee"
+    },
+    {
+      "$id": 54,
+      "style": 36,
+      "name": "Resistance vice-captain"
+    },
+    {
+      "$id": 55,
+      "style": 36,
+      "name": "Resistance soldier"
+    },
+    {
+      "$id": 56,
+      "style": 36,
+      "name": "Responsible boy"
+    },
+    {
+      "$id": 57,
+      "style": 36,
+      "name": "Innocent girl"
+    },
+    {
+      "$id": 58,
+      "style": 36,
+      "name": "Salvager"
+    },
+    {
+      "$id": 59,
+      "style": 36,
+      "name": "Divine Beast ship pilot"
+    },
+    {
+      "$id": 60,
+      "style": 36,
+      "name": "Newbie Driver"
+    },
+    {
+      "$id": 61,
+      "style": 36,
+      "name": "Reliable Blade"
+    },
+    {
+      "$id": 62,
+      "style": 36,
+      "name": "Collector-adventurer"
+    },
+    {
+      "$id": 63,
+      "style": 36,
+      "name": "Erudite adventurer"
+    },
+    {
+      "$id": 64,
+      "style": 36,
+      "name": "Benevolent adventurer"
+    },
+    {
+      "$id": 65,
+      "style": 36,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "style": 36,
+      "name": "Fortune hunter"
+    },
+    {
+      "$id": 67,
+      "style": 36,
+      "name": "Hyber Inn"
+    },
+    {
+      "$id": 68,
+      "style": 36,
+      "name": "Gardener's son"
+    },
+    {
+      "$id": 69,
+      "style": 36,
+      "name": "Guileless adventurer"
+    },
+    {
+      "$id": 70,
+      "style": 36,
+      "name": "Hyber huntsman"
+    },
+    {
+      "$id": 71,
+      "style": 36,
+      "name": "Adventurer of the Seal"
+    },
+    {
+      "$id": 72,
+      "style": 36,
+      "name": "Emissary of justice"
+    },
+    {
+      "$id": 73,
+      "style": 36,
+      "name": "3rd Ten-Man Sq. Member"
+    },
+    {
+      "$id": 74,
+      "style": 36,
+      "name": "Diplomat"
+    },
+    {
+      "$id": 75,
+      "style": 36,
+      "name": "3rd Ten-Man Sq. Leader"
+    },
+    {
+      "$id": 76,
+      "style": 36,
+      "name": "8th Ten-Man Sq. Member"
+    },
+    {
+      "$id": 77,
+      "style": 36,
+      "name": "Mechanic"
+    },
+    {
+      "$id": 78,
+      "style": 36,
+      "name": "Envoy of the White Chair"
+    },
+    {
+      "$id": 79,
+      "style": 36,
+      "name": "Cheerful Adventurer"
+    },
+    {
+      "$id": 80,
+      "style": 36,
+      "name": "Aureus Palace guard"
+    },
+    {
+      "$id": 81,
+      "style": 36,
+      "name": "Thieving Girl"
+    },
+    {
+      "$id": 82,
+      "style": 36,
+      "name": "Veteran Adventurer of Love"
+    },
+    {
+      "$id": 83,
+      "style": 36,
+      "name": "Dreaming Boy"
+    },
+    {
+      "$id": 84,
+      "style": 36,
+      "name": "Envoy of the White Chair"
+    },
+    {
+      "$id": 85,
+      "style": 36,
+      "name": "Cheerful Adventurer"
+    },
+    {
+      "$id": 86,
+      "style": 36,
+      "name": "Hot-blooded warrior"
+    },
+    {
+      "$id": 87,
+      "style": 36,
+      "name": "Thief"
+    },
+    {
+      "$id": 88,
+      "style": 36,
+      "name": "Veteran Adventurer of Love"
+    },
+    {
+      "$id": 89,
+      "style": 36,
+      "name": "Dreaming Boy"
+    },
+    {
+      "$id": 90,
+      "style": 36,
+      "name": "Divine Beast ship cadet"
+    },
+    {
+      "$id": 91,
+      "style": 36,
+      "name": "Former Shiyan spy"
+    },
+    {
+      "$id": 92,
+      "style": 36,
+      "name": "Divine Beast"
+    },
+    {
+      "$id": 93,
+      "style": 36,
+      "name": "War orphan"
+    },
+    {
+      "$id": 94,
+      "style": 36,
+      "name": "Adel's attendant"
+    },
+    {
+      "$id": 95,
+      "style": 36,
+      "name": "Pure and innocent boy"
+    },
+    {
+      "$id": 96,
+      "style": 36,
+      "name": "Special Commissioner"
+    },
+    {
+      "$id": 97,
+      "style": 36,
+      "name": "Hopeful girl"
+    },
+    {
+      "$id": 98,
+      "style": 36,
+      "name": "Weapon vendor"
+    },
+    {
+      "$id": 99,
+      "style": 36,
+      "name": "Accessory vendor"
+    },
+    {
+      "$id": 100,
+      "style": 36,
+      "name": "Weapon vendor"
+    },
+    {
+      "$id": 101,
+      "style": 36,
+      "name": "Accessory vendor"
+    },
+    {
+      "$id": 102,
+      "style": 36,
+      "name": "Weapon vendor"
+    },
+    {
+      "$id": 103,
+      "style": 36,
+      "name": "Accessory vendor"
+    },
+    {
+      "$id": 104,
+      "style": 36,
+      "name": "Avatar of greed"
+    },
+    {
+      "$id": 105,
+      "style": 36,
+      "name": "Wandering ace mercenary"
+    },
+    {
+      "$id": 106,
+      "style": 36,
+      "name": "Wandering ace Blade"
+    }
+  ]
+}

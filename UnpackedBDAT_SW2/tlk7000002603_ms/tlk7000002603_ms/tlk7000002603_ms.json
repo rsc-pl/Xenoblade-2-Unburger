@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000026_03_msg0001",
+      "style": 84,
+      "name": "Hey... I'm sorry I lost\ncontrol earlier..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000026_03_msg0002",
+      "style": 84,
+      "name": "I'm still really upset,\nbut I'm trying to keep\nbusy doing whatever I can."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000026_03_msg0003",
+      "style": 84,
+      "name": "Once I've sorted out my feelings, I'm\ngoing to visit Torigo Village."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000026_03_msg0004",
+      "style": 84,
+      "name": "There are so many things I want to\ntell my master..."
+    }
+  ]
+}

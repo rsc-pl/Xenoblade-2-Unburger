@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700702_msg0001",
+      "style": 84,
+      "name": "We're desperately short-handed, so\nrubble clearing in the residential and\nshopping districts has fallen behind."
+    },
+    {
+      "$id": 2,
+      "label": "qst700702_msg0002",
+      "style": 84,
+      "name": "We're very grateful for your help,\nbut, um... I don't want you\nto overdo it..."
+    },
+    {
+      "$id": 3,
+      "label": "qst700702_msg0003",
+      "style": 84,
+      "name": "P-Please put your own safety first!\nIf anything happened to you, we'd have\nmuch bigger problems than rubble!"
+    },
+    {
+      "$id": 4,
+      "label": "qst700702_msg0004",
+      "style": 84,
+      "name": "Please, I beg you,\nyour safety comes first...!"
+    },
+    {
+      "$id": 5,
+      "label": "qst700702_msg0101",
+      "style": 84,
+      "name": "Oh...! The clearing work\nhas been completed!?"
+    },
+    {
+      "$id": 6,
+      "label": "qst700702_msg0102",
+      "style": 84,
+      "name": "Thank you so much! Once the garden\nis restored, the capital can finally\nreturn to the way it was before!"
+    },
+    {
+      "$id": 7,
+      "label": "qst700702_msg0103",
+      "style": 84,
+      "name": "I'll gather the tools and workers\nright away, so could you please tell\nthe gardener to begin work?"
+    },
+    {
+      "$id": 8,
+      "label": "qst700702_msg0104",
+      "style": 84,
+      "name": "The gardener's name is Bry, and he\nis already waiting in this garden."
+    },
+    {
+      "$id": 9,
+      "label": "qst700702_msg0201",
+      "style": 84,
+      "name": "I'll gather the tools and workers\nright away, so could you please tell\nthe gardener to begin work?"
+    },
+    {
+      "$id": 10,
+      "label": "qst700702_msg0202",
+      "style": 84,
+      "name": "The gardener's name is Bry, and he\nis already waiting in this garden."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4520015501_msg0001",
+      "style": 84,
+      "name": "I gave Mahl that pendant\nyou helped me with!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk4520015501_msg0002",
+      "style": 84,
+      "name": "Apparently he doesn't need to move\nto Invidia anymore. It seems all\nsorts of things happened..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4520015501_msg0003",
+      "style": 84,
+      "name": "But the important thing is, he\nreally liked the pendant! He\nsaid it cheered him up, even!"
+    }
+  ]
+}

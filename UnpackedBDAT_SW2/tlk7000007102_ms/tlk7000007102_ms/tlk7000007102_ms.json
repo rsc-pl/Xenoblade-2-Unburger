@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000071_02_msg0001",
+      "style": 84,
+      "name": "It's been a long time since\nI've been back, but this country\nhasn't changed at all..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000071_02_msg0002",
+      "style": 84,
+      "name": "The Iiran King has always\nbeen immensely popular, but\nZettar remains unpopular."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000071_02_msg0003",
+      "style": 84,
+      "name": "He's second in line to the throne, but\neveryone in Iira knows his sly nature\nand selfish ways."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000071_02_msg0004",
+      "style": 84,
+      "name": "In fact, he's the only one who\nhasn't noticed his own behavior.\nSuch is his foolishness."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000071_02_msg0005",
+      "style": 84,
+      "name": "So it goes with those proud types...\nMaybe deep down he realizes, but\njust doesn't want to admit it..."
+    }
+  ]
+}

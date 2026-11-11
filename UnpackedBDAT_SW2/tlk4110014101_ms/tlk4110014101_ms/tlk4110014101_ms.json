@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100141_01_msg0001",
+      "style": 84,
+      "name": "The island I lived on became\nunlivable because of skirmishes\nbetween Invidia and Superbia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100141_01_msg0002",
+      "style": 84,
+      "name": "The adults just argued about\nwhich side to join, which one\nwould be more profitable."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100141_01_msg0003",
+      "style": 84,
+      "name": "In the end, everyone on the island\nsplit into Superbia and Invidia\nfactions and started fighting."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100141_01_msg0004",
+      "style": 84,
+      "name": "Adults are the worst."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41100141_01_msg0005",
+      "style": 84,
+      "name": "Vandham says not all of\nthem are like that..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk41100141_01_msg0006",
+      "style": 84,
+      "name": "But I can't bring\nmyself to trust them."
+    }
+  ]
+}

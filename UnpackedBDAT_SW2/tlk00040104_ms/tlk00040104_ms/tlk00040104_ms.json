@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00040104_msg0001",
+      "style": 84,
+      "name": "Punin-san... what are you\nsneaking around for?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00040104_msg0002",
+      "style": 84,
+      "name": "Mo-mo!?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00040104_msg0003",
+      "style": 84,
+      "name": "Never mind Punin, go do your\nbest with the salvaging, mo! The\nChairman has high hopes, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00040104_msg0004",
+      "style": 84,
+      "name": "Of course I'll do my best. I want\nthat 100,000G reward, after all."
+    },
+    {
+      "$id": 5,
+      "label": "tlk00040104_msg0005",
+      "style": 84,
+      "name": "That's the spirit, mo! Now,\ngo down the stairs and hurry\nto the meeting point, mo!"
+    }
+  ]
+}

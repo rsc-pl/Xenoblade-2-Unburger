@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev11_550_180_msg0001",
+      "style": 84,
+      "name": "They were tough..."
+    },
+    {
+      "$id": 2,
+      "label": "fev11_550_180_msg0002",
+      "style": 84,
+      "name": "Yeah... but we have to keep going."
+    },
+    {
+      "$id": 3,
+      "label": "fev11_550_180_msg0003",
+      "style": 84,
+      "name": "Right!"
+    },
+    {
+      "$id": 4,
+      "label": "fev11_550_180_msg0004",
+      "style": 84,
+      "name": "Let's head to the\nshopping district next."
+    }
+  ]
+}

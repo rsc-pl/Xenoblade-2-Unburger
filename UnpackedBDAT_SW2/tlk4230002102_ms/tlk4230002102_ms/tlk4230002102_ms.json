@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300021_02_msg0001",
+      "style": 84,
+      "name": "Mofufu~! For an abandoned room,\nthis is a nice room, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300021_02_msg0002",
+      "style": 84,
+      "name": "It's been a long time since\nanyone has been in or out, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300021_02_msg0003",
+      "style": 84,
+      "name": "Shatoto can't return to Avaritia, so\nmaking good use of it isn't wrong,\nis it, mo?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300021_02_msg0004",
+      "style": 84,
+      "name": "This time, I'll make my business\na success in Torigo, mo!"
+    }
+  ]
+}

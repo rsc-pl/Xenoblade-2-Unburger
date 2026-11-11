@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk46400078_03_msg0001",
+      "style": 84,
+      "name": "Since Fan-sama passed away, I\nfeel the people have grown less\naccepting of the refugees."
+    },
+    {
+      "$id": 2,
+      "label": "tlk46400078_03_msg0002",
+      "style": 84,
+      "name": "Perhaps people are directing their\nsadness and hatred at those closest\nto them..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk46400078_03_msg0003",
+      "style": 84,
+      "name": "I want everyone to remember\nAcedia's proud spirit."
+    }
+  ]
+}

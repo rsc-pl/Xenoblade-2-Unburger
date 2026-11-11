@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_05_msg0001",
+      "style": 84,
+      "name": "Interfering with the summit...\nBahn is quite reckless, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_05_msg0002",
+      "style": 84,
+      "name": "He must have been desperate after\nlosing the Trading Company chairman\nposition, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_05_msg0003",
+      "style": 84,
+      "name": "Otherwise, he would never have\nthought of attacking a heavily\nguarded summit meeting, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42400013_05_msg0004",
+      "style": 84,
+      "name": "If he hadn't been doing bad\nthings from the start, this\nwouldn't have happened, mo."
+    }
+  ]
+}

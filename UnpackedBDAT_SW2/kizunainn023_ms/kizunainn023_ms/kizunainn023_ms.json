@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn023_msg0001",
+      "style": 84,
+      "name": "Hey, Meleph. Isn't there a place where\nwe can look out over this city?"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn023_msg0002",
+      "style": 84,
+      "name": "The Imperial Capital Alba Margen?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn023_msg0003",
+      "style": 84,
+      "name": "The roof of Hadashal Palace[ML:Dash ]\nI think you could see the whole city\nfrom the Second Wing, Shemesh[ML:Dash ]"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn023_msg0004",
+      "style": 84,
+      "name": "Sounds good. Show me the way!"
+    }
+  ]
+}

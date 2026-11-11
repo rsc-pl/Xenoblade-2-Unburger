@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43600143_03_msg0001",
+      "style": 84,
+      "name": "Don't you think that goods\nhave gotten a lot cheaper\nin Fons Maim lately?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43600143_03_msg0002",
+      "style": 84,
+      "name": "I'm grateful. It helps us too."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43600143_03_msg0003",
+      "style": 84,
+      "name": "There's a push to cooperate with other\ncountries and increase the number of\nnew products."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43600143_03_msg0004",
+      "style": 84,
+      "name": "My son said more products will appear\nonce the Hræsvelgr-whatever Merc\nGroup finishes its requests."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43600143_03_msg0005",
+      "style": 84,
+      "name": "Well, good luck to them!"
+    }
+  ]
+}

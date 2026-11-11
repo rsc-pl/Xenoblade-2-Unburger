@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360113_03_msg0001",
+      "style": 84,
+      "name": "Rimurimu wanted to become a salvager,\nbut I put a stop to it, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360113_03_msg0002",
+      "style": 84,
+      "name": "We need to be even more vigilant with\nsecurity so that we don't overlook\nbad deeds like Chairman Bahn's."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360113_03_msg0003",
+      "style": 84,
+      "name": "Rimurimu is often late, clumsy, and\nreckless, so an accident is bound\nto happen... mo."
+    }
+  ]
+}

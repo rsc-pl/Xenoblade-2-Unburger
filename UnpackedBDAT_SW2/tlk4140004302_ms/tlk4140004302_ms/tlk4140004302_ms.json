@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4140004302_msg0001",
+      "style": 84,
+      "name": "Thanks for choosing me! This\nis a really great Merc Group."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4140004302_msg0002",
+      "style": 84,
+      "name": "At night, I serve food here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4140004302_msg0003",
+      "style": 84,
+      "name": "Keeping everyone well fed is\nan important job too!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000060_01_msg0001",
+      "style": 84,
+      "name": "Hehe~ Look! I found a Deviled Baguette\nrecipe!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000060_01_msg0002",
+      "style": 84,
+      "name": "The more recipes you collect, the more\nthings you can make with crafting~"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000060_01_msg0003",
+      "style": 84,
+      "name": "Until now, I thought recipes came from\nsudden ideas or people teaching you~\nYou can find them too, huh~"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000060_01_msg0004",
+      "style": 84,
+      "name": "Collecting them is fun, but being able\nto make more things is even more fun~!"
+    }
+  ]
+}

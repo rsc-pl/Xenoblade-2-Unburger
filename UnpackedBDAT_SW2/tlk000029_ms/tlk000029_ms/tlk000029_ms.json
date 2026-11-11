@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000029_msg0001",
+      "style": 62,
+      "name": "Items sold to the Central\nExchange by salvagers are put\nup for auction like this."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000029_msg0002",
+      "style": 62,
+      "name": "You often see real gems, but there's\na rumor the Chamber Chair\ngets first dibs on true valuables."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000029_msg0003",
+      "style": 62,
+      "name": "But I can't imagine such a\nwonderful person would ever\ndo something like that."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000056_02_msg0001",
+      "style": 84,
+      "name": "Aunt Ranea sometimes tied Kei's hair\ntoo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000056_02_msg0002",
+      "style": 84,
+      "name": "She knew all sorts of ways to tie it,\nand Kei thought it was like magic.\nWhen we asked how she got so good..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000056_02_msg0003",
+      "style": 84,
+      "name": "She said she likes doing hair because\nit makes her feel like a different\nperson."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000056_02_msg0004",
+      "style": 84,
+      "name": "She promised to teach me that style.\nI wonder what Aunt Rynea is doing\nnow..."
+    }
+  ]
+}

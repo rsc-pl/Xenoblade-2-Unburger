@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00240107_msg0001",
+      "style": 84,
+      "name": "Grandpa has gotten so much better!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00240107_msg0002",
+      "style": 84,
+      "name": "He's been going backstage to\nwatch more often than before..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00240107_msg0003",
+      "style": 84,
+      "name": "And he's making progress on\nUncle Vandham's story."
+    },
+    {
+      "$id": 4,
+      "label": "tlk00240107_msg0004",
+      "style": 84,
+      "name": "Yes! I can't wait for it to\nbe on stage! You should all\ncome and see it, too."
+    }
+  ]
+}

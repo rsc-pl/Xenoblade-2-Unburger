@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202402_msg0001",
+      "style": 84,
+      "name": "If you can get my Nopon Trade\nGuild ID back, I'll admit you're\nsmarter than a Tirkin, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst202402_msg0101",
+      "style": 84,
+      "name": "Hurry to the Liberalitas Archipelago\nand find my Nopon Trade Guild ID\nin the Tirkin nest, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202402_msg0102",
+      "style": 84,
+      "name": "I can't do business without it, mo!"
+    }
+  ]
+}

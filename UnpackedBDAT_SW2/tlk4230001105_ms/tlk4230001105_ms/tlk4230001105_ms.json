@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300011_05_msg0001",
+      "style": 84,
+      "name": "When Alst becomes peaceful,\nRimurimu is going to change\njobs and become a salvager, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300011_05_msg0002",
+      "style": 84,
+      "name": "I was actually going to\ndo it right away, but\nKebikebi stopped me... mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300011_05_msg0003",
+      "style": 84,
+      "name": "It seems Kebikebi actually likes\nRimurimu quite a bit, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300011_05_msg0004",
+      "style": 84,
+      "name": "So I decided to stick around\njust a little longer, mo."
+    }
+  ]
+}

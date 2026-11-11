@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst002502_msg0001",
+      "style": 84,
+      "name": "Fumufumu fell towards\nthe Temi Ore Pillar."
+    },
+    {
+      "$id": 2,
+      "label": "qst002502_msg0002",
+      "style": 84,
+      "name": "Nopon are soft-bodied, so\nI think he's okay, but..."
+    },
+    {
+      "$id": 3,
+      "label": "qst002502_msg0003",
+      "style": 84,
+      "name": "Please save my partner!"
+    }
+  ]
+}

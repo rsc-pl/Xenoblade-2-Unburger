@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000119_10_msg0001",
+      "style": 84,
+      "name": "Rita-chan and Kaede-san told me. So\nyou were their benefactors!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000119_10_msg0002",
+      "style": 84,
+      "name": "Believe it or not, I've given them all\nkinds of advice too... I'd already\nheard about you."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000119_10_msg0003",
+      "style": 84,
+      "name": "I feel some kind of connection with\nyou. If you don't mind, would you chat\nwith me from time to time?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000119_10_msg0004",
+      "style": 84,
+      "name": "Oh, yeah! I haven't\nintroduced myself, have I?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000119_10_msg0005",
+      "style": 84,
+      "name": "My name is Mines. I'm aiming\nto become a teacher someday.\nNice to meet you!"
+    }
+  ]
+}

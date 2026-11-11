@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44100184_01_msg0001",
+      "style": 84,
+      "name": "Hey, outlanders! Come and\nsee! Look - it's a patch of\ngreen! Isn't it amazing?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44100184_01_msg0002",
+      "style": 84,
+      "name": "We hardly get any green here in\nLuxuria. Not outside town anyway."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44100184_01_msg0003",
+      "style": 84,
+      "name": "You know, I love plants, but I can't\ngo outside to look for them..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44100184_01_msg0004",
+      "style": 84,
+      "name": "I wish I could go out and see all the\nplants I read about in the library.\nBut it's kind of impossible, huh..."
+    }
+  ]
+}

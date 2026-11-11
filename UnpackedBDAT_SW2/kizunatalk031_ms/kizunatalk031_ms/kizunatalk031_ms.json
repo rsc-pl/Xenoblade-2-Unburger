@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk031_msg0001",
+      "style": 84,
+      "name": "Superbia is all wasteland and rock.\nWalking here is exhausting, mooo!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk031_msg0002",
+      "style": 84,
+      "name": "Let's rest here a bit."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk031_msg0003",
+      "style": 84,
+      "name": "Yay, mooo!"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk031_msg0004",
+      "style": 84,
+      "name": "You're being a bit of a wimp, Tora."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk031_msg0005",
+      "style": 84,
+      "name": "Tora was shut in at home\nmaking Hana, so Tora isn't\nused to long walks, mo."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk031_msg0006",
+      "style": 84,
+      "name": "Flying like Gramps looks so easy, mo."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk031_msg0007",
+      "style": 84,
+      "name": "You've got those big\near things, don't you?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk031_msg0008",
+      "style": 84,
+      "name": "These aren't for flying, mo!\nNo matter how much I flap them,\nI can't fly, mo."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk031_msg0009",
+      "style": 84,
+      "name": "If walking is too tough, how about\nasking Byakko to carry you?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk031_msg0010",
+      "style": 84,
+      "name": "Great idea, mo!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk031_msg0011",
+      "style": 84,
+      "name": "I must decline. I have sworn not to\ncarry anyone except for my lady."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk031_msg0012",
+      "style": 84,
+      "name": "Why don't you let him ride?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk031_msg0013",
+      "style": 84,
+      "name": "Huh!?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk031_msg0014",
+      "style": 84,
+      "name": "My lady, are you okay with that!?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk031_msg0015",
+      "style": 84,
+      "name": "If I let Tora-sama ride,\nHana-san may ride too,\nleaving no room for my lady!"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk031_msg0016",
+      "style": 84,
+      "name": "When you phrase it like that,\nI don't know what to say..."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk031_msg0017",
+      "style": 84,
+      "name": "I guess you can't ride\nByakko after all, Tora."
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk031_msg0018",
+      "style": 84,
+      "name": "Too bad, mooo..."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk031_msg0019",
+      "style": 84,
+      "name": "You doing alright, Homura?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk031_msg0020",
+      "style": 84,
+      "name": "I'm fine."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk031_msg0021",
+      "style": 84,
+      "name": "...But the sand dust bothers me."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk031_msg0022",
+      "style": 84,
+      "name": "Yeah, that's rough. Especially\nwhen it gets in your eyes..."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk031_msg0023",
+      "style": 84,
+      "name": "Hana doesn't like that either, mo."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk031_msg0024",
+      "style": 84,
+      "name": "Fine sand gets into my joints, and\nthey creak when I move, mo."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk031_msg0025",
+      "style": 84,
+      "name": "When we get back, I'll need Master to\ndo maintenance on me, mo."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk031_msg0026",
+      "style": 84,
+      "name": "Boss..."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk031_msg0027",
+      "style": 84,
+      "name": "Superbia is a harsh land with lots of\nproblems, mo. What do you think we\nshould do, mo?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk031_msg0028",
+      "style": 84,
+      "name": "Well, let's see..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk031_msg0029",
+      "style": 165,
+      "name": "How should we deal with this?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk031_msg0030",
+      "style": 164,
+      "name": "Lend them my salvage suit."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk031_msg0031",
+      "style": 164,
+      "name": "Just tough it out."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk031_msg0101",
+      "style": 84,
+      "name": "How about wearing my salvage suit?"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk031_msg0102",
+      "style": 84,
+      "name": "That would certainly keep\nsand out of our eyes."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk031_msg0103",
+      "style": 84,
+      "name": "I have a spare, so I'll lend\nit. Want to try it on?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk031_msg0104",
+      "style": 84,
+      "name": "Though size-wise only Nia can wear it."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk031_msg0105",
+      "style": 84,
+      "name": "Fine, I'll give it a try."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk031_msg0106",
+      "style": 84,
+      "name": "If this solves the problem, we\ncan get suits for everyone."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk031_msg0107",
+      "style": 84,
+      "name": "My lady... you look\nsurprisingly good in that."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk031_msg0108",
+      "style": 84,
+      "name": "Shut up!"
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk031_msg0109",
+      "style": 84,
+      "name": "So this is what it's like for\nRex when he goes salvaging."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk031_msg0110",
+      "style": 84,
+      "name": "It keeps the sand out\npretty well, doesn't it?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk031_msg0111",
+      "style": 84,
+      "name": "It does, but..."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk031_msg0112",
+      "style": 84,
+      "name": "...but I can barely see anything.\nThe visibility is terrible!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk031_msg0113",
+      "style": 84,
+      "name": "And it's really difficult\nto move around in."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk031_msg0114",
+      "style": 84,
+      "name": "Wouldn't this make combat impossible?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk031_msg0115",
+      "style": 84,
+      "name": "Yeah, I don't think I could\nfight effectively like this."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk031_msg0116",
+      "style": 84,
+      "name": "Boss's idea... unfortunately,\ndidn't make the cut, mo."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk031_msg0117",
+      "style": 84,
+      "name": "So it didn't work after all."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk031_msg0201",
+      "style": 84,
+      "name": "So it comes down to willpower?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk031_msg0202",
+      "style": 84,
+      "name": "Are you not trying to\nsolve the problem, mo?"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk031_msg0203",
+      "style": 84,
+      "name": "Well, hearing everyone made\nme think that sand really\nis a problem, but..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk031_msg0204",
+      "style": 84,
+      "name": "But I realized I never really\npaid it any mind myself."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk031_msg0205",
+      "style": 84,
+      "name": "It doesn't make our attacks miss,\nright? We fight like always."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk031_msg0206",
+      "style": 84,
+      "name": "It's annoying, sure, but it's\nnot actually hindering us."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk031_msg0207",
+      "style": 84,
+      "name": "...I suppose you're right."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk031_msg0208",
+      "style": 84,
+      "name": "Thinking calmly, it really\ndoesn't have any bad effect..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk031_msg0209",
+      "style": 84,
+      "name": "See? So if we just power through\nand ignore it, we'll be fine!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk031_msg0210",
+      "style": 84,
+      "name": "You're right! I'll try\nnot to let it bother me."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk031_msg0211",
+      "style": 84,
+      "name": "I'll try to ignore it too."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk031_msg0212",
+      "style": 84,
+      "name": "Okay! Let's power through this!"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk031_msg0213",
+      "style": 84,
+      "name": "Right!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk031_msg0214",
+      "style": 84,
+      "name": "Is this really okay, mo?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk031_msg0215",
+      "style": 84,
+      "name": "This will do, mo!"
+    }
+  ]
+}

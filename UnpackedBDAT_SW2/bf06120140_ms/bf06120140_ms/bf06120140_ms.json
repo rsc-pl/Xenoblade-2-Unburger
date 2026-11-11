@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf06120140_0010",
+      "style": 82,
+      "name": "To be precise, it is one of the [System:Ruby rt=Devices ]Servants[/System:Ruby]\nthat the [System:Ruby rt=Hikari ]Heaven's Holy Grail[/System:Ruby] uses."
+    },
+    {
+      "$id": 2,
+      "label": "bf06120140_0020",
+      "style": 82,
+      "name": "Hikari's?"
+    },
+    {
+      "$id": 3,
+      "label": "bf06120140_0030",
+      "style": 82,
+      "name": "If it's Hikari's [System:Ruby rt=Device ]Servant[/System:Ruby],\nwhy were we attacked?"
+    },
+    {
+      "$id": 4,
+      "label": "bf06120140_0040",
+      "style": 82,
+      "name": "That doesn't make sense."
+    },
+    {
+      "$id": 5,
+      "label": "bf06120140_0050",
+      "style": 82,
+      "name": "Serpent sank into the Cloud Sea during\nthe battle with Metsu 500 years ago."
+    }
+  ]
+}

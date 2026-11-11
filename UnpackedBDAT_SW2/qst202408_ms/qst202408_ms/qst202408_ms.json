@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202408_msg0001",
+      "style": 84,
+      "name": "Where has the Princess gone?!\nPlease find her quickly!"
+    },
+    {
+      "$id": 2,
+      "label": "qst202408_msg0002",
+      "style": 84,
+      "name": "Use your Merc Group, your informants,\nwhatever you can to find her!"
+    },
+    {
+      "$id": 3,
+      "label": "qst202408_msg0101",
+      "style": 84,
+      "name": "Do you know where the Princess is yet?"
+    },
+    {
+      "$id": 4,
+      "label": "qst202408_msg0102",
+      "style": 84,
+      "name": "Perhaps we should go\nlook for her as well[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "qst202408_msg0201",
+      "style": 84,
+      "name": "The Princess is in Luxuria?!"
+    },
+    {
+      "$id": 6,
+      "label": "qst202408_msg0202",
+      "style": 84,
+      "name": "Hurry! We must rescue the\nPrincess as soon as possible!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000057_01_msg0001",
+      "style": 84,
+      "name": "Hey, do you know about Core Chips?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000057_01_msg0002",
+      "style": 84,
+      "name": "Just carrying them isn't enough.\nYou use them on Blade weapons."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000057_01_msg0003",
+      "style": 84,
+      "name": "Then they add all kinds of effects,\nand the weapon keeps getting stronger!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000057_01_msg0004",
+      "style": 84,
+      "name": "That sounds nice... I want to try it\ntoo."
+    }
+  ]
+}

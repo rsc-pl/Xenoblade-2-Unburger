@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000021_02_msg0001",
+      "style": 84,
+      "name": "Some people are crushed by what\nhappened, while others are frightened\nand anxious..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000021_02_msg0002",
+      "style": 84,
+      "name": "Me? It's fired me up instead."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000021_02_msg0003",
+      "style": 84,
+      "name": "What's broke we'll fix! What's needed\nwe'll make! We can build all sorts of\nthings for Iira and our people."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000021_02_msg0004",
+      "style": 84,
+      "name": "I haven't got time to feel sad! I'm\ngoing to support Iira with my work.\nI've set my heart and mind on it!"
+    }
+  ]
+}

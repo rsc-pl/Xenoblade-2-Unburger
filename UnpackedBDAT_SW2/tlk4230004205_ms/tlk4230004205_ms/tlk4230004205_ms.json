@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300042_05_msg0001",
+      "style": 84,
+      "name": "It's an emergency, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300042_05_msg0002",
+      "style": 84,
+      "name": "We've received a report that\nan army of Ignas is trying\nto storm Volda Fort, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300042_05_msg0003",
+      "style": 84,
+      "name": "At this rate, the soldiers\nin the fort might be\ncompletely wiped out, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300042_05_msg0004",
+      "style": 84,
+      "name": "Even if I go to the Mercenary Group\nnow, I don't know how many troops\nthey'll be able to lend me... mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300042_05_msg0005",
+      "style": 84,
+      "name": "You'll dispatch handpicked\nBlades from the Hræsvelgr\nMercenary Group, mo?!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42300042_05_msg0006",
+      "style": 84,
+      "name": "What a reassuring offer, mo! I'll\nask you to do it right away, mo!"
+    }
+  ]
+}

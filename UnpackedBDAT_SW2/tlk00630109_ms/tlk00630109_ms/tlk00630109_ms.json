@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006301_09_msg0001",
+      "style": 84,
+      "name": "Perhaps due to our proximity to\nthe World Tree, Luxuria has not\nyet suffered significant damage."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006301_09_msg0002",
+      "style": 84,
+      "name": "However, I saw various Divine\nBeasts in the distance sinking\ninto the Cloud Sea..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006301_09_msg0003",
+      "style": 84,
+      "name": "...This must be the end of Alst."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006301_09_msg0004",
+      "style": 84,
+      "name": "When I think that Luxuria's decision\n500 years ago may have led to this\ncurrent situation, my heart aches."
+    }
+  ]
+}

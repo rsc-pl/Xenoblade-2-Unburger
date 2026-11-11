@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102405_msg001",
+      "style": 62,
+      "name": "Let's break the rock (temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst102405_msg002",
+      "style": 62,
+      "name": "Using Field Skill (temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102405_msg101",
+      "style": 0,
+      "name": "Success (temp)"
+    },
+    {
+      "$id": 4,
+      "label": "qst102405_msg201",
+      "style": 0,
+      "name": "Failure (temp)"
+    }
+  ]
+}

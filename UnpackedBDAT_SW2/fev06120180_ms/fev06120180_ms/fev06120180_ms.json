@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "fev06_120_180_msg0001",
+      "style": 84,
+      "name": "Zeke, you're going to show us\nthe way to Luxuria, right?"
+    },
+    {
+      "$id": 2,
+      "label": "fev06_120_180_msg0002",
+      "style": 84,
+      "name": "That's right..."
+    },
+    {
+      "$id": 3,
+      "label": "fev06_120_180_msg0003",
+      "style": 84,
+      "name": "But let's save the details for\nwhen we get back to our room."
+    },
+    {
+      "$id": 4,
+      "label": "fev06_120_180_msg0004",
+      "style": 84,
+      "name": "This isn't really the place to stand\naround talking."
+    },
+    {
+      "$id": 5,
+      "label": "fev06_120_180_msg0005",
+      "style": 84,
+      "name": "Alright then. Let's\nhead back to our room."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44310181_01_msg0001",
+      "style": 84,
+      "name": "Hm? Who are you...?\nYou're from another country."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44310181_01_msg0002",
+      "style": 84,
+      "name": "If you're only stopping here on your\njourney, please depart once you're\nready."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44310181_01_msg0003",
+      "style": 84,
+      "name": "Luxuria has limited interaction\nwith the other nations..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44310181_01_msg0004",
+      "style": 84,
+      "name": "It's forbidden to trade in unlicensed\ngoods, but some people still try to\nsell board games... Such bother."
+    }
+  ]
+}

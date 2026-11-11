@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000121_01_msg0001",
+      "style": 84,
+      "name": "You need me for something?\nCan't you see I'm busy?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000121_01_msg0002",
+      "style": 84,
+      "name": "What am I busy with? Practicing how to\nget behind someone, of course."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000121_01_msg0003",
+      "style": 84,
+      "name": "You Drivers and Blades should\nfind sneaking up on your\nfoes pretty effective."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000121_01_msg0004",
+      "style": 84,
+      "name": "Attacks from behind have a\nmuch higher chance of hitting\nthan a regular attack."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000121_01_msg0005",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] It's really a pickpocketing\ntechnique, but I'd rather\nnot let them know that!"
+    }
+  ]
+}

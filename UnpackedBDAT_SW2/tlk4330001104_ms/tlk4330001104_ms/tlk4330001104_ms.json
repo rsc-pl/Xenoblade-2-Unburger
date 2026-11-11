@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43300011_04_msg0001",
+      "style": 84,
+      "name": "Looking closely, you're traveling\nwith a lot of Blades."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43300011_04_msg0002",
+      "style": 84,
+      "name": "If you have more Blades than you can\nhandle, why not send some on a\nMerc Mission?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43300011_04_msg0003",
+      "style": 84,
+      "name": "There's plenty of folks in town\nwho'd appreciate a helping hand."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43300011_04_msg0004",
+      "style": 84,
+      "name": "You get rewards and experience too...\nTwo birds with one stone."
+    }
+  ]
+}

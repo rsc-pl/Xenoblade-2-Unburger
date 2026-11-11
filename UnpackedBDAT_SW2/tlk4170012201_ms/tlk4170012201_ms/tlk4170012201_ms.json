@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41700122_01_msg0001",
+      "style": 84,
+      "name": "Do you need something? This is\nthe number one farm in Torigo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41700122_01_msg0002",
+      "style": 84,
+      "name": "All the Gulan folk working here\nat Kloom Farm are my family."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41700122_01_msg0003",
+      "style": 84,
+      "name": "We've supported Torigo's agriculture\nfor generations, going back a long,\nlong time."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41700122_01_msg0004",
+      "style": 84,
+      "name": "Since you've come all this\nway, you should take some of\nour vegetables with you."
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk049_msg0001",
+      "style": 84,
+      "name": "The Karam Ruins... Quite impressive."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk049_msg0002",
+      "style": 84,
+      "name": "It's the perfect place to perform\nthe script I wrote."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk049_msg0003",
+      "style": 84,
+      "name": "It's a little damaged, so it\nwill need some repairs..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk049_msg0004",
+      "style": 84,
+      "name": "Hey, Yoshitsune."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk049_msg0005",
+      "style": 84,
+      "name": "Forget about that and make\nus some dinner instead."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk049_msg0006",
+      "style": 84,
+      "name": "You're much more useful cooking meals\nthan writing scripts, you know."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk049_msg0007",
+      "style": 84,
+      "name": "How terribly rude."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk049_msg0008",
+      "style": 165,
+      "name": "How should I respond?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk049_msg0009",
+      "style": 164,
+      "name": "What kind of cooking are you good at?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk049_msg0010",
+      "style": 164,
+      "name": "I'm more interested in the script."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk049_msg0011",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk049_msg0012",
+      "style": 164,
+      "name": "What kind of cooking are you good at?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk049_msg0013",
+      "style": 164,
+      "name": "I'm more interested in\nthe script though."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk049_msg0014",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk049_msg0015",
+      "style": 164,
+      "name": "What kind of cooking\nare you skilled at?"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk049_msg0016",
+      "style": 164,
+      "name": "I'm interested in the script, but..."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk049_msg0017",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk049_msg0018",
+      "style": 164,
+      "name": "What kind of cooking are you good at?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk049_msg0019",
+      "style": 164,
+      "name": "I'm more interested in\nthe script though."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk049_msg0101",
+      "style": 84,
+      "name": "So you prefer food over art too?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk049_msg0102",
+      "style": 84,
+      "name": "Ahahaha! That can't be helped."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk049_msg0103",
+      "style": 84,
+      "name": "Your cooking skills far outshine\nyour writing talents, after all."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk049_msg0104",
+      "style": 84,
+      "name": "Besides, I always just ate it gladly\nwithout thinking too much..."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk049_msg0105",
+      "style": 84,
+      "name": "I have no idea what dishes\nyou specialize in either."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk049_msg0106",
+      "style": 84,
+      "name": "That's because I've only been\nmaking things that you like."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk049_msg0107",
+      "style": 84,
+      "name": "Well, that was thoughtful of you."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk049_msg0108",
+      "style": 84,
+      "name": "Such thankless work..."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk049_msg0109",
+      "style": 84,
+      "name": "That said, I don't really\nhave any signature dishes."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk049_msg0110",
+      "style": 84,
+      "name": "Though I do have dishes\nI'm not good at."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk049_msg0111",
+      "style": 84,
+      "name": "The Avaritia Monkfish."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk049_msg0112",
+      "style": 84,
+      "name": "How can anyone make something\ntasty from that grotesque-looking\nfish...?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk049_msg0113",
+      "style": 84,
+      "name": "I can't even imagine it."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk049_msg0114",
+      "style": 84,
+      "name": "Isn't that just because you\ndislike the fish's appearance?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk049_msg0115",
+      "style": 84,
+      "name": "What are you talking about! Visual\npresentation is crucial in cuisine!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk049_msg0116",
+      "style": 84,
+      "name": "How could anyone make something\nbeautiful and delicious from\nsuch a hideous fish?!"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk049_msg0117",
+      "style": 84,
+      "name": "Nobody could possibly have an appetite\nwhen faced with such a thing!"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk049_msg0118",
+      "style": 84,
+      "name": "That bloated, slimy thing is too\nawful to even be called a fish..."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk049_msg0119",
+      "style": 84,
+      "name": "The mere thought makes my skin crawl!"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk049_msg0120",
+      "style": 84,
+      "name": "You're making all kinds\nof excuses, but..."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk049_msg0121",
+      "style": 84,
+      "name": "Bottom line, you just don't want\nto touch that fish, do you?"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk049_msg0122",
+      "style": 84,
+      "name": "Naturally."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk049_msg0123",
+      "style": 84,
+      "name": "I have no desire to soil my\nhands with such a creature."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk049_msg0124",
+      "style": 84,
+      "name": "So Yoshitsune has a fish he\ncan't handle... Maybe Homura\nshould cook it sometime."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk049_msg0125",
+      "style": 84,
+      "name": "Wha-?!"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk049_msg0126",
+      "style": 84,
+      "name": "Even if you can't manage,\nYoshitsune, Homura could make\nit delicious, couldn't she?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk049_msg0127",
+      "style": 84,
+      "name": "Hmm..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk049_msg0128",
+      "style": 84,
+      "name": "Now that you say that, I want to take\non the Avaritia Monkfish myself."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk049_msg0129",
+      "style": 84,
+      "name": "So you'll give it a\nshot sometime soon?"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk049_msg0130",
+      "style": 84,
+      "name": "Very well. I can't allow\nmyself to lose to Homura..."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk049_msg0131",
+      "style": 84,
+      "name": "I can't wait to taste your\ncooking, Yoshitsune!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk049_msg0132",
+      "style": 84,
+      "name": "Yoshitsune's cooking... I'm\nlooking forward to it."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk049_msg0133",
+      "style": 84,
+      "name": "Yoshitsune's cooking...\nI look forward to it."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk049_msg0134",
+      "style": 84,
+      "name": "Yoshitsune's cooking... I'm\nlookin' forward to it."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk049_msg0135",
+      "style": 84,
+      "name": "Heh... You can look forward to it."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk049_msg0201",
+      "style": 84,
+      "name": "As expected of my Driver.\nYou really do understand."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk049_msg0202",
+      "style": 84,
+      "name": "I've started writing a script with\nyou as the main character, but..."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk049_msg0203",
+      "style": 84,
+      "name": "I'll portray you much, much cooler\nthan you are in real life."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk049_msg0204",
+      "style": 84,
+      "name": "An unparalleled supreme\nhero, skilled in both\nletters and martial arts."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk049_msg0205",
+      "style": 84,
+      "name": "That kind of role hardly seems\nfitting for our Driver, though..."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk049_msg0206",
+      "style": 84,
+      "name": "As for you, Benkei... I'll\ncast you as a gluttonous,\nnap-loving lazy girl."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk049_msg0207",
+      "style": 84,
+      "name": "Wha-?!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk049_msg0208",
+      "style": 84,
+      "name": "I'm useful, aren't I?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk049_msg0209",
+      "style": 84,
+      "name": "I may be a little lazy\nsometimes, but I do what\nneeds doing, and I'm strong..."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk049_msg0210",
+      "style": 84,
+      "name": "However, our group is already filled\nwith such formidable individuals."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk049_msg0211",
+      "style": 84,
+      "name": "A gluttonous, nap-loving lazy\ngirl would add variety and make\nthe story more interesting."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk049_msg0212",
+      "style": 84,
+      "name": "Then surely that gluttonous,\nnap-loving lazy girl needn't be me?"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk049_msg0213",
+      "style": 84,
+      "name": "I want you to stand out, Benkei.\nI don't want you to lose your identity\nand fade into the background."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk049_msg0214",
+      "style": 84,
+      "name": "Then give me a different role."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk049_msg0215",
+      "style": 84,
+      "name": "You don't find the gluttonous,\nnap-loving lazy girl role appealing?"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk049_msg0216",
+      "style": 84,
+      "name": "No, I don't like that role at all!"
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk049_msg0217",
+      "style": 84,
+      "name": "Hmm..."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk049_msg0218",
+      "style": 84,
+      "name": "Then Rex, you'll be the\ngluttonous, nap-loving lazy boy."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk049_msg0219",
+      "style": 84,
+      "name": "No way!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk049_msg0220",
+      "style": 84,
+      "name": "Then Nia, you'll be the\ngluttonous, nap-loving lazy girl."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk049_msg0221",
+      "style": 84,
+      "name": "Absolutely not!"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk049_msg0222",
+      "style": 84,
+      "name": "Then Meleph, you'll be the\ngluttonous, nap-loving lazy girl."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk049_msg0223",
+      "style": 84,
+      "name": "I'm hardly young enough to be\ncalled a girl... And would that\npersonality move the plot?"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk049_msg0224",
+      "style": 84,
+      "name": "Then Zeke, you'll be the gluttonous,\nnap-loving lazy middle-aged man."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk049_msg0225",
+      "style": 84,
+      "name": "I ain't middle-aged yet! And\nwho'd want that protagonist?!"
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk049_msg0226",
+      "style": 84,
+      "name": "Good grief..."
+    }
+  ]
+}

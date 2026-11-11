@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst710302_msg0001",
+      "style": 84,
+      "name": "Well? Did you gather the parts?"
+    },
+    {
+      "$id": 2,
+      "label": "qst710302_msg0101",
+      "style": 84,
+      "name": "Yes! You gathered plenty.\nThank you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst710302_msg0102",
+      "style": 84,
+      "name": "Alright! It's complete! Hee hee hee!"
+    },
+    {
+      "$id": 4,
+      "label": "qst710302_msg0103",
+      "style": 84,
+      "name": "I call it the Gennai Special\n\"Endless Music Box\"!"
+    },
+    {
+      "$id": 5,
+      "label": "qst710302_msg0104",
+      "style": 84,
+      "name": "Once you wind it up, it'll keep\nplaying no matter how hard a shock\nit takes!"
+    },
+    {
+      "$id": 6,
+      "label": "qst710302_msg0105",
+      "style": 84,
+      "name": "Hmm? Then how do you\nstop it, you ask...?"
+    },
+    {
+      "$id": 7,
+      "label": "qst710302_msg0106",
+      "style": 84,
+      "name": "Hee hee hee! Come to think of it, I\ndidn't think of a way to stop it!"
+    },
+    {
+      "$id": 8,
+      "label": "qst710302_msg0107",
+      "style": 84,
+      "name": "Well, I'll think about that later."
+    },
+    {
+      "$id": 9,
+      "label": "qst710302_msg0108",
+      "style": 84,
+      "name": "Right then! As a thank you for\nhelping me collect the parts, I'll\nteach you all how to make it too."
+    },
+    {
+      "$id": 10,
+      "label": "qst710302_msg0109",
+      "style": 84,
+      "name": "Hmm... Hmmm!"
+    },
+    {
+      "$id": 11,
+      "label": "qst710302_msg0110",
+      "style": 84,
+      "name": "Finishing it has given me an idea\nfor a new invention!"
+    },
+    {
+      "$id": 12,
+      "label": "qst710302_msg0111",
+      "style": 84,
+      "name": "The next one should be amazing and\nfix the flaws in the last invention!"
+    },
+    {
+      "$id": 13,
+      "label": "qst710302_msg0112",
+      "style": 84,
+      "name": "But, for this, it seems I'll need a\nlot of parts that can withstand the\ndry climate around the capital."
+    },
+    {
+      "$id": 14,
+      "label": "qst710302_msg0113",
+      "style": 84,
+      "name": "I believe I've heard a rumor\nthat such parts can be found\nin various places in Gula."
+    },
+    {
+      "$id": 15,
+      "label": "qst710302_msg0114",
+      "style": 84,
+      "name": "Well then, I'll leave the parts\ncollection to you all again!"
+    },
+    {
+      "$id": 16,
+      "label": "qst710302_msg0115",
+      "style": 84,
+      "name": "This time too, you just need\nto collect the machine parts\nand give them to me!"
+    },
+    {
+      "$id": 17,
+      "label": "qst710302_msg0116",
+      "style": 84,
+      "name": "I'm counting on you!"
+    },
+    {
+      "$id": 18,
+      "label": "qst710302_msg0201",
+      "style": 84,
+      "name": "To complete this invention,\nI still need more machine\nparts lying around in Iira!"
+    },
+    {
+      "$id": 19,
+      "label": "qst710302_msg0202",
+      "style": 84,
+      "name": "I especially need a lot of round\ngears, so if you find any, could\nyou prioritize giving them to me?"
+    }
+  ]
+}

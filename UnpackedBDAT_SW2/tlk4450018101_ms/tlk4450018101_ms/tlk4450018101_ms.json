@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44500181_01_msg0001",
+      "style": 84,
+      "name": "Nice to see some outsiders\nfor a change! We don't get\nmany round here..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44500181_01_msg0002",
+      "style": 84,
+      "name": "You must find it perishing\nwith all the snow. Come in\nand thaw yourselves out."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000020_04_msg0001",
+      "style": 84,
+      "name": "I'm a retired old man now, but\nI've been thinking about helping\nWotta build new ships."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000020_04_msg0002",
+      "style": 84,
+      "name": "This isn't just about my apprentice.\nI feel I must use my skills to\nprotect Iira's future."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000020_04_msg0003",
+      "style": 84,
+      "name": "It's likely that this will be my\nlife's last work, both as a\nshipwright and as an individual."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000020_04_msg0004",
+      "style": 84,
+      "name": "Perhaps I'm more energetic than is\nsuitable for someone my age. Ohoho!"
+    }
+  ]
+}

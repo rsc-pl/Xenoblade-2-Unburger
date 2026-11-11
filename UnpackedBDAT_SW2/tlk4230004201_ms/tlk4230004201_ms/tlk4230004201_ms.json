@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300042_01_msg0001",
+      "style": 84,
+      "name": "Are there red barrels in the city, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300042_01_msg0002",
+      "style": 84,
+      "name": "Those are barrels handled by the Nopon\ntrade guilds, mo. They're painted red\nto make them easy to identify, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300042_01_msg0003",
+      "style": 84,
+      "name": "Other guilds besides Avaritia Trading\nCompany use them too. They're standard\nnationwide, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300042_01_msg0004",
+      "style": 84,
+      "name": "And sometimes we lock them, mo."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300042_01_msg0005",
+      "style": 84,
+      "name": "But recently, some people have\nbeen breaking them, which is\na bit of a problem, mo."
+    }
+  ]
+}

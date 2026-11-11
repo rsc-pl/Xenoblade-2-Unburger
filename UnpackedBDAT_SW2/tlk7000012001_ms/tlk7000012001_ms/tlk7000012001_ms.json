@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000120_01_msg0001",
+      "style": 84,
+      "name": "Hey! I'm Elba, the brave warrior of\nGula! Nice to meet you!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000120_01_msg0002",
+      "style": 84,
+      "name": "Anyway, look at this weapon! The chief\njust gave it to me the other day!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000120_01_msg0003",
+      "style": 84,
+      "name": "Did you know? If you keep using a\nweapon, the skills it can unleash\nwill grow too! That's important!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000120_01_msg0004",
+      "style": 84,
+      "name": "Just you wait! I'll train and train\nwith this as my partner, and someday\nI'll become Gula's greatest warrior!"
+    }
+  ]
+}

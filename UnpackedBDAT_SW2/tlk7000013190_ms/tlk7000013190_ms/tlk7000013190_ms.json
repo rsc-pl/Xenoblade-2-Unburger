@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000131_90_msg0001",
+      "style": 84,
+      "name": "Whoa! Cool!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000131_90_msg0002",
+      "style": 84,
+      "name": "It's been aaages since I\nsaw Drivers and Blades!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000131_90_msg0003",
+      "style": 84,
+      "name": "This village is so small, it's\nonly got two houses and an inn..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000131_90_msg0004",
+      "style": 84,
+      "name": "It used to be way bigger, but people\ndon't really come by any more."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000131_90_msg0005",
+      "style": 84,
+      "name": "If you stay at Teo's inn,\ncome play with me, okay?"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310158_01_msg0001",
+      "style": 84,
+      "name": "At the top of this elevator is the\nimperial capital, Alba Margen."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310158_01_msg0002",
+      "style": 84,
+      "name": "You can buy Core Chips and accessories\nmade with Superbia's advanced\ntechnology."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310158_01_msg0003",
+      "style": 84,
+      "name": "Any Driver should visit that\nplace at least once."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310158_01_msg0004",
+      "style": 84,
+      "name": "Most food in the Imperial\nCapital is pretty awful, but\nQuoteletta is worth trying."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310158_01_msg0005",
+      "style": 84,
+      "name": "Listen, don't eat Kascha.\nThat gruel is truly bizarre..."
+    }
+  ]
+}

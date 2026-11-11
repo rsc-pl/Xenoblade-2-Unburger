@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44400287_03_msg0001",
+      "style": 84,
+      "name": "The situation I feared may be about\nto happen..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44400287_03_msg0002",
+      "style": 84,
+      "name": "Luxurian science has not\nevolved in the way that\nSuperbian science has."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44400287_03_msg0003",
+      "style": 84,
+      "name": "I wonder how long we can keep\nresisting as we are..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44400287_03_msg0004",
+      "style": 84,
+      "name": "Even I, who believe only in science,\nfind myself praying to Adel-sama..."
+    }
+  ]
+}

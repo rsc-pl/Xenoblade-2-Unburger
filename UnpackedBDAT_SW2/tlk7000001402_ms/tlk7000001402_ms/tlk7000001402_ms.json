@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000014_02_msg0001",
+      "style": 84,
+      "name": "I've never seen the capital in\nthis kind of state before..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000014_02_msg0002",
+      "style": 84,
+      "name": "Some guy has been following me\naround a lot lately, too, which is\nthe last thing I need right now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000014_02_msg0003",
+      "style": 84,
+      "name": "He's been coming to the shop lately.\nHe says he's a performer, but I don't\nknow why he bothers with me..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000014_02_msg0004",
+      "style": 84,
+      "name": "He seems happy whether I'm rude to\nhim or even if I give him the silent\ntreatment. What's that all about?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000014_02_msg0005",
+      "style": 84,
+      "name": "He doesn't ask for money or use\nviolence, so he doesn't seem bad,\nbut..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000014_02_msg0006",
+      "style": 84,
+      "name": "But I still just want him to leave\nme alone. I'm not much of a people\nperson. I don't like being pestered."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000014_02_msg0007",
+      "style": 84,
+      "name": "How can I get him to understand that?!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000035_01_msg0001",
+      "style": 84,
+      "name": "Most materials can just be gathered..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000035_01_msg0002",
+      "style": 84,
+      "name": "But there are some things you can\nonly get by defeating monsters."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000035_01_msg0003",
+      "style": 84,
+      "name": "A handyman I met at a restaurant told\nme that. Apparently he has a hard time\ngetting some stuff he needs for work."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000035_01_msg0004",
+      "style": 84,
+      "name": "I asked which was tougher: materials\nor an unruly partner. He smiled and\nsaid to hire him if I needed help."
+    }
+  ]
+}

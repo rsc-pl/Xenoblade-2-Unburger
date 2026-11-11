@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000076_04_msg0001",
+      "style": 84,
+      "name": "Rumors of your exploits have reached\neven us."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000076_04_msg0002",
+      "style": 84,
+      "name": "Seems you've made quite a name for\nyourselves in Iira, helping people and\ndefeating monsters."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000076_04_msg0003",
+      "style": 84,
+      "name": "Ah, I bet one of these days they'll\nbuild a statue of you or name a\nbuilding after you or something."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000076_04_msg0004",
+      "style": 84,
+      "name": "If I keep doing well in the army,\nmaybe they'll build \"Bazuain's\nSomething-or-Other\" someday! Hahaha!"
+    }
+  ]
+}

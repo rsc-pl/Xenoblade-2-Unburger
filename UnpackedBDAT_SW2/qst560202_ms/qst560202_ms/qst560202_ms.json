@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst660202_msg0001",
+      "style": 84,
+      "name": "I am a wandering bard, mo."
+    },
+    {
+      "$id": 2,
+      "label": "qst660202_msg0002",
+      "style": 84,
+      "name": "I'd like to hear of your\nadventures, mo. I'll put them\nto song on this Whispercorder, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst660202_msg0003",
+      "style": 84,
+      "name": "Of course, I'll give you\nsomething in return, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "qst660202_msg0004",
+      "style": 165,
+      "name": "Trade for an Ultimate Weaponry?"
+    },
+    {
+      "$id": 5,
+      "label": "qst660202_msg0005",
+      "style": 165,
+      "name": "Tell 400,000 Bonus EXP's worth."
+    },
+    {
+      "$id": 6,
+      "label": "qst660202_msg0006",
+      "style": 165,
+      "name": "Not right now."
+    },
+    {
+      "$id": 7,
+      "label": "qst660201_msg0008",
+      "style": 84,
+      "name": "You'll tell me?"
+    },
+    {
+      "$id": 8,
+      "label": "qst660202_msg0101",
+      "style": 84,
+      "name": "Thank you, mo!"
+    },
+    {
+      "$id": 9,
+      "label": "qst660202_msg0102",
+      "style": 84,
+      "name": "But wait, I can't tell stories while\nplaying the Whispercorder, mo!?"
+    },
+    {
+      "$id": 10,
+      "label": "qst660202_msg0103",
+      "style": 84,
+      "name": "Oh no, mo!"
+    },
+    {
+      "$id": 11,
+      "label": "qst660201_msg0013",
+      "style": 84,
+      "name": "You won't tell me?"
+    },
+    {
+      "$id": 12,
+      "label": "qst660202_msg0201",
+      "style": 84,
+      "name": "Did you not like my offer,\nmo? Or do you not have enough\nexperience to tell, mo?"
+    },
+    {
+      "$id": 13,
+      "label": "qst660202_msg0202",
+      "style": 84,
+      "name": "In any case, please\ntalk to me again, mo."
+    }
+  ]
+}

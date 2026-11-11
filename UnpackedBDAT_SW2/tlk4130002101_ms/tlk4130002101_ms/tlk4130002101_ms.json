@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300021_01_msg0001",
+      "style": 84,
+      "name": "Running a shop here, you get to hear\nall sorts of interesting stories."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300021_01_msg0002",
+      "style": 84,
+      "name": "It's right in front of the\nport, so there are a lot of\nadventurers and merchants."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300021_01_msg0003",
+      "style": 84,
+      "name": "For example, it seems each\nDivine Beast has several\nplaces called Secret Areas."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300021_01_msg0004",
+      "style": 84,
+      "name": "In Gula, there's a place called\nDawnlight Grotto where you can see a\nmagnificent view."
+    },
+    {
+      "$id": 5,
+      "label": "tlk41300021_01_msg0005",
+      "style": 84,
+      "name": "For an adventurer, traveling around\nand finding beautiful scenery is part\nof the fun, isn't it?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44600184_04_msg0001",
+      "style": 84,
+      "name": "You're from outside, right? More of\nyou have been coming lately. Are you\nshopping at the black market too?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44600184_04_msg0002",
+      "style": 84,
+      "name": "This shop opens only at night\nand sells things you won't find\nthrough official channels."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44600184_04_msg0003",
+      "style": 84,
+      "name": "The quality used to be low, but it's\nimproved since outsiders started\ncoming. It really helps."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300011_01_msg0001",
+      "style": 84,
+      "name": "The people who brought work to\nChairman Bahn were Iira, right?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300011_01_msg0002",
+      "style": 84,
+      "name": "What could they be plotting... I can't\nunderstand what extremists like them\nare thinking."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300011_01_msg0003",
+      "style": 84,
+      "name": "But hey, I'm just happy\nthat the Uzushio and its\ncrew came back safely."
+    }
+  ]
+}

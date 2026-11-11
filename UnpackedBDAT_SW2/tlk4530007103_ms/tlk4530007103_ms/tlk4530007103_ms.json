@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45300071_03_msg0001",
+      "style": 84,
+      "name": "Unlike Superbia, Acedia has\na pleasant climate and is\nvery easy to live in."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45300071_03_msg0002",
+      "style": 84,
+      "name": "I came here for sightseeing,\nbut perhaps I could even\nsettle here permanently."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45300071_03_msg0003",
+      "style": 84,
+      "name": "Maybe a wonderful encounter is waiting\nfor me here in Acedia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45300071_03_msg0004",
+      "style": 84,
+      "name": "I throw money from the overlook every\nday. Wouldn't it be strange if my wish\ndidn't come true?"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360113_02_msg0001",
+      "style": 84,
+      "name": "I've switched watch with Rimurimu,\nbut I can't help but keep an eye\nout for suspicious people, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360113_02_msg0002",
+      "style": 84,
+      "name": "Whether Kebikebi is on break or not,\nreport anyone suspicious you see, mo!"
+    }
+  ]
+}

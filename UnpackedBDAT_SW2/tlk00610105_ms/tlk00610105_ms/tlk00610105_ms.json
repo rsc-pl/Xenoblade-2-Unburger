@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006101_05_msg0001",
+      "style": 84,
+      "name": "There are a lot of good\npeople in Avaritia."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006101_05_msg0002",
+      "style": 84,
+      "name": "I'd only been helping out at the\nport until now, but Garam-san\ntold me the reason for it."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006101_05_msg0003",
+      "style": 84,
+      "name": "He said he had us do it so we could\nget used to Avaritia and as training\nto build our stamina and endurance."
+    },
+    {
+      "$id": 4,
+      "label": "tlk006101_05_msg0004",
+      "style": 84,
+      "name": "We'll do our best for everyone here.\nWe have to repay the kindness\nthey've shown us."
+    }
+  ]
+}

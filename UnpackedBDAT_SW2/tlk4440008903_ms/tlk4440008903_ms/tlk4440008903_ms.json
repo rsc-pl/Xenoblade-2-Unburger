@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4440008903_msg0001",
+      "style": 84,
+      "name": "You, bathing in the spring, more\nbeautiful than the sparkling spray..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4440008903_msg0002",
+      "style": 84,
+      "name": "Ah... When will that person finally\ncome out of the pages...?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk4440008903_msg0003",
+      "style": 84,
+      "name": "You look worried. What's wrong?\nMe? There's nothing wrong with me."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000048_01_msg0001",
+      "style": 84,
+      "name": "I've had the pleasure of knowing\nAdel-sama for a long time now."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000048_01_msg0002",
+      "style": 84,
+      "name": "I'm grateful for the\nkindness he's shown me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000048_01_msg0003",
+      "style": 84,
+      "name": "Please take some time to\nthink of your own happiness.\nThis old woman does worry."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000048_01_msg0004",
+      "style": 84,
+      "name": "No one knows what will happen next, or\nwhere. I want him to value the time he\nhas with his family above all else."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000048_01_msg0005",
+      "style": 84,
+      "name": "Sharing happiness and grief with\nyour family is especially important\nin times of great hardship..."
+    }
+  ]
+}

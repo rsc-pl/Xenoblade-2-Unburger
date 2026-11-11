@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102801_msg001",
+      "style": 62,
+      "name": "The boiler isn't working right,\nso please ask B-san to repair\nit. Here's the repair memo."
+    },
+    {
+      "$id": 2,
+      "label": "qst102801_msg002",
+      "style": 62,
+      "name": "B-san is in front of the factory."
+    }
+  ]
+}

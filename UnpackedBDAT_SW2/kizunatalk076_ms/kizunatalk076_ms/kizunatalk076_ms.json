@@ -1,0 +1,438 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk076_msg0001",
+      "style": 84,
+      "name": "So we're inside Iira's\nDivine Beast, huh..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk076_msg0002",
+      "style": 84,
+      "name": "This is where that epic battle took\nplace 500 years ago, isn't it?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk076_msg0003",
+      "style": 84,
+      "name": "Yes, indeed..."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk076_msg0004",
+      "style": 84,
+      "name": "Man, I really wish I could've\nbeen part of that battle."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk076_msg0005",
+      "style": 84,
+      "name": "Hey, you've lost your memories, so\nmaybe you actually were there?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk076_msg0006",
+      "style": 84,
+      "name": "Well, since you lost your memories,\nperhaps you really were there?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk076_msg0007",
+      "style": 84,
+      "name": "It's just that you've lost\nyour memories. Perhaps you\ndid take part in it?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk076_msg0008",
+      "style": 84,
+      "name": "Ya just don't remember, but ya\nmight've been there, ya know?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk076_msg0009",
+      "style": 84,
+      "name": "Now that you mention it, that's\nsuch a thrilling possibility!"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk076_msg0010",
+      "style": 84,
+      "name": "Hey! Hikari, do you remember?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk076_msg0012",
+      "style": 84,
+      "name": "I kind of remember her being\nthere, but also kind of don't..."
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk076_msg0013",
+      "style": 84,
+      "name": "That's so vague! Which one is it?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk076_msg0015",
+      "style": 84,
+      "name": "I don't remember in detail\nwho was there 500 years ago."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk076_msg0016",
+      "style": 84,
+      "name": "...Tch, that's disappointing."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk076_msg0017",
+      "style": 84,
+      "name": "Don't look so down. But hey,\nif Yaegiri had been there..."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk076_msg0018",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk076_msg0019",
+      "style": 164,
+      "name": "I wonder if you'd have\nfought against Hikari?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk076_msg0020",
+      "style": 164,
+      "name": "I wonder if you'd have\nbeen allies with Hikari?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk076_msg0021",
+      "style": 84,
+      "name": "Don't look so down. But if\nYaegiri had been there..."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk076_msg0022",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk076_msg0023",
+      "style": 164,
+      "name": "Would you have fought against Hikari?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk076_msg0024",
+      "style": 164,
+      "name": "Would you have been Hikari's ally?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk076_msg0025",
+      "style": 84,
+      "name": "There is no need to look so\ndespondent. If Yaegiri was there..."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk076_msg0026",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk076_msg0027",
+      "style": 164,
+      "name": "Would you have battled Hikari?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk076_msg0028",
+      "style": 164,
+      "name": "Would you have been Hikari's ally?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk076_msg0029",
+      "style": 84,
+      "name": "No need to be that disappointed.\nBut if Yaegiri had been there..."
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk076_msg0030",
+      "style": 165,
+      "name": "What should I say?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk076_msg0031",
+      "style": 164,
+      "name": "Would you have fought against Hikari?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk076_msg0032",
+      "style": 164,
+      "name": "Would you have been Hikari's ally?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk076_msg0101",
+      "style": 84,
+      "name": "Exactly! It couldn't have\nbeen any other way!"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk076_msg0102",
+      "style": 84,
+      "name": "We would have given it our\nall, fighting an intense\nbattle against each other!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk076_msg0103",
+      "style": 84,
+      "name": "I'd have been aiming to become the\nstrongest Blade no matter what..."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk076_msg0104",
+      "style": 84,
+      "name": "So that means Hikari would have\nbeen my perfect opponent!"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk076_msg0105",
+      "style": 84,
+      "name": "What do you think, Hikari?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk076_msg0106",
+      "style": 84,
+      "name": "What's your take on this, Hikari?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk076_msg0107",
+      "style": 84,
+      "name": "Is that right, Hikari?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk076_msg0108",
+      "style": 84,
+      "name": "Is that right, Hikari?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk076_msg0109",
+      "style": 84,
+      "name": "Well..."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk076_msg0110",
+      "style": 84,
+      "name": "I think I'd remember fighting\nsomeone like Yaegiri, so..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk076_msg0111",
+      "style": 84,
+      "name": "She probably wasn't there back then."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk076_msg0112",
+      "style": 84,
+      "name": "Or even if she was there,\nI might have just let\nsomeone else handle her?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk076_msg0201",
+      "style": 84,
+      "name": "An ally? Of Hikari's?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk076_msg0202",
+      "style": 84,
+      "name": "Hmm, I see. That's not entirely\nimpossible, I suppose."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk076_msg0203",
+      "style": 84,
+      "name": "...No, that's not possible!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk076_msg0204",
+      "style": 84,
+      "name": "What makes you so sure?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk076_msg0205",
+      "style": 84,
+      "name": "I'm a Blade whose goal is\nto be the strongest in\nall of Alst, remember?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk076_msg0206",
+      "style": 84,
+      "name": "Regardless of Alst's situation,\nI definitely would have\nchallenged Hikari to a fight!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk076_msg0207",
+      "style": 84,
+      "name": "This was during a war. Such\npersonal motives wouldn't\nhave mattered, would they?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk076_msg0208",
+      "style": 84,
+      "name": "No! I only have one reason to fight!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk076_msg0209",
+      "style": 84,
+      "name": "Whoever my Driver might be,\nthat will never change..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk076_msg0210",
+      "style": 84,
+      "name": "In any era, I'll always fight in\npursuit of strong opponents!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk076_msg0211",
+      "style": 84,
+      "name": "...What a ridiculous reason. But\nit is just like you, Yaegiri."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk076_msg0212",
+      "style": 84,
+      "name": "That just shows how much you respect\nHikari's strength, doesn't it?"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk076_msg0213",
+      "style": 84,
+      "name": "That just means she recognizes\nHikari's strength, doesn't it?"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk076_msg0214",
+      "style": 84,
+      "name": "That must mean she recognizes\nHikari's strength, right?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk076_msg0215",
+      "style": 84,
+      "name": "That just means she recognizes\nhow strong Hikari is, yeah?"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk076_msg0216",
+      "style": 84,
+      "name": "Well, I don't mind that obsession."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk076_msg0217",
+      "style": 84,
+      "name": "With that kind of determination,\nyou'll definitely claim the\ntitle of strongest one day."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk076_msg0301",
+      "style": 84,
+      "name": "Hmm... From the way she answered,\nshe probably won't fight me yet."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk076_msg0302",
+      "style": 84,
+      "name": "I'm saying even a practice\nmatch would be fine, but..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk076_msg0303",
+      "style": 84,
+      "name": "She always just dismisses me."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk076_msg0304",
+      "style": 84,
+      "name": "Indeed, Hikari doesn't\nseem to want to fight."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk076_msg0305",
+      "style": 84,
+      "name": "Yeah, Hikari's not really looking\nlike she's in the mood..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk076_msg0306",
+      "style": 84,
+      "name": "Hikari certainly doesn't appear\nto be in a fighting mood."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk076_msg0307",
+      "style": 84,
+      "name": "Yeah, Hikari doesn't seem\nlike she plans to fight."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk076_msg0308",
+      "style": 84,
+      "name": "Oh well, I can accept that for now!"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk076_msg0309",
+      "style": 84,
+      "name": "I'm still in training too, you know."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk076_msg0310",
+      "style": 84,
+      "name": "I'll keep fighting all kinds of\nopponents alongside my Driver,\ngaining more experience..."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk076_msg0311",
+      "style": 84,
+      "name": "One day I'll prove I\ncan surpass Hikari!"
+    }
+  ]
+}

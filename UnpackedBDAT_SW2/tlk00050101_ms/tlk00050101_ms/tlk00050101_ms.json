@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000501_01_msg0001",
+      "style": 84,
+      "name": "Hello there, mo. Nilny came\nto the Superbian Empire for\nsome sightseeing, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000501_01_msg0003",
+      "style": 84,
+      "name": "Alba Margen is a wonderful\nplace, mo~ The air is nice,\nand the food is plentiful~"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000501_01_msg0004",
+      "style": 84,
+      "name": "Huh? That's not right, mo?\nAh-ahahaha~ I must have\nmisunderstood, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000501_01_msg0005",
+      "style": 84,
+      "name": "W-well then, Nilny will go\nlook over there, mo. Thank\nyou for your concern, mo~"
+    }
+  ]
+}

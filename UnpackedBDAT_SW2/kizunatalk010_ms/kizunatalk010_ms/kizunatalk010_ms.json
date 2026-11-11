@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk010_msg0001",
+      "style": 84,
+      "name": "Amazing. You can see the\nwhole town from here."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk010_msg0002",
+      "style": 84,
+      "name": "What did I tell you? Pretty\ngreat view, isn't it?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk010_msg0003",
+      "style": 84,
+      "name": "This is the place with the\nbest view in Torigo town."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk010_msg0004",
+      "style": 84,
+      "name": "Zeke, you weren't born here, were you?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk010_msg0005",
+      "style": 84,
+      "name": "...How come you know so\nmuch about this place?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk010_msg0006",
+      "style": 84,
+      "name": "Well, actually..."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk010_msg0007",
+      "style": 84,
+      "name": "Last time I visited Torigo, the\ninnkeeper told me about it."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk010_msg0008",
+      "style": 84,
+      "name": "Right, you've traveled\nextensively, haven't you?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk010_msg0009",
+      "style": 84,
+      "name": "Do you know other countries as well\nas you know Gula?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk010_msg0010",
+      "style": 84,
+      "name": "Oh yeah, I've seen all kinds\nof things in my travels..."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk010_msg0011",
+      "style": 84,
+      "name": "Hey, boy... How does the\nscenery from here look to you?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk010_msg0012",
+      "style": 165,
+      "name": "How should I answer?"
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk010_msg0013",
+      "style": 164,
+      "name": "It's a big, beautiful,\nand lively town."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk010_msg0014",
+      "style": 164,
+      "name": "I think I prefer Iyasaki Village."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk010_msg0101",
+      "style": 84,
+      "name": "I see... That's right."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk010_msg0102",
+      "style": 84,
+      "name": "But that's just the surface.\nIt's nothing but a facade."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk010_msg0103",
+      "style": 84,
+      "name": "A facade?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk010_msg0104",
+      "style": 84,
+      "name": "Yeah, exactly."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk010_msg0105",
+      "style": 84,
+      "name": "As you know, Gula is a\ncolony of Superbia."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk010_msg0106",
+      "style": 84,
+      "name": "The only places that look\nvibrant are the towns with\nSuperbian military bases."
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk010_msg0107",
+      "style": 84,
+      "name": "The other towns and villages\nin Gula survive through\nlogging and farming..."
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk010_msg0108",
+      "style": 84,
+      "name": "And then they export\nmost of it to Superbia."
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk010_msg0109",
+      "style": 84,
+      "name": "It's not an easy life. There are\nlots of people who are suffering."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk010_msg0110",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk010_msg0111",
+      "style": 84,
+      "name": "And it's not just Gula..."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk010_msg0112",
+      "style": 84,
+      "name": "In my travels, I've witnessed\nthe ugly side of many nations."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk010_msg0113",
+      "style": 84,
+      "name": "...Didn't you try to\nhelp those people?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk010_msg0114",
+      "style": 84,
+      "name": "I tried many, many times..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk010_msg0115",
+      "style": 84,
+      "name": "I was convinced I could make a\ndifference through my own strength."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk010_msg0116",
+      "style": 84,
+      "name": "But it turned out my fancy\ntitle and sword skills were\nabsolutely worthless..."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk010_msg0117",
+      "style": 84,
+      "name": "My arrogant belief that I\ncould save the world by myself\nwas completely shattered."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk010_msg0118",
+      "style": 84,
+      "name": "...That's not true."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk010_msg0119",
+      "style": 84,
+      "name": "Huh?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk010_msg0120",
+      "style": 84,
+      "name": "Well, it's not like we can help\neveryone in the world right away."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk010_msg0121",
+      "style": 84,
+      "name": "But there are people like\nme and Homura whose lives\nyou've definitely saved."
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk010_msg0122",
+      "style": 84,
+      "name": "So, you shouldn't give up."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk010_msg0123",
+      "style": 84,
+      "name": "Plus, now you have friends\nyou can count on, don't you?"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk010_msg0124",
+      "style": 84,
+      "name": "Yeah, you're right."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk010_msg0125",
+      "style": 84,
+      "name": "You're absolutely right, boy."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk010_msg0126",
+      "style": 84,
+      "name": "Now I've got dependable\nallies at my side..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk010_msg0127",
+      "style": 84,
+      "name": "Things I couldn't do back\nthen might be possible now."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk010_msg0128",
+      "style": 84,
+      "name": "Right?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk010_msg0129",
+      "style": 84,
+      "name": "So let's keep going forward\nand never give up."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk010_msg0130",
+      "style": 84,
+      "name": "Yeah... I just wasn't\nfired up enough..."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk010_msg0131",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]I'll make Thunderclap Zeke's\nname resound throughout Alst!"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk010_msg0132",
+      "style": 84,
+      "name": "Whew! Now I'm properly fired up.\nCome on, Rex! Shout your resolve!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk010_msg0133",
+      "style": 84,
+      "name": "Erm..."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk010_msg0134",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]I'll take Homura and Hikari to Eden!!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk010_msg0135",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Yeeehaaaa!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk010_msg0136",
+      "style": 84,
+      "name": "What are you idiots doing..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk010_msg0137",
+      "style": 84,
+      "name": "It's embarrassing..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk010_msg0201",
+      "style": 84,
+      "name": "Iyasaki Village is a peaceful\nplace that wasn't hit hard\nby the war, right?"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk010_msg0202",
+      "style": 84,
+      "name": "Yeah. That's right."
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk010_msg0203",
+      "style": 84,
+      "name": "But not every village in Alst is\nlike that."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk010_msg0204",
+      "style": 84,
+      "name": "...What do you mean?"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk010_msg0205",
+      "style": 84,
+      "name": "Listen, boy. What you can\nsee is not the whole truth."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk010_msg0206",
+      "style": 84,
+      "name": "Places might look prosperous on\nthe surface, but behind that\nfacade, many people are suffering."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk010_msg0207",
+      "style": 84,
+      "name": "...You mean here in Gula too?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk010_msg0208",
+      "style": 84,
+      "name": "Exactly. Cities like Torigo\nwith Superbian military\nbases are thriving."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk010_msg0209",
+      "style": 84,
+      "name": "But the other towns and\nvillages in Gula survive\non logging and farming..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk010_msg0210",
+      "style": 84,
+      "name": "And then they export\nmost of it to Superbia."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk010_msg0211",
+      "style": 84,
+      "name": "It's not an easy life. There are\nlots of people who are suffering."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk010_msg0212",
+      "style": 84,
+      "name": "And it's not just Gula..."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk010_msg0213",
+      "style": 84,
+      "name": "I've seen so many places\nlike this that it made me\nfeel completely helpless."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk010_msg0214",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk010_msg0215",
+      "style": 84,
+      "name": "Zeke, you aren't powerless."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk010_msg0216",
+      "style": 84,
+      "name": "You have the determination\nto help others."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk010_msg0217",
+      "style": 84,
+      "name": "Even now, you're thinking and\nworrying about suffering people..."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk010_msg0218",
+      "style": 84,
+      "name": "As expected of a future king."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk010_msg0219",
+      "style": 84,
+      "name": "Don't make fun of me..."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk010_msg0220",
+      "style": 84,
+      "name": "I'm being sincere."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk010_msg0221",
+      "style": 84,
+      "name": "I get so caught up with the\npeople right in front of me."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk010_msg0222",
+      "style": 84,
+      "name": "Homura, Hikari, Gramps,\nNia, everyone..."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk010_msg0223",
+      "style": 84,
+      "name": "But you worry deeply about people\nwho aren't even in front of you."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk010_msg0224",
+      "style": 84,
+      "name": "Even people whose names\nyou don't know..."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk010_msg0225",
+      "style": 84,
+      "name": "That's really incredible. It\nmakes me want to try harder so\nI'm not falling behind you."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk010_msg0226",
+      "style": 84,
+      "name": "...Really, boy, you're\nrefreshingly straightforward."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk010_msg0227",
+      "style": 84,
+      "name": "Though Gramps tells me to pay more\nattention to my surroundings."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk010_msg0228",
+      "style": 84,
+      "name": "Don't worry about that."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk010_msg0229",
+      "style": 84,
+      "name": "When you're facing forward,\nI'll watch your back."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk010_msg0230",
+      "style": 84,
+      "name": "Yeah, I'm counting on you."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk010_msg0231",
+      "style": 84,
+      "name": "Leave it to me!"
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk010_msg0232",
+      "style": 84,
+      "name": "Such a wonderful friendship..."
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk010_msg0233",
+      "style": 84,
+      "name": "It makes me want to try harder too."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk010_msg0234",
+      "style": 84,
+      "name": "That's right... Let's do our best too."
+    }
+  ]
+}

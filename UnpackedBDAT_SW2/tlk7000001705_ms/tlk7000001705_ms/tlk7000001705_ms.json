@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000017_05_msg0001",
+      "style": 84,
+      "name": "Actually... I hear an incredible new\nvehicle is being built here in Iira!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000017_05_msg0002",
+      "style": 84,
+      "name": "Seems it's a huge craft\nthat crosses Cloud Sea\nwithout a Divine Beast..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000017_05_msg0003",
+      "style": 84,
+      "name": "Apparently palace soldiers and local\nengineers worked together to build\nit. It was only completed recently."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000017_05_msg0004",
+      "style": 84,
+      "name": "It had some sort of name, but what was\nit? Something with \"mo\"...? \"Mo\"...\n\"Mo\"... Well, something like that."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000017_05_msg0005",
+      "style": 84,
+      "name": "Me? I always put my own inventions\nfirst!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000017_05_msg0006",
+      "style": 84,
+      "name": "When the army invited me, I turned\nthem down on the spot! Gah hah hah!"
+    }
+  ]
+}

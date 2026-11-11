@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100042_01_msg0001",
+      "style": 84,
+      "name": "They say people used to take these\nstairs to Fons Maim."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100042_01_msg0002",
+      "style": 84,
+      "name": "But ever since fluctuations within the\nDivine Beast formed the waters here,\nwe've had to use Colonnade Road."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100042_01_msg0003",
+      "style": 84,
+      "name": "After that, residential and theater\ndistricts were built that way, and\nnaturally they flourished."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100042_01_msg0004",
+      "style": 84,
+      "name": "It's nice that it's so\npeaceful and quiet here, but\nit gets a little lonely..."
+    }
+  ]
+}

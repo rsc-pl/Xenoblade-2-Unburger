@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502001_msg0001",
+      "style": 84,
+      "name": "I'm powerless..."
+    },
+    {
+      "$id": 2,
+      "label": "qst502001_msg0002",
+      "style": 84,
+      "name": "Even though I have the power of\nlightning, I'm weak and can't control\nit properly..."
+    },
+    {
+      "$id": 3,
+      "label": "qst502001_msg0003",
+      "style": 84,
+      "name": "What should I do...?"
+    }
+  ]
+}

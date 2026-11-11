@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700149_04_msg0001",
+      "style": 84,
+      "name": "No time to worry about Invidia,\nSuperbia, or saving face now..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700149_04_msg0002",
+      "style": 84,
+      "name": "At this rate, both Invidia and\nSuperbia will collapse together."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700149_04_msg0003",
+      "style": 84,
+      "name": "And at this late stage, I\nfinally realized something."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700149_04_msg0004",
+      "style": 84,
+      "name": "That all this would never have\nhappened if we'd just worked\ntogether from the start."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43700149_04_msg0005",
+      "style": 84,
+      "name": "It's always like this... Unless a\nproblem happens, we don't notice\nanything."
+    }
+  ]
+}

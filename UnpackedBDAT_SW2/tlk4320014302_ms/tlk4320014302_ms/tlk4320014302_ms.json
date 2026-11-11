@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200143_02_msg0001",
+      "style": 84,
+      "name": "I wonder what's gotten into\nJillwood..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200143_02_msg0002",
+      "style": 84,
+      "name": "Hmm... How should I put it..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200143_02_msg0003",
+      "style": 84,
+      "name": "Lately, Jillwood seems scary somehow.\nThere's this fierce intensity that\nwasn't there before..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200143_02_msg0004",
+      "style": 84,
+      "name": "What could've happened...?"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00030112_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]*huff*... *huff*...\n*pant*... *pant*..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00030112_msg0002",
+      "style": 84,
+      "name": "Papa... become power source... for\nAvaritia...? *huff*... What?!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk00030112_msg0003",
+      "style": 84,
+      "name": "What a wonderful Papa, mo!!\nMommy... please come home... mo!\n*pant*... *huff*..."
+    }
+  ]
+}

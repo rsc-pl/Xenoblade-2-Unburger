@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300161_03_msg0001",
+      "style": 84,
+      "name": "The Holy See of Acedia's gone?\nHeaven's sakes, that's awful."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300161_03_msg0002",
+      "style": 84,
+      "name": "Martis was supposed to attend\nthe seminary..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300161_03_msg0003",
+      "style": 84,
+      "name": "It's Iira, right? The ones doing\nall these terrible things..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_01_msg0004",
+      "style": 84,
+      "name": "The Holy See brought this on itself?\nHuh. The women here say the same\nthing... It's complicated."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000057_05_msg0001",
+      "style": 84,
+      "name": "My older brother says he wants to be\na Driver when he grows up."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000057_05_msg0002",
+      "style": 84,
+      "name": "I was worried, wondering\nwhat I should become, and\nNoel listened to me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000057_05_msg0003",
+      "style": 84,
+      "name": "How about keeping an eye on bad\ngrown-ups so they don't get any worse?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000057_05_msg0004",
+      "style": 84,
+      "name": "So for now, I think I'll watch Ivan\nto make sure he doesn't sneak snacks."
+    }
+  ]
+}

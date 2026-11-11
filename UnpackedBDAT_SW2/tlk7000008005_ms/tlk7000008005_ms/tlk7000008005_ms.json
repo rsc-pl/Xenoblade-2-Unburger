@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000080_05_msg0001",
+      "style": 84,
+      "name": "Iira's famous for its military\nand advanced technology."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000080_05_msg0002",
+      "style": 84,
+      "name": "And yet Heaven's Holy Grail\nfar surpasses us..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000080_05_msg0003",
+      "style": 84,
+      "name": "Adel-sama, Hikari-sama, Laura-sama,\nShin-sama, and Yuugo-sama..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000080_05_msg0004",
+      "style": 84,
+      "name": "If you work together, I'm sure\nyou can defeat Heaven's Holy Grail."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000080_05_msg0005",
+      "style": 84,
+      "name": "Good luck out there."
+    }
+  ]
+}

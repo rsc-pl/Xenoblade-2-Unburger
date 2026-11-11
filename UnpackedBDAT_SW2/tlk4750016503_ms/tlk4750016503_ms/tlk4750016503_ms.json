@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4750016503_msg0001",
+      "style": 84,
+      "name": "Never thought I'd see the day\nwe'd have bright-eyed kids\nstudying away in the village."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4750016503_msg0002",
+      "style": 84,
+      "name": "I hope one day this school can rival\neven the seminary."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4750016503_msg0004",
+      "style": 84,
+      "name": "Rex is the pride of this village.\nOf course, so are his friends."
+    }
+  ]
+}

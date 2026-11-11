@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk001601_10_msg0001",
+      "style": 84,
+      "name": "Everyone, please do your best out\nthere for my sake as well, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk001601_10_msg0002",
+      "style": 84,
+      "name": "In return, please leave Master\nand this house to me, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk001601_10_msg0003",
+      "style": 84,
+      "name": "No matter what becomes of\nAlst, I will protect this\nplace for you to return to, mo."
+    }
+  ]
+}

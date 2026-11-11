@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst700708_msg0001",
+      "style": 84,
+      "name": "Easy, easy, a piece of cake!"
+    },
+    {
+      "$id": 2,
+      "label": "qst700708_msg0101",
+      "style": 84,
+      "name": "Phew, that should do it."
+    },
+    {
+      "$id": 3,
+      "label": "qst700708_msg0201",
+      "style": 84,
+      "name": "It is my honor to have\nbeen of service."
+    },
+    {
+      "$id": 4,
+      "label": "qst700708_msg0301",
+      "style": 84,
+      "name": "This should be enough."
+    },
+    {
+      "$id": 5,
+      "label": "qst700708_msg0401",
+      "style": 84,
+      "name": "...We did our best!"
+    },
+    {
+      "$id": 6,
+      "label": "qst700708_msg0402",
+      "style": 84,
+      "name": "I'm tired, completely exhausted."
+    },
+    {
+      "$id": 7,
+      "label": "qst700708_msg0501",
+      "style": 84,
+      "name": "Good grief, they really work us hard."
+    },
+    {
+      "$id": 8,
+      "label": "qst700708_msg0702",
+      "style": 84,
+      "name": "It would be easy to just burn\nit, but we can't do that."
+    },
+    {
+      "$id": 9,
+      "label": "qst700708_msg0801",
+      "style": 84,
+      "name": "It's gotten so clean.\nI feel refreshed."
+    }
+  ]
+}

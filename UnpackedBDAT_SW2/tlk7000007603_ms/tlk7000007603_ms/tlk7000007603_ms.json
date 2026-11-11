@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000076_03_msg0001",
+      "style": 84,
+      "name": "What's the Imperial Army\ndoing in Gula, you say?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000076_03_msg0002",
+      "style": 84,
+      "name": "Well, we're here to protect\nYuugo-sama, of course."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000076_03_msg0003",
+      "style": 84,
+      "name": "But, actually, it seems there's\nanother reason, as well."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000076_03_msg0004",
+      "style": 84,
+      "name": "Rumor says some military personnel are\nsecretly studying Gula's population,\neconomy, and even military strength."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000076_03_msg0005",
+      "style": 84,
+      "name": "Superbia is trying to forge friendly\nties with Gula. Apparently these\ninvestigations are part of that."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000076_03_msg0006",
+      "style": 84,
+      "name": "Friendly ties or not, it's still\ndiplomacy. I suppose some cards\nare needed."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000076_03_msg0007",
+      "style": 84,
+      "name": "As long as I've got this gun, I don't\nneed any fussy little tricks! Hahaha!"
+    }
+  ]
+}

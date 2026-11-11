@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100141_02_msg0001",
+      "style": 84,
+      "name": "I can't imagine a Phonex moving\nto another Divine Beast."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100141_02_msg0002",
+      "style": 84,
+      "name": "I mean, I've spent my whole life\nright here beside this tree."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100141_02_msg0003",
+      "style": 84,
+      "name": "A Phonex who really went off on an\nadventure could be called a hero."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300072_01_msg0001",
+      "style": 84,
+      "name": "It's pathetic... In Gula, I\nused to gather my own food, but\nnow I just receive handouts."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300072_01_msg0002",
+      "style": 84,
+      "name": "I fled to Acedia after being chased\nout by Superbia, but... this country\nis the cause of the war."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300072_01_msg0003",
+      "style": 84,
+      "name": "The Blades of Superbia\nare managed here."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300072_01_msg0004",
+      "style": 84,
+      "name": "To prevent war, they should just stop\nsending Blades anywhere. It's like\nthey're just handing out weapons."
+    }
+  ]
+}

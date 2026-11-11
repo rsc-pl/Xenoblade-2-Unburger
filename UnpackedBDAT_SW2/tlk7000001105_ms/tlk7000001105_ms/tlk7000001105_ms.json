@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000011_05_msg0001",
+      "style": 84,
+      "name": "I've decided to evacuate to\nthe shelter with my nan."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000011_05_msg0002",
+      "style": 84,
+      "name": "I may have to let the shop go,\nbut Nan said I matter more to\nher, so I could decide."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000011_05_msg0003",
+      "style": 84,
+      "name": "Now then... kind Driver! How about\nsome accessories one last time?!"
+    }
+  ]
+}

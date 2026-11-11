@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41310151_02_msg0001",
+      "style": 84,
+      "name": "Hey, there! Thank you so much for\nall your help the other day."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41310151_02_msg0002",
+      "style": 84,
+      "name": "After that, Dad went back to Torigo\nand started living with my younger\nbrothers."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41310151_02_msg0003",
+      "style": 84,
+      "name": "He even got a proper job... I\nthink Mom would be happy, too."
+    }
+  ]
+}

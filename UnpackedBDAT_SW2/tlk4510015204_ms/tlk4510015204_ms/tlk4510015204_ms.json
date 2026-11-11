@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45100152_04_msg0001",
+      "style": 84,
+      "name": "I was raising this pet Pilehorn\nRhino Beetle I found at the\nAbandoned Factory, but it died..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45100152_04_msg0002",
+      "style": 84,
+      "name": "So now I'm raising this\nTender Shark I caught at\nthe Nopon Pioneers' Secret Hot Spring!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45100152_04_msg0003",
+      "style": 84,
+      "name": "It's a kind one that looks after the\nother fish. With seaweed around, it\ndoesn't need feeding."
+    }
+  ]
+}

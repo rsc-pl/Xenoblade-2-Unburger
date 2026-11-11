@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42360113_01_msg0001",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Right, check! Left, check!\nFront, check! Goldmund\nsecurity, no problems!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42360113_01_msg0002",
+      "style": 84,
+      "name": "Avaritia is the number one trading\nnation in Alst, so we have to be\nthorough with security, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42360113_01_msg0003",
+      "style": 84,
+      "name": "But I've been working too hard\nlately, mo... Isn't Rimurimu here\nto relieve me yet, mo...?"
+    }
+  ]
+}

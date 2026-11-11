@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000007_03_msg0001",
+      "style": 84,
+      "name": "Lately, my friend Marco and the others\nseem to be making something..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000007_03_msg0002",
+      "style": 84,
+      "name": "He keeps saying, 'Leave it to me!'\nand won't tell me what it is."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000007_03_msg0003",
+      "style": 84,
+      "name": "S-sorry for complaining about things\nlike this to all of you..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000007_03_msg0004",
+      "style": 84,
+      "name": "Still, it seems they care about me,\nand I don't mind that at all."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000007_03_msg0005",
+      "style": 84,
+      "name": "I can't help lots of people the way\nyou all can, but..."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000007_03_msg0006",
+      "style": 84,
+      "name": "I'd love it I got the chance\nto do something for Joey and\nTiko... And Marco, of course!"
+    }
+  ]
+}

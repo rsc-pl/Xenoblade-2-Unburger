@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201803_msg0001",
+      "style": 84,
+      "name": "I have no intention of talking\nto you! Don't come near here!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201803_msg0101",
+      "style": 84,
+      "name": "Pepe has gone to Invidia."
+    },
+    {
+      "$id": 3,
+      "label": "qst201803_msg0102",
+      "style": 84,
+      "name": "I owe you for the Pinfins, so\ndon't worry, I'm not lying."
+    }
+  ]
+}

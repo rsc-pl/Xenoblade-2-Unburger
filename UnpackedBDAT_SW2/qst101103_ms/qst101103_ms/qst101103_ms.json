@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101103_msg001",
+      "style": 62,
+      "name": "Thank you for saving me talk (Temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101103_msg0001",
+      "style": 84,
+      "name": "Um, uh... Thank you."
+    },
+    {
+      "$id": 3,
+      "label": "qst101103_msg0002",
+      "style": 84,
+      "name": "I was collecting Confusion\nIvy when I accidentally\nstepped on a monster..."
+    },
+    {
+      "$id": 4,
+      "label": "qst101103_msg0003",
+      "style": 84,
+      "name": "I'm glad I practiced climbing trees..."
+    },
+    {
+      "$id": 5,
+      "label": "qst101103_msg0004",
+      "style": 84,
+      "name": "My dad did? Oh! I have to hurry\nand collect the rest and go home!"
+    },
+    {
+      "$id": 6,
+      "label": "qst101103_msg0005",
+      "style": 84,
+      "name": "Yeah, somehow... O-ow!"
+    },
+    {
+      "$id": 7,
+      "label": "qst101103_msg0006",
+      "style": 84,
+      "name": "My ankle... I think I twisted it."
+    },
+    {
+      "$id": 8,
+      "label": "qst101103_msg0007",
+      "style": 84,
+      "name": "What should I do... Without the\nConfusion Ivy, my dad's work will..."
+    },
+    {
+      "$id": 9,
+      "label": "qst101103_msg0008",
+      "style": 84,
+      "name": "You'll help me? Thank you!"
+    },
+    {
+      "$id": 10,
+      "label": "qst101103_msg0009",
+      "style": 84,
+      "name": "Confusion Ivy... Seven\nmore should be enough."
+    },
+    {
+      "$id": 11,
+      "label": "qst101103_msg0010",
+      "style": 84,
+      "name": "You should be able to find it easily\nif you look near trees. It's an ivy,\nso it often wraps around them."
+    }
+  ]
+}

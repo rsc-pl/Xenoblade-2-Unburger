@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102702_msg0001",
+      "style": 84,
+      "name": "Welcome to the Smaia Clinic."
+    },
+    {
+      "$id": 2,
+      "label": "qst102702_msg0002",
+      "style": 84,
+      "name": "I see... A case like that\nwould certainly be difficult\nfor other doctors."
+    },
+    {
+      "$id": 3,
+      "label": "qst102702_msg0003",
+      "style": 84,
+      "name": "Unfortunately, Doctor Smaia\nis not here at the moment."
+    },
+    {
+      "$id": 4,
+      "label": "qst102702_msg0004",
+      "style": 84,
+      "name": "She's on a trip to\nTemperantia, as part of\nher research on a new remedy."
+    },
+    {
+      "$id": 5,
+      "label": "qst102702_msg0005",
+      "style": 84,
+      "name": "She is working out of the\nSuperbian army's garrison."
+    },
+    {
+      "$id": 6,
+      "label": "qst102702_msg0006",
+      "style": 84,
+      "name": "If you are in a hurry, it would be\nbest to go directly to her there."
+    },
+    {
+      "$id": 7,
+      "label": "qst102702_msg0007",
+      "style": 84,
+      "name": "Not at all. I apologize that\nI could not be of more help\nafter you came all this way."
+    },
+    {
+      "$id": 8,
+      "label": "qst102702_msg0008",
+      "style": 84,
+      "name": "...Please try not to be surprised\nwhen you meet the Doctor."
+    },
+    {
+      "$id": 9,
+      "label": "qst102702_msg0009",
+      "style": 84,
+      "name": "She is a rather peculiar person, so\neveryone is a bit taken aback..."
+    },
+    {
+      "$id": 10,
+      "label": "qst102702_msg0101",
+      "style": 84,
+      "name": "Doctor Smaia should be at the\nSuperbian garrison in Temperantia."
+    },
+    {
+      "$id": 11,
+      "label": "qst102702_msg0102",
+      "style": 84,
+      "name": "Please be careful."
+    },
+    {
+      "$id": 12,
+      "label": "qst102702_msg0201",
+      "style": 84,
+      "name": "Doctor Smaia has returned...\nIt's going to get lively\naround here again."
+    },
+    {
+      "$id": 13,
+      "label": "qst102702_msg0301",
+      "style": 84,
+      "name": "Which ingredient would\nyou like to discuss?"
+    },
+    {
+      "$id": 14,
+      "label": "qst102702_msg0302",
+      "style": 165,
+      "name": "(Which one should I ask about?)"
+    },
+    {
+      "$id": 15,
+      "label": "qst102702_msg0303",
+      "style": 165,
+      "name": "Gloomwood Root"
+    },
+    {
+      "$id": 16,
+      "label": "qst102702_msg0304",
+      "style": 165,
+      "name": "Cloud Sea Rock Salt"
+    },
+    {
+      "$id": 17,
+      "label": "qst102702_msg0305",
+      "style": 165,
+      "name": "A long-life root vegetable"
+    },
+    {
+      "$id": 18,
+      "label": "qst102702_msg0321",
+      "style": 84,
+      "name": "I hear Gloomwood Root can be\ngathered in Elpis Spirit Cavern."
+    },
+    {
+      "$id": 19,
+      "label": "qst102702_msg0322",
+      "style": 84,
+      "name": "As it's a root, you should be able\nto find it in an area with plants."
+    },
+    {
+      "$id": 20,
+      "label": "qst102702_msg0341",
+      "style": 84,
+      "name": "I hear Cloud Sea Rock Salt can be\ngathered on the Cliffs of Mors."
+    },
+    {
+      "$id": 21,
+      "label": "qst102702_msg0342",
+      "style": 84,
+      "name": "You should be able to collect\nit in rocky areas like caves."
+    },
+    {
+      "$id": 22,
+      "label": "qst102702_msg0361",
+      "style": 84,
+      "name": "It's a tough one, isn't it... The\ndoctor makes some unreasonable\ndemands. Please forgive her."
+    },
+    {
+      "$id": 23,
+      "label": "qst102702_msg0362",
+      "style": 84,
+      "name": "Come to think of it, I believe I heard\na story about someone growing a new\nkind of vegetable in Torigo..."
+    },
+    {
+      "$id": 24,
+      "label": "qst102702_msg0363",
+      "style": 84,
+      "name": "It would probably be best to\ncheck with the locals there."
+    },
+    {
+      "$id": 25,
+      "label": "qst102702_msg0401",
+      "style": 84,
+      "name": "Shall I tell you about\nDragon Incense?"
+    },
+    {
+      "$id": 26,
+      "label": "qst102702_msg0402",
+      "style": 165,
+      "name": "(What should I do?)"
+    },
+    {
+      "$id": 27,
+      "label": "qst102702_msg0403",
+      "style": 165,
+      "name": "Listen to the explanation."
+    },
+    {
+      "$id": 28,
+      "label": "qst102702_msg0404",
+      "style": 165,
+      "name": "Don't listen."
+    },
+    {
+      "$id": 29,
+      "label": "qst102702_msg0420",
+      "style": 84,
+      "name": "Dragon Incense is the crystallized\nsecretions from the stomach of\nthe Invidian Divine Beast."
+    },
+    {
+      "$id": 30,
+      "label": "qst102702_msg0421",
+      "style": 84,
+      "name": "It is gathered only in small amounts,\nbut its aroma and medicinal properties\nmake it highly valuable."
+    },
+    {
+      "$id": 31,
+      "label": "qst102702_msg0422",
+      "style": 84,
+      "name": "True Dragon Incense is a high-grade\nvariety with high purity."
+    },
+    {
+      "$id": 32,
+      "label": "qst102702_msg0423",
+      "style": 84,
+      "name": "It was once said that a single\npiece of True Dragon Incense\ncould buy you a house."
+    },
+    {
+      "$id": 33,
+      "label": "qst102702_msg0424",
+      "style": 84,
+      "name": "It is a characteristic\nunique to Invidia, not seen\nin other Divine Beasts."
+    },
+    {
+      "$id": 34,
+      "label": "qst102702_msg0425",
+      "style": 84,
+      "name": "...That should cover it. Well\nthen, please be careful."
+    },
+    {
+      "$id": 35,
+      "label": "qst102702_msg0450",
+      "style": 84,
+      "name": "Very well. In that case,\nplease be careful."
+    },
+    {
+      "$id": 36,
+      "label": "qst102702_msg0501",
+      "style": 84,
+      "name": "So you've obtained the True Dragon\nIncense. I can tell by the smell."
+    },
+    {
+      "$id": 37,
+      "label": "qst102702_msg0502",
+      "style": 84,
+      "name": "Ahhh... I could smell this forever."
+    },
+    {
+      "$id": 38,
+      "label": "qst102702_msg0601",
+      "style": 84,
+      "name": "Man-Eaters... I had thought them\nto be the stuff of legends."
+    },
+    {
+      "$id": 39,
+      "label": "qst102702_msg0602",
+      "style": 84,
+      "name": "I'm amazed they actually exist!\nI'd love to see one someday."
+    }
+  ]
+}

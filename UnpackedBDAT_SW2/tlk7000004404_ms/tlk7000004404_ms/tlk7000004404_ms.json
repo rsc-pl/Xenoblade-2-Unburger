@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000044_04_msg0001",
+      "style": 84,
+      "name": "Are you all leaving already, mo?\nMorimori is very worried about the\nfuture of this city, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000044_04_msg0002",
+      "style": 84,
+      "name": "Lately it's nothing but gloomy talk\nabout evacuation and escape, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000044_04_msg0003",
+      "style": 84,
+      "name": "But the most serious problem is...!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000044_04_msg0004",
+      "style": 84,
+      "name": "At this rate, Morimori is going to run\nout of food, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000044_04_msg0005",
+      "style": 84,
+      "name": "The owner here says he's evacuating\ntoo. Morimori refuses to go without\nIiran cooking, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000044_04_msg0006",
+      "style": 84,
+      "name": "Everyone, please, please defeat\nHeaven's Holy Grail and protect\nMorimori's food and this city, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000044_04_msg0007",
+      "style": 84,
+      "name": "Then in this peaceful city, eat a meal\nwith Morimori, mo! Promise, mo!"
+    }
+  ]
+}

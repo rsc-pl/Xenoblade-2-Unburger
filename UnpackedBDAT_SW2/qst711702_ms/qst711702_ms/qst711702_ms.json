@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst711702_msg0001",
+      "style": 84,
+      "name": "Are you making good progress with\nthe test Gororo gave you, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst711702_msg0002",
+      "style": 84,
+      "name": "Mo? You want a hint? Fine, mo...\nI'll give you a special bonus, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst711702_msg0003",
+      "style": 84,
+      "name": "Are you using the Switch Arts that\nactivate when you switch between\nattacker and supporter, mo?"
+    },
+    {
+      "$id": 4,
+      "label": "qst711702_msg0004",
+      "style": 84,
+      "name": "These Switch Arts can sometimes\ninflict Down on an enemy, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "qst711702_msg0005",
+      "style": 84,
+      "name": "Among you, that silver-haired Blade\nover there looks especially capable,\nmo."
+    },
+    {
+      "$id": 6,
+      "label": "qst711702_msg0006",
+      "style": 84,
+      "name": "...That's all for the hints, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst711702_msg0007",
+      "style": 84,
+      "name": "Inflict Down on an enemy 5 times\nwith a Driver Combo. If you can,\nI'll recognize you, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst711702_msg0101",
+      "style": 84,
+      "name": "Mo mo?! It seems you've cleared\nthe test Gororo gave you, mo."
+    },
+    {
+      "$id": 9,
+      "label": "qst711702_msg0102",
+      "style": 84,
+      "name": "How do I know without watching, mo?\nGororo is a combat pro, mo. I can tell\njust by looking at your faces, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst711702_msg0103",
+      "style": 84,
+      "name": "Still, Gororo's eye for talent was\nright, mo. You're pretty good, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst711702_msg0104",
+      "style": 84,
+      "name": "This is the end of this test, but I'll\ncontinue testing you, mo! The next one\nwill be harder, so be prepared, mo!"
+    },
+    {
+      "$id": 12,
+      "label": "qst711702_msg0105",
+      "style": 84,
+      "name": "Also, in Gula, Gororo's\nBlade should be scouting\nfor skilled people, mo."
+    },
+    {
+      "$id": 13,
+      "label": "qst711702_msg0106",
+      "style": 84,
+      "name": "If you haven't met Gororo's Blade,\nbe sure to show what you can do, mo."
+    },
+    {
+      "$id": 14,
+      "label": "qst711702_msg0107",
+      "style": 84,
+      "name": "Well then, I'm looking\nforward to seeing you again\nfor the next test, mo!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47200161_02_msg0001",
+      "style": 84,
+      "name": "Whew! I'm taking a break\nfrom fetching water."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47200161_02_msg0002",
+      "style": 84,
+      "name": "I was carrying so much water I was\nstarting to overheat there. Wish\nI could just dive straight in!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47200161_02_msg0003",
+      "style": 84,
+      "name": "We can't enter without muddying it,\nand God-Crossing Island's pond is\nfull of monsters, so we can't go..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47200161_02_msg0004",
+      "style": 84,
+      "name": "There's plenty of water in Invidia,\nright? Wish I was there now. Then\nI could just swim all day..."
+    }
+  ]
+}

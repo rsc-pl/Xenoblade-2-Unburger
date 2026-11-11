@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44300181_01_msg0001",
+      "style": 84,
+      "name": "I am but a humble bard."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44300181_01_msg0002",
+      "style": 84,
+      "name": "I haven't a chance of\nleaving Luxuria..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44300181_01_msg0003",
+      "style": 84,
+      "name": "All I can do is quietly sing the songs\nmy master passed down to me."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44300181_01_msg0004",
+      "style": 84,
+      "name": "Naturally, songs about Hero Adel are\npopular here."
+    },
+    {
+      "$id": 5,
+      "label": "tlk44300181_01_msg0005",
+      "style": 84,
+      "name": "In fact, I've sung it so many\ntimes, I can hardly remember the\nwords to the rest of the songs..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk401006_msg0001",
+      "style": 84,
+      "name": "There certainly seems to be."
+    },
+    {
+      "$id": 2,
+      "label": "tlk401006_msg0002",
+      "style": 84,
+      "name": "A very large wooden box was loaded\nonto the Divine Beast battleship."
+    },
+    {
+      "$id": 3,
+      "label": "tlk401006_msg0003",
+      "style": 84,
+      "name": "Some of my colleagues say\nit's fine because it's on\nthe manifest, but..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk401006_msg0004",
+      "style": 84,
+      "name": "It's unusually large. I'm worried\nabout what could be inside."
+    }
+  ]
+}

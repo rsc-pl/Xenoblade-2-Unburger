@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst703304_msg0001",
+      "style": 84,
+      "name": "Could you chase away the Tenax\nEkidno flying nearby?"
+    },
+    {
+      "$id": 2,
+      "label": "qst703304_msg0002",
+      "style": 84,
+      "name": "That thing and I have history...\nTo think its guard would\ncome barging in..."
+    },
+    {
+      "$id": 3,
+      "label": "qst703304_msg0003",
+      "style": 84,
+      "name": "Hmm? Oh, no, it was nothing."
+    },
+    {
+      "$id": 4,
+      "label": "qst703304_msg0004",
+      "style": 84,
+      "name": "Please get rid of that blighter\nso I can be free to leave again."
+    }
+  ]
+}

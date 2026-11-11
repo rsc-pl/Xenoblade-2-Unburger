@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000035_05_msg0001",
+      "style": 84,
+      "name": "I'm not really sure what to say...\nIn any case, I owe you my thanks."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000035_05_msg0002",
+      "style": 84,
+      "name": "He may be a loud, hopeless idiot, but\nLeon is an important partner to me."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000035_05_msg0003",
+      "style": 84,
+      "name": "This whole ordeal made me realize that\nsimple, important truth all too well."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000035_05_msg0004",
+      "style": 84,
+      "name": "But I never thought Sarah would give\nin. How am I supposed to face her now?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000035_05_msg0005",
+      "style": 84,
+      "name": "I'd better not accidentally tell her\nLeon has lovers all over the place..."
+    }
+  ]
+}

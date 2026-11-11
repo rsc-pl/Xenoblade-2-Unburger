@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100152_05_msg0001",
+      "style": 84,
+      "name": "Hmph! In the end, the Superbian\nresearch lab never managed to talk\nwith me."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100152_05_msg0002",
+      "style": 84,
+      "name": "It's not like I'm disappointed\nor anything! It was just too\npredictable and boring!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100152_05_msg0003",
+      "style": 84,
+      "name": "...But talking with you, I've started\nto think that conversations with\nhumans aren't so bad after all."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100152_05_msg0004",
+      "style": 84,
+      "name": "I still don't like being called a pet\nfox, but I don't hate you."
+    }
+  ]
+}

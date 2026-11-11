@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst502009_msg0001",
+      "style": 84,
+      "name": "How does this thing work..."
+    },
+    {
+      "$id": 2,
+      "label": "qst502009_msg0002",
+      "style": 84,
+      "name": "I've seen all sorts of salvaged\ngoods, but this is a first..."
+    },
+    {
+      "$id": 3,
+      "label": "qst502009_msg0101",
+      "style": 84,
+      "name": "It might work if it's continuously\nsupplied with lightning power..."
+    },
+    {
+      "$id": 4,
+      "label": "qst502009_msg0102",
+      "style": 84,
+      "name": "But it would probably take someone\nwith overflowing lightning power who\ncan also control it well..."
+    },
+    {
+      "$id": 5,
+      "label": "qst502009_msg0103",
+      "style": 84,
+      "name": "Oh, right. Try it at night. It's\ntoo dangerous during the day\nwith so many people around."
+    }
+  ]
+}

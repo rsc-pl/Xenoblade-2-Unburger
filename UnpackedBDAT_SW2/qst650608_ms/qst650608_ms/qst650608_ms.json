@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650608_msg0001",
+      "style": 84,
+      "name": "Rose? You mean the flower?"
+    },
+    {
+      "$id": 2,
+      "label": "qst650608_msg0002",
+      "style": 84,
+      "name": "Huh? A person's name?\nI don't have a friend by that name."
+    },
+    {
+      "$id": 3,
+      "label": "qst650608_msg0003",
+      "style": 84,
+      "name": "None of my friends are named Rose."
+    }
+  ]
+}

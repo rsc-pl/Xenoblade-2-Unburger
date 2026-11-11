@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104208_msg0001",
+      "style": 84,
+      "name": "I wonder if we can really build\na whole school by ourselves..."
+    },
+    {
+      "$id": 2,
+      "label": "qst104208_msg0101",
+      "style": 84,
+      "name": "I was told any kind of ore is\nfine. Did you bring some?"
+    },
+    {
+      "$id": 3,
+      "label": "qst104208_msg0121",
+      "style": 84,
+      "name": "I don't think we have enough to\nmeet Hammer-san's request... Can\nwe really build a school?"
+    },
+    {
+      "$id": 4,
+      "label": "qst104208_msg0141",
+      "style": 84,
+      "name": "We've gathered the amount\nHammer-san asked for! Thank you!"
+    },
+    {
+      "$id": 5,
+      "label": "qst104208_msg0161",
+      "style": 84,
+      "name": "When the materials are all here,\nit gets kind of exciting! I'll do\nmy best to build the school!"
+    },
+    {
+      "$id": 6,
+      "label": "qst104208_msg0201",
+      "style": 84,
+      "name": "He said he's going to crush\nall the ore into powder and\nthen harden it again."
+    },
+    {
+      "$id": 7,
+      "label": "qst104208_msg0202",
+      "style": 84,
+      "name": "Hammer-san is so amazing."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00240103_msg0001",
+      "style": 84,
+      "name": "I'll help Grandpa look for\nwhat he needs, so you all\nshould head to the inn."
+    },
+    {
+      "$id": 2,
+      "label": "tlk00240103_msg0002",
+      "style": 84,
+      "name": "The inn is in the commercial\ndistrict. Leave the theater and\ngo all the way down the stairs."
+    }
+  ]
+}

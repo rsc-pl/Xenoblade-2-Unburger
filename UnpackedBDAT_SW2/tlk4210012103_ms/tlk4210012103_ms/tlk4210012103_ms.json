@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100121_03_msg0001",
+      "style": 84,
+      "name": "As someone who loves high places,\nTakaka really wants to try climbing\nto the top of the World Tree, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100121_03_msg0002",
+      "style": 84,
+      "name": "It stretches all the way into the sky,\nso I've got no idea how high it is..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100121_03_msg0003",
+      "style": 84,
+      "name": "The view from the top must\nsurely be like something\nout of a dream, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100121_03_msg0004",
+      "style": 84,
+      "name": "Takaka's dream is to climb to the\ntop of the World Tree and raise a\ntoast with Gula Honeytea, mo!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000120_10_msg0001",
+      "style": 84,
+      "name": "Hey, aren't you Iira's Knight-sama?\nYour exploits honestly blew me away!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000120_10_msg0002",
+      "style": 84,
+      "name": "You didn't just drive off that\nHeaven-whatever thing, you were even\ngiven the title of Knight!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000120_10_msg0003",
+      "style": 84,
+      "name": "I guess that makes you Iira's\nbravest knights? Well, I'm still\nGula's bravest, so watch it."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000120_10_msg0004",
+      "style": 84,
+      "name": "But receiving a title isn't the finish\nline!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000120_10_msg0005",
+      "style": 84,
+      "name": "From this point on, you will\nbe judged by your actions,\nso don't forget that."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000120_10_msg0006",
+      "style": 84,
+      "name": "...I mean, you'd never forget\nthat, right? Sorry, I guess I'm\njust saying the obvious here."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000120_10_msg0007",
+      "style": 84,
+      "name": "From now on, as good friends,\nlet's push each other to live\nup to our names!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk70000120_10_msg0008",
+      "style": 84,
+      "name": "Well, mine is only self-proclaimed,\nthough! Hahaha!"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk072_msg0001",
+      "style": 84,
+      "name": "Based on what the innkeeper told me..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk072_msg0002",
+      "style": 84,
+      "name": "Apparently there's going\nto be a big sale at the\nAvaritia Bazaar today."
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk072_msg0003",
+      "style": 84,
+      "name": "You can get 50% to 90% off on\njust about anything, they say."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk072_msg0004",
+      "style": 84,
+      "name": "We shouldn't pass this up."
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk072_msg0005",
+      "style": 84,
+      "name": "Bargain hunting days\ncan be so thrilling!"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk072_msg0006",
+      "style": 84,
+      "name": "Let's hope we find\nsomething worthwhile."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk072_msg0007",
+      "style": 84,
+      "name": "I want accessories. Let's\ngo to the accessory shop."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk072_msg0008",
+      "style": 84,
+      "name": "Say, shopkeeper, do you have\nany fashionable accessories?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk072_msg0009",
+      "style": 84,
+      "name": "I do, mo! I do, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk072_msg0010",
+      "style": 84,
+      "name": "A scarlet mushroom necklace,\nmo! Yours now for 5000G, mo!"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk072_msg0011",
+      "style": 84,
+      "name": "Normally it costs 10,000G, mo!\nToday it is a bargain, mo!"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk072_msg0012",
+      "style": 84,
+      "name": "I see... This is\nsuspiciously inexpensive..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk072_msg0013",
+      "style": 84,
+      "name": "And it's so Nopon-like. I don't like\nhow it looks like emergency rations."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk072_msg0014",
+      "style": 84,
+      "name": "I want accessories that\nare noble and pure."
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk072_msg0015",
+      "style": 84,
+      "name": "Very well, on to the next shop!"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk072_msg0016",
+      "style": 84,
+      "name": "This shop has quite an\nintriguing selection."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk072_msg0017",
+      "style": 84,
+      "name": "You have excellent\ntaste, customer, mo!"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk072_msg0018",
+      "style": 84,
+      "name": "We make accessories here\nfrom materials obtained\nthrough salvaging, mo."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk072_msg0019",
+      "style": 84,
+      "name": "I see. So everything is handmade."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk072_msg0020",
+      "style": 84,
+      "name": "Shopkeeper, can you show me the\nmost expensive item in your store?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk072_msg0021",
+      "style": 84,
+      "name": "Mo-mo! This one, mo!"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk072_msg0022",
+      "style": 84,
+      "name": "A supreme piece made from rare\nore salvaged in Gula, mo!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk072_msg0023",
+      "style": 84,
+      "name": "Ah! What a magnificent piece!"
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk072_msg0024",
+      "style": 165,
+      "name": "This necklace..."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk072_msg0025",
+      "style": 164,
+      "name": "Homura, this would\nlook perfect on you!"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk072_msg0026",
+      "style": 164,
+      "name": "Kagutsuchi, this would\nsurely suit you!"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk072_msg0101",
+      "style": 84,
+      "name": "Huh? Me?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk072_msg0102",
+      "style": 84,
+      "name": "I'm not worthy of something so fine..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk072_msg0103",
+      "style": 84,
+      "name": "Nonsense! You are a magnificent woman!"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk072_msg0104",
+      "style": 84,
+      "name": "If you wear this necklace,\nyou will shine many times\nmore beautifully than before."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk072_msg0105",
+      "style": 84,
+      "name": "Really? You think so? But..."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk072_msg0106",
+      "style": 84,
+      "name": "Listen, Homura."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk072_msg0107",
+      "style": 84,
+      "name": "If you become my lover, I will give\nyou this necklace as a present."
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk072_msg0108",
+      "style": 84,
+      "name": "What do you say?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk072_msg0109",
+      "style": 84,
+      "name": "Eh? ...Lover? Me?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk072_msg0110",
+      "style": 84,
+      "name": "That's right. You want\nthis necklace, don't you?"
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk072_msg0111",
+      "style": 84,
+      "name": "I must decline."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk072_msg0112",
+      "style": 84,
+      "name": "What!?"
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk072_msg0201",
+      "style": 84,
+      "name": "My, how lovely..."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk072_msg0202",
+      "style": 84,
+      "name": "The delicate, beautiful design\ndoes suit me well, I'll admit..."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk072_msg0203",
+      "style": 84,
+      "name": "What on earth are you thinking,\noffering such an expensive gift?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk072_msg0204",
+      "style": 84,
+      "name": "Kagutsuchi, your beauty is genuine."
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk072_msg0205",
+      "style": 84,
+      "name": "...W-where did that come from!?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk072_msg0206",
+      "style": 84,
+      "name": "You must be making\nextraordinary efforts."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk072_msg0207",
+      "style": 84,
+      "name": "Well, nothing extraordinary..."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk072_msg0208",
+      "style": 84,
+      "name": "No, say no more! I\nunderstand everything..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk072_msg0209",
+      "style": 84,
+      "name": "It's all so you can become\nmy lover, isn't it?"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk072_msg0210",
+      "style": 84,
+      "name": "Absolutely not! You're\ncompletely mistaken."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk072_msg0211",
+      "style": 84,
+      "name": "What!?"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk072_msg0301",
+      "style": 84,
+      "name": "I never imagined I\nwould be rejected..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk072_msg0302",
+      "style": 84,
+      "name": "Nevertheless, I shall not\nadmit defeat so easily..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk072_msg0303",
+      "style": 84,
+      "name": "I shall purchase the necklace\nfor my future lover..."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk072_msg0304",
+      "style": 84,
+      "name": "Merchant, what is the\nprice of this necklace?"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk072_msg0305",
+      "style": 84,
+      "name": "My, my! Thanks for your purchase, mo!"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk072_msg0306",
+      "style": 84,
+      "name": "That'll be exactly 430,000G, mo!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk072_msg0307",
+      "style": 84,
+      "name": "...430,000?"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk072_msg0308",
+      "style": 84,
+      "name": "Hmm... Wasn't today bargain day?"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk072_msg0309",
+      "style": 84,
+      "name": "Surely you'll offer a 90% discount?"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk072_msg0310",
+      "style": 84,
+      "name": "43,000G? No can do, mo!\nThis item is rare, so it isn't\npart of the sale, mo..."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk072_msg0311",
+      "style": 84,
+      "name": "How outrageous!! This is why I\ncannot stand money-grubbers..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk072_msg0312",
+      "style": 84,
+      "name": "Enough, let's go home!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk072_msg0401",
+      "style": 84,
+      "name": "What a letdown..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk072_msg0402",
+      "style": 84,
+      "name": "So... I think I can guess, but what\nexactly is your dream, Rinne?"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk072_msg0403",
+      "style": 84,
+      "name": "Hey... I can mostly guess,\nbut what is Rinne's dream?"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk072_msg0404",
+      "style": 84,
+      "name": "I can guess, but would you tell\nus what your dream is, Rinne?"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk072_msg0405",
+      "style": 84,
+      "name": "Honestly... I'm not sure I\nwant to know, but what's\nthis dream of yours, Rinne?"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk072_msg0406",
+      "style": 84,
+      "name": "Of course!"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk072_msg0407",
+      "style": 84,
+      "name": "To have fun tea parties\nwith cute girls!"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk072_msg0408",
+      "style": 84,
+      "name": "For that purpose, I need\nto gather cute girls as\nlovers and create a harem."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk072_msg0409",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk072_msg0410",
+      "style": 84,
+      "name": "I shall spare no effort\nfor that purpose!"
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk072_msg0411",
+      "style": 84,
+      "name": "Fear not. Homura, Kagutsuchi,\nNia, Meleph, Hana, Saika..."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk072_msg0412",
+      "style": 84,
+      "name": "I plan to invite everyone\nto my harem as lovers!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk072_msg0413",
+      "style": 84,
+      "name": "…………"
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk072_msg0414",
+      "style": 84,
+      "name": "…………"
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk072_msg0415",
+      "style": 84,
+      "name": "However, what I learned today\nis that getting someone to\nbe my lover is not easy."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk072_msg0416",
+      "style": 84,
+      "name": "Regardless of how arduous the\njourney, I shall never surrender!!"
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk072_msg0417",
+      "style": 84,
+      "name": "..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000010_01_msg0001",
+      "style": 84,
+      "name": "My skin's all rough today.\nI must have not had enough\nsleep. What do you think?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000010_01_msg0002",
+      "style": 84,
+      "name": "Human bodies are inconvenient. Why\ncan't we have beauty gear that makes\nyou healthy just by equipping it?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000010_01_msg0003",
+      "style": 84,
+      "name": "Drivers can give themselves\na boost with accessories,\nBlades with Assist Cores, right?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000010_01_msg0004",
+      "style": 84,
+      "name": "They all have their own particular\neffects. Like some are restorative,\nsome are offensive, some defensive."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000010_01_msg0005",
+      "style": 84,
+      "name": "Iira is behind the times. For beauty\ndevices, Invidia is the place to be\nright now!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000010_01_msg0006",
+      "style": 84,
+      "name": "I hear they have technology that works\ndirectly on cells to make skin plump.\nI'd love to try it someday."
+    }
+  ]
+}

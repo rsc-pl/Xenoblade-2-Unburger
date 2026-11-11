@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41300072_03_msg0001",
+      "style": 84,
+      "name": "We refugees don't get any\nreliable information."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41300072_03_msg0002",
+      "style": 84,
+      "name": "In the end, is the war between\nSuperbia and Invidia going\nto end? Or continue?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk41300072_03_msg0003",
+      "style": 84,
+      "name": "I don't know anything, but there's\none thing I can say for sure."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41300072_03_msg0004",
+      "style": 84,
+      "name": "As long as Acedia manages\nthe Blades, conflicts like\nthis will never disappear."
+    }
+  ]
+}

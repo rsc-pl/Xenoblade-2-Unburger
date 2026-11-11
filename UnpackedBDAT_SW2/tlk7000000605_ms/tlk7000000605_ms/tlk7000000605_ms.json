@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000006_05_msg0001",
+      "style": 84,
+      "name": "I'm going to play with my\nfriend today. Can't wait!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000006_05_msg0002",
+      "style": 84,
+      "name": "It's still a secret, but my friend\nfinished blueprints for a machine that\ncan make a secret medicine!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000006_05_msg0003",
+      "style": 84,
+      "name": "He loves bugs so much he knows\neverything about them, and he even\ninvents medicines. He's amazing."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000006_05_msg0004",
+      "style": 84,
+      "name": "He can't beat me when it comes to\nArmu stuff, though. Not a chance!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000006_05_msg0005",
+      "style": 84,
+      "name": "I don't understand the blueprints, but\njust hearing him talk gets me excited.\nFeels like he's doing something huge!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000006_05_msg0006",
+      "style": 84,
+      "name": "If this experiment works... then\nFuria-chan surely...!"
+    }
+  ]
+}

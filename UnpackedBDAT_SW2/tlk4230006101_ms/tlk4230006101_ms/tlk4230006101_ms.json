@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300061_01_msg0001",
+      "style": 84,
+      "name": "Liberalitas is so remote,\nit's a pain to get to, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300061_01_msg0002",
+      "style": 84,
+      "name": "But when Kurukuru delivers a\nletter, everyone smiles, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300061_01_msg0003",
+      "style": 84,
+      "name": "So even if the port wait is long,\nthat's fine, mo! I can nap all I want\nas long as I make my deliveries, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300061_01_msg0101",
+      "style": 84,
+      "name": "Are you the Rex who's\nbeen sending money, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300061_01_msg0105",
+      "style": 84,
+      "name": "That's right. Are you\nthe one delivering it?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42300061_01_msg0102",
+      "style": 84,
+      "name": "Kurukuru doesn't deliver the money,\nmo. Couriers know you as a fine young\nman who sends money home, mo."
+    },
+    {
+      "$id": 7,
+      "label": "tlk42300061_01_msg0103",
+      "style": 84,
+      "name": "But Kurukuru is the one\nwho delivers Correl-san's\ncooking to Avaritia, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "tlk42300061_01_msg0104",
+      "style": 84,
+      "name": "There's no direct route from\nhere, so it's not freshly\nmade... mo. I'm sorry, mo."
+    },
+    {
+      "$id": 9,
+      "label": "tlk42300061_01_msg0106",
+      "style": 84,
+      "name": "It's a long way, so it can't be\nhelped. Don't worry about it."
+    }
+  ]
+}

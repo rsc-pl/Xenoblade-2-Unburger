@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4537015304_msg0001",
+      "style": 84,
+      "name": "The mayor told me all about\nthe Village Guardian."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4537015304_msg0002",
+      "style": 84,
+      "name": "I'd like to investigate\nElpis Spirit Cavern too,\nbut I can't risk danger now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4537015304_msg0003",
+      "style": 84,
+      "name": "A teacher acting recklessly would\nset a poor example for the kids.\nI'll wait until they've all grown."
+    }
+  ]
+}

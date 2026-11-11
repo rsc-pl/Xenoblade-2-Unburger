@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650607_msg0001",
+      "style": 84,
+      "name": "Um[ML:Dash ] Excuse us.\nWe're looking for a girl named Rose."
+    },
+    {
+      "$id": 2,
+      "label": "qst650607_msg0003",
+      "style": 84,
+      "name": "She's said to look like M.O.M.O.\nhere. Do you know anyone like that?"
+    },
+    {
+      "$id": 3,
+      "label": "qst650607_msg0004",
+      "style": 84,
+      "name": "Like her?"
+    },
+    {
+      "$id": 4,
+      "label": "qst650607_msg0005",
+      "style": 84,
+      "name": "A Rose works at Anastasis Inn,\nbut she doesn't look much like her."
+    },
+    {
+      "$id": 5,
+      "label": "qst650607_msg0006",
+      "style": 84,
+      "name": "I see[ML:Dash ] Thank you."
+    },
+    {
+      "$id": 6,
+      "label": "qst650607_msg0007",
+      "style": 84,
+      "name": "Looks like the wrong Rose."
+    },
+    {
+      "$id": 7,
+      "label": "qst650607_msg0008",
+      "style": 84,
+      "name": "But maybe she'll know something."
+    },
+    {
+      "$id": 8,
+      "label": "qst650607_msg0009",
+      "style": 84,
+      "name": "Let's go meet that Rose\nand find out!"
+    }
+  ]
+}

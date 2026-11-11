@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300116_01_msg0001",
+      "style": 84,
+      "name": "No customers today, mo. I'm bored, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300116_01_msg0002",
+      "style": 84,
+      "name": "From the looks of you...\nYou're a salvager, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300116_01_msg0003",
+      "style": 84,
+      "name": "Mochimochi is actually...!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300116_01_msg0004",
+      "style": 84,
+      "name": "No, but maybe..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk42300116_01_msg0005",
+      "style": 84,
+      "name": "It's nothing, mo!!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk42300116_01_msg0006",
+      "style": 84,
+      "name": "Even if you talk to me, I\ndon't have much to say, mo."
+    },
+    {
+      "$id": 7,
+      "label": "tlk42300116_01_msg0007",
+      "style": 84,
+      "name": "I guess I'll just have to\nwatch salvagers at work to\nget my spirits up, mo."
+    }
+  ]
+}

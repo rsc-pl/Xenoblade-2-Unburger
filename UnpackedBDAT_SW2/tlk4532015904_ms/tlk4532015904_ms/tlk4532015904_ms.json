@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320159_04_msg0001",
+      "style": 84,
+      "name": "I think the steam rifle is the finest\npiece of equipment in the Superbian\nEmpire."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320159_04_msg0002",
+      "style": 84,
+      "name": "Apparently they were inspired by, and\nto an extent based upon, certain\nlong-range weapons used by Blades."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320159_04_msg0003",
+      "style": 84,
+      "name": "With one of these, almost anyone can\nfight reasonably well, even without\nbeing a Driver."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45320159_04_msg0004",
+      "style": 84,
+      "name": "The ability to attack from a distance\nis helpful, too. It helps us avoid\ngetting too close to monsters."
+    }
+  ]
+}

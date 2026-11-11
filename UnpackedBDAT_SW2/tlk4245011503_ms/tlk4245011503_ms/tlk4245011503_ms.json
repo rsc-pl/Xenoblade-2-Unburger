@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450115_03_msg0001",
+      "style": 84,
+      "name": "Still not boarding, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450115_03_msg0002",
+      "style": 84,
+      "name": "The boarding ticket has no\nexpiration date, so you can\ndepart whenever you like, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450115_03_msg0003",
+      "style": 84,
+      "name": "You should take your time\nand relax in Goldmund, mo."
+    }
+  ]
+}

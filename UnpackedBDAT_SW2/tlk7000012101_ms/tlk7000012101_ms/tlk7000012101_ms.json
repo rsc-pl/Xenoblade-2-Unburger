@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000121_01_msg0001",
+      "style": 84,
+      "name": "Are you a band of Drivers and Blades?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000121_01_msg0002",
+      "style": 84,
+      "name": "You look pretty strong, but\nI don't think you'd be suited\nto being in my party."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000121_01_msg0003",
+      "style": 84,
+      "name": "Why? Simple. You don't have enough\n'skills.'"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000121_01_msg0004",
+      "style": 84,
+      "name": "Are you keeping your skills\nup to scratch to make sure\nyou're ready for battle?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000121_01_msg0005",
+      "style": 84,
+      "name": "You have to think carefully about the\nskills you want to train, and use your\nexperience from battling and questing."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000121_01_msg0006",
+      "style": 84,
+      "name": "Me? Of course I put everything into\nthieving skills."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000121_01_msg0007",
+      "style": 84,
+      "name": "So I'm afraid we just\nwouldn't be a good match."
+    }
+  ]
+}

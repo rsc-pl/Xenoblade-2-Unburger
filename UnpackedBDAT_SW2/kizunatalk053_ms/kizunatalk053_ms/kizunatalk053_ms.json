@@ -1,0 +1,534 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk053_msg0001",
+      "style": 84,
+      "name": "What a sight... This is\nquite an impressive vessel."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk053_msg0002",
+      "style": 84,
+      "name": "Satahiko, so you're interested in\nDivine Beast battleships as well?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk053_msg0003",
+      "style": 84,
+      "name": "I don't care much about the\nDivine Beast part, but the\nmachinery really gets me."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk053_msg0004",
+      "style": 84,
+      "name": "Looking at things like this\ngets you excited, right?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk053_msg0005",
+      "style": 84,
+      "name": "It makes me want to tinker with it."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk053_msg0006",
+      "style": 84,
+      "name": "You'll help too, right, Ootsuchi?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk053_msg0007",
+      "style": 84,
+      "name": "Yeah, leave it to me!"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk053_msg0008",
+      "style": 165,
+      "name": "What should I say about Ootsuchi?"
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk053_msg0009",
+      "style": 164,
+      "name": "You seem good at\ncarrying heavy things."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk053_msg0010",
+      "style": 164,
+      "name": "Are you actually good\nwith delicate work?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk053_msg0011",
+      "style": 165,
+      "name": "What should I say about Ootsuchi?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk053_msg0012",
+      "style": 164,
+      "name": "I bet you're good at heavy lifting."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk053_msg0013",
+      "style": 164,
+      "name": "Are you secretly good\nat detailed work?"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk053_msg0014",
+      "style": 165,
+      "name": "What should I say about Ootsuchi?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk053_msg0015",
+      "style": 164,
+      "name": "You seem good at carrying heavy stuff."
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk053_msg0016",
+      "style": 164,
+      "name": "Are you skilled with precision work?"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk053_msg0017",
+      "style": 165,
+      "name": "What should I say about Ootsuchi?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk053_msg0018",
+      "style": 164,
+      "name": "Ya seem good at carryin' heavy stuff."
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk053_msg0019",
+      "style": 164,
+      "name": "Are ya actually dexterous?"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk053_msg0101",
+      "style": 84,
+      "name": "Are you mocking me?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk053_msg0102",
+      "style": 84,
+      "name": "That's just stating the\nobvious, isn't it?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk053_msg0103",
+      "style": 84,
+      "name": "With this physique, it'd be\nshocking if I weren't strong!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk053_msg0104",
+      "style": 84,
+      "name": "That's true, but..."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk053_msg0105",
+      "style": 84,
+      "name": "Sure, that's true, but..."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk053_msg0106",
+      "style": 84,
+      "name": "That may be so, but..."
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk053_msg0107",
+      "style": 84,
+      "name": "Yeah, I suppose..."
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk053_msg0108",
+      "style": 84,
+      "name": "You seem to doubt my strength,\nso I'll show you what I can do!"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk053_msg0109",
+      "style": 84,
+      "name": "Let's see..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk053_msg0110",
+      "style": 84,
+      "name": "I'll lift that Divine\nBeast battleship!"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk053_msg0111",
+      "style": 84,
+      "name": "?!"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk053_msg0112",
+      "style": 84,
+      "name": "?!"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk053_msg0113",
+      "style": 84,
+      "name": "?!"
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk053_msg0114",
+      "style": 84,
+      "name": "?!"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk053_msg0115",
+      "style": 84,
+      "name": "That's obviously impossible."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk053_msg0116",
+      "style": 84,
+      "name": "Gahahaha!"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk053_msg0117",
+      "style": 84,
+      "name": "Yeah, you're right."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk053_msg0118",
+      "style": 84,
+      "name": "But I could probably handle\nthat Tortoga over there."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk053_msg0119",
+      "style": 84,
+      "name": "Ootsuchi, don't do that either."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk053_msg0120",
+      "style": 84,
+      "name": "If you damage Superbian military\nproperty, you'll get chewed out."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk053_msg0121",
+      "style": 84,
+      "name": "Hmph... This feels like\nsomething I've seen before."
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk053_msg0122",
+      "style": 84,
+      "name": "Then how about this?"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk053_msg0123",
+      "style": 84,
+      "name": "I'll throw my Driver!"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk053_msg0124",
+      "style": 84,
+      "name": "Now that'll be a sight— let's\nsee how far I can throw you!"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk053_msg0125",
+      "style": 84,
+      "name": "Good idea."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk053_msg0126",
+      "style": 84,
+      "name": "Then the Superbian military\ncan't scold us."
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk053_msg0127",
+      "style": 84,
+      "name": "Gahaha!"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk053_msg0128",
+      "style": 84,
+      "name": "That settles it!! Let's go!"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk053_msg0129",
+      "style": 84,
+      "name": "No, ah... Hold on a second..."
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk053_msg0130",
+      "style": 84,
+      "name": "Hold on! Wait a minute!!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk053_msg0131",
+      "style": 84,
+      "name": "Wait, please. Let's talk this out..."
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk053_msg0132",
+      "style": 84,
+      "name": "Wait a sec! That's no good..."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk053_msg0133",
+      "style": 84,
+      "name": "Stop making a fuss!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk053_msg0134",
+      "style": 84,
+      "name": "Just leave yourself\nin my hands, Driver!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk053_msg0135",
+      "style": 84,
+      "name": "Hngggh! Hyaaaaahhhh!"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk053_msg0136",
+      "style": 84,
+      "name": "Aaaaaaah-!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk053_msg0137",
+      "style": 84,
+      "name": "Nooooo-!"
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk053_msg0138",
+      "style": 84,
+      "name": "Urghhh-!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk053_msg0139",
+      "style": 84,
+      "name": "Stop iiiiiiiiit!!"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk053_msg0140",
+      "style": 84,
+      "name": "Phew... I thought I was going to die."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk053_msg0141",
+      "style": 84,
+      "name": "From now on, let's not talk to\nOotsuchi about physical strength..."
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk053_msg0142",
+      "style": 84,
+      "name": "Phew... I'm so glad I'm alive..."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk053_msg0143",
+      "style": 84,
+      "name": "Let's never discuss physical\nstrength with Ootsuchi again..."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk053_msg0144",
+      "style": 84,
+      "name": "Whew... That was a close call..."
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk053_msg0145",
+      "style": 84,
+      "name": "Maybe I should avoid talking\nabout strength with Ootsuchi\nfrom now on..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk053_msg0146",
+      "style": 84,
+      "name": "Phew... I almost wet myself..."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk053_msg0147",
+      "style": 84,
+      "name": "I'm never bringing up physical\nstrength with Ootsuchi again..."
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk053_msg0201",
+      "style": 84,
+      "name": "That's right, Ootsuchi is actually\nquite dexterous, you know?"
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk053_msg0202",
+      "style": 84,
+      "name": "Yeah, bet you didn't expect that!"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk053_msg0203",
+      "style": 84,
+      "name": "I do get frustrated with tiny\nscrews about the size of a\nNopon's little finger though."
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk053_msg0204",
+      "style": 84,
+      "name": "I can handle almost\nanything else no problem."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk053_msg0205",
+      "style": 84,
+      "name": "And that's when I step in\nfor the precision work."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk053_msg0206",
+      "style": 84,
+      "name": "I see!"
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk053_msg0207",
+      "style": 84,
+      "name": "So Satahiko works on the precision\ncomponents, while Ootsuchi\nhandles the larger parts..."
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk053_msg0208",
+      "style": 84,
+      "name": "You make a good team."
+    },
+    {
+      "$id": 75,
+      "label": "kizunatalk053_msg0209",
+      "style": 84,
+      "name": "I see."
+    },
+    {
+      "$id": 76,
+      "label": "kizunatalk053_msg0210",
+      "style": 84,
+      "name": "So Sata works on the precision\npieces, while Ootsuchi handles\nthe larger parts..."
+    },
+    {
+      "$id": 77,
+      "label": "kizunatalk053_msg0211",
+      "style": 84,
+      "name": "You made a good team."
+    },
+    {
+      "$id": 78,
+      "label": "kizunatalk053_msg0212",
+      "style": 84,
+      "name": "I see."
+    },
+    {
+      "$id": 79,
+      "label": "kizunatalk053_msg0213",
+      "style": 84,
+      "name": "Satahiko manages the detailed\nwork, while Ootsuchi deals\nwith the heavy components..."
+    },
+    {
+      "$id": 80,
+      "label": "kizunatalk053_msg0214",
+      "style": 84,
+      "name": "You complement each other well."
+    },
+    {
+      "$id": 81,
+      "label": "kizunatalk053_msg0215",
+      "style": 84,
+      "name": "I see."
+    },
+    {
+      "$id": 82,
+      "label": "kizunatalk053_msg0216",
+      "style": 84,
+      "name": "Satahiko handles the detailed\nwork, while Ootsuchi tackles\nthe big stuff..."
+    },
+    {
+      "$id": 83,
+      "label": "kizunatalk053_msg0217",
+      "style": 84,
+      "name": "Ya work together real well!"
+    },
+    {
+      "$id": 84,
+      "label": "kizunatalk053_msg0218",
+      "style": 84,
+      "name": "Well, I guess..."
+    },
+    {
+      "$id": 85,
+      "label": "kizunatalk053_msg0219",
+      "style": 84,
+      "name": "Gahahaha!"
+    },
+    {
+      "$id": 86,
+      "label": "kizunatalk053_msg0220",
+      "style": 84,
+      "name": "You can leave anything to me—\nI'm invincible!"
+    }
+  ]
+}

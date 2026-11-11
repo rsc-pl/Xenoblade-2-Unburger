@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44510181_01_msg0001",
+      "style": 84,
+      "name": "Long ago, there used to\nbe a great temple beneath\nhere. Theospiti Temple."
+    },
+    {
+      "$id": 2,
+      "label": "tlk44510181_01_msg0002",
+      "style": 84,
+      "name": "They say a berserk Blade was\nsealed inside Theospisti Temple\nand now sleeps there..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44510181_01_msg0003",
+      "style": 84,
+      "name": "There are no records of what happened\nto that Blade."
+    },
+    {
+      "$id": 4,
+      "label": "tlk44510181_01_msg0004",
+      "style": 84,
+      "name": "And now that the temple itself\nhas fallen into ruin, that history\nis lost to us forever..."
+    }
+  ]
+}

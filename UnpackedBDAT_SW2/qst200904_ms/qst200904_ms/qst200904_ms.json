@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200904_msg001",
+      "style": 84,
+      "name": "To reopen, repairing the\nwindmill is essential."
+    },
+    {
+      "$id": 2,
+      "label": "qst200904_msg002",
+      "style": 84,
+      "name": "Otto-san should be at the Shubia\nLumberyard near the town entrance."
+    },
+    {
+      "$id": 3,
+      "label": "qst200904_msg003",
+      "style": 84,
+      "name": "If he's not there, please find\nhim. I'm counting on you."
+    }
+  ]
+}

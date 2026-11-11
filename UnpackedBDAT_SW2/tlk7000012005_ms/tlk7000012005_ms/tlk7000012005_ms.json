@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000120_05_msg0001",
+      "style": 84,
+      "name": "Hey, you all! I hear you are\ngoing off to start one huge fight."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000120_05_msg0002",
+      "style": 84,
+      "name": "I'll go with you and help defeat that\nHeaven-whatever thing!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000120_05_msg0003",
+      "style": 84,
+      "name": "Huh? You just want moral support?\nAh... Well, OK, I won't interfere..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000120_05_msg0004",
+      "style": 84,
+      "name": "I know I'd just get in\nyour way anyway..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000120_05_msg0005",
+      "style": 84,
+      "name": "But I really want to do\nsomething to help you out."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000120_05_msg0006",
+      "style": 84,
+      "name": "Now you're the great hope, and not\njust for Iira, but for Gula too!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000120_05_msg0007",
+      "style": 84,
+      "name": "I'm sure you'll succeed! And\nthat's from a gallant Gulan\nknight like me! No mistake!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103402_msg0001",
+      "style": 84,
+      "name": "Akatsuki-sama, these are..."
+    },
+    {
+      "$id": 2,
+      "label": "qst103402_msg0002",
+      "style": 84,
+      "name": "The ones who ruined our\nprevious plan, I see."
+    },
+    {
+      "$id": 3,
+      "label": "qst103402_msg0003",
+      "style": 84,
+      "name": "Now, everyone! Agents of\nthe Empire have arrived!"
+    },
+    {
+      "$id": 4,
+      "label": "qst103402_msg0004",
+      "style": 84,
+      "name": "Let's show them the\npower of our Brionac!"
+    }
+  ]
+}

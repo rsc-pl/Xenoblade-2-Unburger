@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701108_msg0001",
+      "style": 84,
+      "name": "Your help was a real\nlifesaver. Thanks!"
+    },
+    {
+      "$id": 2,
+      "label": "qst701108_msg0002",
+      "style": 84,
+      "name": "...And, just in case, be careful\nwith Maquia. She deals in\ndangerous trades, you know."
+    },
+    {
+      "$id": 3,
+      "label": "qst701108_msg0003",
+      "style": 84,
+      "name": "If she might get caught, she'll ditch\nboth cargo and client. I should know.\nShe dumped me once!"
+    }
+  ]
+}

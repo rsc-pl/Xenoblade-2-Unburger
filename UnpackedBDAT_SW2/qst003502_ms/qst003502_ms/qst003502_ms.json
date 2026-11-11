@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003502_msg0001",
+      "style": 84,
+      "name": "Why are Karze and the other\nSuperbians so arrogant...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst003502_msg0002",
+      "style": 84,
+      "name": "The adults in Torigo dislike\nthe Superbian soldiers, too..."
+    },
+    {
+      "$id": 3,
+      "label": "qst003502_msg0003",
+      "style": 84,
+      "name": "If we keep fighting like this,\nit might turn into a war..."
+    }
+  ]
+}

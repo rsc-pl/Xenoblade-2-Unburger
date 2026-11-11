@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200217_msg0001",
+      "style": 84,
+      "name": "Looks like Harhal will use Luxuria\nas a base to smuggle Pollen Orbs\nto other countries."
+    },
+    {
+      "$id": 2,
+      "label": "qst200217_msg0003",
+      "style": 84,
+      "name": "Luxuria only just opened its borders,\nafter all."
+    },
+    {
+      "$id": 3,
+      "label": "qst200217_msg0004",
+      "style": 84,
+      "name": "Since import routes aren't\nestablished, even suspicious\ngoods may be hard to trace."
+    },
+    {
+      "$id": 4,
+      "label": "qst200217_msg0005",
+      "style": 84,
+      "name": "They're a hundred years too early\nto try that in my country!"
+    },
+    {
+      "$id": 5,
+      "label": "qst200217_msg0006",
+      "style": 84,
+      "name": "Harhal will probably come to\nreceive the cargo at Genbu Port.\nWe'll catch her at the scene!"
+    },
+    {
+      "$id": 6,
+      "label": "qst200217_msg0007",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Uooooooh!\nI'll round up every last petty crook\nwho's gotten involved in smuggling!"
+    }
+  ]
+}

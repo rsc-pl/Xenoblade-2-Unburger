@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45200153_10_msg0001",
+      "style": 84,
+      "name": "H-hey! You look like you can handle\nyourselves in a fight! C-could you\nmaybe help me out with something?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45200153_10_msg0002",
+      "style": 84,
+      "name": "A-a ghost appears in the back alley!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk45200153_10_msg0003",
+      "style": 84,
+      "name": "Come on! A ghost, a ghost!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk45200153_10_msg0004",
+      "style": 84,
+      "name": "I was hiding in the back alley during\na game of hide-and-seek, and I heard\nthis voice like a woman crying!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk45200153_10_msg0005",
+      "style": 84,
+      "name": "It's not just me, either! My\nyounger sister saw this shadow\nlike a woman with long black hair!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk45200153_10_msg0006",
+      "style": 84,
+      "name": "Anyway, it's terrifying..."
+    },
+    {
+      "$id": 7,
+      "label": "tlk45200153_10_msg0007",
+      "style": 84,
+      "name": "What, really? You'll help?!\nIt might be a real\ngh-gh-gh-ghost, you know?"
+    },
+    {
+      "$id": 8,
+      "label": "tlk45200153_10_msg0008",
+      "style": 84,
+      "name": "All right... I'll leave it to\nyou, then! Just make sure you\ndon't get p-possessed or anything!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000045_03_msg0001",
+      "style": 84,
+      "name": "Congratulations, mo~! Iira has a new\nknight, mo~!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000045_03_msg0002",
+      "style": 84,
+      "name": "Seeing all the Drivers and Blades work\ntogether fills Rikoko with dreams and\nhope, mo~."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000045_03_msg0003",
+      "style": 84,
+      "name": "Rikoko has decided, mo! Someday Rikoko\nwill become a traveling performer and\nmake that dream come true, mo~!"
+    }
+  ]
+}

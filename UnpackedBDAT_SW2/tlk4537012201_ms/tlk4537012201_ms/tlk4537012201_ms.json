@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45370122_01_msg0001",
+      "style": 84,
+      "name": "As time passes, more soldiers start\nthinking foolishly and lose sight of\nwhat loyalty really means."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45370122_01_msg0002",
+      "style": 84,
+      "name": "But Newt-kun's fiery loyalty reminds\nme of Superbia in its prime."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45370122_01_msg0003",
+      "style": 84,
+      "name": "Newt-kun is someone Superbia needs."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45370122_01_msg0004",
+      "style": 84,
+      "name": "Once Newt-kun's role is done and the\nCore Crystal returns, I'd like our\narmy to secure it."
+    }
+  ]
+}

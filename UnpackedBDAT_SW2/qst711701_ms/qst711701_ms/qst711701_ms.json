@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst711701_msg0001",
+      "style": 84,
+      "name": "Are you all perhaps a group\nof Drivers and Blades, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "qst711701_msg0002",
+      "style": 84,
+      "name": "Gororo may not look like it, but\nGororo is a Driver, mo.\nA combat pro, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst711701_msg0003",
+      "style": 84,
+      "name": "Actually, I heard the next mission\nis super dangerous, so I was\nscouting for new comrades, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst711701_msg0004",
+      "style": 84,
+      "name": "Hmm hmm... You all look promising,\nmo. Gororo will test you, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst711701_msg0005",
+      "style": 84,
+      "name": "The test is..."
+    },
+    {
+      "$id": 6,
+      "label": "qst711701_msg0006",
+      "style": 84,
+      "name": "Alright, I've decided, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst711701_msg0007",
+      "style": 84,
+      "name": "Inflict Down on any enemy 5 times\nwith a Driver Combo, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst711701_msg0008",
+      "style": 84,
+      "name": "To inflict Down on an enemy,\nfirst have the Driver inflict Break\nwith an Art..."
+    },
+    {
+      "$id": 9,
+      "label": "qst711701_msg0009",
+      "style": 84,
+      "name": "Then have the Blade attack\nto inflict Down on them, mo!"
+    },
+    {
+      "$id": 10,
+      "label": "qst711701_msg0010",
+      "style": 84,
+      "name": "Got it, mo? Break and then\ndown... Repeat this 5 times, mo!"
+    },
+    {
+      "$id": 11,
+      "label": "qst711701_msg0011",
+      "style": 84,
+      "name": "Don't forget to report to\nGororo when you're done, mo!"
+    }
+  ]
+}

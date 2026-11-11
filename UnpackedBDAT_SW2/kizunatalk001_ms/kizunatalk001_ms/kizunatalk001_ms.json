@@ -1,0 +1,432 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk001_msg0001",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk001_msg0002",
+      "style": 84,
+      "name": "How was it, Homura? Were you\nable to talk with them?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk001_msg0003",
+      "style": 84,
+      "name": "Yes, we had a nice,\nrelaxed conversation."
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk001_msg0004",
+      "style": 84,
+      "name": "What did you talk about?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk001_msg0005",
+      "style": 84,
+      "name": "Everything that's happened\nsince I met you."
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk001_msg0006",
+      "style": 84,
+      "name": "And I told them not to worry\nbecause I'll be looking after\nyou properly from now on."
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk001_msg0007",
+      "style": 84,
+      "name": "What are you talking about? I can\nlook after myself just fine."
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk001_msg0008",
+      "style": 84,
+      "name": "That won't do."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk001_msg0009",
+      "style": 84,
+      "name": "Because if you are left alone,\nyou'll only do reckless things."
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk001_msg0010",
+      "style": 84,
+      "name": "Hohoho! Already acting like\nhis wife, aren't you, Homura?"
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk001_msg0011",
+      "style": 84,
+      "name": "Hey! Gramps!"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk001_msg0012",
+      "style": 84,
+      "name": "W-wife!? That's not what\nI was trying to..."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk001_msg0013",
+      "style": 84,
+      "name": "Ahahaha! It's a joke."
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk001_msg0014",
+      "style": 84,
+      "name": "Well, dealing with Rex probably\nrequires that kind of\nassertiveness, don't you think?"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk001_msg0015",
+      "style": 84,
+      "name": "Come on, Seiryuu-san!"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk001_msg0016",
+      "style": 84,
+      "name": "Anyway, we're done here,\nright? Let's get going."
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk001_msg0017",
+      "style": 84,
+      "name": "Oh? We're leaving already? Couldn't\nwe stay and chat a bit longer?"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk001_msg0018",
+      "style": 84,
+      "name": "We can talk when we\nget back, can't we?"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk001_msg0019",
+      "style": 84,
+      "name": "We rarely get the chance\nto talk alone like this."
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk001_msg0020",
+      "style": 84,
+      "name": "But with Gramps here, we're\nnot exactly alone, are we?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk001_msg0021",
+      "style": 84,
+      "name": "What's that? Are you saying an old\nman is in the way? Should I leave?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk001_msg0022",
+      "style": 84,
+      "name": "That's not what we meant at all!\nYou're being mean, Seiryuu-san!"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk001_msg0023",
+      "style": 84,
+      "name": "Hohoho! Youth is a beautiful thing."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk001_msg0024",
+      "style": 84,
+      "name": "So, did you want to ask me something,\nHomura?"
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk001_msg0025",
+      "style": 165,
+      "name": "What should I ask?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk001_msg0026",
+      "style": 164,
+      "name": "Do you miss your mom and dad?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk001_msg0027",
+      "style": 164,
+      "name": "Have you always sent money home?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk001_msg0101",
+      "style": 84,
+      "name": "My parents? Why do you\nwant to know about that?"
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk001_msg0102",
+      "style": 84,
+      "name": "Well, being a Blade, I don't\nknow much about parents. I\nwas curious what it's like."
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk001_msg0103",
+      "style": 84,
+      "name": "Hmm, that's hard to explain..."
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk001_msg0104",
+      "style": 84,
+      "name": "Everything I know about my\nparents comes from what Gramps\nand Aunt Correl have told me."
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk001_msg0105",
+      "style": 84,
+      "name": "To be honest, I barely\nremember them, so it all\nfeels a bit distant to me."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk001_msg0106",
+      "style": 84,
+      "name": "...Doesn't that make you feel lonely?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk001_msg0107",
+      "style": 84,
+      "name": "Well, I can't say it's\nnot lonely, but I've never\nreally dwelled on it."
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk001_msg0108",
+      "style": 84,
+      "name": "Is that so?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk001_msg0109",
+      "style": 84,
+      "name": "After all, it was Gramps and\nthe villagers who raised me."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk001_msg0110",
+      "style": 84,
+      "name": "To me, everyone in the\nvillage is my family."
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk001_msg0111",
+      "style": 84,
+      "name": "With all these mothers,\nfathers, and siblings around\nme, I've never felt lonely."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk001_msg0112",
+      "style": 84,
+      "name": "Though having such a big\nfamily meant getting scolded\nby someone almost daily."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk001_msg0113",
+      "style": 84,
+      "name": "Sh-shut up!"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk001_msg0201",
+      "style": 84,
+      "name": "Yeah, I've been sending money back\nhome regularly since I left and\ngot established as a salvager."
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk001_msg0202",
+      "style": 84,
+      "name": "I mean, look around. This village\nhas hardly anything, doesn't it?"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk001_msg0203",
+      "style": 84,
+      "name": "Their trade with other countries\nis minimal, and self-sufficiency\nonly goes so far."
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk001_msg0204",
+      "style": 84,
+      "name": "Even with my meager earnings, I\nthink it's better than nothing."
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk001_msg0205",
+      "style": 84,
+      "name": "But it must be difficult for you\ntoo, living like this, right?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk001_msg0206",
+      "style": 84,
+      "name": "You don't have to push\nyourself so hard..."
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk001_msg0207",
+      "style": 84,
+      "name": "Hmm, that's true, but they're all\nfamily so I can't ignore them."
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk001_msg0208",
+      "style": 84,
+      "name": "Family? You mean the villagers?"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk001_msg0209",
+      "style": 84,
+      "name": "Yeah. To me, everyone in this village\nis family."
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk001_msg0210",
+      "style": 84,
+      "name": "So I have to help them!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk001_msg0211",
+      "style": 84,
+      "name": "Everyone in the village\nis grateful to you too."
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk001_msg0212",
+      "style": 84,
+      "name": "That troublemaker has grown\nup to be quite respectable."
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk001_msg0213",
+      "style": 84,
+      "name": "The \"troublemaker\"\npart is unnecessary!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk001_msg0301",
+      "style": 84,
+      "name": "...Hehe."
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk001_msg0302",
+      "style": 84,
+      "name": "What? Homura, don't laugh too."
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk001_msg0303",
+      "style": 84,
+      "name": "I wasn't making fun of you."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk001_msg0304",
+      "style": 84,
+      "name": "I'm impressed. That's such a Rex way\nof looking at things."
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk001_msg0305",
+      "style": 84,
+      "name": "It makes me wish I had a big\nfamily like yours, Rex."
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk001_msg0306",
+      "style": 84,
+      "name": "What are you talking about? Homura,\nyou're family too, aren't you?"
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk001_msg0307",
+      "style": 84,
+      "name": "...Oh? A confession here of all\nplaces?"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk001_msg0308",
+      "style": 84,
+      "name": "In front of your parents? You've got\nguts, Rex!"
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk001_msg0309",
+      "style": 84,
+      "name": "Wha!? Wait, Rex...?"
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk001_msg0310",
+      "style": 84,
+      "name": "N-no! That's not what I meant!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk001_msg0311",
+      "style": 84,
+      "name": "Homura, Nia, Meleph,\nZeke... and Tora too..."
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk001_msg0312",
+      "style": 84,
+      "name": "All of you are already family to me."
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk001_msg0313",
+      "style": 84,
+      "name": "So I'm saying there's no reason to\nfeel lonely! That's what I meant!"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk001_msg0314",
+      "style": 84,
+      "name": "Well well, no courage after\nall. You've got your work\ncut out for you, Homura."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk001_msg0315",
+      "style": 84,
+      "name": "...Hehehe. Yes, I'm prepared for it."
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk001_msg0316",
+      "style": 84,
+      "name": "Hey! What are you two\ngoing on about? Come on!"
+    }
+  ]
+}

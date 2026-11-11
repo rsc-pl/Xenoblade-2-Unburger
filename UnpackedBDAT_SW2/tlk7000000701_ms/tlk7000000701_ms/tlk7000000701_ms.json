@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000007_01_msg0001",
+      "style": 84,
+      "name": "Joey and Marco are so lucky... Always\nrunning outside... Cough, cough..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000007_01_msg0002",
+      "style": 84,
+      "name": "Sorry... I guess I'm a bit shy lately.\nI don't really get the chance to\nmeet a lot of people, you see."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000007_01_msg0003",
+      "style": 84,
+      "name": "Iira is such a wonderful city, and the\nshopping district has all kinds of\nshops in particular."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000007_01_msg0004",
+      "style": 84,
+      "name": "I'm sure if you have a look,\nyou'll find tons of stuff that's\nuseful for Drivers and Blades."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000007_01_msg0005",
+      "style": 84,
+      "name": "My health is poor, so I can't go to\nvery lively places. I'm a little\njealous of all of you..."
+    }
+  ]
+}

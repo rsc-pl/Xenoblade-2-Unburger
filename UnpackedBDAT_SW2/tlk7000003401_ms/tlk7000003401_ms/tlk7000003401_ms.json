@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000034_01_msg0001",
+      "style": 84,
+      "name": "Hey! Have you built a trusting\nrelationship with someone important to\nyou?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000034_01_msg0002",
+      "style": 84,
+      "name": "For example, Blades and Drivers can\ngrow closer as they fight together and\ncomplete requests side by side."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000034_01_msg0003",
+      "style": 84,
+      "name": "After all, a shared action is\nworth far more than a thousand\nwords could ever express..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000034_01_msg0004",
+      "style": 84,
+      "name": "But how do I earn the trust of the one\nI love? What can I do for a woman who\ndoesn't believe in love?"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000034_01_msg0005",
+      "style": 84,
+      "name": "Ah, this sweet pain that makes me want\nto tear at my chest! This is... love!!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200142_01_msg0001",
+      "style": 84,
+      "name": "Listen carefully! You know Blades have\nskills that help with adventuring,\nright?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200142_01_msg0002",
+      "style": 84,
+      "name": "Among them, Blades with special skills\nlike Lockpicking or Keen Eye are rare."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200142_01_msg0003",
+      "style": 84,
+      "name": "If you meet a Blade like that,\ntreasure that Blade."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200142_01_msg0004",
+      "style": 84,
+      "name": "That's what Father said."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200142_01_msg0005",
+      "style": 84,
+      "name": "A good Driver needs little\nbits of knowledge like this too."
+    }
+  ]
+}

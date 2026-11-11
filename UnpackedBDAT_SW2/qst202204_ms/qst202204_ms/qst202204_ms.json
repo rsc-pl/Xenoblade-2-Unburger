@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst202204_0010",
+      "style": 82,
+      "name": "Raiko... How far are you going...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst202204_0020",
+      "style": 82,
+      "name": "That girl's got enough energy to run\nthe length of the Gulan Divine Beast."
+    },
+    {
+      "$id": 3,
+      "label": "qst202204_0030",
+      "style": 82,
+      "name": "She's just running blindly.\nShe must've been really shocked..."
+    },
+    {
+      "$id": 4,
+      "label": "qst202204_0040",
+      "style": 82,
+      "name": "Yeah... We need to find her quickly.\nI feel bad for her."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000021_01_msg0001",
+      "style": 84,
+      "name": "Hm? You need something? As you can\nsee, things are busy around here."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000021_01_msg0002",
+      "style": 84,
+      "name": "Heaven's Holy Grail's been wrecking\nthings all over, right? So\nship orders are soaring."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000021_01_msg0003",
+      "style": 84,
+      "name": "Of course it happens right when\nmy master retires, too. We're\ndesperately short-staffed."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000021_01_msg0004",
+      "style": 84,
+      "name": "I thought independence was easy,\nbut deciding everything myself\nis harder than I imagined..."
+    }
+  ]
+}

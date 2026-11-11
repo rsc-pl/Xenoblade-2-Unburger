@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201304_msg0001",
+      "style": 84,
+      "name": "You want to know where\nShamal-kun went?"
+    },
+    {
+      "$id": 2,
+      "label": "qst201304_msg0002",
+      "style": 84,
+      "name": "He hasn't come here to play\nrecently. We weren't that\nclose to begin with..."
+    },
+    {
+      "$id": 3,
+      "label": "qst201304_msg0003",
+      "style": 84,
+      "name": "I just thought he found\na better place to play."
+    },
+    {
+      "$id": 4,
+      "label": "qst201304_msg0004",
+      "style": 84,
+      "name": "I hope you find him soon."
+    }
+  ]
+}

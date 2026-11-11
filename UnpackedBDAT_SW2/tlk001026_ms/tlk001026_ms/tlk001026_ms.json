@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001026_msg0001",
+      "style": 84,
+      "name": "Rex... Could you take over the\nwatch from Monell, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001026_msg0002",
+      "style": 84,
+      "name": "Monell is up on the mast\nabove this one, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001026_msg0003",
+      "style": 84,
+      "name": "The footing is narrow, so be\ncareful not to fall, mo!"
+    }
+  ]
+}

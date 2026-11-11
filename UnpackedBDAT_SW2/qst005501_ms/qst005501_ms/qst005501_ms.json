@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005501_msg001",
+      "style": 62,
+      "name": "Could you collect some\nvaluable items for me? (Temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst005501_msg101",
+      "style": 62,
+      "name": "Five of each, please. (Temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst005501_msg201",
+      "style": 62,
+      "name": "Thank you. (Temp)"
+    }
+  ]
+}

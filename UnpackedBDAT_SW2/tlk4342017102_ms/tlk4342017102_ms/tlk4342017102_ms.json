@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43420171_02_msg0001",
+      "style": 84,
+      "name": "Sure is a good thing my\nBlade's so powerful!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43420171_02_msg0002",
+      "style": 84,
+      "name": "The other day, my Blade\nfound someone who had fallen\nonto Acedia's back."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43420171_02_msg0003",
+      "style": 84,
+      "name": "That refugee was from the camp and got\nupset, saying no help from a Blade was\nneeded..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43420171_02_msg0004",
+      "style": 84,
+      "name": "But we couldn't just leave the refugee\nthere, so we carried that person back\nby force!"
+    }
+  ]
+}

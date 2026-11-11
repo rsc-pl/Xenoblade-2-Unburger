@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000031_msg0001",
+      "style": 84,
+      "name": "Well, this place is spectacularly\nempty. Nothing but Cloud Sea as\nfar as the eye can see."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000031_msg0002",
+      "style": 84,
+      "name": "I can see why you became\na salvager, Rex."
+    }
+  ]
+}

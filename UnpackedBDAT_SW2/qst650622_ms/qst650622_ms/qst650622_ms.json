@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650612_msg0010",
+      "style": 84,
+      "name": "M.O.M.O.[ML:Dash ]"
+    },
+    {
+      "$id": 2,
+      "label": "qst650612_msg0011",
+      "style": 84,
+      "name": "Yes. I'll try."
+    },
+    {
+      "$id": 3,
+      "label": "qst650612_msg0012",
+      "style": 84,
+      "name": "[ML:Dash ]I'm sorry.\nEven with M.O.M.O.'s abilities,\nI can't track him."
+    },
+    {
+      "$id": 4,
+      "label": "qst650612_msg0013",
+      "style": 84,
+      "name": "I see[ML:Dash ] Until we find a clue,\nlet's find a way to make\nM.O.M.O. even stronger."
+    },
+    {
+      "$id": 5,
+      "label": "qst650612_msg0014",
+      "style": 84,
+      "name": "Yes!\nM.O.M.O. will do her best[ML:Dash ]"
+    },
+    {
+      "$id": 6,
+      "label": "qst650612_msg0015",
+      "style": 84,
+      "name": "Oh! I found it!"
+    },
+    {
+      "$id": 7,
+      "label": "qst650612_msg0016",
+      "style": 84,
+      "name": "It seems the owner of this cargo\nfled in that direction."
+    },
+    {
+      "$id": 8,
+      "label": "qst650612_msg0017",
+      "style": 84,
+      "name": "And the Ansel seems\nto have followed him."
+    },
+    {
+      "$id": 9,
+      "label": "qst650612_msg0018",
+      "style": 84,
+      "name": "Hurry! We'll save him for sure!"
+    }
+  ]
+}

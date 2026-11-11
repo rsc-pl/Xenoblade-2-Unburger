@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300071_01_msg0001",
+      "style": 84,
+      "name": "My daughter pesters me to read the\nstory of the creation of Alst, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300071_01_msg0002",
+      "style": 84,
+      "name": "Did you think I should\ntell her, mo? I've already\ntold her 700 times, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300071_01_msg0003",
+      "style": 84,
+      "name": "I get bombarded with questions,\nso it's exhausting, mo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42300071_01_msg0004",
+      "style": 84,
+      "name": "What's a Divine Beast's favorite\nfood? Will it sink if it sleeps?\nIs it a girl? ...I don't know, mo!"
+    }
+  ]
+}

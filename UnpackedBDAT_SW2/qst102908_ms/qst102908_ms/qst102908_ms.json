@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102908_msg001",
+      "style": 62,
+      "name": "Somewhere in the old city,\nthere's a memo with three\nhints hidden. Go find it."
+    },
+    {
+      "$id": 2,
+      "label": "qst102908_msg002",
+      "style": 62,
+      "name": "When you find it, I'll give\nyou half of what's inside,\nso come report to me."
+    },
+    {
+      "$id": 3,
+      "label": "qst102908_msg101",
+      "style": 62,
+      "name": "The memo is in three places\nsomewhere in the old city."
+    }
+  ]
+}

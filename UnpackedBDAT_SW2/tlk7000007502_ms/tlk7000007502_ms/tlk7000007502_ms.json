@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000075_02_msg001",
+      "style": 84,
+      "name": "Once we set out on a campaign like\nthis, there's no telling when we'll be\nable to return home."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000075_02_msg002",
+      "style": 84,
+      "name": "So soldiers usually aren't thrilled\nto be assigned such missions. But\nMeknes from my squad is different."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000075_02_msg003",
+      "style": 84,
+      "name": "You might call it innocent enthusiasm:\na pure desire to help His Majesty,\nstronger than anyone else's."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000075_02_msg004",
+      "style": 84,
+      "name": "Though he hasn't shown any standout\nskill, I see promise in him. He'll\nsurely prove himself on this mission."
+    }
+  ]
+}

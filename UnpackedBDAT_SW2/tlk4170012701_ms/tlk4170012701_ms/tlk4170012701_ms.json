@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4170012701_msg0001",
+      "style": 84,
+      "name": "Thanks to you, I've been able\nto make some fine furniture."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4170012701_msg0002",
+      "style": 84,
+      "name": "I'm sure the bigwigs in\nSuperbia will be satisfied.\nThank you very much."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4170012701_msg0003",
+      "style": 84,
+      "name": "My son has also started going on\nhis errands with more care. It\nseems he's grown up a little."
+    }
+  ]
+}

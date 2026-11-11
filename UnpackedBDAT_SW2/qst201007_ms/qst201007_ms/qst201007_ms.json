@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201007_msg0001",
+      "style": 84,
+      "name": "'Government Announcement'"
+    },
+    {
+      "$id": 2,
+      "label": "qst201007_msg0002",
+      "style": 84,
+      "name": "'Recently, attacks have surged across\nseveral countries, with people losing\ntheir Core Crystals to the attackers.'"
+    },
+    {
+      "$id": 3,
+      "label": "qst201007_msg0003",
+      "style": 84,
+      "name": "'These incidents are commonly known as\nCore Crystal hunting. A similar case\noccurred in Gula the other day.'"
+    },
+    {
+      "$id": 4,
+      "label": "qst201007_msg0004",
+      "style": 84,
+      "name": "'The Security Department is currently\ninvestigating, but the culprit has\nnot yet been identified.'"
+    },
+    {
+      "$id": 5,
+      "label": "qst201007_msg0005",
+      "style": 84,
+      "name": "'If you see anyone suspicious, please\ncontact Security at the Superbian\nImperial Army's Torigo Base.'"
+    }
+  ]
+}

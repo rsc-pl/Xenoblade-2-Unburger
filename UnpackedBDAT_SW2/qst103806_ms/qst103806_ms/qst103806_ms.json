@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103806_msg001",
+      "style": 62,
+      "name": "What? You guys, looking\nfor ingredients?"
+    },
+    {
+      "$id": 2,
+      "label": "qst103806_msg002",
+      "style": 62,
+      "name": "Hm? [Character Name] looking for me?\nThat is big trouble, big trouble!"
+    },
+    {
+      "$id": 3,
+      "label": "qst103806_msg003",
+      "style": 62,
+      "name": "Not time for gathering ingredients!"
+    },
+    {
+      "$id": 4,
+      "label": "qst103806_msg004",
+      "style": 62,
+      "name": "Me hurry back! Thanks for telling me!"
+    }
+  ]
+}

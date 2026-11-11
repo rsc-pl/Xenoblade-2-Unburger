@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf02180100_0010",
+      "style": 82,
+      "name": "Heeey!"
+    },
+    {
+      "$id": 2,
+      "label": "bf02180100_0020",
+      "style": 82,
+      "name": "This way, this way, over here, mo!\nI'll help you escape, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "bf02180100_0030",
+      "style": 82,
+      "name": "You're...?"
+    },
+    {
+      "$id": 4,
+      "label": "bf02180100_0040",
+      "style": 82,
+      "name": "Quick, quick, mo!"
+    }
+  ]
+}

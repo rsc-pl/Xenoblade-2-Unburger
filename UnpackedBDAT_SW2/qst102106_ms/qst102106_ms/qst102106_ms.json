@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102106_msg0001",
+      "style": 84,
+      "name": "You're back..."
+    },
+    {
+      "$id": 2,
+      "label": "qst102106_msg0002",
+      "style": 84,
+      "name": "Just to be sure...you really\ndid defeat all of them, right?"
+    },
+    {
+      "$id": 3,
+      "label": "qst102106_msg0003",
+      "style": 165,
+      "name": "(What should I say?)"
+    },
+    {
+      "$id": 4,
+      "label": "qst102106_msg0004",
+      "style": 165,
+      "name": "We defeated all 12."
+    },
+    {
+      "$id": 5,
+      "label": "qst102106_msg0005",
+      "style": 165,
+      "name": "We should have."
+    },
+    {
+      "$id": 6,
+      "label": "qst102106_msg0101",
+      "style": 84,
+      "name": "I'll take your word for it."
+    },
+    {
+      "$id": 7,
+      "label": "qst102106_msg0151",
+      "style": 84,
+      "name": "Should have...?"
+    },
+    {
+      "$id": 8,
+      "label": "qst102106_msg0152",
+      "style": 84,
+      "name": "So Judith got fewer,\nand Arthem got more?"
+    },
+    {
+      "$id": 9,
+      "label": "qst102106_msg0153",
+      "style": 84,
+      "name": "The numbers add up, from\nwhat I hear, but..."
+    },
+    {
+      "$id": 10,
+      "label": "qst102106_msg0201",
+      "style": 84,
+      "name": "The subjugation targets, the\nSpike Unins, have started\napproaching the village."
+    },
+    {
+      "$id": 11,
+      "label": "qst102106_msg0202",
+      "style": 84,
+      "name": "Did someone fail to kill their\nshare, or was their population\nlarger than we thought...?"
+    },
+    {
+      "$id": 12,
+      "label": "qst102106_msg0203",
+      "style": 84,
+      "name": "Ah, my apologies."
+    },
+    {
+      "$id": 13,
+      "label": "qst102106_msg0204",
+      "style": 84,
+      "name": "We'll investigate later. I\nneed you to subjugate them!"
+    }
+  ]
+}

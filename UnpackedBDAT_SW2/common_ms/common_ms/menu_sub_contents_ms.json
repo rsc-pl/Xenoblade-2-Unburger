@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 15,
+      "name": "Equip Accessories"
+    },
+    {
+      "$id": 2,
+      "style": 15,
+      "name": "Enhance Arts"
+    },
+    {
+      "$id": 3,
+      "style": 15,
+      "name": "Bonding Ring"
+    },
+    {
+      "$id": 4,
+      "style": 15,
+      "name": "Blade Engage"
+    },
+    {
+      "$id": 5,
+      "style": 15,
+      "name": "Driver Info"
+    },
+    {
+      "$id": 6,
+      "style": 15,
+      "name": "Weapon Enhancement"
+    },
+    {
+      "$id": 7,
+      "style": 15,
+      "name": "Equip Assist Cores"
+    },
+    {
+      "$id": 8,
+      "style": 15,
+      "name": "Blade Info"
+    },
+    {
+      "$id": 9,
+      "style": 15,
+      "name": "Blade List"
+    },
+    {
+      "$id": 10,
+      "style": 15,
+      "name": "Formation Change"
+    },
+    {
+      "$id": 11,
+      "style": 15,
+      "name": "Change Main Character"
+    },
+    {
+      "$id": 12,
+      "style": 15,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 13,
+      "style": 15,
+      "name": "Skip Time"
+    },
+    {
+      "$id": 14,
+      "style": 15,
+      "name": "Pouch Setup"
+    },
+    {
+      "$id": 15,
+      "style": 15,
+      "name": "Key Items"
+    },
+    {
+      "$id": 16,
+      "style": 15,
+      "name": "Assist Core Build"
+    },
+    {
+      "$id": 17,
+      "style": 15,
+      "name": "Story Log"
+    },
+    {
+      "$id": 18,
+      "style": 15,
+      "name": "Quests"
+    },
+    {
+      "$id": 19,
+      "style": 15,
+      "name": "Enemies"
+    },
+    {
+      "$id": 20,
+      "style": 15,
+      "name": "Drivers"
+    },
+    {
+      "$id": 21,
+      "style": 15,
+      "name": "Blades"
+    },
+    {
+      "$id": 22,
+      "style": 15,
+      "name": "Character Select"
+    },
+    {
+      "$id": 23,
+      "style": 15,
+      "name": "Character Setup"
+    },
+    {
+      "$id": 24,
+      "style": 15,
+      "name": "Blade Setup"
+    },
+    {
+      "$id": 25,
+      "style": 15,
+      "name": "Item List"
+    },
+    {
+      "$id": 26,
+      "style": 15,
+      "name": "Hana Rise"
+    },
+    {
+      "$id": 27,
+      "style": 15,
+      "name": "Monster Encyclopedia"
+    },
+    {
+      "$id": 28,
+      "style": 15,
+      "name": "Skip Travel"
+    },
+    {
+      "$id": 29,
+      "style": 15,
+      "name": "Item List"
+    },
+    {
+      "$id": 30,
+      "style": 15,
+      "name": "Quest Log"
+    },
+    {
+      "$id": 31,
+      "style": 15,
+      "name": "Encyclopedia"
+    },
+    {
+      "$id": 32,
+      "style": 15,
+      "name": "Blade Management"
+    },
+    {
+      "$id": 33,
+      "style": 15,
+      "name": "Merc Group"
+    },
+    {
+      "$id": 34,
+      "style": 15,
+      "name": "System"
+    },
+    {
+      "$id": 35,
+      "style": 15,
+      "name": "Save Game"
+    },
+    {
+      "$id": 36,
+      "style": 15,
+      "name": "Create/Crystallize Parts"
+    },
+    {
+      "$id": 37,
+      "style": 15,
+      "name": "Options"
+    },
+    {
+      "$id": 38,
+      "style": 15,
+      "name": "Blade Encyclopedia"
+    },
+    {
+      "$id": 39,
+      "style": 25,
+      "name": "Use WP to strengthen Arts."
+    },
+    {
+      "$id": 40,
+      "style": 25,
+      "name": "Set Blades you want to travel with."
+    },
+    {
+      "$id": 41,
+      "style": 25,
+      "name": "Use SP to enhance character's abilities."
+    },
+    {
+      "$id": 42,
+      "style": 25,
+      "name": "Strengthen characters by equipping\naccessories."
+    },
+    {
+      "$id": 43,
+      "style": 25,
+      "name": "Empower character with Pouch items."
+    },
+    {
+      "$id": 44,
+      "style": 25,
+      "name": "Strengthen Blade weapons with\nCore Chips."
+    },
+    {
+      "$id": 45,
+      "style": 25,
+      "name": "Check on Blade's growth."
+    },
+    {
+      "$id": 46,
+      "style": 25,
+      "name": "Empower Blade with Assist Cores."
+    },
+    {
+      "$id": 47,
+      "style": 25,
+      "name": "Switch between Homura and Hikari."
+    },
+    {
+      "$id": 48,
+      "style": 25,
+      "name": "Use Nia as a Blade."
+    },
+    {
+      "$id": 49,
+      "style": 25,
+      "name": "Empower Hana with collected parts."
+    },
+    {
+      "$id": 50,
+      "style": 25,
+      "name": "Create or dismantle Hana upgrade parts."
+    },
+    {
+      "$id": 51,
+      "style": 25,
+      "name": "Create a new Blade."
+    },
+    {
+      "$id": 52,
+      "style": 25,
+      "name": "See a list of resonated Blades."
+    },
+    {
+      "$id": 53,
+      "style": 25,
+      "name": "View Epic and Rare Blades who've\njoined you."
+    },
+    {
+      "$id": 54,
+      "style": 25,
+      "name": "See a list of monsters you've battled."
+    },
+    {
+      "$id": 55,
+      "style": 25,
+      "name": "Save your progress up to this point."
+    },
+    {
+      "$id": 56,
+      "style": 25,
+      "name": "Change the time of day."
+    },
+    {
+      "$id": 57,
+      "style": 25,
+      "name": "Adjust various game settings."
+    },
+    {
+      "$id": 58,
+      "style": 25,
+      "name": "Adjust settings relating to the camera."
+    },
+    {
+      "$id": 59,
+      "style": 25,
+      "name": "Adjust settings relating to sound."
+    },
+    {
+      "$id": 60,
+      "style": 25,
+      "name": "Adjust the screen's brightness."
+    },
+    {
+      "$id": 61,
+      "style": 15,
+      "name": "Expansion Pass"
+    },
+    {
+      "$id": 62,
+      "style": 25,
+      "name": "Adjust settings relating to gameplay."
+    },
+    {
+      "$id": 63,
+      "style": 15,
+      "name": "Notices"
+    },
+    {
+      "$id": 64,
+      "style": 15,
+      "name": "Free Gifts"
+    },
+    {
+      "$id": 65,
+      "style": 15,
+      "name": "amiibo"
+    },
+    {
+      "$id": 66,
+      "style": 25,
+      "name": "You can claim amiibo bonuses\nfor up to three figures per day."
+    },
+    {
+      "$id": 67,
+      "style": 15,
+      "name": "Mode Selection"
+    },
+    {
+      "$id": 68,
+      "style": 25,
+      "name": "Dispatch Blades on Merc Group missions."
+    },
+    {
+      "$id": 69,
+      "style": 25,
+      "name": "Take control of Blades yourself\nand head out on missions."
+    },
+    {
+      "$id": 70,
+      "style": 15,
+      "name": "Merc Group Action"
+    },
+    {
+      "$id": 71,
+      "style": 15,
+      "name": "Community"
+    },
+    {
+      "$id": 72,
+      "style": 25,
+      "name": "Check gameplay tips."
+    },
+    {
+      "$id": 73,
+      "style": 15,
+      "name": "Tips"
+    },
+    {
+      "$id": 74,
+      "style": 15,
+      "name": "Iira Release Celebration"
+    }
+  ]
+}

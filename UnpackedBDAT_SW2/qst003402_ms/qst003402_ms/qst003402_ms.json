@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst003402_msg0001",
+      "style": 84,
+      "name": "Guh... They're strong..."
+    },
+    {
+      "$id": 2,
+      "label": "qst003402_msg0002",
+      "style": 84,
+      "name": "I see... You broke the water\ntower to escape from the\nSuperbian soldiers..."
+    },
+    {
+      "$id": 3,
+      "label": "qst003402_msg0003",
+      "style": 84,
+      "name": "Right... So in the end,\nit was their fault."
+    },
+    {
+      "$id": 4,
+      "label": "qst003402_msg0004",
+      "style": 84,
+      "name": "In that case, we can't blame you."
+    },
+    {
+      "$id": 5,
+      "label": "qst003402_msg0005",
+      "style": 84,
+      "name": "Can't be helped. We were both\ntrying to stand up to a power\nthat was just too strong for us."
+    },
+    {
+      "$id": 6,
+      "label": "qst003402_msg0006",
+      "style": 84,
+      "name": "Besides... you're the ones who brought\nus the Melosian Honey, right?"
+    },
+    {
+      "$id": 7,
+      "label": "qst003402_msg0007",
+      "style": 84,
+      "name": "My daughter doesn't eat much,\nbut she happily eats Ruska made\nwith Melosian Honey."
+    },
+    {
+      "$id": 8,
+      "label": "qst003402_msg0008",
+      "style": 84,
+      "name": "For the honey's sake, I'll let\nthe water tower incident slide."
+    },
+    {
+      "$id": 9,
+      "label": "qst003402_msg0009",
+      "style": 84,
+      "name": "Next time you mess with\nSuperbians, do it in a way\nthat doesn't trouble us, all right?"
+    }
+  ]
+}

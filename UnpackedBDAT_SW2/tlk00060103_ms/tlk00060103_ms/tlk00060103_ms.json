@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000601_03_msg0001",
+      "style": 84,
+      "name": "If Professor Senzou's grandchild\nis in trouble, I'll gladly\nlend a hand, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000601_03_msg0002",
+      "style": 84,
+      "name": "I will also try to search for\nclues about Kiku on my own, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000601_03_msg0003",
+      "style": 84,
+      "name": "We will find Professor\nTatezou, no matter what, mo!"
+    }
+  ]
+}

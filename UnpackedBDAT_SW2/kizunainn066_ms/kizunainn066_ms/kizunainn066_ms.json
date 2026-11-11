@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn066_msg0001",
+      "style": 84,
+      "name": "Excuse me, everyone. There's somewhere\nI'd like you to accompany me."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn066_msg0002",
+      "style": 84,
+      "name": "Why so formal? What's up?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn066_msg0003",
+      "style": 84,
+      "name": "I'd like to visit the Stele of\nJudgment in Elpis Spirit Cavern.\nWould that be all right?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn066_msg0004",
+      "style": 84,
+      "name": "I don't mind, but[ML:Dash ] That place is\ntough for Blades, you know."
+    },
+    {
+      "$id": 5,
+      "label": "kizunainn066_msg0005",
+      "style": 84,
+      "name": "That's just what I want."
+    }
+  ]
+}

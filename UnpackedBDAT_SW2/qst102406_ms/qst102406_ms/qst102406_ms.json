@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102406_msg001",
+      "style": 62,
+      "name": "I'll have you all complete\nabout three missions (temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst102406_msg002",
+      "style": 62,
+      "name": "I'm sure our mercenary corps can\ndo it faster, though (temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst102406_msg101",
+      "style": 62,
+      "name": "Are you sure you can be\nso relaxed? Our members\nwill be back soon (temp)"
+    }
+  ]
+}

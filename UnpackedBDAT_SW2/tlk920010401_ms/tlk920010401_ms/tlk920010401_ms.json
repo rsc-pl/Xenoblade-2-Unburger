@@ -1,0 +1,24 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk9200104_01_msg0001",
+      "style": 84,
+      "name": "I am ready to offer my assistance.\nCall on me whenever you see fit."
+    }
+  ]
+}

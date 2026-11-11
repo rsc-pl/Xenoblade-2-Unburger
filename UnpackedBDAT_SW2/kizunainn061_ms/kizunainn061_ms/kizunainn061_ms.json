@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn061_msg0001",
+      "style": 84,
+      "name": "Listen to this! I did a reading\nas soon as I woke up."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn061_msg0002",
+      "style": 84,
+      "name": "It said if we go to Getorix Oracle\nRuins at the Cliffs of Mors at dusk,\nwe should see a beautiful sunset[ML:Dash ]"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn061_msg0003",
+      "style": 84,
+      "name": "You want to go, don't you[ML:Dash ] Right?"
+    }
+  ]
+}

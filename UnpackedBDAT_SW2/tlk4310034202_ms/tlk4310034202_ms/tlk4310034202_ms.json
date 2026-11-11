@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100342_02_msg0001",
+      "style": 84,
+      "name": "So, when I grow up and\njoin the Invidian army..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100342_02_msg0002",
+      "style": 84,
+      "name": "I'll have to fight a Blade like the\nones my older brother talked about,\nright?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100342_02_msg0003",
+      "style": 84,
+      "name": "What am I going to do... I don't\nthink I'd survive..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100342_01_msg0004",
+      "style": 84,
+      "name": "I'd probably wet myself just seeing\na Blade like that..."
+    }
+  ]
+}

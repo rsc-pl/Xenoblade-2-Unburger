@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400013_01_msg0001",
+      "style": 84,
+      "name": "This way is Chairman Bahn's room, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400013_01_msg0002",
+      "style": 84,
+      "name": "The Chairman is a busy man,\nso if you don't have business,\nit's off-limits, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400013_01_msg0003",
+      "style": 84,
+      "name": "Please do not disturb him, mo!"
+    }
+  ]
+}

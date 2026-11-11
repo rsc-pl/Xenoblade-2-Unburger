@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn079_msg0001",
+      "style": 84,
+      "name": "Were you able to rest well?\nI have one message for you."
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn079_msg0002",
+      "style": 84,
+      "name": "\"I'm waiting at Theospiti Temple.\nBring Ten'i\" [ML:Dash ]that's the message."
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn079_msg0003",
+      "style": 84,
+      "name": "A man came by, but[ML:Dash ] he left right\naway, so I don't even know his name."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn079_msg0004",
+      "style": 84,
+      "name": "But I definitely passed it on!"
+    }
+  ]
+}

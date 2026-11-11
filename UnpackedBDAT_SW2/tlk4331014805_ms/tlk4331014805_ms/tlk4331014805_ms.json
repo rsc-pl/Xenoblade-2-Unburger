@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43310148_05_msg0001",
+      "style": 84,
+      "name": "Never thought I'd see the day when\nInvidia and Superbia would have to\njoin hands..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43310148_05_msg0002",
+      "style": 84,
+      "name": "Until now, both Invidia and Superbia\nhave thought only of their own\ninterests..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43310148_05_msg0003",
+      "style": 84,
+      "name": "I guess your way of thinking\nchanges when the fate of the\nwhole of Alst is at stake though."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43310148_05_msg0004",
+      "style": 84,
+      "name": "I don't think that's a bad thing."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200910_msg001",
+      "style": 84,
+      "name": "You came to rescue me? I'm grateful..."
+    },
+    {
+      "$id": 2,
+      "label": "qst200910_msg002",
+      "style": 84,
+      "name": "Anyway, it's dangerous\nhere. Let's go back to\nthe Shubia Lumberyard."
+    },
+    {
+      "$id": 3,
+      "label": "qst200910_msg003",
+      "style": 84,
+      "name": "We'll talk after that."
+    },
+    {
+      "$id": 4,
+      "label": "qst200910_msg004",
+      "style": 84,
+      "name": "Don't worry, I'm not injured. I\ncan stand and walk on my own."
+    },
+    {
+      "$id": 5,
+      "label": "qst200910_msg005",
+      "style": 84,
+      "name": "Everyone must be worried, so we\nshould let them know I'm safe soon."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100151_04_msg0001",
+      "style": 84,
+      "name": "The kid from the fish shop often gives\nme food. I hear the kid's mother is\nvery ill, which must be hard."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100151_04_msg0002",
+      "style": 84,
+      "name": "There's something gentle about that\nkid's cooking. It reminds me of Gula."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100151_04_msg0003",
+      "style": 84,
+      "name": "Give the shop your business if you\ncan. It would help the kid's mother,\ntoo."
+    }
+  ]
+}

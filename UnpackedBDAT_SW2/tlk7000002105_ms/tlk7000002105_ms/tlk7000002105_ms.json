@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000021_05_msg0001",
+      "style": 84,
+      "name": "For now, mass-producing ships comes\nfirst, but someday I want to build a\nhuge shipyard too."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000021_05_msg0002",
+      "style": 84,
+      "name": "This job made me realize we need more\npeople and materials, and a place\nwhere we can build ships efficiently."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000021_05_msg0003",
+      "style": 84,
+      "name": "The more ships we build, the easier\nit'll make things for others, so\nit's worth putting in the effort."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000021_05_msg0004",
+      "style": 84,
+      "name": "Anyway, I'll keep doing my best. You\nkeep at it too!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000053_04_msg0001",
+      "style": 84,
+      "name": "It happened by chance, but giving\neveryone orders for the first time\ntaught me something."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000053_04_msg0002",
+      "style": 84,
+      "name": "When you're on the battlefield,\nyou have to make snap decisions\nand judgments. That takes guts."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000053_04_msg0003",
+      "style": 84,
+      "name": "It's terrifying to think that\nyour own misjudgment could\nlead to someone's death."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000053_04_msg0004",
+      "style": 84,
+      "name": "Adel-sama has always had to do things\nlike that, hasn't he? That's\namazing..."
+    }
+  ]
+}

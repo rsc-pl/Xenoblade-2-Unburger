@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006001_02_msg0001",
+      "style": 84,
+      "name": "Rex... No matter how often you come,\nI can't give you a better buyback\nprice, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006001_02_msg0002",
+      "style": 84,
+      "name": "You should take your last 200G and eat\nsome Samo. That should cheer you up,\nmo."
+    }
+  ]
+}

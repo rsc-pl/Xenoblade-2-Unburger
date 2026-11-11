@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000060_05_msg0001",
+      "style": 84,
+      "name": "Uuugh... Dad says he doesn't need\nmy help~"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000060_05_msg0002",
+      "style": 84,
+      "name": "I know Dad isn't saying it to be mean~"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000060_05_msg0003",
+      "style": 84,
+      "name": "It's just like Kaede-chan~ When it\nreally matters, the words come out\nharsh~"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000060_05_msg0004",
+      "style": 84,
+      "name": "Ohhh, why is this all so hard? I\ndon't know what to do anymore..."
+    }
+  ]
+}

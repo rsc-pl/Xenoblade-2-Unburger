@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000138_05_msg0001",
+      "style": 62,
+      "name": "Even at a time like this, Dad is\ncompletely absorbed in his\ninventions..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000138_05_msg0002",
+      "style": 62,
+      "name": "I'm still inexperienced, but I can\nsteer a Divine Beast ship, so I'll go\nhelp Wotta-san."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000138_05_msg0003",
+      "style": 62,
+      "name": "I've been away from the capital a long\ntime, but this is my hometown..."
+    }
+  ]
+}

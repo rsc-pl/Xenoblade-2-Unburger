@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst103301_msg001",
+      "style": 62,
+      "name": "Do you remember me? (temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst103301_msg002",
+      "style": 62,
+      "name": "Please deliver this to my\nyounger brothers (temp)"
+    },
+    {
+      "$id": 3,
+      "label": "qst103301_msg101",
+      "style": 62,
+      "name": "Did you deliver it? (temp)"
+    },
+    {
+      "$id": 4,
+      "label": "qst103301_msg0001",
+      "style": 84,
+      "name": "May I help you? ...Hmm? Oh?"
+    },
+    {
+      "$id": 5,
+      "label": "qst103301_msg0002",
+      "style": 84,
+      "name": "You all look familiar..."
+    },
+    {
+      "$id": 6,
+      "label": "qst103301_msg0003",
+      "style": 84,
+      "name": "Ah! From that time!"
+    },
+    {
+      "$id": 7,
+      "label": "qst103301_msg0004",
+      "style": 84,
+      "name": "Don't you remember? I'm Elnoth!\nI was scouted as a Driver\nin Torigo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst103301_msg0005",
+      "style": 165,
+      "name": "Do you remember watching?"
+    },
+    {
+      "$id": 9,
+      "label": "qst103301_msg0006",
+      "style": 165,
+      "name": "I remember it clearly."
+    },
+    {
+      "$id": 10,
+      "label": "qst103301_msg0007",
+      "style": 165,
+      "name": "I forgot."
+    },
+    {
+      "$id": 11,
+      "label": "qst103301_msg0021",
+      "style": 84,
+      "name": "You remember! Thank you."
+    },
+    {
+      "$id": 12,
+      "label": "qst103301_msg0041",
+      "style": 84,
+      "name": "What...\nI remember you."
+    },
+    {
+      "$id": 13,
+      "label": "qst103301_msg0042",
+      "style": 84,
+      "name": "The faces of those who watched me\nresonate with a Core Crystal..."
+    },
+    {
+      "$id": 14,
+      "label": "qst103301_msg0043",
+      "style": 84,
+      "name": "There's no way I could\nforget them!"
+    },
+    {
+      "$id": 15,
+      "label": "qst103301_msg0101",
+      "style": 84,
+      "name": "After that, I trained in\nImperial Capital, Alba Margen."
+    },
+    {
+      "$id": 16,
+      "label": "qst103301_msg0102",
+      "style": 84,
+      "name": "And I finally became\nan army Driver."
+    },
+    {
+      "$id": 17,
+      "label": "qst103301_msg0103",
+      "style": 84,
+      "name": "Because I'm in the army, I can now\nsend money to my younger brothers."
+    },
+    {
+      "$id": 18,
+      "label": "qst103301_msg0104",
+      "style": 84,
+      "name": "Life is better now, but without\nour parents, my younger brothers\nstill get lonely..."
+    },
+    {
+      "$id": 19,
+      "label": "qst103301_msg0105",
+      "style": 84,
+      "name": "My parents hated the\nSuperbian Empire's army,\nso they'd be angry if they knew..."
+    },
+    {
+      "$id": 20,
+      "label": "qst103301_msg0106",
+      "style": 84,
+      "name": "Yes, well...\nA lot has happened..."
+    },
+    {
+      "$id": 21,
+      "label": "qst103301_msg0107",
+      "style": 84,
+      "name": "Oh, yes. Alba Margen\nhas so many different things!"
+    },
+    {
+      "$id": 22,
+      "label": "qst103301_msg0108",
+      "style": 84,
+      "name": "I want to give my younger brothers\nfood and toys they've never seen."
+    },
+    {
+      "$id": 23,
+      "label": "qst103301_msg0109",
+      "style": 84,
+      "name": "But I can't get much time off,\nso it's hard to go\nback to Torigo."
+    },
+    {
+      "$id": 24,
+      "label": "qst103301_msg0110",
+      "style": 84,
+      "name": "I bought some sweets,\nbut they may go bad\nbefore I can give them."
+    },
+    {
+      "$id": 25,
+      "label": "qst103301_msg0111",
+      "style": 84,
+      "name": "Are you sure?\nThank you!"
+    },
+    {
+      "$id": 26,
+      "label": "qst103301_msg0112",
+      "style": 84,
+      "name": "I'll go gather\nthe things I want to send!"
+    },
+    {
+      "$id": 27,
+      "label": "qst103301_msg0113",
+      "style": 84,
+      "name": "I packed in all sorts of things,\nso it's heavy, but...\nplease take care of it."
+    },
+    {
+      "$id": 28,
+      "label": "qst103301_msg0114",
+      "style": 84,
+      "name": "My younger brothers live in the\nGarede Residential Zone in Torigo."
+    },
+    {
+      "$id": 29,
+      "label": "qst103301_msg0115",
+      "style": 84,
+      "name": "Their names are Niiro, Zelan, and\nMorike! Don't mix them up!"
+    },
+    {
+      "$id": 30,
+      "label": "qst103301_msg0116",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qst103301_msg0117",
+      "style": 84,
+      "name": "Starry-Sky Jewel Tart...\nI wish Mom could have\ntried it too..."
+    },
+    {
+      "$id": 32,
+      "label": "qst103301_msg0118",
+      "style": 84,
+      "name": "I left out anything\nthat spoils easily, but please\ndeliver it soon!"
+    }
+  ]
+}

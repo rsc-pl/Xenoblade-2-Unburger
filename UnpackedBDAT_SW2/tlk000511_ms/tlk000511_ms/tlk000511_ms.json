@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000511_msg0001",
+      "style": 62,
+      "name": "—I have an interesting story."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000511_msg0002",
+      "style": 62,
+      "name": "The Iira member captured by\nthe Superbian Empire is apparently\na Gulan girl named Nia."
+    },
+    {
+      "$id": 3,
+      "label": "tlk000511_msg0003",
+      "style": 62,
+      "name": "She was the lord's... from over\na decade ago—"
+    },
+    {
+      "$id": 4,
+      "label": "tlk000511_msg0004",
+      "style": 62,
+      "name": "No, let's drop this story. I'll\nbring misfortune upon myself."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43500142_01_msg0001",
+      "style": 84,
+      "name": "What is it, youngster? I meant to\nclose the mercenary advice office\nfor today..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43500142_01_msg0002",
+      "style": 84,
+      "name": "Oh, you're not mercenaries? Sorry,\nthen. Guess I got the wrong idea."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43500142_01_msg0003",
+      "style": 84,
+      "name": "I'd still be glad to lend you\na word of advice if there's\nanything troubling you, mind."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43500142_01_msg0004",
+      "style": 84,
+      "name": "I used to lead a mercenary band,\nso I can at least give you\nsome advice."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43500142_01_msg0101",
+      "style": 84,
+      "name": "Well, if it isn't Vandham. I've\nheard all sorts of tales about the\nthings you've been getting up to."
+    },
+    {
+      "$id": 6,
+      "label": "tlk43500142_01_msg0102",
+      "style": 84,
+      "name": "In all my years, I never heard of a\nmercenary band taking in orphans\nfrom across the land until yours!"
+    },
+    {
+      "$id": 7,
+      "label": "tlk43500142_01_msg0103",
+      "style": 84,
+      "name": "Looks like you're still busy meddling\nin other people's affairs. You really\nare too kind for your own good."
+    },
+    {
+      "$id": 8,
+      "label": "tlk43500142_01_msg0104",
+      "style": 84,
+      "name": "Well, I'm not going to stop\nyou, but try to look out for\nyourself too once in a while."
+    }
+  ]
+}

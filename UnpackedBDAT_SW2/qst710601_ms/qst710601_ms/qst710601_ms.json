@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst710601_msg0001",
+      "style": 84,
+      "name": "Mo... I'm so hungry, mo...\nThe portions at this place\nare way too small, mo..."
+    },
+    {
+      "$id": 2,
+      "label": "qst710601_msg0002",
+      "style": 84,
+      "name": "Hm? You need something\nfrom Morimori, mo?"
+    },
+    {
+      "$id": 3,
+      "label": "qst710601_msg0003",
+      "style": 84,
+      "name": "Morimori is eating right now,\nmo. Come back later, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst710601_msg0004",
+      "style": 84,
+      "name": "...Mo? Wait, mo. Do you\nhappen to have any food, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "qst710601_msg0005",
+      "style": 84,
+      "name": "Morimori is having trouble\nbecause the food at this\nplace is not enough, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst710601_msg0006",
+      "style": 84,
+      "name": "If you have any food or dishes,\nplease share them with Morimori, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst710601_msg0007",
+      "style": 84,
+      "name": "Morimori is one of the finest\ngourmets among all Nopon, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst710601_msg0008",
+      "style": 84,
+      "name": "Morimori won't accept food unless it\nmakes Morimori's tongue sing, mo!"
+    },
+    {
+      "$id": 9,
+      "label": "qst710601_msg0009",
+      "style": 84,
+      "name": "Well then, I'm looking\nforward to it, mo!"
+    }
+  ]
+}

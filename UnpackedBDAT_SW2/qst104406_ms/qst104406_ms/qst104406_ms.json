@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst104406_msg001",
+      "style": 62,
+      "name": "Thank you. Next, please help out\nat the distribution center."
+    },
+    {
+      "$id": 2,
+      "label": "qst104406_msg002",
+      "style": 62,
+      "name": "Please help out at the\ndistribution center."
+    }
+  ]
+}

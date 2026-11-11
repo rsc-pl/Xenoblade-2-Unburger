@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200144_05_msg0001",
+      "style": 84,
+      "name": "I heard Queen Lagert-sama's favorite\ngarden is way down below Sevind\nPalace Plaza."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200144_05_msg0002",
+      "style": 84,
+      "name": "I bet it's suuuuper pretty! Oh,\nhow I'd like to go one day!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200144_05_msg0003",
+      "style": 84,
+      "name": "But I've never seen Her Majesty jump\nto the Perla Fountain Park Ruins.\nI wonder how she gets there?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200144_05_msg0004",
+      "style": 84,
+      "name": "Oh! Maybe there's a secret\npassage that only the six\nnoble houses can use!"
+    }
+  ]
+}

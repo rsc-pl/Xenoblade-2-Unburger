@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42400045_01_msg0001",
+      "style": 84,
+      "name": "Toriri's employer has become even\nmore of a shut-in, mo."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42400045_01_msg0002",
+      "style": 84,
+      "name": "Without Toriri, the employer might\nhave starved to death by now, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42400045_01_msg0003",
+      "style": 84,
+      "name": "Toriri's employer is top secret, mo.\nI absolutely won't tell, mo."
+    }
+  ]
+}

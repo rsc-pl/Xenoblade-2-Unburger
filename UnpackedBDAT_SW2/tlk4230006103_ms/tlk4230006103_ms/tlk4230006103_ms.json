@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42300061_03_msg0001",
+      "style": 84,
+      "name": "The delivery Divine Beast ship\nhas gone somewhere, mo. How am\nI supposed to get back, mo?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42300061_03_msg0002",
+      "style": 84,
+      "name": "Kurukuru is still on duty, mo. This\nwill count as slacking off, mo."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42300061_03_msg0003",
+      "style": 84,
+      "name": "The serious Acting Chairman Nilny\nhas also been ousted, mo. At this\nrate, my salary will be cut, mo."
+    }
+  ]
+}

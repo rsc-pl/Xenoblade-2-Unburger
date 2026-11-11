@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000067_01_msg0001",
+      "style": 84,
+      "name": "When Ornella-san was here, the\nvillage was so much more lively.\nIt's deserted these days..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000067_01_msg0002",
+      "style": 84,
+      "name": "Sometimes people remember about\nthe village and come to visit."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000067_01_msg0003",
+      "style": 84,
+      "name": "That's why, as the last resident of\nthis village, I keep the inn open for\npeople who still come to visit."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000067_01_msg0004",
+      "style": 84,
+      "name": "I want to make sure Ornella-san's\nold house is safe and sound, too."
+    }
+  ]
+}

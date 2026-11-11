@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702502_msg0001",
+      "style": 84,
+      "name": "Monsters suddenly\nattacked from the port!"
+    },
+    {
+      "$id": 2,
+      "label": "qst702502_msg0002",
+      "style": 84,
+      "name": "Most of our fighters are out right\nnow, so I was worried, but now that\nAdel-sama is here, we're safe."
+    },
+    {
+      "$id": 3,
+      "label": "qst702502_msg0003",
+      "style": 84,
+      "name": "Leave the watch here to me! I'll\nlet you know if anything happens!"
+    },
+    {
+      "$id": 4,
+      "label": "qst702502_msg0101",
+      "style": 84,
+      "name": "Now monsters have appeared\nfrom the other side!"
+    },
+    {
+      "$id": 5,
+      "label": "qst702502_msg0102",
+      "style": 84,
+      "name": "They're not the kind you\nusually see around here.\nWhere did they come from...?"
+    },
+    {
+      "$id": 6,
+      "label": "qst702502_msg0201",
+      "style": 84,
+      "name": "More monsters appeared and\nthey got in so quickly..."
+    },
+    {
+      "$id": 7,
+      "label": "qst702502_msg0202",
+      "style": 84,
+      "name": "Most of the evacuation is done, so\nall that's left is to defeat them!"
+    },
+    {
+      "$id": 8,
+      "label": "qst702502_msg0203",
+      "style": 84,
+      "name": "Adel-sama, just a little\nmore! I believe in you!"
+    }
+  ]
+}

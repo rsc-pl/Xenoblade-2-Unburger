@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000018_02_msg0001",
+      "style": 84,
+      "name": "Huh? Will I manage to catch tonight's\ndinner, you ask?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000018_02_msg0002",
+      "style": 84,
+      "name": "No, no. I'm a fishmonger, you see. I'm\nactually working right now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000018_02_msg0003",
+      "style": 84,
+      "name": "There's never much biting, though.\nIira's got a lot of desert, and that\nmeans fish numbers stay pretty low."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000018_02_msg0004",
+      "style": 84,
+      "name": "Since there's not much to catch,\nthe seafood eaten in Iira is\nmostly imported or farmed..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000018_02_msg0005",
+      "style": 84,
+      "name": "As a fishmonger, I'd like to offer my\ncustomers fresh, wild-caught fish\nwhenever I can."
+    }
+  ]
+}

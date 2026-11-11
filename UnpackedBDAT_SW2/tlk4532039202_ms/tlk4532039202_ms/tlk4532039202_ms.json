@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45320392_02_msg0001",
+      "style": 84,
+      "name": "I'd like to hurry and get this Divine\nBeast weapon ready for combat, but..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45320392_02_msg0002",
+      "style": 84,
+      "name": "As you can see, we're short on people,\nand many parts are hard to handle, so\nwork is barely progressing."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45320392_02_msg0003",
+      "style": 84,
+      "name": "If we could at least move it, just\nsending it into enemy territory would\nhave a tremendous effect..."
+    }
+  ]
+}

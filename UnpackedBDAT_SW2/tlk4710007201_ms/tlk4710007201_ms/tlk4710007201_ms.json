@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100072_01_msg0001",
+      "style": 84,
+      "name": "Oh? You have a very strange story\nof destiny around you."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100072_01_msg0002",
+      "style": 84,
+      "name": "It's my instinct. Everyone carries\ntheir destiny on their shoulders. And\nyou have the strangest one I've seen."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100072_01_msg0003",
+      "style": 84,
+      "name": "Hey, hey! When that mysterious story\nis over, tell me all about it!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100072_01_msg0004",
+      "style": 84,
+      "name": "Phonexes love listening to\nstories. Especially ones\nabout heroes and adventures!"
+    }
+  ]
+}

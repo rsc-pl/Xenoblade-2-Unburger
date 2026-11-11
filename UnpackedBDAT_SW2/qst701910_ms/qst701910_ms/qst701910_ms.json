@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701910_msg0001",
+      "style": 84,
+      "name": "The other day, I had an idea: evacuate\nher on an Armu. So we tried it."
+    },
+    {
+      "$id": 2,
+      "label": "qst701910_msg0002",
+      "style": 84,
+      "name": "But... Furia didn't have the\nstrength to hold on and fell off..."
+    },
+    {
+      "$id": 3,
+      "label": "qst701910_msg0003",
+      "style": 84,
+      "name": "I really want to help her somehow..."
+    },
+    {
+      "$id": 4,
+      "label": "qst701910_msg0004",
+      "style": 84,
+      "name": "If even Marco can't help, what\nare we supposed to do...?"
+    }
+  ]
+}

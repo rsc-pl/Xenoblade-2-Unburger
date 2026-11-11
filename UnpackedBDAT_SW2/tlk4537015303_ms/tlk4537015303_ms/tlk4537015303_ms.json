@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk4537015303_msg0001",
+      "style": 84,
+      "name": "By learning history, we can learn from\nboth mistakes and successes."
+    },
+    {
+      "$id": 2,
+      "label": "tlk4537015303_msg0002",
+      "style": 84,
+      "name": "That's why old things must be\npreserved for future generations."
+    },
+    {
+      "$id": 3,
+      "label": "tlk4537015303_msg0003",
+      "style": 84,
+      "name": "Please refrain from chatting during\nclass."
+    }
+  ]
+}

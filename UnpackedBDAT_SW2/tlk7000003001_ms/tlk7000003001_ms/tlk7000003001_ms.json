@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000030_01_msg0001",
+      "style": 84,
+      "name": "New customers? Strange for a cook to\nsay this, but the capital has plenty\nof better restaurants than this one."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000030_01_msg0002",
+      "style": 84,
+      "name": "Although...I have to admit I've\nhad a bit of a rough time lately\nand it's affecting my cooking..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000030_01_msg0003",
+      "style": 84,
+      "name": "I still have regulars who come to eat\nmy food. I'm happy, but I also feel\nsorry for them..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000030_01_msg0004",
+      "style": 84,
+      "name": "Er...sorry. Anyway... Were you looking\nto have a meal? I'll cook but I can't\nreally recommend anything."
+    }
+  ]
+}

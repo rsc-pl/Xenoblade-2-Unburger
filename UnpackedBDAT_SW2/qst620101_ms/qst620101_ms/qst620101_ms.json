@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620101_msg0001",
+      "style": 84,
+      "name": "Hmm... This is a problem, mo~."
+    },
+    {
+      "$id": 2,
+      "label": "qst620101_msg0002",
+      "style": 84,
+      "name": "It's my first time in Gula, so I'm a\nlittle lost, mo."
+    },
+    {
+      "$id": 3,
+      "label": "qst620101_msg0003",
+      "style": 84,
+      "name": "I came to play that TIGER! TIGER! game\neveryone's been talking about, mo."
+    },
+    {
+      "$id": 4,
+      "label": "qst620101_msg0004",
+      "style": 84,
+      "name": "Do you know where I can play it, mo?"
+    },
+    {
+      "$id": 5,
+      "label": "qst620101_msg0005",
+      "style": 84,
+      "name": "Thanks. That's a big help, mo~."
+    }
+  ]
+}

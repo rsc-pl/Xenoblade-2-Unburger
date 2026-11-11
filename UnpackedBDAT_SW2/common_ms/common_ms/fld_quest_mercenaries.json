@@ -1,0 +1,3449 @@
+{
+  "schema": [
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "style": 57,
+      "name": "Unloading of Goods"
+    },
+    {
+      "$id": 2,
+      "style": 64,
+      "name": "More goods have arrived from Superbia\nthan expected and work is\nbehind schedule. Do you have any\nstrong Blades who could help?"
+    },
+    {
+      "$id": 3,
+      "style": 57,
+      "name": "Crane Repairs"
+    },
+    {
+      "$id": 4,
+      "style": 64,
+      "name": "The port's salvaging crane is broken,\nand we can't keep working without it.\nWe're short on repairmen right now,\nso could you lend a hand?"
+    },
+    {
+      "$id": 5,
+      "style": 57,
+      "name": "Salvaging Security"
+    },
+    {
+      "$id": 6,
+      "style": 64,
+      "name": "There have been lots of monster\nattacks on salvagers lately, leaving\nthem all on edge. Can you keep the\nsalvagers safe while they work?"
+    },
+    {
+      "$id": 7,
+      "style": 57,
+      "name": "Nopon Veggie Stir-Fry"
+    },
+    {
+      "$id": 8,
+      "style": 64,
+      "name": "I want to make a dish the children\nlove, but I don't have enough heat,\nmo! Please help me make the fire\nstronger, mo!"
+    },
+    {
+      "$id": 9,
+      "style": 57,
+      "name": "Canteen Job"
+    },
+    {
+      "$id": 10,
+      "style": 64,
+      "name": "We got a big reservation, so we need\nsome temp staff, but we're awfully\nshort on waitresses. Wonder if there's\nanybody suitable out there..."
+    },
+    {
+      "$id": 11,
+      "style": 57,
+      "name": "Port Pest Problem"
+    },
+    {
+      "$id": 12,
+      "style": 64,
+      "name": "A merchant ship's cargo hold has been\ninvaded by Sheath and can't set\nsail. The situation's bad for business,\nso it needs sorting soon."
+    },
+    {
+      "$id": 13,
+      "style": 57,
+      "name": "Grounded Ship Rescue"
+    },
+    {
+      "$id": 14,
+      "style": 64,
+      "name": "A merchant ship ran aground. We've\nmanaged to float it, but it's in a sorry\nstate, so we need some mercenary help\nto see to repairs."
+    },
+    {
+      "$id": 15,
+      "style": 57,
+      "name": "Ship Snooping"
+    },
+    {
+      "$id": 16,
+      "style": 64,
+      "name": "A merchant ship is trading without\nTrade Guild permission and causing\ntrouble for everyone, mo! Please go\nteach them a lesson, mo!"
+    },
+    {
+      "$id": 17,
+      "style": 57,
+      "name": "Avoiding Heavy Losses"
+    },
+    {
+      "$id": 18,
+      "style": 64,
+      "name": "I lost important negotiation documents.\nThis could cause a huge loss, mo! Please\nfind them among the cargo, mo!"
+    },
+    {
+      "$id": 19,
+      "style": 57,
+      "name": "Money, Money, Money"
+    },
+    {
+      "$id": 20,
+      "style": 64,
+      "name": "Shiho Flower nectar from Shihon Island\nis said to make you younger, mo! I\nwant to get some and profit, mo! Find\nwhere lots of it grows, mo!"
+    },
+    {
+      "$id": 21,
+      "style": 57,
+      "name": "Flying Monsters"
+    },
+    {
+      "$id": 22,
+      "style": 64,
+      "name": "Shigaru have gathered on deck after the\nfruit in the cargo. They're quick, so do\nwe have a Blade who can handle them?"
+    },
+    {
+      "$id": 23,
+      "style": 57,
+      "name": "Big Catch Opportunity"
+    },
+    {
+      "$id": 24,
+      "style": 64,
+      "name": "There are more fish in the Beeching\nCloud Sea, mo! Let's catch lots,\ncook delicious food, and make\nsome money, mo!"
+    },
+    {
+      "$id": 25,
+      "style": 57,
+      "name": "Crane Protection"
+    },
+    {
+      "$id": 26,
+      "style": 64,
+      "name": "A salvaging crane got caught on\na huge Rodon living in the Cloud\nSea, mo! Please defeat it before\nthe crane breaks, mo!"
+    },
+    {
+      "$id": 27,
+      "style": 57,
+      "name": "Nopon News"
+    },
+    {
+      "$id": 28,
+      "style": 64,
+      "name": "We're short on newspaper stories, mo...\nAsk people who love rumors about\ntrends and gossip, mo! I'll be waiting for\nsomething really interesting, mo!"
+    },
+    {
+      "$id": 29,
+      "style": 57,
+      "name": "Deck Duty"
+    },
+    {
+      "$id": 30,
+      "style": 64,
+      "name": "My deck duty hours were increased,\nand now I barely get to spend any time\nwith my son. Could someone stand in\nfor me so I can play with him for a bit?"
+    },
+    {
+      "$id": 31,
+      "style": 57,
+      "name": "Sunken Ship Survey"
+    },
+    {
+      "$id": 32,
+      "style": 64,
+      "name": "I found a sunken ship while sailing,\nand it smells like treasure and\nadventure, mo! I want the mercenaries\nto explore it, mo!"
+    },
+    {
+      "$id": 33,
+      "style": 57,
+      "name": "Big Ship Escort"
+    },
+    {
+      "$id": 34,
+      "style": 64,
+      "name": "Escort the Momon Trading Company\nship carrying goods Nopon can't do\nwithout, mo. Many nearby enemies are\napparently weak to lightning, mo."
+    },
+    {
+      "$id": 35,
+      "style": 57,
+      "name": "Cooking Up a Feast"
+    },
+    {
+      "$id": 36,
+      "style": 64,
+      "name": "My family is coming home from a trip\nafter a long time, so I want to make a\nbig feast, but I can't make that much\nalone, mo... Please help me, mo!"
+    },
+    {
+      "$id": 37,
+      "style": 57,
+      "name": "Creature of the Depths"
+    },
+    {
+      "$id": 38,
+      "style": 64,
+      "name": "In the dead of night, trading ships are\nbeing pulled down into the depths by\na powerful monster. We need some\nmerc help to take care of the beast."
+    },
+    {
+      "$id": 39,
+      "style": 57,
+      "name": "Lifesaving"
+    },
+    {
+      "$id": 40,
+      "style": 64,
+      "name": "Someone got tangled up in the\nsalvaging crane's cable, and the\nsituation's precarious! We need\nsomebody to get them out of there!"
+    },
+    {
+      "$id": 41,
+      "style": 57,
+      "name": "Woodworking"
+    },
+    {
+      "$id": 42,
+      "style": 64,
+      "name": "My colleague Igor up at the lumberyard\nhas gone and got himself injured. Can\nyou help him out cutting up the wood?"
+    },
+    {
+      "$id": 43,
+      "style": 57,
+      "name": "Modeling Work"
+    },
+    {
+      "$id": 44,
+      "style": 64,
+      "name": "I'm thinking of painting some artwork\nfeaturing the natural environments of\nGula. Would you mind modeling\nfor some of my sketches?"
+    },
+    {
+      "$id": 45,
+      "style": 57,
+      "name": "Landslide Prevention"
+    },
+    {
+      "$id": 46,
+      "style": 64,
+      "name": "It's been raining for days in the town of\nBlakka. Which is nice in some ways, but\nthere's a risk of landslides and flooding.\nI need an escort while I investigate."
+    },
+    {
+      "$id": 47,
+      "style": 57,
+      "name": "Harvest Help"
+    },
+    {
+      "$id": 48,
+      "style": 64,
+      "name": "The harvest is so good we can't keep\nup, mo. At this rate our precious\nfruit will lose quality, so please help\nwith the harvest, mo."
+    },
+    {
+      "$id": 49,
+      "style": 57,
+      "name": "Field Devastation"
+    },
+    {
+      "$id": 50,
+      "style": 64,
+      "name": "Lately after nightfall, Bunnits appear\nand devastate the crops. Could you\ndrive them off for us?"
+    },
+    {
+      "$id": 51,
+      "style": 57,
+      "name": "Mannam Juice Delivery"
+    },
+    {
+      "$id": 52,
+      "style": 64,
+      "name": "We want to deliver Mannam Juice to\nthe village of Pom, but it's dangerous\nlately. Could you provide protection?"
+    },
+    {
+      "$id": 53,
+      "style": 57,
+      "name": "Wood Gathering"
+    },
+    {
+      "$id": 54,
+      "style": 64,
+      "name": "A Superbian senator ordered custom\nfurniture. We need special wood from\ndeep in White-Indigo Forest. Please\nhave the mercs gather some."
+    },
+    {
+      "$id": 55,
+      "style": 57,
+      "name": "Armu Retrieval"
+    },
+    {
+      "$id": 56,
+      "style": 64,
+      "name": "One of our transport Armus ran off and\ngot lost on the way to Pom Village.\nCould you find it before a monster gets\nto it and deliver it to the village?"
+    },
+    {
+      "$id": 57,
+      "style": 57,
+      "name": "Test of Courage"
+    },
+    {
+      "$id": 58,
+      "style": 64,
+      "name": "I'm going to Lake Iaaru for a test of\ncourage. I'm not scared, but keen\nfox-like senses would be useful, so\nyou can come along!"
+    },
+    {
+      "$id": 59,
+      "style": 57,
+      "name": "Forest Fire Prevention"
+    },
+    {
+      "$id": 60,
+      "style": 64,
+      "name": "Lightning seems to have struck\nWhite-Indigo Forest. A forest fire would\nbe disastrous, so I need to inspect it. It's\nsudden, but please escort me there."
+    },
+    {
+      "$id": 61,
+      "style": 57,
+      "name": "Stranded Merchant"
+    },
+    {
+      "$id": 62,
+      "style": 64,
+      "name": "A merchant fell from a cliff on the way\nto Torigo from Lasanne Village.\nHe's injured and can't move, so could\nyou send someone to rescue him?"
+    },
+    {
+      "$id": 63,
+      "style": 57,
+      "name": "Gula Secret Area"
+    },
+    {
+      "$id": 64,
+      "style": 64,
+      "name": "I've heard tell of a special place in\nGula and I want to see it before\nI die. But I'm no fighter, so I'll need\nsome professional protection."
+    },
+    {
+      "$id": 65,
+      "style": 57,
+      "name": "Protect the Holy Place"
+    },
+    {
+      "$id": 66,
+      "style": 64,
+      "name": "Suspicious intruders have been sighted\nat the sacred grounds in Kizan Valley.\nWe need mercenary help to get rid of\nthem before they defile the holy place."
+    },
+    {
+      "$id": 67,
+      "style": 57,
+      "name": "Phonex Escort"
+    },
+    {
+      "$id": 68,
+      "style": 64,
+      "name": "Us Phonexes are herbivores, so fighting\nisn't really our strong suit. Could you\nprotect us from Sauros while we're\non the move to a new settlement?"
+    },
+    {
+      "$id": 69,
+      "style": 57,
+      "name": "Mock Maneuvers"
+    },
+    {
+      "$id": 70,
+      "style": 64,
+      "name": "The soldiers are getting complacent\nlately, so I want you to face them in\nsome mock maneuvers. Don't hold\nback - give them a proper challenge!"
+    },
+    {
+      "$id": 71,
+      "style": 57,
+      "name": "Arrest Warrant"
+    },
+    {
+      "$id": 72,
+      "style": 64,
+      "name": "Thieves have been raiding the village of\nPom for its famous fruit. If we don't do\nsomething, our crops in Torigo might\nbe next in line. Could you investigate?"
+    },
+    {
+      "$id": 73,
+      "style": 57,
+      "name": "Rebel Purge"
+    },
+    {
+      "$id": 74,
+      "style": 64,
+      "name": "We received intel of an anti-imperial\nfaction lurking in Gula, so we want\nto round up the ringleaders. We need\nyour help in case things get violent."
+    },
+    {
+      "$id": 75,
+      "style": 57,
+      "name": "Wine Delivery"
+    },
+    {
+      "$id": 76,
+      "style": 64,
+      "name": "We want to take some of Pom Village's\nlocal wine to the town of Blakka, but\nwe're worried about monster attacks...\nCould you protect the delivery?"
+    },
+    {
+      "$id": 77,
+      "style": 57,
+      "name": "Phantom Fruit"
+    },
+    {
+      "$id": 78,
+      "style": 64,
+      "name": "There's said to be a fruit on Gula\nPlateau that can treat any sickness.\nCould you go fetch some? And take\ncare not to damage the plant itself."
+    },
+    {
+      "$id": 79,
+      "style": 57,
+      "name": "Weird Water"
+    },
+    {
+      "$id": 80,
+      "style": 64,
+      "name": "The water's got a strange taste and\nsmell. It's even making some people\nsick. Go upstream into Shinoo Forest\nand get to the bottom of things."
+    },
+    {
+      "$id": 81,
+      "style": 57,
+      "name": "Flotsam Inspection"
+    },
+    {
+      "$id": 82,
+      "style": 64,
+      "name": "Flotsam swallowed by the Divine\nBeast collects in a cave in its mouth.\nCheck for anything dangerous, but\ndon't touch it. Just report back."
+    },
+    {
+      "$id": 83,
+      "style": 57,
+      "name": "Lost and Found"
+    },
+    {
+      "$id": 84,
+      "style": 64,
+      "name": "We started a service searching for stuff\npeople lost on their travels, but it's got\nso popular now, we can't keep up with\ndemand. Could you lend us any help?"
+    },
+    {
+      "$id": 85,
+      "style": 57,
+      "name": "Thunderclap Zeke Hunt?"
+    },
+    {
+      "$id": 86,
+      "style": 64,
+      "name": "I made an eyepatched Igna traveling\nwith a Lightning Blade angry, mo!\nDefeat it before it destroys the village\nwith Overlord's Mind's Eye, mo!"
+    },
+    {
+      "$id": 87,
+      "style": 57,
+      "name": "Beautiful Pearl"
+    },
+    {
+      "$id": 88,
+      "style": 64,
+      "name": "The latest trend in Fons Maim is to\ngive a pearl ornament to your beloved.\nI want to choose one for my own\nsweetheart, but I need a lady's opinion!"
+    },
+    {
+      "$id": 89,
+      "style": 57,
+      "name": "Igna Investigation"
+    },
+    {
+      "$id": 90,
+      "style": 64,
+      "name": "Igna numbers are on the rise, and we're\nseeing twice as many as usual on Dinar\nRoad. We need some capable mercs to\nbring the Igna population under control."
+    },
+    {
+      "$id": 91,
+      "style": 57,
+      "name": "Rogue Miners"
+    },
+    {
+      "$id": 92,
+      "style": 64,
+      "name": "There's been a sharp rise in unlicensed\nTopprea Ore miners. Orders from the\ncapital are to tighten up enforcement,\nso could you go on regular patrols?"
+    },
+    {
+      "$id": 93,
+      "style": 57,
+      "name": "Warehouse Work"
+    },
+    {
+      "$id": 94,
+      "style": 64,
+      "name": "The food storehouse is getting a little\npacked lately. Luckily, we've secured\na bunch of non-perishables, so can you\nhelp us clear out the old produce?"
+    },
+    {
+      "$id": 95,
+      "style": 57,
+      "name": "King of the Spring"
+    },
+    {
+      "$id": 96,
+      "style": 64,
+      "name": "Seems a group of kids spotted a\ngigantic fish. Which mercenary group\nwill be the first to catch it?"
+    },
+    {
+      "$id": 97,
+      "style": 57,
+      "name": "Daily Training"
+    },
+    {
+      "$id": 98,
+      "style": 64,
+      "name": "Mercenaries need to train their bodies\nand battle technique. Nothing beats a\nlittle sparring with other merc groups,\nso join us for an all-out clash!"
+    },
+    {
+      "$id": 99,
+      "style": 57,
+      "name": "Giant Crab Attack"
+    },
+    {
+      "$id": 100,
+      "style": 64,
+      "name": "Overgrown Shrubs are rampaging\nthrough Mantaal to the south of\nFons Maim. Could you get some\nmercs to clear them up?"
+    },
+    {
+      "$id": 101,
+      "style": 57,
+      "name": "Goods Transport"
+    },
+    {
+      "$id": 102,
+      "style": 64,
+      "name": "Seems there's a large amount of cargo\nat the military port. The warehouse is\nshort on staff, so they're behind\nschedule. Could you help them out?"
+    },
+    {
+      "$id": 103,
+      "style": 57,
+      "name": "Art Supplies"
+    },
+    {
+      "$id": 104,
+      "style": 64,
+      "name": "I've been hired to paint a portrait of\nQueen Lagert, but I've run out of\npigment. Could you get some Tricolor\nRock for me? I need quite a lot of it."
+    },
+    {
+      "$id": 105,
+      "style": 57,
+      "name": "Water Quality Check"
+    },
+    {
+      "$id": 106,
+      "style": 64,
+      "name": "The water supply's tainted with dirt,\nand we don't know where along the\nchannel it's coming from. I'll check the\ninner stretch; can you look further out?"
+    },
+    {
+      "$id": 107,
+      "style": 57,
+      "name": "Wonderful Stage"
+    },
+    {
+      "$id": 108,
+      "style": 64,
+      "name": "The Lumeria Theater Troupe is touring\nInvidia and has arrived in Kannina.\nThey are bit behind setting up their\ntheater, could you give them a hand?"
+    },
+    {
+      "$id": 109,
+      "style": 57,
+      "name": "Road Repairs"
+    },
+    {
+      "$id": 110,
+      "style": 64,
+      "name": "The Onda road bridge, that connects to\nMantaal, has been damaged in a freak\nstorm. We've got materials but need\nsome help with the repairs."
+    },
+    {
+      "$id": 111,
+      "style": 57,
+      "name": "Rainbow Shell"
+    },
+    {
+      "$id": 112,
+      "style": 64,
+      "name": "They make crockery in Invidia out of \nshells and such. The nicer the material,\nthe more expensive it is. Could you get\nme some top-notch dishes and plates?"
+    },
+    {
+      "$id": 113,
+      "style": 57,
+      "name": "Rare Goods Repairs"
+    },
+    {
+      "$id": 114,
+      "style": 64,
+      "name": "My meter, which you can only get\nthrough salvaging, has given up the\nghost. Parts are expensive too, so do\nyou have a Blade who could fix it?"
+    },
+    {
+      "$id": 115,
+      "style": 57,
+      "name": "Dream of Rice"
+    },
+    {
+      "$id": 116,
+      "style": 64,
+      "name": "Invidia does plenty of research on rice\nas it's their main crop, but research in\nFons Maim has ground to a halt. Can\nyou send Blades with plant expertise?"
+    },
+    {
+      "$id": 117,
+      "style": 57,
+      "name": "Fort Rescue"
+    },
+    {
+      "$id": 118,
+      "style": 64,
+      "name": "An army of Ignas is about to attack\nVolda Fort, mo! At this rate the Invidian\nsoldiers will be wiped out, mo. I want\nto ask the mercenaries for help, mo!"
+    },
+    {
+      "$id": 119,
+      "style": 57,
+      "name": "Source Security"
+    },
+    {
+      "$id": 120,
+      "style": 64,
+      "name": "Lots of Grogs are showing up near\nMantaal's water source. They might\nend up with water shortages, so we\nneed mercs to clear them out."
+    },
+    {
+      "$id": 121,
+      "style": 57,
+      "name": "Cooking Spices"
+    },
+    {
+      "$id": 122,
+      "style": 64,
+      "name": "We need fruit to make the spices for\nour meat. We can get more from the\nHanzac Plains, but there are too many\nmonsters there, so could you go for us?"
+    },
+    {
+      "$id": 123,
+      "style": 57,
+      "name": "Lunch of Love"
+    },
+    {
+      "$id": 124,
+      "style": 64,
+      "name": "I made a packed lunch for my dad who\nworks up at Mine No. 2. There are\nmonsters on the road, so I don't want\nto risk it. Would you take it?"
+    },
+    {
+      "$id": 125,
+      "style": 57,
+      "name": "Divine Beast Weaponry"
+    },
+    {
+      "$id": 126,
+      "style": 64,
+      "name": "We're being plagued by Paras which are\ntrouble for the Divine Beast weaponry.\nBurning Bibli Grass might ward them\noff. Would you go and try it yourself?"
+    },
+    {
+      "$id": 127,
+      "style": 57,
+      "name": "VIP Escort"
+    },
+    {
+      "$id": 128,
+      "style": 64,
+      "name": "A VIP is headed to an important\nmeeting at Alba Margen. It's a lady\nfrom the industrial city of Ukuriye, so\nfemale bodyguards will be needed."
+    },
+    {
+      "$id": 129,
+      "style": 57,
+      "name": "Pest Extermination"
+    },
+    {
+      "$id": 130,
+      "style": 64,
+      "name": "A restaurant owner went to harvest\nsome crops for ingredients and found\na monster devouring them. Get up there\nbefore they're all gone!"
+    },
+    {
+      "$id": 131,
+      "style": 57,
+      "name": "Gondola Inspection"
+    },
+    {
+      "$id": 132,
+      "style": 64,
+      "name": "A cable car that carries goods needs\ninspecting, but I'm not too good with\nheights... You wouldn't mind finding\nsomeone else, would you?"
+    },
+    {
+      "$id": 133,
+      "style": 57,
+      "name": "Nopon Letter"
+    },
+    {
+      "$id": 134,
+      "style": 64,
+      "name": "So many letters arrived that I can't\ncarry them all to Ukuriye alone, mo...\nMy reputation is at stake, so please\nhelp me carry them, mo!"
+    },
+    {
+      "$id": 135,
+      "style": 57,
+      "name": "Antique Judgment"
+    },
+    {
+      "$id": 136,
+      "style": 64,
+      "name": "I was carrying some goods, and I\nmanaged to get some real antiques\nmixed up with fakes. I need someone\nto sort the real ones from the fakes."
+    },
+    {
+      "$id": 137,
+      "style": 57,
+      "name": "Burned Wanted Posters"
+    },
+    {
+      "$id": 138,
+      "style": 64,
+      "name": "Wanted posters for an anti-imperial\ngroup were burned. Someone tied\nto the group may be responsible. It's\nserious treason, so please investigate."
+    },
+    {
+      "$id": 139,
+      "style": 57,
+      "name": "Mining Machine"
+    },
+    {
+      "$id": 140,
+      "style": 64,
+      "name": "Just as maintenance was being\nconsidered, machinery at the dig site\nbroke down, causing a major delay.\nPlease send several workers at once."
+    },
+    {
+      "$id": 141,
+      "style": 57,
+      "name": "Divine Beast Research"
+    },
+    {
+      "$id": 142,
+      "style": 64,
+      "name": "Researchers will conduct a large\nstudy of the Superbian Divine Beast's\nlifespan. We need skilled people to\nstrengthen their escort."
+    },
+    {
+      "$id": 143,
+      "style": 57,
+      "name": "Longing for Meleph"
+    },
+    {
+      "$id": 144,
+      "style": 64,
+      "name": "I admire Drivers like Meleph-sama!\nI want to master a strong Blade like\nKagutsuchi-sama, so please train me!"
+    },
+    {
+      "$id": 145,
+      "style": 57,
+      "name": "Illegal Dumper"
+    },
+    {
+      "$id": 146,
+      "style": 64,
+      "name": "I want to promote the recycling of\nscrap in the industrial city of Ukuriye, but\nI need help exposing the endless illegal\ndumping taking place in the Cloud Sea."
+    },
+    {
+      "$id": 147,
+      "style": 57,
+      "name": "Acquiring Rare Parts"
+    },
+    {
+      "$id": 148,
+      "style": 64,
+      "name": "The mine's ether boiler is broken.\nI need a veteran salvager to go out and\nget the special parts needed to fix it."
+    },
+    {
+      "$id": 149,
+      "style": 57,
+      "name": "Street Patrols"
+    },
+    {
+      "$id": 150,
+      "style": 64,
+      "name": "People feel unsafe due to recent thefts.\nWe don't know who's responsible, so\nwe need to put on extra patrols to\nprevent another incident."
+    },
+    {
+      "$id": 151,
+      "style": 57,
+      "name": "Scientific Development"
+    },
+    {
+      "$id": 152,
+      "style": 64,
+      "name": "Research is proceeding at such a fast\npace that I need to get the latest data\nfrom the researchers. Please collect it\nimmediately."
+    },
+    {
+      "$id": 153,
+      "style": 57,
+      "name": "Chilly-Chilly, mo~"
+    },
+    {
+      "$id": 154,
+      "style": 64,
+      "name": "Mo-mo-mo-mo-mo!! It's so hot\nI might collapse, mo! Just freeze\nme so I can cool my whole body\ndown, mo!"
+    },
+    {
+      "$id": 155,
+      "style": 57,
+      "name": "Smuggler Arrest"
+    },
+    {
+      "$id": 156,
+      "style": 64,
+      "name": "Got an anonymous tip-off about some\nweapons smugglers. Need your mercs'\nhelp with rounding them up. Just arrest\nthem as soon as you spot them."
+    },
+    {
+      "$id": 157,
+      "style": 57,
+      "name": "Volff Tricks"
+    },
+    {
+      "$id": 158,
+      "style": 64,
+      "name": "Some containers were attacked by\nVolff during the night, damaging the\nlids and locks. There's a lot to fix, so I\nneed some help to get it done quickly."
+    },
+    {
+      "$id": 159,
+      "style": 57,
+      "name": "Spooky Spirits"
+    },
+    {
+      "$id": 160,
+      "style": 64,
+      "name": "Every night, a crying woman's voice\nrings out through the back alleys, and\nthere are sightings of a shadowy long-\nhaired figure. Could it be a gh...gh...?!"
+    },
+    {
+      "$id": 161,
+      "style": 57,
+      "name": "Graveside Flowers"
+    },
+    {
+      "$id": 162,
+      "style": 64,
+      "name": "I want to use some blue flowers that\nonly grow on Lonaria Island to place\non my wife's grave. Do you think you\ncould go and pick some for me?"
+    },
+    {
+      "$id": 163,
+      "style": 57,
+      "name": "Legendary Giant Fish"
+    },
+    {
+      "$id": 164,
+      "style": 64,
+      "name": "A legendary giant fish said to be a\ndelicacy was found at Baldotas Island!\nIt's too huge to catch alone, so I want\nsome help reeling it in!"
+    },
+    {
+      "$id": 165,
+      "style": 57,
+      "name": "Lost Property"
+    },
+    {
+      "$id": 166,
+      "style": 64,
+      "name": "Some naughty village children went to\nLake Pololon and left some things up\nthere. It's a dangerous place, so could\nyou fetch them for us?"
+    },
+    {
+      "$id": 167,
+      "style": 57,
+      "name": "Field Pest Control"
+    },
+    {
+      "$id": 168,
+      "style": 64,
+      "name": "Pests are causing me problems. I need\nmonster ooze and some fruit to make\npesticide. Can you get me the ooze\nwhile I get the fruit?"
+    },
+    {
+      "$id": 169,
+      "style": 57,
+      "name": "Taminbi Theft"
+    },
+    {
+      "$id": 170,
+      "style": 64,
+      "name": "Several Taminbi roots, prized as\nmedicine, were stolen from the field.\nIf it's a prank, it's an adult's duty to\ngive the culprit a warning!"
+    },
+    {
+      "$id": 171,
+      "style": 57,
+      "name": "Insect Professor"
+    },
+    {
+      "$id": 172,
+      "style": 64,
+      "name": "I'm creating insect specimens, but I'm\nhaving trouble finding the insect I'm\ncurrently searching for. Could you get\nan insect expert to come with me?"
+    },
+    {
+      "$id": 173,
+      "style": 57,
+      "name": "Paras Extermination"
+    },
+    {
+      "$id": 174,
+      "style": 64,
+      "name": "Paras have been bursting out of\nIyasaki's spring. Those pests need\ntaking care of to protect the water\nsource."
+    },
+    {
+      "$id": 175,
+      "style": 57,
+      "name": "Pending Payout"
+    },
+    {
+      "$id": 176,
+      "style": 64,
+      "name": "We tried salvaging and found a\ntreasure chest, but no matter what\nwe do, it won't open... I wonder if\nsomeone could open it for us..."
+    },
+    {
+      "$id": 177,
+      "style": 57,
+      "name": "Shellfish Savior"
+    },
+    {
+      "$id": 178,
+      "style": 64,
+      "name": "The Kamakura Shellfish is one of\nLiberalitas's rare treasures, but it's\nbeing overfished by outlaws. Could you\npersuade the traders to stop this?"
+    },
+    {
+      "$id": 179,
+      "style": 57,
+      "name": "Vessel Scrapping"
+    },
+    {
+      "$id": 180,
+      "style": 64,
+      "name": "A wreck washed up at the port, but\nit's too big for my husband and the\nothers to handle. We want to dismantle\nit, so we need some help."
+    },
+    {
+      "$id": 181,
+      "style": 57,
+      "name": "Memory Bracelet"
+    },
+    {
+      "$id": 182,
+      "style": 64,
+      "name": "When I was attacked by Claudes out\nin the fields, they got hold of the\nbracelet I keep as a memento of my\nGranny... I need to get it back!"
+    },
+    {
+      "$id": 183,
+      "style": 57,
+      "name": "Rex's Condition"
+    },
+    {
+      "$id": 184,
+      "style": 64,
+      "name": "Aunt Correl wants to know how\nRex is doing. Could you go report\nback to her?"
+    },
+    {
+      "$id": 185,
+      "style": 57,
+      "name": "Research Results"
+    },
+    {
+      "$id": 186,
+      "style": 64,
+      "name": "I'm a researcher from Superbia. I've\nfound that smaller Cloud Sea lifeforms\nare increasing in size. Could you deliver\nmy report to my professor back home?"
+    },
+    {
+      "$id": 187,
+      "style": 57,
+      "name": "Suspicious Ship"
+    },
+    {
+      "$id": 188,
+      "style": 64,
+      "name": "Wreckage Island has no port, yet\nsuspicious ships are coming and going...\nIt may be a rebel base. The army will\ninvestigate in force, so please help us!"
+    },
+    {
+      "$id": 189,
+      "style": 57,
+      "name": "Dringworm Hunting"
+    },
+    {
+      "$id": 190,
+      "style": 64,
+      "name": "A huge Dringworm is eating through\nEmi Island, home to Kisra Village.\nIslands have sunk into the Cloud Sea\nbefore, so please exterminate it."
+    },
+    {
+      "$id": 191,
+      "style": 57,
+      "name": "Yashima Festival"
+    },
+    {
+      "$id": 192,
+      "style": 64,
+      "name": "Yashima Plateau is beautiful at\nnight, when the Divine Beast glows.\nPreparations for its regular Yashima\nFestival are late. Could you help?"
+    },
+    {
+      "$id": 193,
+      "style": 57,
+      "name": "Energy Investigation"
+    },
+    {
+      "$id": 194,
+      "style": 64,
+      "name": "A researcher will study whether the\nDivine Beast's lightning energy can be\nused. The area is fairly safe, but don't\nrelax; please escort the researcher."
+    },
+    {
+      "$id": 195,
+      "style": 57,
+      "name": "Night Visitors"
+    },
+    {
+      "$id": 196,
+      "style": 64,
+      "name": "One night, I saw several shadowy\nfigures lurking just outside Iyasaki.\nPlease protect the villagers till we\ncan get to the bottom of this!"
+    },
+    {
+      "$id": 197,
+      "style": 57,
+      "name": "Elpis Spirit Survey"
+    },
+    {
+      "$id": 198,
+      "style": 64,
+      "name": "I know it's dangerous, but I want to\ninvestigate Elpis Spirit Cavern.\nCould you escort us until we're\nsomewhere we'll be safe?"
+    },
+    {
+      "$id": 199,
+      "style": 57,
+      "name": "Cloud Sea Noises"
+    },
+    {
+      "$id": 200,
+      "style": 64,
+      "name": "I've heard mysterious sounds on the\nLud Cloudway. Maybe it's just a\nmonster, but it's still unusual, so could\nyou lie in wait and find out?"
+    },
+    {
+      "$id": 201,
+      "style": 57,
+      "name": "Ether Furnace Checks"
+    },
+    {
+      "$id": 202,
+      "style": 64,
+      "name": "Teos Aure is short-staffed for regular\ninspection of its vital ether furnaces.\nWe can't risk them breaking down.\nCould you lend us some mercenaries?"
+    },
+    {
+      "$id": 203,
+      "style": 57,
+      "name": "Kids' Winter Clothes"
+    },
+    {
+      "$id": 204,
+      "style": 64,
+      "name": "I want to make warm clothes for\nthe children from Fresh Mousse\npelts. Could you defeat a few and\nbring me their pelts?"
+    },
+    {
+      "$id": 205,
+      "style": 57,
+      "name": "Snow Removal"
+    },
+    {
+      "$id": 206,
+      "style": 64,
+      "name": "The dome roofs in the town keep us\ncovered, but outside the bridge is deep\nin snow. We need to clear the way, so\nwe need someone powerful to help us."
+    },
+    {
+      "$id": 207,
+      "style": 57,
+      "name": "Exiting Luxuria"
+    },
+    {
+      "$id": 208,
+      "style": 64,
+      "name": "I'm going to Nardron Trading Company\nto renew our regular Nopon goods\ncontract. I'll be traveling abroad, so\nI need a mercenary escort."
+    },
+    {
+      "$id": 209,
+      "style": 57,
+      "name": "Warm Ruushichi"
+    },
+    {
+      "$id": 210,
+      "style": 64,
+      "name": "I want to make meat-filled Ruushichi\nthat warms you up, but the Urus are\naggressive while raising their young.\nPlease hunt them, but be careful!"
+    },
+    {
+      "$id": 211,
+      "style": 57,
+      "name": "Snow Flower"
+    },
+    {
+      "$id": 212,
+      "style": 64,
+      "name": "The crystal-like flowers in Nararia\nSnowfield are used in Teos Aure as\nmedicine. We're out of stock, so\ncould you pick some more?"
+    },
+    {
+      "$id": 213,
+      "style": 57,
+      "name": "Carnivorous Beast"
+    },
+    {
+      "$id": 214,
+      "style": 64,
+      "name": "The Luxurian army is inspecting a Gogol\nnest at Isebel Cliffs for safety. Gogols\nare fierce, so we'd like your help."
+    },
+    {
+      "$id": 215,
+      "style": 57,
+      "name": "New Book"
+    },
+    {
+      "$id": 216,
+      "style": 64,
+      "name": "I love reading and do it every day,\nbut I'm about to finish every novel in\nthe Great Philosophy Library... Could\nyou find me a new novel?"
+    },
+    {
+      "$id": 217,
+      "style": 57,
+      "name": "Blizzard Zone"
+    },
+    {
+      "$id": 218,
+      "style": 64,
+      "name": "There's a rumor that snow is melting\nin Neyooka Snowfield, a blizzard\nzone that normally keeps people out.\nObserve it and find the cause."
+    },
+    {
+      "$id": 219,
+      "style": 57,
+      "name": "Cold-Proof Crops"
+    },
+    {
+      "$id": 220,
+      "style": 64,
+      "name": "In Luxuria, it's hard to grow crops\nbecause of the cold. I'd like you to find\nsome cold resistant seeds, so we can\ngrow ourselves some food."
+    },
+    {
+      "$id": 221,
+      "style": 57,
+      "name": "Military Training"
+    },
+    {
+      "$id": 222,
+      "style": 64,
+      "name": "The royal capital, Theos Aure, holds\nregular military drills. I'm interested\nin how the mercs train, so could we\narrange a joint training session?"
+    },
+    {
+      "$id": 223,
+      "style": 57,
+      "name": "The Black Market"
+    },
+    {
+      "$id": 224,
+      "style": 64,
+      "name": "There's a shop that deals in illegal\ntrade with other countries. There's\nfears of a large scale cover up. So\ncould you send the mercs undercover?"
+    },
+    {
+      "$id": 225,
+      "style": 57,
+      "name": "Gundesu Cavern Salt"
+    },
+    {
+      "$id": 226,
+      "style": 64,
+      "name": "Most of the country's salt comes from\nGundesu Rock Salt Cavern, but Diburo\nhave settled nearby. Could you drive\nthem off before there's any damage?"
+    },
+    {
+      "$id": 227,
+      "style": 57,
+      "name": "Snow Survey"
+    },
+    {
+      "$id": 228,
+      "style": 64,
+      "name": "I want to survey the snow depth at\nNarel Cliffs, but the mountain path\nis dangerous and full of monsters.\nCould you escort me?"
+    },
+    {
+      "$id": 229,
+      "style": 57,
+      "name": "Shaking Icicles"
+    },
+    {
+      "$id": 230,
+      "style": 64,
+      "name": "There are lots of massive icicles in Colt\nRavine, many of which have fallen and\ninjured people in the past. We need to\ntake care of this threat. Will you help?"
+    },
+    {
+      "$id": 231,
+      "style": 57,
+      "name": "Confidential Documents"
+    },
+    {
+      "$id": 232,
+      "style": 64,
+      "name": "The secret plans for a board game\nunder development were stolen, mo!\nPlease catch the culprit before the\ninformation is sold, mo!"
+    },
+    {
+      "$id": 233,
+      "style": 57,
+      "name": "Book Writing"
+    },
+    {
+      "$id": 234,
+      "style": 64,
+      "name": "I'm in a slump and haven't had any\ninspiration for material for my book.\nI need some new experiences, so would\nyou take me on an adventure?"
+    },
+    {
+      "$id": 235,
+      "style": 57,
+      "name": "World in a Book"
+    },
+    {
+      "$id": 236,
+      "style": 64,
+      "name": "I had a dream that one day the borders\nwould be opened, but actually that\nsounds pretty scary... Could someone\ntell me about the world outside?"
+    },
+    {
+      "$id": 237,
+      "style": 57,
+      "name": "Ice Hunter"
+    },
+    {
+      "$id": 238,
+      "style": 64,
+      "name": "A platoon training in the Nobu\nMountains entered a Volff hunting\nground; some were injured. Please have\nthe mercenaries join the rescue team."
+    },
+    {
+      "$id": 239,
+      "style": 57,
+      "name": "Mysterious Lifeform"
+    },
+    {
+      "$id": 240,
+      "style": 64,
+      "name": "A monster not native to Luxuria has\nbeen spotted at Gundesu Rock Salt\nCavern. Take care of it before it starts\ndamaging the local ecosystem."
+    },
+    {
+      "$id": 241,
+      "style": 57,
+      "name": "Long-Awaited Work"
+    },
+    {
+      "$id": 242,
+      "style": 64,
+      "name": "Great Nopon novelist Pippin's books\ngo to Gula, while nostalgic Sweet\nBean Ohagi comes back. Please guard\nthe goods during transport."
+    },
+    {
+      "$id": 243,
+      "style": 57,
+      "name": "Cooking Display"
+    },
+    {
+      "$id": 244,
+      "style": 64,
+      "name": "Invidian seasonings add umami to\nfood, so they should become popular\nproducts! I want to sign a contract and\nstart trading before the other shops do!"
+    },
+    {
+      "$id": 245,
+      "style": 57,
+      "name": "New Sounds"
+    },
+    {
+      "$id": 246,
+      "style": 64,
+      "name": "A region of Superbia has some fine\ntraditional instruments I would like to\ntrade in. Could you escort me there?"
+    },
+    {
+      "$id": 247,
+      "style": 57,
+      "name": "First Class Freshness!"
+    },
+    {
+      "$id": 248,
+      "style": 64,
+      "name": "I want to import fresh fish and\ncosmetics from Liberalitas, but the\nroutes are full of monsters. Defeat them\nand secure a safe trade route."
+    },
+    {
+      "$id": 249,
+      "style": 57,
+      "name": "Old Routes"
+    },
+    {
+      "$id": 250,
+      "style": 64,
+      "name": "Information about trading routes to\nLuxuria needs updating if we're going\nto reopen trade. Could you have a look\nand check if they're safe?"
+    },
+    {
+      "$id": 251,
+      "style": 57,
+      "name": "Turf War Protection"
+    },
+    {
+      "$id": 252,
+      "style": 64,
+      "name": "The trading routes I'm looking at are\nright in the middle of a salvager turf\nwar. To be on the safe side, could you\nescort me?"
+    },
+    {
+      "$id": 253,
+      "style": 57,
+      "name": "Radon Family"
+    },
+    {
+      "$id": 254,
+      "style": 64,
+      "name": "Radon Family pirates appeared on\na trade route connecting Superbia\nand Gula and attacked a ship!\nCould you protect me from danger?"
+    },
+    {
+      "$id": 255,
+      "style": 57,
+      "name": "Renowned Goods"
+    },
+    {
+      "$id": 256,
+      "style": 64,
+      "name": "Liberalitan goods are renowned for their\nhandmade quality, so I want to import\nlarge amounts. I'm short a few guards,\nso could you lend a hand?"
+    },
+    {
+      "$id": 257,
+      "style": 57,
+      "name": "The Water City"
+    },
+    {
+      "$id": 258,
+      "style": 64,
+      "name": "Traders from Fons Maim in Invidia are\nbringing things like art works and\ninstruments. I want to trade for them."
+    },
+    {
+      "$id": 259,
+      "style": 57,
+      "name": "Farming Tech"
+    },
+    {
+      "$id": 260,
+      "style": 64,
+      "name": "We can now import Luxurian fruit\nand meat for medicine, together with\ncosmetics. Could you escort us during\nthe on-site quality check?"
+    },
+    {
+      "$id": 261,
+      "style": 57,
+      "name": "Fad Foods"
+    },
+    {
+      "$id": 262,
+      "style": 64,
+      "name": "Some sweets and healthy foods are\nreally popular with ladies in Avaritia.\nI want to import some, so could you\nsearch out trade routes for me?"
+    },
+    {
+      "$id": 263,
+      "style": 57,
+      "name": "Bumper Crop"
+    },
+    {
+      "$id": 264,
+      "style": 64,
+      "name": "Torigo has a bumper harvest. I want to\nlearn Gulan food culture and negotiate\nregular purchases of crops and books.\nPlease escort me on the way."
+    },
+    {
+      "$id": 265,
+      "style": 57,
+      "name": "Shipping Lanes Closed"
+    },
+    {
+      "$id": 266,
+      "style": 64,
+      "name": "Shipping lanes to Liberalitas are under\nattack from monsters. Many ships have\nbeen wrecked and are now in the way,\nso could you help clear them away?"
+    },
+    {
+      "$id": 267,
+      "style": 57,
+      "name": "Secret Route"
+    },
+    {
+      "$id": 268,
+      "style": 64,
+      "name": "I want to start importing food and\nbooks using a secret route to Luxuria\nvia a Nopon merchant, but I'll need\nsomeone to guard the Nopon."
+    },
+    {
+      "$id": 269,
+      "style": 57,
+      "name": "Beneath the Cloud Sea"
+    },
+    {
+      "$id": 270,
+      "style": 64,
+      "name": "I want to gradually resume trade with\nSuperbia. I'll start with artworks and\nfood, so I need to find whether there's\nanyone there with similar objectives."
+    },
+    {
+      "$id": 271,
+      "style": 57,
+      "name": "Secret Spice"
+    },
+    {
+      "$id": 272,
+      "style": 64,
+      "name": "I visited Torigo and can't forget the\nfood and music there... I'll just have to\ngo and study there! Would you\naccompany me to Torigo?"
+    },
+    {
+      "$id": 273,
+      "style": 57,
+      "name": "Shipyard Security"
+    },
+    {
+      "$id": 274,
+      "style": 64,
+      "name": "I want to make a ship to use to trade\nwith Avaritia, but lots of monsters are\nappearing near the shipyard. Can you\nclear them out so I can get to work?"
+    },
+    {
+      "$id": 275,
+      "style": 57,
+      "name": "Shipping Lane Safety"
+    },
+    {
+      "$id": 276,
+      "style": 64,
+      "name": "Lexos have appeared on the shipping\nlane to Liberalitas. I need to transport\nartworks safely, so could you sort them\nout for me?"
+    },
+    {
+      "$id": 277,
+      "style": 57,
+      "name": "White and Cold"
+    },
+    {
+      "$id": 278,
+      "style": 64,
+      "name": "Sailors out trading in Luxuria have been\nsuffering from the cold. I need to get\nsome warm coats to them. Could you\ncollect the materials I need?"
+    },
+    {
+      "$id": 279,
+      "style": 57,
+      "name": "Cold Storage"
+    },
+    {
+      "$id": 280,
+      "style": 64,
+      "name": "I want to import fish and ingredients\nfor sweets from Invidia, but I fear they\nmight spoil in Superbia's climate.\nDo you know how to avoid that?"
+    },
+    {
+      "$id": 281,
+      "style": 57,
+      "name": "Nopon Cooking"
+    },
+    {
+      "$id": 282,
+      "style": 64,
+      "name": "A Nopon in Avaritia knows how to cook\ningredients whose preparation was\nunknown. Please investigate; there may\nbe other unique techniques too."
+    },
+    {
+      "$id": 283,
+      "style": 57,
+      "name": "Merchant Ship"
+    },
+    {
+      "$id": 284,
+      "style": 64,
+      "name": "The Tirkin have been getting up to\nmischief on a ship preparing to trade\nwith Superbia, and now it's broken\ndown. Could you drive them off?"
+    },
+    {
+      "$id": 285,
+      "style": 57,
+      "name": "Ship Lane Lighting"
+    },
+    {
+      "$id": 286,
+      "style": 64,
+      "name": "The shipping lane to Invidia is dark, so\nwe're affixing new lighting to ships.\nThis job takes a head for heights.\nCan you help?"
+    },
+    {
+      "$id": 287,
+      "style": 57,
+      "name": "Wagon Guard"
+    },
+    {
+      "$id": 288,
+      "style": 64,
+      "name": "Pom Village is known for fruit drinks\nand crafts. I want to see if Iyasaki\nVillage can make them too, but bandits\nscare me. Could you escort me?"
+    },
+    {
+      "$id": 289,
+      "style": 57,
+      "name": "Sinking Storehouse?"
+    },
+    {
+      "$id": 290,
+      "style": 64,
+      "name": "There's a storehouse I was planning on\nusing for goods from Luxuria, but\nmonsters have moved in there. Could I\nask you to get rid of them for me?"
+    },
+    {
+      "$id": 291,
+      "style": 57,
+      "name": "Frozen Door"
+    },
+    {
+      "$id": 292,
+      "style": 64,
+      "name": "The door to a port that used to be\nused for trade has been frozen shut, so\nwe can't get in for repairs. Could you\nhelp us melt the ice on the door?"
+    },
+    {
+      "$id": 293,
+      "style": 57,
+      "name": "Weatherproof Ship"
+    },
+    {
+      "$id": 294,
+      "style": 64,
+      "name": "I want to strengthen ships trading\nwith Liberalitas. Defeat the giant\nEks occupying the mining site for\nreinforcement ore."
+    },
+    {
+      "$id": 295,
+      "style": 57,
+      "name": "Cuisine Researcher"
+    },
+    {
+      "$id": 296,
+      "style": 64,
+      "name": "Fons Maim has lots of restaurants, so\nI want to eat around town and use\nwhat I learn to develop new dishes!\nCould someone show me around?"
+    },
+    {
+      "$id": 297,
+      "style": 57,
+      "name": "Beat the Heat"
+    },
+    {
+      "$id": 298,
+      "style": 64,
+      "name": "I want to trade with Superbia, but I\nhear their Divine Beast's too hot. I'm\nworried people will suffer from the heat,\nso I need someone to help me beat it."
+    },
+    {
+      "$id": 299,
+      "style": 57,
+      "name": "Crafty Developments"
+    },
+    {
+      "$id": 300,
+      "style": 64,
+      "name": "Gula's renowned for its dyes, and\nLuxuria for its textiles... I'd like to invent\nsome new product combining the two!\nCan you help me find some specialists?"
+    },
+    {
+      "$id": 301,
+      "style": 57,
+      "name": "Latest Craze"
+    },
+    {
+      "$id": 302,
+      "style": 64,
+      "name": "Certain musical instruments are all the\nrage in Avaritia at the moment. I want\nto sell them in Fons Maim too, so can\nyou find me an instrument merchant?"
+    },
+    {
+      "$id": 303,
+      "style": 57,
+      "name": "Find Akatsuki"
+    },
+    {
+      "$id": 304,
+      "style": 64,
+      "name": "We couldn't get any help from Stole.\nLet's look for clues as to Akatsuki's\nwhereabouts ourselves."
+    },
+    {
+      "$id": 305,
+      "style": 57,
+      "name": "巨神獣兵器の輸送"
+    },
+    {
+      "$id": 306,
+      "style": 64,
+      "name": "港湾都市チルソナスに神獣兵器を\n輸送するための人員が必要になった。\n輸送に長けた傭兵を数人派遣してもらいたい"
+    },
+    {
+      "$id": 307,
+      "style": 57,
+      "name": "On the Son's Trail!"
+    },
+    {
+      "$id": 308,
+      "style": 64,
+      "name": "Son, Solala, still not come home. Need\nsomeone to find clues where he is..."
+    },
+    {
+      "$id": 309,
+      "style": 64,
+      "name": "Mo?\nKnow where Solala is?"
+    },
+    {
+      "$id": 310,
+      "style": 57,
+      "name": "Smuggle the Scholar"
+    },
+    {
+      "$id": 311,
+      "style": 64,
+      "name": "Dispatch members to help give\nprotection and guidance as Hassane\nis smuggled into Invidia."
+    },
+    {
+      "$id": 312,
+      "style": 64,
+      "name": "So this is Invidia!\nI will head to Hræsvelgr at once to\ninvestigate the murals of which I spoke."
+    },
+    {
+      "$id": 313,
+      "style": 57,
+      "name": "Stolen Data"
+    },
+    {
+      "$id": 314,
+      "style": 64,
+      "name": "A spy fleeing the Imperial Army hid\nstolen information in a Necro Skeet,\napparently. Identify the monster so\nwe can recover the information."
+    },
+    {
+      "$id": 315,
+      "style": 64,
+      "name": "There's reportedly one particular critter\nwhich moves slower than the rest.\nThis warrants further investigation!"
+    },
+    {
+      "$id": 316,
+      "style": 57,
+      "name": "Gulan Fugitive"
+    },
+    {
+      "$id": 317,
+      "style": 64,
+      "name": "Garlo, the Gulan merc who stole\nthe Jeweled Signet, has fled into\nGula. We need info on his location\nfound quickly and discreetly."
+    },
+    {
+      "$id": 318,
+      "style": 64,
+      "name": "It seems like Garlo is hiding out in\nTorigo. Let's go track him down."
+    },
+    {
+      "$id": 319,
+      "style": 57,
+      "name": "Skillful Doctor"
+    },
+    {
+      "$id": 320,
+      "style": 64,
+      "name": "I need you to find a doctor who can\ncure my grandpa. Don't tell him about\nit though."
+    },
+    {
+      "$id": 321,
+      "style": 64,
+      "name": "There's an excellent doctor in Alba\nMargen, Superbia? I wonder if Grandpa\nwill get better now..."
+    },
+    {
+      "$id": 322,
+      "style": 57,
+      "name": "Medicine Knowledge"
+    },
+    {
+      "$id": 323,
+      "style": 64,
+      "name": "No... I don't have enough help.\nGive me some personnel."
+    },
+    {
+      "$id": 324,
+      "style": 64,
+      "name": "I've completed a highly effective\nmedicine. Take it quickly to the\npatient."
+    },
+    {
+      "$id": 325,
+      "style": 57,
+      "name": "Three Parts"
+    },
+    {
+      "$id": 326,
+      "style": 64,
+      "name": "We need three parts to open\nBahn's treasure chest, mo!\nPlease find clues to where they are, mo!"
+    },
+    {
+      "$id": 327,
+      "style": 64,
+      "name": "Mo-mo-mo! You found out\nwhere the parts are, mo?! Just as\nexpected, mo!"
+    },
+    {
+      "$id": 328,
+      "style": 57,
+      "name": "ルクスリア兵士の護衛任務"
+    },
+    {
+      "$id": 329,
+      "style": 64,
+      "name": "ゲンブ頭部に兵士を駐屯させるため、\nルクスリア部隊の護衛を頼みたい。"
+    },
+    {
+      "$id": 330,
+      "style": 64,
+      "name": "We made it to Genbu's Head,\nbut... we're in trouble. Could you\ncome here?"
+    },
+    {
+      "$id": 331,
+      "style": 57,
+      "name": "Shipbuilding Wood"
+    },
+    {
+      "$id": 332,
+      "style": 64,
+      "name": "Good quality wood is indispensable\nfor building robust ships! I'd like you\nto help me gather some for Umon's\nnew ship."
+    },
+    {
+      "$id": 333,
+      "style": 64,
+      "name": "Seems you got some wood that'll last\nmany a year in the wind and rain.\nNow to start prepping it for the build."
+    },
+    {
+      "$id": 334,
+      "style": 57,
+      "name": "Craftsman's Skills"
+    },
+    {
+      "$id": 335,
+      "style": 64,
+      "name": "This wood you gathered is good stuff,\nbut if we mess up the prep, it'll all\ngo to waste. I need you to prep the\nwood carefully."
+    },
+    {
+      "$id": 336,
+      "style": 64,
+      "name": "Now that the wood is prepped, we can\nthink about the next step in the build.\nNext we'll start with the construction."
+    },
+    {
+      "$id": 337,
+      "style": 57,
+      "name": "Divine Beast Shipworks"
+    },
+    {
+      "$id": 338,
+      "style": 64,
+      "name": "The last part of the build is the\nconstruction. You need to assemble the\nprepped wood on the Divine Beast, and\nthen the ship should be complete."
+    },
+    {
+      "$id": 339,
+      "style": 64,
+      "name": "Now that's what I call a Divine Beast\nship! Let Umon know the news!"
+    },
+    {
+      "$id": 340,
+      "style": 57,
+      "name": "Direct Line Escort"
+    },
+    {
+      "$id": 341,
+      "style": 64,
+      "name": "It'd be a big help if you could help\nprotect the ship directly connecting\nAvaritia and Iyasaki from monster\nattacks..."
+    },
+    {
+      "$id": 342,
+      "style": 57,
+      "name": "Energy for Remodeling"
+    },
+    {
+      "$id": 343,
+      "style": 64,
+      "name": "The device used to modify Hana won't\nwork, mo! Please gather items that\ncould provide energy, mo!"
+    },
+    {
+      "$id": 344,
+      "style": 64,
+      "name": "Thanks to you, the energy is full,\nmo! Thank you, mo!"
+    },
+    {
+      "$id": 345,
+      "style": 57,
+      "name": "Brought to Justice 1"
+    },
+    {
+      "$id": 346,
+      "style": 64,
+      "name": "Defeat the first evil in the shadows of\nAlba Margen: thugs threatening\nbeatings. (Requires Vasara as leader.)"
+    },
+    {
+      "$id": 347,
+      "style": 64,
+      "name": "You've rid the shadows of Alba\nCavanich of the first evil."
+    },
+    {
+      "$id": 348,
+      "style": 57,
+      "name": "Brought to Justice 2"
+    },
+    {
+      "$id": 349,
+      "style": 64,
+      "name": "Defeat the second evil in the shadows\nof Alba Margen: loan sharks.\n(Requires Vasara as leader.)"
+    },
+    {
+      "$id": 350,
+      "style": 64,
+      "name": "You've rid the shadows of Alba\nCavanich of the second evil."
+    },
+    {
+      "$id": 351,
+      "style": 57,
+      "name": "Brought to Justice 3"
+    },
+    {
+      "$id": 352,
+      "style": 64,
+      "name": "Defeat the third evil in the shadows of\nAlba Margen: medical help fraudsters.\n(Requires Vasara as leader.)"
+    },
+    {
+      "$id": 353,
+      "style": 64,
+      "name": "You've rid the shadows of Alba\nCavanich of the third evil."
+    },
+    {
+      "$id": 354,
+      "style": 57,
+      "name": "Brought to Justice 4"
+    },
+    {
+      "$id": 355,
+      "style": 64,
+      "name": "Defeat the fourth evil in the shadows of\nAlba Margen: self-injuring fraudsters.\n(Requires Vasara as leader.)"
+    },
+    {
+      "$id": 356,
+      "style": 64,
+      "name": "You've rid the shadows of Alba\nCavanich of the fourth evil.\nHear Vasara's detailed report\nat Jarukamaro Inn in Superbia."
+    },
+    {
+      "$id": 357,
+      "style": 57,
+      "name": "Unjust Organization"
+    },
+    {
+      "$id": 358,
+      "style": 64,
+      "name": "Gather data on a band of assassins,\nthe Bloody Lobsters, and find out\nwhat they're up to.\n(Requires Vasara as leader.)"
+    },
+    {
+      "$id": 359,
+      "style": 64,
+      "name": "So the Bloody Lobsters' next\ntarget is Punin of the Avaritia\nTrading Company..."
+    },
+    {
+      "$id": 360,
+      "style": 57,
+      "name": "The Beast of Rigideria"
+    },
+    {
+      "$id": 361,
+      "style": 64,
+      "name": "Get information on the demonic beast\nsaid to have destroyed Rigideria, which\nonce existed near Temperantia!"
+    },
+    {
+      "$id": 362,
+      "style": 64,
+      "name": "Apparently an Imperial soldier named\nKarkor stationed in Temperantia saw\na gigantic demonic beast."
+    },
+    {
+      "$id": 363,
+      "style": 57,
+      "name": "False Rumor"
+    },
+    {
+      "$id": 364,
+      "style": 64,
+      "name": "We've put out a false rumor of a\ndelivery of a large number of Core\nCrystals to catch a band of thieves who\nare after them. Can you lure them out?"
+    },
+    {
+      "$id": 365,
+      "style": 64,
+      "name": "The rumor has spread far enough for\nthe thieves to have heard it...\nGet ready for a fight."
+    },
+    {
+      "$id": 366,
+      "style": 57,
+      "name": "Ambush"
+    },
+    {
+      "$id": 367,
+      "style": 64,
+      "name": "The rumors have lured the thieves to\ntwo locations. Dispatch your mercs as\na support group for the Department of\nSafety in the fight."
+    },
+    {
+      "$id": 368,
+      "style": 64,
+      "name": "We defeated half the enemy forces, but\nwe didn't escape without injury... Get\nmore details from Ienamo."
+    },
+    {
+      "$id": 369,
+      "style": 57,
+      "name": "Child Disappearances"
+    },
+    {
+      "$id": 370,
+      "style": 64,
+      "name": "Gather information to identify the\nculprit behind the child disappearances\nin Avaritia. (Requires Tokiha as leader.)"
+    },
+    {
+      "$id": 371,
+      "style": 64,
+      "name": "It seems like the child disappearances\nare happening in Invidia too.\nCome to Fons Maim Port and I'll\nfill you in on the details."
+    },
+    {
+      "$id": 372,
+      "style": 57,
+      "name": "Watch Suspicious Person"
+    },
+    {
+      "$id": 373,
+      "style": 64,
+      "name": "I want you to monitor a suspicious\ngroup that's been seen around Invidia,\nparticularly in Fons Maim, recently.\n(Requires Azami as leader.)"
+    },
+    {
+      "$id": 374,
+      "style": 64,
+      "name": "It was lonely by myself... I want\nto spend more time with my\nbeloved Driver..."
+    },
+    {
+      "$id": 375,
+      "style": 57,
+      "name": "Think You Can Escape?"
+    },
+    {
+      "$id": 376,
+      "style": 64,
+      "name": "The mercs fled in the confusion caused\nby Azami's attack. Find where they've\ngot to and round them up."
+    },
+    {
+      "$id": 377,
+      "style": 64,
+      "name": "The mercenaries seem to be hiding on\nWreckage Island in Liberalitas."
+    },
+    {
+      "$id": 378,
+      "style": 57,
+      "name": "Vocal Lesson 1"
+    },
+    {
+      "$id": 379,
+      "style": 64,
+      "name": "We'll study how to project your voice so\nyou're fine even in a large venue, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 380,
+      "style": 57,
+      "name": "Vocal Lesson 2"
+    },
+    {
+      "$id": 381,
+      "style": 64,
+      "name": "Fans will surely be happy if you can sing\nand dance, mo. We'll study rhythm, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 382,
+      "style": 57,
+      "name": "Vocal Lesson 3"
+    },
+    {
+      "$id": 383,
+      "style": 64,
+      "name": "We'll make an original song, mo. This\ntime we'll study writing lyrics, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 384,
+      "style": 57,
+      "name": "Vocal Lesson 4"
+    },
+    {
+      "$id": 385,
+      "style": 64,
+      "name": "We'll make an original song, mo. This\ntime we'll study composition, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 386,
+      "style": 57,
+      "name": "Vocal Lesson 5"
+    },
+    {
+      "$id": 387,
+      "style": 64,
+      "name": "Songs filled with heart can make you\ncry, mo. We'll study expression, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 388,
+      "style": 57,
+      "name": "Looks Lesson 1"
+    },
+    {
+      "$id": 389,
+      "style": 64,
+      "name": "Fashion is all about the details, mo.\nWe'll study fashion, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 390,
+      "style": 57,
+      "name": "Looks Lesson 2"
+    },
+    {
+      "$id": 391,
+      "style": 64,
+      "name": "I'll teach you the traditional Nopon\ndance, mo. Let's dance with lots of\nenergy, mo! (Requires Nanakoori\nas leader.)"
+    },
+    {
+      "$id": 392,
+      "style": 57,
+      "name": "Looks Lesson 3"
+    },
+    {
+      "$id": 393,
+      "style": 64,
+      "name": "Looks matter for an idol too, mo.\nWe'll study makeup, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 394,
+      "style": 57,
+      "name": "Looks Lesson 4"
+    },
+    {
+      "$id": 395,
+      "style": 64,
+      "name": "We'll get in shape by exercising, mo.\nIt builds stamina too, so it's two\nbirds with one stone, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 396,
+      "style": 57,
+      "name": "Looks Lesson 5"
+    },
+    {
+      "$id": 397,
+      "style": 64,
+      "name": "I guess you need a signature pose too,\nmo? We'll study posing, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 398,
+      "style": 57,
+      "name": "Soul Lesson 1"
+    },
+    {
+      "$id": 399,
+      "style": 64,
+      "name": "Apparently there's training where you\nstand under a waterfall, mo. We'll\ntrain at a waterfall in Invidia, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 400,
+      "style": 57,
+      "name": "Soul Lesson 2"
+    },
+    {
+      "$id": 401,
+      "style": 64,
+      "name": "We'll strengthen the mind by walking\na tightrope high up, mo. Looking\ndown is scary, mo! Don't look, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 402,
+      "style": 57,
+      "name": "Soul Lesson 3"
+    },
+    {
+      "$id": 403,
+      "style": 64,
+      "name": "Hand out promotional flyers while\ncalling to people; it's training to get\nused to crowds, mo. Don't be shy, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 404,
+      "style": 57,
+      "name": "Soul Lesson 4"
+    },
+    {
+      "$id": 405,
+      "style": 64,
+      "name": "Apparently ghosts appear in\nSuperbia, mo... We'll test our\ncourage to build guts, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 406,
+      "style": 57,
+      "name": "Soul Lesson 5"
+    },
+    {
+      "$id": 407,
+      "style": 64,
+      "name": "I heard meditating at The Zehn is\ngood, mo. Apparently the downside\nis your legs go numb, mo. (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 408,
+      "style": 57,
+      "name": "Sparkly Costumes"
+    },
+    {
+      "$id": 409,
+      "style": 64,
+      "name": "We'll make a concert outfit, mo.\nLet's go consult with a designer, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 410,
+      "style": 64,
+      "name": "...Mo? Nothing's changed, mo?\nBut I'm starting to think those\nclothes suit Nanakoori-san\nbest, mo."
+    },
+    {
+      "$id": 411,
+      "style": 57,
+      "name": "Song Selection"
+    },
+    {
+      "$id": 412,
+      "style": 64,
+      "name": "We'll meet in the theater city of Drewey\nto discuss the songs for the concert,\nmo! (Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 413,
+      "style": 64,
+      "name": "The songs are decided, mo! They're\nperfect for Nanakoori-san, mo. I'm\nalready looking forward to it, mo~!"
+    },
+    {
+      "$id": 414,
+      "style": 57,
+      "name": "Luxury Stage"
+    },
+    {
+      "$id": 415,
+      "style": 64,
+      "name": "I want the concert to be flashy,\nmo! We'll gather sparkling stage\ndecorations in Liberalitas, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 416,
+      "style": 64,
+      "name": "Leave the finishing touches on the\ndecorations to me, mo! It'll definitely\nbe an amazing concert, mo! Pii is really\nlooking forward to it too, mo."
+    },
+    {
+      "$id": 417,
+      "style": 57,
+      "name": "Rehearsal"
+    },
+    {
+      "$id": 418,
+      "style": 64,
+      "name": "This is the final adjustment before\nthe concert, mo. We'll rehearse at\nNahaar Central Plaza, mo. (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 419,
+      "style": 64,
+      "name": "Pii is getting nervous too, mo... My\nchest hurts from all the nerves, mo..."
+    },
+    {
+      "$id": 420,
+      "style": 57,
+      "name": "Holy Choir"
+    },
+    {
+      "$id": 421,
+      "style": 64,
+      "name": "The choir invited us as guests, mo!\nI'm excited to sing together, mo. Let's\nhurry so they don't wait, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 422,
+      "style": 64,
+      "name": "The choir's singing is wonderful, mo.\nIt feels like it cleanses the heart, mo.\nSinging together is fun too, mo!"
+    },
+    {
+      "$id": 423,
+      "style": 57,
+      "name": "Fashion Show"
+    },
+    {
+      "$id": 424,
+      "style": 64,
+      "name": "We were invited to a fashion show,\nmo! Frills... fluffy things... There are\nso many cute outfits, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 425,
+      "style": 64,
+      "name": "Nanakoori looked cute in a different\nstyle too, mo! It feels like we'll rake\nin lots of new fans, mo."
+    },
+    {
+      "$id": 426,
+      "style": 57,
+      "name": "Meet and Greet"
+    },
+    {
+      "$id": 427,
+      "style": 64,
+      "name": "We'll hold a handshake event for all\nthe fans who always support us, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 428,
+      "style": 64,
+      "name": "All the fans looked happy, mo. We\nhave to work even harder for everyone\nwho supports us, mo!"
+    },
+    {
+      "$id": 429,
+      "style": 57,
+      "name": "Concert in Avaritia"
+    },
+    {
+      "$id": 430,
+      "style": 64,
+      "name": "We'll hold a concert on the Goldmund\ntrading ship, mo! Meet at Goldmund,\nmo! (Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 431,
+      "style": 64,
+      "name": "The concert itself was a failure,\nbut holding one at all was a huge\nsuccess, mo! Apparently a fan club\nhas already formed, mo."
+    },
+    {
+      "$id": 432,
+      "style": 57,
+      "name": "Concert in Invidia"
+    },
+    {
+      "$id": 433,
+      "style": 64,
+      "name": "We'll hold a concert in Invidia, mo!\nMeet at Bajena Theater, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 434,
+      "style": 64,
+      "name": "It was a huge success, mo! Everyone\nwas moved by the singing, mo! Our\npopularity is soaring, mo!"
+    },
+    {
+      "$id": 435,
+      "style": 57,
+      "name": "Concert in Superbia"
+    },
+    {
+      "$id": 436,
+      "style": 64,
+      "name": "We'll hold a concert in Superbia, mo!\nMeet at Nahaar Central Plaza, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 437,
+      "style": 64,
+      "name": "It's really sad that you're quitting\nas an idol, mo... But Pii will keep\ncheering for Nanakoori-san as your\nnumber-one fan, mo!"
+    },
+    {
+      "$id": 438,
+      "style": 57,
+      "name": "Nopon Pop Stars"
+    },
+    {
+      "$id": 439,
+      "style": 64,
+      "name": "The Momon Trading Company asked\nus to sing for them, mo! Everyone's\nlooking forward to it, mo. (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 440,
+      "style": 64,
+      "name": "Everyone at the Momon Trading\nCompany looked happy, mo. Pii was\nproud too, mo! Let's keep working\nhard together, mo!"
+    },
+    {
+      "$id": 441,
+      "style": 57,
+      "name": "Local Pop Star?"
+    },
+    {
+      "$id": 442,
+      "style": 64,
+      "name": "We'll hold a street concert in Pom\nVillage, mo. Apparently the fruit\nthere is delicious, mo. (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 443,
+      "style": 64,
+      "name": "Everyone in Pom Village was happy,\nmo. I'm stuffed with the fruit they\ngave us as thanks, mo. Burp... I can't\neat any more, mo..."
+    },
+    {
+      "$id": 444,
+      "style": 57,
+      "name": "Stage Star"
+    },
+    {
+      "$id": 445,
+      "style": 64,
+      "name": "We'll perform at a Drewey theater, mo!\nBut if the troupe scouts Nanakoori-san,\nPii will be in trouble, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 446,
+      "style": 64,
+      "name": "The goal is to be an idol, but I think\nI'd like to see Nanakoori-san singing\nand dancing onstage too, mo."
+    },
+    {
+      "$id": 447,
+      "style": 57,
+      "name": "Summer Concert"
+    },
+    {
+      "$id": 448,
+      "style": 64,
+      "name": "We'll hold a street concert in Ukuriye,\nthe industrial city, mo. It's hot there,\nso we'll make it a fiery concert, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 449,
+      "style": 64,
+      "name": "It was much hotter than I expected,\nmo... It was a concert filled with\nheat, mo..."
+    },
+    {
+      "$id": 450,
+      "style": 57,
+      "name": "Benefit Concert"
+    },
+    {
+      "$id": 451,
+      "style": 64,
+      "name": "The Acedian refugees are deeply\nsad, mo... But I'm sure songs can\nencourage them, mo! (Requires\nNanakoori as leader.)"
+    },
+    {
+      "$id": 452,
+      "style": 64,
+      "name": "Some people had tears in their eyes\nlistening to Nanakoori-san sing,\nmo... It may be difficult, but I hope\nthey recover soon, mo..."
+    },
+    {
+      "$id": 453,
+      "style": 57,
+      "name": "Invitation from Queen"
+    },
+    {
+      "$id": 454,
+      "style": 64,
+      "name": "Queen Lagert-sama asked\nNanakoori-san to sing at the palace,\nmo! I was so surprised I thought it was a\nlie, mo! (Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 455,
+      "style": 64,
+      "name": "The Queen-sama was really into\nit, mo! It feels like our Invidian fans\nincreased a lot, mo!"
+    },
+    {
+      "$id": 456,
+      "style": 57,
+      "name": "Invitation from Emperor"
+    },
+    {
+      "$id": 457,
+      "style": 64,
+      "name": "Superbian soldiers include passionate\nNanakoori-san fans too, mo! We'll\nhold a castle concert for them, mo!\n(Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 458,
+      "style": 64,
+      "name": "I was nervous inside the castle,\nmo. It feels like our Superbian fans\nincreased a lot, mo!"
+    },
+    {
+      "$id": 459,
+      "style": 57,
+      "name": "Special Concert"
+    },
+    {
+      "$id": 460,
+      "style": 64,
+      "name": "We've finally passed 4,000 fans, mo!\nWe'll hold a concert to thank everyone,\nmo! (Requires Nanakoori as leader.)"
+    },
+    {
+      "$id": 461,
+      "style": 64,
+      "name": "Mo-mo-mo!! Nanakoori-san is\namazing to have so many people\ncheering for her, mo!!"
+    },
+    {
+      "$id": 462,
+      "style": 57,
+      "name": "Black Nopon Search"
+    },
+    {
+      "$id": 463,
+      "style": 64,
+      "name": "Find where that hateful albatross\nwho tricked me is! (Requires\nRinne as leader.)"
+    },
+    {
+      "$id": 464,
+      "style": 64,
+      "name": "The black-haired albatross seems to\nbe hiding in Superbia's city! I will not\nforgive this grudge against my harem..."
+    },
+    {
+      "$id": 465,
+      "style": 57,
+      "name": "Rinne's Tea Party 1"
+    },
+    {
+      "$id": 466,
+      "style": 64,
+      "name": "We'll gather the girls for a tea party!\nToday we'll listen to their worries...\nDon't hold back; tell us everything.\n(Requires Rinne as leader.)"
+    },
+    {
+      "$id": 467,
+      "style": 64,
+      "name": "That went well. Good to see a smile\non all the girls' faces...\nThank you for all your help with this."
+    },
+    {
+      "$id": 468,
+      "style": 57,
+      "name": "Rinne's Tea Party 2"
+    },
+    {
+      "$id": 469,
+      "style": 64,
+      "name": "We'll gather the girls for a tea party!\nToday we'll listen to their worries...\nDon't hold back; tell us everything.\n(Requires Rinne as leader.)"
+    },
+    {
+      "$id": 470,
+      "style": 64,
+      "name": "That went well. We'd go to any trouble\nto put smiles on all the girls' faces..."
+    },
+    {
+      "$id": 471,
+      "style": 57,
+      "name": "Rinne's Tea Party 3"
+    },
+    {
+      "$id": 472,
+      "style": 64,
+      "name": "We'll gather the girls for a tea party!\nToday we'll listen to their worries...\nDon't hold back; tell us everything.\n(Requires Rinne as leader.)"
+    },
+    {
+      "$id": 473,
+      "style": 64,
+      "name": "That went well. We don't require\nthanks... No, just the prospect of the\nnext tea party is thanks enough!"
+    },
+    {
+      "$id": 474,
+      "style": 57,
+      "name": "Rinne's Tea Party 4"
+    },
+    {
+      "$id": 475,
+      "style": 64,
+      "name": "We'll gather the girls for a tea party!\nToday we'll listen to their worries...\nDon't hold back; tell us everything.\n(Requires Rinne as leader.)"
+    },
+    {
+      "$id": 476,
+      "style": 64,
+      "name": "That went well. Now my\nharem will... N-no, never\nmind!"
+    },
+    {
+      "$id": 477,
+      "style": 57,
+      "name": "Rinne's Tea Party 5"
+    },
+    {
+      "$id": 478,
+      "style": 64,
+      "name": "We'll gather the girls for a tea party!\nToday we'll deepen our friendship...\nDon't hold back; enjoy yourselves.\n(Requires Rinne as leader.)"
+    },
+    {
+      "$id": 479,
+      "style": 64,
+      "name": "All good things must come to an end...\nOh that reminds me, apparently there's\nsomething buried in Liberalitas's Little\nGarden of Tradition..."
+    },
+    {
+      "$id": 480,
+      "style": 57,
+      "name": "Shiki's Password Search"
+    },
+    {
+      "$id": 481,
+      "style": 64,
+      "name": "I'll analyze the glowing tablet!\nI'm determined to solve the mystery!\n(Requires Shiki as leader.)"
+    },
+    {
+      "$id": 482,
+      "style": 64,
+      "name": "I got information about people who\nhave old documents describing\nthe tablet. Let's go ask to see\nthem right away!"
+    },
+    {
+      "$id": 483,
+      "style": 57,
+      "name": "Yaegiri: Foe Hunt 1"
+    },
+    {
+      "$id": 484,
+      "style": 64,
+      "name": "A monster has appeared in Avaritia's\nCloud Sea! Wonder if it'll be a\nchallenge? (Requires Yaegiri as leader.)"
+    },
+    {
+      "$id": 485,
+      "style": 64,
+      "name": "Not as strong as I thought it would be.\nLet's find something tougher to take on!"
+    },
+    {
+      "$id": 486,
+      "style": 57,
+      "name": "Yaegiri: Foe Hunt 2"
+    },
+    {
+      "$id": 487,
+      "style": 64,
+      "name": "A monster has appeared in the Gula\nForest! Wonder if it'll be a challenge?\n(Requires Yaegiri as leader.)"
+    },
+    {
+      "$id": 488,
+      "style": 64,
+      "name": "Not as strong as I thought it would be.\nLet's find something tougher to take on!"
+    },
+    {
+      "$id": 489,
+      "style": 57,
+      "name": "Yaegiri: Foe Hunt 3"
+    },
+    {
+      "$id": 490,
+      "style": 64,
+      "name": "A monster has appeared in Invidia!\nWonder if it'll be a challenge?\n(Requires Yaegiri as leader.)"
+    },
+    {
+      "$id": 491,
+      "style": 64,
+      "name": "Not as strong as I thought it would be.\nLet's find something tougher to take on!"
+    },
+    {
+      "$id": 492,
+      "style": 57,
+      "name": "Yaegiri: Foe Hunt 4"
+    },
+    {
+      "$id": 493,
+      "style": 64,
+      "name": "A monster has appeared in the Superbia\nmines! Wonder if it'll be a\nchallenge? (Req. Yaegiri as leader.)"
+    },
+    {
+      "$id": 494,
+      "style": 64,
+      "name": "Not as strong as I thought it would be.\nLet's find something tougher to take on!"
+    },
+    {
+      "$id": 495,
+      "style": 57,
+      "name": "We Need To Talk!"
+    },
+    {
+      "$id": 496,
+      "style": 64,
+      "name": "Drivers, Hikari, I need a word with\nyou! Let's assemble in Avaritia's\nGoldmund Residential District!\n(Requires Yaegiri as leader.)"
+    },
+    {
+      "$id": 497,
+      "style": 64,
+      "name": "It really is good to speak frankly!\nNow, let's go investigate this\nso-called Beast King!"
+    },
+    {
+      "$id": 498,
+      "style": 57,
+      "name": "Find Tirkin Princess 1"
+    },
+    {
+      "$id": 499,
+      "style": 64,
+      "name": "Where has the Princess gone?!\nGather information on her whereabouts\nin Gula!"
+    },
+    {
+      "$id": 500,
+      "style": 64,
+      "name": "It seems the Princess isn't in Gula!\nGather information somewhere else!"
+    },
+    {
+      "$id": 501,
+      "style": 57,
+      "name": "Find Tirkin Princess 2"
+    },
+    {
+      "$id": 502,
+      "style": 64,
+      "name": "Where has the Princess gone?!\nGather information on her whereabouts\nin Superbia!"
+    },
+    {
+      "$id": 503,
+      "style": 64,
+      "name": "It seems the Princess isn't in Superbia!\nGather information somewhere else!"
+    },
+    {
+      "$id": 504,
+      "style": 57,
+      "name": "Find Tirkin Princess 3"
+    },
+    {
+      "$id": 505,
+      "style": 64,
+      "name": "Where has the Princess gone?!\nGather information on her whereabouts\nin Invidia!"
+    },
+    {
+      "$id": 506,
+      "style": 64,
+      "name": "It seems the Princess isn't in Invidia!\nGather information somewhere else!"
+    },
+    {
+      "$id": 507,
+      "style": 57,
+      "name": "Find Tirkin Princess 4"
+    },
+    {
+      "$id": 508,
+      "style": 64,
+      "name": "Where has the Princess gone?!\nGather information on her whereabouts\nin Luxuria!"
+    },
+    {
+      "$id": 509,
+      "style": 64,
+      "name": "Princess!\nThe Princess is in Luxuria?!\nWe have to hurry and meet her!"
+    },
+    {
+      "$id": 510,
+      "style": 57,
+      "name": "Ten'i Search"
+    },
+    {
+      "$id": 511,
+      "style": 64,
+      "name": "We pushed Ten'i too hard... We can't\nabandon an important companion. Let's\nfind Ten'i, who went off somewhere."
+    },
+    {
+      "$id": 512,
+      "style": 64,
+      "name": "Ten'i is in Elpis Spirit Cavern, but\nseems unable to control that power.\nLet's go help Ten'i!"
+    },
+    {
+      "$id": 513,
+      "style": 57,
+      "name": "Manufacture Help"
+    },
+    {
+      "$id": 514,
+      "style": 64,
+      "name": "We're short-handed, mo... I'll share\nsome Nopopo Daikon with you, so\nplease help with mass production, mo!"
+    },
+    {
+      "$id": 515,
+      "style": 57,
+      "name": "Tome of Mors Vol. 2"
+    },
+    {
+      "$id": 516,
+      "style": 64,
+      "name": "I'll decipher Tome of Mors Vol. 2.\nNow what do we have here...\n(Requires Shiki as leader.)"
+    },
+    {
+      "$id": 517,
+      "style": 64,
+      "name": "Hmmmm... Just the one tome isn't\ntelling me much. I think we're going\nto need the other volumes."
+    },
+    {
+      "$id": 518,
+      "style": 57,
+      "name": "Tome of Mors Vol. 4"
+    },
+    {
+      "$id": 519,
+      "style": 64,
+      "name": "I'll decipher Tome of Mors Vol. 4.\nWonder what's in this one...\n(Requires Shiki as leader.)"
+    },
+    {
+      "$id": 520,
+      "style": 64,
+      "name": "That's half of the tomes.\nBut I still have so much to learn.\nI need to find the other two..."
+    },
+    {
+      "$id": 521,
+      "style": 57,
+      "name": "Tome of Mors Vol. 3"
+    },
+    {
+      "$id": 522,
+      "style": 64,
+      "name": "I'll decipher Tome of Mors Vol. 3.\nLooking forward to reading this one...\n(Requires Shiki as leader.)"
+    },
+    {
+      "$id": 523,
+      "style": 64,
+      "name": "Hmm... These tomes seem to hold some\nvery interesting information. If only I\nhad the final piece of the puzzle..."
+    },
+    {
+      "$id": 524,
+      "style": 57,
+      "name": "Tome of Mors Vol. 1"
+    },
+    {
+      "$id": 525,
+      "style": 64,
+      "name": "I'll decipher Tome of Mors Vol. 1.\nLet me look. I'll have it done in no time.\n(Requires Shiki as leader.)"
+    },
+    {
+      "$id": 526,
+      "style": 64,
+      "name": "Oh my...this is an incredible discovery!\nListen, everyone - you won't believe\nwhat these tomes were hiding."
+    },
+    {
+      "$id": 527,
+      "style": 57,
+      "name": "Allies of Justice 1"
+    },
+    {
+      "$id": 528,
+      "style": 64,
+      "name": "My shop is gone, mo... What\nshould I do now, mo... (Requires\nGuren as leader.)"
+    },
+    {
+      "$id": 529,
+      "style": 64,
+      "name": "I'll be careful not to be fooled again,\nmo! I'm relieved you got it back, mo!\nThank you for helping me, mo!"
+    },
+    {
+      "$id": 530,
+      "style": 57,
+      "name": "Allies of Justice 2"
+    },
+    {
+      "$id": 531,
+      "style": 64,
+      "name": "A child got lost in the Gulan\nforest... Could someone help\nlook? (Requires Guren as\nleader.)"
+    },
+    {
+      "$id": 532,
+      "style": 64,
+      "name": "Thank you so much for finding the\nchild... I'll be careful not to take my eyes\noff them again. Thank you, truly."
+    },
+    {
+      "$id": 533,
+      "style": 57,
+      "name": "Allies of Justice 3"
+    },
+    {
+      "$id": 534,
+      "style": 64,
+      "name": "My father suddenly disappeared.\nI wonder what happened to him...\n(Requires Guren as leader.)"
+    },
+    {
+      "$id": 535,
+      "style": 64,
+      "name": "A monster blocked the way\nhome? You're strong, young\nman! So cool!"
+    },
+    {
+      "$id": 536,
+      "style": 57,
+      "name": "Allies of Justice 4"
+    },
+    {
+      "$id": 537,
+      "style": 64,
+      "name": "Carrying vegetables is hard work at my\nage... There aren't any young people\naround either. What a problem...\n(Requires Guren as leader.)"
+    },
+    {
+      "$id": 538,
+      "style": 64,
+      "name": "You're strong, young man... Thanks to\nyou, that was a big help. How about I\ntreat you to some of Granny's cooking?"
+    },
+    {
+      "$id": 539,
+      "style": 57,
+      "name": "Allies of Justice 5"
+    },
+    {
+      "$id": 540,
+      "style": 64,
+      "name": "I was finally about to become\na researcher, but my research\nresults were stolen... (Requires\nGuren as leader.)"
+    },
+    {
+      "$id": 541,
+      "style": 64,
+      "name": "Thanks for getting them back! I'll\nkeep working even harder with a\nfiery spirit like yours!"
+    },
+    {
+      "$id": 542,
+      "style": 57,
+      "name": "Allies of Justice 6"
+    },
+    {
+      "$id": 543,
+      "style": 64,
+      "name": "My board game was taken... I wonder\nif someone could get it back...\n(Requires Guren as leader.)"
+    },
+    {
+      "$id": 544,
+      "style": 64,
+      "name": "When I grow up, I want to become\nstrong enough not to lose to Blade-san,\nand kind enough to help people."
+    },
+    {
+      "$id": 545,
+      "style": 57,
+      "name": "Can't Escape"
+    },
+    {
+      "$id": 546,
+      "style": 64,
+      "name": "I want you to catch the mercenaries\nhiding on Wreckage Island in\nLiberalitas. I want to be with my\nbeloved Driver."
+    },
+    {
+      "$id": 547,
+      "style": 64,
+      "name": "So they've already moved on?\nThat's a shame, but could you keep\nlooking for me?"
+    },
+    {
+      "$id": 548,
+      "style": 57,
+      "name": "Obstinate Pursuit"
+    },
+    {
+      "$id": 549,
+      "style": 64,
+      "name": "I want you to find where the\nmercenaries who fled Liberalitas went.\nI want to be with my beloved Driver."
+    },
+    {
+      "$id": 550,
+      "style": 64,
+      "name": "It seems the mercenaries moved\nto Mima in Gula... We'll catch\nthem next time."
+    },
+    {
+      "$id": 551,
+      "style": 57,
+      "name": "Chase Is On"
+    },
+    {
+      "$id": 552,
+      "style": 64,
+      "name": "I want you to catch the mercenaries\nwho moved to Mima in Gula. I want\nto be with my beloved Driver."
+    },
+    {
+      "$id": 553,
+      "style": 64,
+      "name": "Those mercs sure are fast, but they've\nno place to run.\nHa! You'll have to punish them well."
+    },
+    {
+      "$id": 554,
+      "style": 57,
+      "name": "Got 'Em"
+    },
+    {
+      "$id": 555,
+      "style": 64,
+      "name": "Need to punish those kids who were\ngetting in my darling Driver's way.\n(Requires Azami as leader.)"
+    },
+    {
+      "$id": 556,
+      "style": 64,
+      "name": "Hahaha...\nNaughty children who stand between\nme and my darling Driver will get a\nthousand lashes as punishment."
+    },
+    {
+      "$id": 557,
+      "style": 57,
+      "name": "Fake Vase"
+    },
+    {
+      "$id": 558,
+      "style": 64,
+      "name": "It seems there's an underhanded\nmerchant illegally selling fake goods\nat high prices. Bring in the fraudster."
+    },
+    {
+      "$id": 559,
+      "style": 64,
+      "name": "The Nopon merchant you caught\nwas handed over to Avaritia. Thanks\nfor catching them."
+    },
+    {
+      "$id": 560,
+      "style": 57,
+      "name": "Beautiful Flower"
+    },
+    {
+      "$id": 561,
+      "style": 64,
+      "name": "Seems there are lots of random attacks\nhappening in Invidia. According to our\ninfo, the likely culprit is a beautiful\nfemale Blade. Find her and catch her."
+    },
+    {
+      "$id": 562,
+      "style": 64,
+      "name": "We've handed the suspect over to the\nInvidian army. She may be beautiful,\nbut there's no way we'll go easy on her."
+    },
+    {
+      "$id": 563,
+      "style": 57,
+      "name": "Unreturnable Money"
+    },
+    {
+      "$id": 564,
+      "style": 64,
+      "name": "Word is there's a trader offering loans\nto refugees with illegally high interest\nrates. Bring 'em in."
+    },
+    {
+      "$id": 565,
+      "style": 64,
+      "name": "We've handed the trader over\nto the Superbian army. We can't\npermit people to take advantage\nof vulnerable refugees."
+    },
+    {
+      "$id": 566,
+      "style": 57,
+      "name": "Round Up"
+    },
+    {
+      "$id": 567,
+      "style": 64,
+      "name": "They say a big deal is going down\nbetween illegal traders in Superbia.\nNow's the chance to catch two crime\nbosses."
+    },
+    {
+      "$id": 568,
+      "style": 64,
+      "name": "The bosses of those big criminal\norganizations have been extradited\nto their own countries...\nThings should quieten down now."
+    },
+    {
+      "$id": 569,
+      "style": 57,
+      "name": "First Mission"
+    },
+    {
+      "$id": 570,
+      "style": 64,
+      "name": "Did you see the Ansel near Hræsvelgr?\nIf it ever looks like it's going to get in...\nCould you make sure that it doesn't?"
+    },
+    {
+      "$id": 571,
+      "style": 64,
+      "name": "So you took care of the Ansel?\nNice one! Your efforts have won\nthe villagers another day of peace."
+    },
+    {
+      "$id": 572,
+      "style": 57,
+      "name": "Materials Stakeout"
+    },
+    {
+      "$id": 573,
+      "style": 64,
+      "name": "We need someone to keep watch over\nthe green and yellow barrels holding\nartificial Blade materials."
+    },
+    {
+      "$id": 574,
+      "style": 64,
+      "name": "Looks like some Nopon carried them\noff somewhere. Head back to the inn\nto discuss the details."
+    },
+    {
+      "$id": 575,
+      "style": 57,
+      "name": "Whose Pendant?"
+    },
+    {
+      "$id": 576,
+      "style": 64,
+      "name": "Who exactly gave Gina that\npendant...? Let's look for more\ndetailed information!"
+    },
+    {
+      "$id": 577,
+      "style": 64,
+      "name": "It seems a Superbian mercenary\ngave Gina the pendant. I wonder\nwhere that person is now..."
+    },
+    {
+      "$id": 578,
+      "style": 57,
+      "name": "The Pendant's Owner"
+    },
+    {
+      "$id": 579,
+      "style": 64,
+      "name": "Apparently someone saw the man who\ngave Gina the pendant in Superbia!\nLet's find him and ask for details."
+    },
+    {
+      "$id": 580,
+      "style": 64,
+      "name": "Apparently the mercenary was\ntortured to death... Is this document\nreally that important?"
+    },
+    {
+      "$id": 581,
+      "style": 57,
+      "name": "Document of Worth"
+    },
+    {
+      "$id": 582,
+      "style": 64,
+      "name": "A document important enough to\nprotect with one's life... What could\nbe written in it? Does anyone know\nsomeone who can read it?"
+    },
+    {
+      "$id": 583,
+      "style": 64,
+      "name": "We can't let them get away with this\nplan! If I act as bait, we should be able\nto lure the mastermind out..."
+    },
+    {
+      "$id": 584,
+      "style": 57,
+      "name": "Bait Battle"
+    },
+    {
+      "$id": 585,
+      "style": 64,
+      "name": "So I'm the bait to lure the villains out.\nAre you worried for me? It's okay, I'll be\nfine! (Requires Hotaru as leader.)"
+    },
+    {
+      "$id": 586,
+      "style": 64,
+      "name": "Thanks to all your efforts we've\nmanaged to catch the mastermind.\nThank you all for your help!"
+    },
+    {
+      "$id": 587,
+      "style": 57,
+      "name": "Everyone Loves Hotaru"
+    },
+    {
+      "$id": 588,
+      "style": 64,
+      "name": "If we just have a chat, everything will\nbe fine! I'll do the talking!\n(Requires Hotaru as leader.)"
+    },
+    {
+      "$id": 589,
+      "style": 64,
+      "name": "Well, turns out that after a little chat,\nthey're really nice and are now a big\nfan of mine! They won't attack any\nmore."
+    },
+    {
+      "$id": 590,
+      "style": 64,
+      "name": "We discovered that there's a hideout\nfor the anti-Superbian organization\nBrionac near Full-Belly Canteen at the\nold factory. We should investigate."
+    },
+    {
+      "$id": 591,
+      "style": 57,
+      "name": "New Business"
+    },
+    {
+      "$id": 592,
+      "style": 64,
+      "name": "Now Luxuria have opened their borders,\nI want to start trading with them, but I\ndon't have a partner there to trade\nwith. Could you find me one?"
+    },
+    {
+      "$id": 593,
+      "style": 64,
+      "name": "Those are some beautiful dishes right\nthere! Definitely don't see ones like that\nevery day... They'll definitely bring my\nRoast Meat Tagliata to the next level!"
+    },
+    {
+      "$id": 594,
+      "style": 64,
+      "name": "New ranges available at:\nHoney Syrup Sweets\nHanamaru Bookstore"
+    },
+    {
+      "$id": 595,
+      "style": 64,
+      "name": "New ranges available at:\nHarapekko Canteen\nToynopox Hobby Store"
+    },
+    {
+      "$id": 596,
+      "style": 64,
+      "name": "New ranges available at:\nJanjan Instruments\nHanamaru Bookstore"
+    },
+    {
+      "$id": 597,
+      "style": 64,
+      "name": "New ranges available at:\nToynopox Hobby Store\nCreole Cosmetics"
+    },
+    {
+      "$id": 598,
+      "style": 64,
+      "name": "New ranges available at:\nHarapekko Canteen\nJanjan Instruments"
+    },
+    {
+      "$id": 599,
+      "style": 64,
+      "name": "New ranges available at:\nTuuli Bakery\nKumarava Art"
+    },
+    {
+      "$id": 600,
+      "style": 64,
+      "name": "New ranges available at:\nGrilaf Butchers\nCafé Savvy\nTimo Instruments"
+    },
+    {
+      "$id": 601,
+      "style": 64,
+      "name": "New ranges available at:\nShetree Cosmetics\nNeuromin Textiles"
+    },
+    {
+      "$id": 602,
+      "style": 64,
+      "name": "New ranges available at:\nToami Fish　Café Savvy\nTimo Instruments\nKumarava Art"
+    },
+    {
+      "$id": 603,
+      "style": 64,
+      "name": "New ranges available at:\nGrilaf Butchers\nShetree Cosmetics\nNeuromin Textiles"
+    },
+    {
+      "$id": 604,
+      "style": 64,
+      "name": "New ranges available at:\nVargel Tavern\nFlatblood\nIkthus Fishmongers"
+    },
+    {
+      "$id": 605,
+      "style": 64,
+      "name": "New ranges available at:\nSadecott Groceries\nVolty Butchers\nAldomar Books"
+    },
+    {
+      "$id": 606,
+      "style": 64,
+      "name": "New ranges available at:\nSperanza Sweets\nPlumeria Antiques\nAquaneze Cosmetics"
+    },
+    {
+      "$id": 607,
+      "style": 64,
+      "name": "New ranges available at:\nSadecott Groceries　Flatblood\nIkthus Fishmongers\nAldomar Books"
+    },
+    {
+      "$id": 608,
+      "style": 64,
+      "name": "New ranges available at:\nVolty Butchers\nPlumeria Antiques"
+    },
+    {
+      "$id": 609,
+      "style": 64,
+      "name": "New ranges available at:\nElazart's Greens\nAdirno Music\nYafusha Antiques"
+    },
+    {
+      "$id": 610,
+      "style": 64,
+      "name": "New ranges available at:\nHanoon Fishmongers\nHaskefell Books\nElgeschel Hobby Store"
+    },
+    {
+      "$id": 611,
+      "style": 64,
+      "name": "New ranges available at:\nSaruata Sweets\nYafusha Antiques"
+    },
+    {
+      "$id": 612,
+      "style": 64,
+      "name": "New ranges available at:\nElazart's Greens\nAdirno Music"
+    },
+    {
+      "$id": 613,
+      "style": 64,
+      "name": "New ranges available at:\nHanoon Fishmongers\nSaruata Sweets\nElgeschel Hobby Store"
+    },
+    {
+      "$id": 614,
+      "style": 64,
+      "name": "New ranges available at:\nCorcaja Greengrocers\nSpeck Butchers\nLinen Handicraft Shop"
+    },
+    {
+      "$id": 615,
+      "style": 64,
+      "name": "New ranges available at:\nCoral Leaf Fresh Fish\nCafe Lutino"
+    },
+    {
+      "$id": 616,
+      "style": 64,
+      "name": "New ranges available at:\nSpeck Butchers\nLinen Handicraft Shop"
+    },
+    {
+      "$id": 617,
+      "style": 64,
+      "name": "New range available at:\nCafe Lutino"
+    },
+    {
+      "$id": 618,
+      "style": 64,
+      "name": "New range available at:\nCorcaja Greengrocers"
+    },
+    {
+      "$id": 619,
+      "style": 64,
+      "name": "New ranges available at:\nProteini Bakery\nTatraty Fish\nHobby Nitchimo Satchimo"
+    },
+    {
+      "$id": 620,
+      "style": 64,
+      "name": "New ranges available at:\nLectica Vegetables\nPlacks Patisserie\nBiblio Paulio"
+    },
+    {
+      "$id": 621,
+      "style": 64,
+      "name": "New ranges available at:\nTatraty Fish\nHobby Nitchimo Satchimo\nBoldarde Textiles"
+    },
+    {
+      "$id": 622,
+      "style": 64,
+      "name": "New ranges available at:\nProteini Bakery\nPlacks Patisserie"
+    },
+    {
+      "$id": 623,
+      "style": 64,
+      "name": "New ranges available at:\nBiblio Paulio\nBoldarde Textiles"
+    },
+    {
+      "$id": 624,
+      "style": 64,
+      "name": "New ranges available at:\nInrattio Instruments\nAquaneze Cosmetics"
+    },
+    {
+      "$id": 625,
+      "style": 57,
+      "name": "Trial Run 1"
+    },
+    {
+      "$id": 626,
+      "style": 64,
+      "name": "UO Sweets is so popular that requests\nare coming in from other countries.\nPlease deliver them quickly.\n(Requires Idaten as leader.)"
+    },
+    {
+      "$id": 627,
+      "style": 64,
+      "name": "Good work.\nLet's hear your report at UO Sweets."
+    },
+    {
+      "$id": 628,
+      "style": 57,
+      "name": "Trial Run 2"
+    },
+    {
+      "$id": 629,
+      "style": 64,
+      "name": "This time, take someone with the\nendurance not to eat them along the\nway. (Requires Idaten as leader.)"
+    },
+    {
+      "$id": 630,
+      "style": 64,
+      "name": "Looks like they arrived safely.\nGood. Now they'll become even\nmore famous."
+    },
+    {
+      "$id": 631,
+      "style": 57,
+      "name": "Desserts Delivered 1"
+    },
+    {
+      "$id": 632,
+      "style": 64,
+      "name": "Please deliver a popular UO Sweets\nitem. This delivery is for Avaritia.\n(Requires Idaten as leader.)"
+    },
+    {
+      "$id": 633,
+      "style": 57,
+      "name": "Desserts Delivered 2"
+    },
+    {
+      "$id": 634,
+      "style": 64,
+      "name": "Please deliver a popular UO Sweets\nitem. This delivery is for Gula.\n(Requires Idaten as leader.)"
+    },
+    {
+      "$id": 635,
+      "style": 57,
+      "name": "Desserts Delivered 3"
+    },
+    {
+      "$id": 636,
+      "style": 64,
+      "name": "Please deliver a popular UO Sweets\nitem. This delivery is for Superbia.\n(Requires Idaten as leader.)"
+    },
+    {
+      "$id": 637,
+      "style": 57,
+      "name": "Desserts Delivered 4"
+    },
+    {
+      "$id": 638,
+      "style": 64,
+      "name": "Please deliver a popular UO Sweets\nitem. This delivery is for Liberalitas.\n(Requires Idaten as leader.)"
+    },
+    {
+      "$id": 639,
+      "style": 57,
+      "name": "Desserts Delivered 5"
+    },
+    {
+      "$id": 640,
+      "style": 64,
+      "name": "Please deliver a popular UO Sweets\nitem. This delivery is for Luxuria.\n(Requires Idaten as leader.)"
+    },
+    {
+      "$id": 641,
+      "style": 57,
+      "name": "Catch a Crook"
+    },
+    {
+      "$id": 642,
+      "style": 64,
+      "name": "Be it Tirkins or monsters, it matters not.\nThe guilty must receive punishment...\n(Requires Vasara as leader.)"
+    },
+    {
+      "$id": 643,
+      "style": 64,
+      "name": "The fields ought to be safe now...\nI will speak in more detail once we\nhave all gathered again."
+    },
+    {
+      "$id": 644,
+      "style": 57,
+      "name": "Guard the Field"
+    },
+    {
+      "$id": 645,
+      "style": 64,
+      "name": "I shall watch over the fields overnight,\nlest the culprit come back for seconds!\n(Requires Tokiha as leader.)"
+    },
+    {
+      "$id": 646,
+      "style": 64,
+      "name": "No veggies were stolen on my watch!\nI'll give the whole report when we're all\ngathered again."
+    },
+    {
+      "$id": 647,
+      "style": 57,
+      "name": "Extract a Confession"
+    },
+    {
+      "$id": 648,
+      "style": 64,
+      "name": "I'll visit homes in Iyasaki Village and\ntalk to everyone! I'll ask for witnesses...\nIf I find the culprit, I'll get a confession!\n(Requires Guren as leader.)"
+    },
+    {
+      "$id": 649,
+      "style": 64,
+      "name": "I don't think there are any bad guys\nin this village... I'll tell you all about it\nwhen we're all gathered again!"
+    },
+    {
+      "$id": 650,
+      "style": 57,
+      "name": "Help with Farm Work"
+    },
+    {
+      "$id": 651,
+      "style": 64,
+      "name": "After all your help protecting it, the field\nhas still fallen into disrepair because\nwe're short-handed... It'd help if you\ncould lend a hand with the work."
+    },
+    {
+      "$id": 652,
+      "style": 57,
+      "name": "Reclamation"
+    },
+    {
+      "$id": 653,
+      "style": 64,
+      "name": "First, till the field. Good vegetables\nneed good soil, but brute force\nwon't do. Work together and do\nit carefully."
+    },
+    {
+      "$id": 654,
+      "style": 57,
+      "name": "Seeding"
+    },
+    {
+      "$id": 655,
+      "style": 64,
+      "name": "Next is sowing the seeds, the most\ndelicate task. Treat them with care\nand consideration, and work together\nwith all your heart."
+    },
+    {
+      "$id": 656,
+      "style": 57,
+      "name": "Growing"
+    },
+    {
+      "$id": 657,
+      "style": 64,
+      "name": "To grow good vegetables, you need\nwater, fertilizer, and pest control.\nRaise them like your own children.\nHarvesting? I'll handle that."
+    },
+    {
+      "$id": 658,
+      "style": 57,
+      "name": "Raiko's Strategy"
+    },
+    {
+      "$id": 659,
+      "style": 64,
+      "name": "Leave Sea Weiss to Ten'i-san and me!\nWe'll work together and do our best!"
+    },
+    {
+      "$id": 660,
+      "style": 64,
+      "name": "We defeated Sea Weiss!\nTen'i-san was incredibly strong!"
+    },
+    {
+      "$id": 661,
+      "style": 57,
+      "name": "Yaegiri's Strategy"
+    },
+    {
+      "$id": 662,
+      "style": 64,
+      "name": "I'll handle Land Desire. I've been\nitching for an exciting battle like this!\n(Requires Yaegiri as leader.)"
+    },
+    {
+      "$id": 663,
+      "style": 64,
+      "name": "I defeated Land Desire. It was more\nfun than I expected, but I want to\nfight someone even stronger!"
+    },
+    {
+      "$id": 664,
+      "style": 57,
+      "name": "Lifeline to Temperantia"
+    },
+    {
+      "$id": 665,
+      "style": 64,
+      "name": "We transport goods from Superbia to\nTemperantia regularly, but we could do\nwith someone to help guard it all on its\nway. Could you handle this for us?"
+    },
+    {
+      "$id": 666,
+      "style": 57,
+      "name": "Divine Beast Ship Fixes"
+    },
+    {
+      "$id": 667,
+      "style": 64,
+      "name": "Could you escort our shipment of \nsalvage goods from Avaritia? They're\nneeded to undertake maintenance for \nthe Divine Beast battleships."
+    },
+    {
+      "$id": 668,
+      "style": 57,
+      "name": "Crossing Bridges"
+    },
+    {
+      "$id": 669,
+      "style": 64,
+      "name": "Trade between Superbia and Luxuria\nhas begun, but no army members can\nbe spared, so could we ask you guys to\nguard the trade caravans on their way?"
+    },
+    {
+      "$id": 670,
+      "style": 57,
+      "name": "Invidian Crash Course"
+    },
+    {
+      "$id": 671,
+      "style": 64,
+      "name": "I've got a job perfect for you. I\nwant you to train Invidia's new\nsoldiers."
+    },
+    {
+      "$id": 672,
+      "style": 57,
+      "name": "Green-Thumbed Mercs"
+    },
+    {
+      "$id": 673,
+      "style": 64,
+      "name": "This job is right up your alley! Well, \nmaybe not, but who says no to a bit of\ngardening? Just be careful; no mistakes\nare allowed in Queen Lagert's garden."
+    },
+    {
+      "$id": 674,
+      "style": 57,
+      "name": "Aristocratic Security"
+    },
+    {
+      "$id": 675,
+      "style": 64,
+      "name": "This job is right up your alley! The six\nnoble houses of Invidia will soon gather\nto hold an assembly. Security detail\nwe leave in your capable hands."
+    },
+    {
+      "$id": 676,
+      "style": 57,
+      "name": "Wedding Invitation"
+    },
+    {
+      "$id": 677,
+      "style": 64,
+      "name": "Ondina's wedding is coming up.\nSurprisingly, the groom says you\nknow each other. I know you're\nbusy, but please attend."
+    },
+    {
+      "$id": 678,
+      "style": 64,
+      "name": "I wish Bonavento could have seen it...\nOne day I'll take Ondina and Leonidas\nto his grave. Though it is on the\nSuperbian side."
+    },
+    {
+      "$id": 679,
+      "style": 57,
+      "name": "Ibuki's Big News"
+    },
+    {
+      "$id": 680,
+      "style": 64,
+      "name": "Send your mercs out to look into the\nbig news Ibuki heard at the inn."
+    },
+    {
+      "$id": 681,
+      "style": 64,
+      "name": "The information says Luxurian\nsoldiers are plotting a rebellion in\nthe Hall of Sincerity in Teoscaldia.\nLet's hurry!"
+    },
+    {
+      "$id": 682,
+      "style": 57,
+      "name": "Gundesu's Mighty Foe"
+    },
+    {
+      "$id": 683,
+      "style": 64,
+      "name": "A tough Spide-like monster is\nrampaging in Gundesu Rock Salt\nCavern. Alst's strongest mercenary\ngroup, please take it out."
+    },
+    {
+      "$id": 684,
+      "style": 57,
+      "name": "Chirsones's Mighty Foe"
+    },
+    {
+      "$id": 685,
+      "style": 64,
+      "name": "A Sauros-like monster is approaching\nthe port city of Chirsones. It's ferocious,\nbut we're asking Alst's strongest\nmercenary group to drive it off."
+    },
+    {
+      "$id": 686,
+      "style": 57,
+      "name": "Merukuribe Foe Returns"
+    },
+    {
+      "$id": 687,
+      "style": 64,
+      "name": "A vicious monster has settled on\nMerukuribe Islet again. We're asking\nAlst's strongest mercenaries to wipe it\nout completely!"
+    }
+  ]
+}

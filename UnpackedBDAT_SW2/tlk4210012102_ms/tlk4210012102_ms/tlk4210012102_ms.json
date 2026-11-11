@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42100121_02_msg0001",
+      "style": 84,
+      "name": "Takaka has realized something,\nmo! This is a discovery of\nthe century, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42100121_02_msg0002",
+      "style": 84,
+      "name": "The Cloud Sea's height is changing,\nmo! If you watch closely, you'll\nnotice it's completely different, mo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42100121_02_msg0003",
+      "style": 84,
+      "name": "You go to sleep at night and\nwake up in the morning, and\nit's changed drastically, mo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42100121_02_msg0004",
+      "style": 84,
+      "name": "No wonder places I could reach before\nhave become unreachable, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk42100121_02_msg0005",
+      "style": 84,
+      "name": "This discovery is surely\naward-worthy, mo! Takaka is\ngoing to be famous, mo! Mofufu~n!"
+    }
+  ]
+}

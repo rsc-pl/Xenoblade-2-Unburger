@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45350351_02_msg0001",
+      "style": 84,
+      "name": "You know there's a gate that's always\nshut tight here in Port Ananyam?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk45350351_02_msg0002",
+      "style": 84,
+      "name": "It leads to the Hanzag Wastes, but we\nkeep it closed because there are lots\nof vicious monsters there."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45350351_02_msg0003",
+      "style": 84,
+      "name": "You could visit the Wastes yourself\nif you want a challenge. But if\nnot, I'd steer well clear."
+    }
+  ]
+}

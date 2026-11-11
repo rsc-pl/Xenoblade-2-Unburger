@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunatalk062_msg0001",
+      "style": 84,
+      "name": "Here, mo! This place is famous\nfor delicious breakfast, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunatalk062_msg0002",
+      "style": 84,
+      "name": "……"
+    },
+    {
+      "$id": 3,
+      "label": "kizunatalk062_msg0003",
+      "style": 84,
+      "name": "What's wrong, Idaten, mo?"
+    },
+    {
+      "$id": 4,
+      "label": "kizunatalk062_msg0004",
+      "style": 84,
+      "name": "Something bothering you?"
+    },
+    {
+      "$id": 5,
+      "label": "kizunatalk062_msg0005",
+      "style": 84,
+      "name": "Something bugging you, or what?"
+    },
+    {
+      "$id": 6,
+      "label": "kizunatalk062_msg0006",
+      "style": 84,
+      "name": "Is there something wrong?"
+    },
+    {
+      "$id": 7,
+      "label": "kizunatalk062_msg0007",
+      "style": 84,
+      "name": "Is something bothering you?"
+    },
+    {
+      "$id": 8,
+      "label": "kizunatalk062_msg0008",
+      "style": 84,
+      "name": "...It's no good, po."
+    },
+    {
+      "$id": 9,
+      "label": "kizunatalk062_msg0009",
+      "style": 84,
+      "name": "No good? What's no good, mo?"
+    },
+    {
+      "$id": 10,
+      "label": "kizunatalk062_msg0010",
+      "style": 84,
+      "name": "...I don't feel like eating here\nright now, po."
+    },
+    {
+      "$id": 11,
+      "label": "kizunatalk062_msg0011",
+      "style": 84,
+      "name": "Do you dislike this place, mo?"
+    },
+    {
+      "$id": 12,
+      "label": "kizunatalk062_msg0012",
+      "style": 84,
+      "name": "I don't dislike it, po."
+    },
+    {
+      "$id": 13,
+      "label": "kizunatalk062_msg0013",
+      "style": 84,
+      "name": "But no, po! Idaten wants to go\nsomewhere else, po!"
+    },
+    {
+      "$id": 14,
+      "label": "kizunatalk062_msg0014",
+      "style": 84,
+      "name": "I want to go eat in Avaritia, po!"
+    },
+    {
+      "$id": 15,
+      "label": "kizunatalk062_msg0015",
+      "style": 84,
+      "name": "If we go to Avaritia now, Tora\nwill starve to death, mo!"
+    },
+    {
+      "$id": 16,
+      "label": "kizunatalk062_msg0016",
+      "style": 84,
+      "name": "It won't take long, po. I can go there\nand back in the blink of an eye, po!"
+    },
+    {
+      "$id": 17,
+      "label": "kizunatalk062_msg0017",
+      "style": 84,
+      "name": "Only Idaten can do that, mo!"
+    },
+    {
+      "$id": 18,
+      "label": "kizunatalk062_msg0018",
+      "style": 84,
+      "name": "Enough, we eat here, mo!"
+    },
+    {
+      "$id": 19,
+      "label": "kizunatalk062_msg0019",
+      "style": 84,
+      "name": "Idaten doesn't want to, po!"
+    },
+    {
+      "$id": 20,
+      "label": "kizunatalk062_msg0020",
+      "style": 84,
+      "name": "Calm down, you two. Idaten,\ncan I ask you something?"
+    },
+    {
+      "$id": 21,
+      "label": "kizunatalk062_msg0021",
+      "style": 165,
+      "name": "What should I ask Idaten?"
+    },
+    {
+      "$id": 22,
+      "label": "kizunatalk062_msg0022",
+      "style": 164,
+      "name": "Do you have some special preferences\nwhen it comes to breakfast?"
+    },
+    {
+      "$id": 23,
+      "label": "kizunatalk062_msg0023",
+      "style": 164,
+      "name": "Tell me why you don't like this place."
+    },
+    {
+      "$id": 24,
+      "label": "kizunatalk062_msg0024",
+      "style": 84,
+      "name": "Calm down, you two.\nIdaten, let me hear it..."
+    },
+    {
+      "$id": 25,
+      "label": "kizunatalk062_msg0025",
+      "style": 165,
+      "name": "What should I ask Idaten?"
+    },
+    {
+      "$id": 26,
+      "label": "kizunatalk062_msg0026",
+      "style": 164,
+      "name": "So you're pretty picky about\nyour breakfast, are you?"
+    },
+    {
+      "$id": 27,
+      "label": "kizunatalk062_msg0027",
+      "style": 164,
+      "name": "Why do you dislike this shop?"
+    },
+    {
+      "$id": 28,
+      "label": "kizunatalk062_msg0028",
+      "style": 84,
+      "name": "Calm down now, the both of\nyou. Idaten, tell me..."
+    },
+    {
+      "$id": 29,
+      "label": "kizunatalk062_msg0029",
+      "style": 165,
+      "name": "What shall I ask Idaten?"
+    },
+    {
+      "$id": 30,
+      "label": "kizunatalk062_msg0030",
+      "style": 164,
+      "name": "Do you have some particular\nbreakfast preferences?"
+    },
+    {
+      "$id": 31,
+      "label": "kizunatalk062_msg0031",
+      "style": 164,
+      "name": "What do you have against this place?"
+    },
+    {
+      "$id": 32,
+      "label": "kizunatalk062_msg0032",
+      "style": 84,
+      "name": "Now hang on a minute, you two.\nIdaten, tell me something."
+    },
+    {
+      "$id": 33,
+      "label": "kizunatalk062_msg0033",
+      "style": 84,
+      "name": "What should I ask Idaten?"
+    },
+    {
+      "$id": 34,
+      "label": "kizunatalk062_msg0034",
+      "style": 84,
+      "name": "You're picky about breakfast, huh?"
+    },
+    {
+      "$id": 35,
+      "label": "kizunatalk062_msg0035",
+      "style": 84,
+      "name": "Why d'you hate this place so much?"
+    },
+    {
+      "$id": 36,
+      "label": "kizunatalk062_msg0101",
+      "style": 84,
+      "name": "Picky, po? I don't really know what\nthat means, po."
+    },
+    {
+      "$id": 37,
+      "label": "kizunatalk062_msg0102",
+      "style": 84,
+      "name": "Idaten eats anything tasty, and won't\ntouch anything that tastes bad, po!"
+    },
+    {
+      "$id": 38,
+      "label": "kizunatalk062_msg0103",
+      "style": 84,
+      "name": "That's pretty picky, mo."
+    },
+    {
+      "$id": 39,
+      "label": "kizunatalk062_msg0104",
+      "style": 84,
+      "name": "Actually, that's just\nbeing picky, mo..."
+    },
+    {
+      "$id": 40,
+      "label": "kizunatalk062_msg0105",
+      "style": 84,
+      "name": "No, po! It's not about likes or\ndislikes, po!"
+    },
+    {
+      "$id": 41,
+      "label": "kizunatalk062_msg0106",
+      "style": 84,
+      "name": "Tasty things are food. Things that\ntaste bad aren't food, po!!"
+    },
+    {
+      "$id": 42,
+      "label": "kizunatalk062_msg0107",
+      "style": 84,
+      "name": "Idaten doesn't eat anything that\nisn't food, po!"
+    },
+    {
+      "$id": 43,
+      "label": "kizunatalk062_msg0108",
+      "style": 84,
+      "name": "So you're saying if it tastes good\nthen anything counts as food?"
+    },
+    {
+      "$id": 44,
+      "label": "kizunatalk062_msg0109",
+      "style": 84,
+      "name": "So in your mind, if it tastes\ngood then anything is food?"
+    },
+    {
+      "$id": 45,
+      "label": "kizunatalk062_msg0110",
+      "style": 84,
+      "name": "So you consider anything at all\nto be food if it tastes good?"
+    },
+    {
+      "$id": 46,
+      "label": "kizunatalk062_msg0111",
+      "style": 84,
+      "name": "So yer sayin' if it tastes\ngood anything counts as food?"
+    },
+    {
+      "$id": 47,
+      "label": "kizunatalk062_msg0112",
+      "style": 84,
+      "name": "Of course, po! If they tasted good,\nI'd even eat Nopon, po!"
+    },
+    {
+      "$id": 48,
+      "label": "kizunatalk062_msg0113",
+      "style": 84,
+      "name": "Mo?!"
+    },
+    {
+      "$id": 49,
+      "label": "kizunatalk062_msg0114",
+      "style": 84,
+      "name": "T-Tora doesn't taste good, mo!\nI'm cute, but I'm not tasty, mo!"
+    },
+    {
+      "$id": 50,
+      "label": "kizunatalk062_msg0115",
+      "style": 84,
+      "name": "Don't worry, po!"
+    },
+    {
+      "$id": 51,
+      "label": "kizunatalk062_msg0116",
+      "style": 84,
+      "name": "I wouldn't eat a friend, no matter\nhow tasty they looked, po!"
+    },
+    {
+      "$id": 52,
+      "label": "kizunatalk062_msg0117",
+      "style": 84,
+      "name": "...I just take a little taste at night\nand stop there, po!"
+    },
+    {
+      "$id": 53,
+      "label": "kizunatalk062_msg0118",
+      "style": 84,
+      "name": "Mo-mo?!"
+    },
+    {
+      "$id": 54,
+      "label": "kizunatalk062_msg0201",
+      "style": 84,
+      "name": "Oh, I get it. So that's why Tora's\nfeet are wet when he wakes up!"
+    },
+    {
+      "$id": 55,
+      "label": "kizunatalk062_msg0202",
+      "style": 84,
+      "name": "Huh, that explains why Tora's feet\nare wet when he wakes up!"
+    },
+    {
+      "$id": 56,
+      "label": "kizunatalk062_msg0203",
+      "style": 84,
+      "name": "Ah, I see. That explains why Tora's\nfeet are wet when he wakes up."
+    },
+    {
+      "$id": 57,
+      "label": "kizunatalk062_msg0204",
+      "style": 84,
+      "name": "Heh, that explains why Tora's feet\nare wet when he wakes up!"
+    },
+    {
+      "$id": 58,
+      "label": "kizunatalk062_msg0205",
+      "style": 84,
+      "name": "Mooo!!!"
+    },
+    {
+      "$id": 59,
+      "label": "kizunatalk062_msg0206",
+      "style": 84,
+      "name": "I don't dislike it, po. This place\nserves really good food too, po."
+    },
+    {
+      "$id": 60,
+      "label": "kizunatalk062_msg0207",
+      "style": 84,
+      "name": "Then what's the problem, mo?"
+    },
+    {
+      "$id": 61,
+      "label": "kizunatalk062_msg0208",
+      "style": 84,
+      "name": "There are plenty of options\non the menu, so just pick\nsomething you like, mo."
+    },
+    {
+      "$id": 62,
+      "label": "kizunatalk062_msg0209",
+      "style": 84,
+      "name": "That's why there's nothing left\nI want to eat, po."
+    },
+    {
+      "$id": 63,
+      "label": "kizunatalk062_msg0210",
+      "style": 84,
+      "name": "That's just being selfish, mo!"
+    },
+    {
+      "$id": 64,
+      "label": "kizunatalk062_msg0211",
+      "style": 84,
+      "name": "I'm not being selfish, po!!"
+    },
+    {
+      "$id": 65,
+      "label": "kizunatalk062_msg0212",
+      "style": 84,
+      "name": "Idaten checked every item on this menu\nbefore any of you woke up, po!"
+    },
+    {
+      "$id": 66,
+      "label": "kizunatalk062_msg0213",
+      "style": 84,
+      "name": "Mo?"
+    },
+    {
+      "$id": 67,
+      "label": "kizunatalk062_msg0214",
+      "style": 84,
+      "name": "...Wait, are you saying what\nyou were eating at the inn..."
+    },
+    {
+      "$id": 68,
+      "label": "kizunatalk062_msg0215",
+      "style": 84,
+      "name": "Exactly, po! Food from this\nrestaurant, po!"
+    },
+    {
+      "$id": 69,
+      "label": "kizunatalk062_msg0216",
+      "style": 84,
+      "name": "I've already eaten every dish\non the menu, po!"
+    },
+    {
+      "$id": 70,
+      "label": "kizunatalk062_msg0217",
+      "style": 84,
+      "name": "Hahaha! That's so like you,\nIdaten. You're always so fast."
+    },
+    {
+      "$id": 71,
+      "label": "kizunatalk062_msg0218",
+      "style": 84,
+      "name": "Hahaha! That's just like\nIdaten. Always so fast."
+    },
+    {
+      "$id": 72,
+      "label": "kizunatalk062_msg0219",
+      "style": 84,
+      "name": "Haha! That's so typical of\nIdaten. You're always so swift."
+    },
+    {
+      "$id": 73,
+      "label": "kizunatalk062_msg0220",
+      "style": 84,
+      "name": "Hahaha! That's so like you,\nIdaten. You're always so quick!"
+    },
+    {
+      "$id": 74,
+      "label": "kizunatalk062_msg0221",
+      "style": 84,
+      "name": "No, that's just too fast, mo...\nTora can't keep up, mo..."
+    }
+  ]
+}

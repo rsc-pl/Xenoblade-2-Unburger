@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000073_01_msg0001",
+      "style": 84,
+      "name": "In the middle of battle, a companion\nsuddenly goes down..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000073_01_msg0002",
+      "style": 84,
+      "name": "If you find yourself in that\nsituation, go to that person's side\nand offer a hand."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000073_01_msg0003",
+      "style": 84,
+      "name": "If everyone's morale is high, you\nshould be able to help your companion\nback up."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000073_01_msg0004",
+      "style": 84,
+      "name": "Of course, if morale has broken, you\nwon't be able to help."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000073_01_msg0005",
+      "style": 84,
+      "name": "A companion just helped back up won't\nbe at full strength. Keep offering\nsupport to prevent another fall."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000073_01_msg0006",
+      "style": 84,
+      "name": "Helping each other is what matters.\nWith companions at your side, I\nbelieve you can overcome any hardship!"
+    }
+  ]
+}

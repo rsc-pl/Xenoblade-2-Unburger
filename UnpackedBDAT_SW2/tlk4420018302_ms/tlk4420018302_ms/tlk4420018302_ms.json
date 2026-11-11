@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk44200181_02_msg0001",
+      "style": 84,
+      "name": "Aren't we descendants of Hero Adel?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk44200181_02_msg0002",
+      "style": 84,
+      "name": "Mama, Papa, Grandma, and Granddad\nwere all terribly upset when\nthey found out about that."
+    },
+    {
+      "$id": 3,
+      "label": "tlk44200181_02_msg0003",
+      "style": 84,
+      "name": "But doesn't this mean\nthat Luxuria's free now?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk44200181_02_msg0004",
+      "style": 84,
+      "name": "I want to visit all the other\ncountries and find the\nprettiest-looking places!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk44200181_02_msg0005",
+      "style": 84,
+      "name": "There are so many exciting things\nto see and do in the world... So\nwhy do adults always look so sad?"
+    }
+  ]
+}

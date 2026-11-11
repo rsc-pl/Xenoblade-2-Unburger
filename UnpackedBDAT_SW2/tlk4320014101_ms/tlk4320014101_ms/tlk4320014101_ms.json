@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200141_01_msg0001",
+      "style": 84,
+      "name": "This is Bajena Playhouse, my favorite\ntheater."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200141_01_msg0002",
+      "style": 84,
+      "name": "I come here almost every day...\nas long as my allowance lasts."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200141_01_msg0003",
+      "style": 84,
+      "name": "I hope I'll get to walk out on that\nstage someday as a leading lady!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200141_01_msg0004",
+      "style": 84,
+      "name": "With Cole-san's wonderful scripts and\nmy acting, I want to excite everyone\nand get their hearts racing."
+    }
+  ]
+}

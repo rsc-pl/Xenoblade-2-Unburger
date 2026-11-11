@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000033_03_msg0001",
+      "style": 84,
+      "name": "Mo! Thanks to all of you, Momimi gave\nthe money to the big person safely,\nmo! Thank you, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000033_03_msg0002",
+      "style": 84,
+      "name": "Still, planning to lavish a whole\n1,000,000G on someone... What a dirty\nold man, mooo~"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000033_03_msg0003",
+      "style": 84,
+      "name": "With that much money... maybe he plans\nto build a villa on his own back, mo~"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000033_03_msg0004",
+      "style": 84,
+      "name": "Mo-mo?! Momimi wasn't supposed to say\nanything more because it's a trade\nsecret, mo!"
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000033_03_msg0005",
+      "style": 84,
+      "name": "W-well then, Momimi will be taking\nleave now, mo!"
+    }
+  ]
+}

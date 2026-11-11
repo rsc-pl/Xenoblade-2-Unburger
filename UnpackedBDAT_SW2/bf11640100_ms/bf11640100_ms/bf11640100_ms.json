@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "bf11640100_0010",
+      "style": 82,
+      "name": "He's quite popular. Looks like\nthe people trust him deeply."
+    },
+    {
+      "$id": 2,
+      "label": "bf11640100_0020",
+      "style": 82,
+      "name": "Hmph."
+    },
+    {
+      "$id": 3,
+      "label": "bf11640100_0022",
+      "style": 82,
+      "name": "He's just some woman's son, the result\nof one of His Majesty's passing whims."
+    },
+    {
+      "$id": 4,
+      "label": "bf11640100_0030",
+      "style": 82,
+      "name": "I see..."
+    },
+    {
+      "$id": 5,
+      "label": "bf11640100_0040",
+      "style": 82,
+      "name": "If only he weren't Heaven's\nHoly Grail's Driver..."
+    },
+    {
+      "$id": 6,
+      "label": "bf11640100_0050",
+      "style": 82,
+      "name": "I believe I gave you an equal chance."
+    }
+  ]
+}

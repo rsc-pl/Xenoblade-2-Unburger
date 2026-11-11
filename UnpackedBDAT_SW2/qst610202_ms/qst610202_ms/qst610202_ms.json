@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst610202_msg0001",
+      "style": 84,
+      "name": "This statue...?"
+    },
+    {
+      "$id": 2,
+      "label": "qst610202_msg0002",
+      "style": 84,
+      "name": "It looks hungry. Should we leave it an\noffering...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst610202_msg0101",
+      "style": 84,
+      "name": "What's a Nopon statue doing\nin a place like this...?"
+    },
+    {
+      "$id": 4,
+      "label": "qst610202_msg0102",
+      "style": 84,
+      "name": "Maybe we should leave an offering."
+    },
+    {
+      "$id": 5,
+      "label": "qst610202_msg0201",
+      "style": 84,
+      "name": "This is... a blessed statue, mo!"
+    },
+    {
+      "$id": 6,
+      "label": "qst610202_msg0202",
+      "style": 84,
+      "name": "So blessed, mo... So venerable, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst610202_msg0203",
+      "style": 84,
+      "name": "Grandpa said you should offer food to\na blessed statue, mo!"
+    },
+    {
+      "$id": 8,
+      "label": "qst610202_msg0204",
+      "style": 84,
+      "name": "I'll make an offering, mo~."
+    },
+    {
+      "$id": 9,
+      "label": "qst610202_msg0301",
+      "style": 84,
+      "name": "This stone statue... It's incredibly\nlifelike."
+    },
+    {
+      "$id": 10,
+      "label": "qst610202_msg0302",
+      "style": 84,
+      "name": "Since we're here, shall we leave an\noffering?"
+    },
+    {
+      "$id": 11,
+      "label": "qst610202_msg0401",
+      "style": 84,
+      "name": "Why is there a Nopon stone statue in a\nplace like this...?"
+    },
+    {
+      "$id": 12,
+      "label": "qst610202_msg0402",
+      "style": 84,
+      "name": "It feels totally out of place, but\nsomehow I really want to leave an\noffering."
+    }
+  ]
+}

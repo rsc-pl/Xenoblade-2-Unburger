@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000069_01_msg0001",
+      "style": 84,
+      "name": "Did you get the hankering to\nsearch for treasure again?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000069_01_msg0002",
+      "style": 84,
+      "name": "Huh? Where's the capital? When you\ncame through Braying Canyon, wasn't\nthere a tower-like building ahead?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000069_01_msg0003",
+      "style": 84,
+      "name": "That's Aureus Palace in the capital.\nHead toward it across the desert and\nyou'll reach the city eventually."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000069_01_msg0004",
+      "style": 84,
+      "name": "Just be careful on the way. A lot of\nthe monsters in Dana Desert are\nvicious."
+    }
+  ]
+}

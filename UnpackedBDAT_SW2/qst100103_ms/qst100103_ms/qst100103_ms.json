@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst00100103_msg0001",
+      "style": 84,
+      "name": "Oh! It's you! Thanks to\nyou, I was able to change\nshifts with Rimurimu, mo!"
+    },
+    {
+      "$id": 2,
+      "label": "qst00100103_msg0002",
+      "style": 84,
+      "name": "He set a new lateness record,\nsurpassing his previous one\nof 7691 seconds, mo..."
+    },
+    {
+      "$id": 3,
+      "label": "qst00100103_msg0003",
+      "style": 84,
+      "name": "Since this was his 1000th time late,\nI meant to lecture him for three\ndays and three nights, but..."
+    },
+    {
+      "$id": 4,
+      "label": "qst00100103_msg0004",
+      "style": 84,
+      "name": "Rimurimu gave Kebikebi half his\nNopopon Roll, so Kebikebi forgave\nhim, mo."
+    },
+    {
+      "$id": 5,
+      "label": "qst00100103_msg0005",
+      "style": 84,
+      "name": "Kebikebi's heart is wider than\nthe Cloud Sea, mo..."
+    },
+    {
+      "$id": 6,
+      "label": "qst00100103_msg0006",
+      "style": 84,
+      "name": "*yawn*... Eating that Nopopon\nRoll made me sleepy, mo."
+    },
+    {
+      "$id": 7,
+      "label": "qst00100103_msg0007",
+      "style": 84,
+      "name": "Please accept this reward from\nthe generous Kebikebi, mo."
+    },
+    {
+      "$id": 8,
+      "label": "qst00100103_msg0008",
+      "style": 84,
+      "name": "If you see anyone suspicious\nin Goldmund, report them to\nKebikebi or Rimurimu, mo!"
+    }
+  ]
+}

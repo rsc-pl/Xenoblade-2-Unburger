@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst001301_msg0001",
+      "style": 84,
+      "name": "*Sigh* What am I supposed to do..."
+    },
+    {
+      "$id": 2,
+      "label": "qst001301_msg0002",
+      "style": 84,
+      "name": "Hey, welcome. Though I'm not really\nin a state to be welcoming anyone."
+    },
+    {
+      "$id": 3,
+      "label": "qst001301_msg0003",
+      "style": 84,
+      "name": "We've got a bit of a problem.\nBusiness is completely dead."
+    },
+    {
+      "$id": 4,
+      "label": "qst001301_msg0005",
+      "style": 84,
+      "name": "It's got nothing to\ndo with you, though."
+    },
+    {
+      "$id": 5,
+      "label": "qst001301_msg0006",
+      "style": 84,
+      "name": "Huh? You don't have to...\nwait, are you a Driver?"
+    },
+    {
+      "$id": 6,
+      "label": "qst001301_msg0007",
+      "style": 84,
+      "name": "This is perfect!"
+    },
+    {
+      "$id": 7,
+      "label": "qst001301_msg0008",
+      "style": 84,
+      "name": "Certain monsters have been breeding in\nSeesuroa Paddies, so apparently no\nFolta can be harvested."
+    },
+    {
+      "$id": 8,
+      "label": "qst001301_msg0009",
+      "style": 84,
+      "name": "I don't know details, but I hear\nthe Wildschwein Mercenaries killed\ntoo many natural predators (temp)..."
+    },
+    {
+      "$id": 9,
+      "label": "qst001301_msg0010",
+      "style": 84,
+      "name": "Anyway, without Fons Rice, I\ncan't make my signature dish."
+    },
+    {
+      "$id": 10,
+      "label": "qst001301_msg0011",
+      "style": 84,
+      "name": "So now, the shop is dead\nquiet, and we've been\nbasically closed for business."
+    },
+    {
+      "$id": 11,
+      "label": "qst001301_msg0012",
+      "style": 84,
+      "name": "Me and my employees are\nat our wits' end..."
+    },
+    {
+      "$id": 12,
+      "label": "qst001301_msg0013",
+      "style": 84,
+      "name": "So I was wondering, you\nlook pretty capable."
+    },
+    {
+      "$id": 13,
+      "label": "qst001301_msg0014",
+      "style": 84,
+      "name": "Would you be willing to\ntake on a job for me?"
+    },
+    {
+      "$id": 14,
+      "label": "qst001301_msg0015",
+      "style": 84,
+      "name": "I need you to defeat those monsters\n(temp) in Seesuroa Paddies."
+    },
+    {
+      "$id": 15,
+      "label": "qst001301_msg0016",
+      "style": 84,
+      "name": "Don't worry, I'll make sure\nto reward you properly."
+    },
+    {
+      "$id": 16,
+      "label": "qst001301_msg0017",
+      "style": 84,
+      "name": "What do you say? Will\nyou take the job?"
+    },
+    {
+      "$id": 17,
+      "label": "qst001301_msg0018",
+      "style": 84,
+      "name": "Oh! Really?! That's a huge help!"
+    },
+    {
+      "$id": 18,
+      "label": "qst001301_msg0019",
+      "style": 84,
+      "name": "Well then, I'm counting\non you, brother!"
+    },
+    {
+      "$id": 19,
+      "label": "qst001301_msg0101",
+      "style": 84,
+      "name": "What's up, brother? Lost in life?"
+    },
+    {
+      "$id": 20,
+      "label": "qst001301_msg0102",
+      "style": 84,
+      "name": "My request is to defeat the enemies\n(temp) that have been breeding in\nSeesuroa Paddies."
+    },
+    {
+      "$id": 21,
+      "label": "qst001301_msg0103",
+      "style": 84,
+      "name": "I'm counting on you!"
+    },
+    {
+      "$id": 22,
+      "label": "qst001301_msg0201",
+      "style": 84,
+      "name": "Hmm? What's wrong, brother?\nDid you forget something?"
+    },
+    {
+      "$id": 23,
+      "label": "qst001301_msg0202",
+      "style": 84,
+      "name": "Or have you already defeated\nthose monsters (temp)?"
+    },
+    {
+      "$id": 24,
+      "label": "qst001301_msg0203",
+      "style": 84,
+      "name": "Hahaha, just kidding. Even for a\ntop Driver-sama, defeating that many\nin such a short time..."
+    },
+    {
+      "$id": 25,
+      "label": "qst001301_msg0204",
+      "style": 84,
+      "name": "...Huh? What did you just say?\nYou're not telling me you're\nfinished, are you? No, but... really?"
+    },
+    {
+      "$id": 26,
+      "label": "qst001301_msg0205",
+      "style": 84,
+      "name": "No way, you're kidding me. I had\nno idea you were this skilled.\nWait, then... does this mean..."
+    },
+    {
+      "$id": 27,
+      "label": "qst001301_msg0207",
+      "style": 84,
+      "name": "I told you this place was basically\nclosed for business, right?"
+    },
+    {
+      "$id": 28,
+      "label": "qst001301_msg0208",
+      "style": 84,
+      "name": "Naturally, as the manager,\nI have to cut down on these\nlosses. As a result..."
+    },
+    {
+      "$id": 29,
+      "label": "qst001301_msg0209",
+      "style": 84,
+      "name": "I have no employees!"
+    },
+    {
+      "$id": 30,
+      "label": "qst001301_msg0210",
+      "style": 84,
+      "name": "I, uh, I fired too many of them...\nI mean, who would've thought\nyou'd solve this so quickly?"
+    },
+    {
+      "$id": 31,
+      "label": "qst001301_msg0211",
+      "style": 84,
+      "name": "This shop has been in my family\nsince my great-grandfather. I\ncouldn't let it go under..."
+    },
+    {
+      "$id": 32,
+      "label": "qst001301_msg0212",
+      "style": 84,
+      "name": "It completely backfired..."
+    },
+    {
+      "$id": 33,
+      "label": "qst001301_msg0213",
+      "style": 84,
+      "name": "But it's too early to\ngive up, brother!"
+    },
+    {
+      "$id": 34,
+      "label": "qst001301_msg0214",
+      "style": 84,
+      "name": "While I call back my employees,\nwould you be willing to help out?"
+    },
+    {
+      "$id": 35,
+      "label": "qst001301_msg0215",
+      "style": 84,
+      "name": "You're already in this deep. I'll\ndouble your reward. What do you say?"
+    },
+    {
+      "$id": 36,
+      "label": "qst001301_msg0216",
+      "style": 84,
+      "name": "Really! Thank you!"
+    },
+    {
+      "$id": 37,
+      "label": "qst001301_msg0217",
+      "style": 84,
+      "name": "Well then, to get started, I have\nan order from a regular customer. I\nneed you to get the ingredients."
+    },
+    {
+      "$id": 38,
+      "label": "qst001301_msg0218",
+      "style": 84,
+      "name": "Giant Frog Meat (temp)\nand Damp Shimeji."
+    },
+    {
+      "$id": 39,
+      "label": "qst001301_msg0219",
+      "style": 84,
+      "name": "I always order the Damp Shimeji from\nHræsvelgr."
+    },
+    {
+      "$id": 40,
+      "label": "qst001301_msg0220",
+      "style": 84,
+      "name": "The problem is the Giant\nFrog Meat (temp)."
+    },
+    {
+      "$id": 41,
+      "label": "qst001301_msg0221",
+      "style": 84,
+      "name": "You should be able to get it\nby defeating the ××× in ○○○."
+    },
+    {
+      "$id": 42,
+      "label": "qst001301_msg0222",
+      "style": 84,
+      "name": "I hear they're a bit tough,\nbut I'm sure you'll be fine."
+    },
+    {
+      "$id": 43,
+      "label": "qst001301_msg0223",
+      "style": 84,
+      "name": "Yeah! I'm counting on you!\nMan, you're a real lifesaver!"
+    },
+    {
+      "$id": 44,
+      "label": "qst001301_msg0224",
+      "style": 84,
+      "name": "I'm counting on you, brother!"
+    },
+    {
+      "$id": 45,
+      "label": "qst001302_msg0301",
+      "style": 84,
+      "name": "Calling back employees\nis quite a hassle..."
+    },
+    {
+      "$id": 46,
+      "label": "qst001302_msg0302",
+      "style": 84,
+      "name": "How's it going with the Giant Frog\nMeat (temp) and Damp Shimeji?"
+    },
+    {
+      "$id": 47,
+      "label": "qst001302_msg0303",
+      "style": 84,
+      "name": "I always order the Damp Shimeji from\nHræsvelgr."
+    },
+    {
+      "$id": 48,
+      "label": "qst001302_msg0304",
+      "style": 84,
+      "name": "You should be able to get\nGiant Frog Meat (temp) by\ndefeating the ××× in ○○○."
+    },
+    {
+      "$id": 49,
+      "label": "qst001302_msg0305",
+      "style": 84,
+      "name": "I'm counting on you, brother!"
+    },
+    {
+      "$id": 50,
+      "label": "qst001301_msg0401",
+      "style": 84,
+      "name": "Hey! I've been waiting for you!"
+    },
+    {
+      "$id": 51,
+      "label": "qst001301_msg0402",
+      "style": 84,
+      "name": "Let's get cooking right away.\nOnce it's done, could you\ndeliver it to the customer?"
+    },
+    {
+      "$id": 52,
+      "label": "qst001301_msg0403",
+      "style": 84,
+      "name": "There you go, order up!!\nLovely Grog Sauté!!"
+    },
+    {
+      "$id": 53,
+      "label": "qst001301_msg0404",
+      "style": 84,
+      "name": "The grog's eyes are cute, right? The\ncolor is pretty appetizing too..."
+    },
+    {
+      "$id": 54,
+      "label": "qst001301_msg0405",
+      "style": 84,
+      "name": "Hmm? What's wrong? Are you hungry?"
+    },
+    {
+      "$id": 55,
+      "label": "qst001301_msg0406",
+      "style": 84,
+      "name": "I get it, I get it. With something\nthis delicious in front of you,\nmaking a delivery is a tough task."
+    },
+    {
+      "$id": 56,
+      "label": "qst001301_msg0407",
+      "style": 84,
+      "name": "...I could make you one\nif you like. You've been\na big help, after all."
+    },
+    {
+      "$id": 57,
+      "label": "qst001301_msg0408",
+      "style": 84,
+      "name": "W-what's with the silence...?\nYou don't want it? You\ndon't have to be shy."
+    },
+    {
+      "$id": 58,
+      "label": "qst001301_msg0409",
+      "style": 84,
+      "name": "Come on, doesn't it look delicious?"
+    },
+    {
+      "$id": 59,
+      "label": "qst001301_msg0410",
+      "style": 84,
+      "name": "The tantalizing aroma, the overflowing\njuices when you bite in... How about\nit! You want some, don't you?"
+    },
+    {
+      "$id": 60,
+      "label": "qst001301_msg0411",
+      "style": 84,
+      "name": "How should I respond?"
+    },
+    {
+      "$id": 61,
+      "label": "qst001301_msg0412",
+      "style": 84,
+      "name": "Say you'd like to try it sometime."
+    },
+    {
+      "$id": 62,
+      "label": "qst001301_msg0413",
+      "style": 84,
+      "name": "Firmly refuse."
+    },
+    {
+      "$id": 63,
+      "label": "qst001301_msg0414",
+      "style": 84,
+      "name": "Oh! I see, I see! If you're\ngoing to say that, I have\nto treat you to some."
+    },
+    {
+      "$id": 64,
+      "label": "qst001301_msg0415",
+      "style": 84,
+      "name": "Hehehe, look forward to\nit. I'll prepare a slowly\naged one just for you."
+    },
+    {
+      "$id": 65,
+      "label": "qst001301_msg0416",
+      "style": 84,
+      "name": "O-oh..."
+    },
+    {
+      "$id": 66,
+      "label": "qst001301_msg0417",
+      "style": 84,
+      "name": "That's odd. To not even glance\nat a Lovely Grog Sauté."
+    },
+    {
+      "$id": 67,
+      "label": "qst001301_msg0418",
+      "style": 84,
+      "name": "I was thinking of making your reward\na year's supply of Lovely Grog Sauté,\nbut maybe I should reconsider..."
+    },
+    {
+      "$id": 68,
+      "label": "qst001301_msg0419",
+      "style": 84,
+      "name": "Well, for now, let's focus\non the task at hand."
+    },
+    {
+      "$id": 69,
+      "label": "qst001301_msg0420",
+      "style": 84,
+      "name": "Could you deliver this to Svenden-san?"
+    },
+    {
+      "$id": 70,
+      "label": "qst001301_msg0421",
+      "style": 84,
+      "name": "He's at the Invidian army\nbarracks near Fons Maim Port."
+    },
+    {
+      "$id": 71,
+      "label": "qst001301_msg0422",
+      "style": 84,
+      "name": "I'm counting on you, brother!"
+    },
+    {
+      "$id": 72,
+      "label": "qst001301_msg0501",
+      "style": 84,
+      "name": "Hmm? Did you forget the\ndelivery location?"
+    },
+    {
+      "$id": 73,
+      "label": "qst001301_msg0502",
+      "style": 84,
+      "name": "He's at the Invidian army\nbarracks near Fons Maim Port."
+    },
+    {
+      "$id": 74,
+      "label": "qst001301_msg0503",
+      "style": 84,
+      "name": "Deliver it to Svenden-san for\nme. I'm counting on you."
+    },
+    {
+      "$id": 75,
+      "label": "qst001301_msg0601",
+      "style": 84,
+      "name": "Hey brother! Looks like you\nhandled the delivery just\nfine. You really saved me."
+    },
+    {
+      "$id": 76,
+      "label": "qst001301_msg0602",
+      "style": 84,
+      "name": "Thanks to you, it looks like I can\nget the shop back on its feet."
+    },
+    {
+      "$id": 77,
+      "label": "qst001301_msg0603",
+      "style": 84,
+      "name": "Now, about your reward..."
+    },
+    {
+      "$id": 78,
+      "label": "qst001301_msg0604",
+      "style": 84,
+      "name": "I'll give you my shop's secret recipe."
+    },
+    {
+      "$id": 79,
+      "label": "qst001301_msg0605",
+      "style": 84,
+      "name": "Of course, it's the recipe\nfor the Lovely Grog Sauté!"
+    },
+    {
+      "$id": 80,
+      "label": "qst001301_msg0606",
+      "style": 84,
+      "name": "I thought about it a lot, but I have\nto properly thank my benefactor."
+    },
+    {
+      "$id": 81,
+      "label": "qst001301_msg0607",
+      "style": 84,
+      "name": "I'm sure my great-grandfather\nwould forgive me for giving\nour recipe to you, brother."
+    },
+    {
+      "$id": 82,
+      "label": "qst001301_msg0608",
+      "style": 84,
+      "name": "What's wrong, brother?\nYou look pale..."
+    },
+    {
+      "$id": 83,
+      "label": "qst001301_msg0609",
+      "style": 84,
+      "name": "Are you tired from working so much?"
+    },
+    {
+      "$id": 84,
+      "label": "qst001301_msg0610",
+      "style": 84,
+      "name": "Have some Lovely Grog Sauté to\nget your energy back, yeah?"
+    }
+  ]
+}

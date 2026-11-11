@@ -1,0 +1,582 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650109_msg0001",
+      "style": 84,
+      "name": "I have a question for you, T-elos Re:."
+    },
+    {
+      "$id": 2,
+      "label": "qst650109_msg0002",
+      "style": 84,
+      "name": "You're strong, but don't you think\nyou'd be even stronger if you\nfought together with everyone?"
+    },
+    {
+      "$id": 3,
+      "label": "qst650109_msg0003",
+      "style": 84,
+      "name": "At least I coordinate with you."
+    },
+    {
+      "$id": 4,
+      "label": "qst650109_msg0004",
+      "style": 84,
+      "name": "That's true, but..."
+    },
+    {
+      "$id": 5,
+      "label": "qst650109_msg0005",
+      "style": 84,
+      "name": "What is your complaint?"
+    },
+    {
+      "$id": 6,
+      "label": "qst650109_msg0006",
+      "style": 84,
+      "name": "Battle is harsh, so of course\nyou have to be strict."
+    },
+    {
+      "$id": 7,
+      "label": "qst650109_msg0007",
+      "style": 84,
+      "name": "But outside of that, I want to\nlaugh and have fun with everyone,\njust like the others."
+    },
+    {
+      "$id": 8,
+      "label": "qst650109_msg0008",
+      "style": 84,
+      "name": "I feel like Drivers and\nBlades should support each\nother, no matter what..."
+    },
+    {
+      "$id": 9,
+      "label": "qst650109_msg0009",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 10,
+      "label": "qst650109_msg0010",
+      "style": 84,
+      "name": "I understand your way\nof thinking, Rex."
+    },
+    {
+      "$id": 11,
+      "label": "qst650109_msg0011",
+      "style": 84,
+      "name": "But it is not necessary for me..."
+    },
+    {
+      "$id": 12,
+      "label": "qst650109_msg0012",
+      "style": 84,
+      "name": "Oh, really?"
+    },
+    {
+      "$id": 13,
+      "label": "qst650109_msg0013",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 14,
+      "label": "qst650109_msg0014",
+      "style": 84,
+      "name": "But I'll consider putting it into\npractice somewhere, someday."
+    },
+    {
+      "$id": 15,
+      "label": "qst650109_msg0015",
+      "style": 84,
+      "name": "Thanks, T-elos Re:.\nThat's enough for now."
+    },
+    {
+      "$id": 16,
+      "label": "qst650109_msg0016",
+      "style": 84,
+      "name": "Hey, can I ask you something?"
+    },
+    {
+      "$id": 17,
+      "label": "qst650109_msg0017",
+      "style": 84,
+      "name": "You're strong, but don't you think\nyou'd be even stronger if you\nfought together with everyone?"
+    },
+    {
+      "$id": 18,
+      "label": "qst650109_msg0018",
+      "style": 84,
+      "name": "At least I coordinate with you."
+    },
+    {
+      "$id": 19,
+      "label": "qst650109_msg0019",
+      "style": 84,
+      "name": "That's true, but..."
+    },
+    {
+      "$id": 20,
+      "label": "qst650109_msg0020",
+      "style": 84,
+      "name": "What is your complaint?"
+    },
+    {
+      "$id": 21,
+      "label": "qst650109_msg0021",
+      "style": 84,
+      "name": "I understand the need to be\nserious in battle, like you are."
+    },
+    {
+      "$id": 22,
+      "label": "qst650109_msg0022",
+      "style": 84,
+      "name": "But when there's no fighting, I\nthink it would be nice to get\nalong and have fun with everyone."
+    },
+    {
+      "$id": 23,
+      "label": "qst650109_msg0023",
+      "style": 84,
+      "name": "I feel like Drivers and\nBlades should support each\nother, no matter what..."
+    },
+    {
+      "$id": 24,
+      "label": "qst650109_msg0024",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 25,
+      "label": "qst650109_msg0025",
+      "style": 84,
+      "name": "I understand your way\nof thinking, Nia."
+    },
+    {
+      "$id": 26,
+      "label": "qst650109_msg0026",
+      "style": 84,
+      "name": "But it is not necessary for me..."
+    },
+    {
+      "$id": 27,
+      "label": "qst650109_msg0027",
+      "style": 84,
+      "name": "I thought you'd say that..."
+    },
+    {
+      "$id": 28,
+      "label": "qst650109_msg0028",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 29,
+      "label": "qst650109_msg0029",
+      "style": 84,
+      "name": "But I'll consider putting it into\npractice somewhere, someday."
+    },
+    {
+      "$id": 30,
+      "label": "qst650109_msg0030",
+      "style": 84,
+      "name": "You'll consider it?\nThanks, T-elos Re:!"
+    },
+    {
+      "$id": 31,
+      "label": "qst650109_msg0031",
+      "style": 84,
+      "name": "I have a question for you, T-elos Re:."
+    },
+    {
+      "$id": 32,
+      "label": "qst650109_msg0032",
+      "style": 84,
+      "name": "You are certainly strong. However,\nwould cooperating with everyone\nyield a better result?"
+    },
+    {
+      "$id": 33,
+      "label": "qst650109_msg0033",
+      "style": 84,
+      "name": "At least I coordinate with you."
+    },
+    {
+      "$id": 34,
+      "label": "qst650109_msg0034",
+      "style": 84,
+      "name": "That may be, but..."
+    },
+    {
+      "$id": 35,
+      "label": "qst650109_msg0035",
+      "style": 84,
+      "name": "What is your complaint?"
+    },
+    {
+      "$id": 36,
+      "label": "qst650109_msg0036",
+      "style": 84,
+      "name": "I believe it is important to be\nserious in battle, as you are."
+    },
+    {
+      "$id": 37,
+      "label": "qst650109_msg0037",
+      "style": 84,
+      "name": "But traveling with Rex and the\nothers, I've learned once again..."
+    },
+    {
+      "$id": 38,
+      "label": "qst650109_msg0038",
+      "style": 84,
+      "name": "that Drivers and Blades must\ntrust and support each other at\nall times, not only in battle."
+    },
+    {
+      "$id": 39,
+      "label": "qst650109_msg0039",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 40,
+      "label": "qst650109_msg0040",
+      "style": 84,
+      "name": "I understand your way\nof thinking, Meleph."
+    },
+    {
+      "$id": 41,
+      "label": "qst650109_msg0041",
+      "style": 84,
+      "name": "But it is not necessary for me..."
+    },
+    {
+      "$id": 42,
+      "label": "qst650109_msg0042",
+      "style": 84,
+      "name": "Then you do not \"understand\"\nwell enough, T-elos Re:."
+    },
+    {
+      "$id": 43,
+      "label": "qst650109_msg0043",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 44,
+      "label": "qst650109_msg0044",
+      "style": 84,
+      "name": "But I'll consider putting it into\npractice somewhere, someday..."
+    },
+    {
+      "$id": 45,
+      "label": "qst650109_msg0045",
+      "style": 84,
+      "name": "Thank you. That is sufficient for now."
+    },
+    {
+      "$id": 46,
+      "label": "qst650109_msg0046",
+      "style": 84,
+      "name": "I've got a question\nfor you, T-elos Re:."
+    },
+    {
+      "$id": 47,
+      "label": "qst650109_msg0047",
+      "style": 84,
+      "name": "You're strong, no doubt... but\ndon't you think you could try\nfighting more cooperatively with us?"
+    },
+    {
+      "$id": 48,
+      "label": "qst650109_msg0048",
+      "style": 84,
+      "name": "At least I coordinate with you."
+    },
+    {
+      "$id": 49,
+      "label": "qst650109_msg0049",
+      "style": 84,
+      "name": "Yeah, but..."
+    },
+    {
+      "$id": 50,
+      "label": "qst650109_msg0050",
+      "style": 84,
+      "name": "What is your complaint?"
+    },
+    {
+      "$id": 51,
+      "label": "qst650109_msg0051",
+      "style": 84,
+      "name": "It may be natural for Blades\nto protect their Drivers."
+    },
+    {
+      "$id": 52,
+      "label": "qst650109_msg0052",
+      "style": 84,
+      "name": "But you're one of us, T-elos Re:.\nIt's not just about\ndefeating enemies..."
+    },
+    {
+      "$id": 53,
+      "label": "qst650109_msg0053",
+      "style": 84,
+      "name": "Why not live so Drivers and Blades\ncan trust each other?"
+    },
+    {
+      "$id": 54,
+      "label": "qst650109_msg0054",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 55,
+      "label": "qst650109_msg0055",
+      "style": 84,
+      "name": "I understand your way\nof thinking, Zeke."
+    },
+    {
+      "$id": 56,
+      "label": "qst650109_msg0056",
+      "style": 84,
+      "name": "But it is not necessary for me..."
+    },
+    {
+      "$id": 57,
+      "label": "qst650109_msg0057",
+      "style": 84,
+      "name": "I thought you'd say that..."
+    },
+    {
+      "$id": 58,
+      "label": "qst650109_msg0058",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 59,
+      "label": "qst650109_msg0059",
+      "style": 84,
+      "name": "But I'll consider putting it into\npractice somewhere, someday."
+    },
+    {
+      "$id": 60,
+      "label": "qst650109_msg0060",
+      "style": 84,
+      "name": "Thanks, T-elos Re:. I'm\nglad you understand."
+    },
+    {
+      "$id": 61,
+      "label": "qst650109_msg0101",
+      "style": 84,
+      "name": "T-elos Re:, I cannot overlook\nyour reckless actions."
+    },
+    {
+      "$id": 62,
+      "label": "qst650109_msg0102",
+      "style": 84,
+      "name": "You're one to talk, KOS-MOS Re:...!"
+    },
+    {
+      "$id": 63,
+      "label": "qst650109_msg0103",
+      "style": 84,
+      "name": "I act with efficiency. You're having\nfar too much fun, T-elos Re:."
+    },
+    {
+      "$id": 64,
+      "label": "qst650109_msg0104",
+      "style": 84,
+      "name": "And you stomp on people too much."
+    },
+    {
+      "$id": 65,
+      "label": "qst650109_msg0105",
+      "style": 84,
+      "name": "It seems we truly are incompatible."
+    },
+    {
+      "$id": 66,
+      "label": "qst650109_msg0106",
+      "style": 84,
+      "name": "I agree."
+    },
+    {
+      "$id": 67,
+      "label": "qst650109_msg0107",
+      "style": 84,
+      "name": "However, our objectives\nshould be the same."
+    },
+    {
+      "$id": 68,
+      "label": "qst650109_msg0108",
+      "style": 84,
+      "name": "...Unfortunately, that is correct."
+    },
+    {
+      "$id": 69,
+      "label": "qst650109_msg0109",
+      "style": 84,
+      "name": "Then, if such a situation\narises again, let us\ncooperate to resolve it."
+    },
+    {
+      "$id": 70,
+      "label": "qst650109_msg0110",
+      "style": 84,
+      "name": "Hmph..."
+    },
+    {
+      "$id": 71,
+      "label": "qst650109_msg0111",
+      "style": 84,
+      "name": "See, T-elos Re: and KOS-MOS Re:,\nyou two get along so well."
+    },
+    {
+      "$id": 72,
+      "label": "qst650109_msg0112",
+      "style": 84,
+      "name": "I do not think so..."
+    },
+    {
+      "$id": 73,
+      "label": "qst650109_msg0113",
+      "style": 84,
+      "name": "Yes, neither do I."
+    },
+    {
+      "$id": 74,
+      "label": "qst650109_msg0114",
+      "style": 84,
+      "name": "See?"
+    },
+    {
+      "$id": 75,
+      "label": "qst650109_msg0115",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 76,
+      "label": "qst650109_msg0116",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 77,
+      "label": "qst650109_msg0117",
+      "style": 84,
+      "name": "You two are good friends,\nT-elos Re: and KOS-MOS Re:."
+    },
+    {
+      "$id": 78,
+      "label": "qst650109_msg0118",
+      "style": 84,
+      "name": "I do not think so..."
+    },
+    {
+      "$id": 79,
+      "label": "qst650109_msg0119",
+      "style": 84,
+      "name": "Yes, neither do I."
+    },
+    {
+      "$id": 80,
+      "label": "qst650109_msg0120",
+      "style": 84,
+      "name": "See? You're on the same wavelength,\nand you're so similar."
+    },
+    {
+      "$id": 81,
+      "label": "qst650109_msg0121",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 82,
+      "label": "qst650109_msg0122",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 83,
+      "label": "qst650109_msg0123",
+      "style": 84,
+      "name": "You and KOS-MOS Re: get along\nsurprisingly well, T-elos Re:."
+    },
+    {
+      "$id": 84,
+      "label": "qst650109_msg0124",
+      "style": 84,
+      "name": "I do not think so..."
+    },
+    {
+      "$id": 85,
+      "label": "qst650109_msg0125",
+      "style": 84,
+      "name": "Yes, neither do I."
+    },
+    {
+      "$id": 86,
+      "label": "qst650109_msg0126",
+      "style": 84,
+      "name": "You're in perfect sync."
+    },
+    {
+      "$id": 87,
+      "label": "qst650109_msg0127",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 88,
+      "label": "qst650109_msg0128",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 89,
+      "label": "qst650109_msg0129",
+      "style": 84,
+      "name": "You two seem to have fun together,\nT-elos Re: and KOS-MOS Re:."
+    },
+    {
+      "$id": 90,
+      "label": "qst650109_msg0130",
+      "style": 84,
+      "name": "I do not think so..."
+    },
+    {
+      "$id": 91,
+      "label": "qst650109_msg0131",
+      "style": 84,
+      "name": "Yes, neither do I."
+    },
+    {
+      "$id": 92,
+      "label": "qst650109_msg0132",
+      "style": 84,
+      "name": "See? Perfect harmony."
+    },
+    {
+      "$id": 93,
+      "label": "qst650109_msg0133",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 94,
+      "label": "qst650109_msg0134",
+      "style": 84,
+      "name": "..."
+    }
+  ]
+}

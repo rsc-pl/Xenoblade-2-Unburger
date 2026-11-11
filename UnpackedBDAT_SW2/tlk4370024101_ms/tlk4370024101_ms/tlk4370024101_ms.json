@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43700241_01_msg0001",
+      "style": 84,
+      "name": "Wha... You guys again?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43700241_01_msg0002",
+      "style": 84,
+      "name": "You really helped me out before."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43700241_01_msg0003",
+      "style": 84,
+      "name": "I lost because I wasn't able to\nfully make use of my Assist Cores."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43700241_01_msg0004",
+      "style": 84,
+      "name": "I could have used fire-damage\nreduction to weaken Heaven's Holy\nGrail's attacks..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43700241_01_msg0005",
+      "style": 84,
+      "name": "Or I could have used a jamming effect\nto dodge ranged attacks. If I'd done\nsomething like that, I would have won!"
+    },
+    {
+      "$id": 6,
+      "label": "tlk43700241_01_msg0006",
+      "style": 84,
+      "name": "That's not to say I'm going to try\nit, but believe me, it's true!"
+    }
+  ]
+}

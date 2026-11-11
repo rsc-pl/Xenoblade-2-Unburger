@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43200141_03_msg0001",
+      "style": 84,
+      "name": "Ion-chan seems a little better now."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43200141_03_msg0002",
+      "style": 84,
+      "name": "I heard someone important to her died,\nand she blamed herself. It sounds like\nshe was suffering over it."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43200141_03_msg0003",
+      "style": 84,
+      "name": "I've never experienced grief that\ndeep, so I can't really understand\nwhat she's going through..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43200141_03_msg0004",
+      "style": 84,
+      "name": "But I want to help Ion-chan find some\npeace of mind."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43200141_03_msg0005",
+      "style": 84,
+      "name": "Maybe by eating Fleur Bavarois\ntogether."
+    }
+  ]
+}

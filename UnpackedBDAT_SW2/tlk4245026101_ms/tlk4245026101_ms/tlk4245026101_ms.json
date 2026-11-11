@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42450261_01_msg0001",
+      "style": 84,
+      "name": "Welcome, mooo! Yutayuta brought\naccessories all the way out to remote\nLiberalitas, mooo!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk42450261_01_msg0002",
+      "style": 84,
+      "name": "Country folk should pay more attention\nto fashion, mooo! Yutayuta won't allow\nfrumpiness, mooo!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk42450261_01_msg0003",
+      "style": 84,
+      "name": "You've made a good purchase, mooo!\nThat should make you less frumpy,\nmooo!"
+    },
+    {
+      "$id": 4,
+      "label": "tlk42450261_01_msg0004",
+      "style": 84,
+      "name": "Oh my, mooo! Do you actually prefer\nlooking frumpy, mooo?"
+    }
+  ]
+}

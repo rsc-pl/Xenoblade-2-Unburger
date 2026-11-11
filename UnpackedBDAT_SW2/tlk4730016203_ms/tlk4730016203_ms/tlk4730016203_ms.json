@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300162_03_msg0001",
+      "style": 84,
+      "name": "I heard Superbia and Luxuria are\nheading for the World Tree."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300162_03_msg0002",
+      "style": 84,
+      "name": "At least Liberalitas's\nstaying where it is."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300162_03_msg0003",
+      "style": 84,
+      "name": "This isn't a Divine Beast controlled\nby anyone. I just hope it stays calm\nlike this."
+    }
+  ]
+}

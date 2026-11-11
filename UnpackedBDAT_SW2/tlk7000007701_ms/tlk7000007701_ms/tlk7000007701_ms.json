@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000077_01_msg0001",
+      "style": 84,
+      "name": "Thank you for that terrible-tasting\nfood before... No, really, that's a\ncompliment. A compliment."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000077_01_msg0002",
+      "style": 84,
+      "name": "Thanks to you, my homesickness and\nfatigue are completely gone. My\nmaintenance work is going great now."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000077_01_msg0003",
+      "style": 84,
+      "name": "Oh, yeah... Talking of curing\nthings, how are you managing\nto heal up during fights?"
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000077_01_msg0004",
+      "style": 84,
+      "name": "A healer's role is to keep a constant\neye on allies so their health doesn't\nrun out during battle."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000077_01_msg0005",
+      "style": 84,
+      "name": "Pay particular attention to the health\nof whoever is drawing the enemy's\nhostility."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000077_01_msg0006",
+      "style": 84,
+      "name": "The moment that person goes down, the\nwhole party could collapse."
+    },
+    {
+      "$id": 7,
+      "label": "tlk70000077_01_msg0007",
+      "style": 84,
+      "name": "The other day, I served Superbian food\nto fellow mechanics. The hardiest ones\nstarted dropping one after another..."
+    },
+    {
+      "$id": 8,
+      "label": "tlk70000077_01_msg0008",
+      "style": 84,
+      "name": "We had some trouble filling\nour work quota for that day,\nI can tell you! Hahaha!"
+    }
+  ]
+}

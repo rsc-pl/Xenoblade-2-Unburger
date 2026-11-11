@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000004_06_msg0001",
+      "style": 84,
+      "name": "Oh! It's you guys! Do you have\nany idea what's going on?!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000004_06_msg0002",
+      "style": 84,
+      "name": "For now, Torque the weapon seller and\nEllis the accessory seller are taking\nrefuge in our basement!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000004_06_msg0003",
+      "style": 84,
+      "name": "Whether you run or fight\nthat black giant, feel free\nto rest at my place anytime!"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47300161_02_msg0001",
+      "style": 84,
+      "name": "Hey, Rex! You came back to the village\nagain? Correl-san must be happy."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47300161_02_msg0002",
+      "style": 84,
+      "name": "You're going to the Village Guardian?\nWhy would you go somewhere like that?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk47300161_02_msg0003",
+      "style": 84,
+      "name": "Seiryuu's been around a long time."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47300161_02_msg0004",
+      "style": 84,
+      "name": "There's some mysterious stuff round\nthere... Stuff I don't know about!"
+    }
+  ]
+}

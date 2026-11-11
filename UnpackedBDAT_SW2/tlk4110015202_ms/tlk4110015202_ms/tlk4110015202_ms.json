@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100152_02_msg0001",
+      "style": 84,
+      "name": "I wonder if my older brother Elnoth\nis okay... I hope he's not lonely\nand crying..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100152_02_msg0002",
+      "style": 84,
+      "name": "I wonder if it was like this\nwhen Dad went away, too..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100152_02_msg0003",
+      "style": 84,
+      "name": "It's a little lonely, but this\ntime I think I have to be the\none to protect Morike."
+    },
+    {
+      "$id": 4,
+      "label": "tlk41100152_02_msg0004",
+      "style": 84,
+      "name": "So, I'm going to follow my older\nbrother's example and study\nto become a Driver!"
+    }
+  ]
+}

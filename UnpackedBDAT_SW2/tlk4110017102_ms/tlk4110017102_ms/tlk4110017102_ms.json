@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk41100171_02_msg0001",
+      "style": 84,
+      "name": "I wonder if the Holy See's\ngoddess is a goddess of money?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk41100171_02_msg0002",
+      "style": 84,
+      "name": "Tourists toss coins from Mira-Maa\nViewpoint into the Cloud Sea, but a\nlot of them land over here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk41100171_02_msg0003",
+      "style": 84,
+      "name": "Thanks to the funeral, more coins\nthan usual are raining down. It\nmust be thanks to the goddess."
+    }
+  ]
+}

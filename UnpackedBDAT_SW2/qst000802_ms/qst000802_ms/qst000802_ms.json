@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000802_msg0001",
+      "style": 84,
+      "name": "Yo! Meeting here must be\nfate! Let's chat for a bit."
+    },
+    {
+      "$id": 2,
+      "label": "qst000802_msg0002",
+      "style": 84,
+      "name": "I'm Erebos!"
+    },
+    {
+      "$id": 3,
+      "label": "qst000802_msg0003",
+      "style": 84,
+      "name": "Following in my grandpa's footsteps,\nI'm a treasure hunter who travels\nall over Alst for treasure!"
+    },
+    {
+      "$id": 4,
+      "label": "qst000802_msg0101",
+      "style": 84,
+      "name": "Erebos-san? Could you be\nthe one from the knife...?\nWe were looking for you!"
+    },
+    {
+      "$id": 5,
+      "label": "qst000802_msg0102",
+      "style": 84,
+      "name": "Erebos-san? Could you be\nthe one from the knife...?\nWe were looking for you!"
+    },
+    {
+      "$id": 6,
+      "label": "qst000802_msg0103",
+      "style": 84,
+      "name": "Erebos? Could you be the\none from that knife...?\nWe've been looking for you!"
+    },
+    {
+      "$id": 7,
+      "label": "qst000802_msg0104",
+      "style": 84,
+      "name": "Could that be Erebos-san?\nCould you be from that knife...?\nWe found you, mo~!"
+    },
+    {
+      "$id": 8,
+      "label": "qst000802_msg0105",
+      "style": 84,
+      "name": "Erebos? Could you be from that\nknife...? We finally meet."
+    },
+    {
+      "$id": 9,
+      "label": "qst000802_msg0106",
+      "style": 84,
+      "name": "Erebos? Could you be from that\nknife...? We were looking for you!"
+    },
+    {
+      "$id": 10,
+      "label": "qst000802_msg0201",
+      "style": 84,
+      "name": "You were looking for me...!?"
+    },
+    {
+      "$id": 11,
+      "label": "qst000802_msg0202",
+      "style": 84,
+      "name": "You brought it... D-don't tell me!!"
+    },
+    {
+      "$id": 12,
+      "label": "qst000802_msg0203",
+      "style": 84,
+      "name": "You're here to give me a one-way\nticket to the afterlife..."
+    },
+    {
+      "$id": 13,
+      "label": "qst000802_msg0204",
+      "style": 84,
+      "name": "and steal my grandpa's\ntreasure and everything else!"
+    },
+    {
+      "$id": 14,
+      "label": "qst000802_msg0205",
+      "style": 84,
+      "name": "No more talk! My grandpa's motto\nwas to watch out for sweet talk\nand food!!"
+    }
+  ]
+}

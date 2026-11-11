@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk0001014_msg0001",
+      "style": 84,
+      "name": "I will disappear soon..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk0001014_msg0002",
+      "style": 84,
+      "name": "At that time, the Gate will also\ndisappear from this world."
+    },
+    {
+      "$id": 3,
+      "label": "tlk0001014_msg0003",
+      "style": 84,
+      "name": "The time you have to wield\nyour power is limited."
+    },
+    {
+      "$id": 4,
+      "label": "tlk0001014_msg0004",
+      "style": 84,
+      "name": "I'm counting on you..."
+    },
+    {
+      "$id": 5,
+      "label": "tlk0001014_msg0005",
+      "style": 84,
+      "name": "Homura and Hikari... And Rex..."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000061_03_msg0001",
+      "style": 84,
+      "name": "Rita got lost while we were exploring.\nIt ended safely, which was fortunate,\nbut..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000061_03_msg0002",
+      "style": 84,
+      "name": "\"I'm sorry if being my Blade means\nyou won't get to live very long.\""
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000061_03_msg0003",
+      "style": 84,
+      "name": "Rita said that, and I really got\nangry."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000061_03_msg0004",
+      "style": 84,
+      "name": "No... perhaps I was sad. I didn't want\nher to think I sought Rita's strength\njust so I could live longer."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000061_03_msg0005",
+      "style": 84,
+      "name": "The time we spend together is\neverything to me now. I don't simply\nwant to prolong my life."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000061_03_msg0006",
+      "style": 84,
+      "name": "I wish I'd had another way to say it\nwithout anger. I still have much to\nlearn myself."
+    }
+  ]
+}

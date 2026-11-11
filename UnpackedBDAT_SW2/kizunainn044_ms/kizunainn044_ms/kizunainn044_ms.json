@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "kizunainn044_msg0001",
+      "style": 84,
+      "name": "Saika, we're headin' out!"
+    },
+    {
+      "$id": 2,
+      "label": "kizunainn044_msg0002",
+      "style": 84,
+      "name": "Where are we goin'?"
+    },
+    {
+      "$id": 3,
+      "label": "kizunainn044_msg0003",
+      "style": 84,
+      "name": "Isn't it obvious? Genbu Port."
+    },
+    {
+      "$id": 4,
+      "label": "kizunainn044_msg0004",
+      "style": 84,
+      "name": "'Cause that place is fittin'\nfor Thunderclap Zeke."
+    }
+  ]
+}

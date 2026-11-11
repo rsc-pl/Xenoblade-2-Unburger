@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst005101_msg0001",
+      "style": 84,
+      "name": "That Akatsuki... He's just a Blade,\nbut he acts like a leader. I always\nthought he was annoying."
+    },
+    {
+      "$id": 2,
+      "label": "qst005101_msg0002",
+      "style": 84,
+      "name": "And now he sends the small fry\nhe let escape over to us!"
+    },
+    {
+      "$id": 3,
+      "label": "qst005101_msg0003",
+      "style": 84,
+      "name": "After I defeat you, he's next!"
+    }
+  ]
+}

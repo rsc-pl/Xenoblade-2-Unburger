@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst620405_msg0001",
+      "style": 84,
+      "name": "All right, this one is a winner. We\ncan Salvage here from now on."
+    },
+    {
+      "$id": 2,
+      "label": "qst620405_msg0002",
+      "style": 84,
+      "name": "Treasure is as easy to find here as at\nother Salvage Points... maybe even\neasier."
+    },
+    {
+      "$id": 3,
+      "label": "qst620405_msg0003",
+      "style": 84,
+      "name": "I have to thank Tora."
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst701901_msg0001",
+      "style": 84,
+      "name": "Oh, dear..."
+    },
+    {
+      "$id": 2,
+      "label": "qst701901_msg0002",
+      "style": 84,
+      "name": "What am I to do...?"
+    },
+    {
+      "$id": 3,
+      "label": "qst701901_msg0003",
+      "style": 84,
+      "name": "Is something wrong?"
+    },
+    {
+      "$id": 4,
+      "label": "qst701901_msg0004",
+      "style": 84,
+      "name": "Laura-sama? And Adel-sama...\nand Yuugo-sama..."
+    },
+    {
+      "$id": 5,
+      "label": "qst701901_msg0005",
+      "style": 84,
+      "name": "If it's not too much trouble, would\nyou mind listening to my story?"
+    },
+    {
+      "$id": 6,
+      "label": "qst701901_msg0006",
+      "style": 84,
+      "name": "Of course."
+    },
+    {
+      "$id": 7,
+      "label": "qst701901_msg0007",
+      "style": 84,
+      "name": "My daughter, Furia, is very ill."
+    },
+    {
+      "$id": 8,
+      "label": "qst701901_msg0008",
+      "style": 84,
+      "name": "Wotta-san offered us a place on his\nDivine Beast ship, but I fear she's\ntoo frail for a sea voyage."
+    },
+    {
+      "$id": 9,
+      "label": "qst701901_msg0009",
+      "style": 84,
+      "name": "She doesn't even have the strength\nto make it to the port..."
+    },
+    {
+      "$id": 10,
+      "label": "qst701901_msg0010",
+      "style": 84,
+      "name": "And Fred-san invited us to shelter\nin the basement of his inn, but..."
+    },
+    {
+      "$id": 11,
+      "label": "qst701901_msg0011",
+      "style": 84,
+      "name": "Crowded places and stale\nair are no good for her..."
+    },
+    {
+      "$id": 12,
+      "label": "qst701901_msg0012",
+      "style": 84,
+      "name": "So... I don't know how I'm\nsupposed to protect her..."
+    },
+    {
+      "$id": 13,
+      "label": "qst701901_msg0013",
+      "style": 84,
+      "name": "I see..."
+    },
+    {
+      "$id": 14,
+      "label": "qst701901_msg0014",
+      "style": 84,
+      "name": "I'd like to say, \"Don't worry, we'll\ndefinitely win!\" but..."
+    },
+    {
+      "$id": 15,
+      "label": "qst701901_msg0015",
+      "style": 84,
+      "name": "It's only natural for a parent to\nprepare for the worst."
+    },
+    {
+      "$id": 16,
+      "label": "qst701901_msg0016",
+      "style": 84,
+      "name": "Furia-chan! I finally made it!"
+    },
+    {
+      "$id": 17,
+      "label": "qst701901_msg0017",
+      "style": 84,
+      "name": "Made... what?"
+    },
+    {
+      "$id": 18,
+      "label": "qst701901_msg0018",
+      "style": 84,
+      "name": "Medicine! Medicine to make\nyour sickness go away!"
+    },
+    {
+      "$id": 19,
+      "label": "qst701901_msg0019",
+      "style": 84,
+      "name": "I worked really, really\nhard to make it!"
+    },
+    {
+      "$id": 20,
+      "label": "qst701901_msg0020",
+      "style": 84,
+      "name": "A special remedy made by collecting\n100 Dana Scalers and extracting\none drop of essence from each!"
+    },
+    {
+      "$id": 21,
+      "label": "qst701901_msg0021",
+      "style": 84,
+      "name": "A Dana Scaler?"
+    },
+    {
+      "$id": 22,
+      "label": "qst701901_msg0022",
+      "style": 84,
+      "name": "It's a rare insect from\nthe Dana Desert!"
+    },
+    {
+      "$id": 23,
+      "label": "qst701901_msg0023",
+      "style": 84,
+      "name": "I hate bugs!"
+    },
+    {
+      "$id": 24,
+      "label": "qst701901_msg0024",
+      "style": 84,
+      "name": "But if you drink Marco's\nmedicine, you can come and\nplay outside with us."
+    },
+    {
+      "$id": 25,
+      "label": "qst701901_msg0025",
+      "style": 84,
+      "name": "Please, just try a little bit!"
+    },
+    {
+      "$id": 26,
+      "label": "qst701901_msg0026",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 27,
+      "label": "qst701901_msg0027",
+      "style": 84,
+      "name": "Okay..."
+    },
+    {
+      "$id": 28,
+      "label": "qst701901_msg0028",
+      "style": 84,
+      "name": "*gulp*..."
+    },
+    {
+      "$id": 29,
+      "label": "qst701901_msg0029",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Blech!!"
+    },
+    {
+      "$id": 30,
+      "label": "qst701901_msg0030",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Whoa!"
+    },
+    {
+      "$id": 31,
+      "label": "qst701901_msg0031",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Whoa! Furia-chan spat it out!!"
+    },
+    {
+      "$id": 32,
+      "label": "qst701901_msg0032",
+      "style": 84,
+      "name": "[ML:Feeling kind=Anger ]Aww, was it that nasty?!"
+    },
+    {
+      "$id": 33,
+      "label": "qst701901_msg0033",
+      "style": 84,
+      "name": "..."
+    },
+    {
+      "$id": 34,
+      "label": "qst701901_msg0034",
+      "style": 84,
+      "name": "They're very good children. They're\nalways so concerned about Furia."
+    },
+    {
+      "$id": 35,
+      "label": "qst701901_msg0035",
+      "style": 84,
+      "name": "Isn't there anything we can do?"
+    },
+    {
+      "$id": 36,
+      "label": "qst701901_msg0036",
+      "style": 84,
+      "name": "...My diary says..."
+    },
+    {
+      "$id": 37,
+      "label": "qst701901_msg0037",
+      "style": 84,
+      "name": "It seems there's a panacea in Invidia\ncalled Dragon Incense."
+    },
+    {
+      "$id": 38,
+      "label": "qst701901_msg0038",
+      "style": 84,
+      "name": "Apparently, it once saved a queen from\nan incurable disease."
+    },
+    {
+      "$id": 39,
+      "label": "qst701901_msg0039",
+      "style": 84,
+      "name": "I have heard of it as well."
+    },
+    {
+      "$id": 40,
+      "label": "qst701901_msg0040",
+      "style": 84,
+      "name": "Why don't we pin our hopes on it?"
+    },
+    {
+      "$id": 41,
+      "label": "qst701901_msg0041",
+      "style": 84,
+      "name": "I believe that is our best option."
+    },
+    {
+      "$id": 42,
+      "label": "qst701901_msg0042",
+      "style": 84,
+      "name": "Everyone..."
+    },
+    {
+      "$id": 43,
+      "label": "qst701901_msg0043",
+      "style": 84,
+      "name": "However, isn't Invidia quite\na long way from here...?"
+    },
+    {
+      "$id": 44,
+      "label": "qst701901_msg0044",
+      "style": 84,
+      "name": "Indeed it is."
+    },
+    {
+      "$id": 45,
+      "label": "qst701901_msg0045",
+      "style": 84,
+      "name": "And we can't afford to leave\nMetsu unattended right now."
+    },
+    {
+      "$id": 46,
+      "label": "qst701901_msg0046",
+      "style": 84,
+      "name": "You're right..."
+    },
+    {
+      "$id": 47,
+      "label": "qst701901_msg0047",
+      "style": 84,
+      "name": "Luckily, we have people we can\ncount on."
+    },
+    {
+      "$id": 48,
+      "label": "qst701901_msg0048",
+      "style": 84,
+      "name": "Let's return to Aletta and\nconsult with Veronica."
+    },
+    {
+      "$id": 49,
+      "label": "qst701901_msg0049",
+      "style": 84,
+      "name": "An excellent idea, Adel-sama."
+    },
+    {
+      "$id": 50,
+      "label": "qst701901_msg0050",
+      "style": 84,
+      "name": "I'm sure there are plenty of people\nin the resistance who would help."
+    },
+    {
+      "$id": 51,
+      "label": "qst701901_msg0051",
+      "style": 84,
+      "name": "Then let's be on our way."
+    },
+    {
+      "$id": 52,
+      "label": "qst701901_msg0052",
+      "style": 84,
+      "name": "Marena-san, this might take a\nlittle while, but please don't\nworry. Just wait for us."
+    },
+    {
+      "$id": 53,
+      "label": "qst701901_msg0053",
+      "style": 84,
+      "name": "Yes...! Thank you so much!"
+    }
+  ]
+}

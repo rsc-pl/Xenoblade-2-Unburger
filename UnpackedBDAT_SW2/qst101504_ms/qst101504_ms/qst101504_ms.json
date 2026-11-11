@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101504_msg0001",
+      "style": 84,
+      "name": "See, you're safe now."
+    },
+    {
+      "$id": 2,
+      "label": "qst101504_msg0002",
+      "style": 84,
+      "name": "Do you know the way? I see.\nVery good."
+    },
+    {
+      "$id": 3,
+      "label": "qst101504_msg0003",
+      "style": 84,
+      "name": "I'll come with Umon-san\nlater, so wait for us."
+    },
+    {
+      "$id": 4,
+      "label": "qst101504_msg0004",
+      "style": 84,
+      "name": "Alright! Let's tell Umon-san\nthat the Divine Beast has come."
+    }
+  ]
+}

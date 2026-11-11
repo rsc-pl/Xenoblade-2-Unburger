@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst101104_msg001",
+      "style": 62,
+      "name": "Thank you talk (Temp)"
+    },
+    {
+      "$id": 2,
+      "label": "qst101104_msg0001",
+      "style": 84,
+      "name": "Wow! Thank you!"
+    },
+    {
+      "$id": 3,
+      "label": "qst101104_msg0002",
+      "style": 84,
+      "name": "One, two... Yep, that's perfect!"
+    },
+    {
+      "$id": 4,
+      "label": "qst101104_msg0003",
+      "style": 84,
+      "name": "My dad's waiting, so I'll head\nback to town right away."
+    },
+    {
+      "$id": 5,
+      "label": "qst101104_msg0004",
+      "style": 84,
+      "name": "Yeah! I wrapped a cloth\naround my ankle, so I\nthink I can walk somehow."
+    },
+    {
+      "$id": 6,
+      "label": "qst101104_msg0005",
+      "style": 84,
+      "name": "I think my dad will give you some\nkind of reward, so when you get back\nto town, please come to our house."
+    },
+    {
+      "$id": 7,
+      "label": "qst101104_msg0006",
+      "style": 84,
+      "name": "Well then..."
+    },
+    {
+      "$id": 8,
+      "label": "qst101104_msg0101",
+      "style": 84,
+      "name": "Ow... Oh! The Confusion Ivy person!"
+    },
+    {
+      "$id": 9,
+      "label": "qst101104_msg0102",
+      "style": 84,
+      "name": "Hmm... I pushed myself too hard\nwalking, so my ankle's swollen..."
+    },
+    {
+      "$id": 10,
+      "label": "qst101104_msg0201",
+      "style": 84,
+      "name": "Instead of me... I'm sorry."
+    },
+    {
+      "$id": 11,
+      "label": "qst101104_msg0202",
+      "style": 84,
+      "name": "I need to get stronger..."
+    },
+    {
+      "$id": 12,
+      "label": "qst101104_msg0301",
+      "style": 84,
+      "name": "You brought me Gulan\nWalnut! Thank you!"
+    },
+    {
+      "$id": 13,
+      "label": "qst101104_msg0302",
+      "style": 84,
+      "name": "The pain in my ankle finally\nwent away, and I can stand now."
+    }
+  ]
+}

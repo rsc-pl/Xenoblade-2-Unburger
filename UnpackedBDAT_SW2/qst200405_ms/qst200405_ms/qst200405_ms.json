@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200405_msg0001",
+      "style": 84,
+      "name": "A loan shark... Ah, you\nmust mean Ares-san."
+    },
+    {
+      "$id": 2,
+      "label": "qst200405_msg0002",
+      "style": 84,
+      "name": "That guy has been\nacting strange lately."
+    },
+    {
+      "$id": 3,
+      "label": "qst200405_msg0101",
+      "style": 84,
+      "name": "I saw him once."
+    },
+    {
+      "$id": 4,
+      "label": "qst200405_msg0003",
+      "style": 84,
+      "name": "Late at night, I saw\nAres-san coming out of\nthe Old City of Elgria..."
+    },
+    {
+      "$id": 5,
+      "label": "qst200405_msg0004",
+      "style": 84,
+      "name": "That was suspicious. He's\ndefinitely up to something."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000013_05_msg0001",
+      "style": 84,
+      "name": "Makumaku, was it? I don't\nrecognize that face, but\nthat's no ordinary person."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000013_05_msg0002",
+      "style": 84,
+      "name": "Because Chairman Morumo got\nspanked on the bottom like\na child!"
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000013_05_msg0003",
+      "style": 84,
+      "name": "I wonder what their relationship is. I\nwant to know, but I don't... I'm too\nafraid to ask."
+    }
+  ]
+}

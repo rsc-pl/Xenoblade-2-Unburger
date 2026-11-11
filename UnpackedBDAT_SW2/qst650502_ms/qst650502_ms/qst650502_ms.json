@@ -1,0 +1,582 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst650502_msg0001",
+      "style": 84,
+      "name": "Gah-!"
+    },
+    {
+      "$id": 2,
+      "label": "qst650502_msg0002",
+      "style": 84,
+      "name": "What is this place?!"
+    },
+    {
+      "$id": 3,
+      "label": "qst650502_msg0003",
+      "style": 84,
+      "name": "Are... Are you okay?!"
+    },
+    {
+      "$id": 4,
+      "label": "qst650502_msg0004",
+      "style": 84,
+      "name": "You're...not Bias...?"
+    },
+    {
+      "$id": 5,
+      "label": "qst650502_msg0005",
+      "style": 84,
+      "name": "I've said this several times\nnow, but what are these\n'Bias' you keep talking about?"
+    },
+    {
+      "$id": 6,
+      "label": "qst650502_msg0006",
+      "style": 84,
+      "name": "There are people from Gula,\nSuperbia, and Luxuria here,\nbut I've never heard of Bias."
+    },
+    {
+      "$id": 7,
+      "label": "qst650502_msg0007",
+      "style": 84,
+      "name": "Nor do I, I'm afraid. I do not\nrecall ever hearing of them."
+    },
+    {
+      "$id": 8,
+      "label": "qst650502_msg0008",
+      "style": 84,
+      "name": "Until just now, you all looked\nlike Bias... like my enemies..."
+    },
+    {
+      "$id": 9,
+      "label": "qst650502_msg0009",
+      "style": 84,
+      "name": "I thought this was battle simulation.\nYou're saying it's all real? Was this\nthat trader's plan all along...?"
+    },
+    {
+      "$id": 10,
+      "label": "qst650502_msg0010",
+      "style": 84,
+      "name": "Good catch, mo."
+    },
+    {
+      "$id": 11,
+      "label": "qst650502_msg0011",
+      "style": 84,
+      "name": "Whoa! He appeared!"
+    },
+    {
+      "$id": 12,
+      "label": "qst650502_msg0012",
+      "style": 84,
+      "name": "Don't react like you've run\ninto some named monster, mo!"
+    },
+    {
+      "$id": 13,
+      "label": "qst650502_msg0013",
+      "style": 84,
+      "name": "Nopon Great Sage-san... So you were\nthe one behind this after all."
+    },
+    {
+      "$id": 14,
+      "label": "qst650502_msg0014",
+      "style": 84,
+      "name": "Ahem, mo! There's not much the\nNopon Great Sage can't do, mo!"
+    },
+    {
+      "$id": 15,
+      "label": "qst650502_msg0015",
+      "style": 84,
+      "name": "That's a weird thing to boast about..."
+    },
+    {
+      "$id": 16,
+      "label": "qst650502_msg0016",
+      "style": 84,
+      "name": "I did wonder why a run-of-the-mill\ntrader was calling himself the\n\"Nopon Great Sage\"..."
+    },
+    {
+      "$id": 17,
+      "label": "qst650502_msg0017",
+      "style": 84,
+      "name": "What exactly did you do\nto that battle simulator?"
+    },
+    {
+      "$id": 18,
+      "label": "qst650502_msg0018",
+      "style": 84,
+      "name": "I just sent Elma's consciousness\nto this Land of Challenge, mo."
+    },
+    {
+      "$id": 19,
+      "label": "qst650502_msg0019",
+      "style": 84,
+      "name": "So the real me is still in NLA,\ninside the battle simulator?"
+    },
+    {
+      "$id": 20,
+      "label": "qst650502_msg0020",
+      "style": 84,
+      "name": "That's right, mo. Glad you're\nquick on the uptake, mo."
+    },
+    {
+      "$id": 21,
+      "label": "qst650502_msg0021",
+      "style": 84,
+      "name": "You say it's only my consciousness,\nbut it feels like I'm physically\nhere. What is this for...?"
+    },
+    {
+      "$id": 22,
+      "label": "qst650502_msg0022",
+      "style": 84,
+      "name": "Glad you asked, mo! It's all for\nthe Nopon Great Sage's ambition!\nIt's been his dream for years, mo!"
+    },
+    {
+      "$id": 23,
+      "label": "qst650502_msg0023",
+      "style": 84,
+      "name": "Dream? What dream?"
+    },
+    {
+      "$id": 24,
+      "label": "qst650502_msg0024",
+      "style": 84,
+      "name": "Maybe it's to let Elma\nand me meet you, Rex."
+    },
+    {
+      "$id": 25,
+      "label": "qst650502_msg0025",
+      "style": 84,
+      "name": "Just as Shulk says, mo! Shulk and Elma\ncoming here is everyone's dream, mo!"
+    },
+    {
+      "$id": 26,
+      "label": "qst650502_msg0026",
+      "style": 84,
+      "name": "Who exactly is 'everyone'...?"
+    },
+    {
+      "$id": 27,
+      "label": "qst650502_msg0027",
+      "style": 84,
+      "name": "Unbelievable. You went to all\nthis trouble just for that...?"
+    },
+    {
+      "$id": 28,
+      "label": "qst650502_msg0028",
+      "style": 84,
+      "name": "No. More importantly, I should\napologize to all of you first."
+    },
+    {
+      "$id": 29,
+      "label": "qst650502_msg0029",
+      "style": 84,
+      "name": "Even if I mistook you for enemies,\nI was still wrong to attack without\nwarning. I hope you can forgive me."
+    },
+    {
+      "$id": 30,
+      "label": "qst650502_msg0030",
+      "style": 84,
+      "name": "Relax, there's nothing to\noverlook! It was all just\na big misunderstanding."
+    },
+    {
+      "$id": 31,
+      "label": "qst650502_msg0031",
+      "style": 84,
+      "name": "My name's Rex. What's yours?"
+    },
+    {
+      "$id": 32,
+      "label": "qst650502_msg0032",
+      "style": 84,
+      "name": "I'm Elma. I'm a member of BLADE, a\nprivate military organization in NLA,\nthe human settlement on planet Mira."
+    },
+    {
+      "$id": 33,
+      "label": "qst650502_msg0033",
+      "style": 84,
+      "name": "Oh, you're a Blade..."
+    },
+    {
+      "$id": 34,
+      "label": "qst650502_msg0034",
+      "style": 84,
+      "name": "Oh, um, yes... You know about BLADEs?"
+    },
+    {
+      "$id": 35,
+      "label": "qst650502_msg0035",
+      "style": 84,
+      "name": "Know about them? We're all\nBlades and their Drivers."
+    },
+    {
+      "$id": 36,
+      "label": "qst650502_msg0036",
+      "style": 84,
+      "name": "Drivers?"
+    },
+    {
+      "$id": 37,
+      "label": "qst650502_msg0037",
+      "style": 84,
+      "name": "Hana is the only artificial Blade, mo!"
+    },
+    {
+      "$id": 38,
+      "label": "qst650502_msg0038",
+      "style": 84,
+      "name": "N-no, hold on, I'm getting confused..."
+    },
+    {
+      "$id": 39,
+      "label": "qst650502_msg0039",
+      "style": 84,
+      "name": "It seems 'Blade' means\nsomething completely different\nin Rex's world and Elma's."
+    },
+    {
+      "$id": 40,
+      "label": "qst650502_msg0040",
+      "style": 84,
+      "name": "That's what makes it interesting, mo!"
+    },
+    {
+      "$id": 41,
+      "label": "qst650502_msg0041",
+      "style": 84,
+      "name": "In our world, BLADE is the\nname of an organization."
+    },
+    {
+      "$id": 42,
+      "label": "qst650502_msg0042",
+      "style": 84,
+      "name": "And in yours, it's a...species?\nRace? Is that correct?"
+    },
+    {
+      "$id": 43,
+      "label": "qst650502_msg0043",
+      "style": 84,
+      "name": "Well, that's close, but not quite..."
+    },
+    {
+      "$id": 44,
+      "label": "qst650502_msg0044",
+      "style": 84,
+      "name": "A Blade is a variant life-form born\nwhen a person touches a Core Crystal."
+    },
+    {
+      "$id": 45,
+      "label": "qst650502_msg0045",
+      "style": 84,
+      "name": "A variant life-form... So\nthat's why Blades come in\nso many different forms."
+    },
+    {
+      "$id": 46,
+      "label": "qst650502_msg0046",
+      "style": 84,
+      "name": "But Elma-san, you're not surprised\nthat Gramps or Byakko can talk."
+    },
+    {
+      "$id": 47,
+      "label": "qst650502_msg0047",
+      "style": 84,
+      "name": "Right, well... Maybe I'm just\nused to it. Many different\nraces call Mira home..."
+    },
+    {
+      "$id": 48,
+      "label": "qst650502_msg0048",
+      "style": 84,
+      "name": "And we could all communicate without\ndifficulty... Some even thought it was\ndeliberate interference by someone."
+    },
+    {
+      "$id": 49,
+      "label": "qst650502_msg0049",
+      "style": 84,
+      "name": "Planet Mira... I've never heard\nof it, but your world seems very\ndifferent from ours, Elma-san."
+    },
+    {
+      "$id": 50,
+      "label": "qst650502_msg0050",
+      "style": 84,
+      "name": "The Bionis and Alst didn't feel\nall that different, though."
+    },
+    {
+      "$id": 51,
+      "label": "qst650502_msg0051",
+      "style": 84,
+      "name": "Yeah! I even wondered if you might've\ncome from a humanoid Divine Beast."
+    },
+    {
+      "$id": 52,
+      "label": "qst650502_msg0052",
+      "style": 84,
+      "name": "Hold on. There's something\nI want to check."
+    },
+    {
+      "$id": 53,
+      "label": "qst650502_msg0053",
+      "style": 84,
+      "name": "Wh-what is it, mo...?\nElma-onee-chan, do you have\nsome grudge against Tora, mo?"
+    },
+    {
+      "$id": 54,
+      "label": "qst650502_msg0054",
+      "style": 84,
+      "name": "Tora, why are you panicking like that?"
+    },
+    {
+      "$id": 55,
+      "label": "qst650502_msg0055",
+      "style": 84,
+      "name": "Tora doesn't owe anyone in another\nworld money, mo! Tora has no\nreason for you to glare at him, mo!"
+    },
+    {
+      "$id": 56,
+      "label": "qst650502_msg0056",
+      "style": 84,
+      "name": "That way of speaking... unmistakable.\nYou said you're Tora? The Nopon\nwho's friends with Tatsu...?"
+    },
+    {
+      "$id": 57,
+      "label": "qst650502_msg0057",
+      "style": 84,
+      "name": "Mo-mo-mo?!"
+    },
+    {
+      "$id": 58,
+      "label": "qst650502_msg0058",
+      "style": 84,
+      "name": "Tora doesn't know him, mo! Tora\nhas no friend named Tatsu, mo!"
+    },
+    {
+      "$id": 59,
+      "label": "qst650502_msg0059",
+      "style": 84,
+      "name": "I see... Now that you mention it,\nmaybe I've got the wrong Nopon."
+    },
+    {
+      "$id": 60,
+      "label": "qst650502_msg0060",
+      "style": 84,
+      "name": "The Tora I know was\nsmaller and cuter..."
+    },
+    {
+      "$id": 61,
+      "label": "qst650502_msg0061",
+      "style": 84,
+      "name": "Mo-mo... Tora is on the large\nside for a Nopon, but his\ncuteness is well established..."
+    },
+    {
+      "$id": 62,
+      "label": "qst650502_msg0062",
+      "style": 84,
+      "name": "Yes, yes, enough obsessing over\nthat. We'll never get anywhere."
+    },
+    {
+      "$id": 63,
+      "label": "qst650502_msg0063",
+      "style": 84,
+      "name": "You said 'Nopon people' just now. Is\nthat different from the Nopon race?"
+    },
+    {
+      "$id": 64,
+      "label": "qst650502_msg0064",
+      "style": 84,
+      "name": "The appearance and mannerisms are\nthe same. I can't really see any\nmajor differences on the whole..."
+    },
+    {
+      "$id": 65,
+      "label": "qst650502_msg0065",
+      "style": 84,
+      "name": "Even so, it may be evidence that\nour worlds are different... Though\nperhaps that's obvious by now."
+    },
+    {
+      "$id": 66,
+      "label": "qst650502_msg0066",
+      "style": 84,
+      "name": "Rex, Shulk... I'm convinced you're\nnot virtual beings in a simulator."
+    },
+    {
+      "$id": 67,
+      "label": "qst650502_msg0067",
+      "style": 84,
+      "name": "That's a relief. Then I'm sure\nwe can become friends, right?"
+    },
+    {
+      "$id": 68,
+      "label": "qst650502_msg0068",
+      "style": 84,
+      "name": "Right. We get along well with\nHomura and the others, after all."
+    },
+    {
+      "$id": 69,
+      "label": "qst650502_msg0069",
+      "style": 84,
+      "name": "Yes, I certainly get\nthat impression..."
+    },
+    {
+      "$id": 70,
+      "label": "qst650502_msg0070",
+      "style": 84,
+      "name": "Mo-mo-mo! This is the\nsight I wanted to see, mo!"
+    },
+    {
+      "$id": 71,
+      "label": "qst650502_msg0071",
+      "style": 84,
+      "name": "For an Archsage, he's sure got\nsome kiddy-like dreams, eh?"
+    },
+    {
+      "$id": 72,
+      "label": "qst650502_msg0072",
+      "style": 84,
+      "name": "You could say that again..."
+    },
+    {
+      "$id": 73,
+      "label": "qst650502_msg0073",
+      "style": 84,
+      "name": "Don't make fun of the\nNopon Great Sage's dream, mo!"
+    },
+    {
+      "$id": 74,
+      "label": "qst650502_msg0074",
+      "style": 84,
+      "name": "You can gain lots of\nexperience, and you might get\nsome incredible items too, mo!"
+    },
+    {
+      "$id": 75,
+      "label": "qst650502_msg0075",
+      "style": 84,
+      "name": "It's not a bad offer, but I have\nduties as a member of BLADE."
+    },
+    {
+      "$id": 76,
+      "label": "qst650502_msg0076",
+      "style": 84,
+      "name": "I can't afford to spend hours\non end stuck in a simulator."
+    },
+    {
+      "$id": 77,
+      "label": "qst650502_msg0077",
+      "style": 84,
+      "name": "Don't worry, mo! I've adjusted\nthe time settings properly, mo."
+    },
+    {
+      "$id": 78,
+      "label": "qst650502_msg0078",
+      "style": 84,
+      "name": "While one day passes here, only\n270 milliseconds pass on Mira, mo."
+    },
+    {
+      "$id": 79,
+      "label": "qst650502_msg0079",
+      "style": 84,
+      "name": "[ML:Feeling kind=Think ] 'Milliseconds'...? I've\nnever heard of that unit."
+    },
+    {
+      "$id": 80,
+      "label": "qst650502_msg0080",
+      "style": 84,
+      "name": "So even if a year passes here, only\nabout ten seconds pass over there?"
+    },
+    {
+      "$id": 81,
+      "label": "qst650502_msg0081",
+      "style": 84,
+      "name": "Exactly, mo! Wouldn't that make it\nperfect for retraining yourself, mo?"
+    },
+    {
+      "$id": 82,
+      "label": "qst650502_msg0082",
+      "style": 84,
+      "name": "Y-yes, certainly..."
+    },
+    {
+      "$id": 83,
+      "label": "qst650502_msg0083",
+      "style": 84,
+      "name": "What do you think, Rex, mo?\nWant to borrow Elma's power\nlike Shulk and Fiorung's, mo?"
+    },
+    {
+      "$id": 84,
+      "label": "qst650502_msg0084",
+      "style": 84,
+      "name": "Make Elma your ally"
+    },
+    {
+      "$id": 85,
+      "label": "qst650502_msg0085",
+      "style": 84,
+      "name": "Leave Elma be"
+    },
+    {
+      "$id": 86,
+      "label": "qst650502_msg0101",
+      "style": 84,
+      "name": "Of course! You can never\nhave too many allies!"
+    },
+    {
+      "$id": 87,
+      "label": "qst650502_msg0102",
+      "style": 84,
+      "name": "...Then it's decided. From now\non, I'll be at your command."
+    },
+    {
+      "$id": 88,
+      "label": "qst650502_msg0103",
+      "style": 84,
+      "name": "And I look forward to working\nwith everyone on Team Rex."
+    },
+    {
+      "$id": 89,
+      "label": "qst650502_msg0201",
+      "style": 84,
+      "name": "I mean, we still don't\nknow Elma very well yet..."
+    },
+    {
+      "$id": 90,
+      "label": "qst650502_msg0202",
+      "style": 84,
+      "name": "Then you can get to know me.\nThere's no better way to understand\neach other than fighting together."
+    },
+    {
+      "$id": 91,
+      "label": "qst650502_msg0203",
+      "style": 84,
+      "name": "I... I guess so?"
+    },
+    {
+      "$id": 92,
+      "label": "qst650502_msg0204",
+      "style": 84,
+      "name": "Then it's settled. From now on, I'm\nunder your command. I look forward to\nworking with you, leader of Team Rex."
+    },
+    {
+      "$id": 93,
+      "label": "qst650502_msg0205",
+      "style": 84,
+      "name": "And everyone else on the team."
+    },
+    {
+      "$id": 94,
+      "label": "qst650502_msg0206",
+      "style": 84,
+      "name": "What will you do?"
+    }
+  ]
+}

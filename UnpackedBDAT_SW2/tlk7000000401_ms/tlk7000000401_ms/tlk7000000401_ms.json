@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000004_01_msg0001",
+      "style": 84,
+      "name": "Heard Felt Village's been\nattacked. A similar thing\nhappened in Estham not so long ago."
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000004_01_msg0002",
+      "style": 84,
+      "name": "Thought that kind of trouble only\never happened abroad... World's\nmore dangerous these days."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000004_01_msg0003",
+      "style": 84,
+      "name": "But we should be safe here in\nthe capital, so long as the\nking's noble reign continues."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000004_01_msg0004",
+      "style": 84,
+      "name": "What we need isn't preparation against\nvillains. We must stay calm and keep\nour usual way of life."
+    }
+  ]
+}

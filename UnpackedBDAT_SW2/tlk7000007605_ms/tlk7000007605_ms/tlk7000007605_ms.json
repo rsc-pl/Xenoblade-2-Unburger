@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000076_05_msg0001",
+      "style": 84,
+      "name": "Hey... What are you going to do from\nhere?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000076_05_msg0002",
+      "style": 84,
+      "name": "My squad's been recalled. The\nsituation's looking very serious."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000076_05_msg0003",
+      "style": 84,
+      "name": "But I'm a person before I'm a soldier,\ntoo."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000076_05_msg0004",
+      "style": 84,
+      "name": "If others are in need, does it really\nmatter where they come from? Gulan,\nSuperbian... We're all people."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000076_05_msg0005",
+      "style": 84,
+      "name": "I'll stay until the last moment and do\neverything I can with rescue and\nevacuation if anything happens."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000076_05_msg0006",
+      "style": 84,
+      "name": "In return, I'm entrusting\nYuugo-sama—His Majesty, Emperor of\nSuperbia—to you."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst200828_msg0001",
+      "style": 84,
+      "name": "To make a splint, you'll need\nfive pieces of Healing Teak."
+    },
+    {
+      "$id": 2,
+      "label": "qst200828_msg0002",
+      "style": 84,
+      "name": "You should be able to find\nthem throughout Gula."
+    },
+    {
+      "$id": 3,
+      "label": "qst200828_msg0003",
+      "style": 84,
+      "name": "If you gather those, I can\nmake the best splint for you."
+    }
+  ]
+}

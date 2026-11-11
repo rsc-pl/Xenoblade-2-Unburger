@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst702203_msg0101",
+      "style": 84,
+      "name": "Alright, I'm putting the bait down."
+    },
+    {
+      "$id": 2,
+      "label": "qst702203_msg0201",
+      "style": 84,
+      "name": "I hope this thing notices."
+    },
+    {
+      "$id": 3,
+      "label": "qst702203_msg0301",
+      "style": 84,
+      "name": "This might be the first and last\ntime I feed such a huge beast."
+    },
+    {
+      "$id": 4,
+      "label": "qst702203_msg0402",
+      "style": 0,
+      "name": "Shin lead"
+    },
+    {
+      "$id": 5,
+      "label": "qst702203_msg0401",
+      "style": 84,
+      "name": "The bait is here... Come..."
+    },
+    {
+      "$id": 6,
+      "label": "qst702203_msg0502",
+      "style": 0,
+      "name": "Kasumi lead"
+    },
+    {
+      "$id": 7,
+      "label": "qst702203_msg0501",
+      "style": 84,
+      "name": "Here's your meal. Please eat slowly."
+    },
+    {
+      "$id": 8,
+      "label": "qst702203_msg0602",
+      "style": 0,
+      "name": "Hikari lead"
+    },
+    {
+      "$id": 9,
+      "label": "qst702203_msg0601",
+      "style": 84,
+      "name": "If I'm going to feed something, I\nwish it were a cuter creature."
+    },
+    {
+      "$id": 10,
+      "label": "qst702203_msg0701",
+      "style": 84,
+      "name": "Here, it's dinner time."
+    },
+    {
+      "$id": 11,
+      "label": "qst702203_msg0801",
+      "style": 84,
+      "name": "Your favorite is here,\ncome and get it."
+    },
+    {
+      "$id": 12,
+      "label": "qst702203_msg0901",
+      "style": 84,
+      "name": "A gift for you. You'll\naccept it, won't you?"
+    },
+    {
+      "$id": 13,
+      "label": "qst702203_msg1001",
+      "style": 84,
+      "name": "Let's go get it while we can."
+    }
+  ]
+}

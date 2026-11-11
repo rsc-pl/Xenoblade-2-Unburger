@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst201806_msg0001",
+      "style": 84,
+      "name": "What business do humans\nhave here?! Go away!"
+    },
+    {
+      "$id": 2,
+      "label": "qst201806_msg0002",
+      "style": 84,
+      "name": "Don't you dare mess up our village!"
+    },
+    {
+      "$id": 3,
+      "label": "qst201806_msg0003",
+      "style": 84,
+      "name": "Thanks for the delicious Cobalt Eels."
+    },
+    {
+      "$id": 4,
+      "label": "qst201806_msg0004",
+      "style": 84,
+      "name": "Pepe said he was going to Temperantia."
+    }
+  ]
+}

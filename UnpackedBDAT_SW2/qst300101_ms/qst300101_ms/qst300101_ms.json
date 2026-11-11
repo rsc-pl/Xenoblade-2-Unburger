@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst300101_msg001",
+      "style": 84,
+      "name": "You're here. I have something\nI'd like to discuss."
+    },
+    {
+      "$id": 2,
+      "label": "qst300101_msg002",
+      "style": 84,
+      "name": "Requests to the Merc Group have\nbeen increasing lately, so I'm\nthinking of expanding a little."
+    },
+    {
+      "$id": 3,
+      "label": "qst300101_msg003",
+      "style": 84,
+      "name": "But to grow bigger, we're\nshort on supplies."
+    },
+    {
+      "$id": 4,
+      "label": "qst300101_msg004",
+      "style": 84,
+      "name": "For expeditions, we need rations,\nmedicine, weapon maintenance\ntools, and camping equipment[ML:Dash ]"
+    },
+    {
+      "$id": 5,
+      "label": "qst300101_msg005",
+      "style": 84,
+      "name": "The list is endless[ML:Dash ] Anyway, we\nneed a lot of things, so I'd like\nyou to help us gather them."
+    },
+    {
+      "$id": 6,
+      "label": "qst300101_msg006",
+      "style": 84,
+      "name": "If we have more supplies, we can\nassign missions to the members\nwho are currently on standby."
+    },
+    {
+      "$id": 7,
+      "label": "qst300101_msg007",
+      "style": 84,
+      "name": "I'd like you to ask Zuo for the\ndetails. He should be waiting\nin front of the warehouse."
+    },
+    {
+      "$id": 8,
+      "label": "qst300101_msg101",
+      "style": 84,
+      "name": "Ask Zuo in front of the warehouse\nwhat we need you to gather."
+    },
+    {
+      "$id": 9,
+      "label": "qst300101_msg202",
+      "style": 84,
+      "name": "Good work!"
+    },
+    {
+      "$id": 10,
+      "label": "qst300101_msg203",
+      "style": 84,
+      "name": "I heard you were a great help!"
+    },
+    {
+      "$id": 11,
+      "label": "qst300101_msg204",
+      "style": 84,
+      "name": "You did well against that\nlarge group. You really\nhelped us out. Thank you!"
+    },
+    {
+      "$id": 12,
+      "label": "qst300101_msg205",
+      "style": 84,
+      "name": "Gathering that many rations\nmust have been tough, right?\nEveryone was delighted!"
+    },
+    {
+      "$id": 13,
+      "label": "qst300101_msg206",
+      "style": 84,
+      "name": "[ML:Dash ]Now that we're running the\nMerc Group on our own, I've\nfinally realized something."
+    },
+    {
+      "$id": 14,
+      "label": "qst300101_msg207",
+      "style": 84,
+      "name": "We were completely\nreliant on Vandham-san[ML:Dash ]"
+    },
+    {
+      "$id": 15,
+      "label": "qst300101_msg208",
+      "style": 84,
+      "name": "We need to grow more."
+    },
+    {
+      "$id": 16,
+      "label": "qst300101_msg209",
+      "style": 84,
+      "name": "Oh, sorry. This conversation\nhas gotten a bit gloomy[ML:Dash ]"
+    },
+    {
+      "$id": 17,
+      "label": "qst300101_msg210",
+      "style": 84,
+      "name": "Anyway, with this, the Hræsvelgr\nMerc Group will grow even bigger."
+    },
+    {
+      "$id": 18,
+      "label": "qst300101_msg211",
+      "style": 84,
+      "name": "We'll keep up this pace so\nthat Vandham-san can rest\neasy. We'll do our best!"
+    },
+    {
+      "$id": 19,
+      "label": "qst300101_msg212",
+      "style": 84,
+      "name": "If anything else comes up, I'd\nlike to ask for your help again.\nWe're counting on you!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk45310341_02_msg0001",
+      "style": 84,
+      "name": "The Hræsvelgr Mercenaries take\non jobs anywhere in Alst."
+    },
+    {
+      "$id": 2,
+      "label": "tlk45310341_02_msg0002",
+      "style": 84,
+      "name": "My younger sister and I became\nmercenaries because Vandham-san\nsaved us during a mission."
+    },
+    {
+      "$id": 3,
+      "label": "tlk45310341_02_msg0003",
+      "style": 84,
+      "name": "I still haven't come close to\npaying him back for that..."
+    },
+    {
+      "$id": 4,
+      "label": "tlk45310341_02_msg0004",
+      "style": 84,
+      "name": "Never dreamed he'd be gone\nbefore I got the chance."
+    },
+    {
+      "$id": 5,
+      "label": "tlk45310341_02_msg0005",
+      "style": 84,
+      "name": "Zuo-san and Yuu-san are working hard,\nbut I wonder what'll happen to us\nfrom here..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk006301_07_msg0001",
+      "style": 84,
+      "name": "King Seelig believed in\nthe Driver of Heaven's Holy\nGrail and in Your Highness."
+    },
+    {
+      "$id": 2,
+      "label": "tlk006301_07_msg0002",
+      "style": 84,
+      "name": "He believed that you would surely\nrecover Heaven's Holy Grail."
+    },
+    {
+      "$id": 3,
+      "label": "tlk006301_07_msg0003",
+      "style": 84,
+      "name": "I'm glad it all came to pass safely."
+    }
+  ]
+}

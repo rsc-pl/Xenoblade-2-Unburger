@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk47100062_02_msg0001",
+      "style": 84,
+      "name": "I vowed to spend my life with Momo.\nMomo beat me to confessing, though."
+    },
+    {
+      "$id": 2,
+      "label": "tlk47100062_02_msg0002",
+      "style": 84,
+      "name": "I suggested holding the ceremony\nwherever Momo liked,\nand she chose Iyasaki Village."
+    },
+    {
+      "$id": 3,
+      "label": "tlk47100062_02_msg0003",
+      "style": 84,
+      "name": "For me, it's perfect.\nThere's nowhere more peaceful."
+    },
+    {
+      "$id": 4,
+      "label": "tlk47100062_02_msg0004",
+      "style": 84,
+      "name": "How fortunate I am,\nnow that I can spend\nmy life with Momo."
+    }
+  ]
+}

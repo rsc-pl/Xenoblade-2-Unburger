@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk00230105_msg0001",
+      "style": 84,
+      "name": "Oh, it's you lot. Welcome.\n...*cough! cough!*"
+    },
+    {
+      "$id": 2,
+      "label": "tlk00230105_msg0002",
+      "style": 84,
+      "name": "Phew... It's been hard just\nto stay awake these days."
+    },
+    {
+      "$id": 3,
+      "label": "tlk00230105_msg0003",
+      "style": 84,
+      "name": "I'm not sure I'll be able to finish\nthe story I'm writing..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43100246_02_msg0001",
+      "style": 84,
+      "name": "Thanks for the Nopon Chess Set!"
+    },
+    {
+      "$id": 2,
+      "label": "tlk43100246_02_msg0002",
+      "style": 84,
+      "name": "Whenever I'm home, I always play it\nwith my partner."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43100246_02_msg0003",
+      "style": 84,
+      "name": "It's sturdy enough that I think we can\nstill play it when we're grown up."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43100246_02_msg0004",
+      "style": 84,
+      "name": "My partner is smarter\nand stronger, so I need\nto work out a strategy."
+    },
+    {
+      "$id": 5,
+      "label": "tlk43100246_02_msg0005",
+      "style": 84,
+      "name": "If I can't keep the games close, I\nwon't be much of a partner."
+    }
+  ]
+}

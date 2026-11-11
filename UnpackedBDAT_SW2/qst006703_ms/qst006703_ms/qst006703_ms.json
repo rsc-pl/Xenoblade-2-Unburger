@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst006703_msg0001",
+      "style": 84,
+      "name": "Thank you, Onee-chan and everyone!"
+    },
+    {
+      "$id": 2,
+      "label": "qst006703_msg0002",
+      "style": 84,
+      "name": "I thought I'd never see Jeline again,\nso it was a very moving reunion."
+    },
+    {
+      "$id": 3,
+      "label": "qst006703_msg0003",
+      "style": 84,
+      "name": "Our love has deepened even more!"
+    },
+    {
+      "$id": 4,
+      "label": "qst006703_msg0101",
+      "style": 84,
+      "name": "The Kujinraman Cookie\nwas so delicious!"
+    },
+    {
+      "$id": 5,
+      "label": "qst006703_msg0102",
+      "style": 84,
+      "name": "Next time, I want to make some and\ngive them to Jeline as a present."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst102114_msg001",
+      "style": 84,
+      "name": "We received orders from\nDelfina-san to restrict passage."
+    },
+    {
+      "$id": 2,
+      "label": "qst102114_msg002",
+      "style": 84,
+      "name": "I hope this doesn't turn\ninto something bad..."
+    }
+  ]
+}

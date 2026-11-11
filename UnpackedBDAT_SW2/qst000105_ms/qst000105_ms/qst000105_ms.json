@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qst000105_msg001",
+      "style": 84,
+      "name": "[ML:Dash ]Phew. Looks like the Toronto\nCribes have given up."
+    },
+    {
+      "$id": 2,
+      "label": "qst000105_msg002",
+      "style": 84,
+      "name": "Let's go report back to Isolde-san."
+    },
+    {
+      "$id": 3,
+      "label": "qst000105_msg003",
+      "style": 84,
+      "name": "[ML:Dash ]Phew. The Toronto Cribes\nprobably won't be back now."
+    },
+    {
+      "$id": 4,
+      "label": "qst000105_msg004",
+      "style": 84,
+      "name": "[ML:Dash ]Let's go back and\nreport to Isolde-san."
+    },
+    {
+      "$id": 5,
+      "label": "qst000105_msg005",
+      "style": 84,
+      "name": "[ML:Dash ]Phew~ Finally a break, mo.\nThose were some persistent\nToronto Cribes, mo."
+    },
+    {
+      "$id": 6,
+      "label": "qst000105_msg006",
+      "style": 84,
+      "name": "[ML:Dash ]Time to go back and report\nto Isolde-san, mo!"
+    },
+    {
+      "$id": 7,
+      "label": "qst000105_msg007",
+      "style": 84,
+      "name": "[ML:Dash ]Was that the last of them?\nThe Toronto Cribes have been\nrepelled. Mission complete."
+    },
+    {
+      "$id": 8,
+      "label": "qst000105_msg008",
+      "style": 84,
+      "name": "[ML:Dash ]Shall we return and\nreport to Isolde-san?"
+    },
+    {
+      "$id": 9,
+      "label": "qst000105_msg009",
+      "style": 84,
+      "name": "Alriiiight! It seems the tenacity\nof Thunderclap Zeke has triumphed\nover that of the Toronto Cribes!"
+    },
+    {
+      "$id": 10,
+      "label": "qst000105_msg010",
+      "style": 84,
+      "name": "[ML:Dash ]Let's report to Isolde-san,\nand make it snappy!"
+    }
+  ]
+}

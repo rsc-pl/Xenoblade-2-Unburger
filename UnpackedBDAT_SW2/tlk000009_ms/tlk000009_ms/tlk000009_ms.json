@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk000009_msg0001",
+      "style": 84,
+      "name": "Welcome to Jakolo's Inn."
+    },
+    {
+      "$id": 2,
+      "label": "tlk000009_msg0002",
+      "style": 84,
+      "name": "You must be Tora-sama's party?"
+    },
+    {
+      "$id": 3,
+      "label": "tlk000009_msg0003",
+      "style": 84,
+      "name": "Muimui-sama has informed\nme of your arrival."
+    },
+    {
+      "$id": 4,
+      "label": "tlk000009_msg0004",
+      "style": 84,
+      "name": "We have prepared a special\nrate for your stay today."
+    },
+    {
+      "$id": 5,
+      "label": "tlk000009_msg0005",
+      "style": 165,
+      "name": "Stay at the inn for 100G?"
+    },
+    {
+      "$id": 6,
+      "label": "tlk000009_msg0006",
+      "style": 84,
+      "name": "Please relax and enjoy our\npride-and-joy open-air bath."
+    },
+    {
+      "$id": 7,
+      "label": "tlk000009_msg0007",
+      "style": 84,
+      "name": "You still wish to look around the\nImperial Capital of Alba Margen?"
+    },
+    {
+      "$id": 8,
+      "label": "tlk000009_msg0008",
+      "style": 84,
+      "name": "Please come by when you wish\nto rest. We will be waiting."
+    },
+    {
+      "$id": 9,
+      "label": "tlk000009_msg0009",
+      "style": 84,
+      "name": "Stay"
+    },
+    {
+      "$id": 10,
+      "label": "tlk000009_msg0010",
+      "style": 84,
+      "name": "Don't stay"
+    }
+  ]
+}

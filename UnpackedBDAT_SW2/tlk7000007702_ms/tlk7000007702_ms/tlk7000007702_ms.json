@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk70000077_02_msg0001",
+      "style": 84,
+      "name": "What do you think about relations\nbetween Iira and Gula?"
+    },
+    {
+      "$id": 2,
+      "label": "tlk70000077_02_msg0002",
+      "style": 84,
+      "name": "Iira has advanced mechanical\ntechnology, but its poor soil means it\ncan't grow many crops."
+    },
+    {
+      "$id": 3,
+      "label": "tlk70000077_02_msg0003",
+      "style": 84,
+      "name": "And Gula can farm plenty from their\nhuge swaths of fertile land, but their\ntechnology is one step behind."
+    },
+    {
+      "$id": 4,
+      "label": "tlk70000077_02_msg0004",
+      "style": 84,
+      "name": "And we in Superbia want to build\nfriendly relations with both\ncountries."
+    },
+    {
+      "$id": 5,
+      "label": "tlk70000077_02_msg0005",
+      "style": 84,
+      "name": "If Superbia can bridge the two, I\nthink all three countries can build a\ngood relationship."
+    },
+    {
+      "$id": 6,
+      "label": "tlk70000077_02_msg0006",
+      "style": 84,
+      "name": "But when it comes to cooking, I guess\nthere'll be some hurdles that are\nimpossible to overcome. Hahaha!"
+    }
+  ]
+}

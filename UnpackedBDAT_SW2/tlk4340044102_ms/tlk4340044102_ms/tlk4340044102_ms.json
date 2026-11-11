@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk43400441_02_msg0001",
+      "style": 84,
+      "name": "I see... So my father, he..."
+    },
+    {
+      "$id": 2,
+      "label": "tlk43400441_02_msg0002",
+      "style": 84,
+      "name": "Now that I've married an Invidian,\nI can't easily return to Gula..."
+    },
+    {
+      "$id": 3,
+      "label": "tlk43400441_02_msg0003",
+      "style": 84,
+      "name": "But I want to find a way to visit\nthat house soon."
+    },
+    {
+      "$id": 4,
+      "label": "tlk43400441_02_msg0004",
+      "style": 84,
+      "name": "He must have entrusted those\ngolden bracers to you because\nhe knew he hadn't long left."
+    }
+  ]
+}

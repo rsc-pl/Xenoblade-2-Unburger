@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 7
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tlk42350124_02_msg0001",
+      "style": 84,
+      "name": "There's no Phonex named Pepe\nwho has come to this town."
+    },
+    {
+      "$id": 2,
+      "label": "tlk42350124_02_msg0002",
+      "style": 84,
+      "name": "When you're at my level, you\nget information just by\nsunbathing leisurely here."
+    },
+    {
+      "$id": 3,
+      "label": "tlk42350124_02_msg0003",
+      "style": 84,
+      "name": "Try looking in Invidia."
+    },
+    {
+      "$id": 4,
+      "label": "tlk42350124_02_msg0004",
+      "style": 84,
+      "name": "You owe me one."
+    }
+  ]
+}
