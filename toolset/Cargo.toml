@@ -1,6 +1,6 @@
 [package]
 name = "xenoblade-bdat-studio"
-version = "0.1.2"
+version = "0.3.2"
 edition = "2021"
 description = "Cross-platform BDAT GUI powered by bdat-toolset"
 
@@ -12,6 +12,8 @@ toml = "0.8"
 dirs = "6"
 tempfile = "3"
 chrono = { version = "0.4", features = ["clock"] }
+serde_json = { version = "1", features = ["preserve_order", "arbitrary_precision"] }
+regex = "1"
 
 [profile.release]
 opt-level = 2

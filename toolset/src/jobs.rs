@@ -15,15 +15,30 @@ pub enum Kind { Pack, Extract }
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum Scope { Batch, Single }
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
-pub enum Layout { Auto, Standard, Xenoblade3 }
+pub enum Layout { Standard, Xenoblade3, XenobladeXCommonParent }
 
 impl Layout {
-    pub fn from_label(label: &str) -> Self {
-        match label {
-            "Standard" => Self::Standard,
-            "Xenoblade 3" => Self::Xenoblade3,
-            _ => Self::Auto,
+    pub fn for_game(game: config::Game, xcx_common_parent: bool) -> Self {
+        match game {
+            config::Game::Xenoblade3 => Self::Xenoblade3,
+            config::Game::XenobladeX if xcx_common_parent => Self::XenobladeXCommonParent,
+            config::Game::Xenoblade1 | config::Game::Xenoblade2 | config::Game::XenobladeX => Self::Standard,
         }
+    }
+}
+
+#[cfg(test)]
+#[test]
+fn game_profiles_choose_the_expected_layout() {
+    for game in config::Game::ALL {
+        let expected = if game == config::Game::Xenoblade3 {
+            Layout::Xenoblade3
+        } else {
+            Layout::Standard
+        };
+        assert_eq!(Layout::for_game(game, false), expected);
+        let enabled = if game == config::Game::XenobladeX { Layout::XenobladeXCommonParent } else { expected };
+        assert_eq!(Layout::for_game(game, true), enabled);
     }
 }
 
@@ -88,7 +103,7 @@ pub fn plan(req: &Request) -> Result<Plan, String> {
         }
         (Kind::Pack, Scope::Batch) => {
             if !req.source.is_dir() { return Err("Batch packing needs a source directory".into()); }
-            let xc3 = use_xc3(req.layout, &req.source);
+            let xc3 = req.layout == Layout::Xenoblade3;
             if xc3 {
                 for group in ["game", "evt"] {
                     let group_dir = req.source.join(group);
@@ -121,7 +136,7 @@ pub fn plan(req: &Request) -> Result<Plan, String> {
         }
         (Kind::Extract, Scope::Batch) => {
             if !req.source.is_dir() { return Err("Batch extraction needs a BDAT directory".into()); }
-            let xc3 = use_xc3(req.layout, &req.source);
+            let xc3 = req.layout == Layout::Xenoblade3;
             if xc3 {
                 // Deliberately flatten working folders for each group, unlike game runtime paths.
                 for group in ["game", "evt"] {
@@ -146,6 +161,21 @@ pub fn plan(req: &Request) -> Result<Plan, String> {
         }
     }
     if items.is_empty() { return Err("No suitable files or directories found".into()); }
+    if req.kind == Kind::Pack && req.layout == Layout::XenobladeXCommonParent {
+        for item in &mut items {
+            if item.output_name.eq_ignore_ascii_case("common.bdat") {
+                // Plan the actual target before conversion so staging, validation
+                // and rollback all operate on the same final filesystem.
+                let parent = item.destination.parent().and_then(Path::parent)
+                    .ok_or("Cannot place common.bdat one folder higher: destination has no parent directory")?;
+                let target = parent.join(&item.output_name);
+                if fs::symlink_metadata(&item.destination).is_ok() {
+                    notes.push("An existing common.bdat in the original destination was left untouched; remove it manually if obsolete.".into());
+                }
+                item.destination = target;
+            }
+        }
+    }
     items.sort_by(|a, b| a.destination.cmp(&b.destination));
     // Colliding stems would silently overwrite the same output if not rejected.
     for pair in items.windows(2) {
@@ -154,14 +184,6 @@ pub fn plan(req: &Request) -> Result<Plan, String> {
         }
     }
     Ok(Plan { kind: req.kind, items, notes })
-}
-
-fn use_xc3(layout: Layout, base: &Path) -> bool {
-    match layout {
-        Layout::Xenoblade3 => true,
-        Layout::Standard => false,
-        Layout::Auto => base.join("game").is_dir() || base.join("evt").is_dir(),
-    }
 }
 
 fn stem_of(path: &Path) -> Result<String, String> {
@@ -294,7 +316,14 @@ fn run(req: Request, plan: Plan, sender: mpsc::Sender<Event>, cancel: Arc<Atomic
         }
         send_log(&sender, &log, format!("START: {}", item.output_name));
         match run_item(&req, &plan, item, &sender, &log) {
-            Ok(()) => { succeeded += 1; send_log(&sender, &log, format!("OK: {}", item.output_name)); }
+            Ok(()) => {
+                succeeded += 1;
+                send_log(&sender, &log, format!("OK: {}", item.output_name));
+                if req.kind == Kind::Pack && req.layout == Layout::XenobladeXCommonParent
+                    && item.output_name.eq_ignore_ascii_case("common.bdat") {
+                    send_log(&sender, &log, "OUTPUT: common.bdat placed one folder above the selected output directory".into());
+                }
+            }
             Err(problem) => {
                 failed += 1;
                 let clean_problem = LogRedactor::new(&req, item, None).clean(&problem);
@@ -469,6 +498,110 @@ fn commit_result(from: &Path, to: &Path) -> Result<(), String> {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn xcx_common_parent_routes_only_common_for_both_platforms() {
+        let tmp = tempfile::tempdir().unwrap();
+        let source = tmp.path().join("input");
+        for name in ["common", "messages", "common_ms"] {
+            fs::create_dir_all(source.join(name)).unwrap();
+        }
+        for version in ["sw1", "sw2"] {
+            let destination = tmp.path().join(version).join("jp");
+            let mut req = Request {
+                kind: Kind::Pack, scope: Scope::Batch,
+                layout: Layout::for_game(config::Game::XenobladeX, true),
+                source: source.clone(), destination: destination.clone(),
+                toolset: std::env::current_exe().unwrap(),
+            };
+            let result = plan(&req).unwrap();
+            for item in result.items {
+                let expected = if item.output_name == "common.bdat" {
+                    destination.parent().unwrap().join("common.bdat")
+                } else { destination.join(&item.output_name) };
+                assert_eq!(item.destination, expected);
+            }
+            req.layout = Layout::for_game(config::Game::XenobladeX, false);
+            assert!(plan(&req).unwrap().items.iter().all(|item| item.destination.parent() == Some(destination.as_path())));
+            req.layout = Layout::for_game(config::Game::Xenoblade2, true);
+            assert!(plan(&req).unwrap().items.iter().all(|item| item.destination.parent() == Some(destination.as_path())));
+        }
+    }
+
+    #[test]
+    fn xcx_single_common_and_existing_original_are_handled_without_deletion() {
+        let tmp = tempfile::tempdir().unwrap();
+        let source = tmp.path().join("common");
+        let destination = tmp.path().join("out/jp/common.bdat");
+        fs::create_dir_all(&source).unwrap();
+        fs::create_dir_all(destination.parent().unwrap()).unwrap();
+        fs::write(&destination, b"existing").unwrap();
+        let req = Request {
+            kind: Kind::Pack, scope: Scope::Single,
+            layout: Layout::XenobladeXCommonParent,
+            source, destination: destination.clone(), toolset: std::env::current_exe().unwrap(),
+        };
+        let planned = plan(&req).unwrap();
+        assert_eq!(planned.items[0].destination, tmp.path().join("out/common.bdat"));
+        assert_eq!(planned.notes.len(), 1);
+        assert_eq!(fs::read(&destination).unwrap(), b"existing");
+    }
+
+    #[test]
+    fn xcx_extract_does_not_apply_pack_routing() {
+        let tmp = tempfile::tempdir().unwrap();
+        let input = tmp.path().join("common.bdat");
+        fs::write(&input, b"fixture").unwrap();
+        let destination = tmp.path().join("out/jp");
+        let req = Request {
+            kind: Kind::Extract, scope: Scope::Single,
+            layout: Layout::XenobladeXCommonParent,
+            source: input, destination: destination.clone(), toolset: std::env::current_exe().unwrap(),
+        };
+        assert_eq!(plan(&req).unwrap().items[0].destination, destination.join("common"));
+    }
+
+    #[test]
+    fn xcx_refuses_common_routing_above_filesystem_root() {
+        let tmp = tempfile::tempdir().unwrap();
+        let source = tmp.path().join("common");
+        fs::create_dir_all(&source).unwrap();
+        let root = tmp.path().ancestors().last().unwrap().to_path_buf();
+        let req = Request {
+            kind: Kind::Pack, scope: Scope::Single,
+            layout: Layout::XenobladeXCommonParent,
+            source, destination: root.join("common.bdat"), toolset: std::env::current_exe().unwrap(),
+        };
+        assert!(plan(&req).unwrap_err().contains("destination has no parent directory"));
+    }
+
+    #[cfg(unix)]
+    #[test]
+    fn xcx_mock_pack_commits_common_to_parent_and_keeps_previous_on_failure() {
+        let tmp = tempfile::tempdir().unwrap();
+        let source = tmp.path().join("common");
+        let destination = tmp.path().join("out/jp/common.bdat");
+        let target = tmp.path().join("out/common.bdat");
+        fs::create_dir_all(&source).unwrap();
+        fs::create_dir_all(destination.parent().unwrap()).unwrap();
+        fs::write(&target, b"previous").unwrap();
+        let mut req = Request {
+            kind: Kind::Pack, scope: Scope::Single,
+            layout: Layout::XenobladeXCommonParent,
+            source, destination: destination.clone(),
+            toolset: make_mock_backend("#!/bin/sh\nprintf BDAT > \"$4/common.bdat\"\nexit 9\n", tmp.path()),
+        };
+        let planned = plan(&req).unwrap();
+        let (sender, _receiver) = mpsc::channel();
+        let log = Arc::new(Mutex::new(File::create(tmp.path().join("test.log")).unwrap()));
+        assert!(run_item(&req, &planned, &planned.items[0], &sender, &log).is_err());
+        assert_eq!(fs::read(&target).unwrap(), b"previous");
+        assert!(!destination.exists());
+        req.toolset = make_mock_backend("#!/bin/sh\nprintf BDAT > \"$4/common.bdat\"\nexit 0\n", tmp.path());
+        assert!(run_item(&req, &planned, &planned.items[0], &sender, &log).is_ok());
+        assert_eq!(fs::read(&target).unwrap(), b"BDAT");
+        assert!(!destination.exists());
+    }
     #[test]
     fn xc3_exceptions_match_python_effective_values() {
         assert_eq!(evt_destination("msg_ev10010100.bdat"), Some("ev01"));
